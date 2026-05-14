@@ -1,0 +1,200 @@
+[
+  {
+    "id": "prosus-delivery-hero-aspex", "theme": "merger", "catLabel": "Merger & FDI",
+    "country": "EU", "countryLabel": "EU European Union",
+    "risk": "high", "rule": "Rule 15",
+    "date": "2026-05-11", "dateLabel": "11 May 2026",
+    "source": "Prosus", "url": "https://www.prosus.com/news-insights/2026/prosus-sells-5-percent-interest-in-delivery-hero-to-aspex-management",
+    "title": "Prosus sells 5% Delivery Hero stake to Aspex Management for €335M — 22% premium",
+    "body": "Prosus announced the sale of 15.19 million Delivery Hero ordinary shares to Aspex Management at €22.00 per share, for gross proceeds of approximately €335 million (~22% premium to the prior 1-month VWAP). Follows the €270M 4.5% Uber sale on 17 April. Both transactions are part of the divestment commitments Prosus made to secure DG COMP clearance of the JET acquisition in August 2025.",
+    "why": "Direct Rule 15 (Delivery Hero divestment monitoring) trigger — live ongoing remedy compliance. Sets the cadence and discount profile for the remaining Delivery Hero unwind. Trustee reporting and DG COMP monitoring cycle accelerate.",
+    "co": "Delivery Hero · JET", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "cma-suzano-kimberly", "theme": "merger", "catLabel": "Merger & FDI",
+    "country": "UK", "countryLabel": "UK United Kingdom",
+    "risk": "med",
+    "date": "2026-05-13", "dateLabel": "Phase 1 deadline 28 May 2026",
+    "source": "CMA", "url": "https://www.sahmcapital.com/news/content/brief-uks-cma-starts-merger-investigation-suzanokimberly-clark-jv-2026-03-27",
+    "title": "CMA Suzano/Kimberly-Clark JV — Phase 1 decision due 28 May 2026",
+    "body": "CMA's merger investigation into the Suzano / Kimberly-Clark joint venture remains on the Phase 1 clock with a 28 May 2026 deadline. CMA operating under significantly reformed merger control framework — applying merger control 'in a highly targeted way' and seeking to step back from global mergers when possible.",
+    "why": "Not directly Prosus-touching, but a key data-point on CMA's reformed merger philosophy. Affects expected enforcement intensity on the Prosus-adjacent classifieds and fintech M&A pipeline if and when active.",
+    "co": "OLX UK · PayU UK", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "apple-patchflyer-m02", "theme": "merger", "catLabel": "Merger & FDI",
+    "country": "US", "countryLabel": "US United States",
+    "risk": "low",
+    "date": "2026-05-13", "dateLabel": "13 May 2026",
+    "source": "MLex", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097",
+    "title": "Apple acquires Patchflyer — AI vulnerability management",
+    "body": "Apple acquired Patchflyer, an AI vulnerability-management vendor. Part of a broader pattern of hyperscaler vertical integration of security tooling. Most likely below US HSR threshold; no Article 22 referral signal so far.",
+    "why": "Watch-item for vertical-integration trend in AI infrastructure. Cross-monitor read to M01 (vendor stack changes for security tooling).",
+    "co": "Group Tech", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "zillow-compass-antitrust", "theme": "merger", "catLabel": "Antitrust",
+    "country": "US", "countryLabel": "US United States",
+    "risk": "med", "rule": "Rule 17",
+    "date": "2026-05-13", "dateLabel": "13 May 2026",
+    "source": "MLex", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097",
+    "title": "Zillow files US antitrust claims against Compass over Chicago listings",
+    "body": "Zillow filed US antitrust claims against Compass and a data company over alleged listings-data restrictions in the Chicago market. Triggers Rule 17 (comparable-deal precedent in Prosus sectors — online classifieds / property).",
+    "why": "Sector-direct precedent for OLX classifieds and Property24. Highlights US private-litigation appetite on platform-listing data access — read-through for OpCo data-licensing terms with third-party aggregators.",
+    "co": "OLX · Property24", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "paramount-wbd-defence", "theme": "merger", "catLabel": "Merger & FDI",
+    "country": "US", "countryLabel": "US United States",
+    "risk": "low",
+    "date": "2026-05-13", "dateLabel": "13 May 2026",
+    "source": "MLex", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097",
+    "title": "Paramount defends Warner Bros. Discovery merger; US House lawmakers press CEO",
+    "body": "Paramount sent a letter to California's Attorney General defending the Warner Bros. Discovery merger; same day, US House lawmakers wrote to the Paramount CEO seeking detail on the transaction. Sazerac also rejected a $15bn buyout offer for Jack Daniel's maker the same day.",
+    "why": "Watch-item only. Media-sector consolidation pattern; signals US state AG appetite to engage merger reviews actively. Indirect relevance to any Prosus media-adjacent investments (no current direct exposure).",
+    "co": "(no direct OpCo exposure)", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "samr-tencent-ximalaya-m02", "theme": "dominance", "catLabel": "Abuse of Dominance",
+    "country": "CN", "countryLabel": "CN China",
+    "risk": "high", "rule": "Rule 13",
+    "date": "2026-05-13", "dateLabel": "12–13 May 2026",
+    "source": "SAMR / ECNS", "url": "http://www.ecns.cn/china/2026-05-13/detail-ihfenirv8001432.shtml",
+    "title": "SAMR conditionally approves Tencent–Ximalaya $2.9bn acquisition; five behavioural commitments",
+    "body": "China's State Administration for Market Regulation cleared Tencent's Ximalaya stake acquisition with five restrictive commitments: no price hikes or service-quality reductions on Tencent's audio platforms; no cuts to free-content share; no new exclusive licensing with copyright holders (existing exclusives to be wound down); no tying audio/music platforms to automakers; SAMR will closely supervise implementation.",
+    "why": "Direct Rule 13 (Tencent SAMR competition exposure) auto-rank trigger — Tencent treated as Prosus operating company for competition purposes given NAV materiality. Conditions menu now precedent for any SAMR-supervised Tencent-touching content/audio play. Cross-monitor link to M01 ai-news (Rule 6) and IP (exclusive-licensing carve-out).",
+    "co": "Tencent NAV exposure", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "meta-eu-whatsapp-ai-access-m02", "theme": "dominance", "catLabel": "Digital Markets",
+    "country": "EU", "countryLabel": "EU European Union",
+    "risk": "high", "rule": "Rule 12",
+    "date": "2026-05-13", "dateLabel": "13 May 2026",
+    "source": "MLex / Reuters", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097",
+    "title": "Meta tables free WhatsApp Business AI access for rival chatbots to head off EU fine",
+    "body": "Meta proposed granting rival AI chatbot providers free access to WhatsApp Business Platform as part of remedy talks with DG COMP, aiming to head off a substantial DMA / Article 102 fine. Final decision expected in coming weeks. First real test of business-user-fair-access remedies under the DMA on a messaging-platform gatekeeper.",
+    "why": "Rule 12 (M02 — self-preferencing / recommender-system-as-abuse line) trigger — sets early precedent on what DG COMP considers an acceptable fair-access remedy. Highly relevant to OpCo build-vs-partner posture (iFood support, Swiggy customer ops) and to OLX/Despegar chat-AI roadmaps.",
+    "co": "iFood · Swiggy · PayU · OLX · Despegar", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "cci-adani-dismissed", "theme": "dominance", "catLabel": "Abuse of Dominance",
+    "country": "IN", "countryLabel": "IN India",
+    "risk": "med",
+    "date": "2026-04-16", "dateLabel": "16 April 2026 (still developing)",
+    "source": "Mondaq", "url": "https://www.mondaq.com/india/antitrust-eu-competition/1786560/competition-newsletter-may-2026",
+    "title": "CCI dismisses abuse-of-dominance claims against Adani Enterprises / Azure Power",
+    "body": "CCI dismissed allegations of anti-competitive conduct and abuse of dominance against Adani Enterprises and group entity Azure Power, concerning solar power procurement under a SECI manufacturing tender. Note adds to the 2026 CCI dismissal pattern in tender-procurement disputes.",
+    "why": "Read-across for any Prosus OpCo in Indian tender / procurement disputes (PayU India procurement, Swiggy hyperlocal city-tender mechanics). CCI's framework for procurement-tender dominance claims is consolidating; useful baseline for posture.",
+    "co": "PayU India · Swiggy", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "cci-venkateshwara", "theme": "dominance", "catLabel": "Abuse of Dominance",
+    "country": "IN", "countryLabel": "IN India",
+    "risk": "low",
+    "date": "2026-04-01", "dateLabel": "1 April 2026 (open investigation)",
+    "source": "Mondaq", "url": "https://www.mondaq.com/india/antitrust-eu-competition/1786560/competition-newsletter-may-2026",
+    "title": "CCI opens investigation against Venkateshwara Hatcheries for vertical restraints",
+    "body": "CCI initiated an investigation against Venkateshwara Hatcheries and its group companies based on information filed by People for Animals, alleging abuse of dominance and vertical restraints in the Indian commercial poultry sector.",
+    "why": "Sector-specific (poultry) but provides a current CCI doctrinal data-point on vertical-restraint analysis. Light precedent value for Prosus India food-delivery and quick-commerce verticals (Swiggy supplier exclusivity).",
+    "co": "Swiggy supplier relationships", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "cjeu-sumal-doctrine", "theme": "antitrust", "catLabel": "Antitrust",
+    "country": "EU", "countryLabel": "EU European Union",
+    "risk": "high", "rule": "Rule 17",
+    "date": "2026-04-16", "dateLabel": "16 April 2026 (active fallout)",
+    "source": "Greenberg Traurig", "url": "https://www.gtlaw.com/en/insights/2026/5/eu-court-of-justice-clarifies-jurisdiction-rules-for-competition-damages-claims",
+    "title": "CJEU clarifies jurisdiction rules for competition damages — Power Cables + Cardboard Packaging joined cases",
+    "body": "CJEU preliminary ruling in joined cases C-672/23 (Power Cables / Bahrain Authority) and C-673/23 (Smurfit Kappa / Cardboard Packaging) refines the Sumal doctrine and its interaction with Article 8(1) Brussels I bis. Lowers the threshold for claimants to establish international jurisdiction in competition cases; extends potential liability exposure to intermediate holding companies; confirms claims for harm suffered outside the EEA are not automatically inadmissible.",
+    "why": "Material expansion of competition damages exposure perimeter. Direct relevance for any Prosus holding-company structuring decisions and intra-group anti-competitive-conduct contagion analysis. Cross-monitor link to M01 IP indemnity playbooks for vendor conduct.",
+    "co": "Group structuring · holding companies", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "portuguese-football-no-poach", "theme": "antitrust", "catLabel": "Antitrust",
+    "country": "EU", "countryLabel": "PT Portugal",
+    "risk": "med",
+    "date": "2026-04-30", "dateLabel": "30 April 2026",
+    "source": "CJEU", "url": "https://curia.europa.eu/jcms/jcms/Jo2_7052/en/",
+    "title": "CJEU: Portuguese football no-poach players agreement can potentially be EU-law compatible",
+    "body": "CJEU ruled that the no-poach players agreement concluded by Portuguese football clubs during the Covid-19 pandemic can, in principle, be compatible with EU competition law subject to factual analysis. Refines the labour-market by-object/by-effect analysis distinction.",
+    "why": "Read-across for labour-market no-poach / non-solicit clauses across Prosus OpCo HR practices. Particularly relevant to legal-tech and engineering hiring markets (Stack Overflow Talent, OLX Talent, JET ops). Suggests by-object characterisation has carve-outs in narrow factual contexts.",
+    "co": "Stack Overflow Talent · all OpCos HR", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "cci-assam-bid-rigging", "theme": "antitrust", "catLabel": "Antitrust",
+    "country": "IN", "countryLabel": "IN India",
+    "risk": "low",
+    "date": "2026-04-07", "dateLabel": "7 April 2026 (decision)",
+    "source": "Mondaq", "url": "https://www.mondaq.com/india/antitrust-eu-competition/1786560/competition-newsletter-may-2026",
+    "title": "CCI: 17 electrical contractors engaged in bid rigging on Assam Police tender",
+    "body": "CCI held that seventeen electrical contractors engaged in bid rigging and collusive bidding in tenders floated by Assam Police Housing Corporation Limited for electrification works across police stations in Assam. Followed a complaint filed by the Office of the Accountant General (Audit), Assam.",
+    "why": "Pure horizontal cartel; not directly Prosus-touching. Useful precedent for CCI methodology on bid-rigging proofs (information-sharing fingerprints, parallelism evidence) — informs OpCo procurement compliance training.",
+    "co": "PayU India procurement · Swiggy supplier ops", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "cade-ifood-rfi-99food", "theme": "antitrust", "catLabel": "Antitrust",
+    "country": "BR", "countryLabel": "BR Brazil",
+    "risk": "high", "rule": "Rule 11",
+    "date": "2026-02-01", "dateLabel": "Feb 2026 (open monitoring)",
+    "source": "BRICS Competition", "url": "https://bricscompetition.org/news/cade-and-ifood-have-signed-an-agreement-on-exclusive-contracts",
+    "title": "CADE iFood TCC residual monitoring — RFI on 99Food retaliation allegations ongoing",
+    "body": "CADE's continuous TCC monitoring on iFood remains active. February 2026 RFI to iFood asked about allegations of anticompetitive and retaliatory practices toward restaurants operating on competing platforms (specifically 99Food). CADE's strategy is continuous monitoring with intervention when market-openness risks are identified.",
+    "why": "Direct Rule 11 (iFood/CADE TCC monitoring) trigger — live ongoing commitment that cannot be downgraded by routine. Any CADE communication on iFood TCC implementation is auto-Rank A. Should be standing weekly briefing item until matter closes.",
+    "co": "iFood", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "ncaa-coaches-settlement", "theme": "antitrust", "catLabel": "Antitrust",
+    "country": "US", "countryLabel": "US United States",
+    "risk": "low",
+    "date": "2026-05-13", "dateLabel": "13 May 2026",
+    "source": "MLex", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097",
+    "title": "NCAA receives final approval of $303M coaches antitrust settlement",
+    "body": "US court granted final approval of the NCAA's $303 million settlement with coaches resolving antitrust claims. Latest in the sequence of US NCAA-related settlements following the Alston / NIL framework shifts.",
+    "why": "Sector-specific (collegiate athletics) — not directly Prosus-relevant. Light precedent value as a US labour-market antitrust settlement benchmark, useful baseline for any future OpCo-side labour-market matters.",
+    "co": "(no direct OpCo exposure)", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "ec-dma-fitness-check", "theme": "digital", "catLabel": "Digital Markets",
+    "country": "EU", "countryLabel": "EU European Union",
+    "risk": "high",
+    "date": "2026-05-08", "dateLabel": "8 May 2026",
+    "source": "European Commission", "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1024",
+    "title": "Commission DMA fitness-check concludes regulation remains fit for purpose; 7 gatekeepers, 23 CPS",
+    "body": "European Commission published the April-2026 DMA fitness check, concluding the regulation remains fit for purpose. Seven gatekeepers (Meta, Alphabet, Amazon, ByteDance, Apple, Booking, Microsoft) and 23 core platform services in scope. Apple Ads and Apple Maps confirmed non-designated (Feb 2026 decision). Next designation cycle's final decision expected 27 July 2026.",
+    "why": "DMA scope is the operating-environment fact for every Prosus OpCo as DMA business user. Fitness-check outcome locks in the current scope for the next cycle. Direct Rule 18 (DMA / DSA designation) reference point.",
+    "co": "OLX · iFood · JET · all DMA business users", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "echostar-spacex-att-fcc", "theme": "digital", "catLabel": "Sector Regulation",
+    "country": "US", "countryLabel": "US United States",
+    "risk": "low",
+    "date": "2026-05-13", "dateLabel": "13 May 2026",
+    "source": "MLex", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097",
+    "title": "US FCC approves EchoStar spectrum transfers to SpaceX and AT&T",
+    "body": "The US FCC approved EchoStar spectrum transfers to SpaceX and AT&T. Concludes a long-running spectrum-reallocation matter; signals continued FCC openness to satellite-spectrum deals with limited divestment conditions.",
+    "why": "Not directly Prosus-touching. Watch-item for the spectrum-policy environment that affects mobile-first OpCos (iFood courier networks, Swiggy delivery ops, OLX-classifieds mobile reach).",
+    "co": "(no direct OpCo exposure)", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "cma-sms-q2-pipeline", "theme": "digital", "catLabel": "Digital Markets",
+    "country": "UK", "countryLabel": "UK United Kingdom",
+    "risk": "med", "rule": "Rule 18",
+    "date": "2026-05-14", "dateLabel": "Q2 2026 pipeline watch",
+    "source": "White & Case", "url": "https://www.whitecase.com/insight-alert/cma-charts-new-course-202627",
+    "title": "CMA: further SMS designations expected Q2 2026 under DMCC Act",
+    "body": "CMA's updated 2026/27 strategy confirms further Strategic Market Status designations expected in Q2 2026 under the Digital Markets, Competition and Consumers Act. Reformed CMA targeting merger control 'in a highly targeted way' and stepping back on global deals.",
+    "why": "UK-side analogue of DMA designation cycle. Rule 18 reference. Affects OpCos in the UK market (Stack Overflow, JET UK, OLX UK) and Prosus's posture in UK digital-markets dialogue.",
+    "co": "Stack Overflow · JET UK · OLX UK", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  },
+  {
+    "id": "cci-india-platforms-may-newsletter", "theme": "digital", "catLabel": "Digital Markets",
+    "country": "IN", "countryLabel": "IN India",
+    "risk": "med",
+    "date": "2026-05-09", "dateLabel": "May 2026 (newsletter cycle)",
+    "source": "Mondaq", "url": "https://www.mondaq.com/india/antitrust-eu-competition/1786560/competition-newsletter-may-2026",
+    "title": "India: May 2026 competition newsletter — digital-markets enforcement pipeline",
+    "body": "Mondaq / industry newsletter cycle for May 2026 catalogues the Indian competition pipeline. Themes: continued CCI scrutiny of digital intermediaries; sectoral inquiries in food delivery (Swiggy / Zomato), payments, and quick commerce; gradual movement toward an Indian Digital Competition Act framework.",
+    "why": "Standing watch on Indian digital-markets posture. Direct Prosus relevance via Swiggy and PayU India. The Digital Competition Bill path remains the strategic risk; near-term enforcement is incremental.",
+    "co": "Swiggy · PayU India · PharmEasy", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
+  }
+]

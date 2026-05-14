@@ -73,7 +73,7 @@
     html, body {
       margin: 0;
       padding: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", Arial, sans-serif;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
       font-size: 16px;
       line-height: 1.6;
       color: var(--text-primary);
@@ -528,7 +528,7 @@
 
       <div class="monitors">
 
-        <a class="card li" href="./m01/" aria-label="Open Monitor 01 — Regulatory Intelligence">
+        <a class="card li" href="./monitor-01/" aria-label="Open Monitor 01 — Regulatory Intelligence">
           <div class="card-inner">
             <div class="card-head">
               <div class="card-title-row">
@@ -556,7 +556,7 @@
           </div>
         </a>
 
-        <a class="card ar" href="./m02/" aria-label="Open Monitor 02 — Competition Law">
+        <a class="card ar" href="./monitor-02/" aria-label="Open Monitor 02 — Competition Law">
           <div class="card-inner">
             <div class="card-head">
               <div class="card-title-row">
@@ -586,16 +586,16 @@
 
       </div>
 
-      <div class="add-card">
+      <a class="add-card" href="./new-monitor/" style="text-decoration:none;color:inherit;">
         <div class="icon-box gradient">
           <i class="ti ti-plus" aria-hidden="true"></i>
         </div>
         <div class="add-card-body">
-          <div class="add-card-title">Add a monitor</div>
-          <div class="add-card-desc">Tax, employment, ESG, M&amp;A antitrust, or suggest your own scope.</div>
+          <div class="add-card-title">Create a monitor</div>
+          <div class="add-card-desc">Tax, employment, ESG, M&amp;A antitrust, or your own scope — full form, builds in Obsidian + Claude.</div>
         </div>
-        <button class="btn-gradient" onclick="window.location.href='mailto:klimentina.maleevska@prosus.com?subject=New%20monitor%20suggestion'">Suggest →</button>
-      </div>
+        <span class="btn-gradient">Create →</span>
+      </a>
     </section>
 
     <section aria-labelledby="activity-heading">
@@ -700,23 +700,4 @@
           });
           if (coldDiv && any.length) {
             coldDiv.hidden = false;
-            coldDiv.innerHTML = '<b>Cold cells:</b> ' +
-              any.slice(0, 6).map(function (x) {
-                return x.monitor.replace('monitor-', 'M') + ' ' + x.cell;
-              }).join(' · ') +
-              (any.length > 6 ? ' · +' + (any.length - 6) + ' more' : '');
-          }
-
-          var foot = document.getElementById('freshness-generated');
-          if (foot && state.generated_at) {
-            foot.textContent = 'Pulse generated ' + relativeTime(state.generated_at) + ' · ' + (state.iso_week || '');
-          }
-        })
-        .catch(function () {
-          /* state.json absent — leave the placeholder copy in place */
-        });
-    })();
-  </script>
-
-</body>
-</html>
+        

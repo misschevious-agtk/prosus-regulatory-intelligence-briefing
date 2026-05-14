@@ -1,0 +1,1199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Create a monitor · Legal Intelligence Briefing</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1'%3E%3Cstop offset='0' stop-color='%23FC9628'/%3E%3Cstop offset='0.5' stop-color='%23D90276'/%3E%3Cstop offset='1' stop-color='%23370180'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='14' fill='url(%23g)'/%3E%3Ctext x='50%25' y='58%25' font-family='system-ui,sans-serif' font-size='40' font-weight='800' fill='white' text-anchor='middle' dominant-baseline='middle'%3EL%3C/text%3E%3C/svg%3E">
+  <style>
+/* =====================================================================
+   Legal Intelligence Briefing — universal monitor stylesheet
+   Prosus brand: Chloride / Argon / Oxide / Lithium
+   Four themes via <html data-theme="light|dark|colourful|clean">
+   ===================================================================== */
+
+:root {
+  --ch-dark: #00856E;  --ch-prime: #00AC8E;  --ch-light: #00D3AF;
+  --ar-dark: #850048;  --ar-prime: #AF015F;  --ar-light: #D90276;
+  --ox-dark: #FC9628;  --ox-prime: #FC8828;  --ox-light: #FCDA28;
+  --li-dark: #370180;  --li-prime: #571580;  --li-light: #772980;
+  --r-high-fg: #B8124E;
+  --r-med-fg:  #B86A12;
+  --r-low-fg:  #007459;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 999px;
+  --gradient: linear-gradient(90deg, var(--ox-dark) 0%, var(--ar-light) 50%, var(--li-dark) 100%);
+  --gradient-cool: linear-gradient(90deg, var(--ch-prime) 0%, var(--li-prime) 100%);
+}
+
+:root,
+html[data-theme="light"] {
+  --bg-page:   #FBF7EE;
+  --bg-card:   #FFFFFF;
+  --bg-soft:   #F2EBDE;
+  --tint-li:   #EFE6FA;
+  --tint-ar:   #FBE0EF;
+  --tint-ox:   #FFF1DC;
+  --tint-ch:   #DDF5EE;
+  --text-primary:   #1B0838;
+  --text-secondary: #5C4C7A;
+  --text-tertiary:  #8C7DA8;
+  --border-soft:    rgba(55, 1, 128, 0.10);
+  --border-strong:  rgba(55, 1, 128, 0.22);
+  --bg-ambient:
+    radial-gradient(circle at 12% 0%,  rgba(252,150,40,.14) 0%, transparent 42%),
+    radial-gradient(circle at 92% 12%, rgba(217,2,118,.12)  0%, transparent 38%),
+    radial-gradient(circle at 50% 100%,rgba(55,1,128,.08)   0%, transparent 50%),
+    radial-gradient(circle at 5% 80%,  rgba(0,172,142,.06)  0%, transparent 35%);
+}
+
+html[data-theme="dark"] {
+  --bg-page:   #0F0420;
+  --bg-card:   #1B0C36;
+  --bg-soft:   #261548;
+  --tint-li:   #2D1559;
+  --tint-ar:   #38123A;
+  --tint-ox:   #3D2911;
+  --tint-ch:   #0E3A30;
+  --text-primary:   #F5EEFA;
+  --text-secondary: #B8A8D0;
+  --text-tertiary:  #8C7AA8;
+  --border-soft:    rgba(255,255,255,.08);
+  --border-strong:  rgba(255,255,255,.20);
+  --r-high-fg: #FF8FA3;
+  --r-med-fg:  #FFE3A1;
+  --r-low-fg:  #9FF0D2;
+  --bg-ambient:
+    radial-gradient(circle at 10% 0%,  rgba(217,2,118,.18) 0%, transparent 40%),
+    radial-gradient(circle at 90% 30%, rgba(55,1,128,.30)  0%, transparent 45%),
+    radial-gradient(circle at 50% 100%,rgba(252,150,40,.08) 0%, transparent 50%);
+}
+
+html[data-theme="colourful"] {
+  --bg-page:   #FFF5E8;
+  --bg-card:   #FFFFFF;
+  --bg-soft:   #FFE9CC;
+  --tint-li:   #E5D4FF;
+  --tint-ar:   #FFD0E5;
+  --tint-ox:   #FFE0B5;
+  --tint-ch:   #C4F0E1;
+  --text-primary:   #1B0838;
+  --text-secondary: #5C4C7A;
+  --text-tertiary:  #8C7DA8;
+  --border-soft:    rgba(217,2,118,.18);
+  --border-strong:  rgba(217,2,118,.38);
+  --bg-ambient:
+    radial-gradient(circle at 8% 0%,   rgba(252,150,40,.32) 0%, transparent 38%),
+    radial-gradient(circle at 92% 8%,  rgba(217,2,118,.24)  0%, transparent 36%),
+    radial-gradient(circle at 50% 96%, rgba(55,1,128,.16)   0%, transparent 50%),
+    radial-gradient(circle at 5% 78%,  rgba(0,172,142,.18)  0%, transparent 38%);
+}
+
+html[data-theme="clean"] {
+  --bg-page:   #FFFFFF;
+  --bg-card:   #FFFFFF;
+  --bg-soft:   #F6F6F8;
+  --tint-li:   #F2EDFA;
+  --tint-ar:   #FBEEF4;
+  --tint-ox:   #FCF4E8;
+  --tint-ch:   #ECF7F3;
+  --text-primary:   #15102A;
+  --text-secondary: #545068;
+  --text-tertiary:  #8A8696;
+  --border-soft:    rgba(20,16,42,.08);
+  --border-strong:  rgba(20,16,42,.18);
+  --gradient: linear-gradient(90deg, var(--li-dark) 0%, var(--ar-prime) 100%);
+  --bg-ambient: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --bg-page: #0F0420; --bg-card: #1B0C36; --bg-soft: #261548;
+    --tint-li: #2D1559; --tint-ar: #38123A; --tint-ox: #3D2911; --tint-ch: #0E3A30;
+    --text-primary: #F5EEFA; --text-secondary: #B8A8D0; --text-tertiary: #8C7AA8;
+    --border-soft: rgba(255,255,255,.08); --border-strong: rgba(255,255,255,.20);
+    --r-high-fg: #FF8FA3; --r-med-fg: #FFE3A1; --r-low-fg: #9FF0D2;
+  }
+}
+
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px; line-height: 1.6;
+  color: var(--text-primary);
+  background: var(--bg-page);
+  background-image: var(--bg-ambient);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+a { color: inherit; text-decoration: none; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+
+.topbar {
+  position: sticky; top: 0; z-index: 60;
+  padding: 14px 28px;
+  display: flex; align-items: center; gap: 20px;
+  background: var(--bg-card);
+  border-bottom: 0.5px solid var(--border-soft);
+  backdrop-filter: blur(10px);
+}
+.brand { display: flex; align-items: center; gap: 14px; min-width: 0; flex-shrink: 0; }
+.brand-link { display: flex; align-items: center; gap: 14px; }
+.brand-mark {
+  font-size: 18px; font-weight: 800; letter-spacing: -0.5px;
+  background: var(--gradient);
+  -webkit-background-clip: text; background-clip: text;
+  color: transparent; white-space: nowrap;
+}
+.brand-sep { width: 1px; height: 22px; background: var(--border-soft); }
+.brand-product { font-size: 13px; color: var(--text-secondary); font-weight: 500; white-space: nowrap; }
+.brand-product b { color: var(--text-primary); font-weight: 600; }
+
+.live-pill {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 6px 14px; border-radius: var(--radius-full);
+  font-size: 12px; font-weight: 500;
+  background: var(--tint-ch); color: var(--ch-dark);
+  border: 0.5px solid var(--border-soft);
+}
+.live-pill.calibrating { background: var(--tint-ox); color: var(--ox-prime); }
+.live-pill.pending     { background: var(--tint-li); color: var(--li-prime); }
+.live-pill.dormant     { background: var(--bg-soft); color: var(--text-tertiary); }
+.live-dot { width: 7px; height: 7px; border-radius: 50%; background: currentColor; box-shadow: 0 0 0 0 currentColor; animation: pulse 2s infinite; }
+@keyframes pulse {
+  0%   { box-shadow: 0 0 0 0 rgba(0,172,142,.55); }
+  70%  { box-shadow: 0 0 0 10px rgba(0,172,142,0); }
+  100% { box-shadow: 0 0 0 0 rgba(0,172,142,0); }
+}
+
+.search { flex: 1; max-width: 380px; display: flex; align-items: center; gap: 10px; padding: 8px 14px; background: var(--bg-soft); border: 0.5px solid var(--border-soft); border-radius: var(--radius-md); color: var(--text-secondary); }
+.search input { flex: 1; background: transparent; border: 0; outline: 0; color: var(--text-primary); font-size: 13.5px; font-family: inherit; }
+.search input::placeholder { color: var(--text-tertiary); }
+
+.counters { display: flex; gap: 22px; align-items: center; }
+.counter .num { font-size: 19px; font-weight: 700; line-height: 1; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.counter .num.high { color: var(--r-high-fg); }
+.counter .num.med  { color: var(--r-med-fg); }
+.counter .lbl { font-size: 10px; letter-spacing: 1.2px; color: var(--text-tertiary); text-transform: uppercase; margin-top: 4px; }
+
+.theme-toggle { position: relative; display: inline-flex; align-items: center; gap: 6px; padding: 7px 12px; border-radius: var(--radius-full); background: var(--bg-soft); color: var(--text-secondary); border: 0.5px solid var(--border-soft); font-size: 12px; font-weight: 500; cursor: pointer; font-family: inherit; }
+.theme-toggle::before { content: ""; width: 12px; height: 12px; border-radius: 50%; background: var(--gradient); }
+.theme-menu { position: absolute; top: calc(100% + 6px); right: 0; min-width: 160px; background: var(--bg-card); border: 0.5px solid var(--border-strong); border-radius: var(--radius-md); box-shadow: 0 16px 40px -12px rgba(55,1,128,.25); padding: 6px; display: none; z-index: 80; }
+.theme-menu[open] { display: block; }
+.theme-menu button { display: flex; align-items: center; gap: 10px; width: 100%; padding: 8px 10px; background: transparent; border: 0; cursor: pointer; font-family: inherit; font-size: 13px; color: var(--text-primary); text-align: left; border-radius: 6px; }
+.theme-menu button:hover { background: var(--bg-soft); }
+.theme-menu button.active { background: var(--tint-li); color: var(--li-prime); font-weight: 600; }
+.theme-menu .swatch { width: 14px; height: 14px; border-radius: 50%; border: 0.5px solid var(--border-soft); flex-shrink: 0; }
+.theme-menu .swatch.light     { background: linear-gradient(135deg, #FBF7EE 50%, #EFE6FA 50%); }
+.theme-menu .swatch.dark      { background: linear-gradient(135deg, #15082B 50%, #D90276 50%); }
+.theme-menu .swatch.colourful { background: linear-gradient(135deg, #FC9628, #D90276 50%, #370180); }
+.theme-menu .swatch.clean     { background: linear-gradient(135deg, #FFFFFF 50%, #15102A 50%); }
+
+.tabs { position: sticky; top: 60px; z-index: 55; padding: 0 28px; background: var(--bg-page); border-bottom: 0.5px solid var(--border-soft); display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; }
+.tabs::-webkit-scrollbar { display: none; }
+.tab { padding: 13px 16px; font-size: 13.5px; color: var(--text-secondary); cursor: pointer; border-bottom: 2px solid transparent; font-weight: 500; display: inline-flex; align-items: center; gap: 8px; white-space: nowrap; user-select: none; background: transparent; border-left: 0; border-right: 0; border-top: 0; font-family: inherit; }
+.tab:hover { color: var(--text-primary); }
+.tab.active { color: var(--text-primary); border-bottom-color: var(--ar-light); font-weight: 600; }
+.tab-ct { font-size: 10.5px; font-weight: 700; background: var(--bg-soft); color: var(--text-secondary); padding: 2px 8px; border-radius: var(--radius-full); letter-spacing: .3px; }
+.tab.active .tab-ct { background: var(--tint-ar); color: var(--ar-prime); }
+
+.summary-bar { padding: 14px 28px; display: flex; flex-wrap: wrap; gap: 14px; align-items: center; font-size: 13px; color: var(--text-secondary); background: var(--bg-card); border-bottom: 0.5px solid var(--border-soft); }
+.summary-week { font-weight: 600; color: var(--text-primary); font-size: 14px; }
+.summary-pulse { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; }
+.summary-pulse b { color: var(--ch-dark); font-weight: 600; }
+.chip { display: inline-flex; align-items: center; padding: 5px 12px; border-radius: var(--radius-full); background: var(--bg-soft); color: var(--text-secondary); border: 0.5px solid var(--border-soft); font-size: 12px; line-height: 1.4; }
+.chip b { color: var(--text-primary); font-weight: 600; margin-right: 4px; }
+.chip.notice { background: var(--tint-ox); color: var(--ox-prime); border-color: rgba(252,136,40,.20); }
+.chip.notice b { color: var(--ox-prime); }
+
+.main { padding: 24px 28px 96px; }
+.grid { display: grid; grid-template-columns: 1fr; gap: 14px; max-width: 1100px; margin: 0 auto; }
+
+.empty { padding: 56px 24px; text-align: center; color: var(--text-tertiary); background: var(--bg-card); border-radius: var(--radius-lg); border: 1px dashed var(--border-soft); }
+.empty h3 { color: var(--text-primary); margin: 0 0 6px; font-weight: 600; }
+
+.card { background: var(--bg-card); border: 0.5px solid var(--border-soft); border-radius: var(--radius-lg); padding: 18px 20px; transition: border-color .15s, transform .15s, box-shadow .15s; }
+.card:hover { border-color: var(--border-strong); transform: translateY(-1px); box-shadow: 0 10px 30px -12px rgba(55,1,128,.15); }
+.card-head { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; align-items: center; }
+.ctag { display: inline-flex; align-items: center; font-size: 11px; font-weight: 500; padding: 3px 9px; border-radius: 6px; background: var(--bg-soft); color: var(--text-secondary); border: 0.5px solid var(--border-soft); letter-spacing: 0.2px; }
+.ctag-domain { text-transform: uppercase; letter-spacing: 0.6px; font-size: 10px; font-weight: 700; padding: 4px 10px; }
+.ctag-domain[data-topic-color] { background: var(--topic-tint, var(--bg-soft)); color: var(--topic-fg, var(--text-secondary)); border-color: var(--topic-border, var(--border-soft)); }
+.ctag-loc { background: transparent; }
+.ctag-date { color: var(--text-tertiary); border-color: transparent; }
+.ctag-rule { background: var(--tint-li); color: var(--li-prime); border-color: rgba(87,21,128,.18); font-weight: 600; }
+.ctag-source { background: transparent; color: var(--li-prime); border-color: rgba(87,21,128,.18); text-decoration: none; }
+.ctag-source:hover { background: var(--tint-li); }
+
+.risk-pill { margin-left: auto; font-size: 10px; font-weight: 700; padding: 4px 10px; border-radius: var(--radius-full); letter-spacing: 0.6px; }
+.r-high { background: var(--tint-ar); color: var(--r-high-fg); }
+.r-med  { background: var(--tint-ox); color: var(--r-med-fg); }
+.r-low  { background: var(--tint-ch); color: var(--r-low-fg); }
+
+.card-title { font-size: 16.5px; font-weight: 600; line-height: 1.35; letter-spacing: -.3px; margin: 0 0 8px; color: var(--text-primary); }
+.card-body { font-size: 13.5px; line-height: 1.55; color: var(--text-secondary); margin: 0 0 12px; }
+.card-why { background: var(--tint-ar); border-left: 3px solid var(--ar-light); padding: 10px 14px; border-radius: 0 8px 8px 0; font-size: 12.5px; line-height: 1.55; color: var(--text-primary); margin-bottom: 12px; }
+.card-why b { font-weight: 600; }
+.card-foot { display: flex; flex-wrap: wrap; gap: 10px; font-size: 11.5px; color: var(--text-tertiary); border-top: 0.5px solid var(--border-soft); padding-top: 10px; }
+.card-foot .opc { color: var(--text-secondary); }
+.card-foot .opc b { color: var(--text-primary); font-weight: 500; }
+.card-foot .owner { margin-left: auto; font-weight: 500; color: var(--text-secondary); }
+
+.footer { margin: 48px auto 24px; max-width: 1100px; padding: 24px 0; border-top: 0.5px solid var(--border-soft); display: flex; justify-content: space-between; align-items: center; font-size: 11.5px; color: var(--text-tertiary); flex-wrap: wrap; gap: 12px; }
+.footer a { color: var(--li-prime); }
+
+html[data-theme="clean"] .card { box-shadow: none; }
+html[data-theme="clean"] .card:hover { box-shadow: none; }
+html[data-theme="clean"] .card-why { background: transparent; border-left-color: var(--text-tertiary); padding-left: 12px; }
+html[data-theme="clean"] .topbar { background: transparent; backdrop-filter: none; }
+html[data-theme="clean"] .summary-bar { background: transparent; }
+
+@media (max-width: 860px) {
+  .topbar { padding: 12px 16px; gap: 12px; flex-wrap: wrap; }
+  .tabs { padding: 0 12px; top: 76px; }
+  .summary-bar { padding: 12px 16px; gap: 8px; }
+  .main { padding: 18px 14px 72px; }
+  .search, .counters { display: none; }
+  .brand-product { font-size: 12px; }
+  .live-pill { font-size: 11px; padding: 5px 12px; }
+}
+
+  </style>
+  <style>
+    .wizard-wrap { max-width: 880px; margin: 0 auto; padding: 32px 28px 96px; }
+    h1 { font-size: 36px; margin: 0 0 8px; letter-spacing: -0.7px; }
+    h1 em { background: var(--gradient); -webkit-background-clip: text; background-clip: text; color: transparent; font-style: italic; font-weight: 500; }
+    .lede { color: var(--text-secondary); font-size: 15px; max-width: 600px; margin: 0 0 28px; }
+
+    .stepper { display: flex; gap: 6px; margin: 28px 0 36px; flex-wrap: wrap; }
+    .step-dot {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 7px 14px; border-radius: var(--radius-full);
+      background: var(--bg-card); color: var(--text-tertiary);
+      border: 0.5px solid var(--border-soft);
+      font-size: 12px; cursor: pointer; font-family: inherit;
+    }
+    .step-dot.active { background: var(--gradient); color: white; border-color: transparent; font-weight: 600; }
+    .step-dot.done { color: var(--text-secondary); }
+    .step-dot .n { font-weight: 700; opacity: 0.7; }
+    .step-dot.active .n { opacity: 1; }
+
+    .panel {
+      background: var(--bg-card);
+      border: 0.5px solid var(--border-soft);
+      border-radius: var(--radius-xl);
+      padding: 28px 28px 24px;
+      margin-bottom: 16px;
+    }
+    .panel-head {
+      display: flex; align-items: baseline; justify-content: space-between;
+      margin-bottom: 16px;
+    }
+    .panel-head h2 { font-size: 19px; margin: 0; font-weight: 600; }
+    .panel-head .help { font-size: 12px; color: var(--text-tertiary); }
+
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 14px; }
+    .row.single { grid-template-columns: 1fr; }
+    @media (max-width: 700px) { .row { grid-template-columns: 1fr; } }
+
+    label { display: block; font-size: 12px; font-weight: 600; color: var(--text-primary); margin-bottom: 6px; letter-spacing: 0.2px; }
+    label .opt { font-weight: 400; color: var(--text-tertiary); margin-left: 6px; }
+    label .hint { display: block; font-weight: 400; color: var(--text-tertiary); font-size: 11px; margin-top: 2px; }
+
+    input[type=text], input[type=email], textarea, select {
+      width: 100%;
+      background: var(--bg-page); color: var(--text-primary);
+      border: 0.5px solid var(--border-strong);
+      border-radius: var(--radius-md);
+      padding: 10px 12px; font-size: 13.5px; font-family: inherit;
+      outline: 0; transition: border-color .12s, box-shadow .12s;
+    }
+    textarea { min-height: 80px; resize: vertical; line-height: 1.5; }
+    input:focus, textarea:focus, select:focus {
+      border-color: var(--ar-light);
+      box-shadow: 0 0 0 3px rgba(217, 2, 118, 0.12);
+    }
+
+    .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+    .chip-toggle {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 6px 12px; border-radius: var(--radius-full);
+      background: var(--bg-soft); color: var(--text-secondary);
+      border: 0.5px solid var(--border-soft);
+      font-size: 12px; font-family: inherit; cursor: pointer;
+      user-select: none;
+    }
+    .chip-toggle.on { background: var(--tint-ar); color: var(--ar-prime); border-color: var(--ar-light); font-weight: 600; }
+
+    .topic-row {
+      display: grid; grid-template-columns: 1fr 2fr auto auto; gap: 8px;
+      align-items: center; margin-bottom: 8px;
+    }
+    .topic-row input[type=color] { padding: 2px; height: 38px; width: 48px; cursor: pointer; }
+    .topic-row .remove { background: transparent; border: 0; color: var(--text-tertiary); cursor: pointer; font-size: 18px; padding: 4px 8px; }
+    .topic-row .remove:hover { color: var(--ar-prime); }
+    .btn-add {
+      background: transparent; border: 1px dashed var(--border-strong);
+      color: var(--li-prime); border-radius: var(--radius-md);
+      padding: 8px 14px; cursor: pointer; font-size: 12.5px; font-family: inherit;
+      margin-top: 4px;
+    }
+    .btn-add:hover { background: var(--tint-li); }
+
+    .nav-row { display: flex; justify-content: space-between; align-items: center; margin-top: 24px; }
+    .btn-primary, .btn-secondary, .btn-ghost {
+      padding: 11px 22px; border-radius: var(--radius-full);
+      font-size: 13px; font-weight: 600; cursor: pointer;
+      font-family: inherit; border: 0; transition: transform .12s, filter .12s, box-shadow .12s;
+    }
+    .btn-primary { background: var(--gradient); color: white; }
+    .btn-primary:hover { transform: translateY(-1px); filter: brightness(1.05); box-shadow: 0 8px 20px -6px rgba(217,2,118,.45); }
+    .btn-secondary { background: var(--bg-soft); color: var(--text-primary); border: 0.5px solid var(--border-strong); }
+    .btn-secondary:hover { background: var(--tint-li); color: var(--li-prime); }
+    .btn-ghost { background: transparent; color: var(--text-secondary); }
+    .btn-ghost:hover { color: var(--text-primary); }
+
+    .review-grid {
+      display: grid; grid-template-columns: 200px 1fr; gap: 8px 24px;
+      font-size: 13px; margin-bottom: 16px;
+    }
+    .review-grid dt { color: var(--text-tertiary); font-weight: 500; }
+    .review-grid dd { margin: 0; color: var(--text-primary); }
+    .review-grid dd b { font-weight: 600; }
+    .review-grid dd ul { margin: 0; padding-left: 18px; }
+
+    .output-tabs { display: flex; gap: 4px; margin: 18px 0 12px; border-bottom: 0.5px solid var(--border-soft); }
+    .output-tab {
+      padding: 10px 16px; font-size: 13px; cursor: pointer;
+      border: 0; background: transparent; color: var(--text-secondary);
+      border-bottom: 2px solid transparent; font-family: inherit; font-weight: 500;
+    }
+    .output-tab.active { color: var(--text-primary); border-bottom-color: var(--ar-light); font-weight: 600; }
+
+    .output-box {
+      background: var(--bg-page); border: 0.5px solid var(--border-soft);
+      border-radius: var(--radius-md); padding: 16px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 12px; line-height: 1.5;
+      max-height: 460px; overflow: auto;
+      white-space: pre-wrap; word-break: break-word;
+      color: var(--text-primary);
+    }
+    .output-actions { display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap; }
+    .toast {
+      position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+      background: var(--text-primary); color: var(--bg-card);
+      padding: 10px 18px; border-radius: var(--radius-full);
+      font-size: 13px; font-weight: 500;
+      box-shadow: 0 12px 32px -8px rgba(0,0,0,.25);
+      opacity: 0; pointer-events: none; transition: opacity .18s;
+    }
+    .toast.show { opacity: 1; }
+
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body>
+
+<header class="topbar" role="banner">
+  <div class="brand">
+    <a class="brand-link" href="../">
+      <span class="brand-mark">Legal·Intel·Brief</span>
+    </a>
+    <span class="brand-sep"></span>
+    <span class="brand-product"><b>Create</b> — new monitor</span>
+  </div>
+  <span style="flex:1"></span>
+  <a href="../" class="btn-ghost" style="font-size:12px;">← Back to hub</a>
+  <div style="position:relative;">
+    <button class="theme-toggle" id="theme-toggle" aria-haspopup="true" aria-expanded="false">Theme</button>
+    <div class="theme-menu" id="theme-menu" role="menu"></div>
+  </div>
+</header>
+
+<main class="wizard-wrap">
+
+  <h1>Create a <em>monitor</em></h1>
+  <p class="lede">
+    Fill in the spec for a new monitor — Tax, ESG, employment, M&amp;A antitrust, or your own scope.
+    On submit you'll get (1) a downloadable monitor-blueprint.md and (2) a Claude-ready prompt that scaffolds
+    the monitor folder, the agent cell, the website page, and starts the first calibration run.
+  </p>
+
+  <nav class="stepper" id="stepper">
+    <button class="step-dot active" data-step="1"><span class="n">1</span> Identity</button>
+    <button class="step-dot" data-step="2"><span class="n">2</span> Topics</button>
+    <button class="step-dot" data-step="3"><span class="n">3</span> Anchor</button>
+    <button class="step-dot" data-step="4"><span class="n">4</span> Scope</button>
+    <button class="step-dot" data-step="5"><span class="n">5</span> Sources</button>
+    <button class="step-dot" data-step="6"><span class="n">6</span> Filters &amp; rules</button>
+    <button class="step-dot" data-step="7"><span class="n">7</span> Review &amp; ship</button>
+  </nav>
+
+  <!-- ============== STEP 1: Identity ============== -->
+  <section class="panel" data-panel="1">
+    <div class="panel-head">
+      <h2>1 · Identity</h2>
+      <span class="help">What this monitor is called.</span>
+    </div>
+
+    <div class="row">
+      <div>
+        <label>Monitor code <span class="opt">(e.g. M03)</span></label>
+        <input type="text" id="f-code" placeholder="M03" maxlength="6">
+      </div>
+      <div>
+        <label>Folder slug <span class="opt">(kebab-case)</span></label>
+        <input type="text" id="f-slug" placeholder="tax-and-transfer-pricing">
+      </div>
+    </div>
+    <div class="row single">
+      <div>
+        <label>Display name</label>
+        <input type="text" id="f-name" placeholder="Tax &amp; Transfer Pricing">
+      </div>
+    </div>
+    <div class="row single">
+      <div>
+        <label>Tagline <span class="opt">(one line, shown on the hub card)</span></label>
+        <input type="text" id="f-tagline" placeholder="Tax-reform and transfer-pricing tracking for Prosus's 15+ jurisdictions.">
+      </div>
+    </div>
+
+    <div class="nav-row">
+      <span></span>
+      <button class="btn-primary" data-go="2">Next: Topics →</button>
+    </div>
+  </section>
+
+  <!-- ============== STEP 2: Topics ============== -->
+  <section class="panel hidden" data-panel="2">
+    <div class="panel-head">
+      <h2>2 · Topics</h2>
+      <span class="help">These become the topic tabs on the monitor page. 2–6 works best.</span>
+    </div>
+
+    <div id="topic-list"></div>
+    <button class="btn-add" id="add-topic">+ Add topic</button>
+
+    <div class="nav-row">
+      <button class="btn-secondary" data-go="1">← Back</button>
+      <button class="btn-primary" data-go="3">Next: Anchor →</button>
+    </div>
+  </section>
+
+  <!-- ============== STEP 3: Anchor ============== -->
+  <section class="panel hidden" data-panel="3">
+    <div class="panel-head">
+      <h2>3 · Anchor</h2>
+      <span class="help">Who is this monitor calibrated for? Drives ranking and feedback.</span>
+    </div>
+
+    <div class="row">
+      <div>
+        <label>Anchor name</label>
+        <input type="text" id="f-anchor" placeholder="J. Smith">
+      </div>
+      <div>
+        <label>Anchor role / title</label>
+        <input type="text" id="f-anchor-role" placeholder="Global Head of Tax">
+      </div>
+    </div>
+    <div class="row">
+      <div>
+        <label>Anchor model</label>
+        <select id="f-anchor-mode">
+          <option value="single-named">Single named anchor (like M02)</option>
+          <option value="operator-anchored">Operator-anchored (like M01)</option>
+          <option value="multi-persona">Multi-persona (no single anchor)</option>
+        </select>
+        <span class="hint">Single-named = one human's mental model. Operator-anchored = K. Maleevska runs it. Multi-persona = several consumers share one feed.</span>
+      </div>
+      <div>
+        <label>Confidentiality posture</label>
+        <select id="f-conf">
+          <option value="m02-four-layer">M02 four-layer (default)</option>
+          <option value="m01-three-layer">M01 three-layer</option>
+          <option value="custom">Custom (specify in blueprint notes)</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="nav-row">
+      <button class="btn-secondary" data-go="2">← Back</button>
+      <button class="btn-primary" data-go="4">Next: Scope →</button>
+    </div>
+  </section>
+
+  <!-- ============== STEP 4: Scope ============== -->
+  <section class="panel hidden" data-panel="4">
+    <div class="panel-head">
+      <h2>4 · Scope</h2>
+      <span class="help">Jurisdictions in scope, and Prosus portfolio companies relevant.</span>
+    </div>
+
+    <label>Jurisdictions</label>
+    <div class="chips" id="chips-juris">
+      <span class="chip-toggle" data-val="EU">EU</span>
+      <span class="chip-toggle" data-val="UK">UK</span>
+      <span class="chip-toggle" data-val="NL">NL</span>
+      <span class="chip-toggle" data-val="US">US</span>
+      <span class="chip-toggle" data-val="BR">BR</span>
+      <span class="chip-toggle" data-val="IN">IN</span>
+      <span class="chip-toggle" data-val="ZA">ZA</span>
+      <span class="chip-toggle" data-val="CN">CN</span>
+      <span class="chip-toggle" data-val="TR">TR</span>
+      <span class="chip-toggle" data-val="AE">AE</span>
+      <span class="chip-toggle" data-val="Global">Global</span>
+    </div>
+    <div style="height: 16px;"></div>
+
+    <label>Prosus portfolio companies in scope</label>
+    <div class="chips" id="chips-opcos">
+      <span class="chip-toggle" data-val="Tencent (NAV)">Tencent (NAV)</span>
+      <span class="chip-toggle" data-val="iFood">iFood</span>
+      <span class="chip-toggle" data-val="OLX">OLX</span>
+      <span class="chip-toggle" data-val="PayU">PayU</span>
+      <span class="chip-toggle" data-val="Stack Overflow">Stack Overflow</span>
+      <span class="chip-toggle" data-val="Swiggy">Swiggy</span>
+      <span class="chip-toggle" data-val="JET">JET</span>
+      <span class="chip-toggle" data-val="eMAG">eMAG</span>
+      <span class="chip-toggle" data-val="Despegar">Despegar</span>
+      <span class="chip-toggle" data-val="GoodHabitz">GoodHabitz</span>
+      <span class="chip-toggle" data-val="Brainly">Brainly</span>
+      <span class="chip-toggle" data-val="PharmEasy">PharmEasy</span>
+      <span class="chip-toggle" data-val="iyzico">iyzico</span>
+      <span class="chip-toggle" data-val="Movile">Movile</span>
+      <span class="chip-toggle" data-val="Property24">Property24</span>
+    </div>
+
+    <div class="nav-row">
+      <button class="btn-secondary" data-go="3">← Back</button>
+      <button class="btn-primary" data-go="5">Next: Sources →</button>
+    </div>
+  </section>
+
+  <!-- ============== STEP 5: Sources ============== -->
+  <section class="panel hidden" data-panel="5">
+    <div class="panel-head">
+      <h2>5 · Sources</h2>
+      <span class="help">One source per line. Tier A = regulators + courts. Tier B = trade press + firm alerts. Tier C = general business news.</span>
+    </div>
+
+    <div class="row single">
+      <div>
+        <label>Tier A — primary regulators &amp; courts</label>
+        <textarea id="f-tier-a" placeholder="OECD Tax Policy&#10;EU DG TAXUD&#10;HMRC&#10;CBDT (India)&#10;Receita Federal (Brazil)"></textarea>
+      </div>
+    </div>
+    <div class="row single">
+      <div>
+        <label>Tier B — trade press &amp; firm alerts</label>
+        <textarea id="f-tier-b" placeholder="Tax Notes International&#10;MLex Tax&#10;Bloomberg Tax&#10;LexisNexis Tax"></textarea>
+      </div>
+    </div>
+    <div class="row single">
+      <div>
+        <label>Tier C — general business news <span class="opt">(use sparingly)</span></label>
+        <textarea id="f-tier-c" placeholder="FT Tax&#10;WSJ Tax"></textarea>
+      </div>
+    </div>
+
+    <div class="nav-row">
+      <button class="btn-secondary" data-go="4">← Back</button>
+      <button class="btn-primary" data-go="6">Next: Filters &amp; rules →</button>
+    </div>
+  </section>
+
+  <!-- ============== STEP 6: Filters & rules ============== -->
+  <section class="panel hidden" data-panel="6">
+    <div class="panel-head">
+      <h2>6 · Filters &amp; ranking rules</h2>
+      <span class="help">Locked filters apply on top of the system-wide 1–8. Auto-rank rules force items to Rank A regardless of generic scoring.</span>
+    </div>
+
+    <div class="row single">
+      <div>
+        <label>Locked filters <span class="opt">(this monitor's tight defaults)</span></label>
+        <textarea id="f-filters" placeholder="• Treat Tencent NAV exposure as Prosus operating company for ranking&#10;• Exclude US state-level tax updates unless multistate or sector-specific&#10;• Auto-include OECD BEPS pillar updates"></textarea>
+      </div>
+    </div>
+    <div class="row single">
+      <div>
+        <label>Auto-rank-A rules</label>
+        <textarea id="f-rules" placeholder="Rule X — Any OECD BEPS Pillar 2 implementation update in NL or jurisdictions where Prosus has Permanent Establishment&#10;Rule Y — Any Brazil tax-reform action touching iFood corporate structure"></textarea>
+      </div>
+    </div>
+    <div class="row single">
+      <div>
+        <label>Cross-monitor bridges <span class="opt">(Rule 21 dedup)</span></label>
+        <textarea id="f-bridges" placeholder="Tax-on-AI items overlap with M01 ai-news; tax investigations on Tencent overlap with M02 dominance."></textarea>
+      </div>
+    </div>
+
+    <div class="nav-row">
+      <button class="btn-secondary" data-go="5">← Back</button>
+      <button class="btn-primary" data-go="7">Next: Review →</button>
+    </div>
+  </section>
+
+  <!-- ============== STEP 7: Review & ship ============== -->
+  <section class="panel hidden" data-panel="7">
+    <div class="panel-head">
+      <h2>7 · Review &amp; ship</h2>
+      <span class="help">Two artefacts: a Markdown blueprint and a Claude prompt.</span>
+    </div>
+
+    <dl class="review-grid" id="review-grid"></dl>
+
+    <div class="output-tabs">
+      <button class="output-tab active" data-out="blueprint">monitor-blueprint.md</button>
+      <button class="output-tab" data-out="prompt">Claude prompt</button>
+      <button class="output-tab" data-out="json">monitor.json (preview)</button>
+    </div>
+
+    <div class="output-box" id="output-blueprint"></div>
+    <div class="output-box hidden" id="output-prompt"></div>
+    <div class="output-box hidden" id="output-json"></div>
+
+    <div class="output-actions">
+      <button class="btn-primary" id="dl-blueprint">⬇ Download blueprint.md</button>
+      <button class="btn-secondary" id="copy-prompt">⎘ Copy Claude prompt</button>
+      <button class="btn-secondary" id="dl-monitor-json">⬇ Download monitor.json</button>
+      <button class="btn-ghost" id="dl-items-json">⬇ Starter items.json</button>
+    </div>
+
+    <div style="margin-top: 28px; padding: 16px; background: var(--tint-ox); border-radius: var(--radius-md); font-size: 12.5px; color: var(--text-primary); border: 0.5px solid rgba(252,136,40,.22);">
+      <b style="color: var(--ox-prime);">What happens next.</b>
+      Paste the Claude prompt into a Claude Code session at the repository root. Claude will scaffold
+      <code>monitors/monitor-XX-&lt;slug&gt;/</code>, the 5+1 agent cell, the <code>.claude/agents/mXX-*</code>
+      subagent wrappers, the website pages under <code>website/monitor-XX/</code>, and update
+      <code>CLAUDE.md</code>, <code>strategy.md</code>, and the hub card. Then it will run the first browser-intake
+      pass and produce a calibration handoff brief in <code>generated/handoffs/</code>.
+    </div>
+
+    <div class="nav-row">
+      <button class="btn-secondary" data-go="6">← Back</button>
+      <button class="btn-ghost" id="reset-form">Reset form</button>
+    </div>
+  </section>
+
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// =====================================================================
+// Inline theme picker (the wizard doesn't use monitor.js)
+// =====================================================================
+(function () {
+  const THEMES = [
+    { id: "light",     label: "Light",     hint: "Cream Prosus brand" },
+    { id: "dark",      label: "Dark",      hint: "Deep violet for night reads" },
+    { id: "colourful", label: "Colourful", hint: "Saturated Prosus gradients" },
+    { id: "clean",     label: "Clean",     hint: "Minimal, lots of white" }
+  ];
+  const KEY = "lib-theme";
+  function applyTheme(id) {
+    document.documentElement.setAttribute("data-theme", id);
+    try { localStorage.setItem(KEY, id); } catch (e) {}
+  }
+  let saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  applyTheme(saved && THEMES.some(t => t.id === saved) ? saved : "light");
+
+  const btn = document.getElementById("theme-toggle");
+  const menu = document.getElementById("theme-menu");
+  menu.innerHTML = THEMES.map(t => {
+    const active = document.documentElement.getAttribute("data-theme") === t.id;
+    return '<button data-theme="' + t.id + '" class="' + (active ? "active" : "") + '" title="' + t.hint + '">' +
+      '<span class="swatch ' + t.id + '"></span><span>' + t.label + "</span></button>";
+  }).join("");
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    menu.hasAttribute("open") ? menu.removeAttribute("open") : menu.setAttribute("open", "");
+  });
+  menu.addEventListener("click", (e) => {
+    const target = e.target.closest("button[data-theme]");
+    if (!target) return;
+    applyTheme(target.dataset.theme);
+    Array.from(menu.querySelectorAll("button")).forEach(b => b.classList.toggle("active", b === target));
+    menu.removeAttribute("open");
+  });
+  document.addEventListener("click", (e) => {
+    if (!menu.contains(e.target) && e.target !== btn) menu.removeAttribute("open");
+  });
+})();
+
+// =====================================================================
+// Wizard state
+// =====================================================================
+const wizard = {
+  step: 1,
+  data: {
+    code: "M03",
+    slug: "",
+    name: "",
+    tagline: "",
+    topics: [
+      { id: "topic-1", label: "Primary", color: "#571580" },
+      { id: "topic-2", label: "Secondary", color: "#00AC8E" }
+    ],
+    anchor: "",
+    anchor_role: "",
+    anchor_mode: "single-named",
+    confidentiality: "m02-four-layer",
+    jurisdictions: [],
+    opcos: [],
+    tier_a: "",
+    tier_b: "",
+    tier_c: "",
+    filters: "",
+    rules: "",
+    bridges: ""
+  }
+};
+
+const $  = (s) => document.querySelector(s);
+const $$ = (s) => Array.from(document.querySelectorAll(s));
+
+function toast(msg) {
+  const t = $("#toast");
+  t.textContent = msg;
+  t.classList.add("show");
+  clearTimeout(t._timer);
+  t._timer = setTimeout(() => t.classList.remove("show"), 2200);
+}
+
+function slugify(s) {
+  return String(s || "").toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 60);
+}
+
+function gotoStep(n) {
+  if (n < 1 || n > 7) return;
+  collectStep(wizard.step);
+  wizard.step = n;
+  $$("[data-panel]").forEach(p => p.classList.toggle("hidden", +p.dataset.panel !== n));
+  $$(".step-dot").forEach(d => {
+    const dn = +d.dataset.step;
+    d.classList.toggle("active", dn === n);
+    d.classList.toggle("done", dn < n);
+  });
+  if (n === 7) renderReview();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function collectStep(n) {
+  if (n === 1) {
+    wizard.data.code = $("#f-code").value.trim() || "M03";
+    wizard.data.slug = $("#f-slug").value.trim() || slugify($("#f-name").value);
+    wizard.data.name = $("#f-name").value.trim();
+    wizard.data.tagline = $("#f-tagline").value.trim();
+  } else if (n === 2) {
+    wizard.data.topics = $$("#topic-list .topic-row").map((row, i) => ({
+      id: slugify(row.querySelector(".topic-label").value) || ("topic-" + (i+1)),
+      label: row.querySelector(".topic-label").value.trim() || ("Topic " + (i+1)),
+      color: row.querySelector(".topic-color").value
+    }));
+  } else if (n === 3) {
+    wizard.data.anchor = $("#f-anchor").value.trim();
+    wizard.data.anchor_role = $("#f-anchor-role").value.trim();
+    wizard.data.anchor_mode = $("#f-anchor-mode").value;
+    wizard.data.confidentiality = $("#f-conf").value;
+  } else if (n === 4) {
+    wizard.data.jurisdictions = $$("#chips-juris .chip-toggle.on").map(c => c.dataset.val);
+    wizard.data.opcos = $$("#chips-opcos .chip-toggle.on").map(c => c.dataset.val);
+  } else if (n === 5) {
+    wizard.data.tier_a = $("#f-tier-a").value.trim();
+    wizard.data.tier_b = $("#f-tier-b").value.trim();
+    wizard.data.tier_c = $("#f-tier-c").value.trim();
+  } else if (n === 6) {
+    wizard.data.filters = $("#f-filters").value.trim();
+    wizard.data.rules = $("#f-rules").value.trim();
+    wizard.data.bridges = $("#f-bridges").value.trim();
+  }
+}
+
+// ----- Topics editor -----
+function renderTopicList() {
+  const wrap = $("#topic-list");
+  wrap.innerHTML = "";
+  wizard.data.topics.forEach((t, i) => {
+    const row = document.createElement("div");
+    row.className = "topic-row";
+    row.innerHTML =
+      '<input type="color" class="topic-color" value="' + t.color + '">' +
+      '<input type="text" class="topic-label" placeholder="Label (e.g. BEPS Pillar 2)" value="' + (t.label || "").replace(/"/g, "&quot;") + '">' +
+      '<span style="font-size:11px;color:var(--text-tertiary);">id: <code>' + (slugify(t.label) || ("topic-" + (i+1))) + '</code></span>' +
+      '<button class="remove" title="Remove">×</button>';
+    row.querySelector(".remove").addEventListener("click", () => {
+      wizard.data.topics.splice(i, 1);
+      if (!wizard.data.topics.length) wizard.data.topics.push({ id: "topic-1", label: "Primary", color: "#571580" });
+      renderTopicList();
+    });
+    row.querySelector(".topic-label").addEventListener("input", (e) => {
+      row.querySelector("code").textContent = slugify(e.target.value) || ("topic-" + (i+1));
+    });
+    wrap.appendChild(row);
+  });
+}
+
+$("#add-topic").addEventListener("click", () => {
+  collectStep(2);
+  const palette = ["#571580","#00AC8E","#D90276","#FC8828","#370180","#AF015F","#FCDA28","#00856E"];
+  const c = palette[wizard.data.topics.length % palette.length];
+  wizard.data.topics.push({ id: "topic-" + (wizard.data.topics.length+1), label: "", color: c });
+  renderTopicList();
+});
+
+// ----- Chip toggles -----
+$$(".chip-toggle").forEach(c => {
+  c.addEventListener("click", () => c.classList.toggle("on"));
+});
+
+// ----- Step nav -----
+$$("[data-go]").forEach(b => b.addEventListener("click", () => gotoStep(+b.dataset.go)));
+$$(".step-dot").forEach(d => d.addEventListener("click", () => gotoStep(+d.dataset.step)));
+
+// Slug auto-derive from name
+$("#f-name").addEventListener("input", (e) => {
+  if (!$("#f-slug").dataset.touched) $("#f-slug").value = slugify(e.target.value);
+});
+$("#f-slug").addEventListener("input", (e) => { e.target.dataset.touched = "1"; });
+
+// =====================================================================
+// Output generation
+// =====================================================================
+function buildBlueprint() {
+  const d = wizard.data;
+  const linesA = d.tier_a.split("\n").filter(Boolean).map(s => "- " + s.trim());
+  const linesB = d.tier_b.split("\n").filter(Boolean).map(s => "- " + s.trim());
+  const linesC = d.tier_c.split("\n").filter(Boolean).map(s => "- " + s.trim());
+
+  return [
+    "# Monitor blueprint · " + d.code + " — " + d.name,
+    "",
+    "**Status:** drafted via Create-a-monitor wizard · " + new Date().toISOString().slice(0,10),
+    "**Owner:** Klimentina Maleevska · Group Legal & Public Policy",
+    "**Slug:** `" + d.slug + "`",
+    "",
+    "## 1. Identity",
+    "",
+    "- **Code:** " + d.code,
+    "- **Name:** " + d.name,
+    "- **Tagline:** " + d.tagline,
+    "",
+    "## 2. Topics (tabs)",
+    "",
+    d.topics.map(t => "- `" + t.id + "` — **" + t.label + "** · `" + t.color + "`").join("\n"),
+    "",
+    "## 3. Anchor",
+    "",
+    "- **Anchor:** " + d.anchor + " · " + d.anchor_role,
+    "- **Mode:** " + d.anchor_mode,
+    "- **Confidentiality posture:** " + d.confidentiality,
+    "",
+    "## 4. Scope",
+    "",
+    "- **Jurisdictions:** " + (d.jurisdictions.join(", ") || "(none specified)"),
+    "- **OpCos in scope:** " + (d.opcos.join(", ") || "(none specified)"),
+    "",
+    "## 5. Sources",
+    "",
+    "### Tier A — primary",
+    "",
+    linesA.length ? linesA.join("\n") : "_(none specified)_",
+    "",
+    "### Tier B — trade press / firm alerts",
+    "",
+    linesB.length ? linesB.join("\n") : "_(none specified)_",
+    "",
+    "### Tier C — general business news",
+    "",
+    linesC.length ? linesC.join("\n") : "_(none specified)_",
+    "",
+    "## 6. Locked filters",
+    "",
+    d.filters || "_(none specified — inherits system-wide 1–8 only)_",
+    "",
+    "## 7. Auto-rank-A rules",
+    "",
+    d.rules || "_(none specified)_",
+    "",
+    "## 8. Cross-monitor bridges (Rule 21)",
+    "",
+    d.bridges || "_(none specified)_",
+    "",
+    "---",
+    "",
+    "## Scaffolding checklist (for Claude to execute)",
+    "",
+    "- [ ] Create `monitors/monitor-" + d.code.slice(1).padStart(2,'0') + "-" + d.slug + "/` with: README, SYSTEM-PROMPT, output-schema, ranking-criteria, operating-preferences, our_markets, our_stack, portfolio-map, sectoral-overlays",
+    "- [ ] Create one subfolder per topic (`" + d.topics.map(t => t.id).join("/`, `") + "/`)",
+    "- [ ] Create `agents/` (00-orchestrator through 05-adjudicator), `agents/_brain/`, `agents/AGENTS.md`",
+    "- [ ] Create `.claude/agents/" + d.code.toLowerCase() + "-{orchestrator,regulations,sourcing,workflow,legal-reasoning,adjudicator}.md`",
+    "- [ ] Create `clippings/inbox/` and `clippings/processed/`",
+    "- [ ] Create `findings/`",
+    "- [ ] Create `website/" + d.slug + "/{index.html, monitor.json, items.json}` (use M01 as template)",
+    "- [ ] Add a card for " + d.code + " in `website/index.html`",
+    "- [ ] Register " + d.code + " in `CLAUDE.md` weekly focus, `strategy.md` locked filters, `portfolios.md`",
+    "- [ ] Begin 14-day calibration; generate first handoff brief in `generated/handoffs/`",
+    ""
+  ].join("\n");
+}
+
+function buildClaudePrompt() {
+  const d = wizard.data;
+  const num = d.code.slice(1).padStart(2, "0");
+  const folder = "monitor-" + num + "-" + d.slug;
+  const codeLower = d.code.toLowerCase();
+
+  return [
+    "You are extending the Prosus Legal Intelligence Briefing system with a new monitor.",
+    "",
+    "## Read first (constitution)",
+    "",
+    "1. Read `CLAUDE.md` (operating rules 1–10).",
+    "2. Read `README.md`, `strategy.md`, `agents-architecture.md`.",
+    "3. Use **`monitors/monitor-01/`** as the structural template, and **`monitors/monitor-02-eu-competition/`** as the four-domain reference.",
+    "4. Read `website/monitor-01/index.html` + `website/monitor-01/monitor.json` to understand the website pattern.",
+    "",
+    "## The new monitor",
+    "",
+    "- **Code:** " + d.code,
+    "- **Folder:** `monitors/" + folder + "/`",
+    "- **Name:** " + d.name,
+    "- **Tagline:** " + d.tagline,
+    "- **Anchor:** " + d.anchor + " · " + d.anchor_role,
+    "- **Anchor mode:** " + d.anchor_mode,
+    "- **Confidentiality posture:** " + d.confidentiality,
+    "- **Jurisdictions:** " + d.jurisdictions.join(", "),
+    "- **OpCos in scope:** " + d.opcos.join(", "),
+    "- **Topics:**",
+    d.topics.map(t => "  - `" + t.id + "` — " + t.label + " (" + t.color + ")").join("\n"),
+    "",
+    "## Step 1 — scaffold the monitor folder",
+    "",
+    "Create `monitors/" + folder + "/` with the same shape as `monitors/monitor-01/`:",
+    "- `README.md` — monitor purpose, anchor, four-section spec",
+    "- `SYSTEM-PROMPT.md` — Block 1 (markets), Block 2 (anchor needs), Block 3 (operating preferences), parameterised for this monitor",
+    "- `output-schema.md` — adapt M01's schema for this monitor's fields",
+    "- `ranking-criteria.md` — start with the system 21 ranking rules; add monitor-specific auto-rank rules below",
+    "- `operating-preferences.md` — confidentiality, jurisdiction priority, voice",
+    "- `our_markets.md` · `our_stack.md` · `portfolio-map.md` · `sectoral-overlays.md` — adapt M01 / M02 versions to this scope",
+    "- Subfolders: " + d.topics.map(t => "`" + t.id + "/`").join(", "),
+    "- `clippings/inbox/` + `clippings/processed/` (empty)",
+    "- `findings/` (empty)",
+    "- `agents/` with `00-orchestrator.md`, `01-regulations.md`, `02-sourcing-connecting.md`, `03-static-workflow.md`, `04-legal-reasoning.md`, `05-adjudicator.md`, `AGENTS.md`, and `_brain/` containing `link-map.md`, `reflections.md`, `adjudicator-log.md`, `cross-monitor-bridges.md`",
+    "",
+    "Use the persona prompts from `monitors/monitor-01/agents/*.md` as the starting template for each agent, then localise to this monitor's scope.",
+    "",
+    "## Step 2 — register subagents in `.claude/agents/`",
+    "",
+    "Create six wrappers in `.claude/agents/`:",
+    "- `" + codeLower + "-orchestrator.md`",
+    "- `" + codeLower + "-regulations.md`",
+    "- `" + codeLower + "-sourcing.md`",
+    "- `" + codeLower + "-workflow.md`",
+    "- `" + codeLower + "-legal-reasoning.md`",
+    "- `" + codeLower + "-adjudicator.md`",
+    "",
+    "Mirror the structure of the existing `m01-*.md` and `m02-*.md` wrappers — frontmatter with name, description, model — and link each to its persona file under `monitors/" + folder + "/agents/`.",
+    "",
+    "## Step 3 — locked filters and ranking rules",
+    "",
+    "Add to `monitors/" + folder + "/operating-preferences.md`:",
+    "",
+    "```",
+    d.filters || "(inherits system-wide 1–8 only)",
+    "```",
+    "",
+    "Add to `monitors/" + folder + "/ranking-criteria.md`:",
+    "",
+    "```",
+    d.rules || "(no monitor-specific auto-rank rules at launch)",
+    "```",
+    "",
+    "Add cross-monitor bridges to `monitors/" + folder + "/agents/_brain/cross-monitor-bridges.md`:",
+    "",
+    "```",
+    d.bridges || "(none at launch)",
+    "```",
+    "",
+    "## Step 4 — sources",
+    "",
+    "Add to `scripts/sources.yml` under a new monitor key `monitor-" + num + "`:",
+    "",
+    "- Tier A: " + (d.tier_a ? d.tier_a.split("\n").map(s => "`" + s.trim() + "`").join(", ") : "(none)"),
+    "- Tier B: " + (d.tier_b ? d.tier_b.split("\n").map(s => "`" + s.trim() + "`").join(", ") : "(none)"),
+    "- Tier C: " + (d.tier_c ? d.tier_c.split("\n").map(s => "`" + s.trim() + "`").join(", ") : "(none)"),
+    "",
+    "If feeds are paywalled or require login, add a browser-intake entry in `scripts/approved-browser-sources.yml`.",
+    "",
+    "## Step 5 — website",
+    "",
+    "Create `website/" + d.slug + "/` as a SELF-CONTAINED page (works opened from disk or via Netlify):",
+    "- `monitor.json` — use the JSON below verbatim (kept on disk for easy editing)",
+    "- `items.json` — start as `[]`; the first sourcing pass will populate it",
+    "- `index.html` — build by reading `website/shared/monitor.css` and `website/shared/monitor.js`, then assembling:",
+    "  - a `<style>` block containing the full monitor.css inline",
+    "  - a `<script>` block setting `window.MONITOR_DATA = <monitor.json contents>` and `window.ITEMS_DATA = []`",
+    "  - a second `<script>` block containing the full monitor.js inline (no `src=`)",
+    "  - the body matches the DOM in `website/monitor-01/index.html` (same IDs and classes — `#brand-product`, `#live-pill`, `#tabs`, `#item-grid`, etc.)",
+    "  - change only the `<title>` to \"" + d.code + " · " + d.name + " · Legal Intelligence Briefing\"",
+    "",
+    "Rationale: monitor.js prefers `window.MONITOR_DATA` / `window.ITEMS_DATA` when present, falls back to `fetch('./monitor.json')`. Inline keeps it working over `file://`.",
+    "",
+    "**monitor.json contents:**",
+    "",
+    "```json",
+    JSON.stringify(buildMonitorJson(), null, 2),
+    "```",
+    "",
+    "Then update `website/index.html` (the hub) to add a third card linking to `./" + d.slug + "/`. Match the styling pattern of the existing M01 / M02 cards.",
+    "",
+    "## Step 6 — register in the constitution",
+    "",
+    "- Add " + d.code + " to `CLAUDE.md` weekly focus block (status: calibrating · D0/14).",
+    "- Add " + d.code + " to `strategy.md` under the live monitors list, preserving the federated style.",
+    "- Add jurisdictions / OpCos to `portfolios.md` where coverage extends.",
+    "- Log the addition in `daily/" + new Date().toISOString().slice(0,10) + ".md` with a `DECISION:` line.",
+    "",
+    "## Step 7 — initialise and run",
+    "",
+    "After scaffolding is complete:",
+    "",
+    "1. Invoke the `" + codeLower + "-orchestrator` subagent and ask it to draft the first weekly digest using the Tier A + Tier B sources you registered. Use the same Blocks 1–3 initialisation pattern that M01 / M02 followed (record in `_archive/" + folder + "-init/`).",
+    "2. Run the browser-intake skill (`system/skills/browser-intake.md`) for this monitor's first calibration pass, but **do not publish** — the adjudicator must approve first (CLAUDE.md Rule 8).",
+    "3. Produce a calibration handoff brief at `generated/handoffs/" + d.code.toLowerCase() + "-" + d.slug + "-day-0.md` addressed to " + (d.anchor || "the anchor") + ", asking for redline on the four-section spec.",
+    "4. Surface the briefing for operator review (no auto-publish).",
+    "",
+    "## Conventions",
+    "",
+    "- Treat structure as the product. Respect locked filters; never redefine \"Prosus-adjacent\" per-monitor — open a strategy.md PR if scope needs widening.",
+    "- Preserve archive folders. Anything superseded goes to `_archive/superseded-pre-system-prompt/`.",
+    "- All autonomous outputs land in `generated/`. Never edit `generated/` files in place — re-run the producer.",
+    "- Confidentiality pre-filter runs at Sourcing intake (Rule 7).",
+    "",
+    "When done, summarise what you created in 5–10 bullets and tell me how to open the new monitor page."
+  ].join("\n");
+}
+
+function buildMonitorJson() {
+  const d = wizard.data;
+  return {
+    id: "monitor-" + d.code.slice(1).padStart(2, "0") + "-" + d.slug,
+    code: d.code,
+    name: d.name,
+    tagline: d.tagline,
+    anchor: d.anchor,
+    anchor_role: d.anchor_role,
+    scope: (d.jurisdictions.length ? d.jurisdictions.join("/") : "Global"),
+    status: "calibrating",
+    status_label: "Calibrating · D0/14",
+    week_label: new Date().toISOString().slice(0,10) + " · Day 0",
+    week_iso: "",
+    generated_at: new Date().toISOString().slice(0,10),
+    version: "0.1",
+    privilege_note: "Privileged work product · Prosus Group Legal & Public Policy",
+    footer_note: d.code + " calibration mode Day 0/14",
+    topics: d.topics,
+    chips: [
+      "<b>" + d.code + " launched</b> · " + new Date().toISOString().slice(0,10),
+      "<b>Anchor:</b> " + (d.anchor || "TBD") + " — " + (d.anchor_role || ""),
+      "<b>Scope:</b> " + (d.jurisdictions.join(", ") || "Global")
+    ]
+  };
+}
+
+function renderReview() {
+  collectStep(wizard.step);
+  const d = wizard.data;
+  const dl = $("#review-grid");
+  dl.innerHTML =
+    '<dt>Code · slug</dt><dd><b>' + d.code + '</b> · <code>' + d.slug + '</code></dd>' +
+    '<dt>Name</dt><dd>' + (d.name || "—") + '</dd>' +
+    '<dt>Tagline</dt><dd>' + (d.tagline || "—") + '</dd>' +
+    '<dt>Topics</dt><dd>' + (d.topics.length ? d.topics.map(t => '<span style="display:inline-block;width:10px;height:10px;background:'+t.color+';border-radius:50%;margin-right:4px;vertical-align:middle;"></span>' + t.label).join(" · ") : "—") + '</dd>' +
+    '<dt>Anchor</dt><dd>' + (d.anchor || "—") + (d.anchor_role ? " · " + d.anchor_role : "") + ' <span style="color:var(--text-tertiary);">(' + d.anchor_mode + ')</span></dd>' +
+    '<dt>Jurisdictions</dt><dd>' + (d.jurisdictions.join(", ") || "—") + '</dd>' +
+    '<dt>OpCos in scope</dt><dd>' + (d.opcos.join(", ") || "—") + '</dd>' +
+    '<dt>Sources</dt><dd>' +
+      'Tier A: ' + (d.tier_a.split("\n").filter(Boolean).length || 0) + ' · ' +
+      'Tier B: ' + (d.tier_b.split("\n").filter(Boolean).length || 0) + ' · ' +
+      'Tier C: ' + (d.tier_c.split("\n").filter(Boolean).length || 0) +
+    '</dd>' +
+    '<dt>Filters / rules</dt><dd>' + ((d.filters || d.rules) ? "configured" : "default") + '</dd>';
+
+  $("#output-blueprint").textContent = buildBlueprint();
+  $("#output-prompt").textContent = buildClaudePrompt();
+  $("#output-json").textContent = JSON.stringify(buildMonitorJson(), null, 2);
+}
+
+// Output tab switching
+$$(".output-tab").forEach(t => {
+  t.addEventListener("click", () => {
+    $$(".output-tab").forEach(x => x.classList.toggle("active", x === t));
+    $("#output-blueprint").classList.toggle("hidden", t.dataset.out !== "blueprint");
+    $("#output-prompt").classList.toggle("hidden", t.dataset.out !== "prompt");
+    $("#output-json").classList.toggle("hidden", t.dataset.out !== "json");
+  });
+});
+
+// Downloads + copy
+function download(filename, content, type) {
+  const blob = new Blob([content], { type: type || "text/plain;charset=utf-8" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = filename;
+  document.body.appendChild(a); a.click();
+  setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 200);
+}
+
+$("#dl-blueprint").addEventListener("click", () => {
+  const d = wizard.data;
+  download((d.code + "-" + d.slug + "-blueprint.md").toLowerCase(), buildBlueprint(), "text/markdown");
+  toast("Downloaded " + d.code + " blueprint.md");
+});
+$("#dl-monitor-json").addEventListener("click", () => {
+  const d = wizard.data;
+  download((d.code + "-" + d.slug + "-monitor.json").toLowerCase(), JSON.stringify(buildMonitorJson(), null, 2), "application/json");
+  toast("Downloaded monitor.json");
+});
+$("#dl-items-json").addEventListener("click", () => {
+  const d = wizard.data;
+  download((d.code + "-" + d.slug + "-items.json").toLowerCase(), "[]\n", "application/json");
+  toast("Downloaded empty items.json");
+});
+$("#copy-prompt").addEventListener("click", async () => {
+  const txt = buildClaudePrompt();
+  try {
+    await navigator.clipboard.writeText(txt);
+    toast("Claude prompt copied to clipboard");
+  } catch (e) {
+    // fallback
+    const ta = document.createElement("textarea");
+    ta.value = txt; document.body.appendChild(ta);
+    ta.select(); document.execCommand("copy"); ta.remove();
+    toast("Claude prompt copied (fallback)");
+  }
+});
+$("#reset-form").addEventListener("click", () => {
+  if (!confirm("Reset all fields?")) return;
+  location.reload();
+});
+
+// Bootstrap
+renderTopicList();
+</script>
+
+</body>
+</html>

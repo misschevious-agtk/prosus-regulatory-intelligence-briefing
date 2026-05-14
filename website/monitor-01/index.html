@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>M01 · Regulatory Intelligence · Legal Intelligence Briefing</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1'%3E%3Cstop offset='0' stop-color='%23FC9628'/%3E%3Cstop offset='0.5' stop-color='%23D90276'/%3E%3Cstop offset='1' stop-color='%23370180'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='14' fill='url(%23g)'/%3E%3Ctext x='50%25' y='58%25' font-family='system-ui,sans-serif' font-size='40' font-weight='800' fill='white' text-anchor='middle' dominant-baseline='middle'%3EL%3C/text%3E%3C/svg%3E">
+  <style>
+/* =====================================================================
+   Legal Intelligence Briefing — universal monitor stylesheet
+   Prosus brand: Chloride / Argon / Oxide / Lithium
+   Four themes via <html data-theme="light|dark|colourful|clean">
+   ===================================================================== */
+
+:root {
+  --ch-dark: #00856E;  --ch-prime: #00AC8E;  --ch-light: #00D3AF;
+  --ar-dark: #850048;  --ar-prime: #AF015F;  --ar-light: #D90276;
+  --ox-dark: #FC9628;  --ox-prime: #FC8828;  --ox-light: #FCDA28;
+  --li-dark: #370180;  --li-prime: #571580;  --li-light: #772980;
+  --r-high-fg: #B8124E;
+  --r-med-fg:  #B86A12;
+  --r-low-fg:  #007459;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 999px;
+  --gradient: linear-gradient(90deg, var(--ox-dark) 0%, var(--ar-light) 50%, var(--li-dark) 100%);
+  --gradient-cool: linear-gradient(90deg, var(--ch-prime) 0%, var(--li-prime) 100%);
+}
+
+:root,
+html[data-theme="light"] {
+  --bg-page:   #FBF7EE;
+  --bg-card:   #FFFFFF;
+  --bg-soft:   #F2EBDE;
+  --tint-li:   #EFE6FA;
+  --tint-ar:   #FBE0EF;
+  --tint-ox:   #FFF1DC;
+  --tint-ch:   #DDF5EE;
+  --text-primary:   #1B0838;
+  --text-secondary: #5C4C7A;
+  --text-tertiary:  #8C7DA8;
+  --border-soft:    rgba(55, 1, 128, 0.10);
+  --border-strong:  rgba(55, 1, 128, 0.22);
+  --bg-ambient:
+    radial-gradient(circle at 12% 0%,  rgba(252,150,40,.14) 0%, transparent 42%),
+    radial-gradient(circle at 92% 12%, rgba(217,2,118,.12)  0%, transparent 38%),
+    radial-gradient(circle at 50% 100%,rgba(55,1,128,.08)   0%, transparent 50%),
+    radial-gradient(circle at 5% 80%,  rgba(0,172,142,.06)  0%, transparent 35%);
+}
+
+html[data-theme="dark"] {
+  --bg-page:   #0F0420;
+  --bg-card:   #1B0C36;
+  --bg-soft:   #261548;
+  --tint-li:   #2D1559;
+  --tint-ar:   #38123A;
+  --tint-ox:   #3D2911;
+  --tint-ch:   #0E3A30;
+  --text-primary:   #F5EEFA;
+  --text-secondary: #B8A8D0;
+  --text-tertiary:  #8C7AA8;
+  --border-soft:    rgba(255,255,255,.08);
+  --border-strong:  rgba(255,255,255,.20);
+  --r-high-fg: #FF8FA3;
+  --r-med-fg:  #FFE3A1;
+  --r-low-fg:  #9FF0D2;
+  --bg-ambient:
+    radial-gradient(circle at 10% 0%,  rgba(217,2,118,.18) 0%, transparent 40%),
+    radial-gradient(circle at 90% 30%, rgba(55,1,128,.30)  0%, transparent 45%),
+    radial-gradient(circle at 50% 100%,rgba(252,150,40,.08) 0%, transparent 50%);
+}
+
+html[data-theme="colourful"] {
+  --bg-page:   #FFF5E8;
+  --bg-card:   #FFFFFF;
+  --bg-soft:   #FFE9CC;
+  --tint-li:   #E5D4FF;
+  --tint-ar:   #FFD0E5;
+  --tint-ox:   #FFE0B5;
+  --tint-ch:   #C4F0E1;
+  --text-primary:   #1B0838;
+  --text-secondary: #5C4C7A;
+  --text-tertiary:  #8C7DA8;
+  --border-soft:    rgba(217,2,118,.18);
+  --border-strong:  rgba(217,2,118,.38);
+  --bg-ambient:
+    radial-gradient(circle at 8% 0%,   rgba(252,150,40,.32) 0%, transparent 38%),
+    radial-gradient(circle at 92% 8%,  rgba(217,2,118,.24)  0%, transparent 36%),
+    radial-gradient(circle at 50% 96%, rgba(55,1,128,.16)   0%, transparent 50%),
+    radial-gradient(circle at 5% 78%,  rgba(0,172,142,.18)  0%, transparent 38%);
+}
+
+html[data-theme="clean"] {
+  --bg-page:   #FFFFFF;
+  --bg-card:   #FFFFFF;
+  --bg-soft:   #F6F6F8;
+  --tint-li:   #F2EDFA;
+  --tint-ar:   #FBEEF4;
+  --tint-ox:   #FCF4E8;
+  --tint-ch:   #ECF7F3;
+  --text-primary:   #15102A;
+  --text-secondary: #545068;
+  --text-tertiary:  #8A8696;
+  --border-soft:    rgba(20,16,42,.08);
+  --border-strong:  rgba(20,16,42,.18);
+  --gradient: linear-gradient(90deg, var(--li-dark) 0%, var(--ar-prime) 100%);
+  --bg-ambient: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --bg-page: #0F0420; --bg-card: #1B0C36; --bg-soft: #261548;
+    --tint-li: #2D1559; --tint-ar: #38123A; --tint-ox: #3D2911; --tint-ch: #0E3A30;
+    --text-primary: #F5EEFA; --text-secondary: #B8A8D0; --text-tertiary: #8C7AA8;
+    --border-soft: rgba(255,255,255,.08); --border-strong: rgba(255,255,255,.20);
+    --r-high-fg: #FF8FA3; --r-med-fg: #FFE3A1; --r-low-fg: #9FF0D2;
+  }
+}
+
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px; line-height: 1.6;
+  color: var(--text-primary);
+  background: var(--bg-page);
+  background-image: var(--bg-ambient);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+a { color: inherit; text-decoration: none; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+
+.topbar {
+  position: sticky; top: 0; z-index: 60;
+  padding: 14px 28px;
+  display: flex; align-items: center; gap: 20px;
+  background: var(--bg-card);
+  border-bottom: 0.5px solid var(--border-soft);
+  backdrop-filter: blur(10px);
+}
+.brand { display: flex; align-items: center; gap: 14px; min-width: 0; flex-shrink: 0; }
+.brand-link { display: flex; align-items: center; gap: 14px; }
+.brand-mark {
+  font-size: 18px; font-weight: 800; letter-spacing: -0.5px;
+  background: var(--gradient);
+  -webkit-background-clip: text; background-clip: text;
+  color: transparent; white-space: nowrap;
+}
+.brand-sep { width: 1px; height: 22px; background: var(--border-soft); }
+.brand-product { font-size: 13px; color: var(--text-secondary); font-weight: 500; white-space: nowrap; }
+.brand-product b { color: var(--text-primary); font-weight: 600; }
+
+.live-pill {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 6px 14px; border-radius: var(--radius-full);
+  font-size: 12px; font-weight: 500;
+  background: var(--tint-ch); color: var(--ch-dark);
+  border: 0.5px solid var(--border-soft);
+}
+.live-pill.calibrating { background: var(--tint-ox); color: var(--ox-prime); }
+.live-pill.pending     { background: var(--tint-li); color: var(--li-prime); }
+.live-pill.dormant     { background: var(--bg-soft); color: var(--text-tertiary); }
+.live-dot { width: 7px; height: 7px; border-radius: 50%; background: currentColor; box-shadow: 0 0 0 0 currentColor; animation: pulse 2s infinite; }
+@keyframes pulse {
+  0%   { box-shadow: 0 0 0 0 rgba(0,172,142,.55); }
+  70%  { box-shadow: 0 0 0 10px rgba(0,172,142,0); }
+  100% { box-shadow: 0 0 0 0 rgba(0,172,142,0); }
+}
+
+.search { flex: 1; max-width: 380px; display: flex; align-items: center; gap: 10px; padding: 8px 14px; background: var(--bg-soft); border: 0.5px solid var(--border-soft); border-radius: var(--radius-md); color: var(--text-secondary); }
+.search input { flex: 1; background: transparent; border: 0; outline: 0; color: var(--text-primary); font-size: 13.5px; font-family: inherit; }
+.search input::placeholder { color: var(--text-tertiary); }
+
+.counters { display: flex; gap: 22px; align-items: center; }
+.counter .num { font-size: 19px; font-weight: 700; line-height: 1; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.counter .num.high { color: var(--r-high-fg); }
+.counter .num.med  { color: var(--r-med-fg); }
+.counter .lbl { font-size: 10px; letter-spacing: 1.2px; color: var(--text-tertiary); text-transform: uppercase; margin-top: 4px; }
+
+.theme-toggle { position: relative; display: inline-flex; align-items: center; gap: 6px; padding: 7px 12px; border-radius: var(--radius-full); background: var(--bg-soft); color: var(--text-secondary); border: 0.5px solid var(--border-soft); font-size: 12px; font-weight: 500; cursor: pointer; font-family: inherit; }
+.theme-toggle::before { content: ""; width: 12px; height: 12px; border-radius: 50%; background: var(--gradient); }
+.theme-menu { position: absolute; top: calc(100% + 6px); right: 0; min-width: 160px; background: var(--bg-card); border: 0.5px solid var(--border-strong); border-radius: var(--radius-md); box-shadow: 0 16px 40px -12px rgba(55,1,128,.25); padding: 6px; display: none; z-index: 80; }
+.theme-menu[open] { display: block; }
+.theme-menu button { display: flex; align-items: center; gap: 10px; width: 100%; padding: 8px 10px; background: transparent; border: 0; cursor: pointer; font-family: inherit; font-size: 13px; color: var(--text-primary); text-align: left; border-radius: 6px; }
+.theme-menu button:hover { background: var(--bg-soft); }
+.theme-menu button.active { background: var(--tint-li); color: var(--li-prime); font-weight: 600; }
+.theme-menu .swatch { width: 14px; height: 14px; border-radius: 50%; border: 0.5px solid var(--border-soft); flex-shrink: 0; }
+.theme-menu .swatch.light     { background: linear-gradient(135deg, #FBF7EE 50%, #EFE6FA 50%); }
+.theme-menu .swatch.dark      { background: linear-gradient(135deg, #15082B 50%, #D90276 50%); }
+.theme-menu .swatch.colourful { background: linear-gradient(135deg, #FC9628, #D90276 50%, #370180); }
+.theme-menu .swatch.clean     { background: linear-gradient(135deg, #FFFFFF 50%, #15102A 50%); }
+
+.tabs { position: sticky; top: 60px; z-index: 55; padding: 0 28px; background: var(--bg-page); border-bottom: 0.5px solid var(--border-soft); display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; }
+.tabs::-webkit-scrollbar { display: none; }
+.tab { padding: 13px 16px; font-size: 13.5px; color: var(--text-secondary); cursor: pointer; border-bottom: 2px solid transparent; font-weight: 500; display: inline-flex; align-items: center; gap: 8px; white-space: nowrap; user-select: none; background: transparent; border-left: 0; border-right: 0; border-top: 0; font-family: inherit; }
+.tab:hover { color: var(--text-primary); }
+.tab.active { color: var(--text-primary); border-bottom-color: var(--ar-light); font-weight: 600; }
+.tab-ct { font-size: 10.5px; font-weight: 700; background: var(--bg-soft); color: var(--text-secondary); padding: 2px 8px; border-radius: var(--radius-full); letter-spacing: .3px; }
+.tab.active .tab-ct { background: var(--tint-ar); color: var(--ar-prime); }
+
+.summary-bar { padding: 14px 28px; display: flex; flex-wrap: wrap; gap: 14px; align-items: center; font-size: 13px; color: var(--text-secondary); background: var(--bg-card); border-bottom: 0.5px solid var(--border-soft); }
+.summary-week { font-weight: 600; color: var(--text-primary); font-size: 14px; }
+.summary-pulse { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; }
+.summary-pulse b { color: var(--ch-dark); font-weight: 600; }
+.chip { display: inline-flex; align-items: center; padding: 5px 12px; border-radius: var(--radius-full); background: var(--bg-soft); color: var(--text-secondary); border: 0.5px solid var(--border-soft); font-size: 12px; line-height: 1.4; }
+.chip b { color: var(--text-primary); font-weight: 600; margin-right: 4px; }
+.chip.notice { background: var(--tint-ox); color: var(--ox-prime); border-color: rgba(252,136,40,.20); }
+.chip.notice b { color: var(--ox-prime); }
+
+.main { padding: 24px 28px 96px; }
+.grid { display: grid; grid-template-columns: 1fr; gap: 14px; max-width: 1100px; margin: 0 auto; }
+
+.empty { padding: 56px 24px; text-align: center; color: var(--text-tertiary); background: var(--bg-card); border-radius: var(--radius-lg); border: 1px dashed var(--border-soft); }
+.empty h3 { color: var(--text-primary); margin: 0 0 6px; font-weight: 600; }
+
+.card { background: var(--bg-card); border: 0.5px solid var(--border-soft); border-radius: var(--radius-lg); padding: 18px 20px; transition: border-color .15s, transform .15s, box-shadow .15s; }
+.card:hover { border-color: var(--border-strong); transform: translateY(-1px); box-shadow: 0 10px 30px -12px rgba(55,1,128,.15); }
+.card-head { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; align-items: center; }
+.ctag { display: inline-flex; align-items: center; font-size: 11px; font-weight: 500; padding: 3px 9px; border-radius: 6px; background: var(--bg-soft); color: var(--text-secondary); border: 0.5px solid var(--border-soft); letter-spacing: 0.2px; }
+.ctag-domain { text-transform: uppercase; letter-spacing: 0.6px; font-size: 10px; font-weight: 700; padding: 4px 10px; }
+.ctag-domain[data-topic-color] { background: var(--topic-tint, var(--bg-soft)); color: var(--topic-fg, var(--text-secondary)); border-color: var(--topic-border, var(--border-soft)); }
+.ctag-loc { background: transparent; }
+.ctag-date { color: var(--text-tertiary); border-color: transparent; }
+.ctag-rule { background: var(--tint-li); color: var(--li-prime); border-color: rgba(87,21,128,.18); font-weight: 600; }
+.ctag-source { background: transparent; color: var(--li-prime); border-color: rgba(87,21,128,.18); text-decoration: none; }
+.ctag-source:hover { background: var(--tint-li); }
+
+.risk-pill { margin-left: auto; font-size: 10px; font-weight: 700; padding: 4px 10px; border-radius: var(--radius-full); letter-spacing: 0.6px; }
+.r-high { background: var(--tint-ar); color: var(--r-high-fg); }
+.r-med  { background: var(--tint-ox); color: var(--r-med-fg); }
+.r-low  { background: var(--tint-ch); color: var(--r-low-fg); }
+
+.card-title { font-size: 16.5px; font-weight: 600; line-height: 1.35; letter-spacing: -.3px; margin: 0 0 8px; color: var(--text-primary); }
+.card-body { font-size: 13.5px; line-height: 1.55; color: var(--text-secondary); margin: 0 0 12px; }
+.card-why { background: var(--tint-ar); border-left: 3px solid var(--ar-light); padding: 10px 14px; border-radius: 0 8px 8px 0; font-size: 12.5px; line-height: 1.55; color: var(--text-primary); margin-bottom: 12px; }
+.card-why b { font-weight: 600; }
+.card-foot { display: flex; flex-wrap: wrap; gap: 10px; font-size: 11.5px; color: var(--text-tertiary); border-top: 0.5px solid var(--border-soft); padding-top: 10px; }
+.card-foot .opc { color: var(--text-secondary); }
+.card-foot .opc b { color: var(--text-primary); font-weight: 500; }
+.card-foot .owner { margin-left: auto; font-weight: 500; color: var(--text-secondary); }
+
+.footer { margin: 48px auto 24px; max-width: 1100px; padding: 24px 0; border-top: 0.5px solid var(--border-soft); display: flex; justify-content: space-between; align-items: center; font-size: 11.5px; color: var(--text-tertiary); flex-wrap: wrap; gap: 12px; }
+.footer a { color: var(--li-prime); }
+
+html[data-theme="clean"] .card { box-shadow: none; }
+html[data-theme="clean"] .card:hover { box-shadow: none; }
+html[data-theme="clean"] .card-why { background: transparent; border-left-color: var(--text-tertiary); padding-left: 12px; }
+html[data-theme="clean"] .topbar { background: transparent; backdrop-filter: none; }
+html[data-theme="clean"] .summary-bar { background: transparent; }
+
+@media (max-width: 860px) {
+  .topbar { padding: 12px 16px; gap: 12px; flex-wrap: wrap; }
+  .tabs { padding: 0 12px; top: 76px; }
+  .summary-bar { padding: 12px 16px; gap: 8px; }
+  .main { padding: 18px 14px 72px; }
+  .search, .counters { display: none; }
+  .brand-product { font-size: 12px; }
+  .live-pill { font-size: 11px; padding: 5px 12px; }
+}
+
+  </style>
+</head>
+<body>
+
+<header class="topbar" role="banner">
+  <div class="brand">
+    <a class="brand-link" href="../" aria-label="Back to hub">
+      <span class="brand-mark">Legal·Intel·Brief</span>
+    </a>
+    <span class="brand-sep" aria-hidden="true"></span>
+    <span class="brand-product" id="brand-product">Loading…</span>
+  </div>
+  <span class="live-pill" id="live-pill" role="status">
+    <span class="live-dot" aria-hidden="true"></span>
+    <span id="live-pill-label">—</span>
+  </span>
+  <div class="search">
+    <span aria-hidden="true">🔎</span>
+    <input id="search-input" type="text" placeholder="Search…" aria-label="Search items">
+  </div>
+  <div class="counters" aria-label="Counts">
+    <div class="counter"><div class="num" id="ct-total">—</div><div class="lbl">Items</div></div>
+    <div class="counter"><div class="num high" id="ct-high">—</div><div class="lbl">High risk</div></div>
+    <div class="counter"><div class="num med" id="ct-med">—</div><div class="lbl">Action</div></div>
+  </div>
+  <div style="position:relative;">
+    <button class="theme-toggle" id="theme-toggle" aria-haspopup="true" aria-expanded="false">Theme</button>
+    <div class="theme-menu" id="theme-menu" role="menu"></div>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs" aria-label="Topics"></nav>
+
+<section class="summary-bar" aria-label="This week summary">
+  <span class="summary-week" id="summary-week">—</span>
+  <span class="summary-pulse" id="summary-pulse">Pulse: <b>—</b></span>
+  <span id="summary-chips" style="display:flex;flex-wrap:wrap;gap:8px;"></span>
+</section>
+
+<main class="main" role="main">
+  <div class="grid" id="item-grid">
+    <div class="empty"><h3>Loading…</h3></div>
+  </div>
+</main>
+
+<footer class="footer">
+  <span id="footer-meta">—</span>
+  <span id="footer-gen">—</span>
+</footer>
+
+<script>
+// Inline data — keeps the page working when opened directly from disk (no fetch needed).
+// To update content, edit monitor.json + items.json alongside this file, then re-stitch.
+window.MONITOR_DATA = {"id": "monitor-01", "code": "M01", "name": "Regulatory Intelligence", "tagline": "Cross-cutting horizontal regulation across AI, privacy, IP, and the in-house legal function.", "anchor": "K. Maleevska", "anchor_role": "Operator-anchored", "scope": "Global (EU/NL/UK/CN/BR/IN/US/ZA)", "status": "calibrating", "status_label": "Calibrating · D2/14", "week_label": "9–14 May 2026 · ISO Week 20", "week_iso": "2026-W20", "generated_at": "2026-05-14", "version": "0.2", "privilege_note": "Privileged work product · Prosus Group Legal & Public Policy", "footer_note": "M01 calibration mode Day 2/14", "topics": [{"id": "ai-news", "label": "AI News", "color": "#571580"}, {"id": "privacy", "label": "Privacy & Data", "color": "#00AC8E"}, {"id": "ip", "label": "IP & Brand", "color": "#D90276"}, {"id": "legal-ops", "label": "Legal Ops", "color": "#FC8828"}], "chips": ["<b>SAMR<\/b> conditionally approves Tencent–Ximalaya (Rule 6 trigger)", "<b>Bartz v. Anthropic<\/b> fairness hearing today (14 May)", "<b>TikTok<\/b> €530m DPC GDPR fine — cross-border transfers"]};
+window.ITEMS_DATA   = [{"id": "samr-tencent-ximalaya", "theme": "ai-news", "catLabel": "AI Policy", "country": "CN", "countryLabel": "CN China", "risk": "high", "date": "2026-05-13", "dateLabel": "13 May 2026", "source": "SAMR / ECNS", "url": "http://www.ecns.cn/china/2026-05-13/detail-ihfenirv8001432.shtml", "title": "SAMR conditionally approves Tencent–Ximalaya $2.9bn acquisition; five behavioural commitments imposed", "body": "China's State Administration for Market Regulation cleared Tencent's Ximalaya stake acquisition with five restrictive commitments: no price hikes or service-quality reductions on Tencent's audio platforms; no cuts to free-content share; no new exclusive licensing with copyright holders (existing exclusives to be wound down); no tying audio/music platforms to automakers; SAMR will closely supervise implementation.", "why": "Direct Rule 6 (Tencent-attribution) trigger — Tencent is treated as if it were a Prosus operating company for AI/M01 rank purposes. Cross-monitor link to M02 abuse-of-dominance (Rule 13). The behavioural-conditions menu becomes the SAMR template for any Tencent-touching content/audio play.", "co": "Tencent NAV exposure · Group", "owner": "Group AI Counsel", "ownerTeam": "Group Legal"}, {"id": "anthropic-claude-small-business", "theme": "ai-news", "catLabel": "AI Launches", "country": "US", "countryLabel": "US Global", "risk": "med", "date": "2026-05-12", "dateLabel": "12 May 2026", "source": "Anthropic", "url": "https://www.anthropic.com/news/claude-opus-4-7", "title": "Anthropic launches Claude for Small Business + raises usage limits, new SpaceX compute partnership", "body": "Anthropic launched Claude for Small Business — a package of connectors and ready-to-run workflows targeting SMB tier. Same day, raised Claude's usage limits for Pro/Max/Team/Enterprise customers and confirmed an expanded compute partnership with SpaceX.", "why": "Prosus standardised on Claude. Higher rate caps directly unblock OpCo rollouts (Stack Overflow AI Assist, iFood / Swiggy ops agents, PayU support). Small Business tier creates a parallel SMB sell-in path that overlaps with several JET-side seller workflows.", "co": "Toqan · Stack Overflow · iFood · Swiggy · PayU", "owner": "Group AI Counsel", "ownerTeam": "Group Legal"}, {"id": "openai-eu-gpt55-cyber", "theme": "ai-news", "catLabel": "AI Policy", "country": "EU", "countryLabel": "EU European Union", "risk": "med", "date": "2026-05-11", "dateLabel": "11 May 2026", "source": "CNBC", "url": "https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html", "title": "OpenAI to grant EU access to GPT-5.5-Cyber; Anthropic still holding out on Mythos", "body": "OpenAI announced it will grant the EU institutional access to GPT-5.5-Cyber, a cybersecurity-focused variant of its latest model. Reported as part of evolving frontier-model evaluation programmes with EU AI Office. Anthropic has so far not offered an equivalent access agreement for its Mythos cyber-tier.", "why": "Signals EU AI Office is becoming a real third-party evaluator, with vendor-specific deals. Affects how OpCos justify their AI sourcing (Anthropic-first stance) when government access programmes start influencing procurement preferences.", "co": "Toqan · all OpCos", "owner": "Group AI Counsel", "ownerTeam": "Group Legal"}, {"id": "google-gemini-android-reboot", "theme": "ai-news", "catLabel": "AI Launches", "country": "US", "countryLabel": "US Global", "risk": "med", "date": "2026-05-12", "dateLabel": "12 May 2026", "source": "CNBC", "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html", "title": "Google rebuilds Android around Gemini Intelligence ahead of Apple AI reboot", "body": "Google announced it is rebuilding parts of Android around Gemini Intelligence to help users complete everyday tasks. The push is timed ahead of Apple's expected AI repositioning. Touches default-assistant defaults, agent capabilities embedded in the OS, and gatekeeper-business-user effects under DMA.", "why": "Prosus mobile-first OpCos (OLX, iFood, Swiggy, eMAG, PayU, JET) all live on Android. OS-level Gemini integration changes the agent-vs-app distribution model and affects user-acquisition assumptions. Cross-monitor read-through to M02 digital-markets (DMA business-user posture).", "co": "OLX · iFood · Swiggy · eMAG · PayU · JET", "owner": "Group AI Counsel", "ownerTeam": "Group Legal"}, {"id": "caisi-deepseek-v4-eval", "theme": "ai-news", "catLabel": "AI Policy", "country": "US", "countryLabel": "US United States", "risk": "med", "date": "2026-05-09", "dateLabel": "9 May 2026", "source": "NIST CAISI", "url": "https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro", "title": "NIST CAISI publishes evaluation of DeepSeek V4 Pro — most capable PRC model evaluated to date", "body": "CAISI's evaluation concludes DeepSeek V4 Pro is the most capable PRC AI model it has assessed. Roughly on par with frontier US models on self-reported benchmarks; lags on CAISI's own benchmark suite. Pricing significantly undercuts Anthropic/OpenAI/Google equivalents.", "why": "US-government framing of a Chinese frontier model that is open-weight and significantly cheaper. Stack-relevance: V4 Pro is a credible Toqan-side benchmark and a downward-pressure point on Anthropic/OpenAI cost; M01 IP risk profile differs from US models (Chinese training data, sovereignty).", "co": "Toqan · vendor stack", "owner": "Group AI Counsel", "ownerTeam": "Group Legal"}, {"id": "cohere-fedramp-high", "theme": "ai-news", "catLabel": "AI Launches", "country": "US", "countryLabel": "US United States", "risk": "low", "date": "2026-05-12", "dateLabel": "12 May 2026", "source": "Business Wire", "url": "https://www.businesswire.com/news/home/20260512242074/en/Cohere-Achieves-FedRAMP-High-Authorization-Through-Second-Front-Expanding-Secure-AI-Access-for-Federal-Agencies", "title": "Cohere first independent LLM to hit US FedRAMP High via Second Front", "body": "Cohere achieved FedRAMP High via Second Front's Game Warden inherited authorization — first independent LLM company to reach that bar on its own terms. Authorized in under 90 days.", "why": "Positions Cohere as a sovereign-AI alternative. Relevant for OpCos in regulated geographies (PayU LatAm, eMAG Romania, iyzico Turkey) evaluating non-US-frontier-lab options alongside Anthropic / OpenAI.", "co": "PayU LatAm · eMAG · iyzico", "owner": "Group AI Counsel", "ownerTeam": "Group Legal"}, {"id": "edpb-edps-ai-omnibus", "theme": "ai-news", "catLabel": "AI Policy", "country": "EU", "countryLabel": "EU European Union", "risk": "high", "date": "2026-05-12", "dateLabel": "12 May 2026", "source": "EDPB", "url": "https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion/edpb-edps-joint-opinion-12026-proposal_en", "title": "EDPB-EDPS Joint Opinion 1/2026 on Digital Omnibus AI proposal", "body": "EDPB and EDPS released Joint Opinion 1/2026 in response to the 7 May AI Act amendments. Supports simplification but warns against weakening fundamental-rights safeguards. Demands reinstatement of strict-necessity for processing special-category data for bias correction; opposes deletion of high-risk AI registration; demands mandatory DPA involvement in EU sandboxes.", "why": "Tension between Commission simplification and DPAs at the GDPR/AI-Act interface. Direct relevance for OpCos running bias-correction processing on biometric or special-category data (iyzico KYC, PayU lending, JET / Swiggy dispatch).", "co": "iyzico · PayU · Swiggy · JET", "owner": "Group Privacy Counsel", "ownerTeam": "Group Legal"}, {"id": "tiktok-irish-dpc-530m", "theme": "privacy", "catLabel": "Privacy & Data", "country": "EU", "countryLabel": "IE Ireland", "risk": "high", "date": "2026-05-12", "dateLabel": "12 May 2026", "source": "Irish DPC", "url": "https://www.dataprotection.ie/en/news-media/press-releases", "title": "Irish DPC fines TikTok €530m over China data-transfer misrepresentations", "body": "Irish DPC issued a €530m ($600m) GDPR penalty against TikTok for transferring personal data of European users to servers in China. TikTok had earlier represented to the regulator that no European user data was stored in China; February findings showed that representation was incorrect.", "why": "Largest cross-border-transfer fine to date. Sets the price of mis-stating data-flow geography to a DPA. Direct read-across for any Prosus OpCo with Chinese-vendor sub-processors or Tencent-side data dependencies. Reinforces Rule 14 (M01 DPF / cross-border-transfer fragility).", "co": "Tencent NAV exposure · vendor stack · OLX · iFood", "owner": "Group Privacy Counsel", "ownerTeam": "Group Legal"}, {"id": "ico-southstaffs-water", "theme": "privacy", "catLabel": "Privacy & Data", "country": "UK", "countryLabel": "UK United Kingdom", "risk": "high", "date": "2026-05-11", "dateLabel": "11 May 2026", "source": "UK ICO", "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/05/fine-of-nearly-1m-issued-against-south-staffordshire-plc-and-south-staffordshire-water-plc/", "title": "ICO fines South Staffordshire Water £963,900 after Cl0p cyberattack", "body": "ICO fined South Staffordshire Plc £963,900 (40% early-admission discount applied) after a phishing-led intrusion went undetected for 20 months and 4.1 TB of data was leaked to the dark web. ICO found weak privilege management, only 5% of the IT estate logged, and use of obsolete software (Windows Server 2003).", "why": "UK regulator hardline on security-failure cases under UK GDPR. Sets a precision benchmark for what 'appropriate technical and organisational measures' must look like. Direct relevance for OpCos with legacy infra (PayU, Movile, OLX) and for vendor-risk reviews of legal-tech and ops vendors.", "co": "PayU · OLX · Movile · vendor stack", "owner": "Group Privacy Counsel", "ownerTeam": "Group Legal"}, {"id": "instructure-canvas-breach", "theme": "privacy", "catLabel": "Privacy & Data", "country": "US", "countryLabel": "US Global", "risk": "high", "date": "2026-05-11", "dateLabel": "11 May 2026", "source": "Inside Higher Ed", "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers", "title": "Instructure Canvas LMS breach: up to 275M users at ~8,800 institutions", "body": "ShinyHunters attack on Instructure's Canvas LMS exposed up to 275 million student/teacher records (names, emails, IDs, private messages) at 8,809 institutions worldwide. Instructure paid a ransom to halt a 3.65 TB leak by 12 May. Largest education-sector breach on record.", "why": "Textbook EdTech vendor-risk case. Raises the supply-chain DPIA bar for Prosus EdTech (Stack Overflow, Brainly, GoodHabitz, Codecademy). Triggers obligations under DPDP, GDPR Art 33/34, US state breach laws across the EdTech footprint.", "co": "Stack Overflow · Brainly · GoodHabitz · Codecademy", "owner": "Group Privacy Counsel", "ownerTeam": "Group Legal"}, {"id": "texas-ag-lg-acr", "theme": "privacy", "catLabel": "Privacy & Data", "country": "US", "countryLabel": "US Texas", "risk": "high", "date": "2026-05-12", "dateLabel": "12 May 2026", "source": "Texas AG", "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-major-agreement-lg-protect-texans-privacy-and-stop-data-being", "title": "Texas AG Paxton secures LG smart-TV ACR opt-in settlement; notifies 100+ data brokers", "body": "Texas AG announced agreement with LG Electronics USA requiring opt-in for Automated Content Recognition on smart TVs and barring transfer of viewing data to CCP-linked entities. Same day Paxton notified 100+ companies of apparent Texas Data Broker Law violations.", "why": "Texas now the most assertive US AG on consumer-electronics data flows and data brokers. Cross-jurisdictional pressure for OpCos using ACR-like fingerprinting or selling derived data to brokers. Read-through to Prosus ad-tech and audience-segmentation product surfaces.", "co": "OLX · PayU · all platforms", "owner": "Group Privacy Counsel", "ownerTeam": "Group Legal"}, {"id": "delhi-hc-tharoor-deepfake", "theme": "privacy", "catLabel": "Privacy & Data", "country": "IN", "countryLabel": "IN India", "risk": "high", "date": "2026-05-10", "dateLabel": "10 May 2026", "source": "ThePrint", "url": "https://theprint.in/india/hc-protects-mp-shashi-tharoors-personality-rights-directs-removal-of-deepfake-video/2927102/", "title": "Delhi HC grants Shashi Tharoor personality-rights protection vs AI deepfakes", "body": "Justice Mini Pushkarna issued an interim order requiring X to remove an AI-generated deepfake of MP Shashi Tharoor and binding platforms to disclose subscriber data of uploaders within 3 weeks. Ruling extends personality/publicity rights to AI-cloned voice, gait, oratorical cadence and vocabulary.", "why": "Strongest Indian personality-rights precedent for AI deepfakes to date. Heightens compliance risk for OLX India, PayU India, Stack, any Prosus AI product hosting UGC. Drives proactive deepfake monitoring obligations and disclosure-of-uploader SLAs.", "co": "OLX India · PayU India · Swiggy · PharmEasy", "owner": "Group Privacy Counsel", "ownerTeam": "Group Legal"}, {"id": "meity-india-ai-labelling-deadline", "theme": "privacy", "catLabel": "AI Policy", "country": "IN", "countryLabel": "IN India", "risk": "high", "date": "2026-05-07", "dateLabel": "Consultation closed 7 May", "source": "MediaNama", "url": "https://www.medianama.com/2026/04/223-meity-ai-label-rules-mandates-continuous-disclosure/", "title": "India MeitY AI-content labelling consultation closes; next: final rules", "body": "Draft amendments to IT (Intermediary Guidelines) Rules requiring continuous AI-content labelling, permanent metadata/identifier embedding for traceability, and 3-hour harmful-content takedown SLAs closed for consultation on 7 May. Final rules now imminent.", "why": "Direct hit on Indian OpCos: Swiggy, PharmEasy, Brainly India. Substantial engineering work to embed durable provenance signals and meet tighter takedown SLAs. Implementation timing should be the next-30-day project.", "co": "Swiggy · PharmEasy · Brainly India", "owner": "Group Privacy Counsel", "ownerTeam": "Group Legal"}, {"id": "dpdpa-phase2-clock", "theme": "privacy", "catLabel": "Privacy & Data", "country": "IN", "countryLabel": "IN India", "risk": "med", "date": "2026-05-13", "dateLabel": "Phase 2 trigger date 13 May", "source": "IAPP", "url": "https://iapp.org/news/a/with-rules-finalized-india-s-dpdpa-takes-force", "title": "India DPDP Act enforcement clock: Phase 2 (consent managers) takes force in 6 months", "body": "India's DPDP Act remains in phased enforcement: Phase 1 live since November 2025; Phase 2 (consent-manager registration and DPBI inquiry powers) takes force November 2026; Phase 3 (full substantive obligations) live 13 May 2027.", "why": "Direct relevance for Swiggy, PharmEasy, PayU India and the Stack Overflow / Brainly India audiences. Twelve-month operational runway to Phase 3 — DPIAs, consent-manager onboarding, fiduciary registration all on the critical path.", "co": "Swiggy · PharmEasy · PayU India · Stack Overflow · Brainly India", "owner": "Group Privacy Counsel", "ownerTeam": "Group Legal"}, {"id": "bartz-fairness-hearing", "theme": "ip", "catLabel": "IP & Brand", "country": "US", "countryLabel": "US United States", "risk": "high", "date": "2026-05-14", "dateLabel": "Hearing today 14 May 2026", "source": "Authors Guild", "url": "https://authorsguild.org/news/anthropic-settlement-update-91-percent-of-books-claimed/", "title": "Bartz v. Anthropic fairness hearing today — 91.3% of works claimed, $1.5B settlement at stake", "body": "N.D. Cal. holds the final fairness hearing today, 14 May 2026, before Judge Martínez-Olguín. 440,490 of 482,460 eligible works (91.3%) claimed by 30 March deadline, far above the typical 10% rate. Per-work payout ~$3,000.", "why": "Today's ruling sets the dollar benchmark for AI training-data piracy class actions. Direct effect on Anthropic indemnity exposure underpinning Prosus's Claude-first stack. If the judge modifies the deal, downstream vendor IP indemnities (Stack Overflow, Toqan, all OpCo Claude usage) reprice.", "co": "Toqan · Stack Overflow · all Claude users", "owner": "Tara Harris", "ownerTeam": "Group IP"}, {"id": "shein-temu-uk-trial", "theme": "ip", "catLabel": "IP & Brand", "country": "UK", "countryLabel": "UK United Kingdom", "risk": "high", "date": "2026-05-11", "dateLabel": "11 May 2026", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-05-11/shein-temu-trade-blows-as-uk-trial-spotlights-supply-chains", "title": "Shein v. Temu UK trial opens — Temu drops defence to 2,300 photos", "body": "Two-week trial opened in London. Shein's barrister told the court Temu used around 2,300 Shein product photos on an 'industrial scale.' Temu effectively abandoned its defence on the disputed images, leaving the court to focus on damages, injunctions, and Temu's anti-competitive counterclaim.", "why": "Direct read-across for OLX, eMAG and other Prosus marketplaces. UK High Court signalling appetite to grant injunctions against marketplaces that host seller-copied imagery. Raises the bar for proactive image-fingerprinting controls and seller-onboarding IP checks.", "co": "OLX · eMAG · iFood · Despegar", "owner": "Tara Harris", "ownerTeam": "Group IP"}, {"id": "meta-eu-whatsapp-ai-access", "theme": "ip", "catLabel": "AI Policy", "country": "EU", "countryLabel": "EU European Union", "risk": "high", "date": "2026-05-13", "dateLabel": "13 May 2026", "source": "MLex / Reuters", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097", "title": "Meta seeks to dodge EU fine with free WhatsApp access for rival AI chatbots", "body": "Meta proposed to grant rival AI chatbot providers free access to WhatsApp Business Platform as part of remedy talks with DG COMP, in an effort to head off a substantial DMA / abuse-of-dominance fine. Decision expected in coming weeks.", "why": "Meta opening WhatsApp B2B to rival AI providers is the first real test of business-user-fair-access remedies under the DMA. Cross-monitor link to M02 (digital-markets-sector-state-aid) — also reshapes the build-vs-partner equation for OpCo chat-AI features (iFood support, Swiggy customer ops).", "co": "iFood · Swiggy · PayU · all WhatsApp-using OpCos", "owner": "Group AI Counsel", "ownerTeam": "Group Legal"}, {"id": "turow-meta-publishers-suit", "theme": "ip", "catLabel": "IP & Brand", "country": "US", "countryLabel": "US United States", "risk": "high", "date": "2026-05-09", "dateLabel": "9 May 2026", "source": "NPR / Variety", "url": "https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit", "title": "Turow + 5 publishers (incl. Elsevier) sue Meta over Llama training data", "body": "Publishers (Scott Turow, Macmillan, McGraw Hill, Elsevier, others) filed a putative class action in S.D.N.Y. alleging Meta knowingly torrented copyrighted books and scientific papers from LibGen and Anna's Archive to train Llama. Zuckerberg personally authorised abandoning licensing in April 2023.", "why": "Significantly expands the AI-training-data litigation perimeter to scientific publishers. Relevant for Prosus EdTech (Stack Overflow, GoodHabitz, Brainly, Udemy content libraries). Signals widening copyright exposure across any open-weight model in OpCo products.", "co": "Stack Overflow · GoodHabitz · Brainly · Udemy", "owner": "Tara Harris", "ownerTeam": "Group IP"}, {"id": "google-ai-zero-day", "theme": "legal-ops", "catLabel": "Legal Ops", "country": "US", "countryLabel": "US Global", "risk": "med", "date": "2026-05-12", "dateLabel": "12 May 2026", "source": "Google / Fortune", "url": "https://fortune.com/2026/05/12/google-hackers-using-ai-to-weaponize-zero-day-vulnerabilities/", "title": "Google: hackers using AI to weaponize zero-day vulnerabilities", "body": "Google's security division reported that threat actors are now using generative AI to weaponize zero-day vulnerabilities at materially faster pace than previously observed. Implications for breach-window timing and incident-response SLAs.", "why": "Compresses the breach-clock pre-disclosure window. Direct relevance for OpCo security-incident readiness (Rule 12 M01 — 72-hour breach clock). Drives the legal-tech and panel-firm playbooks toward faster forensics SLAs.", "co": "all OpCos · panel firms", "owner": "Head of Legal Ops", "ownerTeam": "Group Legal"}, {"id": "apple-patchflyer", "theme": "legal-ops", "catLabel": "Legal Ops", "country": "US", "countryLabel": "US United States", "risk": "low", "date": "2026-05-13", "dateLabel": "13 May 2026", "source": "MLex", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097", "title": "Apple acquires Patchflyer — AI vulnerability management", "body": "Apple acquired Patchflyer, an AI-driven vulnerability-management vendor. Signals continued vertical integration of security tooling at hyperscaler level; affects software-supply-chain assumptions for OpCos running on iOS/macOS infrastructure.", "why": "Watch-item rather than action-now. May shift the vendor landscape for AI-driven security tooling and the OpCo legal-tech procurement playbook. Cross-monitor link to M02 (vertical-integration / merger control on AI-infrastructure deals).", "co": "Group Tech · all OpCos", "owner": "Head of Legal Ops", "ownerTeam": "Group Legal"}];
+</script>
+
+<script>
+/* =====================================================================
+   Legal Intelligence Briefing — universal monitor renderer
+   Expects two files alongside the page: monitor.json + items.json
+   ===================================================================== */
+(function () {
+  const THEMES = [
+    { id: "light",     label: "Light",     hint: "Cream Prosus brand"          },
+    { id: "dark",      label: "Dark",      hint: "Deep violet for night reads" },
+    { id: "colourful", label: "Colourful", hint: "Saturated Prosus gradients"  },
+    { id: "clean",     label: "Clean",     hint: "Minimal, lots of white"      }
+  ];
+  const STORAGE_KEY = "lib-theme";
+
+  function applyTheme(id) {
+    document.documentElement.setAttribute("data-theme", id);
+    try { localStorage.setItem(STORAGE_KEY, id); } catch (e) {}
+  }
+  function initTheme() {
+    let saved = null;
+    try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) {}
+    applyTheme(saved && THEMES.some(t => t.id === saved) ? saved : "light");
+  }
+  initTheme();
+
+  const $  = (sel, root) => (root || document).querySelector(sel);
+  const $$ = (sel, root) => Array.from((root || document).querySelectorAll(sel));
+  const esc = (s) => String(s == null ? "" : s)
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+
+  function hexToRgba(hex, a) {
+    const h = hex.replace("#", "");
+    const n = h.length === 3
+      ? h.split("").map(c => parseInt(c + c, 16))
+      : [parseInt(h.slice(0,2),16), parseInt(h.slice(2,4),16), parseInt(h.slice(4,6),16)];
+    return "rgba(" + n[0] + "," + n[1] + "," + n[2] + "," + a + ")";
+  }
+
+  const state = { monitor: null, items: [], view: "all", q: "" };
+
+  function renderChrome(m) {
+    document.title = m.code + " · " + m.name + " · Legal Intelligence Briefing";
+    $("#brand-product").innerHTML = "<b>" + esc(m.code) + "</b> — " + esc(m.name);
+
+    const pill = $("#live-pill");
+    pill.className = "live-pill " + (m.status || "live");
+    $("#live-pill-label").textContent = m.status_label || (m.week_iso || "Live");
+
+    const tabs = $("#tabs");
+    tabs.innerHTML = "";
+    tabs.appendChild(makeTab("all", "All items", state.items.length));
+    (m.topics || []).forEach(t => {
+      tabs.appendChild(makeTab(t.id, t.label, countByTopic(t.id), t.color));
+    });
+
+    $("#summary-week").textContent = m.week_label || "";
+    const pulseStatus = (m.status === "calibrating") ? "calibrating"
+                     : (m.status === "pending")     ? "awaiting sign-off"
+                     : (m.status === "dormant")     ? "dormant"
+                     : "live";
+    $("#summary-pulse").innerHTML = "Pulse: <b>" + esc(pulseStatus) + "</b>";
+
+    const chipsRow = $("#summary-chips");
+    chipsRow.innerHTML = "";
+    (m.chips || []).forEach(c => {
+      const el = document.createElement("span");
+      el.className = "chip";
+      el.innerHTML = c.replace(/<\/?b>/g, (t) => t);
+      chipsRow.appendChild(el);
+    });
+    if (m.footer_note) {
+      const note = document.createElement("span");
+      note.className = "chip notice";
+      note.textContent = m.footer_note;
+      chipsRow.appendChild(note);
+    }
+
+    const high = state.items.filter(i => i.risk === "high").length;
+    const med  = state.items.filter(i => i.risk === "med").length;
+    $("#ct-total").textContent = state.items.length;
+    $("#ct-high").textContent  = high;
+    $("#ct-med").textContent   = med;
+    $("#search-input").placeholder = "Search across " + state.items.length + " items…";
+
+    $("#footer-meta").textContent =
+      (m.privilege_note || "Privileged · Prosus internal + named external counsel") +
+      " · " + (m.week_label || "");
+    $("#footer-gen").textContent =
+      "Generated " + (m.generated_at || "—") + " · v" + (m.version || "0.1");
+  }
+
+  function makeTab(id, label, count, color) {
+    const btn = document.createElement("button");
+    btn.className = "tab" + (state.view === id ? " active" : "");
+    btn.dataset.view = id;
+    if (color) btn.style.setProperty("--topic-color", color);
+    btn.innerHTML = esc(label) + ' <span class="tab-ct">' + count + "</span>";
+    btn.addEventListener("click", () => {
+      state.view = id;
+      $$(".tab").forEach(t => t.classList.toggle("active", t === btn));
+      renderItems();
+    });
+    return btn;
+  }
+
+  function countByTopic(topicId) {
+    return state.items.filter(i => i.theme === topicId).length;
+  }
+
+  function topicLookup() {
+    const map = {};
+    (state.monitor.topics || []).forEach(t => { map[t.id] = t; });
+    return map;
+  }
+
+  function matches(it) {
+    if (state.view !== "all" && it.theme !== state.view) return false;
+    if (state.q) {
+      const hay = [it.title, it.body, it.why, it.co, it.countryLabel, it.catLabel]
+        .filter(Boolean).join(" ").toLowerCase();
+      if (hay.indexOf(state.q.toLowerCase()) === -1) return false;
+    }
+    return true;
+  }
+
+  function renderItems() {
+    const topics = topicLookup();
+    const grid = $("#item-grid");
+    const list = state.items.filter(matches);
+
+    if (!list.length) {
+      grid.innerHTML =
+        '<div class="empty"><h3>No items match these filters</h3>' +
+        "<p>Clear the search or pick another tab.</p></div>";
+      return;
+    }
+
+    grid.innerHTML = list.map(it => {
+      const topic = topics[it.theme] || {};
+      const color = topic.color || "#571580";
+      const domain = topic.label || it.theme;
+      const r = it.risk === "high" ? "r-high" : it.risk === "med" ? "r-med" : "r-low";
+      const rl = it.risk === "high" ? "HIGH" : it.risk === "med" ? "MED" : "LOW";
+      const ruleChip = it.rule ? '<span class="ctag ctag-rule">' + esc(it.rule) + "</span>" : "";
+      const styleVars =
+        "--topic-fg:" + color + ";" +
+        "--topic-tint:" + hexToRgba(color, 0.10) + ";" +
+        "--topic-border:" + hexToRgba(color, 0.28);
+      return '<article class="card">' +
+        '<header class="card-head">' +
+          '<span class="ctag ctag-domain" data-topic-color style="' + styleVars + '">' + esc(domain) + "</span>" +
+          (it.catLabel ? '<span class="ctag">' + esc(it.catLabel) + "</span>" : "") +
+          (it.countryLabel ? '<span class="ctag ctag-loc">' + esc(it.countryLabel) + "</span>" : "") +
+          (it.dateLabel ? '<span class="ctag ctag-date">' + esc(it.dateLabel) + "</span>" : "") +
+          ruleChip +
+          (it.source ? '<a class="ctag ctag-source" href="' + esc(it.url || "#") +
+            '" target="_blank" rel="noopener">' + esc(it.source) + " ↗</a>" : "") +
+          '<span class="risk-pill ' + r + '">' + rl + "</span>" +
+        "</header>" +
+        '<h3 class="card-title">' + esc(it.title) + "</h3>" +
+        (it.body ? '<p class="card-body">' + esc(it.body) + "</p>" : "") +
+        (it.why ? '<div class="card-why"><b>Why it matters →</b> ' + esc(it.why) + "</div>" : "") +
+        '<footer class="card-foot">' +
+          (it.co ? '<span class="opc">OpCos: <b>' + esc(it.co) + "</b></span>" : "") +
+          (it.owner ? '<span class="owner">' + esc(it.owner) +
+            (it.ownerTeam ? " · " + esc(it.ownerTeam) : "") + "</span>" : "") +
+        "</footer>" +
+      "</article>";
+    }).join("");
+
+    $$(".tab").forEach(t => {
+      const v = t.dataset.view;
+      const ct = v === "all" ? state.items.length : countByTopic(v);
+      const span = t.querySelector(".tab-ct");
+      if (span) span.textContent = ct;
+    });
+  }
+
+  function mountThemePicker() {
+    const btn = $("#theme-toggle");
+    const menu = $("#theme-menu");
+    menu.innerHTML = THEMES.map(t => {
+      const active = document.documentElement.getAttribute("data-theme") === t.id;
+      return '<button data-theme="' + t.id + '" class="' + (active ? "active" : "") + '" title="' + esc(t.hint) + '">' +
+        '<span class="swatch ' + t.id + '" aria-hidden="true"></span>' +
+        '<span>' + esc(t.label) + "</span>" +
+      "</button>";
+    }).join("");
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const open = menu.hasAttribute("open");
+      if (open) menu.removeAttribute("open"); else menu.setAttribute("open", "");
+    });
+    menu.addEventListener("click", (e) => {
+      const target = e.target.closest("button[data-theme]");
+      if (!target) return;
+      applyTheme(target.dataset.theme);
+      $$("#theme-menu button").forEach(b => b.classList.toggle("active", b === target));
+      menu.removeAttribute("open");
+    });
+    document.addEventListener("click", (e) => {
+      if (!menu.contains(e.target) && e.target !== btn) menu.removeAttribute("open");
+    });
+  }
+
+  function mountSearch() {
+    $("#search-input").addEventListener("input", (e) => {
+      state.q = e.target.value.trim();
+      renderItems();
+    });
+  }
+
+  async function boot() {
+    mountThemePicker();
+    mountSearch();
+    // Prefer inline data (works over file:// and CDN both); fall back to fetch
+    let m = null, items = null;
+    try {
+      if (window.MONITOR_DATA && window.ITEMS_DATA) {
+        m = window.MONITOR_DATA;
+        items = window.ITEMS_DATA;
+      } else {
+        const r = await Promise.all([
+          fetch("./monitor.json", { cache: "no-store" }).then(r => r.json()),
+          fetch("./items.json",   { cache: "no-store" }).then(r => r.json())
+        ]);
+        m = r[0]; items = r[1];
+      }
+      state.monitor = m;
+      state.items = Array.isArray(items) ? items : (items.items || []);
+      renderChrome(m);
+      renderItems();
+    } catch (err) {
+      console.error("Monitor failed to load", err);
+      const grid = $("#item-grid");
+      if (grid) grid.innerHTML =
+        '<div class="empty"><h3>Monitor data didn\'t load</h3>' +
+        "<p>Check that <code>monitor.json</code> and <code>items.json</code> sit next to this page, or open via the Netlify URL.</p></div>";
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boot);
+  } else {
+    boot();
+  }
+})();
+
+</script>
+
+</body>
+</html>

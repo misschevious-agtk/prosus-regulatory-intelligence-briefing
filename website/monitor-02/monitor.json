@@ -1,0 +1,28 @@
+{
+  "id": "monitor-02-eu-competition",
+  "code": "M02",
+  "name": "Competition Law",
+  "tagline": "Four reading-modes of a single anchor. Global lens — EU, UK, BR, IN, US, ZA, CN (Tencent).",
+  "anchor": "Anne-Claire Hoyng",
+  "anchor_role": "Global Head of Competition Policy",
+  "scope": "Global (EU/UK/BR/IN/US/ZA/CN)",
+  "status": "pending",
+  "status_label": "Pending sign-off · Week 20",
+  "week_label": "9–14 May 2026 · ISO Week 20 · Pre-Anne-Claire redline",
+  "week_iso": "2026-W20",
+  "generated_at": "2026-05-14",
+  "version": "0.2",
+  "privilege_note": "Privileged work product · Prosus Group Legal & Public Policy",
+  "footer_note": "M02 pending Anne-Claire redline",
+  "topics": [
+    { "id": "antitrust", "label": "Antitrust & Cartels",   "color": "#D90276" },
+    { "id": "dominance", "label": "Abuse of Dominance",    "color": "#571580" },
+    { "id": "merger",    "label": "Merger & FDI",          "color": "#FC8828" },
+    { "id": "digital",   "label": "Digital Markets",       "color": "#00AC8E" }
+  ],
+  "chips": [
+    "<b>Rule 15 trigger:</b> Prosus sells 5% Delivery Hero to Aspex (€335M) — 11 May",
+    "<b>Rule 13 trigger:</b> SAMR conditional approval, Tencent–Ximalaya — 12–13 May",
+    "<b>DMA:</b> Meta tables free WhatsApp AI access — 13 May"
+  ]
+}

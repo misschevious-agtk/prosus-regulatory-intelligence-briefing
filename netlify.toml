@@ -21,15 +21,28 @@
     X-Robots-Tag = "noindex, nofollow"
     Permissions-Policy = "geolocation=(), microphone=(), camera=()"
 
-# Tidy URL redirects for the per-monitor pages once they exist.
+# Tidy URL redirects.
+# Canonical paths: /monitor-01/, /monitor-02/, /new-monitor/.
+# Short aliases (/m01, /m02) redirect to canonical for backwards compatibility.
 [[redirects]]
   from = "/m01"
-  to = "/m01/"
+  to = "/monitor-01/"
   status = 301
-
+[[redirects]]
+  from = "/m01/"
+  to = "/monitor-01/"
+  status = 301
 [[redirects]]
   from = "/m02"
-  to = "/m02/"
+  to = "/monitor-02/"
+  status = 301
+[[redirects]]
+  from = "/m02/"
+  to = "/monitor-02/"
+  status = 301
+[[redirects]]
+  from = "/create"
+  to = "/new-monitor/"
   status = 301
 
 # Single-page-app fallback isn't needed yet — this is multi-page. Add later if

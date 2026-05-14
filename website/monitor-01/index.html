@@ -550,4 +550,16 @@ window.ITEMS_DATA   = [{"id": "samr-tencent-ximalaya", "theme": "ai-news", "catL
       }
       state.monitor = m;
       state.items = Array.isArray(items) ? items : (items.items || []);
-      render
+      renderChrome(m);
+      renderItems();
+    } catch (e) {
+      console.error("[hub] boot failed:", e);
+      const grid = document.querySelector(".grid");
+      if (grid) grid.innerHTML = '<div style="padding:24px;color:var(--text-secondary)">Failed to load. See browser console for details.</div>';
+    }
+  }
+  boot();
+})();
+</script>
+</body>
+</html>

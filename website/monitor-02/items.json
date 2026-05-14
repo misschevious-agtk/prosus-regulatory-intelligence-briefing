@@ -174,16 +174,5 @@
     "body": "The US FCC approved EchoStar spectrum transfers to SpaceX and AT&T. Concludes a long-running spectrum-reallocation matter; signals continued FCC openness to satellite-spectrum deals with limited divestment conditions.",
     "why": "Not directly Prosus-touching. Watch-item for the spectrum-policy environment that affects mobile-first OpCos (iFood courier networks, Swiggy delivery ops, OLX-classifieds mobile reach).",
     "co": "(no direct OpCo exposure)", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
-  },
-  {
-    "id": "cma-sms-q2-pipeline", "theme": "digital", "catLabel": "Digital Markets",
-    "country": "UK", "countryLabel": "UK United Kingdom",
-    "risk": "med", "rule": "Rule 18",
-    "date": "2026-05-14", "dateLabel": "Q2 2026 pipeline watch",
-    "source": "White & Case", "url": "https://www.whitecase.com/insight-alert/cma-charts-new-course-202627",
-    "title": "CMA: further SMS designations expected Q2 2026 under DMCC Act",
-    "body": "CMA's updated 2026/27 strategy confirms further Strategic Market Status designations expected in Q2 2026 under the Digital Markets, Competition and Consumers Act. Reformed CMA targeting merger control 'in a highly targeted way' and stepping back on global deals.",
-    "why": "UK-side analogue of DMA designation cycle. Rule 18 reference. Affects OpCos in the UK market (Stack Overflow, JET UK, OLX UK) and Prosus's posture in UK digital-markets dialogue.",
-    "co": "Stack Overflow · JET UK · OLX UK", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
   }
 ]

@@ -178,15 +178,5 @@
     "body": "Publishers (Scott Turow, Macmillan, McGraw Hill, Elsevier, others) filed a putative class action in S.D.N.Y. alleging Meta knowingly torrented copyrighted books and scientific papers from LibGen and Anna's Archive to train Llama. Zuckerberg personally authorised abandoning licensing in April 2023.",
     "why": "Significantly expands the AI-training-data litigation perimeter to scientific publishers. Relevant for Prosus EdTech (Stack Overflow, GoodHabitz, Brainly, Udemy content libraries). Signals widening copyright exposure across any open-weight model in OpCo products.",
     "co": "Stack Overflow · GoodHabitz · Brainly · Udemy", "owner": "Tara Harris", "ownerTeam": "Group IP"
-  },
-  {
-    "id": "google-ai-zero-day", "theme": "legal-ops", "catLabel": "Legal Ops",
-    "country": "US", "countryLabel": "US Global",
-    "risk": "med", "date": "2026-05-12", "dateLabel": "12 May 2026",
-    "source": "Google / Fortune", "url": "https://fortune.com/2026/05/12/google-hackers-using-ai-to-weaponize-zero-day-vulnerabilities/",
-    "title": "Google: hackers using AI to weaponize zero-day vulnerabilities",
-    "body": "Google's security division reported that threat actors are now using generative AI to weaponize zero-day vulnerabilities at materially faster pace than previously observed. Implications for breach-window timing and incident-response SLAs.",
-    "why": "Compresses the breach-clock pre-disclosure window. Direct relevance for OpCo security-incident readiness (Rule 12 M01 — 72-hour breach clock). Drives the legal-tech and panel-firm playbooks toward faster forensics SLAs.",
-    "co": "all OpCos · panel firms", "owner": "Head of Legal Ops", "ownerTeam": "Group Legal"
   }
 ]

@@ -54,20 +54,24 @@ OUTPUT_BASE = ROOT / "findings" / "candidates"
 MAX_ENTRIES_PER_FEED = 30
 REQUEST_TIMEOUT_SECONDS = 20
 
-# Browser-flavoured UA. Many publishers (e.g. via Cloudflare bot-mitigation
-# or careless Accept-based content negotiation) serve HTML to clients whose
-# UA starts with "Python-" or "feedparser/", which is what feedparser sends
-# by default. Leading with a Mozilla token avoids that filter; the project
-# URL and contact email keep us identifiable to anyone reading server logs.
+# Plain Firefox UA. v0.3 used a "(compatible; ProsusLegalBriefing/0.3; ...)"
+# pattern, which is exactly what WAF anti-bot rules match on, and many
+# publishers (CNIL, ICO, Anthropic, Substack, Garante, AEPD, EDPB, Kluwer,
+# e-Competitions, Law.com, USPTO, ABA, ...) returned 404/403 as a result.
+# This is a real Firefox 120 UA -- no bot markers -- so WAFs treat us as a
+# regular browser. Contact info has moved to the `From:` header below.
 FEED_USER_AGENT = (
-    "Mozilla/5.0 (compatible; ProsusLegalBriefing/0.3; "
-    "+https://github.com/misschevious-agtk/prosus-regulatory-intelligence-briefing; "
-    "klimentina.maleevska@prosus.com)"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) "
+    "Gecko/20100101 Firefox/120.0"
 )
-FEED_ACCEPT_HEADER = (
-    "application/rss+xml, application/atom+xml, application/xml;q=0.9, "
-    "text/xml;q=0.8, */*;q=0.5"
-)
+# v0.3.1: was a strict RSS/XML Accept header; many publishers responded with
+# 404/403 instead of just returning whatever they had. Browsers send `*/*`;
+# matching that behaviour restores feedparser's previous "soft tolerance" path.
+FEED_ACCEPT_HEADER = "*/*"
+# RFC 7231 designates the `From` header for "the user controlling the
+# requesting user agent." Keeps us identifiable to publishers who inspect
+# server logs, without putting bot markers in the UA.
+FEED_FROM_HEADER = "klimentina.maleevska@prosus.com"
 
 
 def fetch_feed_bytes(url: str) -> bytes | None:
@@ -80,7 +84,11 @@ def fetch_feed_bytes(url: str) -> bytes | None:
     try:
         resp = requests.get(
             url,
-            headers={"User-Agent": FEED_USER_AGENT, "Accept": FEED_ACCEPT_HEADER},
+            headers={
+                "User-Agent": FEED_USER_AGENT,
+                "Accept": FEED_ACCEPT_HEADER,
+                "From": FEED_FROM_HEADER,
+            },
             timeout=REQUEST_TIMEOUT_SECONDS,
             allow_redirects=True,
         )

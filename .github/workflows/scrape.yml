@@ -38,6 +38,20 @@ jobs:
       - name: Install deps
         run: pip install -r scripts/requirements.txt
 
+      - name: Clear today's candidates (manual re-runs only)
+        # On daily cron runs we always land on a fresh YYYY-MM-DD folder,
+        # so dedup-by-existing-file works as intended. On manual re-runs
+        # the existing candidates from earlier today's run mask the new
+        # output -- fetch_articles.py skips writing when the slug-filename
+        # already exists. Clear them so manual re-runs produce a clean
+        # signal. NB: clears the working-tree copy only; git history of
+        # the previous bot commit is untouched.
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          rm -rf "findings/candidates/$DATE"
+          echo "Cleared findings/candidates/$DATE for fresh re-run"
+
       - name: Fetch articles (RSS)
         run: python scripts/fetch_articles.py
 

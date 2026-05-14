@@ -8,17 +8,17 @@ source_date: Tue, 11 Nov 2025 08:42:23 +0000
 source_method: rss
 title: 'Open letter: Digital omnibus brings deregulation, not simplification'
 matched_keywords:
-- sexual orientation
-- Meta
-- consent
-- data subject rights
-- noyb
-- public interest
-- GDPR
-- sensitive data
-- health data
-- Google
 - OpenAI
+- Google
+- Meta
+- public interest
+- data subject rights
+- health data
+- noyb
+- GDPR
+- consent
+- sensitive data
+- sexual orientation
 match_count: 11
 status: candidate
 entities: []
@@ -27,14 +27,14 @@ cluster_id: cluster-2026-05-14-4f32cabcf1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eu-commission-internal-draft-would-wreck-core-principles-of-the-gdpr
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Open letter: Digital omnibus brings deregulation, not simplification
 
 **Source:** [noyb news](https://noyb.eu/en/open-letter-digital-omnibus-brings-deregulation-not-simplification)
 **Published:** Tue, 11 Nov 2025 08:42:23 +0000
-**Matched keywords (11):** sexual orientation, Meta, consent, data subject rights, noyb, public interest, GDPR, sensitive data, health data, Google, OpenAI
+**Matched keywords (11):** OpenAI, Google, Meta, public interest, data subject rights, health data, noyb, GDPR, consent, sensitive data, sexual orientation
 
 ## Summary excerpt
 

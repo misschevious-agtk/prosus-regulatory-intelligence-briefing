@@ -8,15 +8,15 @@ source_date: Tue, 20 Jan 2026 08:00:00 +0000
 source_method: rss
 title: 'CRIF case shows: Public registries are increasingly being misused'
 matched_keywords:
-- legal obligation
-- DSK
 - right to be forgotten
-- noyb
-- public interest
-- GDPR
-- Max Schrems
-- Schrems
 - Google
+- public interest
+- Max Schrems
+- noyb
+- GDPR
+- DSK
+- Schrems
+- legal obligation
 match_count: 9
 status: candidate
 entities: []
@@ -24,14 +24,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-9fc5ba1e12
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # CRIF case shows: Public registries are increasingly being misused
 
 **Source:** [noyb news](https://noyb.eu/en/crif-case-shows-public-registries-are-increasingly-being-misused)
 **Published:** Tue, 20 Jan 2026 08:00:00 +0000
-**Matched keywords (9):** legal obligation, DSK, right to be forgotten, noyb, public interest, GDPR, Max Schrems, Schrems, Google
+**Matched keywords (9):** right to be forgotten, Google, public interest, Max Schrems, noyb, GDPR, DSK, Schrems, legal obligation
 
 ## Summary excerpt
 

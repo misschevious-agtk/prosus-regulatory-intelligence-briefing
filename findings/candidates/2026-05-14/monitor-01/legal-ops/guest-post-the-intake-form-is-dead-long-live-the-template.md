@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-c5ac015c4c
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Guest Post: The Intake Form Is Dead. Long Live the Template.

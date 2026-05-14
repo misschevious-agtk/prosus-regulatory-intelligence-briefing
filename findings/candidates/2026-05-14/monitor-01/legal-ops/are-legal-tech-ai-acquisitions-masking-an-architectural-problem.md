@@ -8,8 +8,8 @@ source_date: Wed, 13 May 2026 06:43:25 +0000
 source_method: rss
 title: Are Legal Tech AI Acquisitions Masking an Architectural Problem?
 matched_keywords:
-- CLM
 - DocuSign
+- CLM
 match_count: 2
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ cluster_id: cluster-2026-05-14-3fdf533ed6
 cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Are Legal Tech AI Acquisitions Masking an Architectural Problem?
 
 **Source:** [Artificial Lawyer](https://www.artificiallawyer.com/2026/05/13/are-legal-tech-ai-acquisitions-masking-an-architectural-problem/)
 **Published:** Wed, 13 May 2026 06:43:25 +0000
-**Matched keywords (2):** CLM, DocuSign
+**Matched keywords (2):** DocuSign, CLM
 
 ## Summary excerpt
 

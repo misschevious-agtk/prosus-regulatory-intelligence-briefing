@@ -8,8 +8,8 @@ source_date: Mon, 11 May 2026 23:18:26 GMT
 source_method: rss
 title: Building Blocks for Foundation Model Training and Inference on AWS
 matched_keywords:
-- AWS
 - foundation model
+- AWS
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-69703498f6
 cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Building Blocks for Foundation Model Training and Inference on AWS
 
 **Source:** [Hugging Face blog](https://huggingface.co/blog/amazon/foundation-model-building-blocks)
 **Published:** Mon, 11 May 2026 23:18:26 GMT
-**Matched keywords (2):** AWS, foundation model
+**Matched keywords (2):** foundation model, AWS
 
 ## Summary excerpt
 

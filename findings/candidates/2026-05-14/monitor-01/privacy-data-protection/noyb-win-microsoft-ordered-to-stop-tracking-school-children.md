@@ -8,17 +8,17 @@ source_date: Tue, 27 Jan 2026 06:00:00 +0000
 source_method: rss
 title: 'noyb win: Microsoft ordered to stop tracking school children'
 matched_keywords:
-- DSK
-- consent
+- right of access
 - data subject rights
-- BfDI
-- Microsoft
-- noyb
-- GDPR
 - Data Protection Commission
 - Max Schrems
+- noyb
+- GDPR
+- DSK
+- BfDI
+- Microsoft
+- consent
 - Schrems
-- right of access
 match_count: 11
 status: candidate
 entities: []
@@ -26,14 +26,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-42e795a4a3
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # noyb win: Microsoft ordered to stop tracking school children
 
 **Source:** [noyb news](https://noyb.eu/en/noyb-win-microsoft-ordered-stop-tracking-school-children)
 **Published:** Tue, 27 Jan 2026 06:00:00 +0000
-**Matched keywords (11):** DSK, consent, data subject rights, BfDI, Microsoft, noyb, GDPR, Data Protection Commission, Max Schrems, Schrems, right of access
+**Matched keywords (11):** right of access, data subject rights, Data Protection Commission, Max Schrems, noyb, GDPR, DSK, BfDI, Microsoft, consent, Schrems
 
 ## Summary excerpt
 

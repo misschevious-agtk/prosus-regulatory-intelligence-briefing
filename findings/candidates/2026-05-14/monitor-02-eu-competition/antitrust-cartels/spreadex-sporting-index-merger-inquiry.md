@@ -8,8 +8,8 @@ source_date: '2026-05-08T10:00:45Z'
 source_method: rss
 title: Spreadex / Sporting Index merger inquiry
 matched_keywords:
-- Competition and Markets Authority
 - CMA
+- Competition and Markets Authority
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-66b4dcb7cc
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: automobile-association-developments-limited-consumer-protection-enforc
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Spreadex / Sporting Index merger inquiry
 
 **Source:** [CMA news](https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry)
 **Published:** 2026-05-08T10:00:45Z
-**Matched keywords (2):** Competition and Markets Authority, CMA
+**Matched keywords (2):** CMA, Competition and Markets Authority
 
 ## Summary excerpt
 

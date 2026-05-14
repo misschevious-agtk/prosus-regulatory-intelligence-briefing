@@ -8,18 +8,18 @@ source_date: Wed, 11 Feb 2026 08:52:54 +0000
 source_method: rss
 title: 'Digital Omnibus: EU DPAs reject many proposed changes to the GDPR'
 matched_keywords:
-- legitimate interest
-- ePrivacy
-- ePrivacy Directive
+- European Data Protection Supervisor
 - EDPB
+- right of access
+- ePrivacy
+- legitimate interest
+- EDPS
+- ePrivacy Directive
+- Max Schrems
 - noyb
 - GDPR
-- Max Schrems
-- Schrems
 - European Data Protection Board
-- EDPS
-- European Data Protection Supervisor
-- right of access
+- Schrems
 match_count: 12
 status: candidate
 entities:
@@ -35,14 +35,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-f0cde8290f
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Digital Omnibus: EU DPAs reject many proposed changes to the GDPR
 
 **Source:** [noyb news](https://noyb.eu/en/digital-omnibus-eu-dpas-reject-many-proposed-changes-gdpr)
 **Published:** Wed, 11 Feb 2026 08:52:54 +0000
-**Matched keywords (12):** legitimate interest, ePrivacy, ePrivacy Directive, EDPB, noyb, GDPR, Max Schrems, Schrems, European Data Protection Board, EDPS, European Data Protection Supervisor, right of access
+**Matched keywords (12):** European Data Protection Supervisor, EDPB, right of access, ePrivacy, legitimate interest, EDPS, ePrivacy Directive, Max Schrems, noyb, GDPR, European Data Protection Board, Schrems
 
 ## Summary excerpt
 

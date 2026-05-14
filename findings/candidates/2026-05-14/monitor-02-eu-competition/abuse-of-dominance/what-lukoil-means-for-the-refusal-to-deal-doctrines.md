@@ -8,8 +8,8 @@ source_date: Thu, 05 Feb 2026 12:43:44 +0000
 source_method: rss
 title: What Lukoil means for the refusal to deal doctrines
 matched_keywords:
-- Magill
 - refusal to deal
+- Magill
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-c6b9f9cabe
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # What Lukoil means for the refusal to deal doctrines
 
 **Source:** [Chillin'Competition](https://chillingcompetition.com/2026/02/05/what-lukoil-means-for-the-refusal-to-deal-doctrines/)
 **Published:** Thu, 05 Feb 2026 12:43:44 +0000
-**Matched keywords (2):** Magill, refusal to deal
+**Matched keywords (2):** refusal to deal, Magill
 
 ## Summary excerpt
 

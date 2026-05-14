@@ -8,9 +8,9 @@ source_date: Tue, 05 May 2026 16:58:06 +0000
 source_method: rss
 title: 'Pairing Down: Federal Circuit Affirms § 101 Dismissal of Vehicle-Mode Notification Patent'
 matched_keywords:
-- Patent
-- Federal Circuit
 - patent
+- Federal Circuit
+- Patent
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-67a175e199
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Pairing Down: Federal Circuit Affirms § 101 Dismissal of Vehicle-Mode Notification Patent
 
 **Source:** [Patently-O](https://patentlyo.com/patent/2026/05/pairing-down-federal-circuit-affirms-%c2%a7-101-dismissal-of-vehicle-mode-notification-patent.html)
 **Published:** Tue, 05 May 2026 16:58:06 +0000
-**Matched keywords (3):** Patent, Federal Circuit, patent
+**Matched keywords (3):** patent, Federal Circuit, Patent
 
 ## Summary excerpt
 

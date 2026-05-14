@@ -8,8 +8,8 @@ source_date: '2026-05-12T20:33:00.003+01:00'
 source_method: rss
 title: Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber
 matched_keywords:
-- Meta
 - DSM Directive
+- Meta
 match_count: 2
 status: candidate
 entities:
@@ -23,14 +23,14 @@ case_numbers:
 cluster_id: cluster-2026-05-14-4e208cbe6f
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber
 
 **Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/05/italian-transposition-of-press.html)
 **Published:** 2026-05-12T20:33:00.003+01:00
-**Matched keywords (2):** Meta, DSM Directive
+**Matched keywords (2):** DSM Directive, Meta
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Tue, 30 Sep 2025 12:00:00 +0000
 source_method: rss
 title: CAISI Evaluation of DeepSeek AI Models Finds Shortcomings and Risks
 matched_keywords:
-- NIST
 - DeepSeek
+- NIST
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-8c0878cd8b
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # CAISI Evaluation of DeepSeek AI Models Finds Shortcomings and Risks
 
 **Source:** [NIST news (filtered for AI in script)](https://www.nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks)
 **Published:** Tue, 30 Sep 2025 12:00:00 +0000
-**Matched keywords (2):** NIST, DeepSeek
+**Matched keywords (2):** DeepSeek, NIST
 
 ## Summary excerpt
 

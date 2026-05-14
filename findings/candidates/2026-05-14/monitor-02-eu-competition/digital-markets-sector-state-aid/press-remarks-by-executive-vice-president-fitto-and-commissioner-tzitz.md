@@ -20,8 +20,8 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-e8de24d92f
 cluster_size: 2
 cluster_role: sibling
-ranked_at: '2026-05-14T18:58:14+00:00'
 cluster_canonical_slug: press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package

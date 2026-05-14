@@ -8,11 +8,11 @@ source_date: Fri, 26 Sep 2025 05:00:00 +0000
 source_method: rss
 title: 'noyb WIN: Austrian authority forbids unlawful credit scoring by KSV1870'
 matched_keywords:
+- Article 22 GDPR
 - automated individual decision
-- consent
 - noyb
 - GDPR
-- Article 22 GDPR
+- consent
 match_count: 5
 status: candidate
 entities: []
@@ -20,14 +20,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-9023cc2d2d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # noyb WIN: Austrian authority forbids unlawful credit scoring by KSV1870
 
 **Source:** [noyb news](https://noyb.eu/en/noyb-win-austrian-authority-forbids-unlawful-credit-scoring-ksv1870)
 **Published:** Fri, 26 Sep 2025 05:00:00 +0000
-**Matched keywords (5):** automated individual decision, consent, noyb, GDPR, Article 22 GDPR
+**Matched keywords (5):** Article 22 GDPR, automated individual decision, noyb, GDPR, consent
 
 ## Summary excerpt
 

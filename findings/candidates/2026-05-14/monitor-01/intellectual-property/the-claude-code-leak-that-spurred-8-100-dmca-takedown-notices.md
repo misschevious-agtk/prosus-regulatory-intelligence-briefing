@@ -9,8 +9,8 @@ source_method: rss
 title: The Claude Code leak that spurred 8,100 DMCA takedown notices
 matched_keywords:
 - Anthropic
-- DMCA
 - DMCA takedown
+- DMCA
 match_count: 3
 status: candidate
 entities:
@@ -23,14 +23,14 @@ cluster_id: cluster-2026-05-14-3fdf533ed6
 cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # The Claude Code leak that spurred 8,100 DMCA takedown notices
 
 **Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/04/the-claude-code-leak-that-spurred-8100.html)
 **Published:** 2026-04-30T08:46:00.002+01:00
-**Matched keywords (3):** Anthropic, DMCA, DMCA takedown
+**Matched keywords (3):** Anthropic, DMCA takedown, DMCA
 
 ## Summary excerpt
 

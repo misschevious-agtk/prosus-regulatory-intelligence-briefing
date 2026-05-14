@@ -8,8 +8,8 @@ source_date: '2026-05-05T11:20:45Z'
 source_method: rss
 title: Potential designation of Aldi and Lidl under the Groceries Market Investigation (Controlled Land) Order 2010
 matched_keywords:
-- market investigation
 - CMA
+- market investigation
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-66b4dcb7cc
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: automobile-association-developments-limited-consumer-protection-enforc
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Potential designation of Aldi and Lidl under the Groceries Market Investigation (Controlled Land) Order 2010
 
 **Source:** [CMA news](https://www.gov.uk/cma-cases/potential-designation-of-aldi-and-lidl-under-the-groceries-market-investigation-controlled-land-order-2010)
 **Published:** 2026-05-05T11:20:45Z
-**Matched keywords (2):** market investigation, CMA
+**Matched keywords (2):** CMA, market investigation
 
 ## Summary excerpt
 

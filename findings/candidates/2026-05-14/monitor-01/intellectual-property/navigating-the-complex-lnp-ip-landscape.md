@@ -8,9 +8,9 @@ source_date: '2026-05-06T18:02:00.000+01:00'
 source_method: rss
 title: Navigating the complex LNP IP landscape
 matched_keywords:
+- patent
 - trade secret
 - Patent
-- patent
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-3d54b4f7e5
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Navigating the complex LNP IP landscape
 
 **Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/05/navigating-complex-lnp-ip-landscape.html)
 **Published:** 2026-05-06T18:02:00.000+01:00
-**Matched keywords (3):** trade secret, Patent, patent
+**Matched keywords (3):** patent, trade secret, Patent
 
 ## Summary excerpt
 

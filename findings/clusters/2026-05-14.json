@@ -1,5 +1,5 @@
 {
-  "ranked_at": "2026-05-14T18:58:14+00:00",
+  "ranked_at": "2026-05-14T19:36:07+00:00",
   "window_days": 7,
   "threshold": 0.72,
   "cluster_window_hours": 48,
@@ -2059,21 +2059,6 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-785a75f960",
-      "size": 1,
-      "canonical": {
-        "title": "TED, Meet Harvey …",
-        "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/ted-meet-harvey.md",
-        "monitor": "monitor-01",
-        "domain": "legal-ops",
-        "match_count": 2,
-        "source_publisher": "Above the Law"
-      },
-      "siblings": [],
-      "entities": [],
-      "case_numbers": []
-    },
-    {
       "cluster_id": "cluster-2026-05-14-856a9e76fc",
       "size": 1,
       "canonical": {
@@ -3366,6 +3351,21 @@
       "canonical": {
         "title": "The Trump Administration’s Best Argument For Its Biglaw EOs Is That You Just Have To Trust The President",
         "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/the-trump-administration-s-best-argument-for-its-biglaw-eos-is-that-yo.md",
+        "monitor": "monitor-01",
+        "domain": "legal-ops",
+        "match_count": 1,
+        "source_publisher": "Above the Law"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-0effbe0530",
+      "size": 1,
+      "canonical": {
+        "title": "D.C. Judge Orders Former Nonprofit Executive Director To Pay Back $1M",
+        "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/d-c-judge-orders-former-nonprofit-executive-director-to-pay-back-1m.md",
         "monitor": "monitor-01",
         "domain": "legal-ops",
         "match_count": 1,

@@ -8,8 +8,8 @@ source_date: '2026-05-12T10:01:43Z'
 source_method: rss
 title: Welltower / multiple care homes merger inquiries
 matched_keywords:
-- Competition and Markets Authority
 - CMA
+- Competition and Markets Authority
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-3fc91729c3
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Welltower / multiple care homes merger inquiries
 
 **Source:** [CMA news](https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries)
 **Published:** 2026-05-12T10:01:43Z
-**Matched keywords (2):** Competition and Markets Authority, CMA
+**Matched keywords (2):** CMA, Competition and Markets Authority
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Sat, 09 May 2026 22:17:27 +0000
 source_method: rss
 title: 'Time Machines, Cold Fusion, and a Glucose Problem: A 2026  Report on § 101 Utility'
 matched_keywords:
-- Patent
 - patent
+- Patent
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-719cee9508
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Time Machines, Cold Fusion, and a Glucose Problem: A 2026  Report on § 101 Utility
 
 **Source:** [Patently-O](https://patentlyo.com/patent/2026/05/time-machines-cold-fusion-and-a-glucose-problem-a-2026-report-on-%c2%a7-101-utility.html)
 **Published:** Sat, 09 May 2026 22:17:27 +0000
-**Matched keywords (2):** Patent, patent
+**Matched keywords (2):** patent, Patent
 
 ## Summary excerpt
 

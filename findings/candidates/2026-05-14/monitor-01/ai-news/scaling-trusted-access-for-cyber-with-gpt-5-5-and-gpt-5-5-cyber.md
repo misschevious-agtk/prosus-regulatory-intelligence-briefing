@@ -8,8 +8,8 @@ source_date: Thu, 07 May 2026 13:00:00 GMT
 source_method: rss
 title: Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
 matched_keywords:
-- GPT-5
 - OpenAI
+- GPT-5
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-3c356a9a24
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: gpt-5-5-instant-smarter-clearer-and-more-personalized
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
 
 **Source:** [OpenAI blog](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber)
 **Published:** Thu, 07 May 2026 13:00:00 GMT
-**Matched keywords (2):** GPT-5, OpenAI
+**Matched keywords (2):** OpenAI, GPT-5
 
 ## Summary excerpt
 

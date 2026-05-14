@@ -8,8 +8,8 @@ source_date: '2026-05-05T10:00:12Z'
 source_method: rss
 title: 'Automobile Association Developments Limited: consumer protection enforcement case'
 matched_keywords:
-- Competition and Markets Authority
 - CMA
+- Competition and Markets Authority
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-66b4dcb7cc
 cluster_size: 24
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Automobile Association Developments Limited: consumer protection enforcement case
 
 **Source:** [CMA news](https://www.gov.uk/cma-cases/automobile-association-developments-limited-consumer-protection-enforcement-case)
 **Published:** 2026-05-05T10:00:12Z
-**Matched keywords (2):** Competition and Markets Authority, CMA
+**Matched keywords (2):** CMA, Competition and Markets Authority
 
 ## Summary excerpt
 

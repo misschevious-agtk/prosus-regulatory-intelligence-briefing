@@ -8,14 +8,14 @@ source_date: Wed, 17 Dec 2025 06:00:00 +0000
 source_method: rss
 title: TikTok unlawfully tracks your shopping habits – and your use of dating apps
 matched_keywords:
-- sexual orientation
-- consent
-- Article 9 GDPR
-- noyb
-- GDPR
-- sensitive data
 - Article 83 GDPR
+- noyb
 - sex life
+- GDPR
+- Article 9 GDPR
+- consent
+- sensitive data
+- sexual orientation
 match_count: 8
 status: candidate
 entities:
@@ -27,14 +27,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-9bed19f796
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # TikTok unlawfully tracks your shopping habits – and your use of dating apps
 
 **Source:** [noyb news](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)
 **Published:** Wed, 17 Dec 2025 06:00:00 +0000
-**Matched keywords (8):** sexual orientation, consent, Article 9 GDPR, noyb, GDPR, sensitive data, Article 83 GDPR, sex life
+**Matched keywords (8):** Article 83 GDPR, noyb, sex life, GDPR, Article 9 GDPR, consent, sensitive data, sexual orientation
 
 ## Summary excerpt
 

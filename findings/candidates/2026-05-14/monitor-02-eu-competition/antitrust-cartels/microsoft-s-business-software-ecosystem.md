@@ -8,9 +8,9 @@ source_date: '2026-05-14T10:16:14Z'
 source_method: rss
 title: Microsoft’s business software ecosystem
 matched_keywords:
-- Competition and Markets Authority
-- Microsoft
 - CMA
+- Microsoft
+- Competition and Markets Authority
 match_count: 3
 status: candidate
 entities:
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-7783aa9934
 cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Microsoft’s business software ecosystem
 
 **Source:** [CMA news](https://www.gov.uk/cma-cases/microsofts-business-software-ecosystem)
 **Published:** 2026-05-14T10:16:14Z
-**Matched keywords (3):** Competition and Markets Authority, Microsoft, CMA
+**Matched keywords (3):** CMA, Microsoft, Competition and Markets Authority
 
 ## Summary excerpt
 

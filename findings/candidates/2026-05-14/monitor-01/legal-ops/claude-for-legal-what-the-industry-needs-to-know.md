@@ -8,9 +8,9 @@ source_date: Wed, 13 May 2026 08:42:00 +0000
 source_method: rss
 title: 'Claude for Legal: What the industry needs to know'
 matched_keywords:
-- Claude
-- Anthropic
 - LegalTech
+- Anthropic
+- Claude
 - Legal IT Insider
 match_count: 4
 status: candidate
@@ -23,14 +23,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-3fdf533ed6
 cluster_size: 22
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Claude for Legal: What the industry needs to know
 
 **Source:** [Legal IT Insider](https://legaltechnology.com/2026/05/13/claude-for-legal-what-the-industry-needs-to-know/)
 **Published:** Wed, 13 May 2026 08:42:00 +0000
-**Matched keywords (4):** Claude, Anthropic, LegalTech, Legal IT Insider
+**Matched keywords (4):** LegalTech, Anthropic, Claude, Legal IT Insider
 
 ## Summary excerpt
 

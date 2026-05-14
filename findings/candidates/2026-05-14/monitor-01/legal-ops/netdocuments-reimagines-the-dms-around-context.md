@@ -8,10 +8,10 @@ source_date: Thu, 14 May 2026 13:00:08 +0000
 source_method: rss
 title: NetDocuments reimagines the DMS around context
 matched_keywords:
-- NetDocuments
 - LegalTech
-- Legal IT Insider
+- NetDocuments
 - DMS
+- Legal IT Insider
 match_count: 4
 status: candidate
 entities: []
@@ -20,14 +20,14 @@ cluster_id: cluster-2026-05-14-3fdf533ed6
 cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # NetDocuments reimagines the DMS around context
 
 **Source:** [Legal IT Insider](https://legaltechnology.com/2026/05/14/netdocuments-reimagines-the-dms-around-context/)
 **Published:** Thu, 14 May 2026 13:00:08 +0000
-**Matched keywords (4):** NetDocuments, LegalTech, Legal IT Insider, DMS
+**Matched keywords (4):** LegalTech, NetDocuments, DMS, Legal IT Insider
 
 ## Summary excerpt
 

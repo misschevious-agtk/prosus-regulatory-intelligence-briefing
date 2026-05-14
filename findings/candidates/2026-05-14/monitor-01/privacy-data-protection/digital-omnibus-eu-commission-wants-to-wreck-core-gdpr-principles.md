@@ -8,14 +8,14 @@ source_date: Wed, 19 Nov 2025 12:30:00 +0000
 source_method: rss
 title: 'Digital Omnibus: EU Commission wants to wreck core GDPR principles'
 matched_keywords:
-- ePrivacy
-- Meta
-- noyb
-- GDPR
-- Max Schrems
-- Schrems
-- cookie banner
 - Google
+- Meta
+- ePrivacy
+- Max Schrems
+- noyb
+- cookie banner
+- GDPR
+- Schrems
 match_count: 8
 status: candidate
 entities: []
@@ -23,14 +23,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-460e96bf28
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Digital Omnibus: EU Commission wants to wreck core GDPR principles
 
 **Source:** [noyb news](https://noyb.eu/en/digital-omnibus-eu-commission-wants-wreck-core-gdpr-principles)
 **Published:** Wed, 19 Nov 2025 12:30:00 +0000
-**Matched keywords (8):** ePrivacy, Meta, noyb, GDPR, Max Schrems, Schrems, cookie banner, Google
+**Matched keywords (8):** Google, Meta, ePrivacy, Max Schrems, noyb, cookie banner, GDPR, Schrems
 
 ## Summary excerpt
 

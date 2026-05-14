@@ -8,8 +8,8 @@ source_date: '2026-05-14T10:16:16Z'
 source_method: rss
 title: 'Microsoft’s business software ecosystem: Invitation to comment'
 matched_keywords:
-- Microsoft
 - CMA
+- Microsoft
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-7783aa9934
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: microsoft-s-business-software-ecosystem
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Microsoft’s business software ecosystem: Invitation to comment
 
 **Source:** [CMA news](https://www.gov.uk/government/calls-for-evidence/microsofts-business-software-ecosystem-invitation-to-comment)
 **Published:** 2026-05-14T10:16:16Z
-**Matched keywords (2):** Microsoft, CMA
+**Matched keywords (2):** CMA, Microsoft
 
 ## Summary excerpt
 

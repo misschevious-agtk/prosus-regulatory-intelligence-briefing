@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-14-d48cb486fe
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: commission-strengthens-global-health-security-with-new-global-health-r
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre

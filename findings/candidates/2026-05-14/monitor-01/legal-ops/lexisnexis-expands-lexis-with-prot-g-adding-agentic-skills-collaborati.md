@@ -9,8 +9,8 @@ source_method: rss
 title: LexisNexis Expands Lexis+ with Protégé, Adding Agentic Skills, Collaboration Workrooms, and Customer-Held Encryption Keys
 matched_keywords:
 - Lexis+ AI
-- LexisNexis
 - LawNext
+- LexisNexis
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-d6637a632d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # LexisNexis Expands Lexis+ with Protégé, Adding Agentic Skills, Collaboration Workrooms, and Customer-Held Encryption Keys
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/lexisnexis-expands-lexis-with-protege-adding-agentic-skills-collaboration-workrooms-and-customer-held-encryption-keys.html)
 **Published:** Thu, 07 May 2026 12:00:02 +0000
-**Matched keywords (3):** Lexis+ AI, LexisNexis, LawNext
+**Matched keywords (3):** Lexis+ AI, LawNext, LexisNexis
 
 ## Summary excerpt
 

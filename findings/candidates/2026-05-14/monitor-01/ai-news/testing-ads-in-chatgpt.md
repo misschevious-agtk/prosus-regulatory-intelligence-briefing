@@ -8,8 +8,8 @@ source_date: Thu, 07 May 2026 00:00:00 GMT
 source_method: rss
 title: Testing ads in ChatGPT
 matched_keywords:
-- ChatGPT
 - OpenAI
+- ChatGPT
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-3c356a9a24
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: gpt-5-5-instant-smarter-clearer-and-more-personalized
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Testing ads in ChatGPT
 
 **Source:** [OpenAI blog](https://openai.com/index/testing-ads-in-chatgpt)
 **Published:** Thu, 07 May 2026 00:00:00 GMT
-**Matched keywords (2):** ChatGPT, OpenAI
+**Matched keywords (2):** OpenAI, ChatGPT
 
 ## Summary excerpt
 

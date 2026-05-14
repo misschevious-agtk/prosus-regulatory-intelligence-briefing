@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-0ab2465d69
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Gavel Launches Web-Based AI Contract Platform, Expanding ‘Gavel Exec’ Beyond Its Word Add-In

@@ -8,18 +8,18 @@ source_date: Thu, 18 Sep 2025 07:50:09 +0000
 source_method: rss
 title: 'Former Meta lobbyist named DPC Commissioner: Meta now officially regulates itself'
 matched_keywords:
-- Meta
-- consent
-- EDPB
 - WhatsApp
-- Microsoft
-- noyb
-- GDPR
-- Data Protection Commission
-- DPC
-- Max Schrems
-- Schrems
+- EDPB
 - Google
+- Meta
+- Data Protection Commission
+- Max Schrems
+- noyb
+- DPC
+- GDPR
+- Microsoft
+- consent
+- Schrems
 match_count: 12
 status: candidate
 entities:
@@ -35,14 +35,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-100a0f2925
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Former Meta lobbyist named DPC Commissioner: Meta now officially regulates itself
 
 **Source:** [noyb news](https://noyb.eu/en/former-meta-lobbyist-named-dpc-commissioner-meta-now-officially-regulates-itself)
 **Published:** Thu, 18 Sep 2025 07:50:09 +0000
-**Matched keywords (12):** Meta, consent, EDPB, WhatsApp, Microsoft, noyb, GDPR, Data Protection Commission, DPC, Max Schrems, Schrems, Google
+**Matched keywords (12):** WhatsApp, EDPB, Google, Meta, Data Protection Commission, Max Schrems, noyb, DPC, GDPR, Microsoft, consent, Schrems
 
 ## Summary excerpt
 

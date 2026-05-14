@@ -8,8 +8,8 @@ source_date: '2026-05-06T10:30:06Z'
 source_method: rss
 title: 'Correspondence: CMA advice to Defra on reform of the Veterinary Surgeons Act 1966'
 matched_keywords:
-- Competition and Markets Authority
 - CMA
+- Competition and Markets Authority
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-66b4dcb7cc
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: automobile-association-developments-limited-consumer-protection-enforc
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Correspondence: CMA advice to Defra on reform of the Veterinary Surgeons Act 1966
 
 **Source:** [CMA news](https://www.gov.uk/government/publications/cma-advice-to-defra-on-reform-of-the-veterinary-surgeons-act-1966)
 **Published:** 2026-05-06T10:30:06Z
-**Matched keywords (2):** Competition and Markets Authority, CMA
+**Matched keywords (2):** CMA, Competition and Markets Authority
 
 ## Summary excerpt
 

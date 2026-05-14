@@ -8,9 +8,9 @@ source_date: Tue, 12 May 2026 17:05:42 +0000
 source_method: rss
 title: Micro-Entity Traps for Inventors Who Also Own Their Employer
 matched_keywords:
-- Patent
 - USPTO
 - patent
+- Patent
 match_count: 3
 status: candidate
 entities:
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-ef6c39c1fb
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Micro-Entity Traps for Inventors Who Also Own Their Employer
 
 **Source:** [Patently-O](https://patentlyo.com/patent/2026/05/micro-entity-traps-for-inventors-who-also-own-their-employer.html)
 **Published:** Tue, 12 May 2026 17:05:42 +0000
-**Matched keywords (3):** Patent, USPTO, patent
+**Matched keywords (3):** USPTO, patent, Patent
 
 ## Summary excerpt
 

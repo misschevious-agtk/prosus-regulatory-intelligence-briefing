@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-6c77c5430d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Advancing youth safety and wellbeing in EMEA

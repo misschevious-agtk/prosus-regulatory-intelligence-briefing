@@ -8,13 +8,13 @@ source_date: Fri, 13 Mar 2026 10:32:14 +0000
 source_method: rss
 title: Conseil d'État upholds Criteo's €40M GDPR fine
 matched_keywords:
-- consent
-- CNIL
 - data subject rights
 - noyb
 - GDPR
-- Privacy International
 - right to erasure
+- consent
+- CNIL
+- Privacy International
 match_count: 7
 status: candidate
 entities:
@@ -26,14 +26,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-1025c07585
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Conseil d'État upholds Criteo's €40M GDPR fine
 
 **Source:** [noyb news](https://noyb.eu/en/conseil-detat-upholds-criteos-eu40m-gdpr-fine)
 **Published:** Fri, 13 Mar 2026 10:32:14 +0000
-**Matched keywords (7):** consent, CNIL, data subject rights, noyb, GDPR, Privacy International, right to erasure
+**Matched keywords (7):** data subject rights, noyb, GDPR, right to erasure, consent, CNIL, Privacy International
 
 ## Summary excerpt
 

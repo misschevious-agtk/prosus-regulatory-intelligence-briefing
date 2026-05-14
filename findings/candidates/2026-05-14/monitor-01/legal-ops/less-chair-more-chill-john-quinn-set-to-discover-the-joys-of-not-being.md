@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-4fdea8e100
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Less Chair, More Chill: John Quinn Set To Discover The Joys Of Not Being In Charge At Quinn Emanuel

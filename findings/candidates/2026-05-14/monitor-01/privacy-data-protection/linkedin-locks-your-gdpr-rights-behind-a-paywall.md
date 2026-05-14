@@ -8,12 +8,12 @@ source_date: Tue, 05 May 2026 05:00:00 +0000
 source_method: rss
 title: LinkedIn locks your GDPR rights behind a paywall
 matched_keywords:
-- consent
+- right of access
 - data subject rights
-- Microsoft
 - noyb
 - GDPR
-- right of access
+- Microsoft
+- consent
 match_count: 6
 status: candidate
 entities: []
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-19850871be
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # LinkedIn locks your GDPR rights behind a paywall
 
 **Source:** [noyb news](https://noyb.eu/en/linkedin-locks-your-gdpr-rights-behind-paywall)
 **Published:** Tue, 05 May 2026 05:00:00 +0000
-**Matched keywords (6):** consent, data subject rights, Microsoft, noyb, GDPR, right of access
+**Matched keywords (6):** right of access, data subject rights, noyb, GDPR, Microsoft, consent
 
 ## Summary excerpt
 

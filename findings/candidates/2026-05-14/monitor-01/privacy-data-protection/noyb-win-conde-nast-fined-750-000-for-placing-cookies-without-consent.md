@@ -8,12 +8,12 @@ source_date: Thu, 27 Nov 2025 14:17:48 +0000
 source_method: rss
 title: 'noyb win: Conde Nast fined €750,000 for placing cookies without consent'
 matched_keywords:
+- Google
+- noyb
+- AEPD
+- cookie banner
 - consent
 - CNIL
-- AEPD
-- noyb
-- cookie banner
-- Google
 match_count: 6
 status: candidate
 entities:
@@ -25,14 +25,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-96555e48fc
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # noyb win: Conde Nast fined €750,000 for placing cookies without consent
 
 **Source:** [noyb news](https://noyb.eu/en/noyb-win-conde-nast-fined-eu750000-placing-cookies-without-consent)
 **Published:** Thu, 27 Nov 2025 14:17:48 +0000
-**Matched keywords (6):** consent, CNIL, AEPD, noyb, cookie banner, Google
+**Matched keywords (6):** Google, noyb, AEPD, cookie banner, consent, CNIL
 
 ## Summary excerpt
 

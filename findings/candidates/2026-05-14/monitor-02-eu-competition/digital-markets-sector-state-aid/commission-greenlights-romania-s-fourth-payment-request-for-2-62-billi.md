@@ -8,8 +8,8 @@ source_date: Wed, 13 May 2026 22:00:00 GMT
 source_method: rss
 title: Commission greenlights Romania's fourth payment request for €2.62 billion under NextGenerationEU
 matched_keywords:
-- resilience
 - European Commission
+- resilience
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-dfeaa89a7e
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Commission greenlights Romania's fourth payment request for €2.62 billion under NextGenerationEU
 
 **Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1075)
 **Published:** Wed, 13 May 2026 22:00:00 GMT
-**Matched keywords (2):** resilience, European Commission
+**Matched keywords (2):** European Commission, resilience
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Mon, 11 May 2026 12:56:47 +0000
 source_method: rss
 title: Prior Art Rejection Rates in Design Patent Prosecution
 matched_keywords:
-- Patent
 - patent
+- Patent
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-53f93a207a
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Prior Art Rejection Rates in Design Patent Prosecution
 
 **Source:** [Patently-O](https://patentlyo.com/patent/2026/05/prior-art-rejection-rates-in-design-patent-prosecution.html)
 **Published:** Mon, 11 May 2026 12:56:47 +0000
-**Matched keywords (2):** Patent, patent
+**Matched keywords (2):** patent, Patent
 
 ## Summary excerpt
 

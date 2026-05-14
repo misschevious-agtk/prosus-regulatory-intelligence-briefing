@@ -9,8 +9,8 @@ source_method: rss
 title: 'Fordham 33 (Report 6):  Unified Patent Court'
 matched_keywords:
 - Unified Patent Court
-- Patent
 - patent
+- Patent
 match_count: 3
 status: candidate
 entities:
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-118dc49ae8
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-14T18:58:14+00:00'
+ranked_at: '2026-05-14T19:36:07+00:00'
 ---
 
 # Fordham 33 (Report 6):  Unified Patent Court
 
 **Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/04/fordham-33-report-6-unified-patent-court.html)
 **Published:** 2026-04-27T12:59:00.010+01:00
-**Matched keywords (3):** Unified Patent Court, Patent, patent
+**Matched keywords (3):** Unified Patent Court, patent, Patent
 
 ## Summary excerpt
 

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-0426d6b6e3
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: how-checkbox-s-legal-front-door-can-transform-your-workflow
-ranked_at: '2026-05-14T18:44:34+00:00'
+ranked_at: '2026-05-14T18:58:14+00:00'
 ---
 
 # Meet LOIS: The AI That Will Change How You Practice Law

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-8e2b06ba6d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:44:34+00:00'
+ranked_at: '2026-05-14T18:58:14+00:00'
 ---
 
 # DLA Piper Sued For Discrimination After Firing Palestinian Lawyer

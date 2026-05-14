@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-3fdf533ed6
 cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T18:44:34+00:00'
+ranked_at: '2026-05-14T18:58:14+00:00'
 ---
 
 # DealCloser Integrates CoCounsel For AI Doc Review

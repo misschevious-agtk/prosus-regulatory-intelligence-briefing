@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-2fda87b4bc
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T18:44:34+00:00'
+ranked_at: '2026-05-14T18:58:14+00:00'
 ---
 
 # Aderant rolls out Agent Center at Momentum as part of Stridyn platform expansion

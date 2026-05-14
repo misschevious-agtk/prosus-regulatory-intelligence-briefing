@@ -22,7 +22,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-2d9e379fa2
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:44:34+00:00'
+ranked_at: '2026-05-14T18:58:14+00:00'
 ---
 
 # A Venetian surprise: Does the UPCA transitional period really require an opt-out to access national courts?

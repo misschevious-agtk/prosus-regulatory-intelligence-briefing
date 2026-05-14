@@ -22,7 +22,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-ef6c39c1fb
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:44:34+00:00'
+ranked_at: '2026-05-14T18:58:14+00:00'
 ---
 
 # Micro-Entity Traps for Inventors Who Also Own Their Employer

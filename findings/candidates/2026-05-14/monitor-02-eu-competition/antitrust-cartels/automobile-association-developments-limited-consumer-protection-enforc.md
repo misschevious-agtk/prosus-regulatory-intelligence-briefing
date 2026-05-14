@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-66b4dcb7cc
 cluster_size: 24
 cluster_role: canonical
-ranked_at: '2026-05-14T18:44:34+00:00'
+ranked_at: '2026-05-14T18:58:14+00:00'
 ---
 
 # Automobile Association Developments Limited: consumer protection enforcement case

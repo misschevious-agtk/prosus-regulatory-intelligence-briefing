@@ -107,10 +107,20 @@ jobs:
           fi
 
       - name: Commit candidates, escalations, metrics, hub state
+        # `git add` exits 128 on a missing pathspec, which on first/early
+        # runs would kill the whole commit step before anything got pushed
+        # (e.g. findings/escalations/ doesn't exist until escalate.py
+        # actually emits something). Add each path only if it exists.
         run: |
           git config user.name "Article Scraper Bot"
           git config user.email "scraper@noreply.local"
-          git add findings/candidates/ findings/clusters/ findings/escalations/ metrics/ website/state.json
+          for path in findings/candidates findings/clusters findings/escalations metrics website/state.json; do
+            if [ -e "$path" ]; then
+              git add "$path"
+            else
+              echo "  (skip: $path does not exist this run)"
+            fi
+          done
           if git diff --cached --quiet; then
             echo "No new candidates today."
           else

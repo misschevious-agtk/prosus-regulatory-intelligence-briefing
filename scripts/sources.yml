@@ -16,6 +16,17 @@
 # HTML-only sources are configured in scrape_sources.yml (sibling file),
 # consumed by scrape_articles.py. Both fetchers write to findings/candidates/
 # with the same schema, distinguished by `source_method: rss|scrape`.
+#
+# 2026-05-14 audit:
+#  - URL changes for 6 publishers whose feed paths moved (USPTO, CNIL, Garante,
+#    EDPB, Kluwer Competition, Import AI -> Jack Clark mirror).
+#  - 7 publishers have killed RSS entirely and need HTML scraping (Anthropic,
+#    ICO, AEPD, Bruegel, Reuters Legal, e-Competitions/Concurrences, CEPS).
+#    Their URLs are left in place for now -- the fetcher logs the 404/403
+#    once per run, which is non-fatal. Move to scrape_sources.yml when ready.
+#  - 2 publishers appear to IP-block GitHub Actions egress (Law.com, ABA).
+#    Leaving URLs in place -- they may work later from a different runner
+#    or via a residential proxy.
 
 # =========================================================
 # Monitor 01 — Regulatory Intelligence
@@ -36,28 +47,36 @@ monitor-01/ai-news:
     url: https://ec.europa.eu/commission/presscorner/api/rss?language=en
   - name: AI Snake Oil
     url: https://www.aisnakeoil.com/feed
-  - name: Import AI
-    url: https://importai.substack.com/feed
+  - name: Import AI (Jack Clark)
+    # Substack URL importai.substack.com/feed returned 403 from GH Actions
+    # (Substack blocks runner IP ranges). Jack Clark's personal blog at
+    # jack-clark.net mirrors Import AI posts and is a plain WordPress feed.
+    url: https://jack-clark.net/feed/
 
 monitor-01/privacy-data-protection:
   - name: noyb news
     url: https://noyb.eu/en/rss.xml
   - name: CNIL actualités [FR]
-    url: https://www.cnil.fr/fr/feed
+    # /fr/feed was retired; current feed lives at /fr/rss.xml on the apex
+    # domain (no www. -- the www subdomain 404s for this path).
+    url: https://cnil.fr/fr/rss.xml
   - name: ICO news
     url: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/rss/
   - name: Garante per la protezione dei dati personali [IT]
-    url: https://www.garanteprivacy.it/rss.xml
+    # /rss.xml retired; current feed uses Liferay's gpdp-rss portlet endpoint.
+    url: https://www.garanteprivacy.it/o/gpdp-rss/rss?c=10524
   - name: AEPD news [ES]
     url: https://www.aepd.es/rss/novedades.xml
   - name: EDPB news
-    url: https://www.edpb.europa.eu/rss/news_en
+    # /rss/news_en retired; current feed at /feed/news_en (Drupal default).
+    url: https://www.edpb.europa.eu/feed/news_en
   - name: European Commission press
     url: https://ec.europa.eu/commission/presscorner/api/rss?language=en
 
 monitor-01/intellectual-property:
   - name: USPTO news
-    url: https://www.uspto.gov/blog/news.xml
+    # /blog/news.xml retired; the site-wide feed at /rss.xml covers IP news.
+    url: https://www.uspto.gov/rss.xml
   - name: WIPO news
     url: https://www.wipo.int/pressroom/en/rss.xml
   - name: EUIPO news (HTML — scraping note)
@@ -99,7 +118,7 @@ monitor-02-eu-competition/antitrust-cartels:
   - name: Chillin'Competition
     url: https://chillingcompetition.com/feed/
   - name: Kluwer Competition Law Blog
-    url: https://competitionlawblog.kluwercompetitionlaw.com/feed/
+    url: https://legalblogs.wolterskluwer.com/competition-blog/rss.xml
 
 monitor-02-eu-competition/abuse-of-dominance:
   - name: European Commission press
@@ -111,7 +130,7 @@ monitor-02-eu-competition/abuse-of-dominance:
   - name: Chillin'Competition
     url: https://chillingcompetition.com/feed/
   - name: Kluwer Competition Law Blog
-    url: https://competitionlawblog.kluwercompetitionlaw.com/feed/
+    url: https://legalblogs.wolterskluwer.com/competition-blog/rss.xml
 
 monitor-02-eu-competition/merger-control-fdi:
   - name: European Commission press
@@ -123,7 +142,7 @@ monitor-02-eu-competition/merger-control-fdi:
   - name: Reuters Legal
     url: https://www.reuters.com/arc/outboundfeeds/rss/category/legal/?outputType=xml
   - name: Kluwer Competition Law Blog
-    url: https://competitionlawblog.kluwercompetitionlaw.com/feed/
+    url: https://legalblogs.wolterskluwer.com/competition-blog/rss.xml
 
 monitor-02-eu-competition/digital-markets-sector-state-aid:
   - name: European Commission press

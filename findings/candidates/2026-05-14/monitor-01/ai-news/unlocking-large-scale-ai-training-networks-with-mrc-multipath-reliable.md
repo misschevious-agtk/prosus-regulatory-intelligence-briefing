@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-14-3fdf533ed6
-cluster_size: 22
-cluster_role: sibling
-cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T19:36:07+00:00'
+cluster_id: cluster-2026-05-14-fb149605dd
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)

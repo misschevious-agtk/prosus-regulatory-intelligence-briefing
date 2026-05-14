@@ -8,9 +8,9 @@ source_date: Thu, 14 May 2026 15:43:40 +0000
 source_method: rss
 title: iManage unveils open protocol
 matched_keywords:
-- LegalTech
-- iManage
 - Legal IT Insider
+- iManage
+- LegalTech
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-b682b42e70
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # iManage unveils open protocol
 
 **Source:** [Legal IT Insider](https://legaltechnology.com/2026/05/14/imanage-unveils-open-protocol/)
 **Published:** Thu, 14 May 2026 15:43:40 +0000
-**Matched keywords (3):** LegalTech, iManage, Legal IT Insider
+**Matched keywords (3):** Legal IT Insider, iManage, LegalTech
 
 ## Summary excerpt
 

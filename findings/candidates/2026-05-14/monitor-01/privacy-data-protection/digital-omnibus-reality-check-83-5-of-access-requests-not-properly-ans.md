@@ -8,14 +8,14 @@ source_date: Thu, 16 Apr 2026 09:52:01 +0000
 source_method: rss
 title: 'Digital Omnibus reality check: 83.5% of access requests not properly answered'
 matched_keywords:
+- Data Protection Officer
 - right of access
 - data subject rights
 - Max Schrems
-- noyb
-- GDPR
-- Data Protection Officer
 - Microsoft
 - Schrems
+- noyb
+- GDPR
 match_count: 8
 status: candidate
 entities: []
@@ -23,14 +23,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-075dc0ca4d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Digital Omnibus reality check: 83.5% of access requests not properly answered
 
 **Source:** [noyb news](https://noyb.eu/en/digital-omnibus-reality-check-835-access-requests-not-properly-answered)
 **Published:** Thu, 16 Apr 2026 09:52:01 +0000
-**Matched keywords (8):** right of access, data subject rights, Max Schrems, noyb, GDPR, Data Protection Officer, Microsoft, Schrems
+**Matched keywords (8):** Data Protection Officer, right of access, data subject rights, Max Schrems, Microsoft, Schrems, noyb, GDPR
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Tue, 12 May 2026 17:00:09 +0000
 source_method: rss
 title: Claude For Legal Launches, May Reshape the Legal Tech World
 matched_keywords:
-- Anthropic
 - Claude
+- Anthropic
 match_count: 2
 status: candidate
 entities:
@@ -19,17 +19,17 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-05-14-3fdf533ed6
-cluster_size: 22
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Claude For Legal Launches, May Reshape the Legal Tech World
 
 **Source:** [Artificial Lawyer](https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/)
 **Published:** Tue, 12 May 2026 17:00:09 +0000
-**Matched keywords (2):** Anthropic, Claude
+**Matched keywords (2):** Claude, Anthropic
 
 ## Summary excerpt
 

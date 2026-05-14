@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-2fda87b4bc
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: aderant-rolls-out-agent-center-at-momentum-as-part-of-stridyn-platform
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Aderant Introduces Agent Center at Momentum Global, Targeting Law Firm Back-Office Operations with AI

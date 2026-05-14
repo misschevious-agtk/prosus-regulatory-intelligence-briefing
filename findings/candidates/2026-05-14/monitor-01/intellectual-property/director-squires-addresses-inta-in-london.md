@@ -1,0 +1,43 @@
+---
+date_found: 2026-05-14
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://www.uspto.gov/subscription-center/2026/director-squires-addresses-inta-london
+source_publisher: USPTO news
+source_date: Mon, 05/04/2026 - 13:38
+source_method: rss
+title: Director Squires addresses INTA in London
+matched_keywords:
+- INTA
+- patent
+- Patent
+- trademark
+match_count: 4
+status: candidate
+entities:
+- name: United States Patent and Trademark Office
+  type: regulator
+  jurisdiction: US
+  matched_alias: United States Patent and Trademark Office
+case_numbers: []
+cluster_id: cluster-2026-05-14-78a5a827ff
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-14T20:57:31+00:00'
+---
+
+# Director Squires addresses INTA in London
+
+**Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/director-squires-addresses-inta-london)
+**Published:** Mon, 05/04/2026 - 13:38
+**Matched keywords (4):** INTA, patent, Patent, trademark
+
+## Summary excerpt
+
+[[VIEW_THIS]] Press Release Director Squires addresses INTA in London, highlights the new frontier of trademarks and personal brands LONDON, ENGLAND—United States Patent and Trademark Office...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

@@ -8,8 +8,8 @@ source_date: Tue, 05 May 2026 15:03:09 +0000
 source_method: rss
 title: California Bar Proposes Rule Requiring Lawyers to Verify Every AI Output — and Five Other AI-Focused Ethics Changes
 matched_keywords:
-- State Bar of California
 - LawNext
+- State Bar of California
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-f246275d01
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # California Bar Proposes Rule Requiring Lawyers to Verify Every AI Output — and Five Other AI-Focused Ethics Changes
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/california-bar-proposes-rule-requiring-lawyers-to-verify-every-ai-output-and-five-other-ai-focused-ethics-changes.html)
 **Published:** Tue, 05 May 2026 15:03:09 +0000
-**Matched keywords (2):** State Bar of California, LawNext
+**Matched keywords (2):** LawNext, State Bar of California
 
 ## Summary excerpt
 

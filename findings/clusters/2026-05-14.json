@@ -1,5 +1,5 @@
 {
-  "ranked_at": "2026-05-14T19:36:07+00:00",
+  "ranked_at": "2026-05-14T20:57:31+00:00",
   "window_days": 7,
   "threshold": 0.72,
   "cluster_window_hours": 48,
@@ -479,22 +479,22 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-fab14b2a45",
+      "cluster_id": "cluster-2026-05-14-19ce7e9057",
       "size": 2,
       "canonical": {
         "title": "Thoughts on Case C‑2/24 P, Teva: pay-for-delay is the saga that keeps on giving",
-        "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on.md",
+        "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on.md",
         "monitor": "monitor-02-eu-competition",
-        "domain": "abuse-of-dominance",
+        "domain": "antitrust-cartels",
         "match_count": 1,
         "source_publisher": "Chillin'Competition"
       },
       "siblings": [
         {
           "title": "Thoughts on Case C‑2/24 P, Teva: pay-for-delay is the saga that keeps on giving",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
+          "domain": "abuse-of-dominance",
           "source_publisher": "Chillin'Competition"
         }
       ],
@@ -950,6 +950,34 @@
       "case_numbers": []
     },
     {
+      "cluster_id": "cluster-2026-05-14-9c57feb209",
+      "size": 1,
+      "canonical": {
+        "title": "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/edpb-and-edps-support-harmonisation-of-clinical-trials-under-european-.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 8,
+        "source_publisher": "EDPB news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "European Commission",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "European Commission"
+        },
+        {
+          "name": "European Data Protection Board",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "EDPB"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-ad6904d548",
       "size": 1,
       "canonical": {
@@ -1031,6 +1059,36 @@
       "case_numbers": []
     },
     {
+      "cluster_id": "cluster-2026-05-14-fc039e6e93",
+      "size": 2,
+      "canonical": {
+        "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/cef-2026-edpb-launches-coordinated-enforcement-action-on-transparency-.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 13,
+        "source_publisher": "EDPB news"
+      },
+      "siblings": [
+        {
+          "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/edpb-and-edps-support-strengthening-eu-s-cybersecurity-and-easing-comp.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "EDPB news"
+        }
+      ],
+      "entities": [
+        {
+          "name": "European Data Protection Board",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "EDPB"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-98de6f680b",
       "size": 1,
       "canonical": {
@@ -1043,6 +1101,28 @@
       },
       "siblings": [],
       "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-8677c3fc0b",
+      "size": 1,
+      "canonical": {
+        "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/edpb-conference-on-cross-regulatory-cooperation-what-we-learned.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 2,
+        "source_publisher": "EDPB news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "European Data Protection Board",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "EDPB"
+        }
+      ],
       "case_numbers": []
     },
     {
@@ -1080,6 +1160,73 @@
       },
       "siblings": [],
       "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-7b091f775f",
+      "size": 1,
+      "canonical": {
+        "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-d.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 7,
+        "source_publisher": "EDPB news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "European Data Protection Board",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "EDPB"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-dbd216c517",
+      "size": 1,
+      "canonical": {
+        "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-d.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 1,
+        "source_publisher": "Import AI (Jack Clark)"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-aa5c38b6b6",
+      "size": 2,
+      "canonical": {
+        "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/edpb-brings-clarity-to-data-processing-for-scientific-research-speeds-.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 6,
+        "source_publisher": "EDPB news"
+      },
+      "siblings": [
+        {
+          "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/enhancing-compliance-and-consistency-edpb-adopts-dpia-template.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "EDPB news"
+        }
+      ],
+      "entities": [
+        {
+          "name": "European Data Protection Board",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "EDPB"
+        }
+      ],
       "case_numbers": []
     },
     {
@@ -1180,6 +1327,34 @@
       "case_numbers": []
     },
     {
+      "cluster_id": "cluster-2026-05-14-b20708a75e",
+      "size": 1,
+      "canonical": {
+        "title": "Stakeholder event on competition and data protection",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/stakeholder-event-on-competition-and-data-protection.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 1,
+        "source_publisher": "EDPB news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "European Commission",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "European Commission"
+        },
+        {
+          "name": "European Data Protection Board",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "EDPB"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-2a5467d711",
       "size": 1,
       "canonical": {
@@ -1212,6 +1387,28 @@
           "type": "regulator",
           "jurisdiction": "INT",
           "matched_alias": "WIPO"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-6c9c39f60d",
+      "size": 1,
+      "canonical": {
+        "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/marking-10-years-of-the-gdpr-the-evolution-of-the-european-data-protec.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 3,
+        "source_publisher": "EDPB news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "European Data Protection Board",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "EDPB"
         }
       ],
       "case_numbers": []
@@ -1380,16 +1577,16 @@
         },
         {
           "title": "Correspondence: CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/correspondence-cma-advice-to-defra-on-reform-of-the-veterinary-surgeon.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/correspondence-cma-advice-to-defra-on-reform-of-the-veterinary-surgeon.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "digital-markets-sector-state-aid",
+          "domain": "antitrust-cartels",
           "source_publisher": "CMA news"
         },
         {
           "title": "Correspondence: CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/correspondence-cma-advice-to-defra-on-reform-of-the-veterinary-surgeon.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/correspondence-cma-advice-to-defra-on-reform-of-the-veterinary-surgeon.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
+          "domain": "digital-markets-sector-state-aid",
           "source_publisher": "CMA news"
         },
         {
@@ -1429,16 +1626,16 @@
         },
         {
           "title": "Potential designation of Aldi and Lidl under the Groceries Market Investigation (Controlled Land) Order 2010",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "abuse-of-dominance",
+          "domain": "antitrust-cartels",
           "source_publisher": "CMA news"
         },
         {
           "title": "Potential designation of Aldi and Lidl under the Groceries Market Investigation (Controlled Land) Order 2010",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
+          "domain": "abuse-of-dominance",
           "source_publisher": "CMA news"
         },
         {
@@ -1478,6 +1675,13 @@
         },
         {
           "title": "Transparency data: Merger investigation outcomes",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/transparency-data-merger-investigation-outcomes.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "antitrust-cartels",
+          "source_publisher": "CMA news"
+        },
+        {
+          "title": "Transparency data: Merger investigation outcomes",
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/transparency-data-merger-investigation-outcomes.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "abuse-of-dominance",
@@ -1488,13 +1692,6 @@
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/transparency-data-merger-investigation-outcomes.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "digital-markets-sector-state-aid",
-          "source_publisher": "CMA news"
-        },
-        {
-          "title": "Transparency data: Merger investigation outcomes",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/transparency-data-merger-investigation-outcomes.md",
-          "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
           "source_publisher": "CMA news"
         },
         {
@@ -1534,6 +1731,21 @@
           "matched_alias": "CMA"
         }
       ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-615fadf273",
+      "size": 1,
+      "canonical": {
+        "title": "Europe Day 2026: let’s celebrate together",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/europe-day-2026-let-s-celebrate-together.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 2,
+        "source_publisher": "EDPB news"
+      },
+      "siblings": [],
+      "entities": [],
       "case_numbers": []
     },
     {
@@ -1582,6 +1794,36 @@
       "case_numbers": []
     },
     {
+      "cluster_id": "cluster-2026-05-14-ff988446d0",
+      "size": 2,
+      "canonical": {
+        "title": "G7 2026 : la CNIL accueille à Paris la Table ronde des autorités de protection des données et de la vie privée",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/g7-2026-la-cnil-accueille-paris-la-table-ronde-des-autorit-s-de-protec.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 1,
+        "source_publisher": "CNIL actualités [FR]"
+      },
+      "siblings": [
+        {
+          "title": "Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/privacy-research-day-participez-la-journ-e-d-di-e-la-recherche-sur-la-.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "CNIL actualités [FR]"
+        }
+      ],
+      "entities": [
+        {
+          "name": "Commission Nationale de l'Informatique et des Libertés",
+          "type": "regulator",
+          "jurisdiction": "FR",
+          "matched_alias": "CNIL"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-242e44035b",
       "size": 1,
       "canonical": {
@@ -1594,6 +1836,36 @@
       },
       "siblings": [],
       "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-519abdd612",
+      "size": 2,
+      "canonical": {
+        "title": "Demandes de crédit : comprendre l’utilisation de vos données et vos droits",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/demandes-de-cr-dit-comprendre-l-utilisation-de-vos-donn-es-et-vos-droi.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 1,
+        "source_publisher": "CNIL actualités [FR]"
+      },
+      "siblings": [
+        {
+          "title": "Octroi de crédit : la CNIL publie sa recommandation sur l’utilisation de données personnelles pour l’évaluation de la solvabilité",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/octroi-de-cr-dit-la-cnil-publie-sa-recommandation-sur-l-utilisation-de.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "CNIL actualités [FR]"
+        }
+      ],
+      "entities": [
+        {
+          "name": "Commission Nationale de l'Informatique et des Libertés",
+          "type": "regulator",
+          "jurisdiction": "FR",
+          "matched_alias": "CNIL"
+        }
+      ],
       "case_numbers": []
     },
     {
@@ -1687,6 +1959,28 @@
       "case_numbers": []
     },
     {
+      "cluster_id": "cluster-2026-05-14-bb91ae6bcf",
+      "size": 1,
+      "canonical": {
+        "title": "Les lunettes connectées : la CNIL appelle à la vigilance",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/les-lunettes-connect-es-la-cnil-appelle-la-vigilance.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 1,
+        "source_publisher": "CNIL actualités [FR]"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "Commission Nationale de l'Informatique et des Libertés",
+          "type": "regulator",
+          "jurisdiction": "FR",
+          "matched_alias": "CNIL"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-53f93a207a",
       "size": 1,
       "canonical": {
@@ -1718,7 +2012,7 @@
     },
     {
       "cluster_id": "cluster-2026-05-14-3fdf533ed6",
-      "size": 22,
+      "size": 20,
       "canonical": {
         "title": "Claude for Legal: What the industry needs to know",
         "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/claude-for-legal-what-the-industry-needs-to-know.md",
@@ -1841,13 +2135,6 @@
           "source_publisher": "OpenAI blog"
         },
         {
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/how-openai-delivers-low-latency-voice-ai-at-scale.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        },
-        {
           "title": "OpenAI launches DeployCo to help businesses build around intelligence",
           "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-launches-deployco-to-help-businesses-build-around-intelligence.md",
           "monitor": "monitor-01",
@@ -1864,13 +2151,6 @@
         {
           "title": "Uber uses OpenAI to help people earn smarter and book faster",
           "path": "findings/candidates/2026-05-14/monitor-01/ai-news/uber-uses-openai-to-help-people-earn-smarter-and-book-faster.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        },
-        {
-          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/unlocking-large-scale-ai-training-networks-with-mrc-multipath-reliable.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "OpenAI blog"
@@ -1969,6 +2249,99 @@
       "case_numbers": []
     },
     {
+      "cluster_id": "cluster-2026-05-14-c12d5204b3",
+      "size": 11,
+      "canonical": {
+        "title": "NEWSLETTER del 1 agosto 2025 - Videosorveglianza, il Garante privacy scrive a Confcommercio: attenzione agli abusi - Data breach, il Garante sanziona Poste Vita per 80mila euro - Lavoro, il Garante privacy sanziona un’azienda per questionari post-malattia",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-del-1-agosto-2025-videosorveglianza-il-garante-privacy-scri.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 2,
+        "source_publisher": "Garante per la protezione dei dati personali [IT]"
+      },
+      "siblings": [
+        {
+          "title": "NEWSLETTER del 15 aprile 2026 - Prove d’esame e corsi a distanza, online le Faq del Garante privacy - Il Garante privacy sanziona Eni per 96mila euro - Garante: sì ad accesso proprie email dopo fine rapporto lavoro - Garante: non conforme al Gdpr “FaceBoarding” di Milano Linate - Servizio AscoltaMi: ok del Garante privacy al MIM",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-del-15-aprile-2026-prove-d-esame-e-corsi-a-distanza-online-.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        },
+        {
+          "title": "NEWSLETTER del 26 marzo 2026 - Telemarketing, il Garante privacy sanziona Enel Energia per oltre 500mila euro - Annunci online senza consenso, il Garante sanziona Bakeca - Recupero crediti, Garante privacy: illecita la comunicazione ai familiari del debitore - Troppi rischi su siti e app per i minori: l’indagine del GPEN",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-del-26-marzo-2026-telemarketing-il-garante-privacy-sanziona.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        },
+        {
+          "title": "NEWSLETTER del 27/11/25 - Sanità, il Garante privacy sanziona società che gestisce un ospedale - Online le FAQ su trattamento dati e trasparenza nei concorsi pubblici - Whistleblowing: nuovo parere sulle Linee guida di ANAC - 'La scuola a prova di privacy'. Il vademecum aggiornato - GDPR e obblighi di trasparenza, il Garante partecipa al CEF 2026",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-del-27-11-25-sanit-il-garante-privacy-sanziona-societ-che-g.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        },
+        {
+          "title": "Ordre du jour de la séance plénière du 12 mai 2026",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/ordre-du-jour-de-la-s-ance-pl-ni-re-du-12-mai-2026.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "CNIL actualités [FR]"
+        },
+        {
+          "title": "NEWSLETTER 20/02/26 - Il Garante privacy sanziona eCampus, stop al riconoscimento facciale  - Garante privacy a comune di Pescara: no alle body cam della Polizia locale - Dal Garante ok alle Linee guida Agid su accessibilità dei servizi - Garanti Ue, le sfide per una piena attuazione del diritto alla cancellazione - Digital Omnibus, Garanti Ue: semplificare senza ridurre la tutela delle persone",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-20-02-26-il-garante-privacy-sanziona-ecampus-stop-al-ricono.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        },
+        {
+          "title": "NEWSLETTER 29/01/26 - No al controllo dello stile di guida dei lavoratori - L’accesso alla email del lavoratore licenziato vìola la privacy - Monopattini: sì alla piattaforma per rilascio delle targhe - Attivo un nuovo strumento contro il telemarketing selvaggio - Casi transfrontalieri, al via Regolamento UE su reclami e istruttorie",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-29-01-26-no-al-controllo-dello-stile-di-guida-dei-lavorator.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        },
+        {
+          "title": "NEWSLETTER del 10 settembre 2025 - Minori: il Garante privacy sanziona un asilo nido - IT-Wallet, sì del Garante privacy alla sperimentazione - Indagini patrimoniali, il Garante privacy dice sì a CEREBRO - Scuola: ok del Garante alle Linee guida del MIM per l’IA negli istituti scolastici",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-del-10-settembre-2025-minori-il-garante-privacy-sanziona-un.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        },
+        {
+          "title": "NEWSLETTER del 17 dicembre 2025 - Marketing indesiderato: Garante sanziona Verisure Italia per 400mila euro - Misure di sicurezza inadeguate, Garante privacy sanziona Aimag  - G7 Privacy: per un’innovazione che tuteli i minori - Sistema informazione Schengen: online i nuovi modelli per l’esercizio dei diritti",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-del-17-dicembre-2025-marketing-indesiderato-garante-sanzion.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        },
+        {
+          "title": "NEWSLETTER del 25 settembre 2025 - Garante privacy: dossier sanitario accessibile solo per ragioni di cura - Diritto di accesso, il Garante privacy sanziona una banca per 100mila euro - PA e obblighi di trasparenza online, il Garante privacy chiede maggiori tutele - Trasparenza siti, il Garante privacy sanziona un Comune - Garanti privacy mondiali: la protezione dati si applica pienamente all’IA",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-del-25-settembre-2025-garante-privacy-dossier-sanitario-acc.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        },
+        {
+          "title": "NEWSLETTER del 9 marzo 2026 - Cimiteri digitali, il Garante privacy sanziona Aldilapp - Stop alle telecamere non a norma privacy - Piattaforma di gestione delle deleghe, via libera del Garante - Garanti mondiali: preoccupazione per contenuti intimi generati con IA",
+          "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/newsletter-del-9-marzo-2026-cimiteri-digitali-il-garante-privacy-sanzi.md",
+          "monitor": "monitor-01",
+          "domain": "privacy-data-protection",
+          "source_publisher": "Garante per la protezione dei dati personali [IT]"
+        }
+      ],
+      "entities": [
+        {
+          "name": "Garante per la protezione dei dati personali",
+          "type": "regulator",
+          "jurisdiction": "IT",
+          "matched_alias": "Garante"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-4f315d1ed2",
       "size": 1,
       "canonical": {
@@ -2059,36 +2432,6 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-856a9e76fc",
-      "size": 1,
-      "canonical": {
-        "title": "Good Vibrations: How Vibe Coding Is Infiltrating Legal",
-        "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/good-vibrations-how-vibe-coding-is-infiltrating-legal.md",
-        "monitor": "monitor-01",
-        "domain": "legal-ops",
-        "match_count": 1,
-        "source_publisher": "Above the Law"
-      },
-      "siblings": [],
-      "entities": [],
-      "case_numbers": []
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-095ab535ff",
-      "size": 1,
-      "canonical": {
-        "title": "Celebrity Keynotes At Legal Tech Conferences: What Could Possibly Go Wrong?",
-        "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/celebrity-keynotes-at-legal-tech-conferences-what-could-possibly-go-wr.md",
-        "monitor": "monitor-01",
-        "domain": "legal-ops",
-        "match_count": 1,
-        "source_publisher": "Above the Law"
-      },
-      "siblings": [],
-      "entities": [],
-      "case_numbers": []
-    },
-    {
       "cluster_id": "cluster-2026-05-14-3426f0ddd0",
       "size": 1,
       "canonical": {
@@ -2120,7 +2463,7 @@
     },
     {
       "cluster_id": "cluster-2026-05-14-8592fdea8d",
-      "size": 6,
+      "size": 7,
       "canonical": {
         "title": "Morning Docket: 05.13.26",
         "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/morning-docket-05-13-26.md",
@@ -2164,6 +2507,13 @@
           "monitor": "monitor-01",
           "domain": "legal-ops",
           "source_publisher": "Above the Law"
+        },
+        {
+          "title": "DOJ Sues D.C. Bar For Holding Trump Lawyers To Ethical Rules",
+          "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/doj-sues-d-c-bar-for-holding-trump-lawyers-to-ethical-rules.md",
+          "monitor": "monitor-01",
+          "domain": "legal-ops",
+          "source_publisher": "Above the Law"
         }
       ],
       "entities": [],
@@ -2182,6 +2532,34 @@
       },
       "siblings": [],
       "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-8ef38b8ed3",
+      "size": 1,
+      "canonical": {
+        "title": "Confidentialité de l’euro numérique : où en sommes-nous ?",
+        "path": "findings/candidates/2026-05-14/monitor-01/privacy-data-protection/confidentialit-de-l-euro-num-rique-o-en-sommes-nous.md",
+        "monitor": "monitor-01",
+        "domain": "privacy-data-protection",
+        "match_count": 2,
+        "source_publisher": "CNIL actualités [FR]"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "Commission Nationale de l'Informatique et des Libertés",
+          "type": "regulator",
+          "jurisdiction": "FR",
+          "matched_alias": "CNIL"
+        },
+        {
+          "name": "Bundesbeauftragte für den Datenschutz",
+          "type": "regulator",
+          "jurisdiction": "DE",
+          "matched_alias": "BfDI"
+        }
+      ],
       "case_numbers": []
     },
     {
@@ -2238,7 +2616,7 @@
     },
     {
       "cluster_id": "cluster-2026-05-14-0426d6b6e3",
-      "size": 2,
+      "size": 3,
       "canonical": {
         "title": "How Checkbox’s ‘Legal Front Door’ Can Transform Your Workflow",
         "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/how-checkbox-s-legal-front-door-can-transform-your-workflow.md",
@@ -2251,6 +2629,13 @@
         {
           "title": "Meet LOIS: The AI That Will Change How You Practice Law",
           "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/meet-lois-the-ai-that-will-change-how-you-practice-law.md",
+          "monitor": "monitor-01",
+          "domain": "legal-ops",
+          "source_publisher": "Above the Law"
+        },
+        {
+          "title": "The Law After Tomorrow: A Fictional Look At AI, Legal Work, And The World Between 2026 And 2050",
+          "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/the-law-after-tomorrow-a-fictional-look-at-ai-legal-work-and-the-world.md",
           "monitor": "monitor-01",
           "domain": "legal-ops",
           "source_publisher": "Above the Law"
@@ -2410,25 +2795,69 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-c136a103d5",
-      "size": 1,
+      "cluster_id": "cluster-2026-05-14-9ae0de4783",
+      "size": 6,
       "canonical": {
-        "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo.md",
-        "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 2,
-        "source_publisher": "OpenAI blog"
+        "title": "Book Review: Questioning the Role of Competition Law in the 21st Century",
+        "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/book-review-questioning-the-role-of-competition-law-in-the-21st-centur.md",
+        "monitor": "monitor-02-eu-competition",
+        "domain": "antitrust-cartels",
+        "match_count": 1,
+        "source_publisher": "Kluwer Competition Law Blog"
       },
-      "siblings": [],
-      "entities": [
+      "siblings": [
         {
-          "name": "OpenAI",
-          "type": "company",
-          "jurisdiction": "US",
-          "matched_alias": "OpenAI"
+          "title": "Book Review: Questioning the Role of Competition Law in the 21st Century",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/book-review-questioning-the-role-of-competition-law-in-the-21st-centur.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "abuse-of-dominance",
+          "source_publisher": "Kluwer Competition Law Blog"
+        },
+        {
+          "title": "Main Developments in Competition Law and Policy 2025 – Mozambique",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/main-developments-in-competition-law-and-policy-2025-mozambique.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "antitrust-cartels",
+          "source_publisher": "Kluwer Competition Law Blog"
+        },
+        {
+          "title": "Main Developments in Competition Law and Policy 2025 – Mozambique",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/merger-control-fdi/main-developments-in-competition-law-and-policy-2025-mozambique.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "merger-control-fdi",
+          "source_publisher": "Kluwer Competition Law Blog"
+        },
+        {
+          "title": "Main Developments in Competition Law and Policy 2025 – Spain",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/main-developments-in-competition-law-and-policy-2025-spain.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "antitrust-cartels",
+          "source_publisher": "Kluwer Competition Law Blog"
+        },
+        {
+          "title": "Main Developments in Competition Law and Policy 2025 – Spain",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/main-developments-in-competition-law-and-policy-2025-spain.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "abuse-of-dominance",
+          "source_publisher": "Kluwer Competition Law Blog"
         }
       ],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-bafde0cb04",
+      "size": 1,
+      "canonical": {
+        "title": "The EU’s Draft Merger Guidelines and the “Innovation Shield”: Never Judge a Shield by its Cover?",
+        "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/merger-control-fdi/the-eu-s-draft-merger-guidelines-and-the-innovation-shield-never-judge.md",
+        "monitor": "monitor-02-eu-competition",
+        "domain": "merger-control-fdi",
+        "match_count": 1,
+        "source_publisher": "Kluwer Competition Law Blog"
+      },
+      "siblings": [],
+      "entities": [],
       "case_numbers": []
     },
     {
@@ -2459,21 +2888,14 @@
         },
         {
           "title": "Daily News 13 / 05 / 2026",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/daily-news-13-05-2026.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "European Commission press"
-        },
-        {
-          "title": "Daily News 13 / 05 / 2026",
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/daily-news-13-05-2026.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "digital-markets-sector-state-aid",
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Ομιλία του Επιτρόπου Καδή σε κοινή συνεδρία της Διαρκούς Επιτροπής Ευρωπαϊκών Υποθέσεων, της Διαρκούς Επιτροπής Παραγωγής και Εμπορίου και της Ειδικής Μόνιμης Επιτροπής Προστασίας Περιβάλλοντος της Βουλής των Ελλήνων",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/item.md",
+          "title": "Daily News 13 / 05 / 2026",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/daily-news-13-05-2026.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2486,8 +2908,8 @@
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Keynote speech by Commissioner Kubilius at the event 'European Union Defence Initiatives: The Eastern Flank within a 360° Security Approach'",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/keynote-speech-by-commissioner-kubilius-at-the-event-european-union-de.md",
+          "title": "Ομιλία του Επιτρόπου Καδή σε κοινή συνεδρία της Διαρκούς Επιτροπής Ευρωπαϊκών Υποθέσεων, της Διαρκούς Επιτροπής Παραγωγής και Εμπορίου και της Ειδικής Μόνιμης Επιτροπής Προστασίας Περιβάλλοντος της Βουλής των Ελλήνων",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/item.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2500,8 +2922,8 @@
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Press Remarks by Commissioner Lahbib at the European Citizens' Initiative to Ban Conversion Practices",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/press-remarks-by-commissioner-lahbib-at-the-european-citizens-initiati.md",
+          "title": "Keynote speech by Commissioner Kubilius at the event 'European Union Defence Initiatives: The Eastern Flank within a 360° Security Approach'",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/keynote-speech-by-commissioner-kubilius-at-the-event-european-union-de.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2514,8 +2936,8 @@
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Remarks by Commissioner Lahbib on the European Citizens' Initiative ‘Ban on conversion practices in the European Union'",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/remarks-by-commissioner-lahbib-on-the-european-citizens-initiative-ban.md",
+          "title": "Press Remarks by Commissioner Lahbib at the European Citizens' Initiative to Ban Conversion Practices",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/press-remarks-by-commissioner-lahbib-at-the-european-citizens-initiati.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2528,15 +2950,15 @@
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Remarks by Commissioner Síkela at the press conference on the Global Health Resilience Initiative",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/remarks-by-commissioner-s-kela-at-the-press-conference-on-the-global-h.md",
+          "title": "Remarks by Commissioner Lahbib on the European Citizens' Initiative ‘Ban on conversion practices in the European Union'",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/remarks-by-commissioner-lahbib-on-the-european-citizens-initiative-ban.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/video-message-for-roundtable-discussion-on-lng-shipping-organised-by-c.md",
+          "title": "Remarks by Commissioner Síkela at the press conference on the Global Health Resilience Initiative",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/remarks-by-commissioner-s-kela-at-the-press-conference-on-the-global-h.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2546,6 +2968,43 @@
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/video-message-for-roundtable-discussion-on-lng-shipping-organised-by-c.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "digital-markets-sector-state-aid",
+          "source_publisher": "European Commission press"
+        },
+        {
+          "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/video-message-for-roundtable-discussion-on-lng-shipping-organised-by-c.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "European Commission press"
+        }
+      ],
+      "entities": [
+        {
+          "name": "European Commission",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "European Commission"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-f296a192dc",
+      "size": 2,
+      "canonical": {
+        "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
+        "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz.md",
+        "monitor": "monitor-02-eu-competition",
+        "domain": "digital-markets-sector-state-aid",
+        "match_count": 1,
+        "source_publisher": "European Commission press"
+      },
+      "siblings": [
+        {
+          "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
           "source_publisher": "European Commission press"
         }
       ],
@@ -2587,6 +3046,79 @@
           "matched_alias": "European Commission"
         }
       ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-fb149605dd",
+      "size": 1,
+      "canonical": {
+        "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/unlocking-large-scale-ai-training-networks-with-mrc-multipath-reliable.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 1,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "OpenAI",
+          "type": "company",
+          "jurisdiction": "US",
+          "matched_alias": "OpenAI"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-14389d7454",
+      "size": 6,
+      "canonical": {
+        "title": "How NVIDIA engineers and researchers build with Codex",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/how-nvidia-engineers-and-researchers-build-with-codex.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 2,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [
+        {
+          "title": "Simplex rethinks software development with Codex",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/simplex-rethinks-software-development-with-codex.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        },
+        {
+          "title": "AutoScout24 scales engineering with AI-powered workflows",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/autoscout24-scales-engineering-with-ai-powered-workflows.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        },
+        {
+          "title": "Building a safe, effective sandbox to enable Codex on Windows",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/building-a-safe-effective-sandbox-to-enable-codex-on-windows.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        },
+        {
+          "title": "Running Codex safely at OpenAI",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/running-codex-safely-at-openai.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        },
+        {
+          "title": "Work with Codex from anywhere",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/work-with-codex-from-anywhere.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        }
+      ],
+      "entities": [],
       "case_numbers": []
     },
     {
@@ -2756,70 +3288,33 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-14389d7454",
-      "size": 5,
-      "canonical": {
-        "title": "How NVIDIA engineers and researchers build with Codex",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/how-nvidia-engineers-and-researchers-build-with-codex.md",
-        "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 2,
-        "source_publisher": "OpenAI blog"
-      },
-      "siblings": [
-        {
-          "title": "Simplex rethinks software development with Codex",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/simplex-rethinks-software-development-with-codex.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        },
-        {
-          "title": "AutoScout24 scales engineering with AI-powered workflows",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/autoscout24-scales-engineering-with-ai-powered-workflows.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        },
-        {
-          "title": "Building a safe, effective sandbox to enable Codex on Windows",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/building-a-safe-effective-sandbox-to-enable-codex-on-windows.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        },
-        {
-          "title": "Running Codex safely at OpenAI",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/running-codex-safely-at-openai.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        }
-      ],
-      "entities": [],
-      "case_numbers": []
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-c08fafa5c7",
-      "size": 1,
-      "canonical": {
-        "title": "GPT-5.5 Instant System Card",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/gpt-5-5-instant-system-card.md",
-        "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 2,
-        "source_publisher": "OpenAI blog"
-      },
-      "siblings": [],
-      "entities": [],
-      "case_numbers": []
-    },
-    {
       "cluster_id": "cluster-2026-05-14-6c77c5430d",
       "size": 1,
       "canonical": {
         "title": "Advancing youth safety and wellbeing in EMEA",
         "path": "findings/candidates/2026-05-14/monitor-01/ai-news/advancing-youth-safety-and-wellbeing-in-emea.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 1,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "OpenAI",
+          "type": "company",
+          "jurisdiction": "US",
+          "matched_alias": "OpenAI"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-142dc0b515",
+      "size": 1,
+      "canonical": {
+        "title": "OpenAI Campus Network: Student club interest form",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-campus-network-student-club-interest-form.md",
         "monitor": "monitor-01",
         "domain": "ai-news",
         "match_count": 1,
@@ -2859,6 +3354,43 @@
       "case_numbers": []
     },
     {
+      "cluster_id": "cluster-2026-05-14-c08fafa5c7",
+      "size": 1,
+      "canonical": {
+        "title": "GPT-5.5 Instant System Card",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/gpt-5-5-instant-system-card.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 2,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-c136a103d5",
+      "size": 1,
+      "canonical": {
+        "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 2,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "OpenAI",
+          "type": "company",
+          "jurisdiction": "US",
+          "matched_alias": "OpenAI"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-2beb935864",
       "size": 1,
       "canonical": {
@@ -2874,55 +3406,132 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-142dc0b515",
-      "size": 1,
+      "cluster_id": "cluster-2026-05-14-f914e1af39",
+      "size": 9,
       "canonical": {
-        "title": "OpenAI Campus Network: Student club interest form",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-campus-network-student-club-interest-form.md",
+        "title": "USPTO announces extension of the Fast-Track Appeals Pilot Program through May 6, 2028",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro.md",
         "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 1,
-        "source_publisher": "OpenAI blog"
+        "domain": "intellectual-property",
+        "match_count": 5,
+        "source_publisher": "USPTO news"
       },
-      "siblings": [],
+      "siblings": [
+        {
+          "title": "Fighting fraud: USPTO targets 10,500+ invalid trademark filings",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/fighting-fraud-uspto-targets-10-500-invalid-trademark-filings.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
+        },
+        {
+          "title": "Reducing trademark pendency, improving processing",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/reducing-trademark-pendency-improving-processing.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
+        },
+        {
+          "title": "Patent Center Maintenance",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/patent-center-maintenance.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
+        },
+        {
+          "title": "Patent Trial and Appeal Case Tracking System (PTACTS) Maintenance",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/patent-trial-and-appeal-case-tracking-system-ptacts-maintenance.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
+        },
+        {
+          "title": "Trademark Maintenance",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/trademark-maintenance.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
+        },
+        {
+          "title": "Block Storage Migration",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/block-storage-migration.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
+        },
+        {
+          "title": "Multiple System Maintenance",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/multiple-system-maintenance.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
+        },
+        {
+          "title": "Multiple Systems Maintenance",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/multiple-systems-maintenance.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
+        }
+      ],
       "entities": [
         {
-          "name": "OpenAI",
-          "type": "company",
+          "name": "United States Patent and Trademark Office",
+          "type": "regulator",
           "jurisdiction": "US",
-          "matched_alias": "OpenAI"
+          "matched_alias": "USPTO"
         }
       ],
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-e8de24d92f",
+      "cluster_id": "cluster-2026-05-14-09e81704bc",
+      "size": 1,
+      "canonical": {
+        "title": "The CJEU on heritage washing in trade mark law",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/the-cjeu-on-heritage-washing-in-trade-mark-law.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 2,
+        "source_publisher": "IPKat blog"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "Court of Justice of the European Union",
+          "type": "court",
+          "jurisdiction": "EU",
+          "matched_alias": "CJEU"
+        }
+      ],
+      "case_numbers": [
+        {
+          "scheme": "EU Court of Justice",
+          "citation": "C-412/24"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-89735686e7",
       "size": 2,
       "canonical": {
-        "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz.md",
+        "title": "Reminder to register! PTAB Listening Session Three",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/reminder-to-register-ptab-listening-session-three.md",
         "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 1,
-        "source_publisher": "European Commission press"
+        "domain": "intellectual-property",
+        "match_count": 4,
+        "source_publisher": "USPTO news"
       },
       "siblings": [
         {
-          "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz.md",
-          "monitor": "monitor-02-eu-competition",
-          "domain": "digital-markets-sector-state-aid",
-          "source_publisher": "European Commission press"
+          "title": "Listening session three: Panelists and schedule",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/listening-session-three-panelists-and-schedule.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
         }
       ],
-      "entities": [
-        {
-          "name": "European Commission",
-          "type": "regulator",
-          "jurisdiction": "EU",
-          "matched_alias": "European Commission"
-        }
-      ],
+      "entities": [],
       "case_numbers": []
     },
     {
@@ -2945,21 +3554,6 @@
           "matched_alias": "Unified Patent Court"
         }
       ],
-      "case_numbers": []
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-3d54b4f7e5",
-      "size": 1,
-      "canonical": {
-        "title": "Navigating the complex LNP IP landscape",
-        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/navigating-the-complex-lnp-ip-landscape.md",
-        "monitor": "monitor-01",
-        "domain": "intellectual-property",
-        "match_count": 3,
-        "source_publisher": "IPKat blog"
-      },
-      "siblings": [],
-      "entities": [],
       "case_numbers": []
     },
     {
@@ -3007,58 +3601,34 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-09e81704bc",
-      "size": 1,
+      "cluster_id": "cluster-2026-05-14-78a5a827ff",
+      "size": 2,
       "canonical": {
-        "title": "The CJEU on heritage washing in trade mark law",
-        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/the-cjeu-on-heritage-washing-in-trade-mark-law.md",
+        "title": "Director Squires addresses INTA in London",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/director-squires-addresses-inta-in-london.md",
         "monitor": "monitor-01",
         "domain": "intellectual-property",
-        "match_count": 2,
-        "source_publisher": "IPKat blog"
+        "match_count": 4,
+        "source_publisher": "USPTO news"
       },
-      "siblings": [],
-      "entities": [
+      "siblings": [
         {
-          "name": "Court of Justice of the European Union",
-          "type": "court",
-          "jurisdiction": "EU",
-          "matched_alias": "CJEU"
+          "title": "Director Squires addresses INTA in London, highlights the new frontier of trademarks and personal brands",
+          "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/director-squires-addresses-inta-in-london-highlights-the-new-frontier-.md",
+          "monitor": "monitor-01",
+          "domain": "intellectual-property",
+          "source_publisher": "USPTO news"
         }
       ],
-      "case_numbers": [
-        {
-          "scheme": "EU Court of Justice",
-          "citation": "C-412/24"
-        }
-      ]
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-4e208cbe6f",
-      "size": 1,
-      "canonical": {
-        "title": "Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber",
-        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/italian-transposition-of-press-publishers-right-may-be-compatible-with.md",
-        "monitor": "monitor-01",
-        "domain": "intellectual-property",
-        "match_count": 2,
-        "source_publisher": "IPKat blog"
-      },
-      "siblings": [],
       "entities": [
         {
-          "name": "Court of Justice of the European Union",
-          "type": "court",
-          "jurisdiction": "EU",
-          "matched_alias": "CJEU"
+          "name": "United States Patent and Trademark Office",
+          "type": "regulator",
+          "jurisdiction": "US",
+          "matched_alias": "United States Patent and Trademark Office"
         }
       ],
-      "case_numbers": [
-        {
-          "scheme": "EU Court of Justice",
-          "citation": "C-797/23"
-        }
-      ]
+      "case_numbers": []
     },
     {
       "cluster_id": "cluster-2026-05-14-c9803024a0",
@@ -3088,6 +3658,50 @@
       ]
     },
     {
+      "cluster_id": "cluster-2026-05-14-66f9839d66",
+      "size": 1,
+      "canonical": {
+        "title": "USPTO Hour: OED Programs–Diversion, Law School Clinic, and Patent Pro Bono",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/uspto-hour-oed-programs-diversion-law-school-clinic-and-patent-pro-bon.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 3,
+        "source_publisher": "USPTO news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "United States Patent and Trademark Office",
+          "type": "regulator",
+          "jurisdiction": "US",
+          "matched_alias": "USPTO"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-1876d6799f",
+      "size": 1,
+      "canonical": {
+        "title": "Celebrate the Southwest Regional Outreach Office's 10th anniversary",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/celebrate-the-southwest-regional-outreach-office-s-10th-anniversary.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 4,
+        "source_publisher": "USPTO news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "United States Patent and Trademark Office",
+          "type": "regulator",
+          "jurisdiction": "US",
+          "matched_alias": "USPTO"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-2202934fd5",
       "size": 1,
       "canonical": {
@@ -3107,6 +3721,152 @@
           "matched_alias": "WIPO"
         }
       ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-5f0e01f4ca",
+      "size": 1,
+      "canonical": {
+        "title": "Join us for the series Successful Inventing: Licensing your product or concept",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/join-us-for-the-series-successful-inventing-licensing-your-product-or-.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 1,
+        "source_publisher": "USPTO news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "United States Patent and Trademark Office",
+          "type": "regulator",
+          "jurisdiction": "US",
+          "matched_alias": "USPTO"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-d1323a7862",
+      "size": 1,
+      "canonical": {
+        "title": "Trademark Trail",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/trademark-trail.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 1,
+        "source_publisher": "USPTO news"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-15fc27b70c",
+      "size": 1,
+      "canonical": {
+        "title": "Attorneys: Stay confident in your professional reputation by monitoring your bar credentials",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/attorneys-stay-confident-in-your-professional-reputation-by-monitoring.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 1,
+        "source_publisher": "USPTO news"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-3d54b4f7e5",
+      "size": 1,
+      "canonical": {
+        "title": "Navigating the complex LNP IP landscape",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/navigating-the-complex-lnp-ip-landscape.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 3,
+        "source_publisher": "IPKat blog"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-de8c46c7bb",
+      "size": 1,
+      "canonical": {
+        "title": "Mitigating fraud and misrepresentations in patent proceedings",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/mitigating-fraud-and-misrepresentations-in-patent-proceedings.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 2,
+        "source_publisher": "USPTO news"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-4e208cbe6f",
+      "size": 1,
+      "canonical": {
+        "title": "Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/italian-transposition-of-press-publishers-right-may-be-compatible-with.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 2,
+        "source_publisher": "IPKat blog"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "Court of Justice of the European Union",
+          "type": "court",
+          "jurisdiction": "EU",
+          "matched_alias": "CJEU"
+        }
+      ],
+      "case_numbers": [
+        {
+          "scheme": "EU Court of Justice",
+          "citation": "C-797/23"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-7bc78c39db",
+      "size": 1,
+      "canonical": {
+        "title": "PatentsView releases Q4 2025 data update",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/patentsview-releases-q4-2025-data-update.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 3,
+        "source_publisher": "USPTO news"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "United States Patent and Trademark Office",
+          "type": "regulator",
+          "jurisdiction": "US",
+          "matched_alias": "USPTO"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-153be7236e",
+      "size": 1,
+      "canonical": {
+        "title": "Patent Public Search (PPUBS) Deployment",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/patent-public-search-ppubs-deployment.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 2,
+        "source_publisher": "USPTO news"
+      },
+      "siblings": [],
+      "entities": [],
       "case_numbers": []
     },
     {
@@ -3188,6 +3948,13 @@
         },
         {
           "title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/cma-launches-strategic-market-status-investigation-into-microsoft-s-bu.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "antitrust-cartels",
+          "source_publisher": "CMA news"
+        },
+        {
+          "title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem",
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/cma-launches-strategic-market-status-investigation-into-microsoft-s-bu.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "abuse-of-dominance",
@@ -3198,13 +3965,6 @@
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/cma-launches-strategic-market-status-investigation-into-microsoft-s-bu.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "digital-markets-sector-state-aid",
-          "source_publisher": "CMA news"
-        },
-        {
-          "title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/cma-launches-strategic-market-status-investigation-into-microsoft-s-bu.md",
-          "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
           "source_publisher": "CMA news"
         }
       ],
@@ -3373,6 +4133,28 @@
       },
       "siblings": [],
       "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-702c6fecc5",
+      "size": 1,
+      "canonical": {
+        "title": "OpenAI’s KOSA Endorsement Is Regulatory Capture With A Smiley Face",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/openai-s-kosa-endorsement-is-regulatory-capture-with-a-smiley-face.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 1,
+        "source_publisher": "TechDirt copyright"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "OpenAI",
+          "type": "company",
+          "jurisdiction": "US",
+          "matched_alias": "OpenAI"
+        }
+      ],
       "case_numbers": []
     }
   ]

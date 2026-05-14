@@ -8,17 +8,17 @@ source_date: Thu, 04 Dec 2025 06:00:00 +0000
 source_method: rss
 title: '‘Pay or Okay’ study: Users prefer a tracking-free “third option”'
 matched_keywords:
-- consentement
 - pay or okay
-- EDPB
-- Meta
-- targeted advertising
-- noyb
-- pay-or-OK
-- cookie banner
-- European Data Protection Board
 - consent
 - CNIL
+- consentement
+- Meta
+- EDPB
+- targeted advertising
+- European Data Protection Board
+- pay-or-OK
+- noyb
+- cookie banner
 match_count: 11
 status: candidate
 entities:
@@ -30,14 +30,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-f6677c733d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # ‘Pay or Okay’ study: Users prefer a tracking-free “third option”
 
 **Source:** [noyb news](https://noyb.eu/en/pay-or-okay-study-users-prefer-tracking-free-third-option)
 **Published:** Thu, 04 Dec 2025 06:00:00 +0000
-**Matched keywords (11):** consentement, pay or okay, EDPB, Meta, targeted advertising, noyb, pay-or-OK, cookie banner, European Data Protection Board, consent, CNIL
+**Matched keywords (11):** pay or okay, consent, CNIL, consentement, Meta, EDPB, targeted advertising, European Data Protection Board, pay-or-OK, noyb, cookie banner
 
 ## Summary excerpt
 

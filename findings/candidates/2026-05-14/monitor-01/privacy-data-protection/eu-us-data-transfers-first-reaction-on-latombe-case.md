@@ -8,11 +8,11 @@ source_date: Wed, 03 Sep 2025 07:00:00 +0000
 source_method: rss
 title: 'EU-US Data Transfers: First Reaction on ''Latombe'' Case'
 matched_keywords:
-- Max Schrems
-- noyb
 - Schrems II
 - FTC
+- Max Schrems
 - Schrems
+- noyb
 match_count: 5
 status: candidate
 entities:
@@ -28,14 +28,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-63d49b1485
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # EU-US Data Transfers: First Reaction on "Latombe" Case
 
 **Source:** [noyb news](https://noyb.eu/en/eu-us-data-transfers-first-reaction-latombe-case)
 **Published:** Wed, 03 Sep 2025 07:00:00 +0000
-**Matched keywords (5):** Max Schrems, noyb, Schrems II, FTC, Schrems
+**Matched keywords (5):** Schrems II, FTC, Max Schrems, Schrems, noyb
 
 ## Summary excerpt
 

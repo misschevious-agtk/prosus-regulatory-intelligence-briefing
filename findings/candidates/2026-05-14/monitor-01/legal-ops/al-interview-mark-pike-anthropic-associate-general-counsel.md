@@ -8,9 +8,9 @@ source_date: Tue, 12 May 2026 17:35:56 +0000
 source_method: rss
 title: 'AL Interview: Mark Pike, Anthropic Associate General Counsel'
 matched_keywords:
+- Claude
 - Artificial Lawyer
 - Anthropic
-- Claude
 match_count: 3
 status: candidate
 entities:
@@ -20,17 +20,17 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-05-14-3fdf533ed6
-cluster_size: 22
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # AL Interview: Mark Pike, Anthropic Associate General Counsel
 
 **Source:** [Artificial Lawyer](https://www.artificiallawyer.com/2026/05/12/al-interview-mark-pike-anthropic-associate-general-counsel/)
 **Published:** Tue, 12 May 2026 17:35:56 +0000
-**Matched keywords (3):** Artificial Lawyer, Anthropic, Claude
+**Matched keywords (3):** Claude, Artificial Lawyer, Anthropic
 
 ## Summary excerpt
 

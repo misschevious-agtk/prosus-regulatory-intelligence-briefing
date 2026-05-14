@@ -8,8 +8,8 @@ source_date: Thu, 12 Feb 2026 12:00:00 +0100
 source_method: rss
 title: WIPO Coordination Committee Nominates Singapore’s Daren Tang for Second Term as Director General
 matched_keywords:
-- WIPO
 - World Intellectual Property Organization
+- WIPO
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-5e9cd7adcf
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # WIPO Coordination Committee Nominates Singapore’s Daren Tang for Second Term as Director General
 
 **Source:** [WIPO news](https://www.wipo.int/pressroom/en/articles/2026/article_0001.html)
 **Published:** Thu, 12 Feb 2026 12:00:00 +0100
-**Matched keywords (2):** WIPO, World Intellectual Property Organization
+**Matched keywords (2):** World Intellectual Property Organization, WIPO
 
 ## Summary excerpt
 

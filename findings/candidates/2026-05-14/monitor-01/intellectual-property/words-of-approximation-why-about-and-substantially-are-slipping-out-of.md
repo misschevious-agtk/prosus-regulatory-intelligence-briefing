@@ -9,8 +9,8 @@ source_method: rss
 title: 'Words of Approximation: Why “About” and “Substantially” Are Slipping Out of Patent Claims'
 matched_keywords:
 - patent
-- Federal Circuit
 - Patent
+- Federal Circuit
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-6d6e3ad554
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Words of Approximation: Why “About” and “Substantially” Are Slipping Out of Patent Claims
 
 **Source:** [Patently-O](https://patentlyo.com/patent/2026/05/almost-about-7-6-when-a-specification-speaks-out-of-both-sides.html)
 **Published:** Mon, 04 May 2026 19:56:39 +0000
-**Matched keywords (3):** patent, Federal Circuit, Patent
+**Matched keywords (3):** patent, Patent, Federal Circuit
 
 ## Summary excerpt
 

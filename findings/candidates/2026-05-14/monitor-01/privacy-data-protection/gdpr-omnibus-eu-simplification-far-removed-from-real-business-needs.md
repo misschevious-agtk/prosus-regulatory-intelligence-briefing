@@ -8,15 +8,15 @@ source_date: Thu, 05 Mar 2026 06:00:00 +0000
 source_method: rss
 title: 'GDPR Omnibus: EU “simplification” far removed from real business needs'
 matched_keywords:
-- right of access
-- Google
-- data subject rights
-- Max Schrems
-- noyb
-- GDPR
 - Data Protection Officer
 - consent
+- right of access
+- data subject rights
+- Google
+- Max Schrems
 - Schrems
+- noyb
+- GDPR
 match_count: 9
 status: candidate
 entities:
@@ -28,14 +28,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-753d853324
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # GDPR Omnibus: EU “simplification” far removed from real business needs
 
 **Source:** [noyb news](https://noyb.eu/en/gdpr-omnibus-eu-simplification-far-removed-real-business-needs)
 **Published:** Thu, 05 Mar 2026 06:00:00 +0000
-**Matched keywords (9):** right of access, Google, data subject rights, Max Schrems, noyb, GDPR, Data Protection Officer, consent, Schrems
+**Matched keywords (9):** Data Protection Officer, consent, right of access, data subject rights, Google, Max Schrems, Schrems, noyb, GDPR
 
 ## Summary excerpt
 

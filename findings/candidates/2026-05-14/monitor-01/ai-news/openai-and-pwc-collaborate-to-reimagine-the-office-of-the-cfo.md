@@ -8,8 +8,8 @@ source_date: Mon, 04 May 2026 21:00:00 GMT
 source_method: rss
 title: OpenAI and PwC collaborate to reimagine the office of the CFO
 matched_keywords:
-- OpenAI
 - AI agent
+- OpenAI
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-c136a103d5
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # OpenAI and PwC collaborate to reimagine the office of the CFO
 
 **Source:** [OpenAI blog](https://openai.com/index/openai-pwc-finance-collaboration)
 **Published:** Mon, 04 May 2026 21:00:00 GMT
-**Matched keywords (2):** OpenAI, AI agent
+**Matched keywords (2):** AI agent, OpenAI
 
 ## Summary excerpt
 

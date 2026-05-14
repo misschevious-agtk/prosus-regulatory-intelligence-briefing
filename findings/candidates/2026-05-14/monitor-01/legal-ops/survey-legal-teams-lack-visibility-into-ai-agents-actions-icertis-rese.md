@@ -8,24 +8,24 @@ source_date: Mon, 11 May 2026 15:16:49 +0000
 source_method: rss
 title: 'Survey: Legal Teams Lack Visibility Into AI Agents’ Actions, Icertis Research Finds'
 matched_keywords:
-- contract lifecycle management
 - LawNext
+- contract lifecycle management
 match_count: 2
 status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-3fdf533ed6
-cluster_size: 22
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Survey: Legal Teams Lack Visibility Into AI Agents’ Actions, Icertis Research Finds
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/survey-legal-teams-lack-visibility-into-ai-agents-actions-icertis-research-finds.html)
 **Published:** Mon, 11 May 2026 15:16:49 +0000
-**Matched keywords (2):** contract lifecycle management, LawNext
+**Matched keywords (2):** LawNext, contract lifecycle management
 
 ## Summary excerpt
 

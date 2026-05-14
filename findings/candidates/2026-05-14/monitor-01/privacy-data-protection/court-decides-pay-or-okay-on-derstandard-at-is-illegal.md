@@ -9,14 +9,14 @@ source_method: rss
 title: Court decides 'Pay or Okay' on DerStandard.at is illegal
 matched_keywords:
 - pay or okay
+- consent
 - Google
 - Max Schrems
-- noyb
-- pay-or-OK
-- cookie banner
-- GDPR
-- consent
 - Schrems
+- pay-or-OK
+- noyb
+- GDPR
+- cookie banner
 match_count: 9
 status: candidate
 entities:
@@ -28,14 +28,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-004461bb4b
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Court decides "Pay or Okay" on DerStandard.at is illegal
 
 **Source:** [noyb news](https://noyb.eu/en/court-decides-pay-or-okay-derstandardat-illegal)
 **Published:** Mon, 18 Aug 2025 13:42:33 +0000
-**Matched keywords (9):** pay or okay, Google, Max Schrems, noyb, pay-or-OK, cookie banner, GDPR, consent, Schrems
+**Matched keywords (9):** pay or okay, consent, Google, Max Schrems, Schrems, pay-or-OK, noyb, GDPR, cookie banner
 
 ## Summary excerpt
 

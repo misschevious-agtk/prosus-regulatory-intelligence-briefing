@@ -8,8 +8,8 @@ source_date: Wed, 29 Apr 2026 14:52:11 +0000
 source_method: rss
 title: 'The Legal Tech Giants Powering ICE, Part 2 — The Pushback: Employees, Shareholders, Lawyers and the Fight Over May 31'
 matched_keywords:
-- LegalTech
 - LawNext
+- LegalTech
 match_count: 2
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ cluster_id: cluster-2026-05-14-46579d364d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-legal-tech-giants-powering-ice-part-1-how-thomson-reuters-and-lexi
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # The Legal Tech Giants Powering ICE, Part 2 — The Pushback: Employees, Shareholders, Lawyers and the Fight Over May 31
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/04/the-legal-tech-giants-powering-ice-part-2-the-pushback-employees-shareholders-lawyers-and-the-fight-over-may-31.html)
 **Published:** Wed, 29 Apr 2026 14:52:11 +0000
-**Matched keywords (2):** LegalTech, LawNext
+**Matched keywords (2):** LawNext, LegalTech
 
 ## Summary excerpt
 

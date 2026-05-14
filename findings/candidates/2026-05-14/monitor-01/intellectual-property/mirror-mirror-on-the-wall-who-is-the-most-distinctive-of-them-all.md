@@ -8,8 +8,8 @@ source_date: '2026-04-29T05:40:00.001+01:00'
 source_method: rss
 title: Mirror, mirror on the wall — Who is the most distinctive of them all?
 matched_keywords:
-- trade mark
 - distinctive
+- trade mark
 match_count: 2
 status: candidate
 entities:
@@ -23,14 +23,14 @@ case_numbers:
 cluster_id: cluster-2026-05-14-c9803024a0
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Mirror, mirror on the wall — Who is the most distinctive of them all?
 
 **Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/04/mirror-mirror-on-wall-who-is-most.html)
 **Published:** 2026-04-29T05:40:00.001+01:00
-**Matched keywords (2):** trade mark, distinctive
+**Matched keywords (2):** distinctive, trade mark
 
 ## Summary excerpt
 

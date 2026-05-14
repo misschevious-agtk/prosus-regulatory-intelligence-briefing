@@ -8,8 +8,8 @@ source_date: Wed, 13 May 2026 07:58:30 GMT
 source_method: rss
 title: Commission strengthens global health security with new Global Health Resilience Initiative
 matched_keywords:
-- European Commission
 - resilience
+- European Commission
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-d48cb486fe
 cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Commission strengthens global health security with new Global Health Resilience Initiative
 
 **Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1074)
 **Published:** Wed, 13 May 2026 07:58:30 GMT
-**Matched keywords (2):** European Commission, resilience
+**Matched keywords (2):** resilience, European Commission
 
 ## Summary excerpt
 

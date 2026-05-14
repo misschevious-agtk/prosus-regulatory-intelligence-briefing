@@ -8,8 +8,8 @@ source_date: Wed, 22 Apr 2026 17:41:48 +0000
 source_method: rss
 title: 'Guest Post: The Intake Form Is Dead. Long Live the Template.'
 matched_keywords:
-- contract review
 - LawNext
+- contract review
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-c5ac015c4c
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Guest Post: The Intake Form Is Dead. Long Live the Template.
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/04/guest-post-the-intake-form-is-dead-long-live-the-template.html)
 **Published:** Wed, 22 Apr 2026 17:41:48 +0000
-**Matched keywords (2):** contract review, LawNext
+**Matched keywords (2):** LawNext, contract review
 
 ## Summary excerpt
 

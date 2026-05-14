@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-c312fd9048
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # 8am Now Guarantees Next-Day Payments To Its LawPay Customers

@@ -8,21 +8,21 @@ source_date: Mon, 10 Nov 2025 07:28:46 +0000
 source_method: rss
 title: EU Commission internal draft would wreck core principles of the GDPR
 matched_keywords:
-- right to be forgotten
-- OpenAI
-- right to object
 - trade union membership
-- Google
-- Meta
-- Article 6 GDPR
-- ePrivacy
-- legitimate interest
-- data subject rights
-- right to rectification
-- health data
-- Max Schrems
-- noyb
+- consent
 - sex life
+- OpenAI
+- sexual orientation
+- right to object
+- sensitive data
+- Meta
+- right to rectification
+- data subject rights
+- Google
+- Article 9 GDPR
+- ePrivacy
+- Max Schrems
+- Microsoft
 match_count: 23
 status: candidate
 entities: []
@@ -30,14 +30,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-4f32cabcf1
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # EU Commission internal draft would wreck core principles of the GDPR
 
 **Source:** [noyb news](https://noyb.eu/en/eu-commission-about-wreck-core-principles-gdpr)
 **Published:** Mon, 10 Nov 2025 07:28:46 +0000
-**Matched keywords (23):** right to be forgotten, OpenAI, right to object, trade union membership, Google, Meta, Article 6 GDPR, ePrivacy, legitimate interest, data subject rights, right to rectification, health data, Max Schrems, noyb, sex life
+**Matched keywords (23):** trade union membership, consent, sex life, OpenAI, sexual orientation, right to object, sensitive data, Meta, right to rectification, data subject rights, Google, Article 9 GDPR, ePrivacy, Max Schrems, Microsoft
 
 ## Summary excerpt
 

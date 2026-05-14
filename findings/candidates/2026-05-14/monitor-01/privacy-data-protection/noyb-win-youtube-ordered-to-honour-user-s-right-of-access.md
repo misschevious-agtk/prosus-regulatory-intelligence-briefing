@@ -9,11 +9,11 @@ source_method: rss
 title: 'noyb WIN: YouTube ordered to honour user’s right of access'
 matched_keywords:
 - right of access
-- Google
 - data subject rights
+- Google
+- right to erasure
 - noyb
 - GDPR
-- right to erasure
 match_count: 6
 status: candidate
 entities:
@@ -25,14 +25,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-dc23295b12
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # noyb WIN: YouTube ordered to honour user’s right of access
 
 **Source:** [noyb news](https://noyb.eu/en/noyb-win-youtube-ordered-honour-users-right-access)
 **Published:** Fri, 29 Aug 2025 05:00:00 +0000
-**Matched keywords (6):** right of access, Google, data subject rights, noyb, GDPR, right to erasure
+**Matched keywords (6):** right of access, data subject rights, Google, right to erasure, noyb, GDPR
 
 ## Summary excerpt
 

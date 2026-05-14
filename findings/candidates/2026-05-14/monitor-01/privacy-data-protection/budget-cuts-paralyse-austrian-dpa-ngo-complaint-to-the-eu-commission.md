@@ -10,9 +10,9 @@ title: 'Budget cuts paralyse Austrian DPA: NGO complaint to the EU Commission'
 matched_keywords:
 - Google
 - Max Schrems
+- Schrems
 - noyb
 - GDPR
-- Schrems
 match_count: 5
 status: candidate
 entities: []
@@ -20,14 +20,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-a261fc59fa
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Budget cuts paralyse Austrian DPA: NGO complaint to the EU Commission
 
 **Source:** [noyb news](https://noyb.eu/en/budget-cuts-paralyse-austrian-dpa-ngo-complaint-eu-commission)
 **Published:** Thu, 18 Sep 2025 05:00:00 +0000
-**Matched keywords (5):** Google, Max Schrems, noyb, GDPR, Schrems
+**Matched keywords (5):** Google, Max Schrems, Schrems, noyb, GDPR
 
 ## Summary excerpt
 

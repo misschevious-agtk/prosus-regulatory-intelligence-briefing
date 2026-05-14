@@ -8,10 +8,10 @@ source_date: Mon, 11 May 2026 13:00:25 +0000
 source_method: rss
 title: Exterro Launches Autonomous Subpoena Tool, Unveils Broader AI Governance Vision at CLOC
 matched_keywords:
-- Corporate Legal Operations Consortium
 - CLOC
 - legal operations
 - LawNext
+- Corporate Legal Operations Consortium
 match_count: 4
 status: candidate
 entities: []
@@ -19,14 +19,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-9c58e702dd
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Exterro Launches Autonomous Subpoena Tool, Unveils Broader AI Governance Vision at CLOC
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/exterro-launches-autonomous-subpoena-tool-unveils-broader-ai-governance-vision-at-cloc.html)
 **Published:** Mon, 11 May 2026 13:00:25 +0000
-**Matched keywords (4):** Corporate Legal Operations Consortium, CLOC, legal operations, LawNext
+**Matched keywords (4):** CLOC, legal operations, LawNext, Corporate Legal Operations Consortium
 
 ## Summary excerpt
 

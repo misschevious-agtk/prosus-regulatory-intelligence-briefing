@@ -8,9 +8,9 @@ source_date: Fri, 08 May 2026 14:57:45 +0000
 source_method: rss
 title: 'Today on Legaltech Week: MikeOSS, Legaltech Giants Supporting ICE, ILTA Evolve, Rethinking Lawyer Training, AI Mansplaining, and More!'
 matched_keywords:
-- LegalTech
-- ILTA
 - LawNext
+- ILTA
+- LegalTech
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-574a424ebd
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Today on Legaltech Week: MikeOSS, Legaltech Giants Supporting ICE, ILTA Evolve, Rethinking Lawyer Training, AI Mansplaining, and More!
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/today-on-legaltech-week-mikeoss-legaltech-giants-supporting-ice-ilta-evolve-rethinking-lawyer-training-ai-mansplaining-and-more.html)
 **Published:** Fri, 08 May 2026 14:57:45 +0000
-**Matched keywords (3):** LegalTech, ILTA, LawNext
+**Matched keywords (3):** LawNext, ILTA, LegalTech
 
 ## Summary excerpt
 

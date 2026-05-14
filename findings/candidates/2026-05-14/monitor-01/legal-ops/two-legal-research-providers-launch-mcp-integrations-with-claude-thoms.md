@@ -8,9 +8,9 @@ source_date: Tue, 12 May 2026 17:24:39 +0000
 source_method: rss
 title: 'Two Legal Research Providers Launch MCP Integrations with Claude: Thomson Reuters and Free Law Project Connect Their Data to AI'
 matched_keywords:
-- Anthropic
 - Claude
 - LawNext
+- Anthropic
 match_count: 3
 status: candidate
 entities:
@@ -20,17 +20,17 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-05-14-3fdf533ed6
-cluster_size: 22
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Two Legal Research Providers Launch MCP Integrations with Claude: Thomson Reuters and Free Law Project Connect Their Data to AI
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/two-legal-research-providers-launch-mcp-integrations-with-claude-thomson-reuters-and-free-law-project-connect-their-data-to-ai.html)
 **Published:** Tue, 12 May 2026 17:24:39 +0000
-**Matched keywords (3):** Anthropic, Claude, LawNext
+**Matched keywords (3):** Claude, LawNext, Anthropic
 
 ## Summary excerpt
 

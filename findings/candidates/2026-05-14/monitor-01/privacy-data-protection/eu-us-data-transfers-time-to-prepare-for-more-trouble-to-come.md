@@ -8,17 +8,17 @@ source_date: Wed, 10 Dec 2025 12:41:23 +0000
 source_method: rss
 title: 'EU-US Data Transfers: Time to prepare for more trouble to come'
 matched_keywords:
+- Article 49 GDPR
+- Schrems II
+- Privacy Shield
 - Meta
 - Federal Trade Commission
-- Article 49 GDPR
-- Privacy Shield
-- Max Schrems
-- noyb
-- Transfer Impact Assessment
-- GDPR
-- Schrems II
 - FTC
+- Max Schrems
+- Transfer Impact Assessment
 - Schrems
+- noyb
+- GDPR
 match_count: 11
 status: candidate
 entities: []
@@ -26,14 +26,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-eb956aa001
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # EU-US Data Transfers: Time to prepare for more trouble to come
 
 **Source:** [noyb news](https://noyb.eu/en/eu-us-data-transfers-time-prepare-more-trouble-come)
 **Published:** Wed, 10 Dec 2025 12:41:23 +0000
-**Matched keywords (11):** Meta, Federal Trade Commission, Article 49 GDPR, Privacy Shield, Max Schrems, noyb, Transfer Impact Assessment, GDPR, Schrems II, FTC, Schrems
+**Matched keywords (11):** Article 49 GDPR, Schrems II, Privacy Shield, Meta, Federal Trade Commission, FTC, Max Schrems, Transfer Impact Assessment, Schrems, noyb, GDPR
 
 ## Summary excerpt
 

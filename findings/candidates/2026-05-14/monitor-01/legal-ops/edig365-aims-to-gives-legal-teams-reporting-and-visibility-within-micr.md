@@ -8,11 +8,11 @@ source_date: Thu, 14 May 2026 15:18:48 +0000
 source_method: rss
 title: eDig365 Aims To Gives Legal Teams Reporting and Visibility within Microsoft Purview E-Discovery
 matched_keywords:
-- eDiscovery
 - CLOC
 - legal operations
 - LawNext
 - e-discovery
+- eDiscovery
 match_count: 5
 status: candidate
 entities: []
@@ -20,14 +20,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-b115b25a91
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # eDig365 Aims To Gives Legal Teams Reporting and Visibility within Microsoft Purview E-Discovery
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/edig365-aims-to-gives-legal-teams-reporting-and-visibility-within-microsoft-purview-e-discovery.html)
 **Published:** Thu, 14 May 2026 15:18:48 +0000
-**Matched keywords (5):** eDiscovery, CLOC, legal operations, LawNext, e-discovery
+**Matched keywords (5):** CLOC, legal operations, LawNext, e-discovery, eDiscovery
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Wed, 29 Apr 2026 16:49:44 +0000
 source_method: rss
 title: Legal Marketing Association President Rachel Shields Williams On AI, Innovation, and Why People Still Come First
 matched_keywords:
-- LawNext
 - knowledge management
+- LawNext
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-154b77274c
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # Legal Marketing Association President Rachel Shields Williams On AI, Innovation, and Why People Still Come First
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/04/legal-marketing-association-president-rachel-shields-williams-on-ai-innovation-and-why-people-still-come-first.html)
 **Published:** Wed, 29 Apr 2026 16:49:44 +0000
-**Matched keywords (2):** LawNext, knowledge management
+**Matched keywords (2):** knowledge management, LawNext
 
 ## Summary excerpt
 

@@ -8,9 +8,9 @@ source_date: Tue, 05 May 2026 10:00:00 GMT
 source_method: rss
 title: 'GPT-5.5 Instant: smarter, clearer, and more personalized'
 matched_keywords:
-- ChatGPT
-- hallucination
 - GPT-5
+- hallucination
+- ChatGPT
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-3c356a9a24
 cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-05-14T19:36:07+00:00'
+ranked_at: '2026-05-14T20:57:31+00:00'
 ---
 
 # GPT-5.5 Instant: smarter, clearer, and more personalized
 
 **Source:** [OpenAI blog](https://openai.com/index/gpt-5-5-instant)
 **Published:** Tue, 05 May 2026 10:00:00 GMT
-**Matched keywords (3):** ChatGPT, hallucination, GPT-5
+**Matched keywords (3):** GPT-5, hallucination, ChatGPT
 
 ## Summary excerpt
 

@@ -104,6 +104,14 @@ jobs:
         continue-on-error: true
         run: python scripts/promote_to_hub.py
 
+      - name: Archive run snapshot for orchestrator brain
+        # Writes archive/runs/YYYY-MM-DD/run-<timestamp>.md + .json with
+        # per-domain counts, per-source counts, top entities, top
+        # clusters, and top titles per monitor. The orchestrator agent
+        # backfill-sweeps these snapshots to reason about prior runs.
+        continue-on-error: true
+        run: python scripts/archive_run.py
+
       - name: Escalate top-rank findings
         # Out-of-band channel for Rank A + named OpCo + <24h items, persona
         # escalation flags, breach incidents, and dawn-raid patterns.
@@ -136,7 +144,7 @@ jobs:
         run: |
           git config user.name "Article Scraper Bot"
           git config user.email "scraper@noreply.local"
-          for path in findings/candidates findings/clusters findings/escalations metrics website/state.json website/monitor-01/index.html website/monitor-02/index.html; do
+          for path in findings/candidates findings/clusters findings/escalations metrics website/state.json website/monitor-01/index.html website/monitor-02/index.html archive/runs; do
             if [ -e "$path" ]; then
               git add "$path"
             else

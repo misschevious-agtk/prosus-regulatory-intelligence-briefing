@@ -40,8 +40,12 @@ ROOT = Path(__file__).resolve().parent.parent
 CANDIDATES_BASE = ROOT / "findings" / "candidates"
 WEBSITE_DIR = ROOT / "website"
 
-N_PER_DOMAIN = 5
-N_PER_MONITOR = 20
+# Caps tuned 2026-05-14: previous values (5/20) capped M01 at ~20 auto
+# items per run -- felt thin once the page actually rendered. Bumped to
+# 12/50 to surface more of the day's raw signal. Reviewers can still
+# manually demote noise by editing the inline ITEMS_DATA.
+N_PER_DOMAIN = 12
+N_PER_MONITOR = 50
 
 # Map monitor folder name -> website folder name
 MONITOR_WEBSITE = {

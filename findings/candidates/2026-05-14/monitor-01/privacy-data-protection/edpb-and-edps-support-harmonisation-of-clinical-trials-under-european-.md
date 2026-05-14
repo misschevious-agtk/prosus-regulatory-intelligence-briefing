@@ -12,10 +12,10 @@ matched_keywords:
 - EDPB
 - genetic data
 - European Data Protection Board
+- GDPR
+- EDPS
 - European Data Protection Supervisor
 - health data
-- EDPS
-- GDPR
 match_count: 8
 status: candidate
 entities:
@@ -31,14 +31,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-9c57feb209
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data
 
 **Source:** [EDPB news](https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en)
 **Published:** Thu, 12 Mar 2026 13:00:00 +0100
-**Matched keywords (8):** sensitive data, EDPB, genetic data, European Data Protection Board, European Data Protection Supervisor, health data, EDPS, GDPR
+**Matched keywords (8):** sensitive data, EDPB, genetic data, European Data Protection Board, GDPR, EDPS, European Data Protection Supervisor, health data
 
 ## Summary excerpt
 

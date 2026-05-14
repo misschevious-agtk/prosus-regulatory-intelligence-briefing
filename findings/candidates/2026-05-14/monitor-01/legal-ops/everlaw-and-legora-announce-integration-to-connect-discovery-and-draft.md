@@ -8,8 +8,8 @@ source_date: Mon, 04 May 2026 17:03:01 +0000
 source_method: rss
 title: Everlaw and Legora Announce Integration to Connect Discovery and Drafting
 matched_keywords:
-- LawNext
 - Everlaw
+- LawNext
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-50524c1aee
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Everlaw and Legora Announce Integration to Connect Discovery and Drafting
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/everlaw-and-legora-announce-integration-to-connect-discovery-and-drafting.html)
 **Published:** Mon, 04 May 2026 17:03:01 +0000
-**Matched keywords (2):** LawNext, Everlaw
+**Matched keywords (2):** Everlaw, LawNext
 
 ## Summary excerpt
 

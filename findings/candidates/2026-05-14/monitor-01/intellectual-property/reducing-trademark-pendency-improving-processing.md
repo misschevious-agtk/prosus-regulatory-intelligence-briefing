@@ -8,10 +8,10 @@ source_date: Tue, 05/05/2026 - 13:14
 source_method: rss
 title: Reducing trademark pendency, improving processing
 matched_keywords:
-- patent
 - Patent
 - trademark
 - USPTO
+- patent
 match_count: 4
 status: candidate
 entities:
@@ -24,14 +24,14 @@ cluster_id: cluster-2026-05-14-f914e1af39
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Reducing trademark pendency, improving processing
 
 **Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/reducing-trademark-pendency-improving-processing)
 **Published:** Tue, 05/05/2026 - 13:14
-**Matched keywords (4):** patent, Patent, trademark, USPTO
+**Matched keywords (4):** Patent, trademark, USPTO, patent
 
 ## Summary excerpt
 

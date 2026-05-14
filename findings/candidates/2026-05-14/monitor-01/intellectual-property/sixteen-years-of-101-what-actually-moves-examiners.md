@@ -8,9 +8,9 @@ source_date: Fri, 08 May 2026 21:46:31 +0000
 source_method: rss
 title: 'Sixteen Years of §101: What Actually Moves Examiners'
 matched_keywords:
-- patent
 - Patent
 - USPTO
+- patent
 match_count: 3
 status: candidate
 entities:
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-67dba003af
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Sixteen Years of §101: What Actually Moves Examiners
 
 **Source:** [Patently-O](https://patentlyo.com/patent/2026/05/sixteen-years-of-%c2%a7101-what-actually-moves-examiners.html)
 **Published:** Fri, 08 May 2026 21:46:31 +0000
-**Matched keywords (3):** patent, Patent, USPTO
+**Matched keywords (3):** Patent, USPTO, patent
 
 ## Summary excerpt
 

@@ -8,12 +8,12 @@ source_date: Thu, 30 Apr 2026 07:00:00 +0000
 source_method: rss
 title: 'No action taken against PimEyes: noyb lawsuit against Hamburg DPA'
 matched_keywords:
-- biometric data
-- Max Schrems
-- Schrems
 - facial recognition
-- noyb
+- Max Schrems
 - GDPR
+- noyb
+- biometric data
+- Schrems
 match_count: 6
 status: candidate
 entities: []
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-25656cb1a0
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # No action taken against PimEyes: noyb lawsuit against Hamburg DPA
 
 **Source:** [noyb news](https://noyb.eu/en/no-action-taken-against-pimeyes-noyb-lawsuit-against-hamburg-dpa)
 **Published:** Thu, 30 Apr 2026 07:00:00 +0000
-**Matched keywords (6):** biometric data, Max Schrems, Schrems, facial recognition, noyb, GDPR
+**Matched keywords (6):** facial recognition, Max Schrems, GDPR, noyb, biometric data, Schrems
 
 ## Summary excerpt
 

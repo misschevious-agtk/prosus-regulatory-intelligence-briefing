@@ -8,11 +8,11 @@ source_date: Wed, 05/06/2026 - 09:45
 source_method: rss
 title: USPTO announces extension of the Fast-Track Appeals Pilot Program through May 6, 2028
 matched_keywords:
-- Patent Trial and Appeal Board
-- patent
 - Patent
 - trademark
 - USPTO
+- patent
+- Patent Trial and Appeal Board
 match_count: 5
 status: candidate
 entities:
@@ -24,14 +24,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-f914e1af39
 cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # USPTO announces extension of the Fast-Track Appeals Pilot Program through May 6, 2028
 
 **Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/uspto-announces-extension-fast-track-appeals-pilot-program-through-may-6)
 **Published:** Wed, 05/06/2026 - 09:45
-**Matched keywords (5):** Patent Trial and Appeal Board, patent, Patent, trademark, USPTO
+**Matched keywords (5):** Patent, trademark, USPTO, patent, Patent Trial and Appeal Board
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Wed, 13 May 2026 14:01:05 +0000
 source_method: rss
 title: Clio, Once A Feisty Startup, Says It Has Now Surpassed $500M In Annual Recurring Revenue
 matched_keywords:
-- Claude
 - LawNext
+- Claude
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-b2d2749981
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Clio, Once A Feisty Startup, Says It Has Now Surpassed $500M In Annual Recurring Revenue
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/clio-says-it-has-surpassed-500m-in-annual-recurring-revenue.html)
 **Published:** Wed, 13 May 2026 14:01:05 +0000
-**Matched keywords (2):** Claude, LawNext
+**Matched keywords (2):** LawNext, Claude
 
 ## Summary excerpt
 

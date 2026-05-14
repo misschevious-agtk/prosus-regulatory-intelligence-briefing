@@ -8,9 +8,9 @@ source_date: Tue, 05/12/2026 - 15:56
 source_method: rss
 title: 'Listening session three: Panelists and schedule'
 matched_keywords:
-- Patent Trial and Appeal Board
-- patent
 - Patent
+- patent
+- Patent Trial and Appeal Board
 match_count: 3
 status: candidate
 entities: []
@@ -19,14 +19,14 @@ cluster_id: cluster-2026-05-14-89735686e7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: reminder-to-register-ptab-listening-session-three
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Listening session three: Panelists and schedule
 
 **Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/listening-session-three-panelists-and-schedule)
 **Published:** Tue, 05/12/2026 - 15:56
-**Matched keywords (3):** Patent Trial and Appeal Board, patent, Patent
+**Matched keywords (3):** Patent, patent, Patent Trial and Appeal Board
 
 ## Summary excerpt
 

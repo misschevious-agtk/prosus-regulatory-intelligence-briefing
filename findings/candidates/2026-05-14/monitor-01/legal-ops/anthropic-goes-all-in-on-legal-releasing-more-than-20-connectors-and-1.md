@@ -8,9 +8,9 @@ source_date: Tue, 12 May 2026 17:17:06 +0000
 source_method: rss
 title: Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude
 matched_keywords:
-- Claude
-- LawNext
 - Anthropic
+- LawNext
+- Claude
 match_count: 3
 status: candidate
 entities:
@@ -23,14 +23,14 @@ cluster_id: cluster-2026-05-14-3fdf533ed6
 cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-12-practice-area-plugins-for-claude.html)
 **Published:** Tue, 12 May 2026 17:17:06 +0000
-**Matched keywords (3):** Claude, LawNext, Anthropic
+**Matched keywords (3):** Anthropic, LawNext, Claude
 
 ## Summary excerpt
 

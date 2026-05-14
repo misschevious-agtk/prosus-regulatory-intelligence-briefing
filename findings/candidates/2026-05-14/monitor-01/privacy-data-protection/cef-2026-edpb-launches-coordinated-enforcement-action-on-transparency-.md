@@ -8,19 +8,19 @@ source_date: Thu, 19 Mar 2026 13:00:00 +0100
 source_method: rss
 title: 'CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR'
 matched_keywords:
-- Data Protection Officer
-- right of access
-- CNIL
-- Datatilsynet
-- CEPD
-- AEPD
-- Europäischer Datenschutzausschuss
-- EDPB
-- right to erasure
 - CNPD
-- IDPC
 - right to be forgotten
+- EDPB
+- CEPD
+- Datatilsynet
+- AEPD
+- CNIL
 - GDPR
+- right to erasure
+- right of access
+- Europäischer Datenschutzausschuss
+- IDPC
+- Data Protection Officer
 match_count: 13
 status: candidate
 entities:
@@ -32,14 +32,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-fc039e6e93
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR
 
 **Source:** [EDPB news](https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en)
 **Published:** Thu, 19 Mar 2026 13:00:00 +0100
-**Matched keywords (13):** Data Protection Officer, right of access, CNIL, Datatilsynet, CEPD, AEPD, Europäischer Datenschutzausschuss, EDPB, right to erasure, CNPD, IDPC, right to be forgotten, GDPR
+**Matched keywords (13):** CNPD, right to be forgotten, EDPB, CEPD, Datatilsynet, AEPD, CNIL, GDPR, right to erasure, right of access, Europäischer Datenschutzausschuss, IDPC, Data Protection Officer
 
 ## Summary excerpt
 

@@ -8,9 +8,9 @@ source_date: Sat, 22 Nov 2025 10:19:52 +0000
 source_method: rss
 title: Digital Omnibus - First Legal Analysis
 matched_keywords:
-- ePrivacy
-- noyb
 - GDPR
+- noyb
+- ePrivacy
 match_count: 3
 status: candidate
 entities:
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-e0f9fdf820
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Digital Omnibus - First Legal Analysis
 
 **Source:** [noyb news](https://noyb.eu/en/digital-omnibus-first-legal-analysis)
 **Published:** Sat, 22 Nov 2025 10:19:52 +0000
-**Matched keywords (3):** ePrivacy, noyb, GDPR
+**Matched keywords (3):** GDPR, noyb, ePrivacy
 
 ## Summary excerpt
 

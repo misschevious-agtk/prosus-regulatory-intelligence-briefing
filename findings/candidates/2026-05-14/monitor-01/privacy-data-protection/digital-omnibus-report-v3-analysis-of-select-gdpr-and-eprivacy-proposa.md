@@ -8,12 +8,12 @@ source_date: Tue, 24 Feb 2026 09:44:25 +0000
 source_method: rss
 title: 'Digital Omnibus Report V3: Analysis of Select GDPR and ePrivacy Proposals by the Commission'
 matched_keywords:
-- ePrivacy Directive
 - EDPB
-- ePrivacy
-- noyb
-- EDPS
 - GDPR
+- EDPS
+- ePrivacy Directive
+- noyb
+- ePrivacy
 match_count: 6
 status: candidate
 entities:
@@ -25,14 +25,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-9ba692d80d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Digital Omnibus Report V3: Analysis of Select GDPR and ePrivacy Proposals by the Commission
 
 **Source:** [noyb news](https://noyb.eu/en/digital-omnibus-report-v3-analysis-select-gdpr-and-eprivacy-proposals-commission)
 **Published:** Tue, 24 Feb 2026 09:44:25 +0000
-**Matched keywords (6):** ePrivacy Directive, EDPB, ePrivacy, noyb, EDPS, GDPR
+**Matched keywords (6):** EDPB, GDPR, EDPS, ePrivacy Directive, noyb, ePrivacy
 
 ## Summary excerpt
 

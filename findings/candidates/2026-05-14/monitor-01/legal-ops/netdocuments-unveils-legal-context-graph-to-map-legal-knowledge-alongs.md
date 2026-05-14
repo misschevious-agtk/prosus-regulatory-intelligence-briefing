@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-14-3fdf533ed6
 cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # NetDocuments Unveils Legal Context Graph to Map Legal Knowledge, Alongside A ‘Reimagined’ Platform

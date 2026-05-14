@@ -8,10 +8,10 @@ source_date: Wed, 12 Nov 2025 09:30:00 +0100
 source_method: rss
 title: 'World Intellectual Property Indicators: Global Patent and Design Filings Reach New Records in 2024, Trademarks Flat'
 matched_keywords:
-- patent
 - Patent
-- trademark
 - WIPO
+- trademark
+- patent
 match_count: 4
 status: candidate
 entities:
@@ -23,14 +23,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-7af38fda85
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # World Intellectual Property Indicators: Global Patent and Design Filings Reach New Records in 2024, Trademarks Flat
 
 **Source:** [WIPO news](https://www.wipo.int/pressroom/en/articles/2025/article_0012.html)
 **Published:** Wed, 12 Nov 2025 09:30:00 +0100
-**Matched keywords (4):** patent, Patent, trademark, WIPO
+**Matched keywords (4):** Patent, WIPO, trademark, patent
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Wed, 25 Mar 2026 11:00:00 +0100
 source_method: rss
 title: WIPO Launches New Award for Cities of Innovation
 matched_keywords:
-- World Intellectual Property Organization
 - WIPO
+- World Intellectual Property Organization
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-b5cfafbe38
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # WIPO Launches New Award for Cities of Innovation
 
 **Source:** [WIPO news](https://www.wipo.int/pressroom/en/articles/2026/article_0006.html)
 **Published:** Wed, 25 Mar 2026 11:00:00 +0100
-**Matched keywords (2):** World Intellectual Property Organization, WIPO
+**Matched keywords (2):** WIPO, World Intellectual Property Organization
 
 ## Summary excerpt
 

@@ -8,9 +8,9 @@ source_date: Mon, 27 Apr 2026 16:16:19 +0000
 source_method: rss
 title: The Legal Tech Giants Powering ICE, Part 1 — How Thomson Reuters and LexisNexis Helped Support America’s Immigration Surveillance Machine
 matched_keywords:
-- LawNext
 - LexisNexis
 - LegalTech
+- LawNext
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-46579d364d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # The Legal Tech Giants Powering ICE, Part 1 — How Thomson Reuters and LexisNexis Helped Support America’s Immigration Surveillance Machine
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/04/the-legal-tech-giants-powering-ice-part-1-how-thomson-reuters-and-lexisnexis-helped-support-americas-immigration-surveillance-machine.html)
 **Published:** Mon, 27 Apr 2026 16:16:19 +0000
-**Matched keywords (3):** LawNext, LexisNexis, LegalTech
+**Matched keywords (3):** LexisNexis, LegalTech, LawNext
 
 ## Summary excerpt
 

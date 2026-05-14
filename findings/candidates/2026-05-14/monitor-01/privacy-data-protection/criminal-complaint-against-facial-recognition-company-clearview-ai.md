@@ -8,15 +8,15 @@ source_date: Tue, 28 Oct 2025 06:00:00 +0000
 source_method: rss
 title: Criminal complaint against facial recognition company Clearview AI
 matched_keywords:
-- Meta
-- EDPB
-- biometric data
-- Max Schrems
-- Schrems
 - facial recognition
 - Dutch DPA
-- noyb
+- EDPB
+- Max Schrems
 - GDPR
+- Meta
+- noyb
+- biometric data
+- Schrems
 match_count: 9
 status: candidate
 entities: []
@@ -24,14 +24,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-3ee429f9bd
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Criminal complaint against facial recognition company Clearview AI
 
 **Source:** [noyb news](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai)
 **Published:** Tue, 28 Oct 2025 06:00:00 +0000
-**Matched keywords (9):** Meta, EDPB, biometric data, Max Schrems, Schrems, facial recognition, Dutch DPA, noyb, GDPR
+**Matched keywords (9):** facial recognition, Dutch DPA, EDPB, Max Schrems, GDPR, Meta, noyb, biometric data, Schrems
 
 ## Summary excerpt
 

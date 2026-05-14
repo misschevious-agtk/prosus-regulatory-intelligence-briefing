@@ -8,8 +8,8 @@ source_date: Tue, 12 May 2026 17:35:23 +0000
 source_method: rss
 title: Justice Technology Association Named Access to Justice Partner in Anthropic’s Legal AI Launch
 matched_keywords:
-- LawNext
 - Anthropic
+- LawNext
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-3fdf533ed6
 cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Justice Technology Association Named Access to Justice Partner in Anthropic’s Legal AI Launch
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/justice-technology-association-named-access-to-justice-partner-in-anthropics-legal-ai-launch.html)
 **Published:** Tue, 12 May 2026 17:35:23 +0000
-**Matched keywords (2):** LawNext, Anthropic
+**Matched keywords (2):** Anthropic, LawNext
 
 ## Summary excerpt
 

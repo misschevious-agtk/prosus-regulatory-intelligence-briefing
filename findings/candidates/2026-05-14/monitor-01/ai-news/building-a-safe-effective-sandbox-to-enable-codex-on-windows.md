@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-14-14389d7454
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: how-nvidia-engineers-and-researchers-build-with-codex
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Building a safe, effective sandbox to enable Codex on Windows

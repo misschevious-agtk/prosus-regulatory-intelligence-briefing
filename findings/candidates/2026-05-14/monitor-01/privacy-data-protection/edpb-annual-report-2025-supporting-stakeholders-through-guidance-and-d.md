@@ -12,9 +12,9 @@ matched_keywords:
 - one-stop-shop
 - EDPB
 - European Data Protection Board
-- European Data Protection Supervisor
-- EDPS
 - GDPR
+- EDPS
+- European Data Protection Supervisor
 match_count: 7
 status: candidate
 entities:
@@ -26,14 +26,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-7b091f775f
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # EDPB annual report 2025: supporting stakeholders through guidance and dialogue
 
 **Source:** [EDPB news](https://www.edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en)
 **Published:** Thu, 09 Apr 2026 14:00:00 +0200
-**Matched keywords (7):** adequacy decision, one-stop-shop, EDPB, European Data Protection Board, European Data Protection Supervisor, EDPS, GDPR
+**Matched keywords (7):** adequacy decision, one-stop-shop, EDPB, European Data Protection Board, GDPR, EDPS, European Data Protection Supervisor
 
 ## Summary excerpt
 

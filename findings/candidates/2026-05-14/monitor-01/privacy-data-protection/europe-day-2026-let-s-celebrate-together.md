@@ -8,8 +8,8 @@ source_date: Tue, 05 May 2026 14:00:00 +0200
 source_method: rss
 title: 'Europe Day 2026: let’s celebrate together'
 matched_keywords:
-- European Data Protection Supervisor
 - EDPS
+- European Data Protection Supervisor
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-615fadf273
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Europe Day 2026: let’s celebrate together
 
 **Source:** [EDPB news](https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en)
 **Published:** Tue, 05 May 2026 14:00:00 +0200
-**Matched keywords (2):** European Data Protection Supervisor, EDPS
+**Matched keywords (2):** EDPS, European Data Protection Supervisor
 
 ## Summary excerpt
 

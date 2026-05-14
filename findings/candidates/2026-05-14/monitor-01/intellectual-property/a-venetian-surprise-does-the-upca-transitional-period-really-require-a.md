@@ -8,8 +8,8 @@ source_date: '2026-05-06T08:51:00.016+01:00'
 source_method: rss
 title: 'A Venetian surprise: Does the UPCA transitional period really require an opt-out to access national courts?'
 matched_keywords:
-- patent
 - Patent
+- patent
 - Unified Patent Court
 match_count: 3
 status: candidate
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-2d9e379fa2
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # A Venetian surprise: Does the UPCA transitional period really require an opt-out to access national courts?
 
 **Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/05/a-venetian-surprise-does-upca.html)
 **Published:** 2026-05-06T08:51:00.016+01:00
-**Matched keywords (3):** patent, Patent, Unified Patent Court
+**Matched keywords (3):** Patent, patent, Unified Patent Court
 
 ## Summary excerpt
 

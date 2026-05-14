@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-14-d48cb486fe
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: commission-strengthens-global-health-security-with-new-global-health-r
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Ομιλία του Επιτρόπου Καδή σε κοινή συνεδρία της Διαρκούς Επιτροπής Ευρωπαϊκών Υποθέσεων, της Διαρκούς Επιτροπής Παραγωγής και Εμπορίου και της Ειδικής Μόνιμης Επιτροπής Προστασίας Περιβάλλοντος της Βουλής των Ελλήνων

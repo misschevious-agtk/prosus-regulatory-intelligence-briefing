@@ -8,9 +8,9 @@ source_date: '2026-05-14T10:06:36.848+01:00'
 source_method: rss
 title: 'WIPO survey: Sequence search for PATENTSCOPE'
 matched_keywords:
-- patent
 - Patent
 - WIPO
+- patent
 match_count: 3
 status: candidate
 entities:
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-2202934fd5
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # WIPO survey: Sequence search for PATENTSCOPE
 
 **Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/05/wipo-survey-sequence-search-for.html)
 **Published:** 2026-05-14T10:06:36.848+01:00
-**Matched keywords (3):** patent, Patent, WIPO
+**Matched keywords (3):** Patent, WIPO, patent
 
 ## Summary excerpt
 

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-14-7af38fda85
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: world-intellectual-property-indicators-global-patent-and-design-filing
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # World's Largest IP Survey Reveals Increased Awareness and Trust in IP

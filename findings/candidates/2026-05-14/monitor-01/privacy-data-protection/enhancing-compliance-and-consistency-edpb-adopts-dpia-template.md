@@ -8,11 +8,11 @@ source_date: Tue, 14 Apr 2026 14:00:00 +0200
 source_method: rss
 title: 'Enhancing compliance and consistency: EDPB adopts DPIA template'
 matched_keywords:
-- Meta
 - EDPB
-- DPIA
 - GDPR
+- Meta
 - Data Protection Impact Assessment
+- DPIA
 match_count: 5
 status: candidate
 entities:
@@ -25,14 +25,14 @@ cluster_id: cluster-2026-05-14-aa5c38b6b6
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: edpb-brings-clarity-to-data-processing-for-scientific-research-speeds-
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Enhancing compliance and consistency: EDPB adopts DPIA template
 
 **Source:** [EDPB news](https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en)
 **Published:** Tue, 14 Apr 2026 14:00:00 +0200
-**Matched keywords (5):** Meta, EDPB, DPIA, GDPR, Data Protection Impact Assessment
+**Matched keywords (5):** EDPB, GDPR, Meta, Data Protection Impact Assessment, DPIA
 
 ## Summary excerpt
 

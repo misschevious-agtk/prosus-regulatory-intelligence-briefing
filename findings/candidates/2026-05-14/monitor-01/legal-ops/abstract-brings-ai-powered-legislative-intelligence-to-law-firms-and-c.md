@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-c5ac015c4c
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: guest-post-the-intake-form-is-dead-long-live-the-template
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Abstract Brings AI-Powered Legislative Intelligence to Law Firms and Corporate Legal Teams

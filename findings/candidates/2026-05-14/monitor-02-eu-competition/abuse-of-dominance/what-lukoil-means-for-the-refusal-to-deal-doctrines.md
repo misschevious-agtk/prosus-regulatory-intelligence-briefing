@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-c6b9f9cabe
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # What Lukoil means for the refusal to deal doctrines

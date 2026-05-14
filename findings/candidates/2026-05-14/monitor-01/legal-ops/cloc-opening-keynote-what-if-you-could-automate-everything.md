@@ -8,9 +8,9 @@ source_date: Wed, 13 May 2026 22:16:00 +0000
 source_method: rss
 title: 'CLOC Opening Keynote: What If You Could Automate Everything?'
 matched_keywords:
-- Above the Law
-- CLOC
 - legal ops
+- CLOC
+- Above the Law
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-5d6644192d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # CLOC Opening Keynote: What If You Could Automate Everything?
 
 **Source:** [Above the Law](https://abovethelaw.com/2026/05/cloc-opening-keynote-what-if-you-could-automate-everything/)
 **Published:** Wed, 13 May 2026 22:16:00 +0000
-**Matched keywords (3):** Above the Law, CLOC, legal ops
+**Matched keywords (3):** legal ops, CLOC, Above the Law
 
 ## Summary excerpt
 

@@ -8,16 +8,16 @@ source_date: Thu, 18 Dec 2025 14:11:48 +0000
 source_method: rss
 title: 'Austrian Supreme Court: Meta must give users full access to their data'
 matched_keywords:
-- consent
-- sex life
-- sexual orientation
 - sensitive data
-- Meta
-- Article 9 GDPR
 - Max Schrems
-- Schrems
-- noyb
+- Article 9 GDPR
 - GDPR
+- sex life
+- Meta
+- noyb
+- sexual orientation
+- consent
+- Schrems
 match_count: 10
 status: candidate
 entities: []
@@ -25,14 +25,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-346452ecf7
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Austrian Supreme Court: Meta must give users full access to their data
 
 **Source:** [noyb news](https://noyb.eu/en/austrian-supreme-court-meta-must-give-users-full-access-their-data)
 **Published:** Thu, 18 Dec 2025 14:11:48 +0000
-**Matched keywords (10):** consent, sex life, sexual orientation, sensitive data, Meta, Article 9 GDPR, Max Schrems, Schrems, noyb, GDPR
+**Matched keywords (10):** sensitive data, Max Schrems, Article 9 GDPR, GDPR, sex life, Meta, noyb, sexual orientation, consent, Schrems
 
 ## Summary excerpt
 

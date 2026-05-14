@@ -8,8 +8,8 @@ source_date: Fri, 01 Aug 2025 00:00:00 GMT
 source_method: rss
 title: 'NEWSLETTER del 1 agosto 2025 - Videosorveglianza, il Garante privacy scrive a Confcommercio: attenzione agli abusi - Data breach, il Garante sanziona Poste Vita per 80mila euro - Lavoro, il Garante privacy sanziona un’azienda per questionari post-malattia'
 matched_keywords:
-- Garante
 - data breach
+- Garante
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-c12d5204b3
 cluster_size: 11
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # NEWSLETTER del 1 agosto 2025 - Videosorveglianza, il Garante privacy scrive a Confcommercio: attenzione agli abusi - Data breach, il Garante sanziona Poste Vita per 80mila euro - Lavoro, il Garante privacy sanziona un’azienda per questionari post-malattia
 
 **Source:** [Garante per la protezione dei dati personali [IT]](https://www.gpdp.it/garante/doc.jsp?ID=10153922)
 **Published:** Fri, 01 Aug 2025 00:00:00 GMT
-**Matched keywords (2):** Garante, data breach
+**Matched keywords (2):** data breach, Garante
 
 ## Summary excerpt
 

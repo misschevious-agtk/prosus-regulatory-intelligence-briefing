@@ -8,8 +8,8 @@ source_date: Fri, 05/08/2026 - 15:29
 source_method: rss
 title: Patent Public Search (PPUBS) Deployment
 matched_keywords:
-- patent
 - Patent
+- patent
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-153be7236e
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Patent Public Search (PPUBS) Deployment
 
 **Source:** [USPTO news](https://www.uspto.gov/system-status/20260508-patent-public-search-ppubs-deployment)
 **Published:** Fri, 05/08/2026 - 15:29
-**Matched keywords (2):** patent, Patent
+**Matched keywords (2):** Patent, patent
 
 ## Summary excerpt
 

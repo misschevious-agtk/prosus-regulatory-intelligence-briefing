@@ -8,9 +8,9 @@ source_date: Tue, 05/12/2026 - 15:43
 source_method: rss
 title: 'USPTO Hour: OED Programs–Diversion, Law School Clinic, and Patent Pro Bono'
 matched_keywords:
-- patent
 - Patent
 - USPTO
+- patent
 match_count: 3
 status: candidate
 entities:
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-66f9839d66
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # USPTO Hour: OED Programs–Diversion, Law School Clinic, and Patent Pro Bono
 
 **Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/uspto-hour-oed-programs-diversion-law-school-clinic-and-patent-pro-bono-0)
 **Published:** Tue, 05/12/2026 - 15:43
-**Matched keywords (3):** patent, Patent, USPTO
+**Matched keywords (3):** Patent, USPTO, patent
 
 ## Summary excerpt
 

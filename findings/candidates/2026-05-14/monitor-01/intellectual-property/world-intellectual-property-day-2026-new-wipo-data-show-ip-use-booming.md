@@ -8,10 +8,10 @@ source_date: Sat, 25 Apr 2026 08:10:00 +0200
 source_method: rss
 title: 'World Intellectual Property Day 2026: New WIPO Data Show IP Use Booming in Sports Industry'
 matched_keywords:
-- patent
-- World Intellectual Property Organization
 - Patent
 - WIPO
+- World Intellectual Property Organization
+- patent
 match_count: 4
 status: candidate
 entities:
@@ -23,14 +23,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-8204c4853c
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # World Intellectual Property Day 2026: New WIPO Data Show IP Use Booming in Sports Industry
 
 **Source:** [WIPO news](https://www.wipo.int/pressroom/en/articles/2026/article_0008.html)
 **Published:** Sat, 25 Apr 2026 08:10:00 +0200
-**Matched keywords (4):** patent, World Intellectual Property Organization, Patent, WIPO
+**Matched keywords (4):** Patent, WIPO, World Intellectual Property Organization, patent
 
 ## Summary excerpt
 

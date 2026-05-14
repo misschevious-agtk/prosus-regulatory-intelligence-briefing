@@ -8,8 +8,8 @@ source_date: Thu, 26 Mar 2026 01:00:00 GMT
 source_method: rss
 title: 'NEWSLETTER del 26 marzo 2026 - Telemarketing, il Garante privacy sanziona Enel Energia per oltre 500mila euro - Annunci online senza consenso, il Garante sanziona Bakeca - Recupero crediti, Garante privacy: illecita la comunicazione ai familiari del debitore - Troppi rischi su siti e app per i minori: l’indagine del GPEN'
 matched_keywords:
-- Garante
 - consenso
+- Garante
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-c12d5204b3
 cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-1-agosto-2025-videosorveglianza-il-garante-privacy-scri
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # NEWSLETTER del 26 marzo 2026 - Telemarketing, il Garante privacy sanziona Enel Energia per oltre 500mila euro - Annunci online senza consenso, il Garante sanziona Bakeca - Recupero crediti, Garante privacy: illecita la comunicazione ai familiari del debitore - Troppi rischi su siti e app per i minori: l’indagine del GPEN
 
 **Source:** [Garante per la protezione dei dati personali [IT]](https://www.gpdp.it/garante/doc.jsp?ID=10233427)
 **Published:** Thu, 26 Mar 2026 01:00:00 GMT
-**Matched keywords (2):** Garante, consenso
+**Matched keywords (2):** consenso, Garante
 
 ## Summary excerpt
 

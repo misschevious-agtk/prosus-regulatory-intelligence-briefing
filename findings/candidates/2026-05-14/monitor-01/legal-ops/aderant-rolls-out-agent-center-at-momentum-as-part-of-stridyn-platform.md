@@ -8,8 +8,8 @@ source_date: Tue, 12 May 2026 14:01:25 +0000
 source_method: rss
 title: Aderant rolls out Agent Center at Momentum as part of Stridyn platform expansion
 matched_keywords:
-- Legal IT Insider
 - LegalTech
+- Legal IT Insider
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-2fda87b4bc
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Aderant rolls out Agent Center at Momentum as part of Stridyn platform expansion
 
 **Source:** [Legal IT Insider](https://legaltechnology.com/2026/05/12/aderant-rolls-out-agent-center-at-momentum-as-part-of-stridyn-platform-expansion/)
 **Published:** Tue, 12 May 2026 14:01:25 +0000
-**Matched keywords (2):** Legal IT Insider, LegalTech
+**Matched keywords (2):** LegalTech, Legal IT Insider
 
 ## Summary excerpt
 

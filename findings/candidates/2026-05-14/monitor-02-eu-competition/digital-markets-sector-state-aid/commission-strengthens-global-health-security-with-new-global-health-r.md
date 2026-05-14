@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-d48cb486fe
 cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Commission strengthens global health security with new Global Health Resilience Initiative

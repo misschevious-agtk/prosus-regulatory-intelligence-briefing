@@ -8,10 +8,10 @@ source_date: Mon, 05/04/2026 - 13:38
 source_method: rss
 title: Director Squires addresses INTA in London
 matched_keywords:
-- INTA
-- patent
 - Patent
 - trademark
+- INTA
+- patent
 match_count: 4
 status: candidate
 entities:
@@ -23,14 +23,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-78a5a827ff
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Director Squires addresses INTA in London
 
 **Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/director-squires-addresses-inta-london)
 **Published:** Mon, 05/04/2026 - 13:38
-**Matched keywords (4):** INTA, patent, Patent, trademark
+**Matched keywords (4):** Patent, trademark, INTA, patent
 
 ## Summary excerpt
 

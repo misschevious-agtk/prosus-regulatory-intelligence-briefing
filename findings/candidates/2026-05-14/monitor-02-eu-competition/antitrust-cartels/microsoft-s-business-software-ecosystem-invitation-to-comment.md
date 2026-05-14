@@ -23,7 +23,7 @@ cluster_id: cluster-2026-05-14-7783aa9934
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: microsoft-s-business-software-ecosystem
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Microsoft’s business software ecosystem: Invitation to comment

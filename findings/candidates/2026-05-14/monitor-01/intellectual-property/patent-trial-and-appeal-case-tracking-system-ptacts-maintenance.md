@@ -8,9 +8,9 @@ source_date: Wed, 05/13/2026 - 08:06
 source_method: rss
 title: Patent Trial and Appeal Case Tracking System (PTACTS) Maintenance
 matched_keywords:
-- patent
 - Patent
 - USPTO
+- patent
 match_count: 3
 status: candidate
 entities:
@@ -23,14 +23,14 @@ cluster_id: cluster-2026-05-14-f914e1af39
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Patent Trial and Appeal Case Tracking System (PTACTS) Maintenance
 
 **Source:** [USPTO news](https://www.uspto.gov/system-status/20260516-patent-trial-and-appeal-case-tracking-system-ptacts-maintenance)
 **Published:** Wed, 05/13/2026 - 08:06
-**Matched keywords (3):** patent, Patent, USPTO
+**Matched keywords (3):** Patent, USPTO, patent
 
 ## Summary excerpt
 

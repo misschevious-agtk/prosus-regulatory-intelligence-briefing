@@ -8,8 +8,8 @@ source_date: Mon, 27 Apr 2026 13:00:59 +0000
 source_method: rss
 title: Gavel Launches Web-Based AI Contract Platform, Expanding ‘Gavel Exec’ Beyond Its Word Add-In
 matched_keywords:
-- LawNext
 - contract review
+- LawNext
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-0ab2465d69
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Gavel Launches Web-Based AI Contract Platform, Expanding ‘Gavel Exec’ Beyond Its Word Add-In
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/04/gavel-launches-web-based-ai-contract-platform-expanding-gavel-exec-beyond-its-word-add-in.html)
 **Published:** Mon, 27 Apr 2026 13:00:59 +0000
-**Matched keywords (2):** LawNext, contract review
+**Matched keywords (2):** contract review, LawNext
 
 ## Summary excerpt
 

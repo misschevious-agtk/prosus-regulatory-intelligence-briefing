@@ -8,8 +8,8 @@ source_date: Mon, 05/04/2026 - 12:41
 source_method: rss
 title: Director Squires addresses INTA in London, highlights the new frontier of trademarks and personal brands
 matched_keywords:
-- INTA
 - trademark
+- INTA
 - USPTO
 match_count: 3
 status: candidate
@@ -23,14 +23,14 @@ cluster_id: cluster-2026-05-14-78a5a827ff
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: director-squires-addresses-inta-in-london
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Director Squires addresses INTA in London, highlights the new frontier of trademarks and personal brands
 
 **Source:** [USPTO news](https://www.uspto.gov/about-us/news-updates/director-squires-addresses-inta-london-highlights-new-frontier-trademarks-and)
 **Published:** Mon, 05/04/2026 - 12:41
-**Matched keywords (3):** INTA, trademark, USPTO
+**Matched keywords (3):** trademark, INTA, USPTO
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Tue, 05/12/2026 - 12:49
 source_method: rss
 title: Mitigating fraud and misrepresentations in patent proceedings
 matched_keywords:
-- patent
 - Patent
+- patent
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-de8c46c7bb
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Mitigating fraud and misrepresentations in patent proceedings
 
 **Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/mitigating-fraud-and-misrepresentations-patent-proceedings)
 **Published:** Tue, 05/12/2026 - 12:49
-**Matched keywords (2):** patent, Patent
+**Matched keywords (2):** Patent, patent
 
 ## Summary excerpt
 

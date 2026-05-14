@@ -8,8 +8,8 @@ source_date: Fri, 08 May 2026 12:38:49 +0000
 source_method: rss
 title: 'Ken Crutchfield: When Open Source Meets Legal — How MikeOSS Signals the End of Legal’s Secret Sauce'
 matched_keywords:
-- LawNext
 - Harvey
+- LawNext
 match_count: 2
 status: candidate
 entities:
@@ -22,14 +22,14 @@ cluster_id: cluster-2026-05-14-574a424ebd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: today-on-legaltech-week-mikeoss-legaltech-giants-supporting-ice-ilta-e
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Ken Crutchfield: When Open Source Meets Legal — How MikeOSS Signals the End of Legal’s Secret Sauce
 
 **Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/ken-crutchfield-when-open-source-meets-legal-how-mikeoss-signals-the-end-of-legals-secret-sauce.html)
 **Published:** Fri, 08 May 2026 12:38:49 +0000
-**Matched keywords (2):** LawNext, Harvey
+**Matched keywords (2):** Harvey, LawNext
 
 ## Summary excerpt
 

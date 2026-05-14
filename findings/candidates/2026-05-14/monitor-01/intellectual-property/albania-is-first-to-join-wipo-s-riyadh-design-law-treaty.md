@@ -8,8 +8,8 @@ source_date: Fri, 13 Mar 2026 09:00:00 +0100
 source_method: rss
 title: Albania is First to Join WIPO’s Riyadh Design Law Treaty
 matched_keywords:
-- design protection
 - WIPO
+- design protection
 match_count: 2
 status: candidate
 entities:
@@ -21,14 +21,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-ad6904d548
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Albania is First to Join WIPO’s Riyadh Design Law Treaty
 
 **Source:** [WIPO news](https://www.wipo.int/pressroom/en/articles/2026/article_0004.html)
 **Published:** Fri, 13 Mar 2026 09:00:00 +0100
-**Matched keywords (2):** design protection, WIPO
+**Matched keywords (2):** WIPO, design protection
 
 ## Summary excerpt
 

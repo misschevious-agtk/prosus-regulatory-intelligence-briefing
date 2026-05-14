@@ -8,11 +8,11 @@ source_date: Fri, 06 Mar 2026 09:30:00 +0100
 source_method: rss
 title: International Patent Applications Rose in 2025, with Digital Communication and Semiconductor Technologies Showing Strong Growth
 matched_keywords:
-- patent
 - Patent
+- WIPO
+- patent
 - PCT
 - Patent Cooperation Treaty
-- WIPO
 match_count: 5
 status: candidate
 entities:
@@ -24,14 +24,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-808059b583
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # International Patent Applications Rose in 2025, with Digital Communication and Semiconductor Technologies Showing Strong Growth
 
 **Source:** [WIPO news](https://www.wipo.int/pressroom/en/articles/2026/article_0003.html)
 **Published:** Fri, 06 Mar 2026 09:30:00 +0100
-**Matched keywords (5):** patent, Patent, PCT, Patent Cooperation Treaty, WIPO
+**Matched keywords (5):** Patent, WIPO, patent, PCT, Patent Cooperation Treaty
 
 ## Summary excerpt
 

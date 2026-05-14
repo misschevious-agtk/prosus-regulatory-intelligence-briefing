@@ -9,9 +9,9 @@ source_method: rss
 title: 'Over 40,000 CRIF queries: Klarna, banks and telecoms entangled in CRIF network'
 matched_keywords:
 - Max Schrems
-- Schrems
-- noyb
 - GDPR
+- noyb
+- Schrems
 match_count: 4
 status: candidate
 entities: []
@@ -20,14 +20,14 @@ cluster_id: cluster-2026-05-14-9023cc2d2d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-austrian-authority-forbids-unlawful-credit-scoring-by-ksv1870
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Over 40,000 CRIF queries: Klarna, banks and telecoms entangled in CRIF network
 
 **Source:** [noyb news](https://noyb.eu/en/over-40000-crif-queries-klarna-banks-and-telecoms-entangled-crif-network)
 **Published:** Thu, 25 Sep 2025 06:00:00 +0000
-**Matched keywords (4):** Max Schrems, Schrems, noyb, GDPR
+**Matched keywords (4):** Max Schrems, GDPR, noyb, Schrems
 
 ## Summary excerpt
 

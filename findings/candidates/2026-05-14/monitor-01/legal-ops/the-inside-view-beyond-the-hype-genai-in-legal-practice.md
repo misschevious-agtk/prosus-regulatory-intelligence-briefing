@@ -8,9 +8,9 @@ source_date: Tue, 12 May 2026 12:15:03 +0000
 source_method: rss
 title: 'The Inside View: Beyond the hype – GenAI in legal practice'
 matched_keywords:
-- Legal IT Insider
-- AI in legal practice
 - LegalTech
+- AI in legal practice
+- Legal IT Insider
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-4f315d1ed2
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # The Inside View: Beyond the hype – GenAI in legal practice
 
 **Source:** [Legal IT Insider](https://legaltechnology.com/2026/05/12/the-inside-view-beyond-the-hype-genai-in-legal-practice/)
 **Published:** Tue, 12 May 2026 12:15:03 +0000
-**Matched keywords (3):** Legal IT Insider, AI in legal practice, LegalTech
+**Matched keywords (3):** LegalTech, AI in legal practice, Legal IT Insider
 
 ## Summary excerpt
 

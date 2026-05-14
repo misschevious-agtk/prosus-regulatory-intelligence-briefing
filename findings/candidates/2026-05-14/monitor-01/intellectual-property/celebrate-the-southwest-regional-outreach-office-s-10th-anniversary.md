@@ -8,10 +8,10 @@ source_date: Mon, 05/11/2026 - 11:32
 source_method: rss
 title: Celebrate the Southwest Regional Outreach Office's 10th anniversary
 matched_keywords:
-- patent
 - Patent
 - trademark
 - USPTO
+- patent
 match_count: 4
 status: candidate
 entities:
@@ -23,14 +23,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-1876d6799f
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Celebrate the Southwest Regional Outreach Office's 10th anniversary
 
 **Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/celebrate-southwest-regional-outreach-offices-10th-anniversary-2)
 **Published:** Mon, 05/11/2026 - 11:32
-**Matched keywords (4):** patent, Patent, trademark, USPTO
+**Matched keywords (4):** Patent, trademark, USPTO, patent
 
 ## Summary excerpt
 

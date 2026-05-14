@@ -8,17 +8,17 @@ source_date: Thu, 09 Oct 2025 22:28:41 +0000
 source_method: rss
 title: 'noyb win: Microsoft 365 Education may not track school children'
 matched_keywords:
+- DSK
+- Data Protection Commission
 - BfDI
+- Max Schrems
+- GDPR
+- noyb
+- data subject rights
 - consent
 - OpenAI
-- Data Protection Commission
-- data subject rights
-- DSK
-- Max Schrems
 - Microsoft
 - Schrems
-- noyb
-- GDPR
 match_count: 11
 status: candidate
 entities: []
@@ -26,14 +26,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-94469a4852
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # noyb win: Microsoft 365 Education may not track school children
 
 **Source:** [noyb news](https://noyb.eu/en/noyb-win-microsoft-365-education-tracks-school-children)
 **Published:** Thu, 09 Oct 2025 22:28:41 +0000
-**Matched keywords (11):** BfDI, consent, OpenAI, Data Protection Commission, data subject rights, DSK, Max Schrems, Microsoft, Schrems, noyb, GDPR
+**Matched keywords (11):** DSK, Data Protection Commission, BfDI, Max Schrems, GDPR, noyb, data subject rights, consent, OpenAI, Microsoft, Schrems
 
 ## Summary excerpt
 

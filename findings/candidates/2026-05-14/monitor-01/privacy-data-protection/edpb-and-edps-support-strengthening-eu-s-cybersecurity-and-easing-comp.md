@@ -9,18 +9,18 @@ source_method: rss
 title: EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data
 matched_keywords:
 - prior consultation
-- CSA
-- NIS2
-- EDPB
-- personal data breach
-- European Data Protection Board
-- European Data Protection Supervisor
-- security measures
-- NIS2 Directive
-- data breach
-- EDPS
-- GDPR
 - Cybersecurity Law
+- NIS2
+- data breach
+- EDPB
+- European Data Protection Board
+- GDPR
+- EDPS
+- European Data Protection Supervisor
+- CSA
+- personal data breach
+- NIS2 Directive
+- security measures
 match_count: 13
 status: candidate
 entities:
@@ -37,14 +37,14 @@ cluster_id: cluster-2026-05-14-fc039e6e93
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: cef-2026-edpb-launches-coordinated-enforcement-action-on-transparency-
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data
 
 **Source:** [EDPB news](https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en)
 **Published:** Thu, 19 Mar 2026 13:00:00 +0100
-**Matched keywords (13):** prior consultation, CSA, NIS2, EDPB, personal data breach, European Data Protection Board, European Data Protection Supervisor, security measures, NIS2 Directive, data breach, EDPS, GDPR, Cybersecurity Law
+**Matched keywords (13):** prior consultation, Cybersecurity Law, NIS2, data breach, EDPB, European Data Protection Board, GDPR, EDPS, European Data Protection Supervisor, CSA, personal data breach, NIS2 Directive, security measures
 
 ## Summary excerpt
 

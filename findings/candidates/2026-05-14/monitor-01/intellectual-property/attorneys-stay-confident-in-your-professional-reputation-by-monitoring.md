@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-15fc27b70c
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Attorneys: Stay confident in your professional reputation by monitoring your bar credentials

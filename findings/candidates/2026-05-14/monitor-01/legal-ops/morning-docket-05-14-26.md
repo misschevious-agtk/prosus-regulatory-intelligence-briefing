@@ -8,11 +8,11 @@ source_date: Thu, 14 May 2026 13:13:48 +0000
 source_method: rss
 title: 'Morning Docket: 05.14.26'
 matched_keywords:
-- Above the Law
-- Legaltech News
-- Claude
 - LegalTech
 - Anthropic
+- Legaltech News
+- Above the Law
+- Claude
 match_count: 5
 status: candidate
 entities:
@@ -29,14 +29,14 @@ cluster_id: cluster-2026-05-14-8592fdea8d
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-13-26
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Morning Docket: 05.14.26
 
 **Source:** [Above the Law](https://abovethelaw.com/2026/05/morning-docket-05-14-26/)
 **Published:** Thu, 14 May 2026 13:13:48 +0000
-**Matched keywords (5):** Above the Law, Legaltech News, Claude, LegalTech, Anthropic
+**Matched keywords (5):** LegalTech, Anthropic, Legaltech News, Above the Law, Claude
 
 ## Summary excerpt
 

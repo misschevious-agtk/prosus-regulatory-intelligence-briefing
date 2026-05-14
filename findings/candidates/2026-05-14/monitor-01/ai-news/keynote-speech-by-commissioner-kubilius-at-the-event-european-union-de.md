@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-14-d48cb486fe
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: commission-strengthens-global-health-security-with-new-global-health-r
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Keynote speech by Commissioner Kubilius at the event "European Union Defence Initiatives: The Eastern Flank within a 360° Security Approach"

@@ -8,12 +8,12 @@ source_date: Thu, 16 Apr 2026 14:00:00 +0200
 source_method: rss
 title: EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers
 matched_keywords:
-- consent
+- joint controller
 - public interest
 - EDPB
-- right to erasure
-- joint controller
 - GDPR
+- right to erasure
+- consent
 match_count: 6
 status: candidate
 entities:
@@ -25,14 +25,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-aa5c38b6b6
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers
 
 **Source:** [EDPB news](https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en)
 **Published:** Thu, 16 Apr 2026 14:00:00 +0200
-**Matched keywords (6):** consent, public interest, EDPB, right to erasure, joint controller, GDPR
+**Matched keywords (6):** joint controller, public interest, EDPB, GDPR, right to erasure, consent
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Thu, 14 May 2026 16:57:05 +0000
 source_method: rss
 title: 'After LKQ: The Boilerplate Changed; The Rejection Rate Did Not'
 matched_keywords:
-- patent
 - Patent
+- patent
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-9525ec801a
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # After LKQ: The Boilerplate Changed; The Rejection Rate Did Not
 
 **Source:** [Patently-O](https://patentlyo.com/patent/2026/05/after-lkq-the-boilerplate-changed-the-rejection-rate-did-not.html)
 **Published:** Thu, 14 May 2026 16:57:05 +0000
-**Matched keywords (2):** patent, Patent
+**Matched keywords (2):** Patent, patent
 
 ## Summary excerpt
 

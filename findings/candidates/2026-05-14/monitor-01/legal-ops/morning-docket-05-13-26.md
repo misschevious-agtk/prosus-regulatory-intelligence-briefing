@@ -8,13 +8,13 @@ source_date: Wed, 13 May 2026 12:40:49 +0000
 source_method: rss
 title: 'Morning Docket: 05.13.26'
 matched_keywords:
-- Above the Law
-- OpenAI
-- Claude
+- Anthropic
 - LawSites
 - LawNext
+- Above the Law
+- Claude
+- OpenAI
 - ABA
-- Anthropic
 match_count: 7
 status: candidate
 entities: []
@@ -22,14 +22,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-8592fdea8d
 cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Morning Docket: 05.13.26
 
 **Source:** [Above the Law](https://abovethelaw.com/2026/05/morning-docket-05-13-26/)
 **Published:** Wed, 13 May 2026 12:40:49 +0000
-**Matched keywords (7):** Above the Law, OpenAI, Claude, LawSites, LawNext, ABA, Anthropic
+**Matched keywords (7):** Anthropic, LawSites, LawNext, Above the Law, Claude, OpenAI, ABA
 
 ## Summary excerpt
 

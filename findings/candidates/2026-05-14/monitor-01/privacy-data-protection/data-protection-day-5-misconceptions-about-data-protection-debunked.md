@@ -8,21 +8,21 @@ source_date: Wed, 28 Jan 2026 06:00:00 +0000
 source_method: rss
 title: 'Data Protection Day: 5 misconceptions about data protection, debunked'
 matched_keywords:
-- pay or okay
-- Data Protection Officer
-- consent
-- right of access
-- legal obligation
-- OpenAI
-- General Data Protection Regulation
-- Meta
-- targeted advertising
 - Google
 - DPC
-- Microsoft
+- General Data Protection Regulation
+- legal obligation
 - pay-or-OK
-- noyb
+- cookie banner
 - GDPR
+- Meta
+- targeted advertising
+- pay or okay
+- noyb
+- consent
+- right of access
+- OpenAI
+- Microsoft
 match_count: 16
 status: candidate
 entities: []
@@ -30,14 +30,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-0fc2d514c3
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Data Protection Day: 5 misconceptions about data protection, debunked
 
 **Source:** [noyb news](https://noyb.eu/en/data-protection-day-5-misconceptions-about-data-protection-debunked)
 **Published:** Wed, 28 Jan 2026 06:00:00 +0000
-**Matched keywords (16):** pay or okay, Data Protection Officer, consent, right of access, legal obligation, OpenAI, General Data Protection Regulation, Meta, targeted advertising, Google, DPC, Microsoft, pay-or-OK, noyb, GDPR
+**Matched keywords (16):** Google, DPC, General Data Protection Regulation, legal obligation, pay-or-OK, cookie banner, GDPR, Meta, targeted advertising, pay or okay, noyb, consent, right of access, OpenAI, Microsoft
 
 ## Summary excerpt
 

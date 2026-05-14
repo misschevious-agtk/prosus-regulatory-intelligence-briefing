@@ -9,10 +9,10 @@ source_method: rss
 title: 'Whitebridge.ai: your personal data is for sale to you and anyone'
 matched_keywords:
 - sensitive data
-- data subject rights
 - Article 9 GDPR
-- noyb
 - GDPR
+- noyb
+- data subject rights
 match_count: 5
 status: candidate
 entities: []
@@ -20,14 +20,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-f058e7a807
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Whitebridge.ai: your personal data is for sale to you and anyone
 
 **Source:** [noyb news](https://noyb.eu/en/whitebridgeai-your-personal-data-sale-you-and-anyone)
 **Published:** Mon, 29 Sep 2025 05:00:00 +0000
-**Matched keywords (5):** sensitive data, data subject rights, Article 9 GDPR, noyb, GDPR
+**Matched keywords (5):** sensitive data, Article 9 GDPR, GDPR, noyb, data subject rights
 
 ## Summary excerpt
 

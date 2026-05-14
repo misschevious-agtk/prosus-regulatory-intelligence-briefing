@@ -9,8 +9,8 @@ source_method: rss
 title: CAISI Issues Request for Information About Securing AI Agent Systems
 matched_keywords:
 - AI agent
-- NIST
 - National Institute of Standards and Technology
+- NIST
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-a3aa626752
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # CAISI Issues Request for Information About Securing AI Agent Systems
 
 **Source:** [NIST news (filtered for AI in script)](https://www.nist.gov/news-events/news/2026/01/caisi-issues-request-information-about-securing-ai-agent-systems)
 **Published:** Mon, 12 Jan 2026 12:00:00 +0000
-**Matched keywords (3):** AI agent, NIST, National Institute of Standards and Technology
+**Matched keywords (3):** AI agent, National Institute of Standards and Technology, NIST
 
 ## Summary excerpt
 

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-14-ff988446d0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: g7-2026-la-cnil-accueille-paris-la-table-ronde-des-autorit-s-de-protec
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée

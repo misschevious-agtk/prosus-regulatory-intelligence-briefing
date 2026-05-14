@@ -8,9 +8,9 @@ source_date: Wed, 06 May 2026 19:01:20 +0000
 source_method: rss
 title: 'Jurisdiction-If-We-Win: T-Mobile v. KAIFI and the Gunn Boundary Line'
 matched_keywords:
-- patent
 - Patent
 - Federal Circuit
+- patent
 match_count: 3
 status: candidate
 entities: []
@@ -18,14 +18,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-242e44035b
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Jurisdiction-If-We-Win: T-Mobile v. KAIFI and the Gunn Boundary Line
 
 **Source:** [Patently-O](https://patentlyo.com/patent/2026/05/jurisdiction-if-we-win-t-mobile-v-kaifi-and-the-gunn-boundary-line.html)
 **Published:** Wed, 06 May 2026 19:01:20 +0000
-**Matched keywords (3):** patent, Patent, Federal Circuit
+**Matched keywords (3):** Patent, Federal Circuit, patent
 
 ## Summary excerpt
 

@@ -8,8 +8,8 @@ source_date: Mon, 11 May 2026 15:38:57 +0000
 source_method: rss
 title: Jylo founders offer free consultancy to organisations deploying open source AI
 matched_keywords:
-- Legal IT Insider
 - LegalTech
+- Legal IT Insider
 match_count: 2
 status: candidate
 entities: []
@@ -17,14 +17,14 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-d74d750dbb
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T20:57:31+00:00'
+ranked_at: '2026-05-14T21:14:29+00:00'
 ---
 
 # Jylo founders offer free consultancy to organisations deploying open source AI
 
 **Source:** [Legal IT Insider](https://legaltechnology.com/2026/05/11/jylo-founders-offer-free-consultancy-to-organisations-deploying-open-source-ai/)
 **Published:** Mon, 11 May 2026 15:38:57 +0000
-**Matched keywords (2):** Legal IT Insider, LegalTech
+**Matched keywords (2):** LegalTech, Legal IT Insider
 
 ## Summary excerpt
 

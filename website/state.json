@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-05-14T09:40:13.593626+00:00",
+  "iso_week": "2026-W20",
+  "monitors": {
+    "monitor-01": {
+      "last_finding_at": null,
+      "items_today": 0,
+      "items_this_week": 0,
+      "cold_cells": []
+    },
+    "monitor-02-eu-competition": {
+      "last_finding_at": null,
+      "items_today": 0,
+      "items_this_week": 0,
+      "cold_cells": []
+    }
+  }
+}

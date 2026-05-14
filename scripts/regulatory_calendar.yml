@@ -1,0 +1,106 @@
+# Regulatory Calendar
+#
+# Predictable rhythms of the agencies we watch. Augments the source scanner —
+# instead of only reacting to what landed, the scanner can anticipate what is
+# about to land. Consulted by `regulatory_calendar.py` (helper) and surfaced
+# in the weekly briefing's "Coming up this week" section.
+#
+# Cadence formats:
+#   - weekday:    "wed" | "thu"  | "mon-fri" etc.
+#   - month_day:  "first wednesday of month" | "last thursday of quarter"
+#   - dates:      explicit YYYY-MM-DD list (e.g. for trilogue rounds)
+#
+# The mechanism is deliberately small. The point is to flag windows the
+# operator already knows about, not to model every agency calendar.
+
+agencies:
+  - id: european-commission-college
+    name: "European Commission — College of Commissioners"
+    jurisdiction: EU
+    cadence:
+      weekday: "wed"
+      note: "Most regulatory decisions clear at the Wednesday College. AI Act / DMA / DSA implementing acts usually appear here."
+    affects_monitors: ["monitor-01", "monitor-02-eu-competition"]
+
+  - id: cjeu-ruling-day
+    name: "Court of Justice of the EU — judgment day"
+    jurisdiction: EU
+    cadence:
+      weekday: "thu"
+      note: "Grand Chamber rulings cluster on Thursdays. Advocate-General opinions delivered earlier in the week."
+    affects_monitors: ["monitor-01", "monitor-02-eu-competition"]
+
+  - id: cma-decision-windows
+    name: "CMA — phase-2 merger decision windows"
+    jurisdiction: UK
+    cadence:
+      note: "Phase-2 deadlines are statutory (24 weeks from reference, extendable). Track per-case rather than per-week."
+    affects_monitors: ["monitor-02-eu-competition"]
+
+  - id: ai-act-effective-dates
+    name: "EU AI Act — staged effective dates"
+    jurisdiction: EU
+    cadence:
+      dates:
+        - "2025-02-02"   # Chapter II — prohibited practices
+        - "2025-08-02"   # Chapter V — GPAI obligations
+        - "2026-08-02"   # Chapter III — high-risk AI obligations
+        - "2027-08-02"   # Annex I high-risk obligations
+    affects_monitors: ["monitor-01"]
+
+  - id: dma-compliance-cycles
+    name: "DMA — gatekeeper compliance reports"
+    jurisdiction: EU
+    cadence:
+      note: "Designated gatekeepers file annual compliance reports six months after designation; review windows track that."
+    affects_monitors: ["monitor-02-eu-competition"]
+
+  - id: dsa-transparency-reports
+    name: "DSA — VLOP/VLOSE transparency reports"
+    jurisdiction: EU
+    cadence:
+      note: "Bi-annual transparency reports under Article 15 DSA. Monitor for risk-assessment findings."
+    affects_monitors: ["monitor-02-eu-competition", "monitor-01"]
+
+  - id: edpb-plenary
+    name: "EDPB — plenary meetings"
+    jurisdiction: EU
+    cadence:
+      note: "Monthly plenary. Binding opinions usually announced same week."
+    affects_monitors: ["monitor-01"]
+
+  - id: cci-suo-motu
+    name: "CCI — suo motu investigations and decisions"
+    jurisdiction: IN
+    cadence:
+      note: "No fixed cadence. CCI suo motu activity has been concentrated post-DMA discussions in India; review weekly."
+    affects_monitors: ["monitor-02-eu-competition", "monitor-01"]
+
+  - id: cade-tribunal
+    name: "CADE — Tribunal sessions"
+    jurisdiction: BR
+    cadence:
+      note: "Tribunal meets ~twice per month, typically Wednesdays. iFood TCC monitoring (Rule 11 M02) keys off these."
+    affects_monitors: ["monitor-02-eu-competition"]
+
+  - id: anpd-monthly
+    name: "ANPD — monthly enforcement and guidance"
+    jurisdiction: BR
+    cadence:
+      note: "Quasi-monthly enforcement bulletins. LGPD Art. 20 doctrine (M01 Rule 13) tracks here."
+    affects_monitors: ["monitor-01"]
+
+  - id: samr-anti-monopoly
+    name: "SAMR — anti-monopoly enforcement"
+    jurisdiction: CN
+    cadence:
+      note: "No published cadence. Track per-action; Tencent-attribution rule (Rule 13 M02) is the lens."
+    affects_monitors: ["monitor-02-eu-competition", "monitor-01"]
+
+  - id: ec-trilogue-rounds
+    name: "EU trilogue rounds — active files"
+    jurisdiction: EU
+    cadence:
+      note: "Per-file. Add explicit dates here as Commission, Council, and Parliament publish them."
+      dates: []
+    affects_monitors: ["monitor-01", "monitor-02-eu-competition"]

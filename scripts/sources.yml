@@ -1,0 +1,140 @@
+# RSS feed configuration per domain
+#
+# Format:
+#   monitor-NN/domain-name:
+#     - name: human-readable label
+#       url: RSS feed URL
+#
+# Only free, publicly accessible feeds are listed here. Paid sources (MLex,
+# GCR, PaRR) require API access and go in a separate sources-paid.yml once
+# Prosus subscriptions are confirmed.
+#
+# Feeds verified or commonly available as of 2026-05-13. Some agencies don't
+# publish RSS — for those, HTML scraping or a paid-source aggregator is needed.
+# v0.1 only covers the RSS-available subset; gaps are flagged inline.
+#
+# HTML-only sources are configured in scrape_sources.yml (sibling file),
+# consumed by scrape_articles.py. Both fetchers write to findings/candidates/
+# with the same schema, distinguished by `source_method: rss|scrape`.
+
+# =========================================================
+# Monitor 01 — Regulatory Intelligence
+# =========================================================
+
+monitor-01/ai-news:
+  - name: Anthropic news
+    url: https://www.anthropic.com/news/rss.xml
+  - name: OpenAI blog
+    url: https://openai.com/blog/rss.xml
+  - name: Hugging Face blog
+    url: https://huggingface.co/blog/feed.xml
+  - name: NIST news (filtered for AI in script)
+    url: https://www.nist.gov/news-events/news/rss.xml
+  - name: ICO news
+    url: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/rss/
+  - name: European Commission press
+    url: https://ec.europa.eu/commission/presscorner/api/rss?language=en
+  - name: AI Snake Oil
+    url: https://www.aisnakeoil.com/feed
+  - name: Import AI
+    url: https://importai.substack.com/feed
+
+monitor-01/privacy-data-protection:
+  - name: noyb news
+    url: https://noyb.eu/en/rss.xml
+  - name: CNIL actualités [FR]
+    url: https://www.cnil.fr/fr/feed
+  - name: ICO news
+    url: https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/rss/
+  - name: Garante per la protezione dei dati personali [IT]
+    url: https://www.garanteprivacy.it/rss.xml
+  - name: AEPD news [ES]
+    url: https://www.aepd.es/rss/novedades.xml
+  - name: EDPB news
+    url: https://www.edpb.europa.eu/rss/news_en
+  - name: European Commission press
+    url: https://ec.europa.eu/commission/presscorner/api/rss?language=en
+
+monitor-01/intellectual-property:
+  - name: USPTO news
+    url: https://www.uspto.gov/blog/news.xml
+  - name: WIPO news
+    url: https://www.wipo.int/pressroom/en/rss.xml
+  - name: EUIPO news (HTML — scraping note)
+    url: https://www.euipo.europa.eu/en/news/rss
+  - name: IPKat blog
+    url: https://ipkitten.blogspot.com/feeds/posts/default?alt=rss
+  - name: Patently-O
+    url: https://patentlyo.com/feed
+  - name: Above the Law IP feed
+    url: https://abovethelaw.com/intellectual-property/feed/
+  - name: TechDirt copyright
+    url: https://www.techdirt.com/feed/
+
+monitor-01/legal-ops:
+  - name: LawSites (Bob Ambrogi)
+    url: https://www.lawsitesblog.com/feed
+  - name: Artificial Lawyer
+    url: https://www.artificiallawyer.com/feed/
+  - name: Above the Law
+    url: https://abovethelaw.com/feed/
+  - name: Legal IT Insider
+    url: https://legaltechnology.com/feed/
+  - name: Law.com / Legaltech News
+    url: https://www.law.com/legaltechnews/feed/
+  - name: ABA Journal
+    url: https://www.abajournal.com/feed/
+
+# =========================================================
+# Monitor 02 — Competition Law
+# =========================================================
+
+monitor-02-eu-competition/antitrust-cartels:
+  - name: European Commission press
+    url: https://ec.europa.eu/commission/presscorner/api/rss?language=en
+  - name: CMA news
+    url: https://www.gov.uk/government/organisations/competition-and-markets-authority.atom
+  - name: e-Competitions / Concurrences bulletin
+    url: https://www.concurrences.com/en/bulletin/rss
+  - name: Chillin'Competition
+    url: https://chillingcompetition.com/feed/
+  - name: Kluwer Competition Law Blog
+    url: https://competitionlawblog.kluwercompetitionlaw.com/feed/
+
+monitor-02-eu-competition/abuse-of-dominance:
+  - name: European Commission press
+    url: https://ec.europa.eu/commission/presscorner/api/rss?language=en
+  - name: CMA news
+    url: https://www.gov.uk/government/organisations/competition-and-markets-authority.atom
+  - name: e-Competitions / Concurrences bulletin
+    url: https://www.concurrences.com/en/bulletin/rss
+  - name: Chillin'Competition
+    url: https://chillingcompetition.com/feed/
+  - name: Kluwer Competition Law Blog
+    url: https://competitionlawblog.kluwercompetitionlaw.com/feed/
+
+monitor-02-eu-competition/merger-control-fdi:
+  - name: European Commission press
+    url: https://ec.europa.eu/commission/presscorner/api/rss?language=en
+  - name: CMA news
+    url: https://www.gov.uk/government/organisations/competition-and-markets-authority.atom
+  - name: e-Competitions / Concurrences bulletin
+    url: https://www.concurrences.com/en/bulletin/rss
+  - name: Reuters Legal
+    url: https://www.reuters.com/arc/outboundfeeds/rss/category/legal/?outputType=xml
+  - name: Kluwer Competition Law Blog
+    url: https://competitionlawblog.kluwercompetitionlaw.com/feed/
+
+monitor-02-eu-competition/digital-markets-sector-state-aid:
+  - name: European Commission press
+    url: https://ec.europa.eu/commission/presscorner/api/rss?language=en
+  - name: CMA news
+    url: https://www.gov.uk/government/organisations/competition-and-markets-authority.atom
+  - name: e-Competitions / Concurrences bulletin
+    url: https://www.concurrences.com/en/bulletin/rss
+  - name: TechPolicy.Press
+    url: https://www.techpolicy.press/feed/
+  - name: Bruegel publications
+    url: https://www.bruegel.org/feeds/blogpost.xml
+  - name: CEPS publications
+    url: https://www.ceps.eu/rss/publications/

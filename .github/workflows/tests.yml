@@ -1,0 +1,41 @@
+name: Tests
+
+# Runs on every push and PR. Fast checks only — no network, no model
+# downloads. Heavier validation runs in scrape.yml on the daily cadence.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install minimal deps
+        # bs4 + lxml are needed by test_scrape.py; requests is imported by
+        # scrape_articles.py at module-level so test_scrape.py would fail to
+        # import without it, even though the tests themselves never go online.
+        run: pip install pyyaml jsonschema beautifulsoup4 lxml requests
+
+      - name: Dedup engine golden test
+        run: python scripts/test_dedup.py
+
+      - name: HTML scraper extraction test
+        run: python scripts/test_scrape.py
+
+      - name: Schema validation (committed findings)
+        run: python scripts/validate_findings.py
+
+      - name: Regulatory calendar smoke
+        run: python scripts/regulatory_calendar.py --days 14 > /dev/null

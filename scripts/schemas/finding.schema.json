@@ -1,0 +1,139 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prosus-legal-intelligence-briefing/schemas/finding.schema.json",
+  "title": "Finding frontmatter",
+  "description": "Machine-validated shape of every finding's YAML frontmatter. Mirrors monitors/*/output-schema.md. Per-monitor enumerations differ; the top-level schema dispatches on `monitor` to the per-monitor sub-schema. Note: M01 domain values are the short slugs (`ai-news`, `privacy`, `ip`, `legal-ops`); the folder names under monitors/monitor-01/ are the verbose form (`ai-news`, `privacy-data-protection`, `intellectual-property`, `legal-ops`). The mapping is documented in README.md.",
+  "type": "object",
+  "required": ["monitor", "date_found", "domain", "source_url", "source_publisher", "source_date", "source_type", "one_sentence_summary", "primary_axis", "jurisdiction", "trigger_type", "recommended_action_class", "severity_self_assessment", "severity_justification", "confidence"],
+  "additionalProperties": true,
+  "properties": {
+    "monitor": {
+      "type": "string",
+      "description": "Which monitor produced this finding. Added by the validator/ingester — not in the per-monitor output-schema today but required for cross-monitor tooling.",
+      "enum": ["monitor-01", "monitor-02-eu-competition"]
+    },
+    "date_found": {
+      "type": "string",
+      "format": "date",
+      "description": "YYYY-MM-DD — when the agent surfaced it; may differ from source_date."
+    },
+    "domain": {
+      "type": "string",
+      "description": "Per-monitor domain slug. Validated against the monitor's allowed domains in compute_metrics / validate_findings."
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "source_publisher": { "type": "string", "minLength": 1 },
+    "source_date": { "type": "string", "format": "date" },
+    "source_type": { "type": "string" },
+    "one_sentence_summary": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 400
+    },
+    "primary_axis": { "type": "string" },
+    "secondary_axes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "jurisdiction": { "type": "string" },
+    "trigger_type": { "type": "string" },
+    "deadline_if_any": {
+      "anyOf": [
+        { "type": "string", "format": "date" },
+        { "type": "null" }
+      ]
+    },
+    "affected_systems_or_practices": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "affected_practices_or_deals": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "recommended_action_class": {
+      "type": "string",
+      "enum": ["monitor", "review", "act", "escalate"]
+    },
+    "severity_self_assessment": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "severity_justification": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 400
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["low", "medium", "high"]
+    },
+    "rank": {
+      "description": "Set by the ranker, never by the persona.",
+      "type": "string",
+      "enum": ["A", "B", "C", "D"]
+    },
+    "cluster_id": { "type": "string" },
+    "cluster_role": { "type": "string", "enum": ["canonical", "sibling"] },
+    "cluster_size": { "type": "integer", "minimum": 1 },
+    "cluster_canonical_slug": { "type": "string" },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": { "type": "string" },
+          "type": { "type": "string" },
+          "jurisdiction": { "type": "string" },
+          "matched_alias": { "type": "string" }
+        }
+      }
+    },
+    "case_numbers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["scheme", "citation"],
+        "properties": {
+          "scheme": { "type": "string" },
+          "citation": { "type": "string" }
+        }
+      }
+    },
+    "ranked_at": { "type": "string", "format": "date-time" },
+    "dedup_override": { "type": "boolean" },
+    "dedup_override_reason": { "type": "string" },
+    "primary_monitor": { "type": "string", "enum": ["monitor-01", "monitor-02-eu-competition"] },
+    "cross_reference_to": { "type": "string" }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "monitor": { "const": "monitor-01" } } },
+      "then": {
+        "properties": {
+          "domain": { "enum": ["ai-news", "privacy", "ip", "legal-ops"] },
+          "source_type": { "enum": ["primary-law", "court-ruling", "regulator-guidance", "enforcement-action", "vendor-announcement", "trade-press", "academic", "marketing", "other"] },
+          "primary_axis": { "enum": ["compliance", "liability", "movement", "operational", "reputational"] },
+          "trigger_type": { "enum": ["law_enacted", "law_effective_date", "enforcement_action", "court_ruling", "regulator_guidance", "model_release", "capability_demo", "vendor_change", "breach_incident", "license_event", "market_move", "narrative_shift", "tooling_change", "workflow_benchmark"] }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "monitor": { "const": "monitor-02-eu-competition" } } },
+      "then": {
+        "properties": {
+          "domain": { "enum": ["antitrust-cartels", "abuse-of-dominance", "merger-control-fdi", "digital-markets-sector-state-aid"] },
+          "source_type": { "enum": ["commission-decision", "nca-decision", "court-judgment", "ag-opinion", "statement-of-objections", "settlement", "guidance", "speech", "market-investigation", "sector-inquiry", "trade-press", "academic", "vendor-announcement", "marketing", "other"] },
+          "primary_axis": { "enum": ["enforcement-risk", "transaction-risk", "compliance", "strategic-opportunity", "sector-regulation", "reputational"] },
+          "trigger_type": { "enum": ["final_decision", "interim_decision", "statement_of_objections", "settlement", "court_ruling", "ag_opinion", "guidance_published", "threshold_change", "designation", "sector_inquiry_opened", "sector_inquiry_concluded", "dawn_raid_pattern", "leniency_change", "remedy_precedent", "market_move", "narrative_shift"] }
+        }
+      }
+    }
+  ]
+}

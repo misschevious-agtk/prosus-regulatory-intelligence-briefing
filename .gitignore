@@ -1,0 +1,47 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+credentials/
+
+# Build artefacts
+node_modules/
+dist/
+build/
+.cache/
+.netlify/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local-only working files
+.scratch/
+.notes-local/
+__pycache__/
+
+# Confidentiality — never commit
+# Real watchlist may contain matter codes that are themselves privileged.
+scripts/confidential_watchlist.yml
+# Quarantine folder holds redacted stubs + an audit log only — but we keep
+# everything in this tree out of git on principle so nothing slips in.
+findings/_confidential/
+
+# Note: website/state.json is intentionally NOT gitignored — Netlify deploys
+# what's in git, so the hub's freshness pulse needs state.json committed.
+# The scrape workflow runs compute_metrics.py and commits state.json on each
+# cycle. If diff noise becomes a problem, switch to a Netlify build step.

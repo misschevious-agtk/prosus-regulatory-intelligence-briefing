@@ -1,0 +1,58 @@
+# Confidential Watchlist — EXAMPLE
+#
+# Real list lives at scripts/confidential_watchlist.yml which is .gitignore-d.
+# Copy this file to that name and fill it in. Anything matching these patterns
+# is quarantined before it lands in findings/candidates/.
+#
+# The point is to prevent privileged or leniency-track content from ever
+# touching git or Netlify — even in a private repo, accidental check-in of
+# retained-counsel correspondence keywords is a one-bad-day problem.
+#
+# Three kinds of matchers:
+#   matter_codes:   internal case identifiers; any candidate body or URL
+#                   containing one is quarantined.
+#   keyword_phrases: free-text phrases (case-insensitive substring match)
+#                   that signal privileged or otherwise excluded content.
+#   sender_emails:  email addresses whose alerts must never be ingested
+#                   even if they slip past the Gmail filter.
+#
+# Quarantined items go to findings/_confidential/YYYY-MM-DD/ as opaque stubs
+# (path + sha256 hash) so the operator can audit volume without reading
+# content. The actual teaser is dropped.
+
+matter_codes:
+  # Example only — replace with real internal identifiers:
+  - "MAT-2024-iFood-Leniency"
+  - "MAT-2025-DH-Divest-Trustee"
+  - "MAT-2025-CADE-Workstream-B"
+
+keyword_phrases:
+  # Generic leniency / privilege markers — leave these in, they're safe defaults.
+  - "leniency application"
+  - "leniency track"
+  - "amnesty plus"
+  - "settlement track"
+  - "privileged and confidential"
+  - "attorney-client privileged"
+  - "litigation privilege"
+  - "common interest privilege"
+  - "without prejudice"
+  - "trustee monitor confidential"
+
+  # Operator-added matter-specific phrases go here:
+  # - "Project [redacted-codename]"
+  # - "Case-team only"
+
+sender_emails:
+  # Retained-counsel newsletter addresses or partners that should never feed
+  # the briefing system (their alerts often quote privileged work product).
+  # Example:
+  # - "newsletter@retained-firm-1.com"
+  # - "alerts@retained-firm-2.com"
+  []
+
+# What to do on match.
+on_match:
+  action: quarantine       # quarantine | drop | flag_only
+  quarantine_dir: findings/_confidential
+  audit_log: findings/_confidential/_audit-log.jsonl

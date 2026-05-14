@@ -1,0 +1,251 @@
+# Entity gazetteer used by lib_entities.py
+#
+# Each entry shape:
+#   - name:        canonical display name (what gets written into the finding)
+#   - type:        regulator | court | company | bigtech | financial_regulator
+#   - jurisdiction: ISO-like code; "EU" / "INT" for supranational; "BR", "IN" etc.
+#   - aliases:     alternative strings to match against the candidate's text.
+#                  Acronyms must be standalone words (matcher enforces word-boundary
+#                  for tokens ≤ 8 chars), so don't worry about "EU" matching inside
+#                  "Eulerian" — that's handled in code.
+#
+# Prosus portfolio companies are NOT listed here. They're parsed at runtime from
+# portfolios.md so this gazetteer stays Prosus-agnostic (and any team that forks
+# the architecture can drop in their own portfolio without editing this file).
+
+# =====================================================================
+# Competition regulators
+# =====================================================================
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  aliases: ["European Commission", "EC", "DG COMP", "DG Competition",
+            "Directorate-General for Competition"]
+- name: Court of Justice of the European Union
+  type: court
+  jurisdiction: EU
+  aliases: ["CJEU", "Court of Justice", "ECJ", "European Court of Justice"]
+- name: General Court of the European Union
+  type: court
+  jurisdiction: EU
+  aliases: ["General Court", "EU General Court", "GCEU"]
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  aliases: ["CMA", "Competition and Markets Authority", "CMA's DMU",
+            "Digital Markets Unit"]
+- name: Competition Appeal Tribunal
+  type: court
+  jurisdiction: UK
+  aliases: ["CAT", "Competition Appeal Tribunal"]
+- name: Bundeskartellamt
+  type: regulator
+  jurisdiction: DE
+  aliases: ["Bundeskartellamt", "BKartA", "Federal Cartel Office"]
+- name: Autorité de la concurrence
+  type: regulator
+  jurisdiction: FR
+  aliases: ["Autorité de la concurrence", "AdlC", "French Competition Authority"]
+- name: Autorità Garante della Concorrenza e del Mercato
+  type: regulator
+  jurisdiction: IT
+  aliases: ["AGCM", "Autorità Garante della Concorrenza", "Italian Competition Authority"]
+- name: Autoriteit Consument & Markt
+  type: regulator
+  jurisdiction: NL
+  aliases: ["ACM", "Autoriteit Consument", "Dutch ACM",
+            "Netherlands Authority for Consumers and Markets"]
+- name: Comisión Nacional de los Mercados y la Competencia
+  type: regulator
+  jurisdiction: ES
+  aliases: ["CNMC", "Comisión Nacional de los Mercados"]
+- name: Department of Justice
+  type: regulator
+  jurisdiction: US
+  aliases: ["DOJ", "Antitrust Division", "Department of Justice Antitrust"]
+- name: Federal Trade Commission
+  type: regulator
+  jurisdiction: US
+  aliases: ["FTC", "Federal Trade Commission"]
+- name: Conselho Administrativo de Defesa Econômica
+  type: regulator
+  jurisdiction: BR
+  aliases: ["CADE", "Conselho Administrativo de Defesa"]
+- name: Competition Commission of India
+  type: regulator
+  jurisdiction: IN
+  aliases: ["CCI", "Competition Commission of India"]
+- name: State Administration for Market Regulation
+  type: regulator
+  jurisdiction: CN
+  aliases: ["SAMR", "State Administration for Market Regulation"]
+- name: Korea Fair Trade Commission
+  type: regulator
+  jurisdiction: KR
+  aliases: ["KFTC", "Korea Fair Trade Commission"]
+- name: Japan Fair Trade Commission
+  type: regulator
+  jurisdiction: JP
+  aliases: ["JFTC", "Japan Fair Trade Commission"]
+- name: Australian Competition and Consumer Commission
+  type: regulator
+  jurisdiction: AU
+  aliases: ["ACCC", "Australian Competition and Consumer Commission"]
+- name: Competition Commission of South Africa
+  type: regulator
+  jurisdiction: ZA
+  aliases: ["South African Competition Commission", "SACC",
+            "Competition Commission South Africa"]
+
+# =====================================================================
+# Data protection regulators
+# =====================================================================
+- name: European Data Protection Board
+  type: regulator
+  jurisdiction: EU
+  aliases: ["EDPB", "European Data Protection Board"]
+- name: Commission Nationale de l'Informatique et des Libertés
+  type: regulator
+  jurisdiction: FR
+  aliases: ["CNIL", "Commission Nationale de l'Informatique"]
+- name: Information Commissioner's Office
+  type: regulator
+  jurisdiction: UK
+  aliases: ["ICO", "Information Commissioner"]
+- name: Bundesbeauftragte für den Datenschutz
+  type: regulator
+  jurisdiction: DE
+  aliases: ["BfDI", "Bundesbeauftragte für den Datenschutz"]
+- name: Garante per la protezione dei dati personali
+  type: regulator
+  jurisdiction: IT
+  aliases: ["Garante", "Garante per la protezione dei dati"]
+- name: Agencia Española de Protección de Datos
+  type: regulator
+  jurisdiction: ES
+  aliases: ["AEPD", "Agencia Española de Protección de Datos"]
+- name: Autoriteit Persoonsgegevens
+  type: regulator
+  jurisdiction: NL
+  aliases: ["AP", "Autoriteit Persoonsgegevens", "Dutch DPA"]
+- name: Autoridade Nacional de Proteção de Dados
+  type: regulator
+  jurisdiction: BR
+  aliases: ["ANPD", "Autoridade Nacional de Proteção de Dados"]
+
+# =====================================================================
+# IP offices and courts
+# =====================================================================
+- name: European Union Intellectual Property Office
+  type: regulator
+  jurisdiction: EU
+  aliases: ["EUIPO", "EU Intellectual Property Office"]
+- name: European Patent Office
+  type: regulator
+  jurisdiction: EU
+  aliases: ["EPO", "European Patent Office"]
+- name: Unified Patent Court
+  type: court
+  jurisdiction: EU
+  aliases: ["UPC", "Unified Patent Court"]
+- name: United States Patent and Trademark Office
+  type: regulator
+  jurisdiction: US
+  aliases: ["USPTO", "United States Patent and Trademark Office"]
+- name: World Intellectual Property Organization
+  type: regulator
+  jurisdiction: INT
+  aliases: ["WIPO", "World Intellectual Property Organization"]
+
+# =====================================================================
+# Financial regulators (relevant for PayU, iyzico, Remitly)
+# =====================================================================
+- name: European Central Bank
+  type: financial_regulator
+  jurisdiction: EU
+  aliases: ["ECB", "European Central Bank"]
+- name: European Banking Authority
+  type: financial_regulator
+  jurisdiction: EU
+  aliases: ["EBA", "European Banking Authority"]
+- name: Financial Conduct Authority
+  type: financial_regulator
+  jurisdiction: UK
+  aliases: ["FCA", "Financial Conduct Authority"]
+- name: Reserve Bank of India
+  type: financial_regulator
+  jurisdiction: IN
+  aliases: ["RBI", "Reserve Bank of India"]
+- name: Banco Central do Brasil
+  type: financial_regulator
+  jurisdiction: BR
+  aliases: ["BCB", "Banco Central do Brasil"]
+
+# =====================================================================
+# Big Tech and platform incumbents
+# =====================================================================
+- name: Apple Inc.
+  type: bigtech
+  jurisdiction: US
+  aliases: ["Apple Inc", "Apple Inc.", "Apple's App Store", "Apple App Store",
+            "Cupertino"]
+- name: Alphabet / Google
+  type: bigtech
+  jurisdiction: US
+  aliases: ["Google", "Alphabet", "Google LLC", "Google Ireland",
+            "Google Play", "YouTube"]
+- name: Meta Platforms
+  type: bigtech
+  jurisdiction: US
+  aliases: ["Meta Platforms", "Meta Inc", "Meta Inc.", "Facebook",
+            "Instagram", "WhatsApp"]
+- name: Amazon
+  type: bigtech
+  jurisdiction: US
+  aliases: ["Amazon.com", "Amazon Inc", "AWS", "Amazon Web Services",
+            "Amazon Marketplace"]
+- name: Microsoft Corporation
+  type: bigtech
+  jurisdiction: US
+  aliases: ["Microsoft Corp", "Microsoft Corporation", "Microsoft Azure",
+            "GitHub"]
+- name: ByteDance / TikTok
+  type: bigtech
+  jurisdiction: CN
+  aliases: ["ByteDance", "TikTok"]
+- name: X Corp.
+  type: bigtech
+  jurisdiction: US
+  aliases: ["X Corp", "X Corp.", "Twitter Inc", "Twitter Inc."]
+- name: Booking Holdings
+  type: bigtech
+  jurisdiction: US
+  aliases: ["Booking Holdings", "Booking.com"]
+- name: Snap Inc.
+  type: bigtech
+  jurisdiction: US
+  aliases: ["Snap Inc", "Snap Inc.", "Snapchat"]
+- name: Spotify
+  type: bigtech
+  jurisdiction: SE
+  aliases: ["Spotify Technology", "Spotify SA"]
+
+# =====================================================================
+# AI labs (for AI policy / IP cross-cuts)
+# =====================================================================
+- name: OpenAI
+  type: company
+  jurisdiction: US
+  aliases: ["OpenAI", "OpenAI LP", "OpenAI Inc"]
+- name: Anthropic
+  type: company
+  jurisdiction: US
+  aliases: ["Anthropic", "Anthropic PBC"]
+- name: Mistral AI
+  type: company
+  jurisdiction: FR
+  aliases: ["Mistral AI", "Mistral"]
+- name: NVIDIA
+  type: bigtech
+  jurisdiction: US
+  aliases: ["NVIDIA Corporation", "NVIDIA Corp"]

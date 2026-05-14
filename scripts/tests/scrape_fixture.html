@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!-- Fixture for test_scrape.py. Simulates a typical agency press-list page
+     so the scraper extraction logic can be exercised offline. Do not change
+     the markup without updating the test expectations. -->
+<html lang="en">
+<head><title>Fixture — Competition Authority Press Releases</title></head>
+<body>
+  <main>
+    <h1>Press releases</h1>
+    <ul class="press-list">
+      <li class="press-item">
+        <h3><a href="/press/2026/dma-non-compliance-decision">DMA non-compliance decision against Designated Gatekeeper X</a></h3>
+        <time datetime="2026-05-12">12 May 2026</time>
+        <p class="summary">The Commission today adopted a non-compliance decision under the Digital Markets Act, finding that the gatekeeper failed to comply with self-preferencing obligations.</p>
+      </li>
+      <li class="press-item">
+        <h3><a href="https://example.org/press/2026/merger-clearance">Merger clearance: Acquirer/Target — conditional approval with divestiture</a></h3>
+        <time datetime="2026-05-10">10 May 2026</time>
+        <p class="summary">The merger control authority cleared the acquisition subject to behavioural remedies and a divestiture commitment.</p>
+      </li>
+      <li class="press-item">
+        <h3><a href="/press/2026/unrelated-procurement">Public procurement notice — office supplies</a></h3>
+        <time datetime="2026-05-09">9 May 2026</time>
+        <p class="summary">Notice of an open tender for office supplies. Not relevant to competition matters.</p>
+      </li>
+    </ul>
+  </main>
+</body>
+</html>

@@ -1,0 +1,119 @@
+name: Article scrape
+
+# Runs the scraper on a schedule and commits new candidate findings back to
+# the repo. Netlify auto-deploys on commit so candidates appear on the site
+# within a minute or two of each successful run.
+#
+# Cadences are calibrated coarsely for v0.1 — single daily run hitting all
+# eight domains. Per-domain cadences from operating-preferences.md are the
+# v0.2 target (one workflow per cadence: daily / twice-weekly / weekly).
+#
+# Three ingest paths, same output folder (findings/candidates/):
+#   1. fetch_articles.py  — free RSS feeds (sources.yml)
+#   2. scrape_articles.py — free HTML pages without RSS (scrape_sources.yml)
+#                           e.g. EUIPO, DG COMP merger cases, DMA hub, UPC
+#   3. ingest_email.py    — alert emails landing in a dedicated Gmail inbox
+#                           (myFT, MLex, subscribed law firm newsletters)
+#                           configured in email_sources.yml
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # daily at 07:00 UTC
+  workflow_dispatch: {}   # manual trigger via the Actions UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # required to commit candidates back to the repo
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch articles (RSS)
+        run: python scripts/fetch_articles.py
+
+      - name: Scrape articles (HTML — sites without RSS)
+        # Static-HTML scraper for regulator pages that don't publish a feed.
+        # Soft-fail: if one site's selectors drift, the rest of the pipeline
+        # should still commit candidates from fetch_articles.py and email.
+        continue-on-error: true
+        run: python scripts/scrape_articles.py
+
+      - name: Ingest email alerts (myFT, MLex, law firm newsletters)
+        # Don't fail the whole workflow if Gmail blips — RSS candidates from
+        # the previous step should still get committed. The script itself
+        # already exits 0 when GMAIL_USER / GMAIL_APP_PASSWORD are unset, so
+        # this also no-ops cleanly until the secrets are configured.
+        continue-on-error: true
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python scripts/ingest_email.py
+
+      - name: Cache fastembed model
+        uses: actions/cache@v4
+        with:
+          # fastembed downloads ONNX weights under ~/.cache/fastembed.
+          # Cold start is ~5sec to fetch BAAI/bge-small-en-v1.5 (~33MB);
+          # caching cuts subsequent runs to ~1sec.
+          path: ~/.cache/fastembed
+          key: fastembed-bge-small-en-v1.5
+
+      - name: Rank and cluster candidates
+        # Entity tagging + clustering pass. Reads everything in
+        # findings/candidates/ within the working window (default 7 days),
+        # writes enrichment back into each candidate's frontmatter, and
+        # emits findings/clusters/YYYY-MM-DD.json. Idempotent.
+        continue-on-error: true
+        run: python scripts/rank_candidates.py
+
+      - name: Validate findings against the schema
+        # JSON Schema check on every finding frontmatter. Soft-fail so a
+        # malformed finding doesn't block the rest of the pipeline.
+        continue-on-error: true
+        run: python scripts/validate_findings.py --candidates
+
+      - name: Escalate top-rank findings
+        # Out-of-band channel for Rank A + named OpCo + <24h items, persona
+        # escalation flags, breach incidents, and dawn-raid patterns.
+        # Reads optional secrets — silently no-ops if not configured.
+        continue-on-error: true
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ESCALATE_EMAIL_TO: ${{ secrets.ESCALATE_EMAIL_TO }}
+          ESCALATE_SLACK_WEBHOOK: ${{ secrets.ESCALATE_SLACK_WEBHOOK }}
+          ESCALATE_TEAMS_WEBHOOK: ${{ secrets.ESCALATE_TEAMS_WEBHOOK }}
+        run: python scripts/escalate.py
+
+      - name: Compute metrics + hub state
+        # Emits metrics/state-of-the-monitors-YYYY-WNN.md (weekly) and
+        # website/state.json (every run — the hub's freshness pulse).
+        # First-of-month also emits metrics/coverage-health-YYYY-MM.md.
+        run: |
+          if [ "$(date -u +%d)" = "01" ]; then
+            python scripts/compute_metrics.py --coverage
+          else
+            python scripts/compute_metrics.py
+          fi
+
+      - name: Commit candidates, escalations, metrics, hub state
+        run: |
+          git config user.name "Article Scraper Bot"
+          git config user.email "scraper@noreply.local"
+          git add findings/candidates/ findings/clusters/ findings/escalations/ metrics/ website/state.json
+          if git diff --cached --quiet; then
+            echo "No new candidates today."
+          else
+            git commit -m "Scrape: $(date -u +%Y-%m-%d)"
+            git push
+          fi

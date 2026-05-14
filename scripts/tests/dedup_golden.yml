@@ -1,0 +1,179 @@
+# Dedup engine — golden test cases
+#
+# Each case has:
+#   id          : stable identifier
+#   description : one-line summary
+#   item        : minimal candidate frontmatter (jurisdiction, trigger_type,
+#                 primary_axis, source_type, affected_systems_or_practices,
+#                 named entities)
+#   expected:
+#     primary_monitor : monitor-01 | monitor-02-eu-competition
+#     primary_domain  : domain slug
+#     secondary       : list of {monitor, domain} cross-references (may be empty)
+#     rationale       : free text, kept for human review only
+#
+# Run:    python scripts/test_dedup.py
+# Add:    new cases here when a real-world filing surprises the operator.
+
+cases:
+  - id: cma-ai-foundation-models
+    description: "CMA AI Foundation Models work — UK competition authority on AI foundation models"
+    item:
+      jurisdiction: UK
+      trigger_type: market_investigation
+      primary_axis: sector-regulation
+      source_type: market-investigation
+      named_entities: ["CMA", "AI Foundation Models"]
+      affected_systems_or_practices: ["LCM", "Toqan", "Foundation Models", "sector regulation"]
+    expected:
+      primary_monitor: monitor-01
+      primary_domain: ai-news
+      secondary:
+        - monitor: monitor-02-eu-competition
+          domain: digital-markets-sector-state-aid
+      rationale: "AI doctrine is the substantive centre of gravity (Foundation Models triggers M01 override); competition authority is the institutional shell, creating M02 sector-regulation read-through."
+
+  - id: ai-act-competition-provisions
+    description: "EU AI Act competition-policy provisions"
+    item:
+      jurisdiction: EU
+      trigger_type: law_enacted
+      primary_axis: compliance
+      source_type: primary-law
+      named_entities: ["EU AI Act"]
+      affected_systems_or_practices: ["LCM", "GPAI", "Foundation Models", "abuse of dominance read-through"]
+    expected:
+      primary_monitor: monitor-01
+      primary_domain: ai-news
+      secondary:
+        - monitor: monitor-02-eu-competition
+          domain: digital-markets-sector-state-aid
+        - monitor: monitor-02-eu-competition
+          domain: abuse-of-dominance
+      rationale: "AI Act is M01 primary; competition-policy provisions create M02 read-through. Doctrine markers carried in affected_systems_or_practices."
+
+  - id: cade-ifood-tcc-horizontal-and-data
+    description: "CADE iFood TCC enforcement combining horizontal restraint and personal data theories"
+    item:
+      jurisdiction: BR
+      trigger_type: settlement
+      primary_axis: enforcement-risk
+      source_type: nca-decision
+      named_entities: ["CADE", "iFood"]
+      affected_systems_or_practices: ["iFood TCC", "personal data theory"]
+    expected:
+      primary_monitor: monitor-02-eu-competition
+      primary_domain: antitrust-cartels
+      secondary:
+        - monitor: monitor-01
+          domain: privacy
+      rationale: "Rule 11 (M02) is on the iFood TCC line. Personal-data theory marker creates M01 Privacy read-through."
+
+  - id: dma-gatekeeper-designation-meta
+    description: "DMA gatekeeper designation of Meta — Prosus is business user"
+    item:
+      jurisdiction: EU
+      trigger_type: designation
+      primary_axis: sector-regulation
+      source_type: commission-decision
+      named_entities: ["European Commission", "Meta"]
+      affected_systems_or_practices: ["OLX advertising spend", "iFood ad spend"]
+    expected:
+      primary_monitor: monitor-02-eu-competition
+      primary_domain: digital-markets-sector-state-aid
+      secondary: []
+      rationale: "Pure DMA designation. M01 read-through only if AI obligations triggered later."
+
+  - id: anpd-ifood-recommender-enforcement
+    description: "ANPD enforcement action against iFood recommender system under LGPD Art. 20"
+    item:
+      jurisdiction: BR
+      trigger_type: enforcement_action
+      primary_axis: liability
+      source_type: enforcement-action
+      named_entities: ["ANPD", "iFood"]
+      affected_systems_or_practices: ["LCM", "iFood recommender", "recommender-as-abuse theory"]
+    expected:
+      primary_monitor: monitor-01
+      primary_domain: privacy
+      secondary:
+        - monitor: monitor-02-eu-competition
+          domain: abuse-of-dominance
+      rationale: "ADM doctrine creep is M01 Privacy Rule 13. Recommender-as-abuse theory marker creates M02 read-through (Rule 12)."
+
+  - id: samr-tencent-competition-guidance
+    description: "SAMR guidance affecting Tencent competition compliance posture, with AI practice carve-out"
+    item:
+      jurisdiction: CN
+      trigger_type: guidance_published
+      primary_axis: enforcement-risk
+      source_type: guidance
+      named_entities: ["SAMR", "Tencent"]
+      affected_systems_or_practices: ["Tencent NAV exposure", "AI Act read-through", "frontier model"]
+    expected:
+      primary_monitor: monitor-02-eu-competition
+      primary_domain: abuse-of-dominance
+      secondary:
+        - monitor: monitor-01
+          domain: ai-news
+      rationale: "Rule 13 (M02) — Tencent SAMR competition exposure is primary. AI practice carve-out creates M01 AI News read-through."
+
+  - id: cjeu-ai-training-copyright
+    description: "CJEU ruling on AI training-data copyright"
+    item:
+      jurisdiction: EU
+      trigger_type: court_ruling
+      primary_axis: liability
+      source_type: court-ruling
+      named_entities: ["CJEU"]
+      affected_systems_or_practices: ["LCM training pipeline", "copyright", "training-data"]
+    expected:
+      primary_monitor: monitor-01
+      primary_domain: ip
+      secondary: []
+      rationale: "Pure IP doctrine. Copyright + training-data markers route to IP. M02 read-through only if competition-policy carve-out attached."
+
+  - id: dg-comp-mfn-platform-parity
+    description: "DG COMP final decision shifting MFN/parity doctrine"
+    item:
+      jurisdiction: EU
+      trigger_type: final_decision
+      primary_axis: enforcement-risk
+      source_type: commission-decision
+      named_entities: ["DG COMP", "MFN"]
+      affected_systems_or_practices: ["Despegar supplier contracts", "iFood pricing", "MFN", "parity clause"]
+    expected:
+      primary_monitor: monitor-02-eu-competition
+      primary_domain: antitrust-cartels
+      secondary: []
+      rationale: "Rule 10 (M02) auto-rank. MFN / parity doctrine markers route to antitrust-cartels rather than digital-markets."
+
+  - id: anthropic-tos-narrowing-indemnity
+    description: "Anthropic narrows training-data IP indemnity in ToS"
+    item:
+      jurisdiction: global
+      trigger_type: vendor_change
+      primary_axis: liability
+      source_type: vendor-announcement
+      named_entities: ["Anthropic"]
+      affected_systems_or_practices: ["LCM", "Toqan", "indemnity", "training-data"]
+    expected:
+      primary_monitor: monitor-01
+      primary_domain: ip
+      secondary: []
+      rationale: "Rule 16 (M01) — vendor IP indemnity narrowing. IP doctrine markers (indemnity, training-data) route to IP not AI News."
+
+  - id: cma-sms-designation-google
+    description: "CMA SMS designation of Google — UK conduct requirements"
+    item:
+      jurisdiction: UK
+      trigger_type: designation
+      primary_axis: sector-regulation
+      source_type: nca-decision
+      named_entities: ["CMA", "Google"]
+      affected_systems_or_practices: ["OLX search spend", "JET search spend"]
+    expected:
+      primary_monitor: monitor-02-eu-competition
+      primary_domain: digital-markets-sector-state-aid
+      secondary: []
+      rationale: "Rule 18 (M02) — UK SMS designation. AI obligations not yet triggered; M01 read-through optional."

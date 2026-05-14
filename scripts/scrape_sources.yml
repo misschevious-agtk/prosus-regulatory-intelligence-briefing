@@ -1,0 +1,169 @@
+# HTML-scrape source configuration per domain
+#
+# Sibling of sources.yml. Used by scrape_articles.py for sites that don't
+# publish RSS. Keys are identical to sources.yml (`monitor-NN/domain`) so
+# adding a new monitor automatically picks up both fetchers.
+#
+# Schema (v0.1, minimal):
+#
+#   monitor-NN/domain:
+#     - name: human label
+#       list_url: https://example.com/news       # the page that LISTS items
+#       list_selector: "div.news-item"           # CSS selector for each item
+#       item:
+#         title_selector: "h2 a"                 # text -> title
+#         url_selector: "h2 a"                   # @href -> link (default attr)
+#         url_attr: href                         # optional, default 'href'
+#         date_selector: "time"                  # text or @date_attr -> published
+#         date_attr: "datetime"                  # optional, if date is in attr
+#         summary_selector: "p.summary"          # text -> summary (optional)
+#       base_url: https://example.com            # resolves relative links
+#       rate_limit_seconds: 2                    # pause between requests
+#       max_items: 30                            # cap per list page
+#       disabled: false                          # set true to stage without running
+#
+# **Seeded 2026-05-14** from the HTML-only audit. Selectors marked TODO need
+# verification — the agency may have changed its markup since the last check.
+# Anything that requires JavaScript rendering is left `disabled: true` with a
+# note; v0.1 of scrape_articles.py is static-HTML only.
+
+# =========================================================
+# Monitor 01 — Regulatory Intelligence
+# =========================================================
+
+monitor-01/ai-news:
+  - name: UK AI Security Institute (AISI) news
+    list_url: https://www.aisi.gov.uk/news
+    list_selector: "article, .news-item, li.news"
+    item:
+      title_selector: "h2, h3, .title"
+      url_selector: "a"
+      date_selector: "time"
+      date_attr: "datetime"
+      summary_selector: "p, .excerpt"
+    base_url: https://www.aisi.gov.uk
+    rate_limit_seconds: 3
+    max_items: 25
+    disabled: true  # TODO: verify selectors against live page before enabling
+
+  - name: EU AI Office news
+    list_url: https://digital-strategy.ec.europa.eu/en/policies/ai-office
+    list_selector: ".ecl-content-item, article, .news-list-item"
+    item:
+      title_selector: "h2 a, h3 a, .ecl-content-item__title a"
+      url_selector: "h2 a, h3 a, .ecl-content-item__title a"
+      date_selector: "time"
+      date_attr: "datetime"
+      summary_selector: ".ecl-content-item__description, p"
+    base_url: https://digital-strategy.ec.europa.eu
+    rate_limit_seconds: 3
+    max_items: 25
+    disabled: true  # TODO: EC sites use ECL components; selectors need verification
+
+monitor-01/privacy-data-protection:
+  - name: EDPB binding decisions
+    list_url: https://www.edpb.europa.eu/our-work-tools/consistency-findings/binding-decisions_en
+    list_selector: ".views-row, article.node"
+    item:
+      title_selector: "h2 a, h3 a, .node__title a"
+      url_selector: "h2 a, h3 a, .node__title a"
+      date_selector: "time, .date-display-single"
+      date_attr: "datetime"
+      summary_selector: ".field--name-field-summary, p"
+    base_url: https://www.edpb.europa.eu
+    rate_limit_seconds: 3
+    max_items: 30
+    disabled: true  # TODO: verify EDPB Drupal selectors
+
+monitor-01/intellectual-property:
+  - name: EUIPO news
+    list_url: https://www.euipo.europa.eu/en/news
+    list_selector: ".news-card, article, .o-list-news__item"
+    item:
+      title_selector: "h2, h3, .o-news-card__title"
+      url_selector: "a"
+      date_selector: "time, .o-news-card__date"
+      date_attr: "datetime"
+      summary_selector: ".o-news-card__summary, p"
+    base_url: https://www.euipo.europa.eu
+    rate_limit_seconds: 3
+    max_items: 30
+    disabled: true  # TODO: verify selectors
+
+  - name: Unified Patent Court — decisions and news
+    list_url: https://www.unified-patent-court.org/en/news
+    list_selector: ".views-row, article"
+    item:
+      title_selector: "h2 a, h3 a"
+      url_selector: "h2 a, h3 a"
+      date_selector: "time, .date-display-single"
+      date_attr: "datetime"
+      summary_selector: ".field--name-body p, p"
+    base_url: https://www.unified-patent-court.org
+    rate_limit_seconds: 3
+    max_items: 30
+    disabled: true  # TODO: verify UPC site structure
+
+# =========================================================
+# Monitor 02 — Competition Law
+# =========================================================
+
+monitor-02-eu-competition/digital-markets-sector-state-aid:
+  - name: DMA enforcement hub
+    list_url: https://digital-markets-act.ec.europa.eu/news_en
+    list_selector: ".ecl-content-item, article.node"
+    item:
+      title_selector: "h2 a, h3 a, .ecl-content-item__title a"
+      url_selector: "h2 a, h3 a, .ecl-content-item__title a"
+      date_selector: "time"
+      date_attr: "datetime"
+      summary_selector: ".ecl-content-item__description, p"
+    base_url: https://digital-markets-act.ec.europa.eu
+    rate_limit_seconds: 3
+    max_items: 30
+    disabled: true  # TODO: verify ECL selectors
+
+monitor-02-eu-competition/merger-control-fdi:
+  - name: DG COMP merger cases (latest)
+    list_url: https://competition-cases.ec.europa.eu/search?caseInstrument=MERGR&sortBy=PublicationDate&sortType=DESC
+    list_selector: ".case-list-item, article, tr.case-row"
+    item:
+      title_selector: ".case-title, h3 a, td.title a"
+      url_selector: ".case-title a, h3 a, td.title a"
+      date_selector: ".case-date, td.date, time"
+      date_attr: "datetime"
+      summary_selector: ".case-summary, td.summary"
+    base_url: https://competition-cases.ec.europa.eu
+    rate_limit_seconds: 4
+    max_items: 25
+    disabled: true  # NOTE: DG COMP cases search may need JS rendering. Verify
+                    # static-HTML viability before enabling; if JS-required,
+                    # file a follow-up to add Playwright support.
+
+monitor-02-eu-competition/abuse-of-dominance:
+  - name: CJEU / General Court press releases (Curia)
+    list_url: https://curia.europa.eu/jcms/jcms/Jo2_7052/en/
+    list_selector: "li, .press-release, .item"
+    item:
+      title_selector: "a"
+      url_selector: "a"
+      date_selector: ".date, time"
+      summary_selector: ".summary, p"
+    base_url: https://curia.europa.eu
+    rate_limit_seconds: 4
+    max_items: 30
+    disabled: true  # TODO: Curia's press archive structure varies; verify
+
+# =========================================================
+# Notes for future-monitor authors
+# =========================================================
+# 1. When adding a new HTML source, set `disabled: true` first and verify
+#    selectors against the live page (browser DevTools -> Copy selector).
+# 2. The User-Agent identifies us as Prosus Legal Intelligence Briefing with
+#    Klimentina's email — keep this contactable. Agencies will block or
+#    rate-limit unidentified scrapers.
+# 3. If a site requires JavaScript rendering (SPA, infinite scroll, search
+#    forms), v0.1 cannot handle it. File a strategy.md PR proposing
+#    Playwright support before adding such sources.
+# 4. Paid sources (MLex, GCR, PaRR) belong in scrape_sources-paid.yml or a
+#    dedicated API client, NOT here. This file is for free public HTML only.

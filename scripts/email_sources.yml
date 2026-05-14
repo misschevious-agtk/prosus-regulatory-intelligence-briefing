@@ -1,0 +1,98 @@
+# Email alert ingestion configuration
+#
+# Companion to sources.yml (RSS feeds). This file maps the From: address (or
+# substring of it) of each alert email to a parser hint and a default
+# monitor/domain. The actual monitor/domain a given alert lands in is decided
+# at runtime: ingest_email.py runs the headline + teaser through every
+# domain's keywords.md and picks the best match; the `default` block below is
+# the fallback for the rare case where no keyword matches.
+#
+# Format:
+#   mailbox:           Gmail mailbox to read from. "INBOX" is usually right.
+#   processed_label:   Gmail label applied to messages after a successful
+#                      ingest. Create this label once in Gmail.
+#   senders:           list of alert publishers.
+#     - label:         human-readable name written into the candidate file
+#       match:         list of substring patterns matched against From: header
+#                      (case-insensitive). First sender entry that matches wins.
+#       parser:        one of: generic | mlex | ft-myft
+#       default:       fallback monitor + domain if no keyword matches
+#                      (omit for senders covering many domains — those will
+#                      simply be dropped if they don't match any keyword)
+#
+# Only senders listed here are ever ingested. Anything else in the inbox is
+# ignored (left unread) so it can be triaged manually and added to this file
+# once we know which monitor it belongs to.
+
+# mailbox: which Gmail label/folder to read from.
+#
+# Strongly recommended: point this at a custom label (e.g. "Briefing/Ingest")
+# rather than "INBOX", and create a Gmail filter that auto-applies that label
+# to incoming alerts. The script then only ever sees the labelled messages,
+# so even if the GitHub Actions secret leaks the exposure is bounded to the
+# alerts you'd already chosen to receive.
+#
+# Gmail labels with a "/" in the name appear in IMAP as folders. The script
+# quotes the name for SELECT, so values like "Briefing/Ingest" work directly.
+mailbox: "Briefing/Ingest"
+
+# processed_label: applied to each successfully-ingested email so you can
+# audit what the workflow has touched. Create this label once in Gmail.
+processed_label: Briefing/Processed
+
+senders:
+
+  # --------- MLex --------------------------------------------------------
+  # MLex alerts cover competition, regulatory, IP and privacy. No single
+  # default — routing is fully keyword-driven across both monitors.
+  - label: MLex
+    match:
+      - "@mlex.com"
+      - "@noreply.mlex.com"
+      - "alerts@mlex"
+    parser: mlex
+
+  # --------- FT myFT -----------------------------------------------------
+  # myFT keyword/topic alerts. Mostly competition / digital regulation /
+  # AI policy. Keyword-driven.
+  - label: FT myFT
+    match:
+      - "myft@ft.com"
+      - "alerts@ft.com"
+      - "noreply@ft.com"
+      - "@news.ft.com"
+    parser: ft-myft
+
+  # --------- Law firm newsletters ---------------------------------------
+  # Add one entry per firm you subscribe to. The `default` block is
+  # important here — firm newsletters are typically domain-specific (a
+  # competition team sends competition alerts; an IP team sends IP alerts),
+  # so even when keywords don't match cleanly the right monitor/domain is
+  # usually obvious from the sender.
+
+  # Example — uncomment and edit once you've subscribed:
+  #
+  # - label: Cleary Gottlieb — Antitrust Watch
+  #   match:
+  #     - "antitrustwatch@cgsh.com"
+  #     - "@cgsh.com"
+  #   parser: generic
+  #   default:
+  #     monitor: monitor-02-eu-competition
+  #     domain: antitrust-cartels
+  #
+  # - label: Freshfields — Risk & Compliance
+  #   match:
+  #     - "@freshfields.com"
+  #   parser: generic
+  #   default:
+  #     monitor: monitor-01
+  #     domain: privacy-data-protection
+  #
+  # - label: Bird & Bird — AI Update
+  #   match:
+  #     - "@twobirds.com"
+  #   parser: generic
+  #   default:
+  #     monitor: monitor-01
+  #     domain: ai-news

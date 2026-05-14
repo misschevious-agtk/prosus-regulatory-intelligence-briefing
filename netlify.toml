@@ -1,0 +1,36 @@
+# Netlify configuration for Legal Intelligence Briefing
+# Repo root: prosus-legal-intelligence-briefing/
+# Published surface: website/ only — the monitor source files (profiles, needs,
+# findings, etc.) live in the repo for source control but are not web-accessible.
+
+[build]
+  publish = "website"
+  # No build step yet — the site is currently static. When findings start flowing,
+  # add a build step here (e.g. `node build.js`) that reads from /monitors/**/findings/
+  # and emits per-monitor HTML pages into website/.
+
+# Default security headers for every served path.
+# noindex/nofollow is belt-and-braces: even if the site is briefly mis-configured
+# to be public, search engines should not index privileged work product.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Robots-Tag = "noindex, nofollow"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+# Tidy URL redirects for the per-monitor pages once they exist.
+[[redirects]]
+  from = "/m01"
+  to = "/m01/"
+  status = 301
+
+[[redirects]]
+  from = "/m02"
+  to = "/m02/"
+  status = 301
+
+# Single-page-app fallback isn't needed yet — this is multi-page. Add later if
+# the site becomes a SPA.

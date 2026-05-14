@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Legal Intelligence Briefing</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1'%3E%3Cstop offset='0' stop-color='%23FC9628'/%3E%3Cstop offset='0.5' stop-color='%23D90276'/%3E%3Cstop offset='1' stop-color='%23370180'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='14' fill='url(%23g)'/%3E%3Ctext x='50%25' y='58%25' font-family='system-ui,sans-serif' font-size='40' font-weight='800' fill='white' text-anchor='middle' dominant-baseline='middle'%3EL%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tabler-icons/2.47.0/iconfont/tabler-icons.min.css">
+  <style>
+    :root {
+      /* Chloride - teal/green */
+      --ch-dark: #00856E;
+      --ch-prime: #00AC8E;
+      --ch-light: #00D3AF;
+      /* Argon - magenta/pink */
+      --ar-dark: #850048;
+      --ar-prime: #AF015F;
+      --ar-light: #D90276;
+      /* Oxide - orange/yellow */
+      --ox-dark: #FC9628;
+      --ox-prime: #FC8828;
+      --ox-light: #FCDA28;
+      /* Lithium - purple */
+      --li-dark: #370180;
+      --li-prime: #571580;
+      --li-light: #772980;
+
+      /* Surfaces */
+      --bg-page: #FBF7EE;
+      --bg-card: #FFFFFF;
+      --bg-soft: #F2EBDE;
+
+      /* Tints */
+      --tint-li: #EFE6FA;
+      --tint-ar: #FBE0EF;
+      --tint-ox: #FFF1DC;
+      --tint-ch: #DDF5EE;
+
+      /* Text */
+      --text-primary: #1B0838;
+      --text-secondary: #5C4C7A;
+      --text-tertiary: #8C7DA8;
+      --border-soft: rgba(55, 1, 128, 0.10);
+      --border-strong: rgba(55, 1, 128, 0.22);
+
+      /* Brand gradient */
+      --gradient: linear-gradient(90deg, var(--ox-dark) 0%, var(--ar-light) 50%, var(--li-dark) 100%);
+      --gradient-cool: linear-gradient(90deg, var(--ch-prime) 0%, var(--li-prime) 100%);
+
+      --radius-md: 10px;
+      --radius-lg: 16px;
+      --radius-xl: 20px;
+      --radius-full: 999px;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-page: #0F0420;
+        --bg-card: #1B0C36;
+        --bg-soft: #261548;
+        --tint-li: #2D1559;
+        --tint-ar: #38123A;
+        --tint-ox: #3D2911;
+        --tint-ch: #0E3A30;
+        --text-primary: #F5EEFA;
+        --text-secondary: #B8A8D0;
+        --text-tertiary: #8C7AA8;
+        --border-soft: rgba(255, 255, 255, 0.08);
+        --border-strong: rgba(255, 255, 255, 0.20);
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      color: var(--text-primary);
+      background: var(--bg-page);
+      -webkit-font-smoothing: antialiased;
+      background-image:
+        radial-gradient(circle at 12% 0%, rgba(252, 150, 40, 0.14) 0%, transparent 42%),
+        radial-gradient(circle at 92% 12%, rgba(217, 2, 118, 0.12) 0%, transparent 38%),
+        radial-gradient(circle at 50% 100%, rgba(55, 1, 128, 0.08) 0%, transparent 50%),
+        radial-gradient(circle at 5% 80%, rgba(0, 172, 142, 0.06) 0%, transparent 35%);
+      background-attachment: fixed;
+      min-height: 100vh;
+    }
+    .page {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+    .sr-only {
+      position: absolute;
+      width: 1px; height: 1px;
+      padding: 0; margin: -1px;
+      overflow: hidden; clip: rect(0,0,0,0);
+      white-space: nowrap; border: 0;
+    }
+    .wordmark {
+      font-size: 62px;
+      font-weight: 800;
+      line-height: 1;
+      letter-spacing: -2.2px;
+      margin: 0;
+      display: inline-flex;
+      align-items: baseline;
+      flex-wrap: wrap;
+    }
+    .wordmark .legal { color: var(--li-dark); }
+    .wordmark .intel { color: var(--li-dark); font-style: italic; font-weight: 500; margin-left: 0.2em; }
+    .wordmark .brief {
+      background: var(--gradient);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      margin-left: 0.2em;
+    }
+    @media (prefers-color-scheme: dark) {
+      .wordmark .legal, .wordmark .intel { color: #E0D4F5; }
+    }
+    .tagline {
+      font-size: 16px;
+      color: var(--text-secondary);
+      margin: 1rem 0 1.75rem;
+      max-width: 620px;
+      line-height: 1.6;
+    }
+    .gradient-divider {
+      height: 5px;
+      background: var(--gradient);
+      border-radius: var(--radius-full);
+      width: 96px;
+      margin: 0 0 2.5rem;
+    }
+    .access-banner {
+      background: var(--tint-li);
+      color: var(--li-dark);
+      padding: 12px 18px;
+      border-radius: var(--radius-lg);
+      font-size: 13px;
+      margin-bottom: 3rem;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      border: 0.5px solid var(--border-soft);
+    }
+    .access-banner i { font-size: 18px; color: var(--li-prime); }
+    .access-banner b { font-weight: 500; }
+    @media (prefers-color-scheme: dark) {
+      .access-banner { color: #D4BAFA; }
+      .access-banner i { color: #B89DF5; }
+    }
+    .section-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 1.25rem;
+    }
+    .section-title {
+      font-size: 24px;
+      font-weight: 500;
+      margin: 0;
+      color: var(--text-primary);
+      letter-spacing: -0.4px;
+    }
+    .section-title em {
+      font-style: italic;
+      font-weight: 500;
+      background: var(--gradient);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    .section-meta {
+      font-size: 12px;
+      color: var(--text-tertiary);
+    }
+    .monitors {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 0.5px solid var(--border-soft);
+      border-radius: var(--radius-xl);
+      padding: 0;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      overflow: hidden;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+      position: relative;
+    }
+    .card::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 6px;
+    }
+    .card.li::before { background: linear-gradient(90deg, var(--li-dark), var(--li-light)); }
+    .card.ar::before { background: linear-gradient(90deg, var(--ar-dark), var(--ar-light)); }
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: var(--border-strong);
+      box-shadow: 0 14px 40px -12px rgba(55, 1, 128, 0.20);
+    }
+    .card-inner { padding: 1.5rem 1.5rem 1.25rem; }
+    .card-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      margin-bottom: 14px;
+      gap: 12px;
+    }
+    .card-title-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .icon-box {
+      width: 54px;
+      height: 54px;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .icon-box.li { background: linear-gradient(135deg, var(--li-prime), var(--li-light)); }
+    .icon-box.ar { background: linear-gradient(135deg, var(--ar-prime), var(--ar-light)); }
+    .icon-box.gradient { background: var(--gradient); }
+    .icon-box i { font-size: 28px; color: white; }
+    .card-num {
+      font-size: 11px;
+      color: var(--text-tertiary);
+      letter-spacing: 1.4px;
+      text-transform: uppercase;
+      margin-bottom: 2px;
+      font-weight: 500;
+    }
+    .card-title {
+      font-size: 19px;
+      font-weight: 500;
+      line-height: 1.2;
+    }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      padding: 4px 11px;
+      border-radius: var(--radius-full);
+      font-weight: 500;
+      line-height: 1.4;
+      white-space: nowrap;
+    }
+    .pill::before {
+      content: "";
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: currentColor;
+    }
+    .pill.calibrating { background: var(--tint-ox); color: var(--ox-prime); }
+    .pill.pending { background: var(--tint-li); color: var(--li-prime); }
+    .pill.live { background: var(--tint-ch); color: var(--ch-dark); }
+    @media (prefers-color-scheme: dark) {
+      .pill.calibrating { color: var(--ox-light); }
+      .pill.pending { color: #C9A8FA; }
+      .pill.live { color: var(--ch-light); }
+    }
+    .card-desc {
+      font-size: 13.5px;
+      color: var(--text-secondary);
+      margin: 0 0 14px;
+      line-height: 1.6;
+    }
+    .tags {
+      margin-bottom: 16px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .tag {
+      font-size: 11px;
+      padding: 4px 10px;
+      border-radius: var(--radius-full);
+      background: var(--bg-soft);
+      color: var(--text-secondary);
+      line-height: 1.4;
+      font-weight: 500;
+    }
+    .card-foot {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      color: var(--text-secondary);
+      border-top: 0.5px solid var(--border-soft);
+      padding: 12px 1.5rem;
+      background: var(--bg-soft);
+    }
+    .card-foot span { display: flex; align-items: center; gap: 5px; }
+    .card-foot i { font-size: 14px; }
+    .add-card {
+      background: var(--bg-card);
+      border-radius: var(--radius-xl);
+      padding: 1.25rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 3rem;
+      position: relative;
+      border: 1.5px dashed transparent;
+      background-image: linear-gradient(var(--bg-card), var(--bg-card)), var(--gradient);
+      background-origin: border-box;
+      background-clip: padding-box, border-box;
+    }
+    .add-card-body { flex: 1; }
+    .add-card-title { font-size: 15px; font-weight: 500; margin-bottom: 2px; }
+    .add-card-desc { font-size: 12.5px; color: var(--text-secondary); }
+    .btn-gradient {
+      background: var(--gradient);
+      color: white;
+      border: none;
+      border-radius: var(--radius-full);
+      padding: 9px 20px;
+      font-size: 12.5px;
+      font-weight: 500;
+      cursor: pointer;
+      font-family: inherit;
+      transition: transform 0.15s, box-shadow 0.15s, filter 0.15s;
+    }
+    .btn-gradient:hover {
+      transform: translateY(-1px);
+      filter: brightness(1.05);
+      box-shadow: 0 8px 20px -4px rgba(217, 2, 118, 0.45);
+    }
+    .activity {
+      border-radius: var(--radius-xl);
+      overflow: hidden;
+      background: var(--bg-card);
+      border: 0.5px solid var(--border-soft);
+    }
+    .activity-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      padding: 16px 20px;
+      border-bottom: 0.5px solid var(--border-soft);
+      position: relative;
+    }
+    .activity-item:last-child { border-bottom: none; }
+    .activity-item::before {
+      content: "";
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 4px;
+    }
+    .activity-item.li::before { background: var(--li-prime); }
+    .activity-item.ar::before { background: var(--ar-prime); }
+    .activity-item.ch::before { background: var(--ch-prime); }
+    .activity-icon-wrap {
+      width: 34px;
+      height: 34px;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .activity-item.li .activity-icon-wrap { background: var(--tint-li); color: var(--li-prime); }
+    .activity-item.ar .activity-icon-wrap { background: var(--tint-ar); color: var(--ar-prime); }
+    .activity-item.ch .activity-icon-wrap { background: var(--tint-ch); color: var(--ch-dark); }
+    @media (prefers-color-scheme: dark) {
+      .activity-item.li .activity-icon-wrap { color: #C9A8FA; }
+      .activity-item.ar .activity-icon-wrap { color: #F7A2CB; }
+      .activity-item.ch .activity-icon-wrap { color: var(--ch-light); }
+    }
+    .activity-icon-wrap i { font-size: 17px; }
+    .activity-body { flex: 1; min-width: 0; }
+    .activity-text { font-size: 13.5px; line-height: 1.5; color: var(--text-primary); }
+    .activity-text b { font-weight: 500; }
+    .activity-meta { font-size: 11.5px; color: var(--text-tertiary); margin-top: 4px; }
+    .freshness {
+      margin: 1rem 0 1.5rem;
+      padding: 0.85rem 1rem;
+      border: 0.5px solid var(--border-soft);
+      border-radius: var(--radius-md);
+      background: var(--bg-card);
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+    .freshness-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+    .freshness-cell {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 0.35rem;
+    }
+    .freshness-label {
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-right: 0.35rem;
+    }
+    .freshness-value {
+      font-variant-numeric: tabular-nums;
+      color: var(--text-primary);
+      font-weight: 500;
+    }
+    .freshness-suffix { color: var(--text-tertiary); }
+    .freshness-sep { color: var(--text-tertiary); opacity: 0.5; }
+    .freshness-coldcells {
+      margin-top: 0.65rem;
+      padding-top: 0.65rem;
+      border-top: 0.5px dashed var(--border-soft);
+      font-size: 12px;
+      color: var(--ar-prime);
+    }
+    .freshness-coldcells b { font-weight: 600; }
+    .freshness-foot {
+      margin-top: 0.5rem;
+      font-size: 11.5px;
+      color: var(--text-tertiary);
+    }
+    .freshness-foot code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 11px;
+      background: var(--bg-soft);
+      padding: 1px 5px;
+      border-radius: 4px;
+    }
+    @media (max-width: 720px) {
+      .freshness-row { grid-template-columns: 1fr; }
+    }
+    .footer {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 0.5px solid var(--border-soft);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 11.5px;
+      color: var(--text-tertiary);
+      position: relative;
+    }
+    .footer::before {
+      content: "";
+      position: absolute;
+      top: -1px; left: 0;
+      width: 72px; height: 3px;
+      background: var(--gradient);
+      border-radius: var(--radius-full);
+    }
+    .footer i { font-size: 13px; margin-right: 4px; vertical-align: -1px; }
+    @media (max-width: 720px) {
+      .wordmark { font-size: 42px; letter-spacing: -1.5px; }
+      .monitors { grid-template-columns: 1fr; }
+      .page { padding: 2rem 1rem 3rem; }
+      .icon-box { width: 46px; height: 46px; }
+      .icon-box i { font-size: 23px; }
+    }
+  </style>
+</head>
+<body>
+
+  <main class="page" role="main">
+
+    <h1 class="sr-only">Legal Intelligence Briefing — Prosus Group internal monitor hub</h1>
+
+    <header>
+      <p class="wordmark" aria-label="Legal Intelligence Briefing">
+        <span class="legal">Legal</span><span class="intel">Intelligence</span><span class="brief">Briefing.</span>
+      </p>
+      <p class="tagline">A modular network of legal-intelligence monitors for Prosus. Privileged work product. Internal Prosus and named external counsel only.</p>
+      <div class="gradient-divider" aria-hidden="true"></div>
+    </header>
+
+    <div class="access-banner" role="status">
+      <i class="ti ti-shield-lock" aria-hidden="true"></i>
+      <span>Signed in as <b>klimentina.maleevska@prosus.com</b> — Prosus Group Legal &amp; Public Policy. Full access.</span>
+    </div>
+
+    <div class="freshness" id="freshness" role="status" aria-label="Monitor freshness pulse">
+      <div class="freshness-row">
+        <div class="freshness-cell">
+          <span class="freshness-label">Monitor 01</span>
+          <span class="freshness-value" data-state-monitor="monitor-01" data-state-field="items_today">—</span>
+          <span class="freshness-suffix">today</span>
+          <span class="freshness-sep">·</span>
+          <span class="freshness-value" data-state-monitor="monitor-01" data-state-field="items_this_week">—</span>
+          <span class="freshness-suffix">this week</span>
+          <span class="freshness-sep">·</span>
+          <span class="freshness-suffix">last finding</span>
+          <span class="freshness-value" data-state-monitor="monitor-01" data-state-field="last_finding_at">—</span>
+        </div>
+        <div class="freshness-cell">
+          <span class="freshness-label">Monitor 02</span>
+          <span class="freshness-value" data-state-monitor="monitor-02-eu-competition" data-state-field="items_today">—</span>
+          <span class="freshness-suffix">today</span>
+          <span class="freshness-sep">·</span>
+          <span class="freshness-value" data-state-monitor="monitor-02-eu-competition" data-state-field="items_this_week">—</span>
+          <span class="freshness-suffix">this week</span>
+          <span class="freshness-sep">·</span>
+          <span class="freshness-suffix">last finding</span>
+          <span class="freshness-value" data-state-monitor="monitor-02-eu-competition" data-state-field="last_finding_at">—</span>
+        </div>
+      </div>
+      <div class="freshness-coldcells" id="freshness-coldcells" hidden></div>
+      <div class="freshness-foot">
+        <span id="freshness-generated">Pulse: not yet generated. Run <code>python scripts/compute_metrics.py</code> to populate.</span>
+      </div>
+    </div>
+
+    <section aria-labelledby="monitors-heading">
+      <div class="section-header">
+        <h2 id="monitors-heading" class="section-title">Choose a <em>monitor</em></h2>
+        <span class="section-meta">Updated 13 May 2026</span>
+      </div>
+
+      <div class="monitors">
+
+        <a class="card li" href="./m01/" aria-label="Open Monitor 01 — Regulatory Intelligence">
+          <div class="card-inner">
+            <div class="card-head">
+              <div class="card-title-row">
+                <div class="icon-box li">
+                  <i class="ti ti-shield-check" aria-hidden="true"></i>
+                </div>
+                <div>
+                  <div class="card-num">Monitor 01</div>
+                  <div class="card-title">Regulatory Intelligence</div>
+                </div>
+              </div>
+              <span class="pill calibrating">Calibrating · D14</span>
+            </div>
+            <p class="card-desc">Cross-cutting horizontal regulation across AI, privacy, IP, and the in-house legal function.</p>
+            <div class="tags">
+              <span class="tag">AI News</span>
+              <span class="tag">Privacy</span>
+              <span class="tag">IP</span>
+              <span class="tag">Legal Ops</span>
+            </div>
+          </div>
+          <div class="card-foot">
+            <span><i class="ti ti-users" aria-hidden="true"></i>4 personas</span>
+            <span>K. Maleevska</span>
+          </div>
+        </a>
+
+        <a class="card ar" href="./m02/" aria-label="Open Monitor 02 — Competition Law">
+          <div class="card-inner">
+            <div class="card-head">
+              <div class="card-title-row">
+                <div class="icon-box ar">
+                  <i class="ti ti-scale" aria-hidden="true"></i>
+                </div>
+                <div>
+                  <div class="card-num">Monitor 02</div>
+                  <div class="card-title">Competition Law</div>
+                </div>
+              </div>
+              <span class="pill pending">Pending sign-off</span>
+            </div>
+            <p class="card-desc">Four reading-modes of a single anchor. Global lens — EU, UK, BR, IN, US, ZA, CN (Tencent).</p>
+            <div class="tags">
+              <span class="tag">Antitrust</span>
+              <span class="tag">Abuse of dominance</span>
+              <span class="tag">Merger &amp; FDI</span>
+              <span class="tag">Digital markets</span>
+            </div>
+          </div>
+          <div class="card-foot">
+            <span><i class="ti ti-user" aria-hidden="true"></i>A. Hoyng · anchor</span>
+            <span>K. Maleevska</span>
+          </div>
+        </a>
+
+      </div>
+
+      <div class="add-card">
+        <div class="icon-box gradient">
+          <i class="ti ti-plus" aria-hidden="true"></i>
+        </div>
+        <div class="add-card-body">
+          <div class="add-card-title">Add a monitor</div>
+          <div class="add-card-desc">Tax, employment, ESG, M&amp;A antitrust, or suggest your own scope.</div>
+        </div>
+        <button class="btn-gradient" onclick="window.location.href='mailto:klimentina.maleevska@prosus.com?subject=New%20monitor%20suggestion'">Suggest →</button>
+      </div>
+    </section>
+
+    <section aria-labelledby="activity-heading">
+      <div class="section-header">
+        <h2 id="activity-heading" class="section-title">Recent <em>activity</em></h2>
+        <a href="./activity/" style="font-size: 12.5px; color: var(--li-prime); text-decoration: none; font-weight: 500;">View all →</a>
+      </div>
+
+      <div class="activity">
+
+        <div class="activity-item ar">
+          <div class="activity-icon-wrap"><i class="ti ti-scale" aria-hidden="true"></i></div>
+          <div class="activity-body">
+            <div class="activity-text"><b>Monitor 02</b> · Block 3 drafted — operating preferences, eleven rank-rule additions, four-layer confidentiality framing.</div>
+            <div class="activity-meta">13 May 2026 · Pending Anne-Claire redline</div>
+          </div>
+        </div>
+
+        <div class="activity-item ar">
+          <div class="activity-icon-wrap"><i class="ti ti-scale" aria-hidden="true"></i></div>
+          <div class="activity-body">
+            <div class="activity-text"><b>Monitor 02</b> · Block 1 and Block 2 drafted — markets, dominance map, four-domain personas and needs.</div>
+            <div class="activity-meta">13 May 2026 · Pending Anne-Claire redline</div>
+          </div>
+        </div>
+
+        <div class="activity-item ch">
+          <div class="activity-icon-wrap"><i class="ti ti-archive" aria-hidden="true"></i></div>
+          <div class="activity-body">
+            <div class="activity-text"><b>Architecture</b> · Legacy single-persona Monitor 02 archived. Both monitors now on multi-persona architecture.</div>
+            <div class="activity-meta">13 May 2026</div>
+          </div>
+        </div>
+
+        <div class="activity-item li">
+          <div class="activity-icon-wrap"><i class="ti ti-shield-check" aria-hidden="true"></i></div>
+          <div class="activity-body">
+            <div class="activity-text"><b>Monitor 01</b> · Initialisation complete (Blocks 1, 2, 3). Calibration mode begins.</div>
+            <div class="activity-meta">12 May 2026</div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer class="footer">
+      <span><i class="ti ti-lock" aria-hidden="true"></i>Privileged · Prosus internal + named external counsel</span>
+      <span>v0.1 · 13 May 2026</span>
+    </footer>
+
+  </main>
+
+  <script>
+    // Freshness pulse — reads website/state.json produced by
+    // scripts/compute_metrics.py and updates the strip above the monitor cards.
+    // The hub is a static page; this script only renders, never mutates state.
+    (function () {
+      function relativeTime(iso) {
+        if (!iso) return '—';
+        var then = new Date(iso);
+        if (isNaN(+then)) return '—';
+        var sec = Math.max(0, Math.floor((Date.now() - then) / 1000));
+        if (sec < 60) return sec + 's ago';
+        if (sec < 3600) return Math.floor(sec / 60) + 'm ago';
+        if (sec < 86400) return Math.floor(sec / 3600) + 'h ago';
+        var d = Math.floor(sec / 86400);
+        if (d < 14) return d + 'd ago';
+        return then.toISOString().slice(0, 10);
+      }
+
+      function set(el, value) {
+        if (!el) return;
+        el.textContent = value;
+      }
+
+      fetch('./state.json', { cache: 'no-store' })
+        .then(function (r) {
+          if (!r.ok) throw new Error('no state.json');
+          return r.json();
+        })
+        .then(function (state) {
+          var monitors = state.monitors || {};
+          Object.keys(monitors).forEach(function (m) {
+            var data = monitors[m] || {};
+            document.querySelectorAll('[data-state-monitor="' + m + '"]').forEach(function (el) {
+              var field = el.getAttribute('data-state-field');
+              if (field === 'last_finding_at') {
+                set(el, relativeTime(data.last_finding_at));
+              } else if (field in data) {
+                set(el, String(data[field]));
+              }
+            });
+          });
+
+          // Cold cells — show only if any monitor has cold cells.
+          var coldDiv = document.getElementById('freshness-coldcells');
+          var any = [];
+          Object.keys(monitors).forEach(function (m) {
+            (monitors[m].cold_cells || []).forEach(function (cc) {
+              any.push({ monitor: m, cell: cc });
+            });
+          });
+          if (coldDiv && any.length) {
+            coldDiv.hidden = false;
+            coldDiv.innerHTML = '<b>Cold cells:</b> ' +
+              any.slice(0, 6).map(function (x) {
+                return x.monitor.replace('monitor-', 'M') + ' ' + x.cell;
+              }).join(' · ') +
+              (any.length > 6 ? ' · +' + (any.length - 6) + ' more' : '');
+          }
+
+          var foot = document.getElementById('freshness-generated');
+          if (foot && state.generated_at) {
+            foot.textContent = 'Pulse generated ' + relativeTime(state.generated_at) + ' · ' + (state.iso_week || '');
+          }
+        })
+        .catch(function () {
+          /* state.json absent — leave the placeholder copy in place */
+        });
+    })();
+  </script>
+
+</body>
+</html>

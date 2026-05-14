@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-b5cfafbe38
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:09:09+00:00'
+ranked_at: '2026-05-14T18:44:34+00:00'
 ---
 
 # WIPO Launches New Award for Cities of Innovation

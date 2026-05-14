@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-14-e8de24d92f
+cluster_id: cluster-2026-05-14-f296a192dc
 cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-05-14T18:09:09+00:00'
+cluster_role: sibling
+ranked_at: '2026-05-14T18:44:34+00:00'
+cluster_canonical_slug: press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz
 ---
 
 # Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package

@@ -25,7 +25,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-9ba692d80d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:09:09+00:00'
+ranked_at: '2026-05-14T18:44:34+00:00'
 ---
 
 # Digital Omnibus Report V3: Analysis of Select GDPR and ePrivacy Proposals by the Commission

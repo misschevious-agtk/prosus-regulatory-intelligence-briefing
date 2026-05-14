@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-2a5467d711
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:09:09+00:00'
+ranked_at: '2026-05-14T18:44:34+00:00'
 ---
 
 # Flash Justice Aims to Take Small-Claims Plaintiffs Not Just to the Form, But All the Way through Filing

@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-3c356a9a24
 cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-05-14T18:09:09+00:00'
+ranked_at: '2026-05-14T18:44:34+00:00'
 ---
 
 # GPT-5.5 Instant: smarter, clearer, and more personalized

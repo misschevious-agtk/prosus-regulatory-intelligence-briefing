@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-f058e7a807
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-14T18:09:09+00:00'
+ranked_at: '2026-05-14T18:44:34+00:00'
 ---
 
 # Whitebridge.ai: your personal data is for sale to you and anyone

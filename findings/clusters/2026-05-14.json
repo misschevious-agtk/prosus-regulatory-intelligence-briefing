@@ -1,5 +1,5 @@
 {
-  "ranked_at": "2026-05-14T18:09:09+00:00",
+  "ranked_at": "2026-05-14T18:44:34+00:00",
   "window_days": 7,
   "threshold": 0.72,
   "cluster_window_hours": 48,
@@ -479,22 +479,22 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-fab14b2a45",
+      "cluster_id": "cluster-2026-05-14-19ce7e9057",
       "size": 2,
       "canonical": {
         "title": "Thoughts on Case C‑2/24 P, Teva: pay-for-delay is the saga that keeps on giving",
-        "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on.md",
+        "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on.md",
         "monitor": "monitor-02-eu-competition",
-        "domain": "abuse-of-dominance",
+        "domain": "antitrust-cartels",
         "match_count": 1,
         "source_publisher": "Chillin'Competition"
       },
       "siblings": [
         {
           "title": "Thoughts on Case C‑2/24 P, Teva: pay-for-delay is the saga that keeps on giving",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
+          "domain": "abuse-of-dominance",
           "source_publisher": "Chillin'Competition"
         }
       ],
@@ -1380,16 +1380,16 @@
         },
         {
           "title": "Correspondence: CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/correspondence-cma-advice-to-defra-on-reform-of-the-veterinary-surgeon.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/correspondence-cma-advice-to-defra-on-reform-of-the-veterinary-surgeon.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "digital-markets-sector-state-aid",
+          "domain": "antitrust-cartels",
           "source_publisher": "CMA news"
         },
         {
           "title": "Correspondence: CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/correspondence-cma-advice-to-defra-on-reform-of-the-veterinary-surgeon.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/correspondence-cma-advice-to-defra-on-reform-of-the-veterinary-surgeon.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
+          "domain": "digital-markets-sector-state-aid",
           "source_publisher": "CMA news"
         },
         {
@@ -1429,16 +1429,16 @@
         },
         {
           "title": "Potential designation of Aldi and Lidl under the Groceries Market Investigation (Controlled Land) Order 2010",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "abuse-of-dominance",
+          "domain": "antitrust-cartels",
           "source_publisher": "CMA news"
         },
         {
           "title": "Potential designation of Aldi and Lidl under the Groceries Market Investigation (Controlled Land) Order 2010",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve.md",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve.md",
           "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
+          "domain": "abuse-of-dominance",
           "source_publisher": "CMA news"
         },
         {
@@ -1478,6 +1478,13 @@
         },
         {
           "title": "Transparency data: Merger investigation outcomes",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/transparency-data-merger-investigation-outcomes.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "antitrust-cartels",
+          "source_publisher": "CMA news"
+        },
+        {
+          "title": "Transparency data: Merger investigation outcomes",
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/transparency-data-merger-investigation-outcomes.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "abuse-of-dominance",
@@ -1488,13 +1495,6 @@
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/transparency-data-merger-investigation-outcomes.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "digital-markets-sector-state-aid",
-          "source_publisher": "CMA news"
-        },
-        {
-          "title": "Transparency data: Merger investigation outcomes",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/transparency-data-merger-investigation-outcomes.md",
-          "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
           "source_publisher": "CMA news"
         },
         {
@@ -2425,28 +2425,6 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-c136a103d5",
-      "size": 1,
-      "canonical": {
-        "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo.md",
-        "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 2,
-        "source_publisher": "OpenAI blog"
-      },
-      "siblings": [],
-      "entities": [
-        {
-          "name": "OpenAI",
-          "type": "company",
-          "jurisdiction": "US",
-          "matched_alias": "OpenAI"
-        }
-      ],
-      "case_numbers": []
-    },
-    {
       "cluster_id": "cluster-2026-05-14-d48cb486fe",
       "size": 16,
       "canonical": {
@@ -2474,21 +2452,14 @@
         },
         {
           "title": "Daily News 13 / 05 / 2026",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/daily-news-13-05-2026.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "European Commission press"
-        },
-        {
-          "title": "Daily News 13 / 05 / 2026",
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/daily-news-13-05-2026.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "digital-markets-sector-state-aid",
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Ομιλία του Επιτρόπου Καδή σε κοινή συνεδρία της Διαρκούς Επιτροπής Ευρωπαϊκών Υποθέσεων, της Διαρκούς Επιτροπής Παραγωγής και Εμπορίου και της Ειδικής Μόνιμης Επιτροπής Προστασίας Περιβάλλοντος της Βουλής των Ελλήνων",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/item.md",
+          "title": "Daily News 13 / 05 / 2026",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/daily-news-13-05-2026.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2501,8 +2472,8 @@
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Keynote speech by Commissioner Kubilius at the event 'European Union Defence Initiatives: The Eastern Flank within a 360° Security Approach'",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/keynote-speech-by-commissioner-kubilius-at-the-event-european-union-de.md",
+          "title": "Ομιλία του Επιτρόπου Καδή σε κοινή συνεδρία της Διαρκούς Επιτροπής Ευρωπαϊκών Υποθέσεων, της Διαρκούς Επιτροπής Παραγωγής και Εμπορίου και της Ειδικής Μόνιμης Επιτροπής Προστασίας Περιβάλλοντος της Βουλής των Ελλήνων",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/item.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2515,8 +2486,8 @@
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Press Remarks by Commissioner Lahbib at the European Citizens' Initiative to Ban Conversion Practices",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/press-remarks-by-commissioner-lahbib-at-the-european-citizens-initiati.md",
+          "title": "Keynote speech by Commissioner Kubilius at the event 'European Union Defence Initiatives: The Eastern Flank within a 360° Security Approach'",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/keynote-speech-by-commissioner-kubilius-at-the-event-european-union-de.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2529,8 +2500,8 @@
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Remarks by Commissioner Lahbib on the European Citizens' Initiative ‘Ban on conversion practices in the European Union'",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/remarks-by-commissioner-lahbib-on-the-european-citizens-initiative-ban.md",
+          "title": "Press Remarks by Commissioner Lahbib at the European Citizens' Initiative to Ban Conversion Practices",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/press-remarks-by-commissioner-lahbib-at-the-european-citizens-initiati.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2543,15 +2514,15 @@
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Remarks by Commissioner Síkela at the press conference on the Global Health Resilience Initiative",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/remarks-by-commissioner-s-kela-at-the-press-conference-on-the-global-h.md",
+          "title": "Remarks by Commissioner Lahbib on the European Citizens' Initiative ‘Ban on conversion practices in the European Union'",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/remarks-by-commissioner-lahbib-on-the-european-citizens-initiative-ban.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
         },
         {
-          "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/video-message-for-roundtable-discussion-on-lng-shipping-organised-by-c.md",
+          "title": "Remarks by Commissioner Síkela at the press conference on the Global Health Resilience Initiative",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/remarks-by-commissioner-s-kela-at-the-press-conference-on-the-global-h.md",
           "monitor": "monitor-01",
           "domain": "ai-news",
           "source_publisher": "European Commission press"
@@ -2561,6 +2532,43 @@
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/video-message-for-roundtable-discussion-on-lng-shipping-organised-by-c.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "digital-markets-sector-state-aid",
+          "source_publisher": "European Commission press"
+        },
+        {
+          "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/video-message-for-roundtable-discussion-on-lng-shipping-organised-by-c.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "European Commission press"
+        }
+      ],
+      "entities": [
+        {
+          "name": "European Commission",
+          "type": "regulator",
+          "jurisdiction": "EU",
+          "matched_alias": "European Commission"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-f296a192dc",
+      "size": 2,
+      "canonical": {
+        "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
+        "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz.md",
+        "monitor": "monitor-02-eu-competition",
+        "domain": "digital-markets-sector-state-aid",
+        "match_count": 1,
+        "source_publisher": "European Commission press"
+      },
+      "siblings": [
+        {
+          "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
           "source_publisher": "European Commission press"
         }
       ],
@@ -2602,6 +2610,50 @@
           "matched_alias": "European Commission"
         }
       ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-14389d7454",
+      "size": 5,
+      "canonical": {
+        "title": "How NVIDIA engineers and researchers build with Codex",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/how-nvidia-engineers-and-researchers-build-with-codex.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 2,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [
+        {
+          "title": "Simplex rethinks software development with Codex",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/simplex-rethinks-software-development-with-codex.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        },
+        {
+          "title": "AutoScout24 scales engineering with AI-powered workflows",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/autoscout24-scales-engineering-with-ai-powered-workflows.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        },
+        {
+          "title": "Building a safe, effective sandbox to enable Codex on Windows",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/building-a-safe-effective-sandbox-to-enable-codex-on-windows.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        },
+        {
+          "title": "Running Codex safely at OpenAI",
+          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/running-codex-safely-at-openai.md",
+          "monitor": "monitor-01",
+          "domain": "ai-news",
+          "source_publisher": "OpenAI blog"
+        }
+      ],
+      "entities": [],
       "case_numbers": []
     },
     {
@@ -2771,70 +2823,33 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-14389d7454",
-      "size": 5,
-      "canonical": {
-        "title": "How NVIDIA engineers and researchers build with Codex",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/how-nvidia-engineers-and-researchers-build-with-codex.md",
-        "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 2,
-        "source_publisher": "OpenAI blog"
-      },
-      "siblings": [
-        {
-          "title": "Simplex rethinks software development with Codex",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/simplex-rethinks-software-development-with-codex.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        },
-        {
-          "title": "AutoScout24 scales engineering with AI-powered workflows",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/autoscout24-scales-engineering-with-ai-powered-workflows.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        },
-        {
-          "title": "Building a safe, effective sandbox to enable Codex on Windows",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/building-a-safe-effective-sandbox-to-enable-codex-on-windows.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        },
-        {
-          "title": "Running Codex safely at OpenAI",
-          "path": "findings/candidates/2026-05-14/monitor-01/ai-news/running-codex-safely-at-openai.md",
-          "monitor": "monitor-01",
-          "domain": "ai-news",
-          "source_publisher": "OpenAI blog"
-        }
-      ],
-      "entities": [],
-      "case_numbers": []
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-c08fafa5c7",
-      "size": 1,
-      "canonical": {
-        "title": "GPT-5.5 Instant System Card",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/gpt-5-5-instant-system-card.md",
-        "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 2,
-        "source_publisher": "OpenAI blog"
-      },
-      "siblings": [],
-      "entities": [],
-      "case_numbers": []
-    },
-    {
       "cluster_id": "cluster-2026-05-14-6c77c5430d",
       "size": 1,
       "canonical": {
         "title": "Advancing youth safety and wellbeing in EMEA",
         "path": "findings/candidates/2026-05-14/monitor-01/ai-news/advancing-youth-safety-and-wellbeing-in-emea.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 1,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "OpenAI",
+          "type": "company",
+          "jurisdiction": "US",
+          "matched_alias": "OpenAI"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-142dc0b515",
+      "size": 1,
+      "canonical": {
+        "title": "OpenAI Campus Network: Student club interest form",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-campus-network-student-club-interest-form.md",
         "monitor": "monitor-01",
         "domain": "ai-news",
         "match_count": 1,
@@ -2874,6 +2889,43 @@
       "case_numbers": []
     },
     {
+      "cluster_id": "cluster-2026-05-14-c08fafa5c7",
+      "size": 1,
+      "canonical": {
+        "title": "GPT-5.5 Instant System Card",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/gpt-5-5-instant-system-card.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 2,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-c136a103d5",
+      "size": 1,
+      "canonical": {
+        "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo.md",
+        "monitor": "monitor-01",
+        "domain": "ai-news",
+        "match_count": 2,
+        "source_publisher": "OpenAI blog"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "OpenAI",
+          "type": "company",
+          "jurisdiction": "US",
+          "matched_alias": "OpenAI"
+        }
+      ],
+      "case_numbers": []
+    },
+    {
       "cluster_id": "cluster-2026-05-14-2beb935864",
       "size": 1,
       "canonical": {
@@ -2889,56 +2941,31 @@
       "case_numbers": []
     },
     {
-      "cluster_id": "cluster-2026-05-14-142dc0b515",
+      "cluster_id": "cluster-2026-05-14-09e81704bc",
       "size": 1,
       "canonical": {
-        "title": "OpenAI Campus Network: Student club interest form",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/openai-campus-network-student-club-interest-form.md",
+        "title": "The CJEU on heritage washing in trade mark law",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/the-cjeu-on-heritage-washing-in-trade-mark-law.md",
         "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 1,
-        "source_publisher": "OpenAI blog"
+        "domain": "intellectual-property",
+        "match_count": 2,
+        "source_publisher": "IPKat blog"
       },
       "siblings": [],
       "entities": [
         {
-          "name": "OpenAI",
-          "type": "company",
-          "jurisdiction": "US",
-          "matched_alias": "OpenAI"
-        }
-      ],
-      "case_numbers": []
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-e8de24d92f",
-      "size": 2,
-      "canonical": {
-        "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
-        "path": "findings/candidates/2026-05-14/monitor-01/ai-news/press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz.md",
-        "monitor": "monitor-01",
-        "domain": "ai-news",
-        "match_count": 1,
-        "source_publisher": "European Commission press"
-      },
-      "siblings": [
-        {
-          "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/press-remarks-by-executive-vice-president-fitto-and-commissioner-tzitz.md",
-          "monitor": "monitor-02-eu-competition",
-          "domain": "digital-markets-sector-state-aid",
-          "source_publisher": "European Commission press"
-        }
-      ],
-      "entities": [
-        {
-          "name": "European Commission",
-          "type": "regulator",
+          "name": "Court of Justice of the European Union",
+          "type": "court",
           "jurisdiction": "EU",
-          "matched_alias": "European Commission"
+          "matched_alias": "CJEU"
         }
       ],
-      "case_numbers": []
+      "case_numbers": [
+        {
+          "scheme": "EU Court of Justice",
+          "citation": "C-412/24"
+        }
+      ]
     },
     {
       "cluster_id": "cluster-2026-05-14-2d9e379fa2",
@@ -2960,21 +2987,6 @@
           "matched_alias": "Unified Patent Court"
         }
       ],
-      "case_numbers": []
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-3d54b4f7e5",
-      "size": 1,
-      "canonical": {
-        "title": "Navigating the complex LNP IP landscape",
-        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/navigating-the-complex-lnp-ip-landscape.md",
-        "monitor": "monitor-01",
-        "domain": "intellectual-property",
-        "match_count": 3,
-        "source_publisher": "IPKat blog"
-      },
-      "siblings": [],
-      "entities": [],
       "case_numbers": []
     },
     {
@@ -3020,60 +3032,6 @@
         }
       ],
       "case_numbers": []
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-09e81704bc",
-      "size": 1,
-      "canonical": {
-        "title": "The CJEU on heritage washing in trade mark law",
-        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/the-cjeu-on-heritage-washing-in-trade-mark-law.md",
-        "monitor": "monitor-01",
-        "domain": "intellectual-property",
-        "match_count": 2,
-        "source_publisher": "IPKat blog"
-      },
-      "siblings": [],
-      "entities": [
-        {
-          "name": "Court of Justice of the European Union",
-          "type": "court",
-          "jurisdiction": "EU",
-          "matched_alias": "CJEU"
-        }
-      ],
-      "case_numbers": [
-        {
-          "scheme": "EU Court of Justice",
-          "citation": "C-412/24"
-        }
-      ]
-    },
-    {
-      "cluster_id": "cluster-2026-05-14-4e208cbe6f",
-      "size": 1,
-      "canonical": {
-        "title": "Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber",
-        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/italian-transposition-of-press-publishers-right-may-be-compatible-with.md",
-        "monitor": "monitor-01",
-        "domain": "intellectual-property",
-        "match_count": 2,
-        "source_publisher": "IPKat blog"
-      },
-      "siblings": [],
-      "entities": [
-        {
-          "name": "Court of Justice of the European Union",
-          "type": "court",
-          "jurisdiction": "EU",
-          "matched_alias": "CJEU"
-        }
-      ],
-      "case_numbers": [
-        {
-          "scheme": "EU Court of Justice",
-          "citation": "C-797/23"
-        }
-      ]
     },
     {
       "cluster_id": "cluster-2026-05-14-c9803024a0",
@@ -3123,6 +3081,48 @@
         }
       ],
       "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-3d54b4f7e5",
+      "size": 1,
+      "canonical": {
+        "title": "Navigating the complex LNP IP landscape",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/navigating-the-complex-lnp-ip-landscape.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 3,
+        "source_publisher": "IPKat blog"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-4e208cbe6f",
+      "size": 1,
+      "canonical": {
+        "title": "Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber",
+        "path": "findings/candidates/2026-05-14/monitor-01/intellectual-property/italian-transposition-of-press-publishers-right-may-be-compatible-with.md",
+        "monitor": "monitor-01",
+        "domain": "intellectual-property",
+        "match_count": 2,
+        "source_publisher": "IPKat blog"
+      },
+      "siblings": [],
+      "entities": [
+        {
+          "name": "Court of Justice of the European Union",
+          "type": "court",
+          "jurisdiction": "EU",
+          "matched_alias": "CJEU"
+        }
+      ],
+      "case_numbers": [
+        {
+          "scheme": "EU Court of Justice",
+          "citation": "C-797/23"
+        }
+      ]
     },
     {
       "cluster_id": "cluster-2026-05-14-d0938e524e",
@@ -3203,6 +3203,13 @@
         },
         {
           "title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem",
+          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/cma-launches-strategic-market-status-investigation-into-microsoft-s-bu.md",
+          "monitor": "monitor-02-eu-competition",
+          "domain": "antitrust-cartels",
+          "source_publisher": "CMA news"
+        },
+        {
+          "title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem",
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/abuse-of-dominance/cma-launches-strategic-market-status-investigation-into-microsoft-s-bu.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "abuse-of-dominance",
@@ -3213,13 +3220,6 @@
           "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/digital-markets-sector-state-aid/cma-launches-strategic-market-status-investigation-into-microsoft-s-bu.md",
           "monitor": "monitor-02-eu-competition",
           "domain": "digital-markets-sector-state-aid",
-          "source_publisher": "CMA news"
-        },
-        {
-          "title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem",
-          "path": "findings/candidates/2026-05-14/monitor-02-eu-competition/antitrust-cartels/cma-launches-strategic-market-status-investigation-into-microsoft-s-bu.md",
-          "monitor": "monitor-02-eu-competition",
-          "domain": "antitrust-cartels",
           "source_publisher": "CMA news"
         }
       ],
@@ -3355,6 +3355,21 @@
         "domain": "legal-ops",
         "match_count": 1,
         "source_publisher": "LawSites (Bob Ambrogi)"
+      },
+      "siblings": [],
+      "entities": [],
+      "case_numbers": []
+    },
+    {
+      "cluster_id": "cluster-2026-05-14-27589cc73c",
+      "size": 1,
+      "canonical": {
+        "title": "The Trump Administration’s Best Argument For Its Biglaw EOs Is That You Just Have To Trust The President",
+        "path": "findings/candidates/2026-05-14/monitor-01/legal-ops/the-trump-administration-s-best-argument-for-its-biglaw-eos-is-that-yo.md",
+        "monitor": "monitor-01",
+        "domain": "legal-ops",
+        "match_count": 1,
+        "source_publisher": "Above the Law"
       },
       "siblings": [],
       "entities": [],

@@ -22,7 +22,7 @@ cluster_id: cluster-2026-05-14-d48cb486fe
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: commission-strengthens-global-health-security-with-new-global-health-r
-ranked_at: '2026-05-14T18:09:09+00:00'
+ranked_at: '2026-05-14T18:44:34+00:00'
 ---
 
 # Remarks by Commissioner Síkela at the press conference on the Global Health Resilience Initiative

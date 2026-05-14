@@ -185,16 +185,5 @@
     "body": "CMA's updated 2026/27 strategy confirms further Strategic Market Status designations expected in Q2 2026 under the Digital Markets, Competition and Consumers Act. Reformed CMA targeting merger control 'in a highly targeted way' and stepping back on global deals.",
     "why": "UK-side analogue of DMA designation cycle. Rule 18 reference. Affects OpCos in the UK market (Stack Overflow, JET UK, OLX UK) and Prosus's posture in UK digital-markets dialogue.",
     "co": "Stack Overflow · JET UK · OLX UK", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
-  },
-  {
-    "id": "cci-india-platforms-may-newsletter", "theme": "digital", "catLabel": "Digital Markets",
-    "country": "IN", "countryLabel": "IN India",
-    "risk": "med",
-    "date": "2026-05-09", "dateLabel": "May 2026 (newsletter cycle)",
-    "source": "Mondaq", "url": "https://www.mondaq.com/india/antitrust-eu-competition/1786560/competition-newsletter-may-2026",
-    "title": "India: May 2026 competition newsletter — digital-markets enforcement pipeline",
-    "body": "Mondaq / industry newsletter cycle for May 2026 catalogues the Indian competition pipeline. Themes: continued CCI scrutiny of digital intermediaries; sectoral inquiries in food delivery (Swiggy / Zomato), payments, and quick commerce; gradual movement toward an Indian Digital Competition Act framework.",
-    "why": "Standing watch on Indian digital-markets posture. Direct Prosus relevance via Swiggy and PayU India. The Digital Competition Bill path remains the strategic risk; near-term enforcement is incremental.",
-    "co": "Swiggy · PayU India · PharmEasy", "owner": "Anne-Claire Hoyng", "ownerTeam": "Competition Policy"
   }
 ]

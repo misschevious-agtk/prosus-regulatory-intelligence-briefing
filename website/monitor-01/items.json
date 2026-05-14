@@ -188,15 +188,5 @@
     "body": "Google's security division reported that threat actors are now using generative AI to weaponize zero-day vulnerabilities at materially faster pace than previously observed. Implications for breach-window timing and incident-response SLAs.",
     "why": "Compresses the breach-clock pre-disclosure window. Direct relevance for OpCo security-incident readiness (Rule 12 M01 — 72-hour breach clock). Drives the legal-tech and panel-firm playbooks toward faster forensics SLAs.",
     "co": "all OpCos · panel firms", "owner": "Head of Legal Ops", "ownerTeam": "Group Legal"
-  },
-  {
-    "id": "apple-patchflyer", "theme": "legal-ops", "catLabel": "Legal Ops",
-    "country": "US", "countryLabel": "US United States",
-    "risk": "low", "date": "2026-05-13", "dateLabel": "13 May 2026",
-    "source": "MLex", "url": "https://www.mlex.com/mlex/mergers-acquisitions/articles/2477097",
-    "title": "Apple acquires Patchflyer — AI vulnerability management",
-    "body": "Apple acquired Patchflyer, an AI-driven vulnerability-management vendor. Signals continued vertical integration of security tooling at hyperscaler level; affects software-supply-chain assumptions for OpCos running on iOS/macOS infrastructure.",
-    "why": "Watch-item rather than action-now. May shift the vendor landscape for AI-driven security tooling and the OpCo legal-tech procurement playbook. Cross-monitor link to M02 (vertical-integration / merger control on AI-infrastructure deals).",
-    "co": "Group Tech · all OpCos", "owner": "Head of Legal Ops", "ownerTeam": "Group Legal"
   }
 ]

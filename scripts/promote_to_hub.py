@@ -40,12 +40,15 @@ ROOT = Path(__file__).resolve().parent.parent
 CANDIDATES_BASE = ROOT / "findings" / "candidates"
 WEBSITE_DIR = ROOT / "website"
 
-# Caps tuned 2026-05-14: previous values (5/20) capped M01 at ~20 auto
-# items per run -- felt thin once the page actually rendered. Bumped to
-# 12/50 to surface more of the day's raw signal. Reviewers can still
-# manually demote noise by editing the inline ITEMS_DATA.
-N_PER_DOMAIN = 12
-N_PER_MONITOR = 50
+# Caps tuned 2026-05-14 (third iteration):
+#   v1: 5/20  -- felt thin
+#   v2: 12/50 -- M01 got 43, M02 still 8 (M02 has fewer canonicals)
+#   v3: 25/120 + include siblings + drop match_count floor to 1
+# Volume target now is "surface everything that matched any keyword,"
+# letting the human reviewer demote noise rather than the script
+# pre-filtering aggressively.
+N_PER_DOMAIN = 25
+N_PER_MONITOR = 120
 
 # Map monitor folder name -> website folder name
 MONITOR_WEBSITE = {
@@ -124,10 +127,12 @@ def candidate_to_item(fm: dict, slug: str, theme: str, cat_label: str, owner: st
     url = (fm.get("source_url") or "").strip()
     if not title or not url:
         return None
-    if fm.get("match_count", 0) < 2:
+    if fm.get("match_count", 0) < 1:
         return None
-    if fm.get("cluster_role") and fm.get("cluster_role") != "canonical":
-        return None
+    # Previously gated to cluster_role == "canonical" -- that filtered out
+    # most siblings and limited M02 to ~8 items. Now allowing siblings so
+    # the hub reflects the full breadth; the reviewer can manually collapse
+    # duplicates after the fact.
 
     # YAML may parse date strings as datetime.date objects; coerce to str.
     source_date = str(fm.get("source_date") or fm.get("date_found") or "")

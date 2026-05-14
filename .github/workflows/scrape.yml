@@ -96,6 +96,14 @@ jobs:
         continue-on-error: true
         run: python scripts/validate_findings.py --candidates
 
+      - name: Promote top candidates to website hub
+        # Takes today's top-ranked candidates (cluster canonicals,
+        # match_count >= 2) and appends them to the inline ITEMS_DATA
+        # array in each website/<monitor>/index.html, marked auto:true.
+        # Hand-curated items are preserved; idempotent across re-runs.
+        continue-on-error: true
+        run: python scripts/promote_to_hub.py
+
       - name: Escalate top-rank findings
         # Out-of-band channel for Rank A + named OpCo + <24h items, persona
         # escalation flags, breach incidents, and dawn-raid patterns.
@@ -128,7 +136,7 @@ jobs:
         run: |
           git config user.name "Article Scraper Bot"
           git config user.email "scraper@noreply.local"
-          for path in findings/candidates findings/clusters findings/escalations metrics website/state.json; do
+          for path in findings/candidates findings/clusters findings/escalations metrics website/state.json website/monitor-01/index.html website/monitor-02/index.html; do
             if [ -e "$path" ]; then
               git add "$path"
             else

@@ -30,6 +30,7 @@ The first token of the filename tells the network which skill claims it.
 | `REDLINE-<monitor>-block<N>.md` | `redline-integration` | Spec edits + Change History + `generated/handoffs/YYYY-MM-DD-<monitor>-redline-summary.md` |
 | `SYNTHESIS-W<NN>.md` | `weekly-synthesis` | `generated/syntheses/YYYY-WNN-network-synthesis.md` |
 | `PERFORMANCE-<monitor>-<period>.md` | `monitor-performance-review` | `generated/reports/YYYY-MM-<monitor>-performance.md` |
+| `fb-YYYY-MM-DD-HHMM.md` (in `queue/feedback/inbox/`) | `feedback-integration` | `generated/reports/YYYY-MM-DD-feedback-delta.md` + retrospective re-thread in `_brain/link-map.md` |
 
 Unrecognised filenames are left untouched and listed in the next morning brief under "unprocessed queue items".
 

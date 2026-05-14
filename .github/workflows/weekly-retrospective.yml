@@ -1,0 +1,50 @@
+name: Weekly retrospective
+
+# Reads the last 7 days of archive/runs + archive/curated snapshots and
+# writes metrics/retrospective-YYYY-WNN.md. Sunday 18:00 UTC matches the
+# rhythm of "next week's review prep on Sunday evening before Monday
+# briefings."
+#
+# Idempotent: re-running mid-week overwrites the same retrospective file
+# with the latest snapshot of the window. The naming uses ISO week so
+# the orchestrator agent can read `metrics/retrospective-2026-W20.md`
+# without guessing date arithmetic.
+
+on:
+  schedule:
+    - cron: "0 18 * * 0"   # Sunday 18:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  retrospective:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install pyyaml
+
+      - name: Generate weekly retrospective
+        run: python scripts/weekly_retrospective.py
+
+      - name: Commit retrospective
+        run: |
+          git config user.name "Article Scraper Bot"
+          git config user.email "scraper@noreply.local"
+          if [ -d "metrics" ]; then
+            git add metrics/retrospective-*.md
+          fi
+          if git diff --cached --quiet; then
+            echo "No retrospective changes to commit."
+          else
+            git commit -m "Weekly retrospective: $(date -u +%Y-W%V)"
+            git push
+          fi

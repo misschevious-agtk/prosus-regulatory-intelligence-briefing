@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-14",
+  "total_candidates": 257,
+  "per_domain": {
+    "monitor-01/ai-news": 72,
+    "monitor-01/intellectual-property": 31,
+    "monitor-01/legal-ops": 71,
+    "monitor-01/privacy-data-protection": 30,
+    "monitor-02-eu-competition/abuse-of-dominance": 18,
+    "monitor-02-eu-competition/antitrust-cartels": 13,
+    "monitor-02-eu-competition/digital-markets-sector-state-aid": 22
+  },
+  "per_source": {
+    "OpenAI blog": 27,
+    "AI Snake Oil": 3,
+    "NIST news (filtered for AI in script)": 25,
+    "Hugging Face blog": 7,
+    "European Commission press": 20,
+    "IPKat blog": 11,
+    "Patently-O": 10,
+    "WIPO news": 9,
+    "TechDirt copyright": 1,
+    "LawSites (Bob Ambrogi)": 30,
+    "Above the Law": 28,
+    "Legal IT Insider": 7,
+    "Artificial Lawyer": 6,
+    "noyb news": 30,
+    "CMA news": 37,
+    "Chillin'Competition": 6
+  },
+  "clusters": [
+    {
+      "id": "",
+      "size": 24,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 22,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 16,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 9,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 9,
+      "canonical_title": ""
+    }
+  ],
+  "top_titles": {
+    "monitor-01": [
+      {
+        "title": "EU Commission internal draft would wreck core principles of the GDPR",
+        "source": "noyb news",
+        "match_count": 23,
+        "cluster_role": "canonical"
+      },
+      {
+        "title": "Data Protection Day: 5 misconceptions about data protection, debunked",
+        "source": "noyb news",
+        "match_count": 16,
+        "cluster_role": "canonical"
+      },
+      {
+        "title": "Digital Omnibus: EU DPAs reject many proposed changes to the GDPR",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "canonical"
+      },
+      {
+        "title": "Former Meta lobbyist named DPC Commissioner: Meta now officially regulates itself",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "canonical"
+      },
+      {
+        "title": "noyb WIN: French DPA fines Google €325 million for “Spam Emails” in Gmail",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "canonical"
+      }
+    ],
+    "monitor-02-eu-competition": [
+      {
+        "title": "Microsoft’s business software ecosystem: Invitation to comment",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Microsoft’s business software ecosystem",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "canonical"
+      },
+      {
+        "title": "ABF / Hovis merger inquiry",
+        "source": "CMA news",
+        "match_count": 2,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Automobile Association Developments Limited: consumer protection enforcement case",
+        "source": "CMA news",
+        "match_count": 2,
+        "cluster_role": "canonical"
+      },
+      {
+        "title": "Correspondence: CMA advice to Defra on reform of the Veterinary Surgeons Act 1966",
+        "source": "CMA news",
+        "match_count": 2,
+        "cluster_role": "sibling"
+      }
+    ]
+  },
+  "broken_feed_sources": [],
+  "top_entities": [
+    {
+      "name": "Competition and Markets Authority",
+      "count": 36
+    },
+    {
+      "name": "European Commission",
+      "count": 25
+    },
+    {
+      "name": "OpenAI",
+      "count": 18
+    },
+    {
+      "name": "World Intellectual Property Organization",
+      "count": 11
+    },
+    {
+      "name": "Anthropic",
+      "count": 8
+    },
+    {
+      "name": "Court of Justice of the European Union",
+      "count": 7
+    },
+    {
+      "name": "Alphabet / Google",
+      "count": 4
+    },
+    {
+      "name": "Unified Patent Court",
+      "count": 3
+    },
+    {
+      "name": "Department of Justice",
+      "count": 3
+    },
+    {
+      "name": "Commission Nationale de l'Informatique et des Libertés",
+      "count": 3
+    }
+  ]
+}

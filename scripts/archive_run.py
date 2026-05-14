@@ -40,6 +40,12 @@ ROOT = Path(__file__).resolve().parent.parent
 CANDIDATES_BASE = ROOT / "findings" / "candidates"
 CLUSTERS_BASE = ROOT / "findings" / "clusters"
 ARCHIVE_BASE = ROOT / "archive" / "runs"
+# archive/curated/ holds one .md per unique source URL, organised by tier
+# (A/B/C). D-tier items aren't archived -- per ranking-criteria.md, D is
+# "archive only, no review surface" which for now means: not surfaced
+# anywhere downstream, including this curated library.
+CURATED_BASE = ROOT / "archive" / "curated"
+TIER_DIRS = ("A", "B", "C")
 
 # How many examples to include in each summary bucket.
 TOP_ENTITIES_N = 10
@@ -248,6 +254,190 @@ def render_markdown(summary: dict, run_ts: str) -> str:
     return "\n".join(fm_lines) + "\n".join(body) + "\n"
 
 
+def assign_tier(fm: dict) -> str | None:
+    """Apply a candidate-stage tier proxy that mirrors the spirit of the
+    formal ranking-criteria.md tiers without requiring full finding
+    metadata. Returns 'A' / 'B' / 'C' for archive-worthy items, or None
+    for items that should be filtered out.
+
+    The full Rules 1-21 from ranking-criteria.md operate on FINDING
+    fields (severity, recommended_action_class, deadline_if_any, etc.)
+    that candidates don't have yet. Until candidates get promoted to
+    formal findings, this proxy keeps the archive useful:
+
+      A -- strong signal: cluster canonical + match_count >= 5
+                          + at least one named entity
+      B -- meaningful coverage: canonical + match_count >= 3
+      C -- minimum bar: canonical + match_count == 2
+      D (None) -- siblings, low match count, no entities -- filtered out
+
+    When candidates start being promoted to findings with the real
+    ranker output, swap this function for: `fm.get("rank")`.
+    """
+    if fm.get("cluster_role") and fm.get("cluster_role") != "canonical":
+        return None  # only canonicals reach the curated library
+    mc = int(fm.get("match_count", 0))
+    if mc < 2:
+        return None
+    entities = fm.get("entities") or []
+    if mc >= 5 and entities:
+        return "A"
+    if mc >= 3:
+        return "B"
+    return "C"
+
+
+def existing_curated_urls() -> set[str]:
+    """Walk archive/curated/*/ and return the set of source_url values
+    already archived (so we don't double-archive a URL across runs)."""
+    urls: set[str] = set()
+    for tier in TIER_DIRS:
+        d = CURATED_BASE / tier
+        if not d.exists():
+            continue
+        for md in d.glob("*.md"):
+            try:
+                text = md.read_text(encoding="utf-8")
+            except Exception:
+                continue
+            m = re.search(r'^source_url:\s*"?([^"\n]+)"?\s*$', text, re.MULTILINE)
+            if m:
+                urls.add(m.group(1).strip())
+    return urls
+
+
+def slug_from_fm(fm: dict, fallback: str) -> str:
+    """Generate a stable slug from the title. Fallback to the filename
+    stem so we keep something even if title is missing."""
+    title = (fm.get("title") or "").strip()
+    if not title:
+        return fallback
+    s = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+    return (s or fallback)[:80]
+
+
+def render_curated_md(fm: dict, tier: str, first_seen: str, monitor: str, domain: str) -> str:
+    """Render the curated-archive markdown for a single item."""
+    title = (fm.get("title") or "").strip().replace('"', "'")
+    url = (fm.get("source_url") or "").strip()
+    publisher = (fm.get("source_publisher") or "").strip().replace('"', "'")
+    source_date = str(fm.get("source_date") or "").strip()
+    summary = (fm.get("summary") or "").strip()
+
+    entities = fm.get("entities") or []
+    matched_keywords = fm.get("matched_keywords") or []
+
+    fm_lines = [
+        "---",
+        f"tier: {tier}",
+        f"first_seen: {first_seen}",
+        f"monitor: {monitor}",
+        f"domain: {domain}",
+        f'title: "{title}"',
+        f'source_url: "{url}"',
+        f'source_publisher: "{publisher}"',
+        f'source_date: "{source_date}"',
+        f"match_count: {int(fm.get('match_count', 0))}",
+    ]
+    cid = fm.get("cluster_id")
+    if cid:
+        fm_lines.append(f'cluster_id: "{cid}"')
+        fm_lines.append(f"cluster_size: {int(fm.get('cluster_size', 1))}")
+    if matched_keywords:
+        kw_yaml = ", ".join(f'"{str(k)}"' for k in matched_keywords[:15])
+        fm_lines.append(f"matched_keywords: [{kw_yaml}]")
+    if entities:
+        fm_lines.append("entities:")
+        for e in entities[:10]:
+            if not isinstance(e, dict):
+                continue
+            nm = str(e.get("name", "")).replace('"', "'")
+            tp = str(e.get("type", "")).replace('"', "'")
+            jr = str(e.get("jurisdiction", "")).replace('"', "'")
+            fm_lines.append(f'  - name: "{nm}"')
+            fm_lines.append(f'    type: "{tp}"')
+            if jr:
+                fm_lines.append(f'    jurisdiction: "{jr}"')
+    fm_lines.append("---")
+    fm_lines.append("")
+
+    body = [
+        f"# {title}",
+        "",
+        f"**Source:** [{publisher}]({url})  ",
+        f"**Tier:** {tier}  ",
+        f"**First seen:** {first_seen}  ",
+        f"**Monitor / domain:** `{monitor}` / `{domain}`",
+        "",
+        f"**Matched keywords ({int(fm.get('match_count', 0))}):** "
+        + ", ".join(str(k) for k in matched_keywords[:15]),
+        "",
+        "## Summary",
+        "",
+        summary or "_No summary captured from source feed._",
+        "",
+        "---",
+        "_Curated automatically by `scripts/archive_run.py`. Re-tier or "
+        "promote to a formal finding manually if it warrants action._",
+    ]
+    return "\n".join(fm_lines) + "\n".join(body) + "\n"
+
+
+def archive_curated(today: str) -> dict:
+    """Walk today's candidates, apply the tier proxy, deduplicate by
+    source URL against everything already in archive/curated/, and write
+    one .md per new unique URL under archive/curated/<tier>/. Returns a
+    summary dict {A: int, B: int, C: int, skipped: int}."""
+    counts = {"A": 0, "B": 0, "C": 0, "skipped_dedup": 0, "filtered": 0}
+    seen = existing_curated_urls()
+    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    day_root = CANDIDATES_BASE / today
+    if not day_root.exists():
+        return counts
+
+    for monitor_dir in sorted(day_root.iterdir()):
+        if not monitor_dir.is_dir():
+            continue
+        monitor = monitor_dir.name
+        for domain_dir in sorted(monitor_dir.iterdir()):
+            if not domain_dir.is_dir():
+                continue
+            domain = domain_dir.name
+            for md_path in domain_dir.glob("*.md"):
+                fm = parse_frontmatter(md_path)
+                if not fm:
+                    continue
+                tier = assign_tier(fm)
+                if tier is None:
+                    counts["filtered"] += 1
+                    continue
+                url = (fm.get("source_url") or "").strip()
+                if not url:
+                    counts["filtered"] += 1
+                    continue
+                if url in seen:
+                    counts["skipped_dedup"] += 1
+                    continue
+                slug = slug_from_fm(fm, md_path.stem)
+                out_dir = CURATED_BASE / tier
+                out_dir.mkdir(parents=True, exist_ok=True)
+                out_path = out_dir / f"{slug}.md"
+                # Avoid clobbering an existing different item with same slug.
+                if out_path.exists():
+                    # Append a short hash-ish suffix from the URL to disambiguate.
+                    import hashlib
+                    suffix = hashlib.sha1(url.encode("utf-8")).hexdigest()[:6]
+                    out_path = out_dir / f"{slug}-{suffix}.md"
+                out_path.write_text(
+                    render_curated_md(fm, tier, now_iso, monitor, domain),
+                    encoding="utf-8",
+                )
+                seen.add(url)
+                counts[tier] += 1
+    return counts
+
+
 def main() -> int:
     now = datetime.now(timezone.utc)
     today = now.strftime("%Y-%m-%d")
@@ -277,6 +467,18 @@ def main() -> int:
         f"snapshotted -> {md_path.relative_to(ROOT)}",
         file=sys.stderr,
     )
+
+    # Per-item tier archive: dedupe by URL across all prior runs, write
+    # one .md per unique URL under archive/curated/<tier>/.
+    curated = archive_curated(today)
+    print(
+        f"[archive_run] curated archive: "
+        f"A={curated['A']} B={curated['B']} C={curated['C']} "
+        f"(skipped {curated['skipped_dedup']} duplicates, "
+        f"filtered {curated['filtered']} low-signal)",
+        file=sys.stderr,
+    )
+
     return 0
 
 

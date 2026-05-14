@@ -6,6 +6,10 @@
    v0.3 — adds the per-article feedback widget + export-to-markdown loop.
    See system/skills/feedback-integration.md for how the system consumes
    the batches this widget produces.
+
+   v0.4 (2026-05-14) — adds archive layer (items >ARCHIVE_DAYS old are
+   hidden from live page) + topbar Export panel (filterable weekly brief
+   in Markdown / HTML / Slack / PDF).
    ===================================================================== */
 (function () {
   const THEMES = [
@@ -16,7 +20,10 @@
   ];
   const STORAGE_KEY = "lib-theme";
   const FEEDBACK_KEY = "lib-feedback-v1";
-  const FEEDBACK_WIDGET_VERSION = "0.3";
+  const FEEDBACK_WIDGET_VERSION = "0.3.1";
+  const EXPORT_STATE_KEY = "lib-export-v1";
+  const EXPORT_VERSION = "0.4";
+  const ARCHIVE_DAYS = 14;
 
   function applyTheme(id) {
     document.documentElement.setAttribute("data-theme", id);
@@ -44,6 +51,36 @@
   }
 
   const state = { monitor: null, items: [], view: "all", q: "" };
+
+  /* =====================================================================
+     ARCHIVE LAYER — items older than ARCHIVE_DAYS are tagged _archived.
+     The main page hides them from tabs, counters, search, and the grid.
+     The Export panel can opt them back in via its "include archive" toggle.
+     ===================================================================== */
+  function parseDate(dateStr) {
+    if (!dateStr) return null;
+    const d = new Date(dateStr);
+    return isNaN(d.getTime()) ? null : d;
+  }
+  function daysBetween(a, b) {
+    return Math.floor((a.getTime() - b.getTime()) / (1000 * 60 * 60 * 24));
+  }
+  function tagArchive(items) {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    return items.map(it => {
+      const d = parseDate(it.date);
+      const age = d ? daysBetween(today, d) : 0;
+      return Object.assign({}, it, {
+        _date: d,
+        _ageDays: age,
+        _archived: age > ARCHIVE_DAYS
+      });
+    });
+  }
+  function liveItems() { return state.items.filter(i => !i._archived); }
+  function archivedItems() { return state.items.filter(i => i._archived); }
+
 
   /* =====================================================================
      FEEDBACK — localStorage-backed thumbs widget + export-to-markdown.
@@ -112,34 +149,36 @@
     }
     if (status) {
       if (existing) {
-        const icon = existing.vote === "up" ? "👍" : "👎";
+        const icon = existing.vote === "up" ? "📌" : "🗑️";
+        const verb = existing.vote === "up" ? "Pinned" : "Binned";
         const exported = existing.exported_at ? " · exported" : "";
         const reason = existing.reason ? ' · "' + existing.reason + '"' : "";
         status.hidden = false;
-        status.textContent = "Your vote: " + icon + reason + exported;
+        status.textContent = verb + " " + icon + reason + exported;
       } else {
         status.hidden = true;
         status.textContent = "";
       }
     }
-    if (reasonRow) reasonRow.hidden = true;
+    // Note: reasonRow is intentionally NOT hidden here — wireCardFeedback
+    // controls its visibility based on whether the user just clicked a thumb.
   }
 
   function feedbackWidgetHTML() {
     return (
       '<div class="fb" role="group" aria-label="Feedback on this article">' +
-        '<button type="button" class="fb-btn fb-up"   aria-label="Helpful — keep this kind of item">' +
-          '<span class="fb-icon" aria-hidden="true">👍</span> Helpful' +
+        '<button type="button" class="fb-btn fb-up"   aria-label="Pin — surface more like this">' +
+          '<span class="fb-icon" aria-hidden="true">📌</span> Pin' +
         '</button>' +
-        '<button type="button" class="fb-btn fb-down" aria-label="Not helpful — less of this">' +
-          '<span class="fb-icon" aria-hidden="true">👎</span> Not for me' +
+        '<button type="button" class="fb-btn fb-down" aria-label="Bin — surface less like this">' +
+          '<span class="fb-icon" aria-hidden="true">🗑️</span> Bin' +
         '</button>' +
         '<span class="fb-status" hidden></span>' +
         '<div class="fb-reason" hidden>' +
           '<input type="text" class="fb-reason-input" maxlength="240"' +
-            ' placeholder="Optional — why? (e.g. &quot;too narrow&quot;, &quot;wrong jurisdiction&quot;, &quot;exactly what I needed&quot;)">' +
-          '<button type="button" class="fb-save">Save</button>' +
-          '<button type="button" class="fb-skip">Skip</button>' +
+            ' placeholder="Optional — add a note (press Enter to save)">' +
+          '<button type="button" class="fb-save" title="Save note">Save note</button>' +
+          '<button type="button" class="fb-skip" title="Close without a note" aria-label="Close note input">×</button>' +
         '</div>' +
       '</div>'
     );
@@ -153,38 +192,54 @@
     const reasonInput = cardEl.querySelector(".fb-reason-input");
     const saveBtn = cardEl.querySelector(".fb-save");
     const skipBtn = cardEl.querySelector(".fb-skip");
-    let pendingVote = null;
 
-    function openReason(vote) {
-      pendingVote = vote;
-      if (!reasonRow) return;
-      reasonRow.hidden = false;
-      // Pre-fill with prior reason if re-voting the same way
+    function existingVote() {
       const arr = loadFeedback();
       const monitorId = state.monitor && state.monitor.id || "unknown";
-      const existing = arr[findVote(arr, monitorId, item.id)];
-      reasonInput.value = (existing && existing.vote === vote && existing.reason) ? existing.reason : "";
-      reasonInput.focus();
+      return arr[findVote(arr, monitorId, item.id)] || null;
     }
-    function commit(reason) {
-      if (!pendingVote) return;
-      recordVote(item, pendingVote, reason || "");
-      pendingVote = null;
+
+    // Clicking a thumb registers the vote IMMEDIATELY. The optional note
+    // input slides out below so the user *can* add context if they want —
+    // but the vote is already saved. Save (or Enter) updates the existing
+    // vote with a note. × (or Escape) just dismisses the note field.
+    function castVote(vote) {
+      const prior = existingVote();
+      const reason = (prior && prior.vote === vote && prior.reason) ? prior.reason : "";
+      recordVote(item, vote, reason);
+      paintCardFeedback(cardEl, item);
+      if (reasonRow) {
+        reasonRow.hidden = false;
+        reasonInput.value = reason;
+        // Defer focus so the slide-in animation doesn't scroll the page.
+        setTimeout(() => reasonInput.focus({ preventScroll: true }), 0);
+      }
+    }
+    function saveNote() {
+      const current = existingVote();
+      if (!current) { if (reasonRow) reasonRow.hidden = true; return; }
+      recordVote(item, current.vote, reasonInput.value);
       if (reasonRow) reasonRow.hidden = true;
       paintCardFeedback(cardEl, item);
     }
+    function dismissNote() {
+      if (reasonRow) reasonRow.hidden = true;
+    }
 
-    if (up)   up.addEventListener("click", () => openReason("up"));
-    if (down) down.addEventListener("click", () => openReason("down"));
-    if (saveBtn) saveBtn.addEventListener("click", () => commit(reasonInput.value));
-    if (skipBtn) skipBtn.addEventListener("click", () => commit(""));
+    if (up)   up.addEventListener("click", () => castVote("up"));
+    if (down) down.addEventListener("click", () => castVote("down"));
+    if (saveBtn) saveBtn.addEventListener("click", saveNote);
+    if (skipBtn) skipBtn.addEventListener("click", dismissNote);
     if (reasonInput) {
       reasonInput.addEventListener("keydown", (e) => {
-        if (e.key === "Enter") { e.preventDefault(); commit(reasonInput.value); }
-        if (e.key === "Escape") { e.preventDefault(); if (reasonRow) reasonRow.hidden = true; pendingVote = null; }
+        if (e.key === "Enter")  { e.preventDefault(); saveNote(); }
+        if (e.key === "Escape") { e.preventDefault(); dismissNote(); }
       });
     }
+    // Initial paint reflects any prior vote; the note row stays hidden
+    // on first render and only appears after a click.
     paintCardFeedback(cardEl, item);
+    if (reasonRow) reasonRow.hidden = true;
   }
 
   function buildBatchMarkdown(allVotes, unexported) {
@@ -305,6 +360,316 @@
     if (newCt) newCt.textContent = n;
   }
 
+
+  /* =====================================================================
+     EXPORT — filterable weekly-brief export in four formats.
+     ===================================================================== */
+  const DEFAULT_EXPORT_STATE = {
+    dateRange: "last7",
+    dateFrom: "",
+    dateTo: "",
+    countries: [],
+    themes: [],
+    risks: [],
+    includeArchive: false,
+    format: "markdown"
+  };
+  let exportState = Object.assign({}, DEFAULT_EXPORT_STATE);
+
+  function loadExportState() {
+    try {
+      const raw = localStorage.getItem(EXPORT_STATE_KEY);
+      if (!raw) return;
+      const parsed = JSON.parse(raw);
+      if (parsed && typeof parsed === "object") {
+        exportState = Object.assign({}, DEFAULT_EXPORT_STATE, parsed);
+      }
+    } catch (e) {}
+  }
+  function saveExportState() {
+    try { localStorage.setItem(EXPORT_STATE_KEY, JSON.stringify(exportState)); } catch (e) {}
+  }
+
+  function dateWindow() {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    if (exportState.dateRange === "all") {
+      return { from: null, to: null, label: "all dates" };
+    }
+    if (exportState.dateRange === "custom") {
+      const from = exportState.dateFrom ? parseDate(exportState.dateFrom) : null;
+      const to   = exportState.dateTo   ? parseDate(exportState.dateTo)   : null;
+      return {
+        from: from, to: to,
+        label: (from ? exportState.dateFrom : "earliest") + " -> " + (to ? exportState.dateTo : "latest")
+      };
+    }
+    const days = exportState.dateRange === "last7" ? 7
+              : exportState.dateRange === "last14" ? 14
+              : 30;
+    const from = new Date(today);
+    from.setDate(from.getDate() - (days - 1));
+    return { from: from, to: today, label: "last " + days + " days" };
+  }
+
+  function applyExportFilters() {
+    const win = dateWindow();
+    const cs = new Set(exportState.countries);
+    const ts = new Set(exportState.themes);
+    const rs = new Set(exportState.risks);
+    return state.items.filter(it => {
+      if (it._archived && !exportState.includeArchive) return false;
+      if (win.from && (!it._date || it._date < win.from)) return false;
+      if (win.to   && (!it._date || it._date > win.to))   return false;
+      if (cs.size && !cs.has(it.country)) return false;
+      if (ts.size && !ts.has(it.theme))   return false;
+      if (rs.size && !rs.has(it.risk))    return false;
+      return true;
+    }).sort((a, b) => {
+      const ad = a._date ? a._date.getTime() : 0;
+      const bd = b._date ? b._date.getTime() : 0;
+      if (bd !== ad) return bd - ad;
+      const rank = { high: 0, med: 1, low: 2 };
+      return (rank[a.risk] != null ? rank[a.risk] : 3) - (rank[b.risk] != null ? rank[b.risk] : 3);
+    });
+  }
+
+  function exportFilterSummary(items) {
+    const win = dateWindow();
+    const m = state.monitor || {};
+    return {
+      monitor_code: m.code || "-",
+      monitor_name: m.name || "",
+      monitor_id: m.id || "",
+      generated_at: new Date().toISOString(),
+      date_label: win.label,
+      countries: exportState.countries.slice().sort(),
+      themes: exportState.themes.slice().sort(),
+      risks: exportState.risks.slice().sort(),
+      include_archive: exportState.includeArchive,
+      count: items.length,
+      high: items.filter(i => i.risk === "high").length,
+      med:  items.filter(i => i.risk === "med").length,
+      low:  items.filter(i => i.risk === "low").length
+    };
+  }
+
+  function pad2(n) { return String(n).padStart(2, "0"); }
+  function isoStamp(d) {
+    return d.getUTCFullYear() + "-" + pad2(d.getUTCMonth()+1) + "-" + pad2(d.getUTCDate()) +
+           "-" + pad2(d.getUTCHours()) + pad2(d.getUTCMinutes());
+  }
+  function exportFilenameBase() {
+    const m = state.monitor || {};
+    const code = (m.code || "monitor").toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    return code + "-brief-" + isoStamp(new Date());
+  }
+
+  function buildExportMarkdown(items, meta) {
+    const head =
+      "---\n" +
+      "monitor: " + meta.monitor_code + " - " + meta.monitor_name + "\n" +
+      "monitor-id: " + meta.monitor_id + "\n" +
+      "generated-at: " + meta.generated_at + "\n" +
+      "generated-by: website-export v" + EXPORT_VERSION + "\n" +
+      "date-window: " + meta.date_label + "\n" +
+      (meta.countries.length ? "countries: [" + meta.countries.join(", ") + "]\n" : "countries: all\n") +
+      (meta.themes.length    ? "themes: [" + meta.themes.join(", ") + "]\n"       : "themes: all\n") +
+      (meta.risks.length     ? "risks: [" + meta.risks.join(", ") + "]\n"         : "risks: all\n") +
+      "include-archive: " + (meta.include_archive ? "true" : "false") + "\n" +
+      "items: " + meta.count + " (high " + meta.high + " | med " + meta.med + " | low " + meta.low + ")\n" +
+      "---\n\n" +
+      "# " + meta.monitor_code + " - Regulatory Brief\n" +
+      "_" + meta.date_label + " | " + meta.count + " " + (meta.count === 1 ? "item" : "items") + "_\n\n";
+    if (!items.length) return head + "_No items match the selected filters._\n";
+    const groups = {};
+    items.forEach(it => {
+      const k = it.catLabel || it.theme || "Other";
+      (groups[k] = groups[k] || []).push(it);
+    });
+    const body = Object.keys(groups).sort().map(k => {
+      const block = groups[k];
+      const h = "## " + k + " (" + block.length + ")\n\n";
+      const lines = block.map(it => {
+        const risk = (it.risk || "low").toUpperCase();
+        const line1 = "### " + (it.title || "(untitled)") + "\n";
+        const meta1 =
+          "- **" + risk + "** | " + (it.countryLabel || it.country || "-") +
+          " | " + (it.dateLabel || it.date || "-") +
+          (it.rule ? " | " + it.rule : "") +
+          (it._archived ? " | _archived_" : "") + "\n" +
+          (it.source ? "- Source: " + (it.url ? "[" + it.source + "](" + it.url + ")" : it.source) + "\n" : "") +
+          (it.co ? "- OpCos: **" + it.co + "**\n" : "") +
+          (it.owner ? "- Owner: " + it.owner + (it.ownerTeam ? " | " + it.ownerTeam : "") + "\n" : "");
+        const body1 = it.body ? "\n" + it.body + "\n" : "";
+        const why1  = it.why  ? "\n> **Why it matters ->** " + it.why + "\n" : "";
+        return line1 + meta1 + body1 + why1 + "\n";
+      }).join("");
+      return h + lines;
+    }).join("");
+    return head + body;
+  }
+
+  function buildExportSlack(items, meta) {
+    const head =
+      "*" + meta.monitor_code + " - Regulatory Brief* | " + meta.date_label + "\n" +
+      "_" + meta.count + " items | " + meta.high + " high | " + meta.med + " med | " + meta.low + " low" +
+      (meta.countries.length ? " | " + meta.countries.join("/") : "") +
+      "_\n\n";
+    if (!items.length) return head + "_No items match the selected filters._";
+    const body = items.map(it => {
+      const riskTag = it.risk === "high" ? ":red_circle:"
+                    : it.risk === "med"  ? ":large_orange_circle:"
+                    : ":large_green_circle:";
+      const country = it.countryLabel || it.country || "-";
+      const date = it.dateLabel || it.date || "-";
+      const titleLine = it.url
+        ? riskTag + " *<" + it.url + "|" + (it.title || "(untitled)") + ">*"
+        : riskTag + " *" + (it.title || "(untitled)") + "*";
+      const meta1 = "_" + country + " | " + date +
+        (it.catLabel ? " | " + it.catLabel : "") +
+        (it.rule ? " | " + it.rule : "") +
+        (it.source ? " | " + it.source : "") + "_";
+      const why = it.why ? "\n> " + it.why.replace(/\n/g, " ") : "";
+      return titleLine + "\n" + meta1 + why;
+    }).join("\n\n");
+    const footer = "\n\n_Generated by " + meta.monitor_code + " export v" + EXPORT_VERSION + " | " + meta.generated_at.slice(0, 16).replace("T", " ") + " UTC_";
+    return head + body + footer;
+  }
+
+  function buildExportHTML(items, meta) {
+    const css =
+      "body{font-family:Verdana,Geneva,sans-serif;color:#1B0838;background:#fff;margin:32px;line-height:1.55;}" +
+      "h1{font-size:22px;margin:0 0 4px;color:#370180;}" +
+      "h2{font-size:16px;margin:24px 0 8px;color:#571580;border-bottom:0.5px solid #ddd;padding-bottom:4px;}" +
+      "h3{font-size:14px;margin:14px 0 4px;color:#1B0838;}" +
+      ".meta{font-size:11.5px;color:#666;margin-bottom:16px;}" +
+      ".item{margin-bottom:14px;padding-bottom:10px;border-bottom:0.5px dashed #eee;page-break-inside:avoid;}" +
+      ".tags{font-size:11px;color:#555;margin:2px 0 6px;}" +
+      ".tag{display:inline-block;padding:1px 7px;border-radius:999px;border:0.5px solid #ddd;margin-right:4px;background:#f7f3ea;}" +
+      ".tag.high{background:#FBE0EF;color:#B8124E;border-color:#f0c6d8;}" +
+      ".tag.med{background:#FFF1DC;color:#B86A12;border-color:#f0d8b0;}" +
+      ".tag.low{background:#DDF5EE;color:#007459;border-color:#bfe4d6;}" +
+      ".tag.archived{background:#eee;color:#888;}" +
+      ".body{font-size:13px;color:#333;margin:4px 0;}" +
+      ".why{background:#FBE0EF;border-left:3px solid #D90276;padding:6px 12px;font-size:12px;margin:6px 0;border-radius:0 6px 6px 0;}" +
+      ".foot{font-size:11px;color:#888;margin-top:32px;border-top:0.5px solid #ddd;padding-top:8px;}" +
+      "a{color:#571580;}" +
+      "@media print { body{margin:14mm;} h2{break-after:avoid;} }";
+    const safe = (s) => esc(s == null ? "" : s);
+    const itemsHTML = items.length
+      ? items.map(it => {
+          const riskClass = it.risk || "low";
+          const riskLabel = (it.risk || "low").toUpperCase();
+          return '<div class="item">' +
+            '<h3>' + (it.url ? '<a href="' + safe(it.url) + '" target="_blank" rel="noopener">' + safe(it.title) + " &#8599;</a>" : safe(it.title)) + "</h3>" +
+            '<div class="tags">' +
+              '<span class="tag ' + riskClass + '">' + riskLabel + "</span>" +
+              (it.countryLabel ? '<span class="tag">' + safe(it.countryLabel) + "</span>" : "") +
+              (it.catLabel ? '<span class="tag">' + safe(it.catLabel) + "</span>" : "") +
+              (it.dateLabel ? '<span class="tag">' + safe(it.dateLabel) + "</span>" : "") +
+              (it.rule ? '<span class="tag">' + safe(it.rule) + "</span>" : "") +
+              (it.source ? '<span class="tag">' + safe(it.source) + "</span>" : "") +
+              (it._archived ? '<span class="tag archived">archived</span>' : "") +
+            "</div>" +
+            (it.body ? '<div class="body">' + safe(it.body) + "</div>" : "") +
+            (it.why ? '<div class="why"><b>Why it matters -&gt;</b> ' + safe(it.why) + "</div>" : "") +
+            (it.co || it.owner ?
+              '<div class="tags">' +
+                (it.co ? '<span class="tag">OpCos: ' + safe(it.co) + "</span>" : "") +
+                (it.owner ? '<span class="tag">' + safe(it.owner) + (it.ownerTeam ? " | " + safe(it.ownerTeam) : "") + "</span>" : "") +
+              "</div>" : "") +
+            "</div>";
+        }).join("")
+      : '<div class="item"><i>No items match the selected filters.</i></div>';
+    const metaLine =
+      "Window: " + safe(meta.date_label) +
+      " | " + meta.count + " items (" + meta.high + " high | " + meta.med + " med | " + meta.low + " low)" +
+      (meta.countries.length ? " | countries: " + meta.countries.join(", ") : " | countries: all") +
+      (meta.themes.length    ? " | themes: " + meta.themes.join(", ")       : "") +
+      (meta.risks.length     ? " | risks: " + meta.risks.join(", ")         : "") +
+      (meta.include_archive ? " | includes archive" : "");
+    return "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\">" +
+      "<title>" + safe(meta.monitor_code) + " - Regulatory Brief - " + safe(meta.date_label) + "</title>" +
+      "<style>" + css + "</style></head><body>" +
+      "<h1>" + safe(meta.monitor_code) + " - Regulatory Brief</h1>" +
+      "<div class=\"meta\">" + metaLine + "</div>" +
+      itemsHTML +
+      "<div class=\"foot\">" +
+        "Generated " + safe(meta.generated_at) + " | " + safe(meta.monitor_name) +
+        " | website-export v" + EXPORT_VERSION +
+        " | Privileged | Prosus internal + named external counsel" +
+      "</div>" +
+      "</body></html>";
+  }
+
+  function downloadBlob(filename, content, mime) {
+    const blob = new Blob([content], { type: mime + ";charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click();
+    setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 800);
+  }
+  function copyToClipboard(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      return navigator.clipboard.writeText(text);
+    }
+    return new Promise((resolve, reject) => {
+      try {
+        const ta = document.createElement("textarea");
+        ta.value = text;
+        ta.style.position = "fixed"; ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.focus(); ta.select();
+        const ok = document.execCommand("copy");
+        ta.remove();
+        ok ? resolve() : reject(new Error("execCommand failed"));
+      } catch (e) { reject(e); }
+    });
+  }
+
+  function runExport() {
+    const items = applyExportFilters();
+    const meta = exportFilterSummary(items);
+    const base = exportFilenameBase();
+    if (exportState.format === "markdown") {
+      downloadBlob(base + ".md", buildExportMarkdown(items, meta), "text/markdown");
+      flashExportStatus("Exported " + meta.count + " items -> " + base + ".md");
+    } else if (exportState.format === "slack") {
+      const text = buildExportSlack(items, meta);
+      copyToClipboard(text).then(
+        () => flashExportStatus("Copied Slack block to clipboard (" + meta.count + " items)"),
+        () => {
+          downloadBlob(base + "-slack.txt", text, "text/plain");
+          flashExportStatus("Clipboard blocked - saved as " + base + "-slack.txt");
+        }
+      );
+    } else if (exportState.format === "html") {
+      const html = buildExportHTML(items, meta);
+      const w = window.open("", "_blank");
+      if (w) { w.document.write(html); w.document.close(); }
+      else downloadBlob(base + ".html", html, "text/html");
+      flashExportStatus("Opened printable brief (" + meta.count + " items)");
+    } else if (exportState.format === "pdf") {
+      const html = buildExportHTML(items, meta) +
+        "<script>window.addEventListener('load', function(){setTimeout(function(){window.print();}, 200);});<\/script>";
+      const w = window.open("", "_blank");
+      if (w) { w.document.write(html); w.document.close(); }
+      else downloadBlob(base + ".html", html, "text/html");
+      flashExportStatus("Opened print dialog - choose Save as PDF");
+    }
+  }
+
+  function flashExportStatus(msg) {
+    const el = $("#ex-status");
+    if (!el) return;
+    el.textContent = msg;
+    el.classList.add("show");
+    clearTimeout(flashExportStatus._t);
+    flashExportStatus._t = setTimeout(() => el.classList.remove("show"), 3500);
+  }
+
   /* =====================================================================
      RENDERERS
      ===================================================================== */
@@ -318,7 +683,7 @@
 
     const tabs = $("#tabs");
     tabs.innerHTML = "";
-    tabs.appendChild(makeTab("all", "All items", state.items.length));
+    tabs.appendChild(makeTab("all", "All items", liveItems().length));
     (m.topics || []).forEach(t => {
       tabs.appendChild(makeTab(t.id, t.label, countByTopic(t.id), t.color));
     });
@@ -345,12 +710,13 @@
       chipsRow.appendChild(note);
     }
 
-    const high = state.items.filter(i => i.risk === "high").length;
-    const med  = state.items.filter(i => i.risk === "med").length;
-    $("#ct-total").textContent = state.items.length;
+    const live = liveItems();
+    const high = live.filter(i => i.risk === "high").length;
+    const med  = live.filter(i => i.risk === "med").length;
+    $("#ct-total").textContent = live.length;
     $("#ct-high").textContent  = high;
     $("#ct-med").textContent   = med;
-    $("#search-input").placeholder = "Search across " + state.items.length + " items…";
+    $("#search-input").placeholder = "Search across " + live.length + " items…";
 
     $("#footer-meta").textContent =
       (m.privilege_note || "Privileged · Prosus internal + named external counsel") +
@@ -374,7 +740,7 @@
   }
 
   function countByTopic(topicId) {
-    return state.items.filter(i => i.theme === topicId).length;
+    return liveItems().filter(i => i.theme === topicId).length;
   }
 
   function topicLookup() {
@@ -384,6 +750,7 @@
   }
 
   function matches(it) {
+    if (it._archived) return false;            // archive is hidden from live page
     if (state.view !== "all" && it.theme !== state.view) return false;
     if (state.q) {
       const hay = [it.title, it.body, it.why, it.co, it.countryLabel, it.catLabel]
@@ -447,7 +814,7 @@
 
     $$(".tab").forEach(t => {
       const v = t.dataset.view;
-      const ct = v === "all" ? state.items.length : countByTopic(v);
+      const ct = v === "all" ? liveItems().length : countByTopic(v);
       const span = t.querySelector(".tab-ct");
       if (span) span.textContent = ct;
     });
@@ -536,10 +903,215 @@
     updateFeedbackBadge();
   }
 
+
+  /* =====================================================================
+     EXPORT PANEL — mounts the topbar Export button + dropdown.
+     ===================================================================== */
+  function mountExportPanel() {
+    loadExportState();
+    const themeContainer = $("#theme-toggle") && $("#theme-toggle").parentElement;
+    if (!themeContainer) return;
+
+    const wrap = document.createElement("div");
+    wrap.style.position = "relative";
+    wrap.style.marginRight = "8px";
+    wrap.innerHTML =
+      '<button class="theme-toggle ex-toggle" id="ex-toggle" aria-haspopup="true" aria-expanded="false" title="Export a regulatory brief">' +
+        'Export <span class="ex-badge" id="ex-badge">0</span>' +
+      '</button>' +
+      '<div class="theme-menu ex-panel" id="ex-panel" role="menu">' +
+        '<div class="ex-head">Export a regulatory brief</div>' +
+        '<div class="ex-section">' +
+          '<div class="ex-label">Date window</div>' +
+          '<div class="ex-row ex-row-segment" id="ex-daterange" role="radiogroup" aria-label="Date window">' +
+            '<button data-range="last7"  class="ex-seg">Last 7d</button>' +
+            '<button data-range="last14" class="ex-seg">Last 14d</button>' +
+            '<button data-range="last30" class="ex-seg">Last 30d</button>' +
+            '<button data-range="custom" class="ex-seg">Custom</button>' +
+            '<button data-range="all"    class="ex-seg">All</button>' +
+          '</div>' +
+          '<div class="ex-row ex-row-custom" id="ex-custom" hidden>' +
+            '<input type="date" id="ex-from" aria-label="From date">' +
+            '<span class="ex-arrow">-&gt;</span>' +
+            '<input type="date" id="ex-to" aria-label="To date">' +
+          '</div>' +
+        '</div>' +
+        '<div class="ex-section">' +
+          '<div class="ex-label">Country / jurisdiction</div>' +
+          '<div class="ex-chiprow" id="ex-countries"></div>' +
+        '</div>' +
+        '<div class="ex-section">' +
+          '<div class="ex-label">Theme</div>' +
+          '<div class="ex-chiprow" id="ex-themes"></div>' +
+        '</div>' +
+        '<div class="ex-section">' +
+          '<div class="ex-label">Risk</div>' +
+          '<div class="ex-chiprow" id="ex-risks">' +
+            '<button data-risk="high" class="ex-chip ex-chip-risk r-high">HIGH</button>' +
+            '<button data-risk="med"  class="ex-chip ex-chip-risk r-med">MED</button>' +
+            '<button data-risk="low"  class="ex-chip ex-chip-risk r-low">LOW</button>' +
+          '</div>' +
+        '</div>' +
+        '<div class="ex-section ex-archive-row">' +
+          '<label class="ex-check"><input type="checkbox" id="ex-archive"> Include archived items (&gt;' + ARCHIVE_DAYS + ' days old)</label>' +
+          '<span class="ex-archive-count" id="ex-archive-count"></span>' +
+        '</div>' +
+        '<div class="ex-section">' +
+          '<div class="ex-label">Format</div>' +
+          '<div class="ex-row ex-row-segment" id="ex-format" role="radiogroup" aria-label="Export format">' +
+            '<button data-format="markdown" class="ex-seg">Markdown</button>' +
+            '<button data-format="html"     class="ex-seg">HTML</button>' +
+            '<button data-format="slack"    class="ex-seg">Slack</button>' +
+            '<button data-format="pdf"      class="ex-seg">PDF</button>' +
+          '</div>' +
+        '</div>' +
+        '<div class="ex-actions">' +
+          '<button class="ex-go" id="ex-go">Export <span id="ex-count">0</span> items</button>' +
+          '<button class="ex-reset" id="ex-reset" title="Reset filters">Reset</button>' +
+        '</div>' +
+        '<div class="ex-status" id="ex-status"></div>' +
+      '</div>';
+    themeContainer.parentNode.insertBefore(wrap, themeContainer);
+
+    const btn = $("#ex-toggle");
+    const panel = $("#ex-panel");
+
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const open = panel.hasAttribute("open");
+      if (open) panel.removeAttribute("open");
+      else { panel.setAttribute("open", ""); updateExportPreviewCount(); }
+    });
+    document.addEventListener("click", (e) => {
+      if (!panel.contains(e.target) && e.target !== btn) panel.removeAttribute("open");
+    });
+
+    $$("#ex-daterange .ex-seg").forEach(b => {
+      b.addEventListener("click", () => {
+        exportState.dateRange = b.dataset.range;
+        $$("#ex-daterange .ex-seg").forEach(x => x.classList.toggle("active", x === b));
+        $("#ex-custom").hidden = (exportState.dateRange !== "custom");
+        saveExportState(); updateExportPreviewCount();
+      });
+    });
+    $("#ex-from").addEventListener("change", (e) => { exportState.dateFrom = e.target.value; saveExportState(); updateExportPreviewCount(); });
+    $("#ex-to").addEventListener("change",   (e) => { exportState.dateTo   = e.target.value; saveExportState(); updateExportPreviewCount(); });
+
+    $$("#ex-risks .ex-chip-risk").forEach(b => {
+      b.addEventListener("click", () => {
+        const r = b.dataset.risk;
+        const i = exportState.risks.indexOf(r);
+        if (i >= 0) exportState.risks.splice(i, 1); else exportState.risks.push(r);
+        b.classList.toggle("active");
+        saveExportState(); updateExportPreviewCount();
+      });
+    });
+
+    $("#ex-archive").addEventListener("change", (e) => {
+      exportState.includeArchive = !!e.target.checked;
+      saveExportState(); updateExportPreviewCount();
+    });
+
+    $$("#ex-format .ex-seg").forEach(b => {
+      b.addEventListener("click", () => {
+        exportState.format = b.dataset.format;
+        $$("#ex-format .ex-seg").forEach(x => x.classList.toggle("active", x === b));
+        saveExportState();
+      });
+    });
+
+    $("#ex-go").addEventListener("click", () => { runExport(); });
+    $("#ex-reset").addEventListener("click", () => {
+      exportState = Object.assign({}, DEFAULT_EXPORT_STATE);
+      saveExportState();
+      paintExportPanelState();
+      refreshExportPanelOptions();
+      updateExportPreviewCount();
+    });
+
+    paintExportPanelState();
+  }
+
+  function paintExportPanelState() {
+    $$("#ex-daterange .ex-seg").forEach(b => b.classList.toggle("active", b.dataset.range === exportState.dateRange));
+    const cust = $("#ex-custom"); if (cust) cust.hidden = (exportState.dateRange !== "custom");
+    const from = $("#ex-from"); if (from) from.value = exportState.dateFrom || "";
+    const to   = $("#ex-to");   if (to)   to.value   = exportState.dateTo   || "";
+    $$("#ex-risks .ex-chip-risk").forEach(b => b.classList.toggle("active", exportState.risks.indexOf(b.dataset.risk) >= 0));
+    const arch = $("#ex-archive"); if (arch) arch.checked = !!exportState.includeArchive;
+    $$("#ex-format .ex-seg").forEach(b => b.classList.toggle("active", b.dataset.format === exportState.format));
+  }
+
+  function refreshExportPanelOptions() {
+    const m = state.monitor;
+    if (!m) return;
+    const seen = {};
+    state.items.forEach(it => {
+      if (!it.country) return;
+      seen[it.country] = it.countryLabel || it.country;
+    });
+    const countries = Object.keys(seen).sort();
+    const cwrap = $("#ex-countries");
+    if (cwrap) {
+      cwrap.innerHTML = countries.map(c =>
+        '<button data-country="' + esc(c) + '" class="ex-chip ex-chip-country' +
+          (exportState.countries.indexOf(c) >= 0 ? " active" : "") + '">' +
+          esc(seen[c]) +
+        "</button>"
+      ).join("");
+      $$("#ex-countries .ex-chip-country").forEach(b => {
+        b.addEventListener("click", () => {
+          const c = b.dataset.country;
+          const i = exportState.countries.indexOf(c);
+          if (i >= 0) exportState.countries.splice(i, 1); else exportState.countries.push(c);
+          b.classList.toggle("active");
+          saveExportState(); updateExportPreviewCount();
+        });
+      });
+    }
+    const twrap = $("#ex-themes");
+    if (twrap) {
+      const topics = (m.topics || []);
+      twrap.innerHTML = topics.map(t =>
+        '<button data-theme="' + esc(t.id) + '" class="ex-chip ex-chip-theme' +
+          (exportState.themes.indexOf(t.id) >= 0 ? " active" : "") + '"' +
+          (t.color ? ' style="--topic-color:' + esc(t.color) + '"' : "") + '>' +
+          esc(t.label) +
+        "</button>"
+      ).join("");
+      $$("#ex-themes .ex-chip-theme").forEach(b => {
+        b.addEventListener("click", () => {
+          const id = b.dataset.theme;
+          const i = exportState.themes.indexOf(id);
+          if (i >= 0) exportState.themes.splice(i, 1); else exportState.themes.push(id);
+          b.classList.toggle("active");
+          saveExportState(); updateExportPreviewCount();
+        });
+      });
+    }
+    const archCt = $("#ex-archive-count");
+    if (archCt) {
+      const n = archivedItems().length;
+      archCt.textContent = n ? "(" + n + " archived)" : "(none yet)";
+    }
+    updateExportPreviewCount();
+  }
+
+  function updateExportPreviewCount() {
+    const n = applyExportFilters().length;
+    const c = $("#ex-count"); if (c) c.textContent = n;
+    const badge = $("#ex-badge");
+    if (badge) {
+      badge.textContent = n;
+      badge.classList.toggle("has", n > 0);
+    }
+  }
+
   async function boot() {
     mountThemePicker();
     mountSearch();
     mountFeedbackPanel();
+    mountExportPanel();
     // Prefer inline data (works over file:// and CDN both); fall back to fetch.
     let m = null, items = null;
     try {
@@ -554,10 +1126,12 @@
         m = r[0]; items = r[1];
       }
       state.monitor = m;
-      state.items = Array.isArray(items) ? items : (items.items || []);
+      const rawItems = Array.isArray(items) ? items : (items.items || []);
+      state.items = tagArchive(rawItems);
       renderChrome(m);
       renderItems();
       updateFeedbackBadge();
+      refreshExportPanelOptions();
     } catch (err) {
       console.error("Monitor failed to load", err);
       const grid = $("#item-grid");

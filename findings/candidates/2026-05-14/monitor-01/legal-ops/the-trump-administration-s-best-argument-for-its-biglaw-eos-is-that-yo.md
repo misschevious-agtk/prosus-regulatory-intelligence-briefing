@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-27589cc73c
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-05-14T21:14:29+00:00'
+cluster_id: cluster-2026-05-14-8592fdea8d
+cluster_size: 20
+cluster_role: sibling
+ranked_at: '2026-05-15T09:47:43+00:00'
+cluster_canonical_slug: morning-docket-05-13-26
 ---
 
 # The Trump Administration’s Best Argument For Its Biglaw EOs Is That You Just Have To Trust The President

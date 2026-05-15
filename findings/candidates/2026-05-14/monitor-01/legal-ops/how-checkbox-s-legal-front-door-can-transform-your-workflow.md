@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-0426d6b6e3
-cluster_size: 3
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-05-14T21:14:29+00:00'
+ranked_at: '2026-05-15T09:47:43+00:00'
 ---
 
 # How Checkbox’s ‘Legal Front Door’ Can Transform Your Workflow

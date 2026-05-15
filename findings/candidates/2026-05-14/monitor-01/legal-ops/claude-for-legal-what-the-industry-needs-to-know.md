@@ -20,10 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-05-14-3fdf533ed6
-cluster_size: 20
-cluster_role: canonical
-ranked_at: '2026-05-14T21:14:29+00:00'
+cluster_id: cluster-2026-05-15-9d571c9834
+cluster_size: 42
+cluster_role: sibling
+ranked_at: '2026-05-15T09:47:43+00:00'
+cluster_canonical_slug: imanage-unveils-open-protocol
 ---
 
 # Claude for Legal: What the industry needs to know

@@ -19,9 +19,9 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-05-14-c12d5204b3
-cluster_size: 11
+cluster_size: 22
 cluster_role: canonical
-ranked_at: '2026-05-14T21:14:29+00:00'
+ranked_at: '2026-05-15T09:47:43+00:00'
 ---
 
 # NEWSLETTER del 1 agosto 2025 - Videosorveglianza, il Garante privacy scrive a Confcommercio: attenzione agli abusi - Data breach, il Garante sanziona Poste Vita per 80mila euro - Lavoro, il Garante privacy sanziona un’azienda per questionari post-malattia

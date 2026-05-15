@@ -20,9 +20,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-8592fdea8d
-cluster_size: 7
+cluster_size: 20
 cluster_role: canonical
-ranked_at: '2026-05-14T21:14:29+00:00'
+ranked_at: '2026-05-15T09:47:43+00:00'
 ---
 
 # Morning Docket: 05.13.26

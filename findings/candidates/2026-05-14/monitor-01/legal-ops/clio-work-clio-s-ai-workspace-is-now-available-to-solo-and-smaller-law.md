@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-c5ac015c4c
-cluster_size: 3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: guest-post-the-intake-form-is-dead-long-live-the-template
-ranked_at: '2026-05-14T21:14:29+00:00'
+ranked_at: '2026-05-15T09:47:43+00:00'
 ---
 
 # Clio Work, Clio’s AI Workspace, Is Now Available To Solo and Smaller Law Firms As A Standalone Product

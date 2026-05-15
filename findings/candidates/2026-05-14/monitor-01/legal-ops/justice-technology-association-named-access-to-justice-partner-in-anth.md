@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-05-14-3fdf533ed6
-cluster_size: 20
+cluster_id: cluster-2026-05-15-9d571c9834
+cluster_size: 42
 cluster_role: sibling
-cluster_canonical_slug: claude-for-legal-what-the-industry-needs-to-know
-ranked_at: '2026-05-14T21:14:29+00:00'
+cluster_canonical_slug: imanage-unveils-open-protocol
+ranked_at: '2026-05-15T09:47:43+00:00'
 ---
 
 # Justice Technology Association Named Access to Justice Partner in Anthropic’s Legal AI Launch

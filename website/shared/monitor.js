@@ -1,15 +1,18 @@
 /* =====================================================================
-   Legal Intelligence Briefing — universal monitor renderer
+   Legal Intelligence Briefing - universal monitor renderer
    Expects two files alongside the page: monitor.json + items.json
    (or inline window.MONITOR_DATA / window.ITEMS_DATA for file:// use).
 
-   v0.3 — adds the per-article feedback widget + export-to-markdown loop.
-   See system/skills/feedback-integration.md for how the system consumes
-   the batches this widget produces.
-
-   v0.4 (2026-05-14) — adds archive layer (items >ARCHIVE_DAYS old are
-   hidden from live page) + topbar Export panel (filterable weekly brief
-   in Markdown / HTML / Slack / PDF).
+   v0.3 - per-article feedback widget + export-to-markdown loop.
+   v0.4 (2026-05-14) - archive layer (>ARCHIVE_DAYS old items hidden)
+                       + topbar Export panel (MD / HTML / Slack / PDF).
+   v0.5 (2026-05-15) - Direction B build:
+     * Combobox filter bar (Country / Risk / When) above the items list
+     * Export moves from dropdown to right-side drawer + backdrop
+     * Card risk-class (.risk-high / .risk-med / .risk-low) drives
+       the Pattern C left-border accent
+   Storage keys preserved: lib-theme, lib-feedback-v1, lib-export-v1.
+   monitor.json + items.json schemas unchanged.
    ===================================================================== */
 (function () {
   const THEMES = [
@@ -50,12 +53,19 @@
     return "rgba(" + n[0] + "," + n[1] + "," + n[2] + "," + a + ")";
   }
 
-  const state = { monitor: null, items: [], view: "all", q: "" };
+  // v0.5: filters added. countries[], risks[], when ('all' | 'today' | 'last7' | 'last30').
+  const state = {
+    monitor: null,
+    items: [],
+    view: "all",
+    q: "",
+    filters: { countries: [], risks: [], when: "all" }
+  };
 
   /* =====================================================================
-     ARCHIVE LAYER — items older than ARCHIVE_DAYS are tagged _archived.
+     ARCHIVE LAYER - items older than ARCHIVE_DAYS are tagged _archived.
      The main page hides them from tabs, counters, search, and the grid.
-     The Export panel can opt them back in via its "include archive" toggle.
+     The Export drawer can opt them back in via its "include archive" toggle.
      ===================================================================== */
   function parseDate(dateStr) {
     if (!dateStr) return null;
@@ -83,10 +93,7 @@
 
 
   /* =====================================================================
-     FEEDBACK — localStorage-backed thumbs widget + export-to-markdown.
-     One vote per (monitor_id, article_id). Re-voting overwrites the
-     previous vote and resets its exported_at flag so the new opinion
-     reaches the next batch.
+     FEEDBACK - localStorage-backed thumbs widget + export-to-markdown.
      ===================================================================== */
   function loadFeedback() {
     try {
@@ -105,7 +112,7 @@
   function recordVote(item, vote, reason) {
     const arr = loadFeedback();
     const monitorId = state.monitor && state.monitor.id || "unknown";
-    const monitorCode = state.monitor && state.monitor.code || "—";
+    const monitorCode = state.monitor && state.monitor.code || "-";
     const idx = findVote(arr, monitorId, item.id);
     const entry = {
       monitor_id: monitorId,
@@ -149,36 +156,33 @@
     }
     if (status) {
       if (existing) {
-        const icon = existing.vote === "up" ? "📌" : "🗑️";
         const verb = existing.vote === "up" ? "Pinned" : "Binned";
-        const exported = existing.exported_at ? " · exported" : "";
-        const reason = existing.reason ? ' · "' + existing.reason + '"' : "";
+        const exported = existing.exported_at ? " - exported" : "";
+        const reason = existing.reason ? ' - "' + existing.reason + '"' : "";
         status.hidden = false;
-        status.textContent = verb + " " + icon + reason + exported;
+        status.textContent = verb + reason + exported;
       } else {
         status.hidden = true;
         status.textContent = "";
       }
     }
-    // Note: reasonRow is intentionally NOT hidden here — wireCardFeedback
-    // controls its visibility based on whether the user just clicked a thumb.
   }
 
   function feedbackWidgetHTML() {
     return (
       '<div class="fb" role="group" aria-label="Feedback on this article">' +
-        '<button type="button" class="fb-btn fb-up"   aria-label="Pin — surface more like this">' +
-          '<span class="fb-icon" aria-hidden="true">📌</span> Pin' +
+        '<button type="button" class="fb-btn fb-up"   aria-label="Pin - surface more like this">' +
+          'Pin' +
         '</button>' +
-        '<button type="button" class="fb-btn fb-down" aria-label="Bin — surface less like this">' +
-          '<span class="fb-icon" aria-hidden="true">🗑️</span> Bin' +
+        '<button type="button" class="fb-btn fb-down" aria-label="Bin - surface less like this">' +
+          'Bin' +
         '</button>' +
         '<span class="fb-status" hidden></span>' +
         '<div class="fb-reason" hidden>' +
           '<input type="text" class="fb-reason-input" maxlength="240"' +
-            ' placeholder="Optional — add a note (press Enter to save)">' +
+            ' placeholder="Optional - add a note (Enter to save)">' +
           '<button type="button" class="fb-save" title="Save note">Save note</button>' +
-          '<button type="button" class="fb-skip" title="Close without a note" aria-label="Close note input">×</button>' +
+          '<button type="button" class="fb-skip" title="Close without a note" aria-label="Close note input">x</button>' +
         '</div>' +
       '</div>'
     );
@@ -199,10 +203,6 @@
       return arr[findVote(arr, monitorId, item.id)] || null;
     }
 
-    // Clicking a thumb registers the vote IMMEDIATELY. The optional note
-    // input slides out below so the user *can* add context if they want —
-    // but the vote is already saved. Save (or Enter) updates the existing
-    // vote with a note. × (or Escape) just dismisses the note field.
     function castVote(vote) {
       const prior = existingVote();
       const reason = (prior && prior.vote === vote && prior.reason) ? prior.reason : "";
@@ -211,7 +211,6 @@
       if (reasonRow) {
         reasonRow.hidden = false;
         reasonInput.value = reason;
-        // Defer focus so the slide-in animation doesn't scroll the page.
         setTimeout(() => reasonInput.focus({ preventScroll: true }), 0);
       }
     }
@@ -236,8 +235,6 @@
         if (e.key === "Escape") { e.preventDefault(); dismissNote(); }
       });
     }
-    // Initial paint reflects any prior vote; the note row stays hidden
-    // on first render and only appears after a click.
     paintCardFeedback(cardEl, item);
     if (reasonRow) reasonRow.hidden = true;
   }
@@ -252,18 +249,17 @@
     const batchId = "fb-" + yyyy + "-" + mm + "-" + dd + "-" + hh + mi;
     const isoNow = now.toISOString();
 
-    // Group counts by monitor for the summary section
     const byMonitor = {};
     unexported.forEach(v => {
-      const k = v.monitor_code || "—";
+      const k = v.monitor_code || "-";
       if (!byMonitor[k]) byMonitor[k] = { up: 0, down: 0 };
       if (v.vote === "up") byMonitor[k].up++; else byMonitor[k].down++;
     });
     const summaryLines = Object.keys(byMonitor).sort().map(k => {
       const c = byMonitor[k];
       const total = c.up + c.down;
-      return "- " + k + " · " + total + " " + (total === 1 ? "vote" : "votes") +
-             " (" + c.up + " up · " + c.down + " down)";
+      return "- " + k + " - " + total + " " + (total === 1 ? "vote" : "votes") +
+             " (" + c.up + " up - " + c.down + " down)";
     });
 
     const head =
@@ -276,20 +272,20 @@
       "votes-down: " + unexported.filter(v => v.vote === "down").length + "\n" +
       "status: ready-for-feedback-integration\n" +
       "---\n\n" +
-      "# Feedback batch — " + yyyy + "-" + mm + "-" + dd + " · " + unexported.length +
+      "# Feedback batch - " + yyyy + "-" + mm + "-" + dd + " - " + unexported.length +
       " new " + (unexported.length === 1 ? "vote" : "votes") + "\n\n" +
       "## Summary by monitor\n\n" + (summaryLines.length ? summaryLines.join("\n") : "_(no votes in this batch)_") + "\n\n" +
       "## Votes\n\n";
 
     const body = unexported.map(v => {
-      const icon = v.vote === "up" ? "👍 helpful" : "👎 not for me";
+      const icon = v.vote === "up" ? "helpful" : "not for me";
       const reason = v.reason ? '> ' + v.reason.replace(/\n/g, " ") + "\n\n" : "";
       return (
-        "### " + (v.monitor_code || "—") + " · " + (v.theme || "—") + " · " + (v.title || "(untitled)") + "\n\n" +
+        "### " + (v.monitor_code || "-") + " - " + (v.theme || "-") + " - " + (v.title || "(untitled)") + "\n\n" +
         "- **Vote:** " + icon + "\n" +
-        "- **Article ID:** `" + (v.article_id || "—") + "`\n" +
-        "- **Monitor:** " + (v.monitor_code || "—") + " (`" + (v.monitor_id || "—") + "`)\n" +
-        "- **Topic / Category:** " + (v.theme || "—") + (v.catLabel ? " (" + v.catLabel + ")" : "") + "\n" +
+        "- **Article ID:** `" + (v.article_id || "-") + "`\n" +
+        "- **Monitor:** " + (v.monitor_code || "-") + " (`" + (v.monitor_id || "-") + "`)\n" +
+        "- **Topic / Category:** " + (v.theme || "-") + (v.catLabel ? " (" + v.catLabel + ")" : "") + "\n" +
         (v.country ? "- **Country:** " + v.country + "\n" : "") +
         (v.url ? "- **URL:** " + v.url + "\n" : "") +
         "- **Voted at:** " + v.voted_at + "\n\n" +
@@ -299,8 +295,8 @@
 
     const tail =
       "## What the Orchestrator should do with this\n\n" +
-      "1. Re-thread these articles against the dimensions in `system/skills/feedback-integration.md` — keywords, source tiers, ranking rules, theory-of-harm tags.\n" +
-      "2. Watch for clusters (≥3 down-votes on the same theme / source / jurisdiction) before changing weights — per CLAUDE.md Rule 6, one 👎 is a signal, not a verdict.\n" +
+      "1. Re-thread these articles against the dimensions in `system/skills/feedback-integration.md` - keywords, source tiers, ranking rules, theory-of-harm tags.\n" +
+      "2. Watch for clusters (>= 3 down-votes on the same theme / source / jurisdiction) before changing weights - per CLAUDE.md Rule 6, one down-vote is a signal, not a verdict.\n" +
       "3. Output a delta report to `generated/reports/" + yyyy + "-" + mm + "-" + dd + "-feedback-delta.md`. Never edit prior findings or briefs.\n" +
       "4. Archive this batch to `queue/feedback/_processed/" + yyyy + "-" + mm + "-" + dd + "/` once the delta report is written.\n";
 
@@ -321,12 +317,10 @@
     a.href = url; a.download = filename; document.body.appendChild(a); a.click();
     setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 800);
 
-    // Mark exported
     const stamp = new Date().toISOString();
     const next = all.map(v => v.exported_at ? v : Object.assign({}, v, { exported_at: stamp }));
     saveFeedback(next);
     updateFeedbackBadge();
-    // Repaint visible cards so the "exported" hint appears
     state.items.forEach(it => {
       const card = document.querySelector('[data-card-id="' + cssEscape(it.id) + '"]');
       if (card) paintCardFeedback(card, it);
@@ -344,7 +338,6 @@
     });
   }
   function cssEscape(s) {
-    // Minimal CSS attribute selector escape — good enough for ids like "samr-tencent"
     return String(s).replace(/(["\\])/g, "\\$1");
   }
 
@@ -362,7 +355,7 @@
 
 
   /* =====================================================================
-     EXPORT — filterable weekly-brief export in four formats.
+     EXPORT - filterable weekly-brief export in four formats.
      ===================================================================== */
   const DEFAULT_EXPORT_STATE = {
     dateRange: "last7",
@@ -539,29 +532,32 @@
 
   function buildExportHTML(items, meta) {
     const css =
-      "body{font-family:Verdana,Geneva,sans-serif;color:#1B0838;background:#fff;margin:32px;line-height:1.55;}" +
+      "body{font-family:Verdana,Geneva,Tahoma,sans-serif;color:#1B0838;background:#fff;margin:32px;line-height:1.55;}" +
       "h1{font-size:22px;margin:0 0 4px;color:#370180;}" +
-      "h2{font-size:16px;margin:24px 0 8px;color:#571580;border-bottom:0.5px solid #ddd;padding-bottom:4px;}" +
+      "h2{font-size:16px;margin:24px 0 8px;color:#5715B0;border-bottom:0.5px solid #ddd;padding-bottom:4px;}" +
       "h3{font-size:14px;margin:14px 0 4px;color:#1B0838;}" +
       ".meta{font-size:11.5px;color:#666;margin-bottom:16px;}" +
-      ".item{margin-bottom:14px;padding-bottom:10px;border-bottom:0.5px dashed #eee;page-break-inside:avoid;}" +
+      ".item{margin-bottom:14px;padding-bottom:10px;border-bottom:0.5px dashed #eee;page-break-inside:avoid;border-left:3px solid #bbb;padding-left:12px;}" +
+      ".item.high{border-left-color:#D90276;}" +
+      ".item.med{border-left-color:#FC9628;}" +
+      ".item.low{border-left-color:#0DAC8B;}" +
       ".tags{font-size:11px;color:#555;margin:2px 0 6px;}" +
-      ".tag{display:inline-block;padding:1px 7px;border-radius:999px;border:0.5px solid #ddd;margin-right:4px;background:#f7f3ea;}" +
-      ".tag.high{background:#FBE0EF;color:#B8124E;border-color:#f0c6d8;}" +
-      ".tag.med{background:#FFF1DC;color:#B86A12;border-color:#f0d8b0;}" +
-      ".tag.low{background:#DDF5EE;color:#007459;border-color:#bfe4d6;}" +
+      ".tag{display:inline-block;padding:1px 7px;border-radius:6px;border:0.5px solid #ddd;margin-right:4px;background:#f7f3ea;}" +
+      ".tag.high{background:#FBE0EF;color:#AF015F;border-color:#f0c6d8;}" +
+      ".tag.med{background:#FFF1DC;color:#A35B00;border-color:#f0d8b0;}" +
+      ".tag.low{background:#DDF5EE;color:#00854E;border-color:#bfe4d6;}" +
       ".tag.archived{background:#eee;color:#888;}" +
       ".body{font-size:13px;color:#333;margin:4px 0;}" +
-      ".why{background:#FBE0EF;border-left:3px solid #D90276;padding:6px 12px;font-size:12px;margin:6px 0;border-radius:0 6px 6px 0;}" +
+      ".why{border-left:2px solid #D90276;padding:2px 0 2px 10px;font-size:12px;margin:6px 0;}" +
       ".foot{font-size:11px;color:#888;margin-top:32px;border-top:0.5px solid #ddd;padding-top:8px;}" +
-      "a{color:#571580;}" +
+      "a{color:#5715B0;}" +
       "@media print { body{margin:14mm;} h2{break-after:avoid;} }";
     const safe = (s) => esc(s == null ? "" : s);
     const itemsHTML = items.length
       ? items.map(it => {
           const riskClass = it.risk || "low";
           const riskLabel = (it.risk || "low").toUpperCase();
-          return '<div class="item">' +
+          return '<div class="item ' + riskClass + '">' +
             '<h3>' + (it.url ? '<a href="' + safe(it.url) + '" target="_blank" rel="noopener">' + safe(it.title) + " &#8599;</a>" : safe(it.title)) + "</h3>" +
             '<div class="tags">' +
               '<span class="tag ' + riskClass + '">' + riskLabel + "</span>" +
@@ -674,8 +670,8 @@
      RENDERERS
      ===================================================================== */
   function renderChrome(m) {
-    document.title = m.code + " · " + m.name + " · Legal Intelligence Briefing";
-    $("#brand-product").innerHTML = "<b>" + esc(m.code) + "</b> — " + esc(m.name);
+    document.title = m.code + " - " + m.name + " - Legal Intelligence Briefing";
+    $("#brand-product").innerHTML = "<b>" + esc(m.code) + "</b> - " + esc(m.name);
 
     const pill = $("#live-pill");
     pill.className = "live-pill " + (m.status || "live");
@@ -716,13 +712,13 @@
     $("#ct-total").textContent = live.length;
     $("#ct-high").textContent  = high;
     $("#ct-med").textContent   = med;
-    $("#search-input").placeholder = "Search across " + live.length + " items…";
+    $("#search-input").placeholder = "Search across " + live.length + " items...";
 
     $("#footer-meta").textContent =
-      (m.privilege_note || "Privileged · Prosus internal + named external counsel") +
-      " · " + (m.week_label || "");
+      (m.privilege_note || "Privileged - Prosus internal + named external counsel") +
+      " - " + (m.week_label || "");
     $("#footer-gen").textContent =
-      "Generated " + (m.generated_at || "—") + " · v" + (m.version || "0.1");
+      "Generated " + (m.generated_at || "-") + " - v" + (m.version || "0.1");
   }
 
   function makeTab(id, label, count, color) {
@@ -749,9 +745,25 @@
     return map;
   }
 
+  function withinWhen(it) {
+    const w = state.filters.when;
+    if (w === "all") return true;
+    if (!it._date) return false;
+    const today = new Date(); today.setHours(0,0,0,0);
+    const ms = today.getTime() - it._date.getTime();
+    const day = 24 * 60 * 60 * 1000;
+    if (w === "today")  return ms < day;
+    if (w === "last7")  return ms < 7 * day;
+    if (w === "last30") return ms < 30 * day;
+    return true;
+  }
+
   function matches(it) {
-    if (it._archived) return false;            // archive is hidden from live page
+    if (it._archived) return false;
     if (state.view !== "all" && it.theme !== state.view) return false;
+    if (state.filters.countries.length && state.filters.countries.indexOf(it.country) === -1) return false;
+    if (state.filters.risks.length     && state.filters.risks.indexOf(it.risk) === -1)     return false;
+    if (!withinWhen(it)) return false;
     if (state.q) {
       const hay = [it.title, it.body, it.why, it.co, it.countryLabel, it.catLabel]
         .filter(Boolean).join(" ").toLowerCase();
@@ -768,22 +780,24 @@
     if (!list.length) {
       grid.innerHTML =
         '<div class="empty"><h3>No items match these filters</h3>' +
-        "<p>Clear the search or pick another tab.</p></div>";
+        "<p>Clear the search, the filter pills, or pick another tab.</p></div>";
+      paintFilterBarSelections();
       return;
     }
 
     grid.innerHTML = list.map(it => {
       const topic = topics[it.theme] || {};
-      const color = topic.color || "#571580";
+      const color = topic.color || "#5715B0";
       const domain = topic.label || it.theme;
       const r = it.risk === "high" ? "r-high" : it.risk === "med" ? "r-med" : "r-low";
+      const rcls = it.risk === "high" ? "risk-high" : it.risk === "med" ? "risk-med" : "risk-low";
       const rl = it.risk === "high" ? "HIGH" : it.risk === "med" ? "MED" : "LOW";
       const ruleChip = it.rule ? '<span class="ctag ctag-rule">' + esc(it.rule) + "</span>" : "";
       const styleVars =
         "--topic-fg:" + color + ";" +
         "--topic-tint:" + hexToRgba(color, 0.10) + ";" +
         "--topic-border:" + hexToRgba(color, 0.28);
-      return '<article class="card" data-card-id="' + esc(it.id) + '">' +
+      return '<article class="card ' + rcls + '" data-card-id="' + esc(it.id) + '">' +
         '<header class="card-head">' +
           '<span class="ctag ctag-domain" data-topic-color style="' + styleVars + '">' + esc(domain) + "</span>" +
           (it.catLabel ? '<span class="ctag">' + esc(it.catLabel) + "</span>" : "") +
@@ -791,22 +805,21 @@
           (it.dateLabel ? '<span class="ctag ctag-date">' + esc(it.dateLabel) + "</span>" : "") +
           ruleChip +
           (it.source ? '<a class="ctag ctag-source" href="' + esc(it.url || "#") +
-            '" target="_blank" rel="noopener">' + esc(it.source) + " ↗</a>" : "") +
+            '" target="_blank" rel="noopener">' + esc(it.source) + " &#8599;</a>" : "") +
           '<span class="risk-pill ' + r + '">' + rl + "</span>" +
         "</header>" +
         '<h3 class="card-title">' + esc(it.title) + "</h3>" +
         (it.body ? '<p class="card-body">' + esc(it.body) + "</p>" : "") +
-        (it.why ? '<div class="card-why"><b>Why it matters →</b> ' + esc(it.why) + "</div>" : "") +
+        (it.why ? '<div class="card-why"><b>Why it matters -&gt;</b> ' + esc(it.why) + "</div>" : "") +
         '<footer class="card-foot">' +
           (it.co ? '<span class="opc">OpCos: <b>' + esc(it.co) + "</b></span>" : "") +
           (it.owner ? '<span class="owner">' + esc(it.owner) +
-            (it.ownerTeam ? " · " + esc(it.ownerTeam) : "") + "</span>" : "") +
+            (it.ownerTeam ? " - " + esc(it.ownerTeam) : "") + "</span>" : "") +
         "</footer>" +
         feedbackWidgetHTML() +
       "</article>";
     }).join("");
 
-    // Wire up the feedback widget on each freshly-rendered card.
     $$(".card").forEach((card, idx) => {
       const it = list[idx];
       if (it) wireCardFeedback(card, it);
@@ -818,6 +831,8 @@
       const span = t.querySelector(".tab-ct");
       if (span) span.textContent = ct;
     });
+
+    paintFilterBarSelections();
   }
 
   /* =====================================================================
@@ -861,9 +876,6 @@
   }
 
   function mountFeedbackPanel() {
-    // The button + dropdown is injected next to the theme toggle, so any
-    // existing monitor page that has the standard topbar gets the widget
-    // automatically (no per-page markup changes required).
     const themeContainer = $("#theme-toggle") && $("#theme-toggle").parentElement;
     if (!themeContainer) return;
 
@@ -878,8 +890,8 @@
         '<div class="fb-panel-head">Your feedback (local to this browser)</div>' +
         '<div class="fb-panel-stat"><b id="fb-panel-new">0</b> new since last export</div>' +
         '<div class="fb-panel-stat fb-panel-stat-soft"><b id="fb-panel-total">0</b> total votes stored</div>' +
-        '<button class="fb-panel-btn fb-panel-export" id="fb-export">Export new votes as Markdown…</button>' +
-        '<button class="fb-panel-btn fb-panel-clear" id="fb-clear">Clear local feedback…</button>' +
+        '<button class="fb-panel-btn fb-panel-export" id="fb-export">Export new votes as Markdown...</button>' +
+        '<button class="fb-panel-btn fb-panel-clear" id="fb-clear">Clear local feedback...</button>' +
         '<div class="fb-panel-help">' +
           'Export saves a <code>fb-YYYY-MM-DD-HHMM.md</code> file. Drop it into ' +
           '<code>queue/feedback/inbox/</code> in your repo. ' +
@@ -905,7 +917,196 @@
 
 
   /* =====================================================================
-     EXPORT PANEL — mounts the topbar Export button + dropdown.
+     FILTER BAR (v0.5) - combobox pills below the tabs.
+     Country / Risk / When; each pill opens a small popover with options.
+     ===================================================================== */
+  function mountFilterBar() {
+    const tabs = $("#tabs");
+    if (!tabs) return;
+    let bar = $("#filter-bar");
+    if (!bar) {
+      bar = document.createElement("nav");
+      bar.id = "filter-bar";
+      bar.className = "filter-bar";
+      bar.setAttribute("aria-label", "Filter items");
+      tabs.parentNode.insertBefore(bar, tabs.nextSibling);
+    }
+    bar.innerHTML =
+      '<span class="filter-bar-label">Filter</span>' +
+      '<button type="button" class="filter-pill" data-pill="country" aria-haspopup="listbox">' +
+        '<span class="filter-pill-text">Country</span><span class="filter-chev">v</span>' +
+        '<div class="filter-pop" id="filter-pop-country" role="listbox"></div>' +
+      '</button>' +
+      '<button type="button" class="filter-pill" data-pill="risk" aria-haspopup="listbox">' +
+        '<span class="filter-pill-text">Risk</span><span class="filter-chev">v</span>' +
+        '<div class="filter-pop" id="filter-pop-risk" role="listbox">' +
+          '<button data-risk="high">High <span class="pop-count" data-count="high">0</span></button>' +
+          '<button data-risk="med">Medium <span class="pop-count" data-count="med">0</span></button>' +
+          '<button data-risk="low">Low <span class="pop-count" data-count="low">0</span></button>' +
+        '</div>' +
+      '</button>' +
+      '<button type="button" class="filter-pill" data-pill="when" aria-haspopup="listbox">' +
+        '<span class="filter-pill-text">When</span><span class="filter-chev">v</span>' +
+        '<div class="filter-pop" id="filter-pop-when" role="listbox">' +
+          '<button data-when="today">Today</button>' +
+          '<button data-when="last7">Last 7 days</button>' +
+          '<button data-when="last30">Last 30 days</button>' +
+          '<div class="filter-pop-divider"></div>' +
+          '<button data-when="all">All time</button>' +
+        '</div>' +
+      '</button>' +
+      '<button type="button" class="filter-pill-clear" id="filter-clear" disabled>Clear filters</button>';
+
+    bar.addEventListener("click", (e) => {
+      const trigger = e.target.closest(".filter-pill");
+      if (trigger && !e.target.closest(".filter-pop")) {
+        e.stopPropagation();
+        const wasOpen = trigger.classList.contains("open");
+        $$(".filter-pill", bar).forEach(p => p.classList.remove("open"));
+        if (!wasOpen) trigger.classList.add("open");
+        return;
+      }
+      const countryBtn = e.target.closest("[data-country]");
+      if (countryBtn) {
+        e.stopPropagation();
+        toggleArrayFilter(state.filters.countries, countryBtn.dataset.country);
+        countryBtn.classList.toggle("active");
+        renderItems();
+        paintFilterBarSelections();
+        return;
+      }
+      const riskBtn = e.target.closest("[data-risk]");
+      if (riskBtn) {
+        e.stopPropagation();
+        toggleArrayFilter(state.filters.risks, riskBtn.dataset.risk);
+        riskBtn.classList.toggle("active");
+        renderItems();
+        paintFilterBarSelections();
+        return;
+      }
+      const whenBtn = e.target.closest("[data-when]");
+      if (whenBtn) {
+        e.stopPropagation();
+        state.filters.when = whenBtn.dataset.when;
+        $$("#filter-pop-when button").forEach(b => b.classList.toggle("active", b === whenBtn));
+        renderItems();
+        paintFilterBarSelections();
+        // Auto-close the When popover after a single pick
+        const pill = whenBtn.closest(".filter-pill");
+        if (pill) pill.classList.remove("open");
+        return;
+      }
+      if (e.target.id === "filter-clear") {
+        state.filters.countries = [];
+        state.filters.risks = [];
+        state.filters.when = "all";
+        $$(".filter-pop button.active", bar).forEach(b => b.classList.remove("active"));
+        renderItems();
+        paintFilterBarSelections();
+      }
+    });
+
+    document.addEventListener("click", (e) => {
+      if (!bar.contains(e.target)) {
+        $$(".filter-pill", bar).forEach(p => p.classList.remove("open"));
+      }
+    });
+  }
+
+  function toggleArrayFilter(arr, val) {
+    const i = arr.indexOf(val);
+    if (i >= 0) arr.splice(i, 1); else arr.push(val);
+  }
+
+  function refreshFilterBarOptions() {
+    const bar = $("#filter-bar");
+    if (!bar) return;
+    const seen = {};
+    liveItems().forEach(it => {
+      if (!it.country) return;
+      if (!seen[it.country]) seen[it.country] = { label: it.countryLabel || it.country, count: 0 };
+      seen[it.country].count++;
+    });
+    const countries = Object.keys(seen).sort((a, b) => seen[b].count - seen[a].count);
+    const cwrap = $("#filter-pop-country");
+    if (cwrap) {
+      cwrap.innerHTML = countries.length
+        ? countries.map(c =>
+            '<button data-country="' + esc(c) + '"' +
+              (state.filters.countries.indexOf(c) >= 0 ? ' class="active"' : '') + '>' +
+              esc(seen[c].label) +
+              ' <span class="pop-count">' + seen[c].count + "</span>" +
+            '</button>'
+          ).join("")
+        : '<div class="filter-pop-section-label">No countries yet</div>';
+    }
+    const risks = { high: 0, med: 0, low: 0 };
+    liveItems().forEach(it => { if (risks[it.risk] != null) risks[it.risk]++; });
+    $$("#filter-pop-risk [data-count]").forEach(span => {
+      span.textContent = risks[span.dataset.count] || 0;
+    });
+  }
+
+  function paintFilterBarSelections() {
+    const bar = $("#filter-bar");
+    if (!bar) return;
+    // Country
+    const cPill = bar.querySelector('[data-pill="country"]');
+    if (cPill) {
+      const txt = cPill.querySelector(".filter-pill-text");
+      const n = state.filters.countries.length;
+      if (n === 0) { txt.textContent = "Country"; cPill.classList.remove("has-value"); }
+      else if (n === 1) {
+        const c = state.filters.countries[0];
+        const opt = bar.querySelector('[data-country="' + cssEscape(c) + '"]');
+        const label = opt ? opt.firstChild.textContent.trim() : c;
+        txt.textContent = "Country - " + label;
+        cPill.classList.add("has-value");
+      }
+      else { txt.textContent = "Country - " + n; cPill.classList.add("has-value"); }
+    }
+    // Risk
+    const rPill = bar.querySelector('[data-pill="risk"]');
+    if (rPill) {
+      const txt = rPill.querySelector(".filter-pill-text");
+      const rs = state.filters.risks;
+      if (rs.length === 0) { txt.textContent = "Risk"; rPill.classList.remove("has-value", "has-value-risk"); }
+      else if (rs.length === 1) {
+        const word = rs[0] === "high" ? "High" : rs[0] === "med" ? "Medium" : "Low";
+        txt.textContent = "Risk - " + word;
+        rPill.classList.add("has-value");
+        if (rs[0] === "high") rPill.classList.add("has-value-risk"); else rPill.classList.remove("has-value-risk");
+      }
+      else { txt.textContent = "Risk - " + rs.length; rPill.classList.add("has-value"); rPill.classList.remove("has-value-risk"); }
+    }
+    // When
+    const wPill = bar.querySelector('[data-pill="when"]');
+    if (wPill) {
+      const txt = wPill.querySelector(".filter-pill-text");
+      const w = state.filters.when;
+      if (w === "all") { txt.textContent = "When"; wPill.classList.remove("has-value"); }
+      else {
+        const map = { today: "Today", last7: "Last 7 days", last30: "Last 30 days" };
+        txt.textContent = "When - " + (map[w] || w);
+        wPill.classList.add("has-value");
+      }
+      $$("#filter-pop-when button").forEach(b => b.classList.toggle("active", b.dataset.when === w));
+    }
+    // Clear button enabled state
+    const clr = $("#filter-clear");
+    if (clr) {
+      const dirty = state.filters.countries.length || state.filters.risks.length || state.filters.when !== "all";
+      clr.disabled = !dirty;
+    }
+  }
+
+
+  /* =====================================================================
+     EXPORT DRAWER (Pattern 2) - right-side slide-in. Reuses the same
+     control IDs (#ex-from, #ex-to, #ex-go, #ex-count, #ex-status, etc.)
+     as the previous dropdown so all event handlers and rendering work
+     unchanged. Differences: container is a fixed drawer with a backdrop,
+     and the toggle opens/closes via .open class instead of [open] attr.
      ===================================================================== */
   function mountExportPanel() {
     loadExportState();
@@ -916,11 +1117,31 @@
     wrap.style.position = "relative";
     wrap.style.marginRight = "8px";
     wrap.innerHTML =
-      '<button class="theme-toggle ex-toggle" id="ex-toggle" aria-haspopup="true" aria-expanded="false" title="Export a regulatory brief">' +
+      '<button class="theme-toggle ex-toggle" id="ex-toggle" aria-haspopup="dialog" aria-expanded="false" title="Export a regulatory brief">' +
         'Export <span class="ex-badge" id="ex-badge">0</span>' +
-      '</button>' +
-      '<div class="theme-menu ex-panel" id="ex-panel" role="menu">' +
-        '<div class="ex-head">Export a regulatory brief</div>' +
+      '</button>';
+    themeContainer.parentNode.insertBefore(wrap, themeContainer);
+
+    // Drawer + backdrop live at the end of body so they overlay everything.
+    const backdrop = document.createElement("div");
+    backdrop.className = "ex-backdrop";
+    backdrop.id = "ex-backdrop";
+    document.body.appendChild(backdrop);
+
+    const drawer = document.createElement("aside");
+    drawer.className = "ex-drawer";
+    drawer.id = "ex-drawer";
+    drawer.setAttribute("role", "dialog");
+    drawer.setAttribute("aria-label", "Export a regulatory brief");
+    drawer.innerHTML =
+      '<div class="ex-drawer-head">' +
+        '<div>' +
+          '<div class="ex-eyebrow">Export</div>' +
+          '<div class="ex-head">Build a regulatory brief</div>' +
+        '</div>' +
+        '<button class="ex-drawer-close" id="ex-close" aria-label="Close">x</button>' +
+      '</div>' +
+      '<div class="ex-drawer-body">' +
         '<div class="ex-section">' +
           '<div class="ex-label">Date window</div>' +
           '<div class="ex-row ex-row-segment" id="ex-daterange" role="radiogroup" aria-label="Date window">' +
@@ -965,25 +1186,38 @@
             '<button data-format="pdf"      class="ex-seg">PDF</button>' +
           '</div>' +
         '</div>' +
+      '</div>' +
+      '<div class="ex-drawer-foot">' +
         '<div class="ex-actions">' +
           '<button class="ex-go" id="ex-go">Export <span id="ex-count">0</span> items</button>' +
           '<button class="ex-reset" id="ex-reset" title="Reset filters">Reset</button>' +
         '</div>' +
         '<div class="ex-status" id="ex-status"></div>' +
       '</div>';
-    themeContainer.parentNode.insertBefore(wrap, themeContainer);
+    document.body.appendChild(drawer);
 
     const btn = $("#ex-toggle");
-    const panel = $("#ex-panel");
+
+    function openDrawer() {
+      drawer.classList.add("open");
+      backdrop.classList.add("open");
+      btn.setAttribute("aria-expanded", "true");
+      updateExportPreviewCount();
+    }
+    function closeDrawer() {
+      drawer.classList.remove("open");
+      backdrop.classList.remove("open");
+      btn.setAttribute("aria-expanded", "false");
+    }
 
     btn.addEventListener("click", (e) => {
       e.stopPropagation();
-      const open = panel.hasAttribute("open");
-      if (open) panel.removeAttribute("open");
-      else { panel.setAttribute("open", ""); updateExportPreviewCount(); }
+      if (drawer.classList.contains("open")) closeDrawer(); else openDrawer();
     });
-    document.addEventListener("click", (e) => {
-      if (!panel.contains(e.target) && e.target !== btn) panel.removeAttribute("open");
+    $("#ex-close").addEventListener("click", closeDrawer);
+    backdrop.addEventListener("click", closeDrawer);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && drawer.classList.contains("open")) closeDrawer();
     });
 
     $$("#ex-daterange .ex-seg").forEach(b => {
@@ -1112,7 +1346,7 @@
     mountSearch();
     mountFeedbackPanel();
     mountExportPanel();
-    // Prefer inline data (works over file:// and CDN both); fall back to fetch.
+    mountFilterBar();
     let m = null, items = null;
     try {
       if (window.MONITOR_DATA && window.ITEMS_DATA) {
@@ -1129,6 +1363,7 @@
       const rawItems = Array.isArray(items) ? items : (items.items || []);
       state.items = tagArchive(rawItems);
       renderChrome(m);
+      refreshFilterBarOptions();
       renderItems();
       updateFeedbackBadge();
       refreshExportPanelOptions();

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-14T21:14:30.939970+00:00",
+  "generated_at": "2026-05-15T09:34:42.047510+00:00",
   "iso_week": "2026-W20",
   "monitors": {
     "monitor-01": {
-      "last_finding_at": null,
+      "last_finding_at": "2026-05-15",
       "items_today": 0,
-      "items_this_week": 0,
+      "items_this_week": 212,
       "cold_cells": []
     },
     "monitor-02-eu-competition": {
-      "last_finding_at": null,
+      "last_finding_at": "2026-05-15",
       "items_today": 0,
-      "items_this_week": 0,
+      "items_this_week": 205,
       "cold_cells": []
     }
   }

@@ -7,22 +7,27 @@
   "anchor_role": "Operator-anchored",
   "scope": "Global (EU/NL/UK/CN/BR/IN/US/ZA)",
   "status": "calibrating",
-  "status_label": "Calibrating · D2/14",
-  "week_label": "9–14 May 2026 · ISO Week 20",
+  "status_label": "Calibrating · D3/14",
+  "week_label": "11–15 May 2026 · ISO Week 20",
   "week_iso": "2026-W20",
-  "generated_at": "2026-05-14",
-  "version": "0.2",
+  "generated_at": "2026-05-15",
+  "version": "0.3",
   "privilege_note": "Privileged work product · Prosus Group Legal & Public Policy",
-  "footer_note": "M01 calibration mode Day 2/14",
+  "footer_note": "M01 calibration mode Day 3/14",
   "topics": [
-    { "id": "ai-news",    "label": "AI News",          "color": "#571580" },
-    { "id": "privacy",    "label": "Privacy & Data",   "color": "#00AC8E" },
-    { "id": "ip",         "label": "IP & Brand",       "color": "#D90276" },
-    { "id": "legal-ops",  "label": "Legal Ops",        "color": "#FC8828" }
+    { "id": "ai-news",   "label": "AI News",        "color": "#571580" },
+    { "id": "privacy",   "label": "Privacy & Data", "color": "#00AC8E" },
+    { "id": "ip",        "label": "IP & Brand",     "color": "#D90276" },
+    { "id": "legal-ops", "label": "Legal Ops",      "color": "#FC8828" }
   ],
   "chips": [
+    "<b>AI Office</b> Article 50 transparency template — Prosus OCs must label AI-generated content from 2 August",
+    "<b>Irish DPC</b> €350m fine on Meta — legacy default-public minor profiles",
+    "<b>Bartz v. Anthropic</b> fairness hearing concluded — 91.3% of works claimed, $1.32bn payout",
     "<b>SAMR</b> conditionally approves Tencent–Ximalaya (Rule 6 trigger)",
-    "<b>Bartz v. Anthropic</b> fairness hearing today (14 May)",
-    "<b>TikTok</b> €530m DPC GDPR fine — cross-border transfers"
+    "<b>TikTok</b> €530m DPC GDPR fine — cross-border transfer mis-statements",
+    "<b>NYT v. OpenAI</b> training-set discovery dispute escalates to magistrate",
+    "<b>CNIL</b> €40m on adtech firm — cookie-banner dark patterns",
+    "<b>DPDP India</b> rules notified — DPB enforcement begins 1 October"
   ]
 }

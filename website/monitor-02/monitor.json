@@ -8,10 +8,10 @@
   "scope": "Global (EU/UK/BR/IN/US/ZA/CN)",
   "status": "pending",
   "status_label": "Pending sign-off · Week 20",
-  "week_label": "9–14 May 2026 · ISO Week 20 · Pre-Anne-Claire redline",
+  "week_label": "11–15 May 2026 · ISO Week 20 · Pre-Anne-Claire redline",
   "week_iso": "2026-W20",
-  "generated_at": "2026-05-14",
-  "version": "0.2",
+  "generated_at": "2026-05-15",
+  "version": "0.3",
   "privilege_note": "Privileged work product · Prosus Group Legal & Public Policy",
   "footer_note": "M02 pending Anne-Claire redline",
   "topics": [
@@ -21,8 +21,13 @@
     { "id": "digital",   "label": "Digital Markets",       "color": "#00AC8E" }
   ],
   "chips": [
-    "<b>Rule 15 trigger:</b> Prosus sells 5% Delivery Hero to Aspex (€335M) — 11 May",
-    "<b>Rule 13 trigger:</b> SAMR conditional approval, Tencent–Ximalaya — 12–13 May",
-    "<b>DMA:</b> Meta tables free WhatsApp AI access — 13 May"
+    "<b>DOJ v. Google</b> search remedy — final remedies decision expected 28 May",
+    "<b>DG COMP</b> Statement of Objections against Booking.com — Article 102 narrow-parity",
+    "<b>Rule 15:</b> Prosus sells second 5% Delivery Hero tranche to Aspex (~€280m)",
+    "<b>Rule 13:</b> SAMR conditional approval, Tencent–Ximalaya — five behavioural commitments",
+    "<b>FTC v. Amazon</b> Operation Nessie — final-judgment phase opens",
+    "<b>DG COMP</b> EU food-delivery sector inquiry closed — focus on platform-pricing parity",
+    "<b>CMA UK</b> SMS designation for Apple App Store confirmed — conduct requirements 1 July",
+    "<b>India</b> Digital Competition Bill 2026 — public consultation closes 1 June"
   ]
 }

@@ -24,10 +24,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-eb956aa001
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: eu-us-data-transfers-time-to-prepare-for-more-trouble-to-come
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # EU-US Data Transfers: Time to prepare for more trouble to come

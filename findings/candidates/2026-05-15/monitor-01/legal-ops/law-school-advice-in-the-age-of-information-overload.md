@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-14-155d71d6a0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: law-school-advice-in-the-age-of-information-overload
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Law School Advice In The Age Of Information Overload

@@ -19,10 +19,10 @@ entities:
   matched_alias: AWS
 case_numbers: []
 cluster_id: cluster-2026-05-14-69703498f6
-cluster_size: 18
+cluster_size: 27
 cluster_role: sibling
 cluster_canonical_slug: building-blocks-for-foundation-model-training-and-inference-on-aws
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Building Blocks for Foundation Model Training and Inference on AWS

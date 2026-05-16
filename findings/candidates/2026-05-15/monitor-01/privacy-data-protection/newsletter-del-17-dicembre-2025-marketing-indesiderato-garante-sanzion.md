@@ -18,10 +18,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-05-14-c12d5204b3
-cluster_size: 22
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-1-agosto-2025-videosorveglianza-il-garante-privacy-scri
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # NEWSLETTER del 17 dicembre 2025 - Marketing indesiderato: Garante sanziona Verisure Italia per 400mila euro - Misure di sicurezza inadeguate, Garante privacy sanziona Aimag  - G7 Privacy: per un’innovazione che tuteli i minori - Sistema informazione Schengen: online i nuovi modelli per l’esercizio dei diritti

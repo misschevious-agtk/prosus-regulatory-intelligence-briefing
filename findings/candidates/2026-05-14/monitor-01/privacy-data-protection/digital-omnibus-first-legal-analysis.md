@@ -20,9 +20,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-05-14-e0f9fdf820
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Digital Omnibus - First Legal Analysis

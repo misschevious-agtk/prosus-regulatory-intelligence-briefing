@@ -17,11 +17,11 @@ entities:
   jurisdiction: ES
   matched_alias: CNMC
 case_numbers: []
-cluster_id: cluster-2026-05-14-d38975bf07
-cluster_size: 8
+cluster_id: cluster-2026-05-14-441679cade
+cluster_size: 18
 cluster_role: sibling
-cluster_canonical_slug: main-developments-in-competition-law-and-policy-2025-mozambique
-ranked_at: '2026-05-15T09:47:43+00:00'
+cluster_canonical_slug: book-review-questioning-the-role-of-competition-law-in-the-21st-centur
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Main Developments in Competition Law and Policy 2025 – Spain

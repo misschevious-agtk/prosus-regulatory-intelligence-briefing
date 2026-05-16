@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-14-c08fafa5c7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: gpt-5-5-instant-system-card
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # GPT-5.5 Instant System Card

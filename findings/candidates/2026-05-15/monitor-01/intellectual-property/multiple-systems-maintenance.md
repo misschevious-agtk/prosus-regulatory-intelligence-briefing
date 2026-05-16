@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-14-f914e1af39
-cluster_size: 18
+cluster_size: 38
 cluster_role: sibling
 cluster_canonical_slug: uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Multiple Systems Maintenance

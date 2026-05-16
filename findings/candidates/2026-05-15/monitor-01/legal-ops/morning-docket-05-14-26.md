@@ -26,10 +26,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-05-14-8592fdea8d
-cluster_size: 20
+cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-13-26
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Morning Docket: 05.14.26

@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-05-14-7c992710e2
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: our-response-to-the-tanstack-npm-supply-chain-attack
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Our response to the TanStack npm supply chain attack

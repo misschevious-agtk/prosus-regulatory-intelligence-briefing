@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-242e44035b
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: jurisdiction-if-we-win-t-mobile-v-kaifi-and-the-gunn-boundary-line
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Jurisdiction-If-We-Win: T-Mobile v. KAIFI and the Gunn Boundary Line

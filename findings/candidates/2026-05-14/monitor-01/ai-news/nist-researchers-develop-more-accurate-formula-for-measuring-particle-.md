@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-80c30f0f64
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # NIST Researchers Develop More Accurate Formula for Measuring Particle Concentration

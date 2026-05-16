@@ -19,10 +19,10 @@ entities:
   matched_alias: GitHub
 case_numbers: []
 cluster_id: cluster-2026-05-14-574a424ebd
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: today-on-legaltech-week-mikeoss-legaltech-giants-supporting-ice-ilta-e
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Ken Crutchfield: When Open Source Meets Legal — How MikeOSS Signals the End of Legal’s Secret Sauce

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-c5ac015c4c
-cluster_size: 6
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Guest Post: The Intake Form Is Dead. Long Live the Template.

@@ -19,10 +19,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-05-14-dfeaa89a7e
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-romania-s-fourth-payment-request-for-2-62-billi
-ranked_at: '2026-05-15T09:47:43+00:00'
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # Commission greenlights Romania's fourth payment request for €2.62 billion under NextGenerationEU

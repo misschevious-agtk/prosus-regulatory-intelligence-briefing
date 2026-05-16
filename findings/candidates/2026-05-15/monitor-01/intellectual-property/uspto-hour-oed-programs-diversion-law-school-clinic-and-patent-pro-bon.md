@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-14-66f9839d66
-cluster_size: 2
+cluster_id: cluster-2026-05-14-f914e1af39
+cluster_size: 38
 cluster_role: sibling
-cluster_canonical_slug: uspto-hour-oed-programs-diversion-law-school-clinic-and-patent-pro-bon
-ranked_at: '2026-05-15T09:47:43+00:00'
+cluster_canonical_slug: uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro
+ranked_at: '2026-05-16T08:49:25+00:00'
 ---
 
 # USPTO Hour: OED Programs–Diversion, Law School Clinic, and Patent Pro Bono

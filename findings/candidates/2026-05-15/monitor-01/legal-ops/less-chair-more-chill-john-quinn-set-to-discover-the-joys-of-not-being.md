@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-4fdea8e100
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: less-chair-more-chill-john-quinn-set-to-discover-the-joys-of-not-being
-ranked_at: '2026-05-16T08:49:25+00:00'
+ranked_at: '2026-05-17T09:07:01+00:00'
 ---
 
 # Less Chair, More Chill: John Quinn Set To Discover The Joys Of Not Being In Charge At Quinn Emanuel

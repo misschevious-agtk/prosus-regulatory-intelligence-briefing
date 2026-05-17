@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-05-14-14389d7454
-cluster_size: 19
+cluster_size: 26
 cluster_role: sibling
 cluster_canonical_slug: how-nvidia-engineers-and-researchers-build-with-codex
-ranked_at: '2026-05-16T08:49:25+00:00'
+ranked_at: '2026-05-17T09:07:01+00:00'
 ---
 
 # Building a safe, effective sandbox to enable Codex on Windows

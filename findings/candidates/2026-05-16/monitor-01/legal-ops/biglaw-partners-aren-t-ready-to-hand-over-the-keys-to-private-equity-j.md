@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-15-ad6d35c9b9
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: biglaw-partners-aren-t-ready-to-hand-over-the-keys-to-private-equity-j
-ranked_at: '2026-05-16T08:49:25+00:00'
+ranked_at: '2026-05-17T09:07:01+00:00'
 ---
 
 # Biglaw Partners Aren’t Ready To Hand Over The Keys To Private Equity Just Yet

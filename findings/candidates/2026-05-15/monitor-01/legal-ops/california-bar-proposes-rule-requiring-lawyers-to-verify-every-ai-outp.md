@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-f246275d01
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: california-bar-proposes-rule-requiring-lawyers-to-verify-every-ai-outp
-ranked_at: '2026-05-16T08:49:25+00:00'
+ranked_at: '2026-05-17T09:07:01+00:00'
 ---
 
 # California Bar Proposes Rule Requiring Lawyers to Verify Every AI Output — and Five Other AI-Focused Ethics Changes

@@ -18,10 +18,10 @@ entities:
   matched_alias: WIPO
 case_numbers: []
 cluster_id: cluster-2026-05-14-7af38fda85
-cluster_size: 6
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: world-intellectual-property-indicators-global-patent-and-design-filing
-ranked_at: '2026-05-16T08:49:25+00:00'
+ranked_at: '2026-05-17T09:07:01+00:00'
 ---
 
 # World's Largest IP Survey Reveals Increased Awareness and Trust in IP

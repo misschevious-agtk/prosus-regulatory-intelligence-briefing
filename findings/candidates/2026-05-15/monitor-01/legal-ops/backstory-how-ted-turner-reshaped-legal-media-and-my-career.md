@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-8c22120705
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: backstory-how-ted-turner-reshaped-legal-media-and-my-career
-ranked_at: '2026-05-16T08:49:25+00:00'
+ranked_at: '2026-05-17T09:07:01+00:00'
 ---
 
 # Backstory: How Ted Turner Reshaped Legal Media (and My Career)

@@ -19,9 +19,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-05-14-d48cb486fe
-cluster_size: 50
+cluster_size: 67
 cluster_role: canonical
-ranked_at: '2026-05-16T08:49:25+00:00'
+ranked_at: '2026-05-17T09:07:01+00:00'
 ---
 
 # Commission strengthens global health security with new Global Health Resilience Initiative

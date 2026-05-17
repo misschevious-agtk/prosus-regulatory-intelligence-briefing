@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-8592fdea8d
-cluster_size: 30
+cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-13-26
-ranked_at: '2026-05-16T08:49:25+00:00'
+ranked_at: '2026-05-17T09:07:01+00:00'
 ---
 
 # George Conway’s Campaign Platform, In Full: Trump Is Hitler In The Bunker And Must Be Impeached Before He Destroys The Country

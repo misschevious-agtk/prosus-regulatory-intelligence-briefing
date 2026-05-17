@@ -1,9 +1,9 @@
 ---
 window: 2026-W20
-window_start: 2026-05-07
-window_end: 2026-05-14
-runs_observed: 2
-total_candidates_window: 514
+window_start: 2026-05-10
+window_end: 2026-05-17
+runs_observed: 7
+total_candidates_window: 2097
 curated_new_window: 87
 tier_a_new: 13
 tier_b_new: 42
@@ -12,59 +12,63 @@ tier_c_new: 32
 
 # Weekly retrospective -- 2026-W20
 
-Window: **2026-05-07** -> **2026-05-14**. Runs observed: **2**. Total raw candidates produced: **514**. New curated items added this week: **87** (A: 13, B: 42, C: 32).
+Window: **2026-05-10** -> **2026-05-17**. Runs observed: **7**. Total raw candidates produced: **2097**. New curated items added this week: **87** (A: 13, B: 42, C: 32).
 
 ## What got into the curated library (Tier A) this week
 
-- **Conseil d'État upholds Criteo's €40M GDPR fine** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/conseil-detat-upholds-criteos-eu40m-gdpr-fine)
-- **Court decides 'Pay or Okay' on DerStandard.at is illegal** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/court-decides-pay-or-okay-derstandardat-illegal)
-- **Digital Omnibus: EU DPAs reject many proposed changes to the GDPR** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/digital-omnibus-eu-dpas-reject-many-proposed-changes-gdpr)
-- **Digital Omnibus Report V3: Analysis of Select GDPR and ePrivacy Proposals by the Commission** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/digital-omnibus-report-v3-analysis-select-gdpr-and-eprivacy-proposals-commission)
 - **EU-US Data Transfers: First Reaction on 'Latombe' Case** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/eu-us-data-transfers-first-reaction-latombe-case)
-- **Former Meta lobbyist named DPC Commissioner: Meta now officially regulates itself** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/former-meta-lobbyist-named-dpc-commissioner-meta-now-officially-regulates-itself)
-- **GDPR Omnibus: EU “simplification” far removed from real business needs** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/gdpr-omnibus-eu-simplification-far-removed-real-business-needs)
-- **International Patent Applications Rose in 2025, with Digital Communication and Semiconductor Technologies Showing Strong Growth** -- _WIPO news_ -- `monitor-01` -- [source](https://www.wipo.int/pressroom/en/articles/2026/article_0003.html)
+- **Digital Omnibus Report V3: Analysis of Select GDPR and ePrivacy Proposals by the Commission** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/digital-omnibus-report-v3-analysis-select-gdpr-and-eprivacy-proposals-commission)
 - **noyb win: Conde Nast fined €750,000 for placing cookies without consent** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/noyb-win-conde-nast-fined-eu750000-placing-cookies-without-consent)
+- **Court decides 'Pay or Okay' on DerStandard.at is illegal** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/court-decides-pay-or-okay-derstandardat-illegal)
+- **International Patent Applications Rose in 2025, with Digital Communication and Semiconductor Technologies Showing Strong Growth** -- _WIPO news_ -- `monitor-01` -- [source](https://www.wipo.int/pressroom/en/articles/2026/article_0003.html)
+- **TikTok unlawfully tracks your shopping habits – and your use of dating apps** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)
+- **‘Pay or Okay’ study: Users prefer a tracking-free “third option”** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/pay-or-okay-study-users-prefer-tracking-free-third-option)
+- **Digital Omnibus: EU DPAs reject many proposed changes to the GDPR** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/digital-omnibus-eu-dpas-reject-many-proposed-changes-gdpr)
+- **Conseil d'État upholds Criteo's €40M GDPR fine** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/conseil-detat-upholds-criteos-eu40m-gdpr-fine)
+- **GDPR Omnibus: EU “simplification” far removed from real business needs** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/gdpr-omnibus-eu-simplification-far-removed-real-business-needs)
 - **noyb WIN: French DPA fines Google €325 million for “Spam Emails” in Gmail** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/noyb-win-french-dpa-fines-google-eu325-million-spam-emails-gmail)
 - **noyb WIN: YouTube ordered to honour user’s right of access** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/noyb-win-youtube-ordered-honour-users-right-access)
-- **‘Pay or Okay’ study: Users prefer a tracking-free “third option”** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/pay-or-okay-study-users-prefer-tracking-free-third-option)
-- **TikTok unlawfully tracks your shopping habits – and your use of dating apps** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)
+- **Former Meta lobbyist named DPC Commissioner: Meta now officially regulates itself** -- _noyb news_ -- `monitor-01` -- [source](https://noyb.eu/en/former-meta-lobbyist-named-dpc-commissioner-meta-now-officially-regulates-itself)
 
 ## Most productive feeds (total candidates this week)
 
-- **CMA news** -- 74 candidate(s)
-- **LawSites (Bob Ambrogi)** -- 60 candidate(s)
-- **noyb news** -- 60 candidate(s)
-- **Above the Law** -- 56 candidate(s)
-- **OpenAI blog** -- 54 candidate(s)
-- **NIST news (filtered for AI in script)** -- 50 candidate(s)
-- **European Commission press** -- 40 candidate(s)
-- **IPKat blog** -- 22 candidate(s)
-- **Patently-O** -- 20 candidate(s)
-- **WIPO news** -- 18 candidate(s)
+- **CMA news** -- 268 candidate(s)
+- **LawSites (Bob Ambrogi)** -- 210 candidate(s)
+- **noyb news** -- 210 candidate(s)
+- **Above the Law** -- 201 candidate(s)
+- **OpenAI blog** -- 180 candidate(s)
+- **NIST news (filtered for AI in script)** -- 175 candidate(s)
+- **European Commission press** -- 143 candidate(s)
+- **USPTO news** -- 105 candidate(s)
+- **IPKat blog** -- 77 candidate(s)
+- **Patently-O** -- 70 candidate(s)
 
 ## Per-monitor / domain volume
 
-- `monitor-01/ai-news` -- 144
-- `monitor-01/intellectual-property` -- 62
-- `monitor-01/legal-ops` -- 142
-- `monitor-01/privacy-data-protection` -- 60
-- `monitor-02-eu-competition/abuse-of-dominance` -- 36
-- `monitor-02-eu-competition/antitrust-cartels` -- 26
-- `monitor-02-eu-competition/digital-markets-sector-state-aid` -- 44
+- `monitor-01/ai-news` -- 500
+- `monitor-01/intellectual-property` -- 326
+- `monitor-01/legal-ops` -- 508
+- `monitor-01/privacy-data-protection` -- 345
+- `monitor-02-eu-competition/abuse-of-dominance` -- 142
+- `monitor-02-eu-competition/antitrust-cartels` -- 109
+- `monitor-02-eu-competition/digital-markets-sector-state-aid` -- 157
+- `monitor-02-eu-competition/merger-control-fdi` -- 10
 
 ## Top entities surfaced
 
-- **Competition and Markets Authority** -- 72 mention(s)
-- **European Commission** -- 50 mention(s)
-- **OpenAI** -- 36 mention(s)
-- **World Intellectual Property Organization** -- 22 mention(s)
-- **Anthropic** -- 16 mention(s)
-- **Court of Justice of the European Union** -- 14 mention(s)
+- **Competition and Markets Authority** -- 261 mention(s)
+- **European Commission** -- 193 mention(s)
+- **OpenAI** -- 116 mention(s)
+- **United States Patent and Trademark Office** -- 86 mention(s)
+- **World Intellectual Property Organization** -- 77 mention(s)
+- **Anthropic** -- 61 mention(s)
+- **Commission Nationale de l'Informatique et des Libertés** -- 56 mention(s)
+- **European Data Protection Board** -- 55 mention(s)
+- **Garante per la protezione dei dati personali** -- 50 mention(s)
+- **Court of Justice of the European Union** -- 49 mention(s)
 - **Alphabet / Google** -- 8 mention(s)
 - **Unified Patent Court** -- 6 mention(s)
 - **Department of Justice** -- 6 mention(s)
-- **Commission Nationale de l'Informatique et des Libertés** -- 6 mention(s)
 
 ---
 

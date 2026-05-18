@@ -158,6 +158,76 @@
       gap: 18px;
       margin-bottom: 18px;
     }
+    .brief-banner {
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      background: var(--bg-card);
+      border: 0.5px solid var(--border-soft);
+      border-radius: var(--radius-xl);
+      overflow: hidden;
+      margin-bottom: 18px;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    }
+    .brief-banner:hover {
+      transform: translateY(-2px);
+      border-color: var(--border-strong);
+      box-shadow: 0 14px 40px -12px rgba(55, 1, 128, 0.22);
+    }
+    .brief-banner-accent {
+      width: 8px;
+      background: var(--gradient-li-ar);
+      flex-shrink: 0;
+    }
+    .brief-banner-body {
+      flex: 1;
+      padding: 1.1rem 1.4rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    .brief-banner-icon {
+      width: 44px; height: 44px;
+      border-radius: 12px;
+      background: var(--tint-li);
+      color: var(--li-prime);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 22px;
+      flex-shrink: 0;
+    }
+    .brief-banner-text { flex: 1; min-width: 0; }
+    .brief-banner-eyebrow {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.7px;
+      color: var(--ar-prime);
+      margin-bottom: 2px;
+    }
+    .brief-banner-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 2px;
+    }
+    .brief-banner-meta {
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+    .brief-banner-cta {
+      font-size: 12.5px;
+      font-weight: 700;
+      color: var(--li-prime);
+      white-space: nowrap;
+      padding-left: 1rem;
+      border-left: 1px solid var(--border-soft);
+    }
+    @media (max-width: 640px) {
+      .brief-banner-body { flex-wrap: wrap; }
+      .brief-banner-cta { border-left: none; padding-left: 0; }
+    }
     .card {
       background: var(--bg-card);
       border: 0.5px solid var(--border-soft);
@@ -422,8 +492,21 @@
     <section aria-labelledby="monitors-heading">
       <div class="section-header">
         <h2 id="monitors-heading" class="section-title">Choose a <em>monitor</em></h2>
-        <span class="section-meta">Updated 15 May 2026</span>
+        <span class="section-meta">Updated 18 May 2026 &middot; ISO Week 21</span>
       </div>
+
+      <a class="brief-banner" href="./morning-brief/2026-05-18.html" aria-label="Open the 18 May 2026 morning brief">
+        <span class="brief-banner-accent" aria-hidden="true"></span>
+        <div class="brief-banner-body">
+          <div class="brief-banner-icon"><i class="ti ti-news" aria-hidden="true"></i></div>
+          <div class="brief-banner-text">
+            <div class="brief-banner-eyebrow">Latest morning brief</div>
+            <div class="brief-banner-title">M01 + M02 news update &mdash; 18 May 2026</div>
+            <div class="brief-banner-meta">EDPB CEF 2026 transparency sweep &middot; SAMR clears Tencent-Ximalaya with five commitments &middot; CCI India AI Market Study &middot; DMA Article 53 review-report diary watch</div>
+          </div>
+          <span class="brief-banner-cta">Read brief &rarr;</span>
+        </div>
+      </a>
 
       <div class="monitors">
 

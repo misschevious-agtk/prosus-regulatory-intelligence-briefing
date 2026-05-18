@@ -8,26 +8,40 @@
   "scope": "Global (EU/NL/UK/CN/BR/IN/US/ZA)",
   "status": "calibrating",
   "status_label": "Calibrating · D3/14",
-  "week_label": "11–15 May 2026 · ISO Week 20",
-  "week_iso": "2026-W20",
-  "generated_at": "2026-05-15",
+  "week_label": "18 May 2026 - news update - ISO Week 21",
+  "week_iso": "2026-W21",
+  "generated_at": "2026-05-18",
   "version": "0.3",
   "privilege_note": "Privileged work product · Prosus Group Legal & Public Policy",
   "footer_note": "M01 calibration mode Day 3/14",
   "topics": [
-    { "id": "ai-news",   "label": "AI News",        "color": "#571580" },
-    { "id": "privacy",   "label": "Privacy & Data", "color": "#00AC8E" },
-    { "id": "ip",        "label": "IP & Brand",     "color": "#D90276" },
-    { "id": "legal-ops", "label": "Legal Ops",      "color": "#FC8828" }
+    {
+      "id": "ai-news",
+      "label": "AI News",
+      "color": "#571580"
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy & Data",
+      "color": "#00AC8E"
+    },
+    {
+      "id": "ip",
+      "label": "IP & Brand",
+      "color": "#D90276"
+    },
+    {
+      "id": "legal-ops",
+      "label": "Legal Ops",
+      "color": "#FC8828"
+    }
   ],
   "chips": [
-    "<b>AI Office</b> Article 50 transparency template — Prosus OCs must label AI-generated content from 2 August",
-    "<b>Irish DPC</b> €350m fine on Meta — legacy default-public minor profiles",
-    "<b>Bartz v. Anthropic</b> fairness hearing concluded — 91.3% of works claimed, $1.32bn payout",
-    "<b>SAMR</b> conditionally approves Tencent–Ximalaya (Rule 6 trigger)",
-    "<b>TikTok</b> €530m DPC GDPR fine — cross-border transfer mis-statements",
-    "<b>NYT v. OpenAI</b> training-set discovery dispute escalates to magistrate",
-    "<b>CNIL</b> €40m on adtech firm — cookie-banner dark patterns",
-    "<b>DPDP India</b> rules notified — DPB enforcement begins 1 October"
+    "<b>EDPB CEF 2026</b> 25-DPA transparency sweep (Arts 12-14 GDPR) - proactive notice-freshness audit recommended",
+    "<b>AI Act Article 50</b> draft Guidelines consultation closes <b>3 June 2026</b> (16 days) - filing-route decision pending",
+    "<b>Digital Omnibus on AI</b> Council/Parliament provisional agreement 7 May - GPAI grace until 2 December 2026",
+    "<b>DSA minors</b> Commission preliminary findings against Meta on under-13 access; Snapchat investigation continues",
+    "<b>EU age-verification</b> app feature-ready 15 April; Commission urging end-2026 rollout",
+    "<b>DPA leadership turnover</b> UK ICO Edwards stepping back; NL AP Potjewijd takes office 1 August"
   ]
 }

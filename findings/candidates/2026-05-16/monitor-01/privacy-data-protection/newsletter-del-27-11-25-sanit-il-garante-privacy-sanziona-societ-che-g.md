@@ -19,10 +19,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-05-14-c12d5204b3
-cluster_size: 44
+cluster_size: 55
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-1-agosto-2025-videosorveglianza-il-garante-privacy-scri
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # NEWSLETTER del 27/11/25 - Sanità, il Garante privacy sanziona società che gestisce un ospedale - Online le FAQ su trattamento dati e trasparenza nei concorsi pubblici - Whistleblowing: nuovo parere sulle Linee guida di ANAC - "La scuola a prova di privacy". Il vademecum aggiornato - GDPR e obblighi di trasparenza, il Garante partecipa al CEF 2026

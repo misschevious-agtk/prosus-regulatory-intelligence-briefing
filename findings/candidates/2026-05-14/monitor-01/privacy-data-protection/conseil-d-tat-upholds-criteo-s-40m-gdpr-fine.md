@@ -24,9 +24,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-05-14-1025c07585
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # Conseil d'État upholds Criteo's €40M GDPR fine

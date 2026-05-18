@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-5f1ca86c60
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # LawNext: How AI Is Transforming the Way Law Firms Win Business, with Ikaun President Jason Noble

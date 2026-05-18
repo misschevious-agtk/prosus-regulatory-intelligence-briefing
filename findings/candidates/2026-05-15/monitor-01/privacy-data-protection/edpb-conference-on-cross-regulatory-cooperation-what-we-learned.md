@@ -19,10 +19,10 @@ entities:
   matched_alias: EDPB
 case_numbers: []
 cluster_id: cluster-2026-05-14-8677c3fc0b
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: edpb-conference-on-cross-regulatory-cooperation-what-we-learned
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # EDPB conference on cross-regulatory cooperation: what we learned

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-15-9d571c9834
-cluster_size: 85
+cluster_size: 141
 cluster_role: sibling
 cluster_canonical_slug: imanage-unveils-open-protocol
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # NetDocuments Unveils Legal Context Graph to Map Legal Knowledge, Alongside A ‘Reimagined’ Platform

@@ -19,7 +19,7 @@ cluster_id: cluster-2026-05-14-67a175e199
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: pairing-down-federal-circuit-affirms-101-dismissal-of-vehicle-mode-not
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # Pairing Down: Federal Circuit Affirms § 101 Dismissal of Vehicle-Mode Notification Patent

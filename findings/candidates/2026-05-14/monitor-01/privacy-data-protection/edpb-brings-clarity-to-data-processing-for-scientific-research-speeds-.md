@@ -23,9 +23,9 @@ entities:
   matched_alias: EDPB
 case_numbers: []
 cluster_id: cluster-2026-05-14-aa5c38b6b6
-cluster_size: 8
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers

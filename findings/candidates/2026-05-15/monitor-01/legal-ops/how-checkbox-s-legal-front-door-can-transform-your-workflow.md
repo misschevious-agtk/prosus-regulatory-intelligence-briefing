@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-16-ce22ccab1e
-cluster_size: 12
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: legal-ops-and-matter-management-by-outside-counsel-the-more-things-cha
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # How Checkbox’s ‘Legal Front Door’ Can Transform Your Workflow

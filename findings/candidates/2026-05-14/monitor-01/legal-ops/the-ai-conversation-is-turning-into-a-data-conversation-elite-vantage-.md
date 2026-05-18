@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-5664f967c6
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # “The AI conversation is turning into a data conversation”: Elite Vantage puts data strategy centre stage

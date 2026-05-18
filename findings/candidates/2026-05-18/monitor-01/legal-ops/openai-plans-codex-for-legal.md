@@ -1,0 +1,46 @@
+---
+date_found: 2026-05-18
+monitor: monitor-01
+domain: legal-ops
+source_url: https://www.artificiallawyer.com/2026/05/18/openai-plans-codex-for-legal/
+source_publisher: Artificial Lawyer
+source_date: Mon, 18 May 2026 06:49:59 +0000
+source_method: rss
+title: OpenAI Plans ‘Codex For Legal’
+matched_keywords:
+- Anthropic
+- OpenAI
+match_count: 2
+status: candidate
+entities:
+- name: OpenAI
+  type: company
+  jurisdiction: US
+  matched_alias: OpenAI
+- name: Anthropic
+  type: company
+  jurisdiction: US
+  matched_alias: Anthropic
+case_numbers: []
+cluster_id: cluster-2026-05-15-9d571c9834
+cluster_size: 141
+cluster_role: sibling
+cluster_canonical_slug: imanage-unveils-open-protocol
+ranked_at: '2026-05-18T11:09:49+00:00'
+---
+
+# OpenAI Plans ‘Codex For Legal’
+
+**Source:** [Artificial Lawyer](https://www.artificiallawyer.com/2026/05/18/openai-plans-codex-for-legal/)
+**Published:** Mon, 18 May 2026 06:49:59 +0000
+**Matched keywords (2):** Anthropic, OpenAI
+
+## Summary excerpt
+
+OpenAI is planning to launch a legal AI offering, joining Anthropic and Microsoft in the strategy of providing legal-specific tools for lawyers. Sources told Artificial ...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

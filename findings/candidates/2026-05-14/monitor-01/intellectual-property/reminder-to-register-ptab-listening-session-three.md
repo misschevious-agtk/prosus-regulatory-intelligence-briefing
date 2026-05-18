@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-f914e1af39
-cluster_size: 54
+cluster_size: 70
 cluster_role: sibling
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 cluster_canonical_slug: uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro
 ---
 

@@ -1,0 +1,37 @@
+---
+date_found: 2026-05-18
+monitor: monitor-01
+domain: ai-news
+source_url: https://www.nist.gov/news-events/news/2025/08/nist-researchers-develop-more-accurate-formula-measuring-particle
+source_publisher: NIST news (filtered for AI in script)
+source_date: Wed, 20 Aug 2025 12:00:00 +0000
+source_method: rss
+title: NIST Researchers Develop More Accurate Formula for Measuring Particle Concentration
+matched_keywords:
+- NIST
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-05-14-80c30f0f64
+cluster_size: 5
+cluster_role: sibling
+cluster_canonical_slug: nist-researchers-develop-more-accurate-formula-for-measuring-particle-
+ranked_at: '2026-05-18T11:09:49+00:00'
+---
+
+# NIST Researchers Develop More Accurate Formula for Measuring Particle Concentration
+
+**Source:** [NIST news (filtered for AI in script)](https://www.nist.gov/news-events/news/2025/08/nist-researchers-develop-more-accurate-formula-measuring-particle)
+**Published:** Wed, 20 Aug 2025 12:00:00 +0000
+**Matched keywords (1):** NIST
+
+## Summary excerpt
+
+The new method will be useful in various fields, including nanomedicine, food science, environmental science and advanced manufacturing.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

@@ -1,0 +1,38 @@
+---
+date_found: 2026-05-18
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/05/ken-paxton-pretends-to-care-about-consumers-sues-netflix-to-protect-the-children/
+source_publisher: Above the Law
+source_date: Fri, 15 May 2026 14:45:00 +0000
+source_method: rss
+title: Ken Paxton Pretends To Care About Consumers, Sues Netflix To ‘Protect The Children’
+matched_keywords:
+- Paxton
+- Above the Law
+match_count: 2
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-05-16-eb79f64737
+cluster_size: 3
+cluster_role: sibling
+cluster_canonical_slug: ken-paxton-pretends-to-care-about-consumers-sues-netflix-to-protect-th
+ranked_at: '2026-05-18T11:09:49+00:00'
+---
+
+# Ken Paxton Pretends To Care About Consumers, Sues Netflix To ‘Protect The Children’
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/05/ken-paxton-pretends-to-care-about-consumers-sues-netflix-to-protect-the-children/)
+**Published:** Fri, 15 May 2026 14:45:00 +0000
+**Matched keywords (2):** Paxton, Above the Law
+
+## Summary excerpt
+
+From the hollow-performative-populism dept The post Ken Paxton Pretends To Care About Consumers, Sues Netflix To ‘Protect The Children’ appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

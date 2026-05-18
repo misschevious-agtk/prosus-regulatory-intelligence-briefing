@@ -19,10 +19,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-05-14-3c356a9a24
-cluster_size: 35
+cluster_size: 44
 cluster_role: sibling
 cluster_canonical_slug: gpt-5-5-instant-smarter-clearer-and-more-personalized
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber

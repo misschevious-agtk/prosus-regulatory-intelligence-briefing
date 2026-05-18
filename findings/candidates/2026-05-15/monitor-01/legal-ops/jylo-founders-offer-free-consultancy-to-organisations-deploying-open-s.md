@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-14-d74d750dbb
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: jylo-founders-offer-free-consultancy-to-organisations-deploying-open-s
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # Jylo founders offer free consultancy to organisations deploying open source AI

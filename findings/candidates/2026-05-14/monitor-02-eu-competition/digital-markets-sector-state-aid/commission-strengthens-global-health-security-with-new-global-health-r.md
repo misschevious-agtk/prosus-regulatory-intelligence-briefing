@@ -18,10 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-14-d48cb486fe
-cluster_size: 67
-cluster_role: canonical
-ranked_at: '2026-05-17T09:07:01+00:00'
+cluster_id: cluster-2026-05-14-dfeaa89a7e
+cluster_size: 94
+cluster_role: sibling
+ranked_at: '2026-05-18T11:09:49+00:00'
+cluster_canonical_slug: commission-greenlights-romania-s-fourth-payment-request-for-2-62-billi
 ---
 
 # Commission strengthens global health security with new Global Health Resilience Initiative

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-436fc58558
-cluster_size: 8
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # Draft NIST Guidelines Rethink Cybersecurity for the AI Era

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-59115f584f
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-law-schools-where-the-most-graduates-got-government-jobs-class-of-
-ranked_at: '2026-05-17T09:07:01+00:00'
+ranked_at: '2026-05-18T11:09:49+00:00'
 ---
 
 # The Law Schools Where The Most Graduates Got Government Jobs (Class Of 2025)

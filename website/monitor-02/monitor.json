@@ -8,9 +8,9 @@
   "scope": "Global (EU/UK/BR/IN/US/ZA/CN)",
   "status": "pending",
   "status_label": "Pending sign-off · Week 20",
-  "week_label": "18 May 2026 - news update - ISO Week 21",
+  "week_label": "18 May 2026 (PM) - news update - ISO Week 21",
   "week_iso": "2026-W21",
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-18T11:30Z",
   "version": "0.3",
   "privilege_note": "Privileged work product · Prosus Group Legal & Public Policy",
   "footer_note": "M02 pending Anne-Claire redline",
@@ -37,11 +37,12 @@
     }
   ],
   "chips": [
+    "<b>Prosus FY26</b> $7.3bn ecomm revenue, all OCs profitable; iFood reinvestment to match Meituan's $1.5bn Brazil entry",
+    "<b>DMA first review</b> (April 2026) - 'fit for purpose'; cloud + AI scope-expansion still pending",
+    "<b>SAMR</b> 2026 priorities + Trip.com investigation; Tenpay $400m PBoC fine compound Tencent pressure",
     "<b>SAMR</b> conditional approval of Tencent-Ximalaya - five behavioural commitments (anti-exclusivity template)",
-    "<b>CCI India</b> AI Market Study - algorithmic collusion + value-chain concentration flagged (direct Swiggy/PayU/OLX touch)",
-    "<b>DMA Article 53</b> first review report - cloud + AI scoping question, diary watch",
+    "<b>CCI India</b> AI Market Study - algorithmic collusion + value-chain concentration flagged",
     "<b>Google DMA</b> preliminary findings - Commission final decision expected 27 July",
-    "<b>Apple DMA</b> Core Technology Fee preliminarily disproportionate - proceeding live",
-    "<b>Meituan</b> $1bn Brazil food-delivery entry - competitive threat to iFood (no CADE filing yet)"
+    "<b>Apple DMA</b> Core Technology Fee sunsetted 1 Jan 2026, replaced by 5% Core Technology Commission"
   ]
 }

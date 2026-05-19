@@ -8,9 +8,9 @@
   "scope": "Global (EU/NL/UK/CN/BR/IN/US/ZA)",
   "status": "calibrating",
   "status_label": "Calibrating · D3/14",
-  "week_label": "18 May 2026 - news update - ISO Week 21",
+  "week_label": "18 May 2026 (PM) - news update - ISO Week 21",
   "week_iso": "2026-W21",
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-18T11:30Z",
   "version": "0.3",
   "privilege_note": "Privileged work product · Prosus Group Legal & Public Policy",
   "footer_note": "M01 calibration mode Day 3/14",
@@ -37,11 +37,11 @@
     }
   ],
   "chips": [
+    "<b>AI Act Digital Omnibus</b> Annex III HRAIS delayed to 2 Dec 2027 (+16 months); two new prohibitions effective 2 Dec 2026",
+    "<b>CJEU Russmedia</b> marketplaces are joint GDPR controllers for sensitive user-uploaded data - direct OLX hit",
     "<b>EDPB CEF 2026</b> 25-DPA transparency sweep (Arts 12-14 GDPR) - proactive notice-freshness audit recommended",
-    "<b>AI Act Article 50</b> draft Guidelines consultation closes <b>3 June 2026</b> (16 days) - filing-route decision pending",
-    "<b>Digital Omnibus on AI</b> Council/Parliament provisional agreement 7 May - GPAI grace until 2 December 2026",
+    "<b>AI Act Article 50</b> draft Guidelines consultation closes <b>3 June 2026</b> - filing-route decision pending",
     "<b>DSA minors</b> Commission preliminary findings against Meta on under-13 access; Snapchat investigation continues",
-    "<b>EU age-verification</b> app feature-ready 15 April; Commission urging end-2026 rollout",
-    "<b>DPA leadership turnover</b> UK ICO Edwards stepping back; NL AP Potjewijd takes office 1 August"
+    "<b>EU age-verification</b> app feature-ready 15 April; Commission urging end-2026 rollout"
   ]
 }

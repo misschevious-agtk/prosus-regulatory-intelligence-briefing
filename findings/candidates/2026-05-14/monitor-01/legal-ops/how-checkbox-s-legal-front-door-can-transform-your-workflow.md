@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-16-ce22ccab1e
-cluster_size: 15
+cluster_size: 16
 cluster_role: sibling
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 cluster_canonical_slug: legal-ops-and-matter-management-by-outside-counsel-the-more-things-cha
 ---
 

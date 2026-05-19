@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-14-5f0e01f4ca
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: join-us-for-the-series-successful-inventing-licensing-your-product-or-
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # Join us for the series Successful Inventing: Licensing your product or concept

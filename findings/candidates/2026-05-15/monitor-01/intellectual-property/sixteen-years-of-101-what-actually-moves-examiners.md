@@ -23,7 +23,7 @@ cluster_id: cluster-2026-05-14-67dba003af
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: sixteen-years-of-101-what-actually-moves-examiners
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # Sixteen Years of §101: What Actually Moves Examiners

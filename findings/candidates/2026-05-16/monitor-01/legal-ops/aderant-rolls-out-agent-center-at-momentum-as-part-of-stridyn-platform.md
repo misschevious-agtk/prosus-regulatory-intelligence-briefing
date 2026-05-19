@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-2fda87b4bc
-cluster_size: 9
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: aderant-rolls-out-agent-center-at-momentum-as-part-of-stridyn-platform
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # Aderant rolls out Agent Center at Momentum as part of Stridyn platform expansion

@@ -24,9 +24,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-42e795a4a3
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # noyb win: Microsoft ordered to stop tracking school children

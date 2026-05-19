@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-dc75c7274c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: at-40-i-just-finished-my-10th-marathon-so-i-challenge-jd-vance-41-to-g
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # At 40, I Just Finished My 10th Marathon, So I Challenge JD Vance, 41, To Get Off The Couch And Run His First

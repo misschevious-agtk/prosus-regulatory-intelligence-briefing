@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-16-da1c0e4f9e
-cluster_size: 9
+cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # Veterinary services for household pets

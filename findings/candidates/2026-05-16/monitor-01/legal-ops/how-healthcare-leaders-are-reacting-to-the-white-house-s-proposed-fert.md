@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-b91a92e556
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: how-healthcare-leaders-are-reacting-to-the-white-house-s-proposed-fert
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # How Healthcare Leaders Are Reacting To The White House’s Proposed Fertility Benefit Rule

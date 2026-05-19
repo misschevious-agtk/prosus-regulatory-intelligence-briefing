@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-bafde0cb04
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # The EU’s Draft Merger Guidelines and the “Innovation Shield”: Never Judge a Shield by its Cover?

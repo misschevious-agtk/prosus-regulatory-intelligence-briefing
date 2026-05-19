@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-05-18-0d4f2818d5
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # Statement by President von der Leyen with Swedish Prime Minister Kristersson and Indian Prime Minister Modi

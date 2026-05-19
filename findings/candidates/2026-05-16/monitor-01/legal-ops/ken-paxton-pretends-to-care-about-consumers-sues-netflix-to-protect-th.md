@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-16-eb79f64737
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # Ken Paxton Pretends To Care About Consumers, Sues Netflix To ‘Protect The Children’

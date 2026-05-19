@@ -20,9 +20,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-14-7bc78c39db
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # PatentsView releases Q4 2025 data update

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-8e2b06ba6d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: dla-piper-sued-for-discrimination-after-firing-palestinian-lawyer
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # DLA Piper Sued For Discrimination After Firing Palestinian Lawyer

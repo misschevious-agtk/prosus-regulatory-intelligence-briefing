@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-14-41abeb2b67
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # Exterro’s Subpoena Manager: Start With A Pain Point, Find A Solution, Rinse And Repeat

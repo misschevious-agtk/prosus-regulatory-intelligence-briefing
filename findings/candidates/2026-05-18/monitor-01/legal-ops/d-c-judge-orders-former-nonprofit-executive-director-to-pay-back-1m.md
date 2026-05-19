@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-0effbe0530
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: d-c-judge-orders-former-nonprofit-executive-director-to-pay-back-1m
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # D.C. Judge Orders Former Nonprofit Executive Director To Pay Back $1M

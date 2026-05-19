@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-0ab2465d69
-cluster_size: 10
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: gavel-launches-web-based-ai-contract-platform-expanding-gavel-exec-bey
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # Gavel Launches Web-Based AI Contract Platform, Expanding ‘Gavel Exec’ Beyond Its Word Add-In

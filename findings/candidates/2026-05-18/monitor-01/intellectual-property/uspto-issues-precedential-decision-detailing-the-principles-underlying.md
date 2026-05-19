@@ -21,10 +21,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-14-f914e1af39
-cluster_size: 70
+cluster_size: 86
 cluster_role: sibling
 cluster_canonical_slug: uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro
-ranked_at: '2026-05-18T11:09:49+00:00'
+ranked_at: '2026-05-19T10:41:00+00:00'
 ---
 
 # USPTO issues precedential decision detailing the principles underlying the Director’s exercise of discretion

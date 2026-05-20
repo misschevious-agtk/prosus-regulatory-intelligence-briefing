@@ -20,9 +20,9 @@ entities:
   matched_alias: Unified Patent Court
 case_numbers: []
 cluster_id: cluster-2026-05-14-118dc49ae8
-cluster_size: 21
+cluster_size: 24
 cluster_role: canonical
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Fordham 33 (Report 6):  Unified Patent Court

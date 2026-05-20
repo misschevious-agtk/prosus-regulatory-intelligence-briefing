@@ -23,9 +23,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-05-14-96555e48fc
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # noyb win: Conde Nast fined €750,000 for placing cookies without consent

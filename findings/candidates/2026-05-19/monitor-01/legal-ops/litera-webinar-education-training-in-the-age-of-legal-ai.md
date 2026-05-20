@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-11e25db077
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: litera-webinar-education-training-in-the-age-of-legal-ai
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Litera Webinar: Education + Training in the Age of Legal AI

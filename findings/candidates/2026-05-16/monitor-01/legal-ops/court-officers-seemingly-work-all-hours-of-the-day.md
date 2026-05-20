@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-16-82f823cace
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Court Officers Seemingly Work All Hours Of The Day

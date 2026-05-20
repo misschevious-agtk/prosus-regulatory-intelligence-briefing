@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-d6637a632d
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: lexisnexis-expands-lexis-with-prot-g-adding-agentic-skills-collaborati
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # LexisNexis Expands Lexis+ with Protégé, Adding Agentic Skills, Collaboration Workrooms, and Customer-Held Encryption Keys

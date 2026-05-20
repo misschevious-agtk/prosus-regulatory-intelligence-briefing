@@ -20,10 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-14-1876d6799f
-cluster_size: 6
-cluster_role: canonical
-ranked_at: '2026-05-19T10:41:00+00:00'
+cluster_id: cluster-2026-05-20-8dc8f45103
+cluster_size: 112
+cluster_role: sibling
+ranked_at: '2026-05-20T10:29:06+00:00'
+cluster_canonical_slug: happening-today-ptab-listening-session-three
 ---
 
 # Celebrate the Southwest Regional Outreach Office's 10th anniversary

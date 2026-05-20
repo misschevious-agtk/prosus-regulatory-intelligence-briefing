@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-16-ed67d2f165
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Biglaw’s Los Angeles Talent Wars Just Got More Intense Thanks To Davis Polk

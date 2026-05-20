@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-441679cade
-cluster_size: 36
+cluster_size: 40
 cluster_role: sibling
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 cluster_canonical_slug: book-review-questioning-the-role-of-competition-law-in-the-21st-centur
 ---
 

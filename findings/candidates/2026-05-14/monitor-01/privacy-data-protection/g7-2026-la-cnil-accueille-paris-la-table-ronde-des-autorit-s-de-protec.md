@@ -18,9 +18,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-05-14-ff988446d0
-cluster_size: 12
+cluster_size: 14
 cluster_role: canonical
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # G7 2026 : la CNIL accueille à Paris la Table ronde des autorités de protection des données et de la vie privée

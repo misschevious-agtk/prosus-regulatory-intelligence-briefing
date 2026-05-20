@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-16-ce22ccab1e
 cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Legal Ops And Matter Management By Outside Counsel: The More Things Change, The More They Stay The Same

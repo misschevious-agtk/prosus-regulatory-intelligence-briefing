@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-05-14-dfeaa89a7e
-cluster_size: 108
+cluster_size: 127
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-romania-s-fourth-payment-request-for-2-62-billi
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Speech by Commissioner Kadis at the European Parliament plenary debate on the Isabella Lövin Report: Implementation of the Multiannual Plan for the Baltic Sea

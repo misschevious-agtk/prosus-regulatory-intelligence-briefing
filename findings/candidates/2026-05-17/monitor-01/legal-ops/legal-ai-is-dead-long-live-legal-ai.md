@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-15-86d3762ae1
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: legal-ai-is-dead-long-live-legal-ai
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Legal AI is dead. Long live Legal AI?

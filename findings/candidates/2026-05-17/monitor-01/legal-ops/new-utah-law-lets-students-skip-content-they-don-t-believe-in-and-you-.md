@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-16-535cb1b393
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: new-utah-law-lets-students-skip-content-they-don-t-believe-in-and-you-
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # New Utah Law Lets Students Skip Content They Don’t Believe In. And You Thought Teaching Con Law Was Bad Before…

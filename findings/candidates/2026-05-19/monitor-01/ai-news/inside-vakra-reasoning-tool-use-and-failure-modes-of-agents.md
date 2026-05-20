@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-69703498f6
-cluster_size: 55
+cluster_id: cluster-2026-05-15-9d571c9834
+cluster_size: 271
 cluster_role: sibling
-cluster_canonical_slug: building-blocks-for-foundation-model-training-and-inference-on-aws
-ranked_at: '2026-05-19T10:41:00+00:00'
+cluster_canonical_slug: imanage-unveils-open-protocol
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents

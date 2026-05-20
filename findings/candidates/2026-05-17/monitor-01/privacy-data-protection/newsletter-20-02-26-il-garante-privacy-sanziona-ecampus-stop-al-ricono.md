@@ -18,10 +18,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-05-14-c12d5204b3
-cluster_size: 66
+cluster_size: 77
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-1-agosto-2025-videosorveglianza-il-garante-privacy-scri
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # NEWSLETTER 20/02/26 - Il Garante privacy sanziona eCampus, stop al riconoscimento facciale  - Garante privacy a comune di Pescara: no alle body cam della Polizia locale - Dal Garante ok alle Linee guida Agid su accessibilità dei servizi - Garanti Ue, le sfide per una piena attuazione del diritto alla cancellazione - Digital Omnibus, Garanti Ue: semplificare senza ridurre la tutela delle persone

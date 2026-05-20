@@ -1,0 +1,37 @@
+---
+date_found: 2026-05-20
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/05/now-thats-an-elite-ma-practice/
+source_publisher: Above the Law
+source_date: Tue, 19 May 2026 22:16:00 +0000
+source_method: rss
+title: Now That’s An Elite M&A Practice
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-05-19-da471e3cae
+cluster_size: 3
+cluster_role: sibling
+cluster_canonical_slug: biglaw-s-best-in-bankruptcy
+ranked_at: '2026-05-20T10:29:06+00:00'
+---
+
+# Now That’s An Elite M&A Practice
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/05/now-thats-an-elite-ma-practice/)
+**Published:** Tue, 19 May 2026 22:16:00 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+Biglaw's top M&#038;A practice. The post Now That&#8217;s An Elite M&amp;A Practice appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-bb7d737616
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: inside-the-pentagon-s-latest-alien-files
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Inside The Pentagon’s Latest ‘Alien’ Files

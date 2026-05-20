@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-f914e1af39
-cluster_size: 86
+cluster_id: cluster-2026-05-20-8dc8f45103
+cluster_size: 112
 cluster_role: sibling
-cluster_canonical_slug: uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro
-ranked_at: '2026-05-19T10:41:00+00:00'
+cluster_canonical_slug: happening-today-ptab-listening-session-three
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Reminder to register! PTAB Listening Session Three

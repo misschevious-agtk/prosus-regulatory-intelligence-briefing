@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-962694ee39
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: not-sure-in-house-counsel-are-really-up-on-that-whole-compliance-thing
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Not Sure In-House Counsel Are Really Up On That Whole ‘Compliance’ Thing

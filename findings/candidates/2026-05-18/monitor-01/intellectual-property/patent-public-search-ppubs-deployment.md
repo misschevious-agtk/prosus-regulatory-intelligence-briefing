@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-153be7236e
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: patent-public-search-ppubs-deployment
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Patent Public Search (PPUBS) Deployment

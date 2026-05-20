@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-df9dac539f
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: corporate-report-supply-chains-and-market-power
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Corporate report: Supply chains and market power

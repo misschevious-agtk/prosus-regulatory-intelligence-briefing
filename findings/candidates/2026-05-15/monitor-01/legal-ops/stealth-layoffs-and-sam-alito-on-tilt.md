@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-14-ec9e5130fd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: stealth-layoffs-and-sam-alito-on-tilt
-ranked_at: '2026-05-19T10:41:00+00:00'
+ranked_at: '2026-05-20T10:29:06+00:00'
 ---
 
 # Stealth Layoffs And Sam Alito On Tilt

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-16-ce22ccab1e
 cluster_size: 16
 cluster_role: sibling
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 cluster_canonical_slug: legal-ops-and-matter-management-by-outside-counsel-the-more-things-cha
 ---
 

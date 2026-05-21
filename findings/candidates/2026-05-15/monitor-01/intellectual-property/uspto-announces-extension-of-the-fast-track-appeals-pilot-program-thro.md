@@ -22,10 +22,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-20-8dc8f45103
-cluster_size: 112
+cluster_size: 131
 cluster_role: sibling
 cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # USPTO announces extension of the Fast-Track Appeals Pilot Program through May 6, 2028

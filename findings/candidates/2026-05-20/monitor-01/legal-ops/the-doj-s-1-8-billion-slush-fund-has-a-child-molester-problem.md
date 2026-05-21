@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-05-20-d922ae8851
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-05-20T10:29:06+00:00'
+cluster_id: cluster-2026-05-19-d624cd5b2f
+cluster_size: 9
+cluster_role: sibling
+ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_canonical_slug: morning-docket-05-18-26
 ---
 
 # The DOJ’s $1.8 Billion Slush Fund Has A Child Molester Problem

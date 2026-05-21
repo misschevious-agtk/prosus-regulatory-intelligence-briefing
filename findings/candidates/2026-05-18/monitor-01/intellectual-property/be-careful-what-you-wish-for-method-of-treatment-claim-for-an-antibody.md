@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-18-6cf998cd88
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # Be careful what you wish for: Method of treatment claim for an antibody genus found to satisfy both written description and enablement requirement (Teva v Eli Lilly)

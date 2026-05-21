@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-20-435e9b1e03
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-05-20T10:29:06+00:00'
+cluster_id: cluster-2026-05-14-dfeaa89a7e
+cluster_size: 147
+cluster_role: sibling
+ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_canonical_slug: commission-greenlights-romania-s-fourth-payment-request-for-2-62-billi
 ---
 
 # Statement by Executive Vice-President Fitto and press remarks by Commissioner Hansen on the Action Plan for Fertilisers

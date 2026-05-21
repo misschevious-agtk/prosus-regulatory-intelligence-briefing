@@ -19,7 +19,7 @@ cluster_id: cluster-2026-05-16-f44c20da89
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: cloc-global-institute-2026-a-market-in-transition
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # CLOC Global Institute 2026: A Market in Transition

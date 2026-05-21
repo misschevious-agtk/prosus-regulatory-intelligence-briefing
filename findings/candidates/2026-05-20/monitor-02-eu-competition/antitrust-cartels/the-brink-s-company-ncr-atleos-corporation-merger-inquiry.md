@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-19-f60e76c1ac
-cluster_size: 15
+cluster_id: cluster-2026-05-19-9e28876f1f
+cluster_size: 48
 cluster_role: sibling
-cluster_canonical_slug: getty-images-shutterstock-merger-inquiry
-ranked_at: '2026-05-20T10:29:06+00:00'
+cluster_canonical_slug: investigation-into-suspected-anti-competitive-conduct-by-google-in-ad-
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # The Brink’s Company / NCR Atleos Corporation merger inquiry

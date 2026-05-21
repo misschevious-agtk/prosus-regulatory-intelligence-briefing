@@ -18,11 +18,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-05-14-c12d5204b3
-cluster_size: 77
+cluster_id: cluster-2026-05-21-588f299ddd
+cluster_size: 88
 cluster_role: sibling
-cluster_canonical_slug: newsletter-del-1-agosto-2025-videosorveglianza-il-garante-privacy-scri
-ranked_at: '2026-05-20T10:29:06+00:00'
+cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # NEWSLETTER del 27/11/25 - Sanità, il Garante privacy sanziona società che gestisce un ospedale - Online le FAQ su trattamento dati e trasparenza nei concorsi pubblici - Whistleblowing: nuovo parere sulle Linee guida di ANAC - "La scuola a prova di privacy". Il vademecum aggiornato - GDPR e obblighi di trasparenza, il Garante partecipa al CEF 2026

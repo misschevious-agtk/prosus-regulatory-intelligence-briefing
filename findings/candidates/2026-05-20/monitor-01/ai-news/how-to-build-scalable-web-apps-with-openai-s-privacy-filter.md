@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-05-15-9d571c9834
-cluster_size: 271
+cluster_size: 314
 cluster_role: sibling
 cluster_canonical_slug: imanage-unveils-open-protocol
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # How to build scalable web apps with OpenAI's Privacy Filter

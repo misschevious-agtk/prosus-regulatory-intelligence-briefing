@@ -22,9 +22,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-14-9fc5ba1e12
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # CRIF case shows: Public registries are increasingly being misused

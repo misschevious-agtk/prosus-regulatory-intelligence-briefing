@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-16-d32e583987
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-bar-exam-awaits-america-s-latest-teenage-law-school-graduate
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # The Bar Exam Awaits America’s Latest Teenage Law School Graduate

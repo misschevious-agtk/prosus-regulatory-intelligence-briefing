@@ -22,10 +22,10 @@ entities:
   matched_alias: EDPB
 case_numbers: []
 cluster_id: cluster-2026-05-14-b20708a75e
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: stakeholder-event-on-competition-and-data-protection
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # Stakeholder event on competition and data protection

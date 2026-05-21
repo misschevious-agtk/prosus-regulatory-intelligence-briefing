@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-19-a5c758d682
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-law-schools-where-the-most-graduates-got-public-interest-jobs-clas
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # The Best Law Schools For Estate Planning Law (2026)

@@ -18,11 +18,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-05-14-c12d5204b3
-cluster_size: 77
+cluster_id: cluster-2026-05-21-588f299ddd
+cluster_size: 88
 cluster_role: sibling
-cluster_canonical_slug: newsletter-del-1-agosto-2025-videosorveglianza-il-garante-privacy-scri
-ranked_at: '2026-05-20T10:29:06+00:00'
+cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # NEWSLETTER del 26 marzo 2026 - Telemarketing, il Garante privacy sanziona Enel Energia per oltre 500mila euro - Annunci online senza consenso, il Garante sanziona Bakeca - Recupero crediti, Garante privacy: illecita la comunicazione ai familiari del debitore - Troppi rischi su siti e app per i minori: l’indagine del GPEN

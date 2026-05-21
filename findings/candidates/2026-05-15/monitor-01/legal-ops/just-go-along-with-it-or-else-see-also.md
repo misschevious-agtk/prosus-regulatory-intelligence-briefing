@@ -19,10 +19,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-05-14-8592fdea8d
-cluster_size: 55
+cluster_size: 56
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-13-26
-ranked_at: '2026-05-20T10:29:06+00:00'
+ranked_at: '2026-05-21T10:44:45+00:00'
 ---
 
 # Just Go Along With It Or Else — See Also

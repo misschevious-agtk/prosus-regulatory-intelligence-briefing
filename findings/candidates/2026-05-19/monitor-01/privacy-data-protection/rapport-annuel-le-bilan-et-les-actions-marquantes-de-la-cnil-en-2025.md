@@ -18,9 +18,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-05-19-ce06d808c7
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025

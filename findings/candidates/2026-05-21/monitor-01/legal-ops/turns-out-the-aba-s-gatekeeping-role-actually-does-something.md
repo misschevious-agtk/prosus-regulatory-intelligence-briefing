@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-20-201f461225
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: turns-out-the-aba-s-gatekeeping-role-actually-does-something
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Turns Out The ABA’s Gatekeeping Role Actually Does Something

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-14-dfeaa89a7e
-cluster_size: 147
+cluster_id: cluster-2026-05-15-a6fd99c061
+cluster_size: 149
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-romania-s-fourth-payment-request-for-2-62-billi
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Speech by President von der Leyen at the European Parliament plenary debate on ‘High time to deliver on the Single Market, providing certainty and predictability for EU businesses and quality jobs'

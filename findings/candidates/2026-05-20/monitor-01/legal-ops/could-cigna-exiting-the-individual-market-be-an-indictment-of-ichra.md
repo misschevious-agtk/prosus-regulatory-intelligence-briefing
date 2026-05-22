@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-19-696ced4cf2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: could-cigna-exiting-the-individual-market-be-an-indictment-of-ichra
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Could Cigna Exiting The Individual Market Be An Indictment Of ICHRA?

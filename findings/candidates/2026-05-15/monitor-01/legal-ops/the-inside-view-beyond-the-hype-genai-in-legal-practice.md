@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-4f315d1ed2
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-inside-view-beyond-the-hype-genai-in-legal-practice
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-8c237642e0
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # The Inside View: Beyond the hype – GenAI in legal practice

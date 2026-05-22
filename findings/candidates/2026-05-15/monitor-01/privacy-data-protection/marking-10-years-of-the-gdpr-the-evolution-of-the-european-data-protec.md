@@ -19,11 +19,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-05-14-6c9c39f60d
+cluster_id: cluster-2026-05-15-048ff6628b
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: marking-10-years-of-the-gdpr-the-evolution-of-the-european-data-protec
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Marking 10 years of the GDPR: the evolution of the European data protection landscape

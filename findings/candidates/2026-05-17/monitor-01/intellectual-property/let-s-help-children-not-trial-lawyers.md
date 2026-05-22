@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-16-c203b122a0
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: let-s-help-children-not-trial-lawyers
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Let’s Help Children, Not Trial Lawyers

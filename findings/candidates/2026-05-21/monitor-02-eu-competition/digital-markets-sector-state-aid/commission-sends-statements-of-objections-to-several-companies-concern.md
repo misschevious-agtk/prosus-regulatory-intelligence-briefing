@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-21-2aa1feefe7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-sends-statements-of-objections-to-several-companies-concern
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Commission sends Statements of Objections to several companies concerning synthetic turf cartels

@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-19-9e28876f1f
-cluster_size: 48
+cluster_size: 75
 cluster_role: sibling
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 cluster_canonical_slug: investigation-into-suspected-anti-competitive-conduct-by-google-in-ad-
 ---
 

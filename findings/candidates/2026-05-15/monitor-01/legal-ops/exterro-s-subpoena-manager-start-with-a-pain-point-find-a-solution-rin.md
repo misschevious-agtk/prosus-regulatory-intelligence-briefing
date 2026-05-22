@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-41abeb2b67
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: exterro-s-subpoena-manager-start-with-a-pain-point-find-a-solution-rin
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-ce5812ebf1
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Exterro’s Subpoena Manager: Start With A Pain Point, Find A Solution, Rinse And Repeat

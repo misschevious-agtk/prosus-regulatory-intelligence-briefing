@@ -27,9 +27,9 @@ case_numbers:
 - scheme: EU General Court
   citation: T-56/25
 cluster_id: cluster-2026-05-17-6bac1d0748
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # ROSE-tinted reasoning? The General Court on colour words

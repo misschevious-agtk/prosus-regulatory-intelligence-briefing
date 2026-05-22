@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-d0938e524e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: valve-blocks-indie-dev-game-for-including-ip-from-the-same-indie-dev-i
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-b813c23dbe
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Valve Blocks Indie Dev Game For Including IP From The Same Indie Dev In Game

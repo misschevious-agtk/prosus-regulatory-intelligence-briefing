@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-8592fdea8d
-cluster_size: 56
+cluster_id: cluster-2026-05-15-b56aee7edb
+cluster_size: 14
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-05-13-26
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_canonical_slug: clio-once-a-feisty-startup-says-it-has-now-surpassed-500m-in-annual-re
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Claude For Legal, Clio $500m, Legal Innovators California +

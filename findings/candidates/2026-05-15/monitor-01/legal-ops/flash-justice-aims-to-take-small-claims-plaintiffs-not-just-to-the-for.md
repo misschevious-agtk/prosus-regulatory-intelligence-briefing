@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-2a5467d711
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: flash-justice-aims-to-take-small-claims-plaintiffs-not-just-to-the-for
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-ea6c2b2f6b
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Flash Justice Aims to Take Small-Claims Plaintiffs Not Just to the Form, But All the Way through Filing

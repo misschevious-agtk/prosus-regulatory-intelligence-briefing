@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-6d6e3ad554
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: words-of-approximation-why-about-and-substantially-are-slipping-out-of
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-d0f1803aa5
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Words of Approximation: Why “About” and “Substantially” Are Slipping Out of Patent Claims

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-19-3b84238209
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: walk-through-june-ai-driven-case-management
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Walk Through: June, AI-Driven Case Management

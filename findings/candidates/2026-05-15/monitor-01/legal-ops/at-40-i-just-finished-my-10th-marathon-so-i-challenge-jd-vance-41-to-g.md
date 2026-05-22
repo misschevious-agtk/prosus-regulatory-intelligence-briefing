@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-dc75c7274c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: at-40-i-just-finished-my-10th-marathon-so-i-challenge-jd-vance-41-to-g
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-7b5d6d0f85
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # At 40, I Just Finished My 10th Marathon, So I Challenge JD Vance, 41, To Get Off The Couch And Run His First

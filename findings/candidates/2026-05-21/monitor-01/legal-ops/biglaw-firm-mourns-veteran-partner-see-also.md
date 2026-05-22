@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-20-bfa3d49371
-cluster_size: 8
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-mourns-veteran-partner-see-also
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Biglaw Firm Mourns Veteran Partner — See Also

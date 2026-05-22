@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-8e2b06ba6d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: dla-piper-sued-for-discrimination-after-firing-palestinian-lawyer
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-17d39536b8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # DLA Piper Sued For Discrimination After Firing Palestinian Lawyer

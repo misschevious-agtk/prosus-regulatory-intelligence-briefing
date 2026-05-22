@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-21-7f3dc7e6f8
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Don’t Let The Client Write The Brief As A Treat

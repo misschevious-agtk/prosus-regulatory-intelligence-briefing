@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-19-a5c758d682
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # The Law Schools Where The Most Graduates Got Public Interest Jobs (Class Of 2025)

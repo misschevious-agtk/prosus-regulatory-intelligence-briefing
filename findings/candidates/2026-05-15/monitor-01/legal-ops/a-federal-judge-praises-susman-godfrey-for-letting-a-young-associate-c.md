@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-6548a490be
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: a-federal-judge-praises-susman-godfrey-for-letting-a-young-associate-c
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-f636cbfeb0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # A Federal Judge Praises Susman Godfrey For Letting A Young Associate Cook

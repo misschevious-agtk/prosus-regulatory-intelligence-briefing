@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-19-8359862791
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: court-of-appeal-backs-hoka-s-restrictions-on-online-sales
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Court of Appeal backs HOKA's restrictions on online sales

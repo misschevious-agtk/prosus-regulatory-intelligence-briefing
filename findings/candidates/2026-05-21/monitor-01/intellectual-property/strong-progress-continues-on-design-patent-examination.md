@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-7bc78c39db
+cluster_id: cluster-2026-05-15-f7db05ffed
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: patentsview-releases-q4-2025-data-update
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Strong progress continues on design patent examination

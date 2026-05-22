@@ -27,11 +27,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Data Protection Board
 case_numbers: []
-cluster_id: cluster-2026-05-14-f6677c733d
+cluster_id: cluster-2026-05-15-6a2ab7e416
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: pay-or-okay-study-users-prefer-a-tracking-free-third-option
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # ‘Pay or Okay’ study: Users prefer a tracking-free “third option”

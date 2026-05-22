@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-5d6644192d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: cloc-opening-keynote-what-if-you-could-automate-everything
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-e3c852443b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # CLOC Opening Keynote: What If You Could Automate Everything?

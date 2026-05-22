@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-14-6c77c5430d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: advancing-youth-safety-and-wellbeing-in-emea
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-5f372eb4a7
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Advancing youth safety and wellbeing in EMEA

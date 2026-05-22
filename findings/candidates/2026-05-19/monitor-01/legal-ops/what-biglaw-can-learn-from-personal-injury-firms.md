@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-16-da67535e26
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: what-biglaw-can-learn-from-personal-injury-firms
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # What Biglaw Can Learn From Personal Injury Firms

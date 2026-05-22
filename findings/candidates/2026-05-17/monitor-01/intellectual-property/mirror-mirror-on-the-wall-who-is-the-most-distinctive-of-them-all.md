@@ -20,11 +20,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-3/26
-cluster_id: cluster-2026-05-14-c9803024a0
-cluster_size: 5
+cluster_id: cluster-2026-05-15-5e1d958700
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: mirror-mirror-on-the-wall-who-is-the-most-distinctive-of-them-all
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Mirror, mirror on the wall — Who is the most distinctive of them all?

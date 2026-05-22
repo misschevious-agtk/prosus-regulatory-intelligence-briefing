@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-962694ee39
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: not-sure-in-house-counsel-are-really-up-on-that-whole-compliance-thing
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-5238b7918e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Not Sure In-House Counsel Are Really Up On That Whole ‘Compliance’ Thing

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-7d4e13cee5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: copyright-infringement-at-album-release-party-costs-kanye-200k
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-4d44cfa35c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Copyright Infringement At Album Release Party Costs Kanye ~$200K

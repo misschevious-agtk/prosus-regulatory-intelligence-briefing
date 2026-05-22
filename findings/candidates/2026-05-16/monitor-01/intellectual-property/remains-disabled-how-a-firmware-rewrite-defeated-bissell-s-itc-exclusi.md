@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-d4c46df53a
-cluster_size: 7
+cluster_id: cluster-2026-05-15-71b04234b6
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: remains-disabled-how-a-firmware-rewrite-defeated-bissell-s-itc-exclusi
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Remains Disabled: How a Firmware Rewrite Defeated Bissell’s ITC Exclusion Order

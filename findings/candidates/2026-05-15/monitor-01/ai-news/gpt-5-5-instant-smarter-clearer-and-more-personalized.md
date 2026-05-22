@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-3c356a9a24
-cluster_size: 65
-cluster_role: sibling
-cluster_canonical_slug: gpt-5-5-instant-smarter-clearer-and-more-personalized
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-ec2d3861e7
+cluster_size: 62
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # GPT-5.5 Instant: smarter, clearer, and more personalized

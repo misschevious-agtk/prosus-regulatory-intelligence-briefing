@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-46579d364d
+cluster_id: cluster-2026-05-15-3357564cae
 cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: the-legal-tech-giants-powering-ice-part-1-how-thomson-reuters-and-lexi
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # The Legal Tech Giants Powering ICE, Part 1 — How Thomson Reuters and LexisNexis Helped Support America’s Immigration Surveillance Machine

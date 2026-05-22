@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: YouTube
 case_numbers: []
-cluster_id: cluster-2026-05-14-155d71d6a0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: law-school-advice-in-the-age-of-information-overload
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-7b46cdb322
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Law School Advice In The Age Of Information Overload

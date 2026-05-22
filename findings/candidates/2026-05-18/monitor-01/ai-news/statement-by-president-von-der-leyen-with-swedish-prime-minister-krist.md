@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-18-0d4f2818d5
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Statement by President von der Leyen with Swedish Prime Minister Kristersson and Indian Prime Minister Modi

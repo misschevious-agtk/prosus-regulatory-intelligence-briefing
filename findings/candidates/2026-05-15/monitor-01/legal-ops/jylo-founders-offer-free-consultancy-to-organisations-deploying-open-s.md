@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-d74d750dbb
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: jylo-founders-offer-free-consultancy-to-organisations-deploying-open-s
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-4e52323714
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # Jylo founders offer free consultancy to organisations deploying open source AI

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-b91a92e556
-cluster_size: 5
+cluster_id: cluster-2026-05-15-2e6e6f6dea
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-healthcare-leaders-are-reacting-to-the-white-house-s-proposed-fert
-ranked_at: '2026-05-21T10:44:45+00:00'
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # How Healthcare Leaders Are Reacting To The White House’s Proposed Fertility Benefit Rule

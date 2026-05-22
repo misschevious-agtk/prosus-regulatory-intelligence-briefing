@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-14-133b0151ae
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: they-stole-my-identity-to-run-an-executive-job-scam-here-s-what-every-
-ranked_at: '2026-05-21T10:44:45+00:00'
+cluster_id: cluster-2026-05-15-a8b37a487b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-22T10:28:09+00:00'
 ---
 
 # They Stole My Identity To Run An Executive Job Scam. Here’s What Every Professional Needs To Know.

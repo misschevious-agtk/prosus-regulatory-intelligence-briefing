@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-19-9e28876f1f
-cluster_size: 75
+cluster_size: 102
 cluster_role: sibling
 cluster_canonical_slug: investigation-into-suspected-anti-competitive-conduct-by-google-in-ad-
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Getty Images / Shutterstock merger inquiry

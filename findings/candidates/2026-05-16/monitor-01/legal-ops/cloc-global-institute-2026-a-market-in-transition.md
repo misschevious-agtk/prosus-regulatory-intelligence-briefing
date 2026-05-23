@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-16-f44c20da89
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # CLOC Global Institute 2026: A Market in Transition

@@ -20,10 +20,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-21-06a6b750fd
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: noyb-success-orf-at-must-correct-misleading-cookie-banner
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # noyb success: ORF.at must correct misleading cookie banner

@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-18-93e545dc37
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-latest-orange-rag-product-table-link-here
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # The Latest Orange Rag Product Table – Link here

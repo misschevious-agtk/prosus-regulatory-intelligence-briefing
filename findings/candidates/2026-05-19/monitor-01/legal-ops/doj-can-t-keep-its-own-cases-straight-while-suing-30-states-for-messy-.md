@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-19-8fd761e949
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # DOJ Can’t Keep Its Own Cases Straight While Suing 30 States For Messy Voter Rolls

@@ -19,7 +19,7 @@ cluster_id: cluster-2026-05-19-f077c123af
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-knowledge-lexsoft-announces-t3-is-accessible-via-mcp-and-tiger-e
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Legal knowledge: Lexsoft announces T3 is accessible via MCP and Tiger Eye launches AI Curation Assistant

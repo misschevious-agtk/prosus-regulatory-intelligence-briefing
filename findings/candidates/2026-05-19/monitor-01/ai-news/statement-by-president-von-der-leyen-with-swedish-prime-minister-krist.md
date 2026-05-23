@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-18-0d4f2818d5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: statement-by-president-von-der-leyen-with-swedish-prime-minister-krist
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Statement by President von der Leyen with Swedish Prime Minister Kristersson and Indian Prime Minister Modi

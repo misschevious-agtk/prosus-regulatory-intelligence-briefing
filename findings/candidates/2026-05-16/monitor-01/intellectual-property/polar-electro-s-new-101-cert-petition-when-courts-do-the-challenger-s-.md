@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-16-48fc8e023e
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Polar Electro’s New § 101 Cert Petition: When Courts Do the Challenger’s Job

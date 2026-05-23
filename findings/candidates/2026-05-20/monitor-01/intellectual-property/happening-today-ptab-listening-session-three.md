@@ -23,9 +23,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-20-8dc8f45103
-cluster_size: 136
+cluster_size: 152
 cluster_role: canonical
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Happening today: PTAB Listening Session Three

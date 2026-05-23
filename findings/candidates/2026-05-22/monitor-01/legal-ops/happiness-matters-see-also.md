@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-05-22-5584186428
-cluster_size: 2
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: the-law-firms-where-women-associates-are-actually-happy-2026
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Happiness Matters — See Also

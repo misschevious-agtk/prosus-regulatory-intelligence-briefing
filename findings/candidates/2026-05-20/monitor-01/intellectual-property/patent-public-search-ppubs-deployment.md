@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-15-7b38f6a98d
-cluster_size: 8
+cluster_id: cluster-2026-05-16-2b7b448622
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: patent-public-search-ppubs-deployment
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Patent Public Search (PPUBS) Deployment

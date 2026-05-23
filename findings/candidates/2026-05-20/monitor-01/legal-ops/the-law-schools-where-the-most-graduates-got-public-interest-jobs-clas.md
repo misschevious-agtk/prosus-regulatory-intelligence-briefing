@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-19-a5c758d682
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-law-schools-where-the-most-graduates-got-public-interest-jobs-clas
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # The Law Schools Where The Most Graduates Got Public Interest Jobs (Class Of 2025)

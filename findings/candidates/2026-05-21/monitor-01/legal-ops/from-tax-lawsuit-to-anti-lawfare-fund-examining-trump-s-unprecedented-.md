@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-19-d624cd5b2f
-cluster_size: 15
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-18-26
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # From Tax Lawsuit To Anti-Lawfare Fund: Examining Trump’s Unprecedented Settlement With His Own Government

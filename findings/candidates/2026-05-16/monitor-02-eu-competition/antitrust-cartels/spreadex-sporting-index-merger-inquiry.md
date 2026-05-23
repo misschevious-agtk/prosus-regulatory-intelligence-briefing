@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-15-773a299cd7
-cluster_size: 51
-cluster_role: sibling
-cluster_canonical_slug: automobile-association-developments-limited-consumer-protection-enforc
-ranked_at: '2026-05-22T10:28:09+00:00'
+cluster_id: cluster-2026-05-16-0b72b8aae7
+cluster_size: 27
+cluster_role: canonical
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Spreadex / Sporting Index merger inquiry

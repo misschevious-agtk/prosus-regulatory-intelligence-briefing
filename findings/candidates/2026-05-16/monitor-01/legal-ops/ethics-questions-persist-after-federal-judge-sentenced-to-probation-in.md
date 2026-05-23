@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-15-5e554017e9
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: ethics-questions-persist-after-federal-judge-sentenced-to-probation-in
-ranked_at: '2026-05-22T10:28:09+00:00'
+cluster_id: cluster-2026-05-16-82ad617f7b
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Ethics Questions Persist After Federal Judge Sentenced To Probation In DUI Case

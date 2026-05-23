@@ -20,11 +20,10 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-797/23
-cluster_id: cluster-2026-05-15-00082e65d2
+cluster_id: cluster-2026-05-16-208a615eee
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: italian-transposition-of-press-publishers-right-may-be-compatible-with
-ranked_at: '2026-05-22T10:28:09+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber

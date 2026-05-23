@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-15-e4c2b6c89e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: openai-s-kosa-endorsement-is-regulatory-capture-with-a-smiley-face
-ranked_at: '2026-05-22T10:28:09+00:00'
+cluster_id: cluster-2026-05-16-30b616c556
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # OpenAI’s KOSA Endorsement Is Regulatory Capture With A Smiley Face

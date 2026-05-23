@@ -1,0 +1,43 @@
+---
+date_found: 2026-05-23
+monitor: monitor-01
+domain: legal-ops
+source_url: https://www.lawnext.com/2026/05/the-claude-pocalypse-bypassed-legal-aid-lawdroids-new-plugin-remedies-that-with-15-targeted-skills.html
+source_publisher: LawSites (Bob Ambrogi)
+source_date: Wed, 20 May 2026 13:00:57 +0000
+source_method: rss
+title: The Claude-pocalypse Bypassed Legal Aid; LawDroid’s New Plugin Remedies That, with 15 Targeted Skills
+matched_keywords:
+- Anthropic
+- LawNext
+- Claude
+match_count: 3
+status: candidate
+entities:
+- name: Anthropic
+  type: company
+  jurisdiction: US
+  matched_alias: Anthropic
+case_numbers: []
+cluster_id: cluster-2026-05-20-c4b8592e24
+cluster_size: 252
+cluster_role: sibling
+cluster_canonical_slug: talkingtech-podcast-with-harvey-how-ai-agents-are-changing-legal-work-
+ranked_at: '2026-05-23T09:06:50+00:00'
+---
+
+# The Claude-pocalypse Bypassed Legal Aid; LawDroid’s New Plugin Remedies That, with 15 Targeted Skills
+
+**Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/05/the-claude-pocalypse-bypassed-legal-aid-lawdroids-new-plugin-remedies-that-with-15-targeted-skills.html)
+**Published:** Wed, 20 May 2026 13:00:57 +0000
+**Matched keywords (3):** Anthropic, LawNext, Claude
+
+## Summary excerpt
+
+In last week&#8217;s Claude-pocalypse, Anthropic, one of the world&#8217;s leading artificial intelligence companies, released 12 legal-specific plugins for its Claude AI assistant. It was big news, signalling a frontier AI company&#8217;s deeper push into the legal space. Notably, however, not one of those plugins was designed for legal aid. Rather, they covered legal tasks common [&#8230;]
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

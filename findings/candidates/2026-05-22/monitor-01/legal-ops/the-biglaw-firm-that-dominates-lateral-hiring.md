@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-19-da471e3cae
-cluster_size: 9
+cluster_id: cluster-2026-05-20-c4b8592e24
+cluster_size: 252
 cluster_role: sibling
-cluster_canonical_slug: biglaw-s-best-in-bankruptcy
-ranked_at: '2026-05-22T10:28:09+00:00'
+cluster_canonical_slug: talkingtech-podcast-with-harvey-how-ai-agents-are-changing-legal-work-
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # The Biglaw Firm That Dominates Lateral Hiring

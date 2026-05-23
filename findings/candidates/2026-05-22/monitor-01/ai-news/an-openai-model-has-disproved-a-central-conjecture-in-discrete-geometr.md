@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-05-21-73f73a02d6
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometr
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # An OpenAI model has disproved a central conjecture in discrete geometry

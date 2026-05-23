@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-05-15-c834daa7e7
-cluster_size: 33
+cluster_id: cluster-2026-05-16-c1119f2490
+cluster_size: 25
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-14-26
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # DOJ Gets Nuked By RI Judge For ‘Appalling’ Lack Of Candor

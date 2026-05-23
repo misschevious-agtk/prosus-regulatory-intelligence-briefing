@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-19-2d0d7e5418
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: careers-insights-anjelica-garcia-joins-steno-from-red-bull
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Careers Insights: Anjelica Garcia joins Steno from Red Bull

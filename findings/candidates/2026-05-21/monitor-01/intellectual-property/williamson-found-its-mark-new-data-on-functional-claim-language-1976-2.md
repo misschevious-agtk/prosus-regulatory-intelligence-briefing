@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-20-17c5151c89
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: williamson-found-its-mark-new-data-on-functional-claim-language-1976-2
-ranked_at: '2026-05-22T10:28:09+00:00'
+ranked_at: '2026-05-23T09:06:50+00:00'
 ---
 
 # Williamson Found Its Mark: New Data on Functional Claim Language, 1976-2026

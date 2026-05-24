@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-21-7f3dc7e6f8
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Don’t Let The Client Write The Brief As A Treat

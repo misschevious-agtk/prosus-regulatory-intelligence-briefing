@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-05-16-ec2fb311eb
-cluster_size: 25
+cluster_id: cluster-2026-05-19-e18cf4f57e
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: fordham-33-report-6-unified-patent-court
-ranked_at: '2026-05-23T09:06:50+00:00'
+cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Never too late: If you missed The IPKat last week!

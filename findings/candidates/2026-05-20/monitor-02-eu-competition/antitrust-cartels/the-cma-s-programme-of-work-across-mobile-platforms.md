@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-20-369a869433
-cluster_size: 12
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # The CMA's programme of work across mobile platforms

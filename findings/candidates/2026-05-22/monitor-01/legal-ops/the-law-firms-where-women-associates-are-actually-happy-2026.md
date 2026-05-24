@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-22-5584186428
-cluster_size: 6
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # The Law Firms Where Women Associates Are Actually Happy (2026)

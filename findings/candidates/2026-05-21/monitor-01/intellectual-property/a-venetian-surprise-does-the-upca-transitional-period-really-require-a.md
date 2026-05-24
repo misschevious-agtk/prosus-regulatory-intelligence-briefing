@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: Unified Patent Court
 case_numbers: []
-cluster_id: cluster-2026-05-16-a92deb72f9
+cluster_id: cluster-2026-05-17-7a1a634b5d
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: a-venetian-surprise-does-the-upca-transitional-period-really-require-a
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # A Venetian surprise: Does the UPCA transitional period really require an opt-out to access national courts?

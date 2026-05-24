@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-16-39bf2f38a2
-cluster_size: 59
+cluster_id: cluster-2026-05-17-4a715c375c
+cluster_size: 57
 cluster_role: sibling
-cluster_canonical_slug: scaling-trusted-access-for-cyber-with-gpt-5-5-and-gpt-5-5-cyber
-ranked_at: '2026-05-23T09:06:50+00:00'
+cluster_canonical_slug: openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Introducing ChatGPT Futures: Class of 2026

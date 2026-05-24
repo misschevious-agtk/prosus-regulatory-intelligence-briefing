@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-20-bfa3d49371
 cluster_size: 9
 cluster_role: sibling
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 cluster_canonical_slug: biglaw-firm-mourns-veteran-partner-see-also
 ---
 

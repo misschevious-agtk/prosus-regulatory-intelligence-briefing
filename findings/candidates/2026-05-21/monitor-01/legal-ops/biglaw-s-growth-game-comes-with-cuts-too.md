@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-20-1802223199
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-growth-game-comes-with-cuts-too
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Biglaw’s Growth Game Comes With Cuts, Too

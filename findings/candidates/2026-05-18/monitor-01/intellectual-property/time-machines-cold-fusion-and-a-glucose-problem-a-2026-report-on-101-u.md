@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-16-f170e36347
-cluster_size: 4
+cluster_id: cluster-2026-05-17-f056d74556
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: time-machines-cold-fusion-and-a-glucose-problem-a-2026-report-on-101-u
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Time Machines, Cold Fusion, and a Glucose Problem: A 2026  Report on § 101 Utility

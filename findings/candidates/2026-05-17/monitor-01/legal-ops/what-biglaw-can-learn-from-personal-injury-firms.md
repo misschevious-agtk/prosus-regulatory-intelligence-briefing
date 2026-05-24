@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-16-da67535e26
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: what-biglaw-can-learn-from-personal-injury-firms
-ranked_at: '2026-05-23T09:06:50+00:00'
+cluster_id: cluster-2026-05-17-a3267ced0f
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # What Biglaw Can Learn From Personal Injury Firms

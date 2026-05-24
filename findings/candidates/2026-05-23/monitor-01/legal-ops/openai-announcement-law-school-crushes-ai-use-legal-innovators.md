@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-05-22-1847c69980
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: openai-announcement-law-school-crushes-ai-use-legal-innovators
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # OpenAI Announcement, Law School Crushes AI Use, Legal Innovators +

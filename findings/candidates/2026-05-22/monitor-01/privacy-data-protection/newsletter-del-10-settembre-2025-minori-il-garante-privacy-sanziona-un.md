@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-21-588f299ddd
 cluster_size: 80
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # NEWSLETTER del 10 settembre 2025 - Minori: il Garante privacy sanziona un asilo nido - IT-Wallet, sì del Garante privacy alla sperimentazione - Indagini patrimoniali, il Garante privacy dice sì a CEREBRO - Scuola: ok del Garante alle Linee guida del MIM per l’IA negli istituti scolastici

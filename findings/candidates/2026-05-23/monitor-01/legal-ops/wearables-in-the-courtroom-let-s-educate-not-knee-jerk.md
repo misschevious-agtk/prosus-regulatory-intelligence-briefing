@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-22-30dd3353ed
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: wearables-in-the-courtroom-let-s-educate-not-knee-jerk
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Wearables In The Courtroom: Let’s Educate, Not Knee Jerk

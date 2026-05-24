@@ -19,7 +19,7 @@ cluster_id: cluster-2026-05-19-b9f237263b
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-cloc-global-institute-for-the-legal-ops-adults-in-the-room
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # What Biglaw Can Learn From Corporate Legal Ops

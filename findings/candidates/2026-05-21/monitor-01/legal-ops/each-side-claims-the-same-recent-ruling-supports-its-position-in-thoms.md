@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-16-9e13c530df
-cluster_size: 81
+cluster_id: cluster-2026-05-17-dee9005e07
+cluster_size: 73
 cluster_role: sibling
 cluster_canonical_slug: imanage-unveils-open-protocol
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Each Side Claims the Same Recent Ruling Supports Its Position in Thomson Reuters v. ROSS Appeal

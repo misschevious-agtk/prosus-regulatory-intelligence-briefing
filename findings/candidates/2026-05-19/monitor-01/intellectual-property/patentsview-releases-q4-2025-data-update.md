@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-16-ccdb4811d7
+cluster_id: cluster-2026-05-17-71370e7af7
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: patentsview-releases-q4-2025-data-update
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # PatentsView releases Q4 2025 data update

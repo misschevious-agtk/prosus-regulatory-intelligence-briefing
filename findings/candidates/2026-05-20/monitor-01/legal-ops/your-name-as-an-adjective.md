@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-19-a9cc8aa923
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: your-name-as-an-adjective
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Your Name As An Adjective

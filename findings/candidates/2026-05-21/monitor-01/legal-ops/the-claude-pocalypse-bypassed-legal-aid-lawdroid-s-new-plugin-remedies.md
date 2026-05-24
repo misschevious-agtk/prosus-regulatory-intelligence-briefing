@@ -20,10 +20,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-05-20-c4b8592e24
-cluster_size: 252
+cluster_size: 264
 cluster_role: sibling
 cluster_canonical_slug: talkingtech-podcast-with-harvey-how-ai-agents-are-changing-legal-work-
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # The Claude-pocalypse Bypassed Legal Aid; LawDroid’s New Plugin Remedies That, with 15 Targeted Skills

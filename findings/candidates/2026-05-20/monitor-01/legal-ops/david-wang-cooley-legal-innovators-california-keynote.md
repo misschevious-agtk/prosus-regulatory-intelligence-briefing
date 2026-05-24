@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-19-e501c6a96f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: david-wang-cooley-legal-innovators-california-keynote
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # David Wang, Cooley – Legal Innovators California Keynote

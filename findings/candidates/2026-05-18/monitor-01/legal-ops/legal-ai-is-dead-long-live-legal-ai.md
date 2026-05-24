@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-16-83d94c275f
-cluster_size: 4
+cluster_id: cluster-2026-05-17-74df2b3295
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: legal-ai-is-dead-long-live-legal-ai
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Legal AI is dead. Long live Legal AI?

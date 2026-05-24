@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-16-e811fe9371
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: sixteen-years-of-101-what-actually-moves-examiners
-ranked_at: '2026-05-23T09:06:50+00:00'
+cluster_id: cluster-2026-05-17-c9e92d43ac
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Sixteen Years of §101: What Actually Moves Examiners

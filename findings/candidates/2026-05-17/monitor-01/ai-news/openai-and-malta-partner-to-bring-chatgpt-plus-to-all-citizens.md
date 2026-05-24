@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-16-39bf2f38a2
-cluster_size: 59
-cluster_role: sibling
-cluster_canonical_slug: scaling-trusted-access-for-cyber-with-gpt-5-5-and-gpt-5-5-cyber
-ranked_at: '2026-05-23T09:06:50+00:00'
+cluster_id: cluster-2026-05-17-4a715c375c
+cluster_size: 57
+cluster_role: canonical
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # OpenAI and Malta partner to bring ChatGPT Plus to all citizens

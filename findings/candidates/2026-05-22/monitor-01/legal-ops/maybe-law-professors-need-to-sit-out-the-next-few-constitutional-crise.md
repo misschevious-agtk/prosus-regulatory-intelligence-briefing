@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-21-36f88a3494
-cluster_size: 5
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: maybe-law-professors-need-to-sit-out-the-next-few-constitutional-crise
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Maybe Law Professors Need To Sit Out The Next Few Constitutional Crises

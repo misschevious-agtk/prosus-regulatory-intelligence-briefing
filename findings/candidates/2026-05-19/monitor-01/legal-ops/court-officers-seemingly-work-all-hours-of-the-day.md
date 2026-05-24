@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-16-82f823cace
-cluster_size: 4
+cluster_id: cluster-2026-05-17-edc186dda0
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: court-officers-seemingly-work-all-hours-of-the-day
-ranked_at: '2026-05-23T09:06:50+00:00'
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # Court Officers Seemingly Work All Hours Of The Day

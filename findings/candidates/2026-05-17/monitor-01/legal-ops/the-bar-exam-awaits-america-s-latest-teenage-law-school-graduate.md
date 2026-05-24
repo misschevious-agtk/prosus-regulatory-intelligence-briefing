@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-16-d32e583987
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-bar-exam-awaits-america-s-latest-teenage-law-school-graduate
-ranked_at: '2026-05-23T09:06:50+00:00'
+cluster_id: cluster-2026-05-17-3297cebb15
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-05-24T09:25:30+00:00'
 ---
 
 # The Bar Exam Awaits America’s Latest Teenage Law School Graduate

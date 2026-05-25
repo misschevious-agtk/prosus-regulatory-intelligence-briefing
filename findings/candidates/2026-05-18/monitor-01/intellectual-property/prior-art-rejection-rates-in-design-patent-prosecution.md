@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-1e20811b61
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: prior-art-rejection-rates-in-design-patent-prosecution
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-01e7c85b4e
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Prior Art Rejection Rates in Design Patent Prosecution

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-23-cc34936443
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: orange-rag-legal-tech-clinic-moving-to-evergreen-what-law-firms-need-t
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Orange Rag Legal Tech Clinic: Moving to Evergreen – What law firms need to understand beyond migration

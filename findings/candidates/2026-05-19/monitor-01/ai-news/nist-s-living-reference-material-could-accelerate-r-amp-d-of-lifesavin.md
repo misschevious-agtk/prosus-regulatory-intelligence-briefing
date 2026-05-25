@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-0b2eea13ae
+cluster_id: cluster-2026-05-18-1e79b924e6
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-s-living-reference-material-could-accelerate-r-amp-d-of-lifesavin
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # NIST’s ‘Living Reference Material’ Could Accelerate R&amp;D of Lifesaving Biological Drugs

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-18-e395b1e3b8
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-s-ballroom-case-gets-loopy-see-generally
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # President Trump’s Personal Lawyer Todd Blanche, Reminds Everyone That He Is TRUMP’S PERSONAL LAWYER

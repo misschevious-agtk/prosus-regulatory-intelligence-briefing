@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-20-e4f49e8df4
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Elite’s ‘Text Purple’ cab rides at Aderant Momentum raise eyebrows

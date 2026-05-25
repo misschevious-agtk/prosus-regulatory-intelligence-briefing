@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-20-b3d2901269
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: jylo-opens-office-in-strasbourg
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Jylo opens office in Strasbourg

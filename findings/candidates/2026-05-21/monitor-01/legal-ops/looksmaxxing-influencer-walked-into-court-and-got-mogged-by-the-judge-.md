@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-21-01ec0c1c08
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Looksmaxxing Influencer Walked Into Court And Got Mogged By The Judge (Yeah, I’m Not Sure What That Headline Means Either)

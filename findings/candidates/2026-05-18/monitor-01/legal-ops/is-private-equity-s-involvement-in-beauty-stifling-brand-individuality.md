@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-ee1a8b9336
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: is-private-equity-s-involvement-in-beauty-stifling-brand-individuality
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-d7cc2411c5
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Is Private Equity’s Involvement In Beauty Stifling Brand Individuality?

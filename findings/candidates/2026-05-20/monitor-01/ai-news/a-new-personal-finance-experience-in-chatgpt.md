@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-4a715c375c
-cluster_size: 57
+cluster_id: cluster-2026-05-18-9f9c2d9ce7
+cluster_size: 54
 cluster_role: sibling
 cluster_canonical_slug: openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # A new personal finance experience in ChatGPT

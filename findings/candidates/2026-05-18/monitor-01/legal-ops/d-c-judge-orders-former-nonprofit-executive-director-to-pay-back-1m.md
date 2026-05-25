@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-483a642f50
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: d-c-judge-orders-former-nonprofit-executive-director-to-pay-back-1m
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-2ded6f9b90
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # D.C. Judge Orders Former Nonprofit Executive Director To Pay Back $1M

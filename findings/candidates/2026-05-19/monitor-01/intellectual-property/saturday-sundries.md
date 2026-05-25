@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-19-e18cf4f57e
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Saturday Sundries

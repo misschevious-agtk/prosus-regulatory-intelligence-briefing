@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-21-ad8837dc24
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Susman Godfrey Continues DEI Scholarship Program As Other Biglaw Firms Flinch Amid Intensifying Political Attacks

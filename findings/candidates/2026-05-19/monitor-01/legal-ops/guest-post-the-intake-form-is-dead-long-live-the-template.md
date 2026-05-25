@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-f3a5f2792f
-cluster_size: 7
+cluster_id: cluster-2026-05-18-a1c24bf3ba
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: guest-post-the-intake-form-is-dead-long-live-the-template
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Guest Post: The Intake Form Is Dead. Long Live the Template.

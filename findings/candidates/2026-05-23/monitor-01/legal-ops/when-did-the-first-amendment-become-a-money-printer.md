@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-23-12d5ff896a
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # When Did The First Amendment Become A Money Printer?

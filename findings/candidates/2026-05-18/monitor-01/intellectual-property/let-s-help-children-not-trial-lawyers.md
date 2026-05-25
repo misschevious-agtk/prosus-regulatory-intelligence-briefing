@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: YouTube
 case_numbers: []
-cluster_id: cluster-2026-05-17-c555b64cde
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: let-s-help-children-not-trial-lawyers
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-62d93f80be
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Let’s Help Children, Not Trial Lawyers

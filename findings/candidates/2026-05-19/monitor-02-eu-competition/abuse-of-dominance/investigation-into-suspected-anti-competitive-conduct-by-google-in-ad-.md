@@ -24,9 +24,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-05-19-9e28876f1f
-cluster_size: 129
+cluster_size: 156
 cluster_role: canonical
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Investigation into suspected anti-competitive conduct by Google in ad tech

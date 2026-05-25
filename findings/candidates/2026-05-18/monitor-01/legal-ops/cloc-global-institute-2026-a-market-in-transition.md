@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-aa6f4fb119
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: cloc-global-institute-2026-a-market-in-transition
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-525851f4c6
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # CLOC Global Institute 2026: A Market in Transition

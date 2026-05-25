@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-1db92b992e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ken-paxton-pretends-to-care-about-consumers-sues-netflix-to-protect-th
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-1367c74853
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Ken Paxton Pretends To Care About Consumers, Sues Netflix To ‘Protect The Children’

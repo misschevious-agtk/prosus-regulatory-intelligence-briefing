@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-17-18d21e21e8
-cluster_size: 12
+cluster_id: cluster-2026-05-18-cd9d074bc6
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: politics-or-hollywood
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Politics or Hollywood?

@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-23-1bd8d5a046
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-unjust-enrichment-option-a-trade-secret-plaintiff-s-choice-of-reme
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # The Unjust Enrichment Option: A Trade Secret Plaintiff’s Choice of Remedy

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-23-7869585353
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: will-mark-cuban-s-cost-plus-wellness-appeal-to-employers
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Will Mark Cuban’s Cost Plus Wellness Appeal To Employers?

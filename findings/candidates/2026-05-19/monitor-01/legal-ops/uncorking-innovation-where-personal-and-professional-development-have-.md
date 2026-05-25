@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-aba5df8b57
-cluster_size: 3
+cluster_id: cluster-2026-05-18-a7c51c3289
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: uncorking-innovation-where-personal-and-professional-development-have-
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Uncorking Innovation: Where personal and professional development have space to breathe

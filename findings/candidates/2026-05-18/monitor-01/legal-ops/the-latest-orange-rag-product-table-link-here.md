@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-18-93e545dc37
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # The Latest Orange Rag Product Table – Link here

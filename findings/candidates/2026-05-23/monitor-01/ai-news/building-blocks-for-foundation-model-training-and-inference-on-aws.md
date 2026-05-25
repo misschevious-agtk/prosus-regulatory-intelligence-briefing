@@ -19,10 +19,10 @@ entities:
   matched_alias: AWS
 case_numbers: []
 cluster_id: cluster-2026-05-20-c4b8592e24
-cluster_size: 264
+cluster_size: 277
 cluster_role: sibling
 cluster_canonical_slug: talkingtech-podcast-with-harvey-how-ai-agents-are-changing-legal-work-
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Building Blocks for Foundation Model Training and Inference on AWS

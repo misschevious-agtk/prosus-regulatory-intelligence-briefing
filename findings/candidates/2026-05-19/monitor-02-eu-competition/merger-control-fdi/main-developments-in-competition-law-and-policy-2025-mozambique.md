@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-e1a17b50a6
-cluster_size: 34
+cluster_id: cluster-2026-05-18-23cca58455
+cluster_size: 31
 cluster_role: sibling
 cluster_canonical_slug: book-review-questioning-the-role-of-competition-law-in-the-21st-centur
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Main Developments in Competition Law and Policy 2025 – Mozambique

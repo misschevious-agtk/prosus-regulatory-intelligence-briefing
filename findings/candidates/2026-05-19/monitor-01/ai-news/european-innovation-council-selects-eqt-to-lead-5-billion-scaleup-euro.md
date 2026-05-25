@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-19-f57e5e1652
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # European Innovation Council selects EQT to lead €5 Billion Scaleup Europe Fund

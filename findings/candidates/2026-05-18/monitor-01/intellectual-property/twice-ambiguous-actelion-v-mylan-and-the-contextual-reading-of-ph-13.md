@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-09a298195d
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: twice-ambiguous-actelion-v-mylan-and-the-contextual-reading-of-ph-13
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-257f093960
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Twice Ambiguous: Actelion v. Mylan and the Contextual Reading of pH 13

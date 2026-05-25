@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-dee9005e07
-cluster_size: 73
+cluster_id: cluster-2026-05-18-4d9231a4c7
+cluster_size: 65
 cluster_role: sibling
 cluster_canonical_slug: imanage-unveils-open-protocol
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Survey: Legal Teams Lack Visibility Into AI Agents’ Actions, Icertis Research Finds

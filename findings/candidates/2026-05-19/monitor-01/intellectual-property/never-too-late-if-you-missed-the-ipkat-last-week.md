@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-19-e18cf4f57e
 cluster_size: 24
 cluster_role: canonical
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

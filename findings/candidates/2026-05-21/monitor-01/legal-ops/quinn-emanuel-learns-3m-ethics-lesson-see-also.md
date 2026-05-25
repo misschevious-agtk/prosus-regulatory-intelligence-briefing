@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-21-ad8837dc24
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: susman-godfrey-continues-dei-scholarship-program-as-other-biglaw-firms
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Quinn Emanuel Learns $3M Ethics Lesson — See Also

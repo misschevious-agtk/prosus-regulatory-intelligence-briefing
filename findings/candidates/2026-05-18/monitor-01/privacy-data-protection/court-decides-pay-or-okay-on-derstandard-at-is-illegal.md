@@ -25,11 +25,10 @@ entities:
   jurisdiction: EU
   matched_alias: Court of Justice
 case_numbers: []
-cluster_id: cluster-2026-05-17-f07a6d0523
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: court-decides-pay-or-okay-on-derstandard-at-is-illegal
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-bfe436bc5b
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Court decides "Pay or Okay" on DerStandard.at is illegal

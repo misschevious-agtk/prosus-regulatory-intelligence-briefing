@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-17-06c6bec3be
-cluster_size: 18
-cluster_role: sibling
-cluster_canonical_slug: spreadex-sporting-index-merger-inquiry
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-18-e7fe29f79c
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Spreadex / Sporting Index merger inquiry

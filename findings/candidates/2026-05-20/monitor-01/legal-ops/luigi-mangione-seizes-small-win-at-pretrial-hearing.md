@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-19-4b89dc1bd1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: luigi-mangione-seizes-small-win-at-pretrial-hearing
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Luigi Mangione Seizes Small Win At Pretrial Hearing

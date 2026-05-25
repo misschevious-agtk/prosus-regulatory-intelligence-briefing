@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-17-34fe2f6d25
-cluster_size: 151
+cluster_id: cluster-2026-05-18-5b04589573
+cluster_size: 152
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-romania-s-fourth-payment-request-for-2-62-billi
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_canonical_slug: commission-greenlights-lithuania-s-sixth-payment-request-for-178-milli
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Daily News 18 / 05 / 2026

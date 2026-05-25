@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-0166bb8a73
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: singular-bank-helps-bankers-move-fast-with-chatgpt-and-codex
-ranked_at: '2026-05-24T09:25:30+00:00'
+cluster_id: cluster-2026-05-19-ddf710282b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Singular Bank helps bankers move fast with ChatGPT and Codex

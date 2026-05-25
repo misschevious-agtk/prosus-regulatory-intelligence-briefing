@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-17-e0bd8e1148
+cluster_id: cluster-2026-05-18-5db9071f23
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: mitigating-fraud-and-misrepresentations-in-patent-proceedings
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Mitigating fraud and misrepresentations in patent proceedings

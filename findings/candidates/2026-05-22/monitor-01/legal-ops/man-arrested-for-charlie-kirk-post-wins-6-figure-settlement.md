@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-21-a2010b39a8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: man-arrested-for-charlie-kirk-post-wins-6-figure-settlement
-ranked_at: '2026-05-24T09:25:30+00:00'
+ranked_at: '2026-05-25T11:13:28+00:00'
 ---
 
 # Man Arrested For Charlie Kirk Post Wins 6 Figure Settlement

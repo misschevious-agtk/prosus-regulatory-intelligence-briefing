@@ -19,10 +19,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-20-8dc8f45103
-cluster_size: 162
+cluster_size: 132
 cluster_role: sibling
 cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Trademark Maintenance

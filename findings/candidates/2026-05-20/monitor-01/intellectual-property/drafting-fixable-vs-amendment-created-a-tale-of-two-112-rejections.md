@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-20-8dc8f45103
-cluster_size: 162
-cluster_role: sibling
-cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-44a6de17fa
+cluster_size: 14
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Drafting Fixable vs. Amendment Created: A Tale of Two §112 Rejections

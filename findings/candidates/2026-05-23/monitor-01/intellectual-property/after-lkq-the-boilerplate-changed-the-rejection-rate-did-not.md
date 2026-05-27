@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-18-5f67bd8cc3
-cluster_size: 7
+cluster_id: cluster-2026-05-20-e1b25a5926
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: after-lkq-the-boilerplate-changed-the-rejection-rate-did-not
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # After LKQ: The Boilerplate Changed; The Rejection Rate Did Not

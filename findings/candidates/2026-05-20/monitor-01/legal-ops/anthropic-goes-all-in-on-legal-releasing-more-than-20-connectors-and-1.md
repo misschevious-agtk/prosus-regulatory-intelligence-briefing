@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-05-18-4d9231a4c7
-cluster_size: 65
-cluster_role: sibling
-cluster_canonical_slug: imanage-unveils-open-protocol
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-e9f586ed36
+cluster_size: 42
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude

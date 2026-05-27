@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-05-19-8fd761e949
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: doj-can-t-keep-its-own-cases-straight-while-suing-30-states-for-messy-
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-9a591bbd7d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # DOJ Can’t Keep Its Own Cases Straight While Suing 30 States For Messy Voter Rolls

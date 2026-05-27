@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-18-f4b3ce1466
-cluster_size: 4
+cluster_id: cluster-2026-05-20-09dc5e890b
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: micro-entity-traps-for-inventors-who-also-own-their-employer
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Micro-Entity Traps for Inventors Who Also Own Their Employer

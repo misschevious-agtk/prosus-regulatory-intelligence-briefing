@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-18-95b30fffa0
-cluster_size: 60
-cluster_role: sibling
-cluster_canonical_slug: microsoft-s-business-software-ecosystem
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-db7f297ba0
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # CMA conditionally clears Getty merger with Shutterstock

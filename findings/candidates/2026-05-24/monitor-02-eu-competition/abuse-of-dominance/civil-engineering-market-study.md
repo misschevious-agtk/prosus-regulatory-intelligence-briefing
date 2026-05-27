@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-19-9e28876f1f
-cluster_size: 156
+cluster_id: cluster-2026-05-20-c41998185f
+cluster_size: 171
 cluster_role: sibling
 cluster_canonical_slug: investigation-into-suspected-anti-competitive-conduct-by-google-in-ad-
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Civil engineering market study

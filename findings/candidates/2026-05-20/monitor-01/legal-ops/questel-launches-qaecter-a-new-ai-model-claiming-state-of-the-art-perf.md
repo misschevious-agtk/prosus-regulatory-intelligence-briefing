@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-18-77733420f1
-cluster_size: 7
+cluster_id: cluster-2026-05-20-eddc4fed67
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: gavel-launches-web-based-ai-contract-platform-expanding-gavel-exec-bey
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Questel Launches QaECTER, a New AI Model Claiming State-of-the-Art Performance in Patent Search

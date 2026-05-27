@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-19-2d0d7e5418
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: careers-insights-anjelica-garcia-joins-steno-from-red-bull
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-f7f483081c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Careers Insights: Anjelica Garcia joins Steno from Red Bull

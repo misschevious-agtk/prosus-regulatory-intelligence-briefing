@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-18-9f9c2d9ce7
-cluster_size: 54
-cluster_role: sibling
-cluster_canonical_slug: openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-ed0791ef82
+cluster_size: 43
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # OpenAI and Malta partner to bring ChatGPT Plus to all citizens

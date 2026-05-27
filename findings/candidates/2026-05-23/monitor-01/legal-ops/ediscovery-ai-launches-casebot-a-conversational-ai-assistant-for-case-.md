@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-18-4d9231a4c7
-cluster_size: 65
+cluster_id: cluster-2026-05-20-d29aaafca7
+cluster_size: 7
 cluster_role: sibling
-cluster_canonical_slug: imanage-unveils-open-protocol
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_canonical_slug: ediscovery-ai-launches-casebot-a-conversational-ai-assistant-for-case-
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # eDiscovery AI Launches CaseBot, a Conversational AI Assistant for Case Data

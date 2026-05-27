@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-25-cb002bce63
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Inter Partes Review in 2026

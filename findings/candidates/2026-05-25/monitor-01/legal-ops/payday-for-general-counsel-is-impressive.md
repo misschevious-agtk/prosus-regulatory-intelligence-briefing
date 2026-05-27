@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-23-56a62842bd
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: payday-for-general-counsel-is-impressive
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Payday For General Counsel Is Impressive

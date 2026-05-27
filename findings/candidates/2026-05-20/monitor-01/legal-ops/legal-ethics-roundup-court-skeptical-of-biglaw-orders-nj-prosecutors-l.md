@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-19-16e3728a28
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-court-skeptical-of-biglaw-orders-nj-prosecutors-l
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-fa0e794279
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Legal Ethics Roundup: Court Skeptical Of Biglaw Orders, NJ Prosecutors Lack Rep For Ethics Charges, Blanche Recusal & More

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-18-79205fe19d
-cluster_size: 8
+cluster_id: cluster-2026-05-20-552c23a4e3
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: evenup-extends-beyond-software-with-launch-of-pre-litigation-as-a-serv
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # EvenUp Extends Beyond Software with Launch of ‘Pre-Litigation-as-a-Service’ Offering For PI Law Firms

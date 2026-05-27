@@ -18,10 +18,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-05-21-588f299ddd
-cluster_size: 80
+cluster_size: 70
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # NEWSLETTER del 9 marzo 2026 - Cimiteri digitali, il Garante privacy sanziona Aldilapp - Stop alle telecamere non a norma privacy - Piattaforma di gestione delle deleghe, via libera del Garante - Garanti mondiali: preoccupazione per contenuti intimi generati con IA

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-18-5b04589573
-cluster_size: 152
+cluster_id: cluster-2026-05-20-2df1b6f447
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-lithuania-s-sixth-payment-request-for-178-milli
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_canonical_slug: commission-releases-158-9-million-to-albania-montenegro-and-north-mace
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Commission releases €158.9 million to Albania, Montenegro and North Macedonia under EU Growth Plan for the Western Balkans

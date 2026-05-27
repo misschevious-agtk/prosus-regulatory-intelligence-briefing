@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-20-bfa3d49371
-cluster_size: 9
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-mourns-veteran-partner-see-also
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Costco Tries To Get Tariff Refund Class Action Suit Dismissed

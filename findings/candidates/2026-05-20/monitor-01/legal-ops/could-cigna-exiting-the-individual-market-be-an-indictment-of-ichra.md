@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-19-696ced4cf2
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: could-cigna-exiting-the-individual-market-be-an-indictment-of-ichra
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-54014f1e9c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Could Cigna Exiting The Individual Market Be An Indictment Of ICHRA?

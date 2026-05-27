@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-18-a1c24bf3ba
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: guest-post-the-intake-form-is-dead-long-live-the-template
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-bf1287e5b4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Abstract Brings AI-Powered Legislative Intelligence to Law Firms and Corporate Legal Teams

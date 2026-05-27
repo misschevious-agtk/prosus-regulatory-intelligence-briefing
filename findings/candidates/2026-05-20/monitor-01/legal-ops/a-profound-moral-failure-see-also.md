@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-05-19-bbe0841572
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: a-profound-moral-failure-see-also
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-90afe8459f
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # ‘A Profound Moral Failure’ — See Also

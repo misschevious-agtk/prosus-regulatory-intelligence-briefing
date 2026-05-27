@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-19-b9f237263b
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-cloc-global-institute-for-the-legal-ops-adults-in-the-room
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-8620a76ab1
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # The CLOC Global Institute: For The Legal Ops Adults In The Room

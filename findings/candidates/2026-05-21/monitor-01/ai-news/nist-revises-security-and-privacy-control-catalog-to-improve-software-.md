@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-18-5ea545b31e
-cluster_size: 8
+cluster_id: cluster-2026-05-20-ad57e7bd4e
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: nist-revises-security-and-privacy-control-catalog-to-improve-software-
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # NIST Revises Security and Privacy Control Catalog to Improve Software Update and Patch Releases

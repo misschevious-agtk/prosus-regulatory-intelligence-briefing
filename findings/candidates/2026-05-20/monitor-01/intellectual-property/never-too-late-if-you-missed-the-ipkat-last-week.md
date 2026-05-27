@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: EUIPO
 case_numbers: []
-cluster_id: cluster-2026-05-19-e18cf4f57e
-cluster_size: 24
-cluster_role: sibling
-cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-da54478a0a
+cluster_size: 21
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

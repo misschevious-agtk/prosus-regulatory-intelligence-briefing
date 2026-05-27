@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-18-e0c56fe013
-cluster_size: 16
+cluster_id: cluster-2026-05-20-719449f6f8
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: demandes-de-cr-dit-comprendre-l-utilisation-de-vos-donn-es-et-vos-droi
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Demandes de crédit : comprendre l’utilisation de vos données et vos droits

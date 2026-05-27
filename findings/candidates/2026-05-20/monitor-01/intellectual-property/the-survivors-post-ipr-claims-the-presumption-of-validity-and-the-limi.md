@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-20-74bd363e88
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # The Survivors: Post-IPR Claims, the Presumption of Validity, and the Limits of § 285

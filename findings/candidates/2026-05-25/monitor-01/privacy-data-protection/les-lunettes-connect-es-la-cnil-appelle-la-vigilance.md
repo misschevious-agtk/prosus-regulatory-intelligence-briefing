@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-18-90abd67f70
-cluster_size: 8
+cluster_id: cluster-2026-05-20-0211ed45d1
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: les-lunettes-connect-es-la-cnil-appelle-la-vigilance
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Les lunettes connectées : la CNIL appelle à la vigilance

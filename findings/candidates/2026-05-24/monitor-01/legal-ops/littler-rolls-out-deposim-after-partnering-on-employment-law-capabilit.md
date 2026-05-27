@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-22-1e2ede3258
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: littler-rolls-out-deposim-after-partnering-on-employment-law-capabilit
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Littler rolls out DepoSim after partnering on employment law capability

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-18-5b04589573
-cluster_size: 152
+cluster_id: cluster-2026-05-20-f35ba66565
+cluster_size: 137
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-lithuania-s-sixth-payment-request-for-178-milli
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_canonical_slug: commission-approves-1-3-billion-german-state-aid-to-support-renewable-
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Opening remarks by President von der Leyen at the EU-Mexico Summit

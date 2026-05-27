@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-18-6cf998cd88
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: be-careful-what-you-wish-for-method-of-treatment-claim-for-an-antibody
-ranked_at: '2026-05-25T11:13:28+00:00'
+cluster_id: cluster-2026-05-20-46d73dcb25
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # Be careful what you wish for: Method of treatment claim for an antibody genus found to satisfy both written description and enablement requirement (Teva v Eli Lilly)

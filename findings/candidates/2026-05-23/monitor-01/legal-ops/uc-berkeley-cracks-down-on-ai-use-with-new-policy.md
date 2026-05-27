@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-22-5bd649fe91
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: uc-berkeley-cracks-down-on-ai-use-with-new-policy
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 ---
 
 # UC Berkeley Cracks Down On AI Use With New Policy

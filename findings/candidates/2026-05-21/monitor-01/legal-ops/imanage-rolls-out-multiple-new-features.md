@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-23-4c498aa3c2
-cluster_size: 11
+cluster_size: 14
 cluster_role: sibling
-ranked_at: '2026-05-25T11:13:28+00:00'
+ranked_at: '2026-05-27T10:58:35+00:00'
 cluster_canonical_slug: connectlive-2026-the-dms-rewires-itself-for-the-agentic-era
 ---
 

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-20-44a6de17fa
-cluster_size: 14
+cluster_id: cluster-2026-05-21-7b970f80fa
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: drafting-fixable-vs-amendment-created-a-tale-of-two-112-rejections
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Amazon as Prior Art: The Rise in Design Patent §102 Rejections

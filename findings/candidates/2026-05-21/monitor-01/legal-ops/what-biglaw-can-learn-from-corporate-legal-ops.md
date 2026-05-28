@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-20-8620a76ab1
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-cloc-global-institute-for-the-legal-ops-adults-in-the-room
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_id: cluster-2026-05-21-d54afba2eb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # What Biglaw Can Learn From Corporate Legal Ops

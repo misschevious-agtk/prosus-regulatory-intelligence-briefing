@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-21-36f88a3494
 cluster_size: 14
 cluster_role: canonical
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Maybe Law Professors Need To Sit Out The Next Few Constitutional Crises

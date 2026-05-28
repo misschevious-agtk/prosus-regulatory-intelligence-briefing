@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-20-c4b8592e24
-cluster_size: 246
+cluster_id: cluster-2026-05-21-1e406f21e0
+cluster_size: 88
 cluster_role: sibling
-cluster_canonical_slug: talkingtech-podcast-with-harvey-how-ai-agents-are-changing-legal-work-
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_canonical_slug: advancing-content-provenance-for-a-safer-more-transparent-ai-ecosystem
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments

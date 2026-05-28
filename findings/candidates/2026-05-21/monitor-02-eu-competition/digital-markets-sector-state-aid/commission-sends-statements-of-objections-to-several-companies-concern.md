@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-21-2aa1feefe7
+cluster_id: cluster-2026-05-21-42d8164b0a
 cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: commission-sends-statements-of-objections-to-several-companies-concern
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Commission sends Statements of Objections to several companies concerning synthetic turf cartels

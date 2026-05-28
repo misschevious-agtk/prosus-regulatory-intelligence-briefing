@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-20-c4b8592e24
-cluster_size: 246
-cluster_role: sibling
-cluster_canonical_slug: talkingtech-podcast-with-harvey-how-ai-agents-are-changing-legal-work-
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_id: cluster-2026-05-21-3ec846cc1c
+cluster_size: 152
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # TalkingTech Podcast with Harvey: How AI Agents Are Changing Legal Work—and Why It Matters Now

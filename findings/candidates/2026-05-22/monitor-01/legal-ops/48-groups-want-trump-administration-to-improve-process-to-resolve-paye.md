@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-21-b9de29f91a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 48-groups-want-trump-administration-to-improve-process-to-resolve-paye
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # 48 Groups Want Trump Administration To Improve Process To Resolve Payer-Provider Disputes

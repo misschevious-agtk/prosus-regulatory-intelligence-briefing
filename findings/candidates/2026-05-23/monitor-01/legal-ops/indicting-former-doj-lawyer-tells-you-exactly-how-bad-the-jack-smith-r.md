@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-05-20-75aaa5a228
-cluster_size: 23
+cluster_id: cluster-2026-05-21-24eee092f7
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-19-26
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Indicting Former DOJ Lawyer Tells You Exactly How Bad The Jack Smith Report Must Be For Trump

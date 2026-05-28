@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-05-27-61e16f39ef
-cluster_size: 3
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: biglaw-attorneys-shot-outside-courthouse-after-contentious-hearing
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Shots Follow Court Hearing — See Also

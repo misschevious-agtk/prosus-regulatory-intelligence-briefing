@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-20-ca1084fef4
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: openai-launches-deployco-to-help-businesses-build-around-intelligence
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_id: cluster-2026-05-21-72b99c3fa9
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # OpenAI launches DeployCo to help businesses build around intelligence

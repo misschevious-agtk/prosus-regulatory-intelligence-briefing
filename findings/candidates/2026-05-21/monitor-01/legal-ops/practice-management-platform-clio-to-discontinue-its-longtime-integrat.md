@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-20-1c9fd8d94d
+cluster_id: cluster-2026-05-21-9992db9b01
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: practice-management-platform-clio-to-discontinue-its-longtime-integrat
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Practice Management Platform Clio To Discontinue Its Longtime Integration with Payments Processor LawPay

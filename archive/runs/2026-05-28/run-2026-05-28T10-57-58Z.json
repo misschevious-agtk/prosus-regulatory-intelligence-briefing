@@ -1,0 +1,173 @@
+{
+  "date": "2026-05-28",
+  "total_candidates": 335,
+  "per_domain": {
+    "monitor-01/ai-news": 69,
+    "monitor-01/intellectual-property": 60,
+    "monitor-01/legal-ops": 74,
+    "monitor-01/privacy-data-protection": 59,
+    "monitor-02-eu-competition/abuse-of-dominance": 24,
+    "monitor-02-eu-competition/antitrust-cartels": 19,
+    "monitor-02-eu-competition/digital-markets-sector-state-aid": 27,
+    "monitor-02-eu-competition/merger-control-fdi": 3
+  },
+  "per_source": {
+    "NIST news (filtered for AI in script)": 24,
+    "OpenAI blog": 22,
+    "European Commission press": 21,
+    "Hugging Face blog": 9,
+    "AI Snake Oil": 3,
+    "Import AI (Jack Clark)": 1,
+    "IPKat blog": 16,
+    "WIPO news": 9,
+    "Patently-O": 10,
+    "USPTO news": 25,
+    "LawSites (Bob Ambrogi)": 30,
+    "Artificial Lawyer": 7,
+    "Above the Law": 29,
+    "Legal IT Insider": 8,
+    "noyb news": 30,
+    "EDPB news": 10,
+    "Garante per la protezione dei dati personali [IT]": 10,
+    "CNIL actualités [FR]": 9,
+    "CMA news": 51,
+    "Chillin'Competition": 6,
+    "Kluwer Competition Law Blog": 5
+  },
+  "clusters": [
+    {
+      "id": "",
+      "size": 174,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 152,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 138,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 137,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 88,
+      "canonical_title": ""
+    }
+  ],
+  "top_titles": {
+    "monitor-01": [
+      {
+        "title": "EU Commission internal draft would wreck core principles of the GDPR",
+        "source": "noyb news",
+        "match_count": 23,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Data Protection Day: 5 misconceptions about data protection, debunked",
+        "source": "noyb news",
+        "match_count": 16,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
+        "source": "EDPB news",
+        "match_count": 13,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
+        "source": "EDPB news",
+        "match_count": 13,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Digital Omnibus: EU DPAs reject many proposed changes to the GDPR",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "sibling"
+      }
+    ],
+    "monitor-02-eu-competition": [
+      {
+        "title": "Google’s general search services: proposed conduct requirements",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Revision of Malta’s FDI Rules – Key Takeaways",
+        "source": "Kluwer Competition Law Blog",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Correspondence: CMA response to government in relation to childcare provision",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Commission opens in-depth foreign subsidies investigation into JD.com's proposed acquisition of CECONOMY",
+        "source": "European Commission press",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Commission opens in-depth foreign subsidies investigation into JD.com's proposed acquisition of CECONOMY",
+        "source": "European Commission press",
+        "match_count": 3,
+        "cluster_role": "canonical"
+      }
+    ]
+  },
+  "broken_feed_sources": [],
+  "top_entities": [
+    {
+      "name": "Competition and Markets Authority",
+      "count": 51
+    },
+    {
+      "name": "European Commission",
+      "count": 30
+    },
+    {
+      "name": "United States Patent and Trademark Office",
+      "count": 24
+    },
+    {
+      "name": "OpenAI",
+      "count": 16
+    },
+    {
+      "name": "Commission Nationale de l'Informatique et des Libertés",
+      "count": 12
+    },
+    {
+      "name": "European Data Protection Board",
+      "count": 11
+    },
+    {
+      "name": "World Intellectual Property Organization",
+      "count": 10
+    },
+    {
+      "name": "Garante per la protezione dei dati personali",
+      "count": 10
+    },
+    {
+      "name": "Court of Justice of the European Union",
+      "count": 8
+    },
+    {
+      "name": "Alphabet / Google",
+      "count": 7
+    }
+  ]
+}

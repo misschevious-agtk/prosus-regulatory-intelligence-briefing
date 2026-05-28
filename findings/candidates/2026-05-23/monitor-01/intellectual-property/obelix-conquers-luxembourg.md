@@ -25,10 +25,10 @@ case_numbers:
 - scheme: EU General Court
   citation: T-24/25
 cluster_id: cluster-2026-05-21-ff35e7938b
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: obelix-conquers-luxembourg
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Obelix conquers Luxembourg

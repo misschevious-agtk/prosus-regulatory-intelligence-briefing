@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-20-2b4996f731
+cluster_id: cluster-2026-05-21-79e0307490
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: everlaw-and-legora-announce-integration-to-connect-discovery-and-draft
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Everlaw and Legora Announce Integration to Connect Discovery and Drafting

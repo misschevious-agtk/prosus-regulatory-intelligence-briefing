@@ -17,11 +17,10 @@ entities:
   jurisdiction: ES
   matched_alias: CNMC
 case_numbers: []
-cluster_id: cluster-2026-05-20-5d0df7b1da
-cluster_size: 20
-cluster_role: sibling
-cluster_canonical_slug: book-review-questioning-the-role-of-competition-law-in-the-21st-centur
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_id: cluster-2026-05-21-b35da4b001
+cluster_size: 10
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Main Developments in Competition Law and Policy 2025 – Spain

@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-27-c9d1a69673
-cluster_size: 2
+cluster_id: cluster-2026-05-28-e0b164c242
+cluster_size: 5
 cluster_role: sibling
-cluster_canonical_slug: recherche-en-sant-la-cnil-met-jour-et-largit-le-champ-des-m-thodologie
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_canonical_slug: ia-g-n-rative-et-vie-priv-e-une-affiche-coproduite-par-la-pipc-et-la-c
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Cyberattaque : le sous-traitant au centre de la crise

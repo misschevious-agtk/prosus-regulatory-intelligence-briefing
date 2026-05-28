@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-23-56a62842bd
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Payday For General Counsel Is Impressive

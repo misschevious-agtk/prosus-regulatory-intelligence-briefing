@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-20-1802223199
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: biglaw-s-growth-game-comes-with-cuts-too
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_id: cluster-2026-05-21-a91dfb6782
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Biglaw’s Growth Game Comes With Cuts, Too

@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-05-20-e9f586ed36
+cluster_id: cluster-2026-05-21-02598dd104
 cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-1
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Justice Technology Association Named Access to Justice Partner in Anthropic’s Legal AI Launch

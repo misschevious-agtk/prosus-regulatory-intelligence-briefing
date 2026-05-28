@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-20-0e299be3a2
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: shein-reportedly-and-confusingly-acquires-everlane
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_id: cluster-2026-05-21-738ee655d1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Shein Reportedly (And Confusingly) Acquires Everlane

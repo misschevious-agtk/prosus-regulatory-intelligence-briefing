@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-23-f9516f7921
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-fcc-using-false-claims-of-immigrant-fraud-to-drive-up-costs-of-b
-ranked_at: '2026-05-27T10:58:35+00:00'
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Trump FCC Using False Claims Of Immigrant Fraud To Drive Up Costs Of Broadband For Everyone

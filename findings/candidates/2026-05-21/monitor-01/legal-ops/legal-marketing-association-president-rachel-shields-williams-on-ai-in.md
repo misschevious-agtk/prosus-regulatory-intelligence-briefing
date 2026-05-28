@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-20-f08ad80d9a
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: legal-marketing-association-president-rachel-shields-williams-on-ai-in
-ranked_at: '2026-05-27T10:58:35+00:00'
+cluster_id: cluster-2026-05-21-5a08bc1aba
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-05-28T10:57:55+00:00'
 ---
 
 # Legal Marketing Association President Rachel Shields Williams On AI, Innovation, and Why People Still Come First

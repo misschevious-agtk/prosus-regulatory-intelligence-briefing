@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-21-24eee092f7
-cluster_size: 21
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-05-19-26
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_id: cluster-2026-05-22-120f1af0ca
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # As The National Debt Soars, Trump Steals Billions From Taxpayers To Redistribute To January 6 Rioters

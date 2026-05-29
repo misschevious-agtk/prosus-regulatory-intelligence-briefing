@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-22-fb0b0e31fe
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: state-of-rule-of-law-the-worst-it-s-been-in-a-decade-experts-say
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # State Of Rule Of Law The Worst It’s Been In A Decade, Experts Say

@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-05-21-3ec846cc1c
-cluster_size: 152
+cluster_id: cluster-2026-05-22-c76cee6d22
+cluster_size: 54
 cluster_role: sibling
-cluster_canonical_slug: talkingtech-podcast-with-harvey-how-ai-agents-are-changing-legal-work-
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_canonical_slug: stilta-raises-10-5m-with-investors-including-legora-openai-and-lovable
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # The Claude-pocalypse Bypassed Legal Aid; LawDroid’s New Plugin Remedies That, with 15 Targeted Skills

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-21-ad8837dc24
-cluster_size: 6
+cluster_id: cluster-2026-05-22-5911a9ea4f
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: susman-godfrey-continues-dei-scholarship-program-as-other-biglaw-firms
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Quinn Emanuel Learns $3M Ethics Lesson — See Also

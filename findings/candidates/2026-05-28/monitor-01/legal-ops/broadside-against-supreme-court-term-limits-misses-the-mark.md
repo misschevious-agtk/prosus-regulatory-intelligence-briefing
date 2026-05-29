@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-27-7d3d7ca700
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: broadside-against-supreme-court-term-limits-misses-the-mark
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Broadside Against Supreme Court Term Limits Misses The Mark

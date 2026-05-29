@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-27-3fd0de8c00
-cluster_size: 3
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Legal Innovators California Breakfast – June 9

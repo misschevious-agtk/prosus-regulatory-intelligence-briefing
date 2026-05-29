@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-22-1e2ede3258
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: littler-rolls-out-deposim-after-partnering-on-employment-law-capabilit
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Littler rolls out DepoSim after partnering on employment law capability

@@ -17,11 +17,10 @@ entities:
   jurisdiction: ES
   matched_alias: CNMC
 case_numbers: []
-cluster_id: cluster-2026-05-21-b35da4b001
-cluster_size: 10
-cluster_role: sibling
-cluster_canonical_slug: main-developments-in-competition-law-and-policy-2025-spain
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_id: cluster-2026-05-22-4660231ef6
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Main Developments in Competition Law and Policy 2025 – Spain

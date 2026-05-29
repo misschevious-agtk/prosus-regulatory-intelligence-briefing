@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-27-3bbc17779e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-tells-meta-to-lick-their-lower-court-wounds
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Supreme Court Tells Meta To Lick Their Lower Court Wounds

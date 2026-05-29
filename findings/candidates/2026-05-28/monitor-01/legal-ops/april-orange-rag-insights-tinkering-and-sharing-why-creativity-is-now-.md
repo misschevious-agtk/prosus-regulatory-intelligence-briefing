@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-28-b413532671
-cluster_size: 3
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-may-orange-rag-is-here
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # April Orange Rag Insights – Tinkering and sharing: Why creativity is now part of the GC’s job

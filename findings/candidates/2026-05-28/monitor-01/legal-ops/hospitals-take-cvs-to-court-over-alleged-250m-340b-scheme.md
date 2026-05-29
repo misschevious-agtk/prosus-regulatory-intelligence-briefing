@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-28-e893bc92bf
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Hospitals Take CVS To Court Over Alleged $250M 340B Scheme

@@ -33,11 +33,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-05-21-f83cb5ed95
+cluster_id: cluster-2026-05-22-6571ea9d7b
 cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: cef-2026-edpb-launches-coordinated-enforcement-action-on-transparency-
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data

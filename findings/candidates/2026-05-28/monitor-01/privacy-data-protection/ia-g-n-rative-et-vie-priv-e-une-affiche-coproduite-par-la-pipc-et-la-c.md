@@ -18,10 +18,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-28-e0b164c242
-cluster_size: 5
-cluster_role: canonical
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_id: cluster-2026-05-22-0260ab3bdb
+cluster_size: 220
+cluster_role: sibling
+ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
 ---
 
 # « IA générative et vie privée » : une affiche coproduite par la PIPC et la CNIL pour sensibiliser les utilisateurs d’IA à la protection de leurs données

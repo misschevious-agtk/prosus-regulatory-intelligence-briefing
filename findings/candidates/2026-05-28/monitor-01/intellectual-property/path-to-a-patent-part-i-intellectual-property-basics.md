@@ -23,10 +23,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-27-9ada081460
-cluster_size: 9
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: path-to-a-patent-part-i-intellectual-property-basics
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Path to a Patent, Part I: Intellectual property basics

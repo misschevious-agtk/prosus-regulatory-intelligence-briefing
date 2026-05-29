@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-21-7f3dc7e6f8
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: don-t-let-the-client-write-the-brief-as-a-treat
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_id: cluster-2026-05-22-5d80067878
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Don’t Let The Client Write The Brief As A Treat

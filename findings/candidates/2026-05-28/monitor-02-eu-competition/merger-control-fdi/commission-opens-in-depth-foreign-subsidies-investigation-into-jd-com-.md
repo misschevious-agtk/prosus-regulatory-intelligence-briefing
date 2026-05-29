@@ -19,10 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-28-b942d1c5bd
-cluster_size: 3
-cluster_role: canonical
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_id: cluster-2026-05-22-0260ab3bdb
+cluster_size: 220
+cluster_role: sibling
+ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
 ---
 
 # Commission opens in-depth foreign subsidies investigation into JD.com's proposed acquisition of CECONOMY

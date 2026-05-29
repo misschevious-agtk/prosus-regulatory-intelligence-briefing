@@ -19,7 +19,7 @@ cluster_id: cluster-2026-05-22-c200bb03e4
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: weightmans-selects-clio-operate-formerly-sharedo-after-major-selection
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Weightmans selects Clio Operate (formerly Sharedo) after major selection process

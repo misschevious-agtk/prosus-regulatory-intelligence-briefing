@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-21-97b0b183e0
-cluster_size: 21
+cluster_id: cluster-2026-05-22-b7c8d1481f
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: energy-licence-modification-appeals-2026
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Energy licence modification appeals 2026

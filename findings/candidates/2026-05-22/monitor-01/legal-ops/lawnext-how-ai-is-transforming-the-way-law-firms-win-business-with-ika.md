@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-21-0fb4085a66
+cluster_id: cluster-2026-05-22-cac461438b
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: lawnext-how-ai-is-transforming-the-way-law-firms-win-business-with-ika
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # LawNext: How AI Is Transforming the Way Law Firms Win Business, with Ikaun President Jason Noble

@@ -18,9 +18,9 @@ entities:
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
 cluster_id: cluster-2026-05-22-b91c841508
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 21 mai 2026

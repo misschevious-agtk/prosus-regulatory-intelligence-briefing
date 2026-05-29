@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-23-05b34477d0
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: goodbye-broadview-6-hello-broadview-sanctions
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Goodbye Broadview 6, Hello Broadview Sanctions

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-21-3ec846cc1c
-cluster_size: 152
+cluster_id: cluster-2026-05-22-18b708be49
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: talkingtech-podcast-with-harvey-how-ai-agents-are-changing-legal-work-
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_canonical_slug: ai-in-the-patent-industry-the-risks-of-ai-shadow-use
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Company Hands Law Firm Hiring Over To AI Bot — What Could Possibly Go Wrong?

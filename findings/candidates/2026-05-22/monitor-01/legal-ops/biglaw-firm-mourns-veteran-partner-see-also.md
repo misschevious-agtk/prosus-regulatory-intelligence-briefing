@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-21-4e15cc2f65
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: biglaw-firm-mourns-veteran-partner-see-also
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_id: cluster-2026-05-22-c7e2d85a11
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Biglaw Firm Mourns Veteran Partner — See Also

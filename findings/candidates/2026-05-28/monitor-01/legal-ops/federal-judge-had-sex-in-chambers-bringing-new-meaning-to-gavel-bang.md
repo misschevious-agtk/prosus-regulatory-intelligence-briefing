@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-27-725ddd12af
-cluster_size: 2
+cluster_id: cluster-2026-05-29-6d81df5319
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: federal-judge-had-sex-in-chambers-bringing-new-meaning-to-gavel-bang
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_canonical_slug: naming-unnamed-fornicating-judges-see-also
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Federal Judge Had Sex In Chambers Bringing New Meaning To Gavel Bang

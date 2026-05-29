@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-27-add3c1f9dc
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: estta-ttabvue-and-ttab-center-issues
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # ESTTA, TTABVUE, and TTAB Center Issues

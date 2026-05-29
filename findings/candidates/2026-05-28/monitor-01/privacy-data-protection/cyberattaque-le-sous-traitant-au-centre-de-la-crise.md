@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-28-e0b164c242
-cluster_size: 5
+cluster_id: cluster-2026-05-22-0260ab3bdb
+cluster_size: 220
 cluster_role: sibling
-cluster_canonical_slug: ia-g-n-rative-et-vie-priv-e-une-affiche-coproduite-par-la-pipc-et-la-c
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Cyberattaque : le sous-traitant au centre de la crise

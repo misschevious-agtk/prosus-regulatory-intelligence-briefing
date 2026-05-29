@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-23-d89405dc63
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: france-s-terrible-copyright-law-hadopi-is-not-quite-dead
-ranked_at: '2026-05-28T10:57:55+00:00'
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # France’s Terrible Copyright Law, Hadopi, Is Not Quite Dead

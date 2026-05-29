@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-21-0fc4f4fbd0
-cluster_size: 42
+cluster_id: cluster-2026-05-29-fc6e07da4c
+cluster_size: 38
 cluster_role: sibling
-cluster_canonical_slug: openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Helping ChatGPT better recognize context in sensitive conversations

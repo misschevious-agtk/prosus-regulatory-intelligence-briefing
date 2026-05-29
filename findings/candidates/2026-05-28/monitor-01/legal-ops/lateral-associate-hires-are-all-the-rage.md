@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-27-61e16f39ef
-cluster_size: 11
+cluster_id: cluster-2026-05-29-c1ecc5675e
+cluster_size: 17
 cluster_role: sibling
-cluster_canonical_slug: biglaw-attorneys-shot-outside-courthouse-after-contentious-hearing
-ranked_at: '2026-05-28T10:57:55+00:00'
+cluster_canonical_slug: kirkland-ellis-has-form-for-building-its-own-technology-the-500m-ai-pl
+ranked_at: '2026-05-29T10:48:13+00:00'
 ---
 
 # Lateral Associate Hires Are All The Rage

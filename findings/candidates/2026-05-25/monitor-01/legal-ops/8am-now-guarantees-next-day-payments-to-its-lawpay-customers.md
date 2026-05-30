@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-dc0ccd7209
-cluster_size: 4
+cluster_id: cluster-2026-05-23-743b14d6fd
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: 8am-now-guarantees-next-day-payments-to-its-lawpay-customers
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # 8am Now Guarantees Next-Day Payments To Its LawPay Customers

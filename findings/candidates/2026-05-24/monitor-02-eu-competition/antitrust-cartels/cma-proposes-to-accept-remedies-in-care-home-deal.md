@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-22-5a395b5a34
-cluster_size: 33
+cluster_id: cluster-2026-05-23-65942b3abe
+cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: welltower-multiple-care-homes-merger-inquiries
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # CMA proposes to accept remedies in care home deal

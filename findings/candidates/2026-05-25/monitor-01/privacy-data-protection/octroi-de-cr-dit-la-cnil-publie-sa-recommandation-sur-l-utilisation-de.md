@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-22-5a5ccfddef
-cluster_size: 10
+cluster_id: cluster-2026-05-23-759fd758e9
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: demandes-de-cr-dit-comprendre-l-utilisation-de-vos-donn-es-et-vos-droi
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Octroi de crédit : la CNIL publie sa recommandation sur l’utilisation de données personnelles pour l’évaluation de la solvabilité

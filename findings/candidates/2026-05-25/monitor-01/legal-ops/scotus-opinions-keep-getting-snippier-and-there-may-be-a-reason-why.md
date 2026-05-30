@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-0755c0a6ba
-cluster_size: 13
+cluster_id: cluster-2026-05-23-93fcde3e57
+cluster_size: 12
 cluster_role: sibling
-cluster_canonical_slug: maybe-law-professors-need-to-sit-out-the-next-few-constitutional-crise
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_canonical_slug: scotus-opinions-keep-getting-snippier-and-there-may-be-a-reason-why
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # SCOTUS Opinions Keep Getting Snippier — And There May Be A Reason Why

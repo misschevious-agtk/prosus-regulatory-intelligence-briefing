@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-22-cb363e2ab6
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: corporate-report-cma-panel-member-biographies-and-disclosures-of-inter
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_id: cluster-2026-05-23-1dbb2619fe
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Corporate report: CMA panel member biographies and disclosures of interest

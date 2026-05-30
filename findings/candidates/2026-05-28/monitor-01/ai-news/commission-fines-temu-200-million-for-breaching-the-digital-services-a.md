@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-28-2ecb7dc124
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: commission-fines-temu-200-million-for-breaching-the-digital-services-a
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Commission fines Temu €200 million for breaching the Digital Services Act

@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-27-dbe8ca69dd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-3m-sanction-ethics-training-for-misleading-court-
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Legal Ethics Roundup: $3M Sanction + Ethics Training For Misleading Court, Broadview Six Tossed On Prosecutor Malfeasance & More

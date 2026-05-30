@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-eefeab7838
+cluster_id: cluster-2026-05-23-edf953540c
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: strong-progress-continues-on-design-patent-examination
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Strong progress continues on design patent examination

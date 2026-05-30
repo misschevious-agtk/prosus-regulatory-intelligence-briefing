@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-22-9d76e4a17b
-cluster_size: 7
+cluster_id: cluster-2026-05-23-4d92207cb2
+cluster_size: 170
 cluster_role: sibling
-cluster_canonical_slug: an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometr
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_canonical_slug: advancing-content-provenance-for-a-safer-more-transparent-ai-ecosystem
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # An OpenAI model has disproved a central conjecture in discrete geometry

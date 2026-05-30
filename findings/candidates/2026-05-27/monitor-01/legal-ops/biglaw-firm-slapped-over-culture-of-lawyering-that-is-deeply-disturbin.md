@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-27-f4443cf04d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Biglaw Firm Slapped Over ‘Culture Of Lawyering That Is Deeply Disturbing’ — See Generally

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-5bd649fe91
-cluster_size: 4
+cluster_id: cluster-2026-05-23-c3013397e0
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: uc-berkeley-cracks-down-on-ai-use-with-new-policy
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # UC Berkeley Cracks Down On AI Use With New Policy

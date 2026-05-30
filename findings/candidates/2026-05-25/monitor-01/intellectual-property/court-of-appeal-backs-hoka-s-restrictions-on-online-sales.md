@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-27-9ada081460
-cluster_size: 10
+cluster_id: cluster-2026-05-23-e4eda445bb
+cluster_size: 154
 cluster_role: sibling
-cluster_canonical_slug: path-to-a-patent-part-i-intellectual-property-basics
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_canonical_slug: happening-today-ptab-listening-session-three
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Court of Appeal backs HOKA's restrictions on online sales

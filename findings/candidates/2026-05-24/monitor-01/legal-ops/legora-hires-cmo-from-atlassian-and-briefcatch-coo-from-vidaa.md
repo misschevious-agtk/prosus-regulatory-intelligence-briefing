@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-b493b2c2be
-cluster_size: 5
+cluster_id: cluster-2026-05-23-23cf3b1c4e
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: legora-hires-cmo-from-atlassian-and-briefcatch-coo-from-vidaa
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Legora hires CMO from Atlassian and BriefCatch COO from VIDAA

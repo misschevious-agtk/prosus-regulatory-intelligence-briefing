@@ -18,9 +18,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-28-49e35d00dc
-cluster_size: 6
+cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Emma Group: consumer protection case

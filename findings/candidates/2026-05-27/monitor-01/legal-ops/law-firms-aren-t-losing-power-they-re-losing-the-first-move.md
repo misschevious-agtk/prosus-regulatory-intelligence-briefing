@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-27-288bdee8d6
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Law Firms Aren’t Losing Power. They’re Losing The First Move.

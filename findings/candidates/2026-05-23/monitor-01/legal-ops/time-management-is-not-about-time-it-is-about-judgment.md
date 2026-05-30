@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-93424fdb03
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: time-management-is-not-about-time-it-is-about-judgment
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_id: cluster-2026-05-23-8345fa7d5d
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Time Management Is Not About Time. It Is About Judgment.

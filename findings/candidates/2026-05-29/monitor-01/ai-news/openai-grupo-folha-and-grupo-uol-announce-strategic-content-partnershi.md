@@ -19,10 +19,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-05-29-fc6e07da4c
-cluster_size: 38
+cluster_size: 39
 cluster_role: sibling
 cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership

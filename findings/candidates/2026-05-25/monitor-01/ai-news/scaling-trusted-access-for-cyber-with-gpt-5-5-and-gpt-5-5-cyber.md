@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-22-80177d3926
-cluster_size: 4
+cluster_id: cluster-2026-05-23-c653cefb86
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: scaling-trusted-access-for-cyber-with-gpt-5-5-and-gpt-5-5-cyber
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber

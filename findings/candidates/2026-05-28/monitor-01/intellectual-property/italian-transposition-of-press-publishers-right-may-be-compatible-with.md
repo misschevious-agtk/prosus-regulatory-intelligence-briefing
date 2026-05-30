@@ -20,11 +20,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-797/23
-cluster_id: cluster-2026-05-22-0260ab3bdb
-cluster_size: 220
+cluster_id: cluster-2026-05-23-a19d4c8597
+cluster_size: 224
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber

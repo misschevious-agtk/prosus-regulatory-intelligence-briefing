@@ -20,11 +20,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-05-22-a491cf512a
-cluster_size: 13
+cluster_id: cluster-2026-05-23-fe43b0ee87
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: world-intellectual-property-indicators-global-patent-and-design-filing
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # World Intellectual Property Indicators: Global Patent and Design Filings Reach New Records in 2024, Trademarks Flat

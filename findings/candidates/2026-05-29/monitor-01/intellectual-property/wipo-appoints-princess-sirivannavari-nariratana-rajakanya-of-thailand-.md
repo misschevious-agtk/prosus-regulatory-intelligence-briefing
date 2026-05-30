@@ -19,9 +19,9 @@ entities:
   matched_alias: WIPO
 case_numbers: []
 cluster_id: cluster-2026-05-29-49dc9220f0
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # WIPO Appoints Princess Sirivannavari Nariratana Rajakanya of Thailand as Ambassador for Fashion and Design

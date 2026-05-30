@@ -20,11 +20,10 @@ match_count: 8
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-87acd0f194
+cluster_id: cluster-2026-05-23-ace30a8d51
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: digital-omnibus-eu-commission-wants-to-wreck-core-gdpr-principles
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Digital Omnibus: EU Commission wants to wreck core GDPR principles

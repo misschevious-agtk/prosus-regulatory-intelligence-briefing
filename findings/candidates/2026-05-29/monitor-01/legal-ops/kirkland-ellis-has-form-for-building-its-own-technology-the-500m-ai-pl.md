@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-29-c1ecc5675e
-cluster_size: 17
-cluster_role: canonical
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_id: cluster-2026-05-27-01ab9b940a
+cluster_size: 28
+cluster_role: sibling
+ranked_at: '2026-05-30T09:17:34+00:00'
+cluster_canonical_slug: morning-docket-05-26-26
 ---
 
 # Kirkland & Ellis has form for building its own technology. The $500m AI play is its biggest yet.

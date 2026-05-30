@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-b5da8daf41
-cluster_size: 6
+cluster_id: cluster-2026-05-23-ab5861c562
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: the-legal-tech-giants-powering-ice-part-1-how-thomson-reuters-and-lexi
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_canonical_slug: the-legal-tech-giants-powering-ice-part-2-the-pushback-employees-share
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # The Legal Tech Giants Powering ICE, Part 2 — The Pushback: Employees, Shareholders, Lawyers and the Fight Over May 31

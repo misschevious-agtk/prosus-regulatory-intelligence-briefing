@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-22-f40e0d90f3
-cluster_size: 4
+cluster_id: cluster-2026-05-23-932f830f5c
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: polar-electro-s-new-101-cert-petition-when-courts-do-the-challenger-s-
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Polar Electro’s New § 101 Cert Petition: When Courts Do the Challenger’s Job

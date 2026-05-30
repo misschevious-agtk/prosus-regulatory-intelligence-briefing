@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-27-fba49b080f
-cluster_size: 42
+cluster_size: 60
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-structure
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Hays / Polka Dot and Hays / Millington merger inquiries

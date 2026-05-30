@@ -1,0 +1,41 @@
+---
+date_found: 2026-05-30
+monitor: monitor-01
+domain: ai-news
+source_url: https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1184
+source_publisher: European Commission press
+source_date: Thu, 28 May 2026 13:03:59 GMT
+source_method: rss
+title: Opening address by Commissioner Hansen at the EU–Thailand Agri-Food Business Forum during the High-Level Agri-food business Mission to Thailand
+matched_keywords:
+- European Commission
+match_count: 1
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+case_numbers: []
+cluster_id: cluster-2026-05-29-5425bf2bb5
+cluster_size: 4
+cluster_role: sibling
+cluster_canonical_slug: opening-address-by-commissioner-hansen-at-the-eu-thailand-agri-food-bu
+ranked_at: '2026-05-30T09:17:34+00:00'
+---
+
+# Opening address by Commissioner Hansen at the EU–Thailand Agri-Food Business Forum during the High-Level Agri-food business Mission to Thailand
+
+**Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1184)
+**Published:** Thu, 28 May 2026 13:03:59 GMT
+**Matched keywords (1):** European Commission
+
+## Summary excerpt
+
+European Commission Speech Bangkok, 28 May 2026 Distinguished Ministers, Excellencies, Business leaders, Ladies and gentlemen, It is a great pleasure to welcome you today to the EU–Thailand Agri-Food Business...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

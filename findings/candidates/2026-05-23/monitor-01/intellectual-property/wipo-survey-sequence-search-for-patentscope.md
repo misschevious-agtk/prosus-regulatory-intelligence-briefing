@@ -19,11 +19,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-05-22-2c68c363ba
+cluster_id: cluster-2026-05-23-eed6dd5e7a
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: wipo-survey-sequence-search-for-patentscope
-ranked_at: '2026-05-29T10:48:13+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # WIPO survey: Sequence search for PATENTSCOPE

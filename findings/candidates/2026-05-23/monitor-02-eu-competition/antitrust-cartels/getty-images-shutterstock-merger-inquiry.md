@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-22-8610e20761
-cluster_size: 159
+cluster_id: cluster-2026-05-23-a1dafed23f
+cluster_size: 132
 cluster_role: sibling
 cluster_canonical_slug: investigation-into-suspected-anti-competitive-conduct-by-google-in-ad-
-ranked_at: '2026-05-29T10:48:13+00:00'
+ranked_at: '2026-05-30T09:17:34+00:00'
 ---
 
 # Getty Images / Shutterstock merger inquiry

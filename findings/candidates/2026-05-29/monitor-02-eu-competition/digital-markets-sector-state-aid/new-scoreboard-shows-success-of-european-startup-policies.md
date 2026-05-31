@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-05-29-83fea6e70d
-cluster_size: 4
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # New scoreboard shows success of European startup policies

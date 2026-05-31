@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-a58c33b1fb
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: from-destroyers-to-drones-how-a-europe-led-coalition-aims-to-open-the-
-ranked_at: '2026-05-30T09:17:34+00:00'
+cluster_id: cluster-2026-05-24-79df04e2c2
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # From Destroyers To Drones, How A Europe-Led Coalition Aims To Open The Strait Of Hormuz

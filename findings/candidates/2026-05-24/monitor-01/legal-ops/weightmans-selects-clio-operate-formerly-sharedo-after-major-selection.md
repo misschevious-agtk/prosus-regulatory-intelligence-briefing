@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-07f3297bdb
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: weightmans-selects-clio-operate-formerly-sharedo-after-major-selection
-ranked_at: '2026-05-30T09:17:34+00:00'
+cluster_id: cluster-2026-05-24-df79e30873
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Weightmans selects Clio Operate (formerly Sharedo) after major selection process

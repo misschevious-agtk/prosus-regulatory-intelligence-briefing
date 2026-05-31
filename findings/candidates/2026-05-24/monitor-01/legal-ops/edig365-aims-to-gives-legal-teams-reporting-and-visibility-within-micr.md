@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-1cb03852fd
+cluster_id: cluster-2026-05-24-a8efdc84ca
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: edig365-aims-to-gives-legal-teams-reporting-and-visibility-within-micr
-ranked_at: '2026-05-30T09:17:34+00:00'
+cluster_role: canonical
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # eDig365 Aims To Gives Legal Teams Reporting and Visibility within Microsoft Purview E-Discovery

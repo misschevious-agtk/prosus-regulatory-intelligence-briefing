@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-23-bbb4a0a2b4
-cluster_size: 8
+cluster_id: cluster-2026-05-24-c7770fc66e
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: g7-2026-la-cnil-accueille-paris-la-table-ronde-des-autorit-s-de-protec
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée

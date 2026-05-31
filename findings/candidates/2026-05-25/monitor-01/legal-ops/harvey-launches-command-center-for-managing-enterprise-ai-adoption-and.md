@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-74ea4e6704
-cluster_size: 52
+cluster_id: cluster-2026-05-24-46f52b49e2
+cluster_size: 51
 cluster_role: sibling
 cluster_canonical_slug: the-claude-pocalypse-bypassed-legal-aid-lawdroid-s-new-plugin-remedies
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Harvey Launches ‘Command Center’ for Managing Enterprise AI Adoption, and Partners with DeepJudge on Institutional Knowledge

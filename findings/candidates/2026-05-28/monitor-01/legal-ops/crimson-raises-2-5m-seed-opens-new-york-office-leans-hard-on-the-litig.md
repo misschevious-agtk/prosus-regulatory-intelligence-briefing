@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-28-a6bca99c15
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Crimson raises $2.5m seed, opens New York office, leans hard on the litigation-native pitch

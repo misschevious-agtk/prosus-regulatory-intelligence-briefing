@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-ab5861c562
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-legal-tech-giants-powering-ice-part-2-the-pushback-employees-share
-ranked_at: '2026-05-30T09:17:34+00:00'
+cluster_id: cluster-2026-05-24-18d538b1a9
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # The Legal Tech Giants Powering ICE, Part 2 — The Pushback: Employees, Shareholders, Lawyers and the Fight Over May 31

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-28-f622110283
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: burnout-anxiety-and-billables-biglaw-continues-searching-for-a-wellnes
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Burnout, Anxiety, And Billables: Biglaw Continues Searching For A Wellness Fix

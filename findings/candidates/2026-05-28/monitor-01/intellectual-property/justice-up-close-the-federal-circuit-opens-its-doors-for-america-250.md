@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-8b3ad9ee04
-cluster_size: 6
+cluster_id: cluster-2026-05-24-692cb6e122
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: justice-up-close-the-federal-circuit-opens-its-doors-for-america-250
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Justice Up Close: The Federal Circuit Opens Its Doors for America 250

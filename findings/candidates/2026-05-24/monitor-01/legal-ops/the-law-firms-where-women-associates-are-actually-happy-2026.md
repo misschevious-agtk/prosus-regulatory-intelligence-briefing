@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-de330716ba
-cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: the-law-firms-where-women-associates-are-actually-happy-2026
-ranked_at: '2026-05-30T09:17:34+00:00'
+cluster_id: cluster-2026-05-24-27a2be1d52
+cluster_size: 10
+cluster_role: canonical
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # The Law Firms Where Women Associates Are Actually Happy (2026)

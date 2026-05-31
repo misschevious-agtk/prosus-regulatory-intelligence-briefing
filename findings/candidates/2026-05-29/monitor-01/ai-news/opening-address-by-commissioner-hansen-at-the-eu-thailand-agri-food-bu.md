@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-05-29-5425bf2bb5
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: opening-address-by-commissioner-hansen-at-the-eu-thailand-agri-food-bu
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Opening address by Commissioner Hansen at the EU–Thailand Agri-Food Business Forum during the High-Level Agri-food business Mission to Thailand

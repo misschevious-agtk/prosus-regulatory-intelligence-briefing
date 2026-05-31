@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-28-380d00adc1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: quinn-emanuel-is-having-a-bad-year-for-judicial-benchslaps
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Quinn Emanuel Is Having A Bad Year For Judicial Benchslaps

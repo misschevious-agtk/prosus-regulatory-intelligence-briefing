@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-29-a6aea710a8
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: climate-activist-drag-queen-faces-six-figure-lawyers-fees-in-ip-battle
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # Climate Activist Drag Queen Faces Six-Figure Lawyers’ Fees In IP Battle With Patagonia

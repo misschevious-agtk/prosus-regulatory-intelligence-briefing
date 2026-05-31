@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-0798a05e6f
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: state-of-rule-of-law-the-worst-it-s-been-in-a-decade-experts-say
-ranked_at: '2026-05-30T09:17:34+00:00'
+cluster_id: cluster-2026-05-24-e96e308c65
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # State Of Rule Of Law The Worst It’s Been In A Decade, Experts Say

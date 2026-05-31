@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-23-12d5ff896a
-cluster_size: 4
+cluster_id: cluster-2026-05-24-6223f01022
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: when-did-the-first-amendment-become-a-money-printer
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # When Did The First Amendment Become A Money Printer?

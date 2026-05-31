@@ -19,10 +19,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-05-29-fc6e07da4c
-cluster_size: 39
+cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # OpenAI and Malta partner to bring ChatGPT Plus to all citizens

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-28-c40ff62a76
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-for-alternative-dispute-resolution-training
-ranked_at: '2026-05-30T09:17:34+00:00'
+ranked_at: '2026-05-31T09:50:45+00:00'
 ---
 
 # The Best Law Schools For Alternative Dispute Resolution Training

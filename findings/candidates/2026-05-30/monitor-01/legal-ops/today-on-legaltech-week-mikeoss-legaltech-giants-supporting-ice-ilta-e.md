@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-24-33b3333491
+cluster_id: cluster-2026-05-25-8074a27ade
 cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: today-on-legaltech-week-mikeoss-legaltech-giants-supporting-ice-ilta-e
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Today on Legaltech Week: MikeOSS, Legaltech Giants Supporting ICE, ILTA Evolve, Rethinking Lawyer Training, AI Mansplaining, and More!

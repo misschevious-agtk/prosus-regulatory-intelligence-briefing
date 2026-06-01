@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-24-7ef716d1d3
+cluster_id: cluster-2026-05-25-8c692ff6dc
 cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Saturday Sundries

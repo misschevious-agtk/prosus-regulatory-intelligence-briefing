@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-24-eb1f324fda
-cluster_size: 7
+cluster_id: cluster-2026-05-25-0856810103
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: drafting-fixable-vs-amendment-created-a-tale-of-two-112-rejections
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Drafting Fixable vs. Amendment Created: A Tale of Two §112 Rejections

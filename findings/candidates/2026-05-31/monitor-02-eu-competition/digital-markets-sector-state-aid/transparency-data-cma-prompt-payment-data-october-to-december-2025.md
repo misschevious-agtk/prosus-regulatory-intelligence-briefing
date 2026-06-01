@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-29-c316cf9f62
-cluster_size: 27
+cluster_size: 39
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-growth-and-investment-council-meeting-notes-28-a
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Transparency data: CMA: prompt payment data, October to December 2025

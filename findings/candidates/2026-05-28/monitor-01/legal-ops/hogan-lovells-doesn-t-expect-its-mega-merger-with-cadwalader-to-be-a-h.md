@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-27-eadaca547a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: hogan-lovells-doesn-t-expect-its-mega-merger-with-cadwalader-to-be-a-h
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Hogan Lovells Doesn’t Expect Its Mega-Merger With Cadwalader To Be A Headache

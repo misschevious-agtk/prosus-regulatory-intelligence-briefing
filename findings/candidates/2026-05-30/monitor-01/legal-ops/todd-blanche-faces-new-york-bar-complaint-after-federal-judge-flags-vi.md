@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-29-fdb53457c3
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: todd-blanche-faces-new-york-bar-complaint-after-federal-judge-flags-vi
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Todd Blanche Faces New York Bar Complaint After Federal Judge Flags Vindictive Prosecution

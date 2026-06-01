@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-30-1df223da94
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: it-s-time-to-say-goodbye-to-water-cooler-training
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # It’s Time To Say Goodbye To Water Cooler Training

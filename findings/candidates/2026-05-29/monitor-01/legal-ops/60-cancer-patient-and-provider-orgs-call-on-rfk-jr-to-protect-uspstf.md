@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-29-92eb5e0b67
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # 60 Cancer Patient And Provider Orgs Call On RFK Jr. To Protect USPSTF

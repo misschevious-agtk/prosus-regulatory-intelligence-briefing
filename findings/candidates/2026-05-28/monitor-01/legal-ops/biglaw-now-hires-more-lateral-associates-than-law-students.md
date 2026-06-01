@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-27-01ab9b940a
-cluster_size: 35
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-26-26
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Biglaw Now Hires More Lateral Associates Than Law Students

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-28-c15b0cca64
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: in-banning-ai-is-berkeley-law-shortchanging-its-students-and-endangeri
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Will The Pope’s Weighing In On AI Impact Legal Education?

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-30-b7551cad63
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # US Atty Boutros: If Not Trump Hack, Why Trump Hack Shaped?

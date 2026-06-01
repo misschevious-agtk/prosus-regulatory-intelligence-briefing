@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-27-1333c17f1d
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Ahead of June 10 Shareholder Vote, Union Investor Renews Push for Thomson Reuters to Assess Human Rights Impact of Its Products Used By ICE

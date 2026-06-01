@@ -29,11 +29,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-05-24-3cf1daf0db
+cluster_id: cluster-2026-05-25-41b6368302
 cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: cef-2026-edpb-launches-coordinated-enforcement-action-on-transparency-
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR

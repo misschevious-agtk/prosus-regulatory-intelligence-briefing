@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-24-2efc5eb050
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: osborne-clarke-launches-independent-company-for-ai-regulatory-monitori
-ranked_at: '2026-05-31T09:50:45+00:00'
+cluster_id: cluster-2026-05-25-3d1265af5a
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Osborne Clarke launches independent company for AI regulatory monitoring

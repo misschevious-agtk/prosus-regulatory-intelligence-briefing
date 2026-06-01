@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-24-5d038c432a
+cluster_id: cluster-2026-05-25-313c21c8c6
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: borrowing-from-the-board-district-court-obviousness-in-the-post-ipr-er
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Borrowing from the Board: District Court Obviousness in the Post-IPR Era

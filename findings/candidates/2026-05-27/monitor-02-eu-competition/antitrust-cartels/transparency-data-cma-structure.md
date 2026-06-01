@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-27-fba49b080f
-cluster_size: 78
+cluster_size: 96
 cluster_role: canonical
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Transparency data: CMA structure

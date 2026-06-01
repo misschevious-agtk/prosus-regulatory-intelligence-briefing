@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-30-a3d20f17b7
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: trump-mobile-has-struggled-to-ship-any-phones-but-has-already-leaked-s
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # ‘Trump Mobile’ Has Struggled To Ship Any Phones, But Has Already Leaked Subscriber Data

@@ -1,0 +1,37 @@
+---
+date_found: 2026-06-01
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/05/its-time-to-say-goodbye-to-water-cooler-training/
+source_publisher: Above the Law
+source_date: Fri, 29 May 2026 18:32:25 +0000
+source_method: rss
+title: It’s Time To Say Goodbye To Water Cooler Training
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-05-30-1df223da94
+cluster_size: 3
+cluster_role: sibling
+cluster_canonical_slug: it-s-time-to-say-goodbye-to-water-cooler-training
+ranked_at: '2026-06-01T12:39:12+00:00'
+---
+
+# It’s Time To Say Goodbye To Water Cooler Training
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/05/its-time-to-say-goodbye-to-water-cooler-training/)
+**Published:** Fri, 29 May 2026 18:32:25 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+We have to start by recognizing that we actually have a problem. The post It’s Time To Say Goodbye To Water Cooler Training appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

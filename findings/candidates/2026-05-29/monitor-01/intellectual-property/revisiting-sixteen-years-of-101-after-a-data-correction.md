@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-27-7da9885437
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: revisiting-sixteen-years-of-101-after-a-data-correction
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Revisiting Sixteen Years of §101 After a Data Correction

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-24-7cce0cd015
-cluster_size: 176
+cluster_id: cluster-2026-05-25-68b53aaa78
+cluster_size: 183
 cluster_role: sibling
 cluster_canonical_slug: advancing-content-provenance-for-a-safer-more-transparent-ai-ecosystem
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # OpenAI’s Frontier Governance Framework

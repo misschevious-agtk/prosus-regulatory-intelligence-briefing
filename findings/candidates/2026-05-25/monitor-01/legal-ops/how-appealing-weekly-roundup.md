@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-24-51b7ebe378
-cluster_size: 9
+cluster_id: cluster-2026-05-25-2878760e26
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: scotus-opinions-keep-getting-snippier-and-there-may-be-a-reason-why
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # How Appealing Weekly Roundup

@@ -20,9 +20,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-27-698e29775b
-cluster_size: 15
+cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Correspondence: CMA response to government in relation to childcare provision

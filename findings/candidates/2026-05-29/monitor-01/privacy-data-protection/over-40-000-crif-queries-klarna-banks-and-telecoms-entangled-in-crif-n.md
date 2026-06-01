@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-24-8bca570d0e
+cluster_id: cluster-2026-05-25-aaad9c3dc6
 cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-austrian-authority-forbids-unlawful-credit-scoring-by-ksv1870
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Over 40,000 CRIF queries: Klarna, banks and telecoms entangled in CRIF network

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-29-dd4d55b234
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Florida Supreme Court Tackles AI Hallucinations with New Rule Applicable to All State Courts

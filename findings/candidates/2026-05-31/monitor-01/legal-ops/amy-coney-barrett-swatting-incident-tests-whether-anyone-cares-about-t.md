@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-30-b3d7e9b1e3
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: amy-coney-barrett-swatting-incident-tests-whether-anyone-cares-about-t
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Amy Coney Barrett Swatting Incident Tests Whether Anyone Cares About Threats To Judges Who Aren’t On SCOTUS

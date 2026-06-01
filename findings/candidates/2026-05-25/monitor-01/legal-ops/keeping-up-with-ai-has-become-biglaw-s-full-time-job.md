@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-24-3b475fc8ed
-cluster_size: 17
-cluster_role: sibling
-cluster_canonical_slug: ai-in-the-patent-industry-the-risks-of-ai-shadow-use
-ranked_at: '2026-05-31T09:50:45+00:00'
+cluster_id: cluster-2026-05-25-a73c4c2e83
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Keeping Up With AI Has Become Biglaw’s Full-Time Job

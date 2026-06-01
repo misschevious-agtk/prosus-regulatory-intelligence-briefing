@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: Court of Justice
 case_numbers: []
-cluster_id: cluster-2026-05-24-5e7ed47445
-cluster_size: 16
+cluster_id: cluster-2026-05-25-8b9443240b
+cluster_size: 17
 cluster_role: sibling
 cluster_canonical_slug: the-court-of-justice-rules-on-interest-in-competition-law-damages-clai
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # A new dawn for collective actions in Germany? Federal Court of Justice in Germany sets new boundaries for bundled antitrust claims in Financialright

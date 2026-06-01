@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-29-8719f4618c
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: ken-paxton-won-his-senate-primary-and-his-estranged-wife-couldn-t-be-b
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Ken Paxton Won His Senate Primary And His (Estranged) Wife Couldn’t Be Bothered To Endorse Him

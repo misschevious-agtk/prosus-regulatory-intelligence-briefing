@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-05-24-386bf5ce81
-cluster_size: 105
+cluster_id: cluster-2026-05-25-79bfa6e061
+cluster_size: 78
 cluster_role: sibling
 cluster_canonical_slug: investigation-into-suspected-anti-competitive-conduct-by-google-in-ad-
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Google’s general search services: proposed conduct requirements

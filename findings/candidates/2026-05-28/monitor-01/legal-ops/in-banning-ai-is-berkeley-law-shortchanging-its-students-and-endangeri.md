@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-28-c15b0cca64
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # In Banning AI, Is Berkeley Law Shortchanging Its Students — and Endangering their Future Clients?

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-24-d3a237f2e6
-cluster_size: 3
+cluster_id: cluster-2026-05-25-38a8edfcde
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: openai-campus-network-student-club-interest-form
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # OpenAI Campus Network: Student club interest form

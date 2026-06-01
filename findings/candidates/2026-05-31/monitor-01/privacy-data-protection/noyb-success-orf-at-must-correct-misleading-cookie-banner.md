@@ -19,11 +19,11 @@ match_count: 7
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-24-cb3800c9bb
+cluster_id: cluster-2026-05-25-b94e3ea3fa
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: noyb-success-orf-at-must-correct-misleading-cookie-banner
-ranked_at: '2026-05-31T09:50:45+00:00'
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # noyb success: ORF.at must correct misleading cookie banner

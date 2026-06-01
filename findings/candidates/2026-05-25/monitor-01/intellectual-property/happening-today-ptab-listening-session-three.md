@@ -22,11 +22,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-24-80742f7575
-cluster_size: 152
-cluster_role: sibling
-cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-05-31T09:50:45+00:00'
+cluster_id: cluster-2026-05-25-08311ba358
+cluster_size: 151
+cluster_role: canonical
+ranked_at: '2026-06-01T12:39:12+00:00'
 ---
 
 # Happening today: PTAB Listening Session Three

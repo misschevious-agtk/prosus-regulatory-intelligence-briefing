@@ -22,7 +22,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-29-fc6e07da4c
 cluster_size: 41
 cluster_role: canonical
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # MUFG aims to become AI-native with OpenAI

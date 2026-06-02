@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-25-1428c1d85c
+cluster_id: cluster-2026-05-27-4280d9ab02
 cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: draft-nist-guidelines-rethink-cybersecurity-for-the-ai-era
-ranked_at: '2026-06-01T12:39:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Draft NIST Guidelines Rethink Cybersecurity for the AI Era

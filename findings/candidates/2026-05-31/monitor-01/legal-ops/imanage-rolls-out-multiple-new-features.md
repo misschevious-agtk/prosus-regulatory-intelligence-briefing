@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-25-26a1c31d34
-cluster_size: 21
+cluster_id: cluster-2026-05-27-6af75015f6
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: connectlive-2026-the-dms-rewires-itself-for-the-agentic-era
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # iManage Rolls Out Multiple New Features

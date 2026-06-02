@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-29-6d81df5319
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: naming-unnamed-fornicating-judges-see-also
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Judiciary Tried To Hide ‘Sex In Chambers’ Judge’s Name. It Left A Roadmap To Identify Eleanor Ross Instead.

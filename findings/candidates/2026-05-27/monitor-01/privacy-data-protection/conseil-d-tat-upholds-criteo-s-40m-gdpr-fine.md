@@ -23,11 +23,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-25-1570b9877b
+cluster_id: cluster-2026-05-27-0809ecd965
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: conseil-d-tat-upholds-criteo-s-40m-gdpr-fine
-ranked_at: '2026-06-01T12:39:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Conseil d'État upholds Criteo's €40M GDPR fine

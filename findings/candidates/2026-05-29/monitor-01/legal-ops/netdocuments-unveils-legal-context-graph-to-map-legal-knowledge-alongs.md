@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-25-a508a7e11f
+cluster_id: cluster-2026-05-27-6ce51f2921
 cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-1
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # NetDocuments Unveils Legal Context Graph to Map Legal Knowledge, Alongside A ‘Reimagined’ Platform

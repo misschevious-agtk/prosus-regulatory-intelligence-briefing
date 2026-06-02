@@ -23,11 +23,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-05-25-79bfa6e061
-cluster_size: 78
-cluster_role: sibling
-cluster_canonical_slug: investigation-into-suspected-anti-competitive-conduct-by-google-in-ad-
-ranked_at: '2026-06-01T12:39:12+00:00'
+cluster_id: cluster-2026-05-27-039b8d58fd
+cluster_size: 51
+cluster_role: canonical
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Investigation into suspected anti-competitive conduct by Google in ad tech

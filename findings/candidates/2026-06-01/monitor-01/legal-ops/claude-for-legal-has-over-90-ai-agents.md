@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-01-e130bf6cd7
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Claude For Legal Has Over 90 AI Agents

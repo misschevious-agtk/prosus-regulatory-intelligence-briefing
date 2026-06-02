@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-27-a74a22910c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: top-tax-biglaw-firm
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Top Tax Biglaw Firm

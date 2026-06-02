@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-29-6d81df5319
 cluster_size: 9
 cluster_role: sibling
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 cluster_canonical_slug: naming-unnamed-fornicating-judges-see-also
 ---
 

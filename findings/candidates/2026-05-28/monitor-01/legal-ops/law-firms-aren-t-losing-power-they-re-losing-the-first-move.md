@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-27-288bdee8d6
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: law-firms-aren-t-losing-power-they-re-losing-the-first-move
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Law Firms Aren’t Losing Power. They’re Losing The First Move.

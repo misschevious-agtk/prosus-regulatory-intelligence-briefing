@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-29-0c4f01b2b1
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: paying-it-forward-turning-our-hard-lessons-into-someone-else-s-roadmap
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Paying It Forward: Turning Our Hard Lessons Into Someone Else’s Roadmap

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-25-fb45304cc5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: judges-should-not-weaponize-delays-to-force-compromises
-ranked_at: '2026-06-01T12:39:12+00:00'
+cluster_id: cluster-2026-05-27-568f78e6e3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Judges Should Not Weaponize Delays To Force Compromises

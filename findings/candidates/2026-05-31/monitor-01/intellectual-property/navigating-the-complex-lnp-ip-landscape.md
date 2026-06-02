@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-25-2efeae4c35
-cluster_size: 6
+cluster_id: cluster-2026-05-27-83ddf4488a
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: navigating-the-complex-lnp-ip-landscape
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Navigating the complex LNP IP landscape

@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-27-fba49b080f
-cluster_size: 96
+cluster_size: 108
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-structure
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Transparency data: Case and Policy Committee terms of reference

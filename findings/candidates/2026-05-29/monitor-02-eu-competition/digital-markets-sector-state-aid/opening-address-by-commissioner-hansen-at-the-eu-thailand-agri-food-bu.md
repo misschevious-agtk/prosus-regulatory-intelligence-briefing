@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-29-5425bf2bb5
-cluster_size: 6
-cluster_role: canonical
-ranked_at: '2026-06-01T12:39:12+00:00'
+cluster_id: cluster-2026-05-27-621ae18850
+cluster_size: 234
+cluster_role: sibling
+ranked_at: '2026-06-02T11:20:22+00:00'
+cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
 ---
 
 # Opening address by Commissioner Hansen at the EU–Thailand Agri-Food Business Forum during the High-Level Agri-food business Mission to Thailand

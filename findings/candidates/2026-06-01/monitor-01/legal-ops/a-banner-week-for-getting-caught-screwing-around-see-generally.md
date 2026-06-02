@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-01-fe1fb98ca6
-cluster_size: 1
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # A Banner Week For Getting Caught Screwing Around — See Generally

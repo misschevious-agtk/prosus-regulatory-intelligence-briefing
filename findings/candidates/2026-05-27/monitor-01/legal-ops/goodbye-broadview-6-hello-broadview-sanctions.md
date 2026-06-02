@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-05-25-a01d6ced5c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: goodbye-broadview-6-hello-broadview-sanctions
-ranked_at: '2026-06-01T12:39:12+00:00'
+cluster_id: cluster-2026-05-27-419cc83ce0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Goodbye Broadview 6, Hello Broadview Sanctions

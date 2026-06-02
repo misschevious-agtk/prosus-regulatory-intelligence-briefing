@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-25-7c0f0103ed
+cluster_id: cluster-2026-05-27-c39bbdf87d
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: rapport-annuel-le-bilan-et-les-actions-marquantes-de-la-cnil-en-2025
-ranked_at: '2026-06-01T12:39:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025

@@ -20,10 +20,10 @@ entities:
   matched_alias: EUIPO
 case_numbers: []
 cluster_id: cluster-2026-05-27-79d83cc10a
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: touch-your-boobs-not-contrary-to-accepted-principles-of-morality
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # 'Touch your boobs' not contrary to accepted principles of morality

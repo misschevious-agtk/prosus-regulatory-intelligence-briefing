@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-27-01ab9b940a
-cluster_size: 42
+cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-05-26-26
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Surprise! Spring Has Sprung, And So Have The Bonuses

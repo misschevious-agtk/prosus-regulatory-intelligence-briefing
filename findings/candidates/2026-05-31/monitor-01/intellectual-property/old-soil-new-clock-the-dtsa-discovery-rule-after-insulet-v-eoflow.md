@@ -19,10 +19,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-30-f557c318da
-cluster_size: 10
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: old-soil-new-clock-the-dtsa-discovery-rule-after-insulet-v-eoflow
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Old Soil, New Clock: The DTSA Discovery Rule After Insulet v. EOFlow

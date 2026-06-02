@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-29-c7df92eae0
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: stop-killing-games-gets-its-first-american-legislative-effort-out-of-c
-ranked_at: '2026-06-01T12:39:12+00:00'
+ranked_at: '2026-06-02T11:20:22+00:00'
 ---
 
 # Stop Killing Games Gets Its First American Legislative Effort Out Of Committee in California

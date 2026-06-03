@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-27-5a41c0ea0d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # The Legal Tech Giants Powering ICE, Part 2 — The Pushback: Employees, Shareholders, Lawyers and the Fight Over May 31

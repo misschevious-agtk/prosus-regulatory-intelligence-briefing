@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-29-f6d64432fb
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: why-attorneys-can-ethically-use-general-purpose-genai-for-client-matte
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Why Attorneys Can Ethically Use General-Purpose GenAI For Client Matters Without Redacting Everything

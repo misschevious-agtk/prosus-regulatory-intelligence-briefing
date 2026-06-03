@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-27-3743bdd13f
 cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: cma-proposes-to-accept-remedies-in-care-home-deal
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # CMA proposes to accept remedies in care home deal

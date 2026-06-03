@@ -21,9 +21,9 @@ entities:
   matched_alias: WIPO
 case_numbers: []
 cluster_id: cluster-2026-05-27-412a3809b2
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # World Intellectual Property Day 2026: New WIPO Data Show IP Use Booming in Sports Industry

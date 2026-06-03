@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-27-25129d22de
-cluster_size: 189
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 230
 cluster_role: sibling
-cluster_canonical_slug: advancing-content-provenance-for-a-safer-more-transparent-ai-ecosystem
-ranked_at: '2026-06-02T11:20:22+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Building self-improving tax agents with Codex

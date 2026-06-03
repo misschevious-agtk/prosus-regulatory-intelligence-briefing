@@ -25,9 +25,9 @@ case_numbers:
 - scheme: EU General Court
   citation: T-228/25
 cluster_id: cluster-2026-06-01-3532b66db1
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # When a strap is not enough: General Court upholds invalidity of Crocs' iconic clog design

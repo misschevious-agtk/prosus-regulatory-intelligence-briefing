@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-27-aaa4c76e2b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: everlaw-and-legora-announce-integration-to-connect-discovery-and-draft
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Everlaw and Legora Announce Integration to Connect Discovery and Drafting

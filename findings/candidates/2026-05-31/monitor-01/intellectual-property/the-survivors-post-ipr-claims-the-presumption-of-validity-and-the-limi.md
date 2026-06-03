@@ -20,7 +20,7 @@ cluster_id: cluster-2026-05-27-49bf5e375a
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-survivors-post-ipr-claims-the-presumption-of-validity-and-the-limi
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # The Survivors: Post-IPR Claims, the Presumption of Validity, and the Limits of § 285

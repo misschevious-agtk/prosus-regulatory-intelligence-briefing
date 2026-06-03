@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-27-e9e45668de
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée

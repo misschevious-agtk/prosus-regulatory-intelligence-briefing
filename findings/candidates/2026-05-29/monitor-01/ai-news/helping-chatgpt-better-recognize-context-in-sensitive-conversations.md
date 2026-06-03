@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-29-fc6e07da4c
-cluster_size: 41
+cluster_size: 46
 cluster_role: sibling
 cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Helping ChatGPT better recognize context in sensitive conversations

@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-27-84defb1b0c
 cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # California Bar Proposes Rule Requiring Lawyers to Verify Every AI Output — and Five Other AI-Focused Ethics Changes

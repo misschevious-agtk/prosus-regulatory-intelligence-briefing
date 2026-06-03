@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-05-27-3419ffda3a
-cluster_size: 150
+cluster_size: 171
 cluster_role: sibling
 cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Join us for the series Successful Inventing: Manufacture

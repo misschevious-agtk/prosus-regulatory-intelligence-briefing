@@ -23,7 +23,7 @@ cluster_id: cluster-2026-05-27-698e29775b
 cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: correspondence-cma-response-to-government-in-relation-to-childcare-pro
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Correspondence: CMA response to government in relation to childcare provision

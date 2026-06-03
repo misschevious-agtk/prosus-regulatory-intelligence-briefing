@@ -20,9 +20,9 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-05-27-621ae18850
-cluster_size: 234
+cluster_size: 269
 cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # NEWSLETTER del 21 maggio 2026 - Data breach, il Garante privacy sanziona The European House Ambrosetti - Online le Faq aggiornate sul Fascicolo sanitario elettronico - No alla diffusione delle foto di un malato senza consenso - In Turchia la Conferenza di primavera dei Garanti europei

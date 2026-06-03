@@ -21,7 +21,7 @@ cluster_id: cluster-2026-05-27-1ae5db8fbe
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-programme-of-work-across-mobile-platforms
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # The CMA's programme of work across mobile platforms

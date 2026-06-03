@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-27-032d8c1c58
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Legal Marketing Association President Rachel Shields Williams On AI, Innovation, and Why People Still Come First

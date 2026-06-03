@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-27-38e5295e38
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: walk-through-spotdraft-ai-powered-clm
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Walk Through: SpotDraft – AI-Powered CLM

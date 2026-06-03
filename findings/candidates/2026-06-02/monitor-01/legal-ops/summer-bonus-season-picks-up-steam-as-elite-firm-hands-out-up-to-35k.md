@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-02-c1adcdde6f
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+cluster_id: cluster-2026-06-03-cc6a17808e
+cluster_size: 6
+cluster_role: sibling
+ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_canonical_slug: milbank-bumped-salaries-see-also
 ---
 
 # Summer Bonus Season Picks Up Steam As Elite Firm Hands Out Up To $35K

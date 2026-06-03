@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-28-3a957e26c5
-cluster_size: 8
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: darrow-the-ai-lab-for-legal-risk-launches-a-platform-to-let-plaintiffs
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Technology And AI: Turning Personal Injury Litigation Upside Down

@@ -20,9 +20,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-05-27-38d6c6ae2a
-cluster_size: 46
+cluster_size: 51
 cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # The Claude-pocalypse Bypassed Legal Aid; LawDroid’s New Plugin Remedies That, with 15 Targeted Skills

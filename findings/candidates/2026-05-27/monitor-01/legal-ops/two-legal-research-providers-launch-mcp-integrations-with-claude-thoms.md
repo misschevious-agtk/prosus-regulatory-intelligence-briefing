@@ -20,10 +20,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-05-27-6ce51f2921
-cluster_size: 42
+cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-1
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Two Legal Research Providers Launch MCP Integrations with Claude: Thomson Reuters and Free Law Project Connect Their Data to AI

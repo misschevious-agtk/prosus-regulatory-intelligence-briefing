@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-02-bcf54ff59b
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 230
+cluster_role: sibling
+ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
 ---
 
 # Orange Rag Legal Tech Clinic: Law Firms Can’t AI Their Way Out of a Talent Strategy Problem

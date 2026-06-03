@@ -27,10 +27,10 @@ case_numbers:
 - scheme: EU General Court
   citation: T-56/25
 cluster_id: cluster-2026-05-27-6b15e1a203
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: rose-tinted-reasoning-the-general-court-on-colour-words
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # ROSE-tinted reasoning? The General Court on colour words

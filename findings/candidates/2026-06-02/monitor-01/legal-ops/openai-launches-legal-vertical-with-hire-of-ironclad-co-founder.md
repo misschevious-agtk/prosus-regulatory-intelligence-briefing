@@ -20,10 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-02-fc803ef436
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 230
+cluster_role: sibling
+ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
 ---
 
 # OpenAI launches legal vertical with hire of Ironclad co-founder

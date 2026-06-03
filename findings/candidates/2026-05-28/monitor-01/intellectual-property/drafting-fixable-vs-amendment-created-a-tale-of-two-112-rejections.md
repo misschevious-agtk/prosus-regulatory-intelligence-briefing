@@ -23,7 +23,7 @@ cluster_id: cluster-2026-05-27-d978efac81
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: drafting-fixable-vs-amendment-created-a-tale-of-two-112-rejections
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Drafting Fixable vs. Amendment Created: A Tale of Two §112 Rejections

@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-28-b413532671
 cluster_size: 13
 cluster_role: sibling
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 cluster_canonical_slug: the-may-orange-rag-is-here
 ---
 

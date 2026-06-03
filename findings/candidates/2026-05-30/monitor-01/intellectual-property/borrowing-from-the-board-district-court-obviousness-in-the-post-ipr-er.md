@@ -20,7 +20,7 @@ cluster_id: cluster-2026-05-27-92da2c2fb2
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: borrowing-from-the-board-district-court-obviousness-in-the-post-ipr-er
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Borrowing from the Board: District Court Obviousness in the Post-IPR Era

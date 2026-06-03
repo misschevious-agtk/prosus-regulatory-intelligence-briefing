@@ -18,10 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-02-c94c933ae3
-cluster_size: 3
-cluster_role: canonical
-ranked_at: '2026-06-02T11:20:22+00:00'
+cluster_id: cluster-2026-05-30-f557c318da
+cluster_size: 34
+cluster_role: sibling
+ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_canonical_slug: old-soil-new-clock-the-dtsa-discovery-rule-after-insulet-v-eoflow
 ---
 
 # Vandemoortele / Délifrance merger inquiry

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-27-45faa1c956
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: clio-once-a-feisty-startup-says-it-has-now-surpassed-500m-in-annual-re
-ranked_at: '2026-06-02T11:20:22+00:00'
+ranked_at: '2026-06-03T11:59:19+00:00'
 ---
 
 # Clio, Once A Feisty Startup, Says It Has Now Surpassed $500M In Annual Recurring Revenue

@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-05-29-c316cf9f62
-cluster_size: 63
+cluster_size: 72
 cluster_role: canonical
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Transparency data: CMA Growth and Investment Council meeting notes: 28 April 2026

@@ -1,0 +1,41 @@
+---
+date_found: 2026-06-04
+monitor: monitor-01
+domain: ai-news
+source_url: https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1256
+source_publisher: European Commission press
+source_date: Wed, 03 Jun 2026 22:00:00 GMT
+source_method: rss
+title: Commission adopts temporary adjustments to Basel III Market Risk Rules to safeguard EU banks' competitiveness
+matched_keywords:
+- European Commission
+match_count: 1
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+case_numbers: []
+cluster_id: cluster-2026-05-28-b942d1c5bd
+cluster_size: 271
+cluster_role: sibling
+cluster_canonical_slug: commission-opens-in-depth-foreign-subsidies-investigation-into-jd-com-
+ranked_at: '2026-06-04T10:42:20+00:00'
+---
+
+# Commission adopts temporary adjustments to Basel III Market Risk Rules to safeguard EU banks' competitiveness
+
+**Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1256)
+**Published:** Wed, 03 Jun 2026 22:00:00 GMT
+**Matched keywords (1):** European Commission
+
+## Summary excerpt
+
+European Commission Press release Brussels, 04 Jun 2026 To ensure that the EU banking sector benefits from a level playing field with international competitors, the European Commission has today introduced targeted, time-limited amendments to its implementation of the new market risk capital framework for banks. The measures will apply for three years from 1 January 2027.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

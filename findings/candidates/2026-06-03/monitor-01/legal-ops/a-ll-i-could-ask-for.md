@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-bea8679538
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_id: cluster-2026-05-28-9742cf8cb0
+cluster_size: 17
+cluster_role: sibling
+ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_canonical_slug: ai-in-the-patent-industry-the-risks-of-ai-shadow-use
 ---
 
 # [A]ll [I] Could Ask For

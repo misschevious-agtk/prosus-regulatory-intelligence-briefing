@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-30-b7551cad63
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: us-atty-boutros-if-not-trump-hack-why-trump-hack-shaped
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # US Atty Boutros: If Not Trump Hack, Why Trump Hack Shaped?

@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-03-a881699e32
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Plain, Ordinary, and Unresolved: Woodway’s Two-Front Claim Construction Fight

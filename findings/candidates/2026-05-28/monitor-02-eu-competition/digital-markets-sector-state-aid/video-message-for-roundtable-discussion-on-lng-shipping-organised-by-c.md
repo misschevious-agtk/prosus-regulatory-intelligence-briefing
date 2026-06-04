@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-27-621ae18850
-cluster_size: 269
-cluster_role: sibling
-cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_id: cluster-2026-05-28-12793dc1d7
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre

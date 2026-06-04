@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-29-fc6e07da4c
-cluster_size: 46
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 307
 cluster_role: sibling
-cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # AdventHealth advances whole-person care with OpenAI

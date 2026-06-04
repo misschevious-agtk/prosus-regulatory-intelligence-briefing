@@ -19,10 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-29-fc6e07da4c
-cluster_size: 46
-cluster_role: canonical
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 307
+cluster_role: sibling
+ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
 ---
 
 # MUFG aims to become AI-native with OpenAI

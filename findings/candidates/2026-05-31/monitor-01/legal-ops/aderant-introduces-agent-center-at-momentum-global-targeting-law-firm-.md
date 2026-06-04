@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-27-b7b85eec44
+cluster_id: cluster-2026-05-28-a28458e960
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: aderant-introduces-agent-center-at-momentum-global-targeting-law-firm-
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Aderant Introduces Agent Center at Momentum Global, Targeting Law Firm Back-Office Operations with AI

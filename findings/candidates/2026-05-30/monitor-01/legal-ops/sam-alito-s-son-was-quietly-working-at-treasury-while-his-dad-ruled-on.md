@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-30-35d7ca9d54
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Sam Alito’s Son Was Quietly Working At Treasury While His Dad Ruled On Trump’s Tariffs

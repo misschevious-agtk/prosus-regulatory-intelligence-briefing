@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-287c6d9c7c
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_id: cluster-2026-06-04-0213fc2058
+cluster_size: 3
+cluster_role: sibling
+ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_canonical_slug: the-front-door-that-does-the-work-wordsmith-ai-raises-70m-series-b
 ---
 
 # Wordsmith Raises $70m Series B

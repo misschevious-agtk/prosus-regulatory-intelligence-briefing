@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-01-fe1fb98ca6
-cluster_size: 4
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 307
 cluster_role: sibling
-cluster_canonical_slug: a-banner-week-for-getting-caught-screwing-around-see-generally
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Morning Docket: 06.02.26

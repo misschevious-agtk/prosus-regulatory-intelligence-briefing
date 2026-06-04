@@ -20,11 +20,10 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-412/24
-cluster_id: cluster-2026-05-27-19ba7aaf45
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-cjeu-on-heritage-washing-in-trade-mark-law
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_id: cluster-2026-05-28-bde54cf4d0
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # The CJEU on heritage washing in trade mark law

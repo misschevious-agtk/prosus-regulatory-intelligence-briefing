@@ -19,9 +19,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-30-f557c318da
-cluster_size: 34
+cluster_size: 62
 cluster_role: canonical
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Old Soil, New Clock: The DTSA Discovery Rule After Insulet v. EOFlow

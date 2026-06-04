@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-02-387cf60ae7
-cluster_size: 2
+cluster_id: cluster-2026-05-28-b942d1c5bd
+cluster_size: 271
 cluster_role: sibling
-cluster_canonical_slug: commission-issues-opinions-on-temporary-internal-border-controls-in-sc
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_canonical_slug: commission-opens-in-depth-foreign-subsidies-investigation-into-jd-com-
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Commission issues opinions on temporary internal border controls in Schengen Area

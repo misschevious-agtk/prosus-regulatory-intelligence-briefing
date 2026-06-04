@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-27-3743bdd13f
-cluster_size: 15
-cluster_role: sibling
-cluster_canonical_slug: cma-proposes-to-accept-remedies-in-care-home-deal
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_id: cluster-2026-05-28-c5a8a780bd
+cluster_size: 12
+cluster_role: canonical
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # CMA proposes to accept remedies in care home deal

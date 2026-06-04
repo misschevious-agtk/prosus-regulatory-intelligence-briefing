@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-05-27-c9aaf3a01d
-cluster_size: 3
+cluster_id: cluster-2026-05-28-8e3884cad9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: our-response-to-the-tanstack-npm-supply-chain-attack
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Our response to the TanStack npm supply chain attack

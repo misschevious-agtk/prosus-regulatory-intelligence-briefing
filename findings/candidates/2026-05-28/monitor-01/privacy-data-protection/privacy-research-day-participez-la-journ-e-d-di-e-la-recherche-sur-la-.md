@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-05-27-e9e45668de
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: privacy-research-day-participez-la-journ-e-d-di-e-la-recherche-sur-la-
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_id: cluster-2026-05-28-17b41e7543
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée

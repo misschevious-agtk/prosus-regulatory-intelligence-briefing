@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-30-1df223da94
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: it-s-time-to-say-goodbye-to-water-cooler-training
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # It’s Time To Say Goodbye To Water Cooler Training

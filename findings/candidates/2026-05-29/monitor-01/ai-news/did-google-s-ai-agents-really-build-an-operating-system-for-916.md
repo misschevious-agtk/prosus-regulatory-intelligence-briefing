@@ -18,10 +18,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-06-03-72826dd9ab
-cluster_size: 230
+cluster_size: 307
 cluster_role: sibling
 cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Did Google’s AI agents really build an operating system for $916?

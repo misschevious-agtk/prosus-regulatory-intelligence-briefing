@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-27-3419ffda3a
-cluster_size: 171
+cluster_id: cluster-2026-05-28-2dbe9336fd
+cluster_size: 170
 cluster_role: sibling
 cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Reference Document Management Services (RDMS) Maintenance

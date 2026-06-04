@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-27-5ad388a158
+cluster_id: cluster-2026-05-28-14cabfe88b
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: saif-maan-askar
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Saif Maan Askar

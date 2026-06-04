@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-29-089bf14f32
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Research Shows Only 10% Of Eligible Borrowers Refinance Student Loans Despite Potential Savings

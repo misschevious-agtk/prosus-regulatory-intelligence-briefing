@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-05-28-b413532671
-cluster_size: 13
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: the-may-orange-rag-is-here
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # The May Orange Rag Is Here!

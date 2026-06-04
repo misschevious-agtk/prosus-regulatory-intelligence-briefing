@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-02-ea96a04b4b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: tech-fluency-is-the-new-reputation
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Tech Fluency Is the New Reputation

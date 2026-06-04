@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-27-7d3d7ca700
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: broadside-against-supreme-court-term-limits-misses-the-mark
-ranked_at: '2026-06-03T11:59:19+00:00'
+cluster_id: cluster-2026-05-28-0a82177105
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Broadside Against Supreme Court Term Limits Misses The Mark

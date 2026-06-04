@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-27-049693859b
-cluster_size: 9
+cluster_id: cluster-2026-05-28-9742cf8cb0
+cluster_size: 17
 cluster_role: sibling
 cluster_canonical_slug: ai-in-the-patent-industry-the-risks-of-ai-shadow-use
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # In CTOs We Trust: Legal AI’s Challenge is Confidence at Scale

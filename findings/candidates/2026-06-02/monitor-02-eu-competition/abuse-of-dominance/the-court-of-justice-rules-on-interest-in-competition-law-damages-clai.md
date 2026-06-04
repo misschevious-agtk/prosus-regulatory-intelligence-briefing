@@ -19,11 +19,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-191/25
-cluster_id: cluster-2026-05-27-34fb904a6b
-cluster_size: 21
+cluster_id: cluster-2026-05-28-8b22982126
+cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: the-court-of-justice-rules-on-interest-in-competition-law-damages-clai
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # The Court of Justice Rules on Interest in Competition Law Damages Claims - Wenzel Logistics (Case C-191/25)

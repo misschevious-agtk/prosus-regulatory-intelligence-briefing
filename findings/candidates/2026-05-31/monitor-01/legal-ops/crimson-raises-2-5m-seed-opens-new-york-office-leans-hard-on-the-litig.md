@@ -18,7 +18,7 @@ cluster_id: cluster-2026-05-28-a6bca99c15
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: crimson-raises-2-5m-seed-opens-new-york-office-leans-hard-on-the-litig
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # Crimson raises $2.5m seed, opens New York office, leans hard on the litigation-native pitch

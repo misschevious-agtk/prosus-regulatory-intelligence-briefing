@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-30-8cb6cde449
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-world-cup-is-coming-to-new-york-so-why-aren-t-hotel-numbers-higher
-ranked_at: '2026-06-03T11:59:19+00:00'
+ranked_at: '2026-06-04T10:42:20+00:00'
 ---
 
 # The World Cup Is Coming To New York. So Why Aren’t Hotel Numbers Higher?

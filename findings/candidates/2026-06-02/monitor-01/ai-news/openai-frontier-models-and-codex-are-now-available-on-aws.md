@@ -24,10 +24,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-06-03-72826dd9ab
-cluster_size: 307
+cluster_size: 349
 cluster_role: sibling
 cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # OpenAI frontier models and Codex are now available on AWS

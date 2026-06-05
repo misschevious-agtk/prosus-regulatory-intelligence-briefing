@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-28-079d63f5e3
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-s-irs-settlement-shielding-past-taxes-to-closing-lawfare-loophol
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_id: cluster-2026-05-29-2b747b6c7e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Trump’s IRS Settlement: Shielding Past Taxes To Closing Lawfare Loopholes?

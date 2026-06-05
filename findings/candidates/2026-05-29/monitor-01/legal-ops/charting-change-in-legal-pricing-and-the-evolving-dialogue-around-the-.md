@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-29-af6ec48003
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Charting Change In Legal: Pricing and the evolving dialogue around the billable hour

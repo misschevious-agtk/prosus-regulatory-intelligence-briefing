@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-02-9d095c38cc
-cluster_size: 9
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: corporate-report-cma-diversity-and-inclusion-strategy-annual-plan-2025
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Corporate report: CMA diversity and inclusion strategy Annual Plan 2025 to 2026

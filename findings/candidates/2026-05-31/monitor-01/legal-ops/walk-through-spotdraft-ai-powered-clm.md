@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-28-ab61ceab2c
-cluster_size: 5
+cluster_id: cluster-2026-05-29-4c1456456d
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: walk-through-spotdraft-ai-powered-clm
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Walk Through: SpotDraft – AI-Powered CLM

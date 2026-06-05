@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-28-a108fbb1f9
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: michelle-rahn
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_id: cluster-2026-05-29-ea69391521
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Michelle Rahn

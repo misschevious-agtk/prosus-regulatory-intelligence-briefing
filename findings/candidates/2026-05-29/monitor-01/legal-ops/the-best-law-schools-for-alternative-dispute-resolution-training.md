@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-28-c40ff62a76
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-best-law-schools-for-alternative-dispute-resolution-training
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_id: cluster-2026-05-29-86312f95c3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # The Best Law Schools For Alternative Dispute Resolution Training

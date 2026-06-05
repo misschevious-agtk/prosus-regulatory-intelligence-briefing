@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-28-e893bc92bf
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: hospitals-take-cvs-to-court-over-alleged-250m-340b-scheme
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_id: cluster-2026-05-29-a6c98b447f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Hospitals Take CVS To Court Over Alleged $250M 340B Scheme

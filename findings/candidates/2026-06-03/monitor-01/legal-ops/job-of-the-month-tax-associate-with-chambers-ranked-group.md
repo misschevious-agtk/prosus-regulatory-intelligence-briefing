@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-02-092421878b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: job-of-the-month-tax-associate-with-chambers-ranked-group
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Job Of The Month: Tax Associate With Chambers-Ranked Group

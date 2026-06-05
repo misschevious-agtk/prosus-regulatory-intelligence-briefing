@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-28-c80c7adf07
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: inter-partes-review-in-2026
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_id: cluster-2026-05-29-be3f1fdc0c
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Inter Partes Review in 2026

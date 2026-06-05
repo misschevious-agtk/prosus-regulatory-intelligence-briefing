@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-04-041cde8047
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Litera announces Foundation 365, integrating its CRM capabilities across the Microsoft Suite

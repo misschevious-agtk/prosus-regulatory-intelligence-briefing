@@ -17,7 +17,7 @@ cluster_id: cluster-2026-05-29-089bf14f32
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: research-shows-only-10-of-eligible-borrowers-refinance-student-loans-d
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Research Shows Only 10% Of Eligible Borrowers Refinance Student Loans Despite Potential Savings

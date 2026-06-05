@@ -18,11 +18,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-05-28-b942d1c5bd
-cluster_size: 271
+cluster_id: cluster-2026-05-29-ae38e45154
+cluster_size: 128
 cluster_role: sibling
-cluster_canonical_slug: commission-opens-in-depth-foreign-subsidies-investigation-into-jd-com-
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # NEWSLETTER del 27/11/25 - Sanità, il Garante privacy sanziona società che gestisce un ospedale - Online le FAQ su trattamento dati e trasparenza nei concorsi pubblici - Whistleblowing: nuovo parere sulle Linee guida di ANAC - "La scuola a prova di privacy". Il vademecum aggiornato - GDPR e obblighi di trasparenza, il Garante partecipa al CEF 2026

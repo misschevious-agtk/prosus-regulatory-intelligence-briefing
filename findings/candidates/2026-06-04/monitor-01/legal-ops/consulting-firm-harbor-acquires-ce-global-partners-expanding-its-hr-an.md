@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-04-14db0c0feb
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: harbor-acquires-ce-global-partners-to-bolster-hcm-offering
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Consulting Firm Harbor Acquires CE Global Partners, Expanding Its HR and Payroll Advisory Capabilities

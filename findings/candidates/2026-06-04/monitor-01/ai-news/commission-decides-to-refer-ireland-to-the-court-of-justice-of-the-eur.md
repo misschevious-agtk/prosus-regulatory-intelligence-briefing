@@ -21,11 +21,11 @@ entities:
   jurisdiction: EU
   matched_alias: Court of Justice
 case_numbers: []
-cluster_id: cluster-2026-05-28-b942d1c5bd
-cluster_size: 271
+cluster_id: cluster-2026-06-05-b557d708a0
+cluster_size: 144
 cluster_role: sibling
-cluster_canonical_slug: commission-opens-in-depth-foreign-subsidies-investigation-into-jd-com-
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Commission decides to refer Ireland to the Court of Justice of the European Union for failing to comply with the Environmental Impact Assessment Directive regarding peat cutting projects

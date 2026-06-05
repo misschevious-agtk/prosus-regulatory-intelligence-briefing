@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-28-b769c06343
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: between-largely-dodging-both-leaded-gas-and-ai-driven-social-media-mil
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_id: cluster-2026-05-29-5dacad47e7
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Between Largely Dodging Both Leaded Gas And AI-Driven Social Media, Millennials Might Be The Smartest Generation

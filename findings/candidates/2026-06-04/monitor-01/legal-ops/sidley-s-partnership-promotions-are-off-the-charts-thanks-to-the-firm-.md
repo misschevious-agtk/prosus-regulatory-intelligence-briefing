@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-03-2e3ac7a7b9
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: sidley-s-partnership-promotions-are-off-the-charts-thanks-to-the-firm-
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Sidley’s Partnership Promotions Are Off The Charts Thanks To The Firm’s Brand New Nonequity Tier

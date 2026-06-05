@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-30-072fa6607a
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Considerations When Withdrawing As Counsel For Nonpayment Of Fees

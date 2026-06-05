@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-28-eea4750473
-cluster_size: 102
+cluster_id: cluster-2026-05-29-64e95c8ce7
+cluster_size: 87
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-structure
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Hays / Polka Dot and Hays / Millington merger inquiries

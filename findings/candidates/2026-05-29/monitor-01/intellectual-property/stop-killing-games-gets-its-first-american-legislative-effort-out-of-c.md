@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-05-29-c7df92eae0
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Stop Killing Games Gets Its First American Legislative Effort Out Of Committee in California

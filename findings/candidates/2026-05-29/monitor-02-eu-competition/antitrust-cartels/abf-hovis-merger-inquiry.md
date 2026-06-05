@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-28-2a0a3a011b
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: abf-hovis-merger-inquiry
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_id: cluster-2026-05-29-7f2160c4c8
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # ABF / Hovis merger inquiry

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-02-ac1b43805f
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Florida Makes New AI Rule: Check Your Damned Work Or Else!

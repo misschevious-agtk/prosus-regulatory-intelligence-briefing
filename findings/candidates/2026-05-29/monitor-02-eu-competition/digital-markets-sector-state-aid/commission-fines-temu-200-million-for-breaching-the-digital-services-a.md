@@ -19,11 +19,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-28-2ecb7dc124
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: commission-fines-temu-200-million-for-breaching-the-digital-services-a
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_id: cluster-2026-05-29-d0bcffd80f
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Commission fines Temu €200 million for breaching the Digital Services Act

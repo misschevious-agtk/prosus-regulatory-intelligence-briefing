@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-05-30-f557c318da
-cluster_size: 62
+cluster_size: 96
 cluster_role: sibling
 cluster_canonical_slug: old-soil-new-clock-the-dtsa-discovery-rule-after-insulet-v-eoflow
-ranked_at: '2026-06-04T10:42:20+00:00'
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # Theory of Benefit or Theory of Burden? Reconciling Innovation and Scale under the  2026 Draft Merger Guidelines

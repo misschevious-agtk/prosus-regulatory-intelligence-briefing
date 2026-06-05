@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-28-9742cf8cb0
-cluster_size: 17
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 349
 cluster_role: sibling
-cluster_canonical_slug: ai-in-the-patent-industry-the-risks-of-ai-shadow-use
-ranked_at: '2026-06-04T10:42:20+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
+ranked_at: '2026-06-05T10:49:08+00:00'
 ---
 
 # [A]ll [I] Could Ask For

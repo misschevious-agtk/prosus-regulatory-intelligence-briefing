@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-02-89287d80f0
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Healthcare Moves: A Monthly Summary Of Hires, Exits, And Layoffs

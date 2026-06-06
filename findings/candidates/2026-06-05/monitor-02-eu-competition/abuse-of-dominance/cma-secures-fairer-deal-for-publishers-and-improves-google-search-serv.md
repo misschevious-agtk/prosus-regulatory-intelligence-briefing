@@ -23,10 +23,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-06-03-35b9bee1ca
-cluster_size: 9
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: cma-secures-fairer-deal-for-publishers-and-improves-google-search-serv
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # CMA secures fairer deal for publishers and improves Google search services in UK

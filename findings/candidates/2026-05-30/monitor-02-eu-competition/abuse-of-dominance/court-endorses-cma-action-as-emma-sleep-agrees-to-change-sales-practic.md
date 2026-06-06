@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-29-842ec377da
-cluster_size: 15
-cluster_role: sibling
-cluster_canonical_slug: court-endorses-cma-action-as-emma-sleep-agrees-to-change-sales-practic
-ranked_at: '2026-06-05T10:49:08+00:00'
+cluster_id: cluster-2026-05-30-837d462fca
+cluster_size: 12
+cluster_role: canonical
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Court endorses CMA action as Emma Sleep agrees to change sales practices

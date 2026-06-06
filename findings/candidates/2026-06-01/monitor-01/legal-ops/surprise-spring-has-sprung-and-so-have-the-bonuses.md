@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-29-6ddc2bd06d
-cluster_size: 32
+cluster_id: cluster-2026-05-30-debaf87b62
+cluster_size: 25
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-05-28-26
-ranked_at: '2026-06-05T10:49:08+00:00'
+cluster_canonical_slug: kirkland-ellis-has-form-for-building-its-own-technology-the-500m-ai-pl
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Surprise! Spring Has Sprung, And So Have The Bonuses

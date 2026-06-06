@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-03-a0a1f1b9b1
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # The Wiley Rein Data Breach Lawsuit: Yet Another Cybersecurity Wake-Up Call

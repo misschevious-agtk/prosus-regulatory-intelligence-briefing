@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-72826dd9ab
-cluster_size: 349
+cluster_id: cluster-2026-05-30-ade323cca0
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-05T10:49:08+00:00'
+cluster_canonical_slug: work-with-codex-from-anywhere
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Work with Codex from anywhere

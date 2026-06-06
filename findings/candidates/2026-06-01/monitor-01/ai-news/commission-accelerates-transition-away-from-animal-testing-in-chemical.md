@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-01-3a9135124d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-accelerates-transition-away-from-animal-testing-in-chemical
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Commission accelerates transition away from animal testing in chemical safety assessments

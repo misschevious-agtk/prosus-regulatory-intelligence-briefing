@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-02-66a7fe328d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: booted-from-kennedy-center-trump-stomps-off-in-a-rage
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Booted From Kennedy Center, Trump Stomps Off In A Rage

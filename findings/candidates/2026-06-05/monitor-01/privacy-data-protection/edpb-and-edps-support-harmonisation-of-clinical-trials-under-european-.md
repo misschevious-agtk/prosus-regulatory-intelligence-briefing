@@ -28,11 +28,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-05-29-f02ffff455
+cluster_id: cluster-2026-05-30-040f9bdf6b
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: edpb-and-edps-support-harmonisation-of-clinical-trials-under-european-
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data

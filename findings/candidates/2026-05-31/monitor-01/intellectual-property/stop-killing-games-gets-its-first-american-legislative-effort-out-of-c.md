@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-29-c7df92eae0
-cluster_size: 3
+cluster_id: cluster-2026-05-30-71b0a0236e
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: stop-killing-games-gets-its-first-american-legislative-effort-out-of-c
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Stop Killing Games Gets Its First American Legislative Effort Out Of Committee in California

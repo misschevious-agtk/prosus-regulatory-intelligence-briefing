@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-29-2159ea7f7a
-cluster_size: 8
+cluster_id: cluster-2026-05-30-450f49068b
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: legal-innovators-california-breakfast-june-9
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Legal Innovators California Breakfast – June 9

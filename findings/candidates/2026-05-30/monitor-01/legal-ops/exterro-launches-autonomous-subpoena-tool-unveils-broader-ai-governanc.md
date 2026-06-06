@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-29-93902510f5
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: exterro-launches-autonomous-subpoena-tool-unveils-broader-ai-governanc
-ranked_at: '2026-06-05T10:49:08+00:00'
+cluster_id: cluster-2026-05-30-5827fb701b
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Exterro Launches Autonomous Subpoena Tool, Unveils Broader AI Governance Vision at CLOC

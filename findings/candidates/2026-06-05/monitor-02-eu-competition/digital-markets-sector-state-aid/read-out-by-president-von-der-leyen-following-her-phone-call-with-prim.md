@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-04-3d83ea4b22
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: read-out-by-president-von-der-leyen-following-her-phone-call-with-prim
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Read-out by President von der Leyen following her phone call with Prime Minister of Armenia Nikol Pashinyan

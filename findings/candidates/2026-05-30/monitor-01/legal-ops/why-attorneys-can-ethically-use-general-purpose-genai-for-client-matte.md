@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-29-f6d64432fb
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: why-attorneys-can-ethically-use-general-purpose-genai-for-client-matte
-ranked_at: '2026-06-05T10:49:08+00:00'
+cluster_id: cluster-2026-05-30-461031a7ea
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Why Attorneys Can Ethically Use General-Purpose GenAI For Client Matters Without Redacting Everything

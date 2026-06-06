@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-03-a881699e32
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: plain-ordinary-and-unresolved-woodway-s-two-front-claim-construction-f
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Plain, Ordinary, and Unresolved: Woodway’s Two-Front Claim Construction Fight

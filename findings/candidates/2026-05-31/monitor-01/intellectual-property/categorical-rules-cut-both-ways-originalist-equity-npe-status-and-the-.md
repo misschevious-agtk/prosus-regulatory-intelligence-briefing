@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-29-0ee4d772a5
-cluster_size: 5
+cluster_id: cluster-2026-05-30-718add0bdb
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: categorical-rules-cut-both-ways-originalist-equity-npe-status-and-the-
-ranked_at: '2026-06-05T10:49:08+00:00'
+ranked_at: '2026-06-06T09:28:21+00:00'
 ---
 
 # Categorical Rules Cut Both Ways: Originalist Equity, NPE Status, and the Symmetry of eBay’s Four-Factor Test

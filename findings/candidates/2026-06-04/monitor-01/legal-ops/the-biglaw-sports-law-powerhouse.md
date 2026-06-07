@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-03-46c0694715
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-biglaw-sports-law-powerhouse
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # The Biglaw Sports Law Powerhouse

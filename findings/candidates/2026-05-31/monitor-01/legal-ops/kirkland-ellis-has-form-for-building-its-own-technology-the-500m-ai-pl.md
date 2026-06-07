@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-30-debaf87b62
-cluster_size: 25
-cluster_role: sibling
-cluster_canonical_slug: kirkland-ellis-has-form-for-building-its-own-technology-the-500m-ai-pl
-ranked_at: '2026-06-06T09:28:21+00:00'
+cluster_id: cluster-2026-05-31-062f04cc61
+cluster_size: 18
+cluster_role: canonical
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Kirkland & Ellis has form for building its own technology. The $500m AI play is its biggest yet.

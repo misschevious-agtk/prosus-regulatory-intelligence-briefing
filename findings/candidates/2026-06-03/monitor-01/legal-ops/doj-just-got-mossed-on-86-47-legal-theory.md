@@ -18,9 +18,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-06-03-72826dd9ab
-cluster_size: 368
+cluster_size: 390
 cluster_role: sibling
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
 ---
 

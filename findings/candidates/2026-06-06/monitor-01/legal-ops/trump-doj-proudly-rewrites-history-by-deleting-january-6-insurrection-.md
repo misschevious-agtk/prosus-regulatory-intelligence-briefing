@@ -18,9 +18,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-06-06-5c62b101a4
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Trump DOJ Proudly Rewrites History By Deleting January 6 Insurrection Press Releases

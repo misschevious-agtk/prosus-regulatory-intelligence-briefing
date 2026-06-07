@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-05-bb7ee3c04b
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: don-t-mess-with-texas-boutiques-or-their-associate-salaries
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Don’t Mess With Texas (Boutiques) — Or Their Associate Salaries

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-30-75d25bfda4
-cluster_size: 3
+cluster_id: cluster-2026-05-31-019fac9941
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: new-ethics-complaint-reminds-florida-bar-that-pam-bondi-isn-t-attorney
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # New Ethics Complaint Reminds Florida Bar That Pam Bondi Isn’t Attorney General Anymore

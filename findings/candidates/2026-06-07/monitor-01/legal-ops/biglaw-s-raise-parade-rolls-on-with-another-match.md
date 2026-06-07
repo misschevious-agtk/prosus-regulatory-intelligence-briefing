@@ -1,0 +1,37 @@
+---
+date_found: 2026-06-07
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/06/biglaws-raise-parade-rolls-on-with-another-match/
+source_publisher: Above the Law
+source_date: Fri, 05 Jun 2026 14:02:00 +0000
+source_method: rss
+title: Biglaw’s Raise Parade Rolls On With Another Match
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 390
+cluster_role: sibling
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
+ranked_at: '2026-06-07T10:03:23+00:00'
+---
+
+# Biglaw’s Raise Parade Rolls On With Another Match
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/06/biglaws-raise-parade-rolls-on-with-another-match/)
+**Published:** Fri, 05 Jun 2026 14:02:00 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+Yet another Am Law 100 firm has increased associate salaries. The post Biglaw’s Raise Parade Rolls On With Another Match appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

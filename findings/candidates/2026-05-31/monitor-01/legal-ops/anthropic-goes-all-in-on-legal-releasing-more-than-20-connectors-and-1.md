@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-05-30-aef411dc52
-cluster_size: 46
-cluster_role: sibling
-cluster_canonical_slug: anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-1
-ranked_at: '2026-06-06T09:28:21+00:00'
+cluster_id: cluster-2026-05-31-6199f39365
+cluster_size: 45
+cluster_role: canonical
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude

@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-06-03-db883db413
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: travelers-deploys-ai-powered-claims-countrywide-with-openai
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Travelers deploys AI-powered claims countrywide with OpenAI

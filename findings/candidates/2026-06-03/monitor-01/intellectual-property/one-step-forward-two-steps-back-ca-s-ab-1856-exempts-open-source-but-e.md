@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-03-4a392f8d10
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # One Step Forward, Two Steps Back: CA’s AB 1856 Exempts Open Source But Expands Age-Gating

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-30-d9f03690ea
-cluster_size: 4
+cluster_id: cluster-2026-05-31-67670c03c6
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: dla-piper-partner-backs-trump-central-park-5-defamation-case
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # DLA Piper Partner Backs Trump Central Park 5 Defamation Case

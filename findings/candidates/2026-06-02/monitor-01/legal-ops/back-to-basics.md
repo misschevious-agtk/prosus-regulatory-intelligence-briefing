@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-30-56174aa727
-cluster_size: 4
+cluster_id: cluster-2026-05-31-67fc07f5b6
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: back-to-basics
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Back To Basics

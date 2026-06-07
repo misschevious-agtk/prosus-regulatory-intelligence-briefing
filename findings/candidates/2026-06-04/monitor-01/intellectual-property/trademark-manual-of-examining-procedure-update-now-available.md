@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-30-d64d00d6e3
-cluster_size: 174
+cluster_id: cluster-2026-05-31-c2824b58eb
+cluster_size: 169
 cluster_role: sibling
 cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Trademark Manual of Examining Procedure update now available

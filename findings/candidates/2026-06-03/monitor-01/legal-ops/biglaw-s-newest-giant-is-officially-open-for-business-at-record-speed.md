@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-02-da5d4c516d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-newest-giant-is-officially-open-for-business-at-record-speed
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Biglaw’s Newest Giant Is Officially Open For Business At ‘Record Speed’

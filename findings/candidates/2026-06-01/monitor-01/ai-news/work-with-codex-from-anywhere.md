@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-30-ade323cca0
-cluster_size: 3
+cluster_id: cluster-2026-05-31-e5f6f3cbb9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: work-with-codex-from-anywhere
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Work with Codex from anywhere

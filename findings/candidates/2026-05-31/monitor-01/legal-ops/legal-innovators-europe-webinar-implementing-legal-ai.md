@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-30-450f49068b
-cluster_size: 6
+cluster_id: cluster-2026-05-31-8b5dca6f24
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: legal-innovators-california-breakfast-june-9
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Legal Innovators Europe Webinar – Implementing Legal AI

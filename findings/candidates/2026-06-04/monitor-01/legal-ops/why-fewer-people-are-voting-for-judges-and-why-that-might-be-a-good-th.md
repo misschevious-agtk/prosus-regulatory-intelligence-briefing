@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-04-ec0af86f11
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Why Fewer People Are Voting For Judges And Why That Might Be A Good Thing

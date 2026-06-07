@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-06-e1ada83eb3
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # What the Verdict Might Have Said: Jury Black Boxes in Ollnova v. ecobee

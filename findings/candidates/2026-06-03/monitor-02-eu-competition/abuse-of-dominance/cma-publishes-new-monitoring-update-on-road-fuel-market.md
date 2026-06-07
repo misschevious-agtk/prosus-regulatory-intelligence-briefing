@@ -18,9 +18,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-03-920095c52c
-cluster_size: 18
+cluster_size: 21
 cluster_role: canonical
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # CMA publishes new monitoring update on road fuel market

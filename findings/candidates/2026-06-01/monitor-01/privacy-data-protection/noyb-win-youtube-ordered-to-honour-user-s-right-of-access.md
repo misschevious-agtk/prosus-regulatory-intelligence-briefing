@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-05-30-c3bd089446
-cluster_size: 4
+cluster_id: cluster-2026-05-31-c75366411f
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-youtube-ordered-to-honour-user-s-right-of-access
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # noyb WIN: YouTube ordered to honour user’s right of access

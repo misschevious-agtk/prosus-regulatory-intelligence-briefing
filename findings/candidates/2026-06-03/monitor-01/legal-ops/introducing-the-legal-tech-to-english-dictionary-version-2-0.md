@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-02-67a5be7e4e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: introducing-the-legal-tech-to-english-dictionary-version-2-0
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Introducing The Legal Tech-To-English Dictionary —Version 2.0

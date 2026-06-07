@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-05-b557d708a0
-cluster_size: 148
-cluster_role: sibling
-cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-06T09:28:21+00:00'
+cluster_id: cluster-2026-05-31-59b42714c9
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Read-out of the College orientation debate on EU-China relations*

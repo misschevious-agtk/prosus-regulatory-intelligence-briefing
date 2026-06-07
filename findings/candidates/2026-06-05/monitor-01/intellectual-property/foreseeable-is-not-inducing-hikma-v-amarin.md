@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-05-5f2add9d0c
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-06T09:28:21+00:00'
+ranked_at: '2026-06-07T10:03:23+00:00'
 ---
 
 # Foreseeable Is Not Inducing: Hikma v. Amarin

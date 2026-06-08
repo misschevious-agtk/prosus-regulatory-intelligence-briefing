@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-04-a61642196e
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: what-6-200-matters-reveal-about-running-transactions
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # What 6,200 Matters Reveal About Running Transactions

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-31-eeb56ef24b
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: considerations-when-withdrawing-as-counsel-for-nonpayment-of-fees
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_id: cluster-2026-06-01-ffe4b18a36
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Considerations When Withdrawing As Counsel For Nonpayment Of Fees

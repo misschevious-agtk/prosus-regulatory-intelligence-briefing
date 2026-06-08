@@ -21,10 +21,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-06-02-3c38d5b79d
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: a-united-front-against-settled-expectations
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # A United Front Against “Settled Expectations”

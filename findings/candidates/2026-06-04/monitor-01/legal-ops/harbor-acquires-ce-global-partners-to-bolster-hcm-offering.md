@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-04-14db0c0feb
-cluster_size: 8
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Harbor acquires CE Global Partners to bolster HCM offering

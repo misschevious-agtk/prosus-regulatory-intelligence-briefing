@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-02-a3e8260f47
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: running-a-tintin-model-locally-on-your-laptop-might-just-transform-cop
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Running a Tintin model locally on your laptop might just transform copyright

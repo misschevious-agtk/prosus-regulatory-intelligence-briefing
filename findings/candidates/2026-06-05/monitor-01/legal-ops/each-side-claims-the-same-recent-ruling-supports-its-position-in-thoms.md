@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-31-6199f39365
-cluster_size: 45
+cluster_id: cluster-2026-06-01-f982e4e1fa
+cluster_size: 44
 cluster_role: sibling
 cluster_canonical_slug: anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-1
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Each Side Claims the Same Recent Ruling Supports Its Position in Thomson Reuters v. ROSS Appeal

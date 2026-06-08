@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-31-851d19c82f
-cluster_size: 5
+cluster_id: cluster-2026-06-01-8d76e629fa
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: ediscovery-ai-launches-casebot-a-conversational-ai-assistant-for-case-
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # eDiscovery AI Launches CaseBot, a Conversational AI Assistant for Case Data

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-31-3c86c3efcf
-cluster_size: 163
+cluster_id: cluster-2026-06-03-a92b117622
+cluster_size: 190
 cluster_role: sibling
-cluster_canonical_slug: old-soil-new-clock-the-dtsa-discovery-rule-after-insulet-v-eoflow
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Draft revised guidance on our approach to assessing merger efficiencies

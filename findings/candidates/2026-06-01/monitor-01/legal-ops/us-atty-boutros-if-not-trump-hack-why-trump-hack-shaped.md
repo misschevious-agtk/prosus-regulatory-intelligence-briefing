@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-31-9cb1659716
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: us-atty-boutros-if-not-trump-hack-why-trump-hack-shaped
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_id: cluster-2026-06-01-6e520d120e
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # US Atty Boutros: If Not Trump Hack, Why Trump Hack Shaped?

@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-31-7b349f83a2
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: statement-by-commissioner-v-rhelyi-ahead-of-the-world-no-tobacco-day
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_id: cluster-2026-06-01-cd4b2e2358
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Statement by Commissioner Várhelyi ahead of the World No Tobacco Day

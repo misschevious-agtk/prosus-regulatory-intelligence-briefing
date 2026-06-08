@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-31-2ae8dc4b0c
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: emma-group-consumer-protection-case
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_id: cluster-2026-06-01-5aca3937f7
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Emma Group: consumer protection case

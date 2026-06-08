@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-31-a6f485dec9
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-world-cup-is-coming-to-new-york-so-why-aren-t-hotel-numbers-higher
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_id: cluster-2026-06-01-e7b0a2a2a1
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # The World Cup Is Coming To New York. So Why Aren’t Hotel Numbers Higher?

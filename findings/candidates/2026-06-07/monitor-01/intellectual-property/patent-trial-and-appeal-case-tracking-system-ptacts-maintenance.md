@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-05-31-c2824b58eb
-cluster_size: 169
+cluster_id: cluster-2026-06-01-5cbd840704
+cluster_size: 174
 cluster_role: sibling
 cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # ​Patent Trial and Appeal Case Tracking System (PTACTS) Maintenance

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-05-31-53f2b27588
-cluster_size: 6
+cluster_id: cluster-2026-06-01-b9f0f1f8d6
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: new-scoreboard-shows-success-of-european-startup-policies
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_canonical_slug: eurobarometer-highlights-perceived-obstacles-and-opportunities-for-eur
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Eurobarometer shows continued public support for biodiversity protection across Europe

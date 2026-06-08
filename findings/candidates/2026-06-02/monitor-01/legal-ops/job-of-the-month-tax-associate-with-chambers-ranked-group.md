@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-02-092421878b
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Job Of The Month: Tax Associate With Chambers-Ranked Group

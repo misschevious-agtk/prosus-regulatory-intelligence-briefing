@@ -19,11 +19,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-05-31-df229cdb2a
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: correspondence-cma-response-to-government-in-relation-to-childcare-pro
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_id: cluster-2026-06-01-63603d5c28
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Correspondence: CMA response to government in relation to childcare provision

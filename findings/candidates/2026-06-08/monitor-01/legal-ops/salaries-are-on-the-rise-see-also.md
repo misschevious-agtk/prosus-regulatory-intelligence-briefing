@@ -1,0 +1,41 @@
+---
+date_found: 2026-06-08
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/06/salaries-are-on-the-rise-see-also/
+source_publisher: Above the Law
+source_date: Fri, 05 Jun 2026 23:00:00 +0000
+source_method: rss
+title: Salaries Are On The Rise! — See Also
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities:
+- name: Federal Trade Commission
+  type: regulator
+  jurisdiction: US
+  matched_alias: FTC
+case_numbers: []
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 398
+cluster_role: sibling
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
+ranked_at: '2026-06-08T11:59:26+00:00'
+---
+
+# Salaries Are On The Rise! — See Also
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/06/salaries-are-on-the-rise-see-also/)
+**Published:** Fri, 05 Jun 2026 23:00:00 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+Another Biglaw Firm Matches Milbank : Katten Muchin bumps up their salaries ! Keeping Up With The Milbanks : Check to see if your firm is on the scoreboard ! Here Lies Diversity Lab : The FTC successfully harassed the diversity initiative into shutting down . Alternative Facts And Alternative Histories : The Trump administration tries erasing proof of the failed Jan. 6th coup . Associate Prosecutor Disbarred Over Law School Stealing : Reminder of how important it is to police the police . Lawyers Worth Their Fee Know Silence Is Golden : Talking less could make you better at your job . The post Salaries Are On The Rise! &#8212; See Also appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

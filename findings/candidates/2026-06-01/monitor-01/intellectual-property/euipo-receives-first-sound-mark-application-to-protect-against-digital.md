@@ -19,11 +19,10 @@ entities:
   jurisdiction: EU
   matched_alias: EUIPO
 case_numbers: []
-cluster_id: cluster-2026-05-31-bc1237eb30
+cluster_id: cluster-2026-06-01-3cbfae1234
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: euipo-receives-first-sound-mark-application-to-protect-against-digital
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # EUIPO receives first sound mark application to protect against digital replicas and deepfakes

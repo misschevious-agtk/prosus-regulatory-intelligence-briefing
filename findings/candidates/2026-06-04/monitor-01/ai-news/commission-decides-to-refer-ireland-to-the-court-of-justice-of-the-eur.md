@@ -22,10 +22,10 @@ entities:
   matched_alias: Court of Justice
 case_numbers: []
 cluster_id: cluster-2026-06-05-b557d708a0
-cluster_size: 143
+cluster_size: 146
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # Commission decides to refer Ireland to the Court of Justice of the European Union for failing to comply with the Environmental Impact Assessment Directive regarding peat cutting projects

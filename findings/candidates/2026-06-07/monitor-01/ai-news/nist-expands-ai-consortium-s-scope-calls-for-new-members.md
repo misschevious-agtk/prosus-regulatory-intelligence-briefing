@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-72826dd9ab
-cluster_size: 390
+cluster_id: cluster-2026-06-01-d12ff8146d
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_canonical_slug: nist-expands-ai-consortium-s-scope-calls-for-new-members
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # NIST Expands AI Consortium’s Scope, Calls for New Members

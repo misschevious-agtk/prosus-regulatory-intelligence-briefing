@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-05-31-a5fed7d3ba
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: the-may-orange-rag-is-here
-ranked_at: '2026-06-07T10:03:23+00:00'
+cluster_id: cluster-2026-06-01-3c0a7407e9
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # The May Orange Rag Is Here!

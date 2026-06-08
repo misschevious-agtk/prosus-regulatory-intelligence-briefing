@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-03-a0a1f1b9b1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-wiley-rein-data-breach-lawsuit-yet-another-cybersecurity-wake-up-c
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # The Wiley Rein Data Breach Lawsuit: Yet Another Cybersecurity Wake-Up Call

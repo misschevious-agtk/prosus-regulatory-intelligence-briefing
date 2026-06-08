@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-04-25efce3436
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-07T10:03:23+00:00'
+ranked_at: '2026-06-08T11:59:26+00:00'
 ---
 
 # CMS Finalizes Rule To Simplify Payer-Provider Disputes Under No Surprises Act

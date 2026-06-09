@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-610b23c62f
-cluster_size: 5
+cluster_id: cluster-2026-06-02-5c9d0a058a
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: revisiting-sixteen-years-of-101-after-a-data-correction
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Revisiting Sixteen Years of §101 After a Data Correction

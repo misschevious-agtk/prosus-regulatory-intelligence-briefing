@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-9df1879cba
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: revision-of-malta-s-fdi-rules-key-takeaways
-ranked_at: '2026-06-08T11:59:26+00:00'
+cluster_id: cluster-2026-06-02-242e06bcf2
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Revision of Malta’s FDI Rules – Key Takeaways

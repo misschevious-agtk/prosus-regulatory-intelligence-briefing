@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-dbcf656639
-cluster_size: 41
+cluster_id: cluster-2026-06-02-e4e4c11883
+cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: the-claude-pocalypse-bypassed-legal-aid-lawdroid-s-new-plugin-remedies
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Some Thoughts On Harvey’s Launch of ‘LAB,’ An Open-Source, Long-Horizon Benchmark for Legal AI Agents

@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-02-233a3935f8
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Remarks by Commissioner Dombrovskis at DG ECFIN conference on the International Monetary System and the Role of the Euro

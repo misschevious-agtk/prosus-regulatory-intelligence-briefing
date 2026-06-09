@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-04-0213fc2058
-cluster_size: 11
+cluster_size: 13
 cluster_role: canonical
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # “The front door that does the work”:  Wordsmith AI raises $70m Series B

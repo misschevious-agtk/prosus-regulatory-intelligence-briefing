@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-04-6d607ade27
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: top-10-things-to-know-about-the-administration-s-new-adjustment-of-sta
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Top 10 Things To Know About The Administration’s New Adjustment Of Status Memo

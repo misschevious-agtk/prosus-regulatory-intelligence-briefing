@@ -21,10 +21,10 @@ entities:
   matched_alias: EUIPO
 case_numbers: []
 cluster_id: cluster-2026-06-07-1e738ad69e
-cluster_size: 10
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: mickey-is-free-it-may-not-be-as-free-though
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Mickey is free! It may not be as free, though…

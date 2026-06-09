@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-05-b557d708a0
-cluster_size: 146
+cluster_size: 147
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Keynote speech by Commissioner Kubilius at NATO-Ukraine Defence Innovators Forum

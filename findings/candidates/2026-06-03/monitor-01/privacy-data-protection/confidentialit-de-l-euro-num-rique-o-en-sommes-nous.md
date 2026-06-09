@@ -22,11 +22,11 @@ entities:
   jurisdiction: DE
   matched_alias: BfDI
 case_numbers: []
-cluster_id: cluster-2026-06-01-75c4167d48
-cluster_size: 4
+cluster_id: cluster-2026-06-02-09456522b2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: confidentialit-de-l-euro-num-rique-o-en-sommes-nous
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Confidentialité de l’euro numérique : où en sommes-nous ?

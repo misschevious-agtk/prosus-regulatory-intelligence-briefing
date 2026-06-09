@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-06-03-72826dd9ab
-cluster_size: 398
+cluster_size: 407
 cluster_role: sibling
 cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments

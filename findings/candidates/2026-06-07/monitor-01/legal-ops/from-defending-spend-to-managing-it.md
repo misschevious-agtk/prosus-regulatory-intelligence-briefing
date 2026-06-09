@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-05-d7d845ee56
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: from-defending-spend-to-managing-it
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # From Defending Spend To Managing It

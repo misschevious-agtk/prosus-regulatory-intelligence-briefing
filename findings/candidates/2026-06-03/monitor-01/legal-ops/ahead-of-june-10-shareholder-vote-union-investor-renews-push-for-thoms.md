@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-4e4ee811dc
+cluster_id: cluster-2026-06-02-f46eb19100
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: ahead-of-june-10-shareholder-vote-union-investor-renews-push-for-thoms
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Ahead of June 10 Shareholder Vote, Union Investor Renews Push for Thomson Reuters to Assess Human Rights Impact of Its Products Used By ICE

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-b64e90f737
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-cleary-gottlieb-created-a-virtuous-cycle-with-tech
-ranked_at: '2026-06-08T11:59:26+00:00'
+cluster_id: cluster-2026-06-02-15e56a5a1f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # How Cleary Gottlieb Created A Virtuous Cycle With Tech

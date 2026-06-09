@@ -17,11 +17,11 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-d39f1e9102
-cluster_size: 3
+cluster_id: cluster-2026-06-02-4dab69ca2e
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: charting-change-in-legal-pricing-and-the-evolving-dialogue-around-the-
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Charting Change In Legal: Pricing and the evolving dialogue around the billable hour

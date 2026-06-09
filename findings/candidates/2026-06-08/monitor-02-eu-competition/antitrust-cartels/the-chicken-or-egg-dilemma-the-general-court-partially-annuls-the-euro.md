@@ -24,10 +24,10 @@ case_numbers:
 - scheme: EU General Court
   citation: T-1078/23
 cluster_id: cluster-2026-06-03-a92b117622
-cluster_size: 190
+cluster_size: 224
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # The Chicken or Egg Dilemma: The General Court Partially Annuls the European Commission’s DMA Designation Decision Against Meta (Case T-1078/23)

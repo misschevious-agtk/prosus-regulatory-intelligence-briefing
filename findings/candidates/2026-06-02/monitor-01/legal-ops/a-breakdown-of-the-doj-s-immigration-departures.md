@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-01-7188b16f66
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: a-breakdown-of-the-doj-s-immigration-departures
-ranked_at: '2026-06-08T11:59:26+00:00'
+cluster_id: cluster-2026-06-02-6b57e334bd
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # A Breakdown Of The DOJ’s Immigration Departures

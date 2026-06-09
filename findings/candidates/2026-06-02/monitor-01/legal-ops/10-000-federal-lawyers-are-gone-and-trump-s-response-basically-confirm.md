@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-02-0c40ed7df5
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # 10,000 Federal Lawyers Are Gone And Trump’s Response Basically Confirms Why They Left

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-03-9b8000e620
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Spellbook Hires Former Shopify CTO

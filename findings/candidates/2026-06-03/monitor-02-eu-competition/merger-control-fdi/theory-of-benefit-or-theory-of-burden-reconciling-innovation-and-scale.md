@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-03-a92b117622
-cluster_size: 190
+cluster_size: 224
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Theory of Benefit or Theory of Burden? Reconciling Innovation and Scale under the  2026 Draft Merger Guidelines

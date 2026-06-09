@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-4f44a389c4
+cluster_id: cluster-2026-06-02-a5a80d0be9
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: what-time-is-it-on-mars-nist-physicists-have-the-answer
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # What Time Is It on Mars? NIST Physicists Have the Answer.

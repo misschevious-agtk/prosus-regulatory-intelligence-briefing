@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-f982e4e1fa
-cluster_size: 44
+cluster_id: cluster-2026-06-02-1d48093826
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-1
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Survey: Legal Teams Lack Visibility Into AI Agents’ Actions, Icertis Research Finds

@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-06-01-22d0e622e5
+cluster_id: cluster-2026-06-02-c0be1871c0
 cluster_size: 80
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # NEWSLETTER del 25 settembre 2025 - Garante privacy: dossier sanitario accessibile solo per ragioni di cura - Diritto di accesso, il Garante privacy sanziona una banca per 100mila euro - PA e obblighi di trasparenza online, il Garante privacy chiede maggiori tutele - Trasparenza siti, il Garante privacy sanziona un Comune - Garanti privacy mondiali: la protezione dati si applica pienamente all’IA

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-05-e8c03ae35b
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # The Best Law Schools For Intellectual Property Law (2026)

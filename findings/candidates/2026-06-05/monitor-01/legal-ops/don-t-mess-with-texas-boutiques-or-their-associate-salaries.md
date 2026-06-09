@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-05-bb7ee3c04b
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Don’t Mess With Texas (Boutiques) — Or Their Associate Salaries

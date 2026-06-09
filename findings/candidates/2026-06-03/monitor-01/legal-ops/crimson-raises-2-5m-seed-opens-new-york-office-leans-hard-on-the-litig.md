@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-062c621b55
-cluster_size: 3
+cluster_id: cluster-2026-06-02-4047612625
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: crimson-raises-2-5m-seed-opens-new-york-office-leans-hard-on-the-litig
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Crimson raises $2.5m seed, opens New York office, leans hard on the litigation-native pitch

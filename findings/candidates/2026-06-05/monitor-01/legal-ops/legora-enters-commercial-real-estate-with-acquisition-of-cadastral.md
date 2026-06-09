@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-03-b042732312
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: legora-buys-cadastral-agentic-real-estate-platform
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Legora enters commercial real estate with acquisition of Cadastral

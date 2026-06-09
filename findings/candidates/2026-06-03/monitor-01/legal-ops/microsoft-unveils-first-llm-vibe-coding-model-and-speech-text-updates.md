@@ -28,7 +28,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-03-3298baafe2
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Microsoft unveils first LLM, vibe coding model, and speech/text updates

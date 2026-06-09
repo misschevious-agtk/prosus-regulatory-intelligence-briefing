@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-db41d9c4d4
-cluster_size: 11
+cluster_id: cluster-2026-06-02-2c5b1cc99a
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: kirkland-ellis-has-form-for-building-its-own-technology-the-500m-ai-pl
-ranked_at: '2026-06-08T11:59:26+00:00'
+cluster_canonical_slug: biglaw-s-climate-scorecard-is-out-and-the-ai-data-center-boom-just-mad
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Bonuses Are In The Air! — See Also

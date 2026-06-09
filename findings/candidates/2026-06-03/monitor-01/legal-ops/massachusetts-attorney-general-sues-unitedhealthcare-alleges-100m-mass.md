@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-03-25b74ac968
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-08T11:59:26+00:00'
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Massachusetts Attorney General Sues UnitedHealthcare, Alleges $100M MassHealth Fraud

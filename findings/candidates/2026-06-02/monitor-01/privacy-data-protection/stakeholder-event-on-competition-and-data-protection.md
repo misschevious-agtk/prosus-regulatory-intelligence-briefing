@@ -21,11 +21,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-06-01-b7492bff78
+cluster_id: cluster-2026-06-02-329f2dc49c
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: stakeholder-event-on-competition-and-data-protection
-ranked_at: '2026-06-08T11:59:26+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # Stakeholder event on competition and data protection

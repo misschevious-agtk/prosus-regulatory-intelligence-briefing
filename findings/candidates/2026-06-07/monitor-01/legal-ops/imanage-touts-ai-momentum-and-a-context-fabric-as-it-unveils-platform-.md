@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-01-636820c447
-cluster_size: 10
+cluster_id: cluster-2026-06-02-4a4b658b8a
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: connectlive-2026-the-dms-rewires-itself-for-the-agentic-era
-ranked_at: '2026-06-08T11:59:26+00:00'
+cluster_canonical_slug: imanage-touts-ai-momentum-and-a-context-fabric-as-it-unveils-platform-
+ranked_at: '2026-06-09T10:38:02+00:00'
 ---
 
 # iManage Touts AI Momentum and a ‘Context Fabric’ as It Unveils Platform Overhaul at ConnectLive 2026

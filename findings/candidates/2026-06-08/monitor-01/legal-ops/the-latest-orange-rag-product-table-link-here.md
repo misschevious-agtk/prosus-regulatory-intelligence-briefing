@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-08-e5671a0256
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # The Latest Orange Rag Product Table – Link here

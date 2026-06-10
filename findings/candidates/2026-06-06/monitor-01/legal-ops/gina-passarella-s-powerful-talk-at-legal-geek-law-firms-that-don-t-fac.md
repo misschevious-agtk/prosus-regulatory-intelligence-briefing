@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-06-8e43b06d14
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Gina Passarella’s Powerful Talk At Legal Geek: Law Firms That Don’t Face Change May Soon Run Out Of Gas

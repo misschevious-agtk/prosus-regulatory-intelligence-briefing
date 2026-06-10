@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-03-2f43c63e02
+cluster_id: cluster-2026-06-03-faa6bc0f53
 cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-06-09T10:38:02+00:00'
+cluster_role: sibling
+ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_canonical_slug: eurobarometer-shows-continued-public-support-for-biodiversity-protecti
 ---
 
 # Eurobarometer shows continued public support for biodiversity protection across Europe

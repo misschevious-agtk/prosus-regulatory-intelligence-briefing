@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-3c853f5fe7
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-09T10:38:02+00:00'
+cluster_id: cluster-2026-06-03-72826dd9ab
+cluster_size: 415
+cluster_role: sibling
+ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
 ---
 
 # AI Governance Isn’t Failing. It’s Just In The Wrong Place.

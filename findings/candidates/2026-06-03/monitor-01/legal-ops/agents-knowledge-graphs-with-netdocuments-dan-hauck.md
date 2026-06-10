@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-03-89e8211cbf
 cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Agents + Knowledge Graphs with NetDocuments’ Dan Hauck

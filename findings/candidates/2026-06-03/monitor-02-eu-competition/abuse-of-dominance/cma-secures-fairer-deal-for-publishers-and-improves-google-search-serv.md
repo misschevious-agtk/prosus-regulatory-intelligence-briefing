@@ -22,10 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-03-35b9bee1ca
-cluster_size: 21
-cluster_role: canonical
-ranked_at: '2026-06-09T10:38:02+00:00'
+cluster_id: cluster-2026-06-03-627fb41651
+cluster_size: 24
+cluster_role: sibling
+ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_canonical_slug: cma-secures-fairer-deal-for-publishers-and-improves-google-search-serv
 ---
 
 # CMA secures fairer deal for publishers and improves Google search services in UK

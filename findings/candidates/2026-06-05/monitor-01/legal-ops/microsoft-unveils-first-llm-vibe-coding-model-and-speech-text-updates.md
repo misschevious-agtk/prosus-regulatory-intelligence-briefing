@@ -29,7 +29,7 @@ cluster_id: cluster-2026-06-03-3298baafe2
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: microsoft-unveils-first-llm-vibe-coding-model-and-speech-text-updates
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Microsoft unveils first LLM, vibe coding model, and speech/text updates

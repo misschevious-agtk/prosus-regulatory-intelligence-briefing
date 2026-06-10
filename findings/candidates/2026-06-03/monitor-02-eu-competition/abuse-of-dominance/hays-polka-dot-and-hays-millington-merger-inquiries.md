@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-02-42f9e9692d
-cluster_size: 12
+cluster_id: cluster-2026-06-03-7ff907ba72
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: danone-huel-merger-inquiry
-ranked_at: '2026-06-09T10:38:02+00:00'
+cluster_canonical_slug: hays-polka-dot-and-hays-millington-merger-inquiries
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Hays / Polka Dot and Hays / Millington merger inquiries

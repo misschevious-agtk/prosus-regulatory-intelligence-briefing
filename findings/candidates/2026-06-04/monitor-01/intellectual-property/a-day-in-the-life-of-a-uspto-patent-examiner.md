@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-02-5d03c35f67
-cluster_size: 3
+cluster_id: cluster-2026-06-03-87e94cacff
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-day-in-the-life-of-a-uspto-patent-examiner
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # A day in the life of a USPTO patent examiner

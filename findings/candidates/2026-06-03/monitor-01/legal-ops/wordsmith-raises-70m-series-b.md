@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-04-0213fc2058
-cluster_size: 13
+cluster_size: 14
 cluster_role: sibling
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 cluster_canonical_slug: the-front-door-that-does-the-work-wordsmith-ai-raises-70m-series-b
 ---
 

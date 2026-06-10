@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-02-67a5be7e4e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: introducing-the-legal-tech-to-english-dictionary-version-2-0
-ranked_at: '2026-06-09T10:38:02+00:00'
+cluster_id: cluster-2026-06-03-0d59ebf00a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Introducing The Legal Tech-To-English Dictionary —Version 2.0

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-06-6dffee84d6
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # 340 Local News Outlets Now Blocking The Internet Archive

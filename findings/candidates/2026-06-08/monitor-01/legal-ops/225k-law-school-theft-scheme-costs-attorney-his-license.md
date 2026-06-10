@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-06-bb1dffe152
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: 225k-law-school-theft-scheme-costs-attorney-his-license
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # $225K Law School Theft Scheme Costs Attorney His License

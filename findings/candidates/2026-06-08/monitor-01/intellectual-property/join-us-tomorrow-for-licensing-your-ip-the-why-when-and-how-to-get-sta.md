@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-02-e7ac4982b0
-cluster_size: 176
+cluster_id: cluster-2026-06-03-e808e5969b
+cluster_size: 177
 cluster_role: sibling
-cluster_canonical_slug: happening-today-ptab-listening-session-three
-ranked_at: '2026-06-09T10:38:02+00:00'
+cluster_canonical_slug: uspto-achieves-significant-progress-in-reducing-patent-application-not
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Join us tomorrow for "Licensing your IP: The why, when, and how to get started"

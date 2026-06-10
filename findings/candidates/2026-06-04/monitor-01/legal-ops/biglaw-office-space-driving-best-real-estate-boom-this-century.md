@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-03-60ba87d75a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-office-space-driving-best-real-estate-boom-this-century
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Biglaw Office Space Driving Best Real Estate Boom This Century

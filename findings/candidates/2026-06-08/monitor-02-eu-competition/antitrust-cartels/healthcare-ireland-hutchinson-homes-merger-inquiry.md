@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-03-a92b117622
-cluster_size: 224
+cluster_size: 282
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Healthcare Ireland / Hutchinson Homes merger inquiry

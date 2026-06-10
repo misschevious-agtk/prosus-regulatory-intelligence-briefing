@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: Court of Justice
 case_numbers: []
-cluster_id: cluster-2026-06-02-a60a5ec882
-cluster_size: 24
+cluster_id: cluster-2026-06-10-89a0090436
+cluster_size: 23
 cluster_role: sibling
-cluster_canonical_slug: a-new-dawn-for-collective-actions-in-germany-federal-court-of-justice-
-ranked_at: '2026-06-09T10:38:02+00:00'
+cluster_canonical_slug: antitrust-collective-redress-in-spain-testing-the-system-through-the-a
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # A new dawn for collective actions in Germany? Federal Court of Justice in Germany sets new boundaries for bundled antitrust claims in Financialright

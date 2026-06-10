@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-08-e0ed7b7a02
-cluster_size: 2
+cluster_id: cluster-2026-06-05-b557d708a0
+cluster_size: 148
 cluster_role: sibling
-cluster_canonical_slug: eu-and-kenya-strengthen-partnership
-ranked_at: '2026-06-09T10:38:02+00:00'
+cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # EU and Kenya strengthen partnership

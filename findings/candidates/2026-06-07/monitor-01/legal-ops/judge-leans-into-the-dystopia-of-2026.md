@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-05-a874c74418
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: judge-leans-into-the-dystopia-of-2026
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Judge Leans Into The Dystopia Of 2026

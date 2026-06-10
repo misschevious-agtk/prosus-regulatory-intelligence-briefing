@@ -21,10 +21,10 @@ case_numbers:
 - scheme: EU Court of Justice
   citation: C-797/23
 cluster_id: cluster-2026-06-05-b557d708a0
-cluster_size: 147
+cluster_size: 148
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Italian transposition of press publishers’ right may be compatible with EU law, though with caveats, says Grand Chamber

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-04-d60e6f9ae6
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: who-s-on-your-board-reflections-from-lma26
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # ‘Who’s On Your Board?’: Reflections From LMA26

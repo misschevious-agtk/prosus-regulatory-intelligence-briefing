@@ -21,9 +21,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-05-b557d708a0
-cluster_size: 147
+cluster_size: 148
 cluster_role: canonical
-ranked_at: '2026-06-09T10:38:02+00:00'
+ranked_at: '2026-06-10T10:59:06+00:00'
 ---
 
 # Commission approves €100 million Austrian State aid scheme to support cleantech manufacturing capacity

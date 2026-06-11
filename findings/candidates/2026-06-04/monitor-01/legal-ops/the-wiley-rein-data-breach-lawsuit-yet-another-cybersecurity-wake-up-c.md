@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-a0a1f1b9b1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-wiley-rein-data-breach-lawsuit-yet-another-cybersecurity-wake-up-c
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_id: cluster-2026-06-04-af61dfef89
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # The Wiley Rein Data Breach Lawsuit: Yet Another Cybersecurity Wake-Up Call

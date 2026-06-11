@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-04-041cde8047
-cluster_size: 13
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: litera-announces-foundation-365-integrating-its-crm-capabilities-acros
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Foundation 365, Litera’s AI-Powered CRM Platform for Law Firms, Is Now Available within Microsoft 365

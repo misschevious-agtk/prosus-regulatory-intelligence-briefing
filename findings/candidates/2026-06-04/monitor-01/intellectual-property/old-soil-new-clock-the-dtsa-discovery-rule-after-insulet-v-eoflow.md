@@ -18,11 +18,10 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-bae5f839cf
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: old-soil-new-clock-the-dtsa-discovery-rule-after-insulet-v-eoflow
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_id: cluster-2026-06-04-c65d0df286
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Old Soil, New Clock: The DTSA Discovery Rule After Insulet v. EOFlow

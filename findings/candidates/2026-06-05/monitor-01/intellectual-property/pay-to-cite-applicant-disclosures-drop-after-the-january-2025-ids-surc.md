@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-03-e808e5969b
-cluster_size: 177
+cluster_id: cluster-2026-06-04-0120332023
+cluster_size: 15
 cluster_role: sibling
-cluster_canonical_slug: uspto-achieves-significant-progress-in-reducing-patent-application-not
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_canonical_slug: pay-to-cite-applicant-disclosures-drop-after-the-january-2025-ids-surc
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Pay to Cite: Applicant Disclosures Drop After the January 2025 IDS Surcharge

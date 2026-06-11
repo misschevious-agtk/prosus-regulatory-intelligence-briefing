@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-10-89a0090436
-cluster_size: 23
+cluster_size: 22
 cluster_role: canonical
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Antitrust Collective Redress in Spain: Testing the System Through the Automobile Cartel Litigation

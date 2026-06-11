@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-06-91fc0e9bfb
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: former-fda-officials-there-s-opportunity-to-rebuild-the-agency-but-not
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Former FDA Officials: There’s Opportunity To Rebuild The Agency — But Not The Way It Was

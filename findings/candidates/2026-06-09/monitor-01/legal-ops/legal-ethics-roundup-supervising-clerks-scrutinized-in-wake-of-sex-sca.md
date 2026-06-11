@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-09-f1352c51ec
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Legal Ethics Roundup: Supervising Clerks Scrutinized In Wake Of Sex Scandal, High-Profile Discipline, Gifts For Judges, Lack Of Candor From DOJ, Lawyer Reprimanded For Faking Dementia & More

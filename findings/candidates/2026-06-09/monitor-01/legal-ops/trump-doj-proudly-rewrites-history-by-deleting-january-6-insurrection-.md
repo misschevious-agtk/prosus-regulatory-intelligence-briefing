@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-06-5c62b101a4
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-doj-proudly-rewrites-history-by-deleting-january-6-insurrection-
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Trump DOJ Proudly Rewrites History By Deleting January 6 Insurrection Press Releases

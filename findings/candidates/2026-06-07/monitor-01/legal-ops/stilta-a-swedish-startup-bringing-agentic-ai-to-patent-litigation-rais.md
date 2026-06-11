@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-204845ead1
+cluster_id: cluster-2026-06-04-a94cb98d9f
 cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: the-claude-pocalypse-bypassed-legal-aid-lawdroid-s-new-plugin-remedies
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Stilta, A Swedish Startup Bringing Agentic AI To Patent Litigation, Raises $10.5M Seed Led By Andreessen Horowitz

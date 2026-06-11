@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-05-2b1e1f5160
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-executive-order-on-ai-gives-central-role-to-nsa
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Trump Executive Order On AI Gives Central Role To NSA

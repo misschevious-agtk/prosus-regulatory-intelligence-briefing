@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-063df84cf7
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_id: cluster-2026-06-09-4ab23b6039
+cluster_size: 6
+cluster_role: sibling
+ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_canonical_slug: biglaw-s-talent-wars-are-getting-more-expensive
 ---
 
 # Biglaw’s Lockstep Partner Compensation Is Dying

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-2e3ac7a7b9
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: sidley-s-partnership-promotions-are-off-the-charts-thanks-to-the-firm-
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_id: cluster-2026-06-04-cd0d11fb84
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Sidley’s Partnership Promotions Are Off The Charts Thanks To The Firm’s Brand New Nonequity Tier

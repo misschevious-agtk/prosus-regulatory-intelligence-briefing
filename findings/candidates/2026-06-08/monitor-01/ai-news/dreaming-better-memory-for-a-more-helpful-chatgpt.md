@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-72826dd9ab
-cluster_size: 415
+cluster_id: cluster-2026-06-05-819a6753f2
+cluster_size: 7
 cluster_role: sibling
-cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_canonical_slug: dreaming-better-memory-for-a-more-helpful-chatgpt
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Dreaming: Better memory for a more helpful ChatGPT

@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-05-b557d708a0
-cluster_size: 148
+cluster_size: 145
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Remarks by Olivér VÁRHELYI, European Commissioner for Health and Animal Welfare, during the press conference following the informal meeting of Health Ministers via video conference on Ebola on 5 June 2026

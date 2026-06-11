@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-09-695b2f5eb2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ken-paxton-can-t-even-get-his-own-lawyer-s-vote
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Ken Paxton Can’t Even Get His Own Lawyer’s Vote

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-09-ba127e5211
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: judge-eleanor-ross-impeachment-arrives-right-on-schedule-managing-to-y
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Judge Eleanor Ross Impeachment Arrives Right On Schedule, Managing To Yet Again Botch The Standard

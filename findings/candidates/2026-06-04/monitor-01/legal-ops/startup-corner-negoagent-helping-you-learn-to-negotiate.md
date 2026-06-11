@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-03-9610e32d42
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: startup-corner-negoagent-helping-you-learn-to-negotiate
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_id: cluster-2026-06-04-ec3800964e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Startup Corner: NegoAgent – Helping you learn to negotiate

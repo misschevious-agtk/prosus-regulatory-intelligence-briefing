@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-04-2ec3a3d55f
 cluster_size: 4
 cluster_role: sibling
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 cluster_canonical_slug: read-out-by-president-von-der-leyen-following-her-phone-call-with-prim
 ---
 

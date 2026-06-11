@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-03-e808e5969b
-cluster_size: 177
+cluster_id: cluster-2026-06-04-b12f5f4e93
+cluster_size: 163
 cluster_role: sibling
 cluster_canonical_slug: uspto-achieves-significant-progress-in-reducing-patent-application-not
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # USPTO achieves significant progress in reducing patent application Notice of Allowance mailing pendency

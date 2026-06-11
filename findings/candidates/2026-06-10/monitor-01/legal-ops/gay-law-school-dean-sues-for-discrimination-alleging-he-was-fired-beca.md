@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-10-6b94a4e5ad
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_id: cluster-2026-06-08-699b01a663
+cluster_size: 15
+cluster_role: sibling
+ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_canonical_slug: raises-see-generally
 ---
 
 # Gay Law School Dean Sues For Discrimination, Alleging He Was Fired Because He Married His Husband

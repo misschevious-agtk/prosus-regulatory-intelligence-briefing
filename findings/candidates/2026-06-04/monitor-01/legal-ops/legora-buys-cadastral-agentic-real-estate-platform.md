@@ -22,11 +22,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-03-b042732312
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: legora-buys-cadastral-agentic-real-estate-platform
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_id: cluster-2026-06-04-4dd3f4b6ba
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Legora Buys Cadastral Agentic Real Estate Platform

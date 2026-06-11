@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-03-77062da5cf
+cluster_id: cluster-2026-06-04-e933e1b4e2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: strengthening-societal-resilience-with-rosalind-biodefense
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Strengthening societal resilience with Rosalind Biodefense

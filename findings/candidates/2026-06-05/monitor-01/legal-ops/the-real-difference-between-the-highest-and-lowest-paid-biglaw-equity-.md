@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-04-cd4e608c2e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-real-difference-between-the-highest-and-lowest-paid-biglaw-equity-
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # The Real Difference Between The Highest And Lowest Paid Biglaw Equity Partners

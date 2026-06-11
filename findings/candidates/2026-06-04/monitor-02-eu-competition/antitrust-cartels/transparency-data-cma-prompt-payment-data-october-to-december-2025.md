@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-03-a0c60e6091
-cluster_size: 21
+cluster_id: cluster-2026-06-04-3e89b7827a
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: transparency-data-cma-growth-and-investment-council-meeting-notes-28-a
-ranked_at: '2026-06-10T10:59:06+00:00'
+cluster_canonical_slug: transparency-data-cma-prompt-payment-data-january-to-march-2026
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Transparency data: CMA: prompt payment data, October to December 2025

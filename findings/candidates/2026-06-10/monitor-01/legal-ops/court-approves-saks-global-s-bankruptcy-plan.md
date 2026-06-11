@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-10-d07076aecf
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Court Approves Saks Global’s Bankruptcy Plan

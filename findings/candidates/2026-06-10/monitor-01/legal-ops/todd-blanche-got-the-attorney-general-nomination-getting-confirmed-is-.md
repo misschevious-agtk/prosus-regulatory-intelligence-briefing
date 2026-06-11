@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-10-5f5f04084c
-cluster_size: 5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-06-09-26
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Todd Blanche Got The Attorney General Nomination. Getting Confirmed Is Another Matter.

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-09-9245a0afd0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: temple-law-gifted-5m-to-study-the-rule-of-law
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Temple Law Gifted $5M To Study The Rule Of Law

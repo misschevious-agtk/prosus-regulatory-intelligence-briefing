@@ -18,9 +18,9 @@ entities:
   matched_alias: GitHub
 case_numbers: []
 cluster_id: cluster-2026-06-10-eff5ea00d7
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-10T10:59:06+00:00'
+ranked_at: '2026-06-11T11:26:20+00:00'
 ---
 
 # Migrating Your GitHub CI to Hugging Face Jobs

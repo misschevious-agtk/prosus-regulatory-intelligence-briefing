@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-10-0bb1aa389d
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: how-an-agent-built-a-3d-paris-gallery-by-chaining-two-hugging-face-spa
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces

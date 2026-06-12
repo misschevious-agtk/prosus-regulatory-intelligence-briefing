@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-4ab23b6039
-cluster_size: 6
+cluster_id: cluster-2026-06-08-699b01a663
+cluster_size: 31
 cluster_role: sibling
-cluster_canonical_slug: biglaw-s-talent-wars-are-getting-more-expensive
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_canonical_slug: raises-see-generally
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Biglaw’s Talent Wars Are Getting More Expensive

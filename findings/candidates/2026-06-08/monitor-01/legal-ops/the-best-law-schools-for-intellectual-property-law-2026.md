@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-05-e8c03ae35b
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-for-intellectual-property-law-2026
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # The Best Law Schools For Intellectual Property Law (2026)

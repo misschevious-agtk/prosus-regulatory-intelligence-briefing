@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-25efce3436
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: cms-finalizes-rule-to-simplify-payer-provider-disputes-under-no-surpri
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_id: cluster-2026-06-05-b5d62b60e2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # CMS Finalizes Rule To Simplify Payer-Provider Disputes Under No Surprises Act

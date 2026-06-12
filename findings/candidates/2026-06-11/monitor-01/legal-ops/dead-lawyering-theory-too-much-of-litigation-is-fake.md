@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-10-ec8ac7f80a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: dead-lawyering-theory-too-much-of-litigation-is-fake
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Dead Lawyering Theory: Too Much Of Litigation Is Fake

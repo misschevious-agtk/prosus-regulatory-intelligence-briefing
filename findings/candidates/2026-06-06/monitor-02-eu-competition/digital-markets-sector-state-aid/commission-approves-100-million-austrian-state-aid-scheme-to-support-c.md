@@ -24,7 +24,7 @@ cluster_id: cluster-2026-06-05-b557d708a0
 cluster_size: 145
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Commission approves €100 million Austrian State aid scheme to support cleantech manufacturing capacity

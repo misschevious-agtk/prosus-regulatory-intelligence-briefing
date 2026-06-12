@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-04-2ec3a3d55f
-cluster_size: 4
+cluster_id: cluster-2026-06-05-35004d0eba
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: read-out-by-president-von-der-leyen-following-her-phone-call-with-prim
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Read-out by President von der Leyen following her phone call with Prime Minister of Armenia Nikol Pashinyan

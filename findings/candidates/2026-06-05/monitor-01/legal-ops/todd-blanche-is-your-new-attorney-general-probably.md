@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-49152417ef
-cluster_size: 400
+cluster_id: cluster-2026-06-05-51d2a5e01f
+cluster_size: 44
 cluster_role: sibling
-cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_canonical_slug: the-race-to-match-milbank-s-new-235k-salary-scale-may-be-faster-than-a
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Todd Blanche Is Your New Attorney General. Probably.

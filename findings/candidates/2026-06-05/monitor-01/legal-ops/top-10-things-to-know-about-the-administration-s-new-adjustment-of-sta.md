@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-6d607ade27
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: top-10-things-to-know-about-the-administration-s-new-adjustment-of-sta
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_id: cluster-2026-06-05-97c439e31d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Top 10 Things To Know About The Administration’s New Adjustment Of Status Memo

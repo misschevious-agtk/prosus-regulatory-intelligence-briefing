@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-b858c72e2e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 20-nonfiction-book-recommendations-to-jumpstart-your-summer-reading-se
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_id: cluster-2026-06-05-cb7018265e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # 20 Nonfiction Book Recommendations To Jumpstart Your Summer Reading Season

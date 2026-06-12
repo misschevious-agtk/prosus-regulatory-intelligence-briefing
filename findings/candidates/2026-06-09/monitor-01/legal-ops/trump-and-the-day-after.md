@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-09-02e70d492e
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-kennedy-center-gets-slapp-ed
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Trump And The Day After

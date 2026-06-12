@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-09-8290db1949
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: guest-post-client-data-shadow-ai-and-the-unmanaged-browser
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Guest post: Client data, shadow AI, and the unmanaged browser

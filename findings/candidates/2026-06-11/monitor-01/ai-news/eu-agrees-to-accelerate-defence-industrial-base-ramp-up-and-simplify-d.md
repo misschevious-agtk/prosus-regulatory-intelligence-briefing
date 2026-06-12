@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-11-36774a5321
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # EU agrees to accelerate defence industrial base ramp-up and simplify defence procurement

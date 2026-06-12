@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-cd4e608c2e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-real-difference-between-the-highest-and-lowest-paid-biglaw-equity-
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_id: cluster-2026-06-05-8e19ba2137
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # The Real Difference Between The Highest And Lowest Paid Biglaw Equity Partners

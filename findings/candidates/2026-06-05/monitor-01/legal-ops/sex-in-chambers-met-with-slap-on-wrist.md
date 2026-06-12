@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-a3c20d9453
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: sex-in-chambers-met-with-slap-on-wrist
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_id: cluster-2026-06-05-cb06f3df61
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Sex In Chambers Met With Slap On Wrist

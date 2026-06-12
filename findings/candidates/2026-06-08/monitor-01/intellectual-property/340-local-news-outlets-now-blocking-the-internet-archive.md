@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-06-6dffee84d6
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: 340-local-news-outlets-now-blocking-the-internet-archive
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # 340 Local News Outlets Now Blocking The Internet Archive

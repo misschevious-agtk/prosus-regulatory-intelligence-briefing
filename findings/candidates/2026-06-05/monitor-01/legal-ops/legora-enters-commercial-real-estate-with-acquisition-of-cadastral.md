@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-4dd3f4b6ba
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: legora-buys-cadastral-agentic-real-estate-platform
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_id: cluster-2026-06-05-7d3957f63c
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Legora enters commercial real estate with acquisition of Cadastral

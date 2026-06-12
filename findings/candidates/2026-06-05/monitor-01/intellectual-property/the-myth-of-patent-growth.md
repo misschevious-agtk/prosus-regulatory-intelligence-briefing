@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-b97ff3e8dc
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: the-myth-of-patent-growth
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_id: cluster-2026-06-05-40726aa174
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # The Myth of Patent Growth

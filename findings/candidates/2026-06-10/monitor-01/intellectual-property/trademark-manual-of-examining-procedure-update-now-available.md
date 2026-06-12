@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-b12f5f4e93
-cluster_size: 163
+cluster_id: cluster-2026-06-05-57df8bd546
+cluster_size: 165
 cluster_role: sibling
-cluster_canonical_slug: uspto-achieves-significant-progress-in-reducing-patent-application-not
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_canonical_slug: register-to-access-the-uspto-s-open-data-portal
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Trademark Manual of Examining Procedure update now available

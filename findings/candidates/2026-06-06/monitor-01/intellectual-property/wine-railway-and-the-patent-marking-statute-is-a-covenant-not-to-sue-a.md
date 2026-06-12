@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-04-beb8b1f02f
-cluster_size: 12
+cluster_id: cluster-2026-06-05-5ea90e9d30
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: rose-tinted-reasoning-the-general-court-on-colour-words
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Wine Railway and the Patent Marking Statute: Is a Covenant Not to Sue a Patent License?

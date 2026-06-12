@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-10-3bb0ba6b2b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-emersonian-lawyer-the-compass-and-the-resume
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # The Emersonian Lawyer: The Compass And The Resume

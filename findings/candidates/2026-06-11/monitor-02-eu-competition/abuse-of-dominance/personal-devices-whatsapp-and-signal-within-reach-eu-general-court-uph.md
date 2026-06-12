@@ -25,10 +25,11 @@ entities:
   jurisdiction: US
   matched_alias: WhatsApp
 case_numbers: []
-cluster_id: cluster-2026-06-11-5759105a06
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-06-11T11:26:20+00:00'
+cluster_id: cluster-2026-06-05-e07a9bdf55
+cluster_size: 335
+cluster_role: sibling
+ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
 ---
 
 # Personal Devices, WhatsApp and Signal Within Reach: EU General Court Upholds Broad Information-Gathering Powers in Merger Enforcement

@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-04-e0d1385303
-cluster_size: 8
+cluster_id: cluster-2026-06-05-e200caa5de
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: a-united-front-against-settled-expectations
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # A United Front Against “Settled Expectations”

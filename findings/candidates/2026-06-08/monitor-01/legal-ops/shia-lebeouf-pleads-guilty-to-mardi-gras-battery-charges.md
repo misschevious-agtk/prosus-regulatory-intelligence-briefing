@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-05-eb364dc667
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: shia-lebeouf-pleads-guilty-to-mardi-gras-battery-charges
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 ---
 
 # Shia LeBeouf Pleads Guilty To Mardi Gras Battery Charges

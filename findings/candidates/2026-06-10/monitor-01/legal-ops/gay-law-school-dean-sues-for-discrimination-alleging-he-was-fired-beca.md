@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-08-699b01a663
-cluster_size: 15
+cluster_size: 31
 cluster_role: sibling
-ranked_at: '2026-06-11T11:26:20+00:00'
+ranked_at: '2026-06-12T11:04:18+00:00'
 cluster_canonical_slug: raises-see-generally
 ---
 

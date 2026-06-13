@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-18d2cc591a
-cluster_size: 4
+cluster_id: cluster-2026-06-13-2ea914a344
+cluster_size: 162
 cluster_role: sibling
-cluster_canonical_slug: getting-started-with-patent-public-search
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_canonical_slug: standard-essential-patent-working-group-offers-support
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Getting Started with Patent Public Search

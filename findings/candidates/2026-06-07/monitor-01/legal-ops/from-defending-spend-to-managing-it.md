@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-05-d7d845ee56
-cluster_size: 4
+cluster_id: cluster-2026-06-06-8ef48c3a20
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: from-defending-spend-to-managing-it
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # From Defending Spend To Managing It

@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-05-8fd2a831bb
-cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: pay-to-cite-applicant-disclosures-drop-after-the-january-2025-ids-surc
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_id: cluster-2026-06-06-b23824091d
+cluster_size: 13
+cluster_role: canonical
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Pay to Cite: Applicant Disclosures Drop After the January 2025 IDS Surcharge

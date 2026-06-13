@@ -20,9 +20,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-11-3e0106cd3d
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Trading Claims for Speed: USPTO Sweetens the Streamlined Claim Set Pilot

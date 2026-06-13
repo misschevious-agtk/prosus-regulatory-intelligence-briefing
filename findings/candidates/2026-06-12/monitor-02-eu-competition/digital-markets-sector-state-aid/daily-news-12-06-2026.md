@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-05-b557d708a0
-cluster_size: 145
+cluster_id: cluster-2026-06-06-917ce4cf68
+cluster_size: 150
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Daily News 12 / 06 / 2026

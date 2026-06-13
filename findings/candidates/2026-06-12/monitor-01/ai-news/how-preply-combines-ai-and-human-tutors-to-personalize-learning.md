@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-12-eab9d5ef77
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_id: cluster-2026-06-06-d7e11da094
+cluster_size: 300
+cluster_role: sibling
+ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
 ---
 
 # How Preply combines AI and human tutors to personalize learning

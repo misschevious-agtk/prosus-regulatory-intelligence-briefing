@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-05-51d2a5e01f
-cluster_size: 44
-cluster_role: sibling
-cluster_canonical_slug: the-race-to-match-milbank-s-new-235k-salary-scale-may-be-faster-than-a
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_id: cluster-2026-06-06-82a49548ae
+cluster_size: 31
+cluster_role: canonical
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # When Your Partners Are Making $9 Million, Matching Milbank Is The Easy Part

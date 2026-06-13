@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-9acf113f4d
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_id: cluster-2026-06-13-cc1101b556
+cluster_size: 42
+cluster_role: sibling
+ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_canonical_slug: even-biglaw-is-celebrating-the-knicks-see-also
 ---
 
 # You Will Not Believe The ‘Apology’ Letter Judge Eleanor Ross Wrote Her Clerks

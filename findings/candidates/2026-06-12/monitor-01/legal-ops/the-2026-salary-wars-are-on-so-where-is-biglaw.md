@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-11-8b1fff1a2b
-cluster_size: 2
+cluster_id: cluster-2026-06-13-cc1101b556
+cluster_size: 42
 cluster_role: sibling
-cluster_canonical_slug: the-2026-atl-top-50-law-school-rankings-are-here
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_canonical_slug: even-biglaw-is-celebrating-the-knicks-see-also
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # The 2026 Salary Wars Are On… So Where Is Biglaw?

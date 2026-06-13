@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-11-345fe30516
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fifa-world-cup-26-safe-from-drones-watched-by-everyone
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # FIFA World Cup 26: Safe From Drones, Watched By Everyone?

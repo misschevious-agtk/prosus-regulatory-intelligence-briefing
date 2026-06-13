@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-09-8047326c03
-cluster_size: 14
+cluster_size: 17
 cluster_role: canonical
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Casepoint Names GovTech Veteran Paul Colangelo CEO, As Thoma Bravo–Backed Company Pushes Deeper Into Government

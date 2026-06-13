@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-05-e534a5349d
+cluster_id: cluster-2026-06-06-b7ddf05a6b
 cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: ia-g-n-rative-et-vie-priv-e-une-affiche-coproduite-par-la-pipc-et-la-c
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée

@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-10-88034c5132
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # UK Government launches AI Growth Lab with legal as its first focus area

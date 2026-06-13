@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-05-e07a9bdf55
-cluster_size: 335
+cluster_id: cluster-2026-06-06-a81fa5a47d
+cluster_size: 213
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # LB Group / Venator UK (TiO2 assets) merger inquiry

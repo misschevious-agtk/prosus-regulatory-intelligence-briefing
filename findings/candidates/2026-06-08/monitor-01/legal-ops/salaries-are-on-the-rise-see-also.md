@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: FTC
 case_numbers: []
-cluster_id: cluster-2026-06-05-51d2a5e01f
-cluster_size: 44
+cluster_id: cluster-2026-06-06-82a49548ae
+cluster_size: 31
 cluster_role: sibling
-cluster_canonical_slug: the-race-to-match-milbank-s-new-235k-salary-scale-may-be-faster-than-a
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_canonical_slug: when-your-partners-are-making-9-million-matching-milbank-is-the-easy-p
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Salaries Are On The Rise! — See Also

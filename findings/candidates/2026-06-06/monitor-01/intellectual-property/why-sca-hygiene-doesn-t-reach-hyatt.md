@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-05-7eb2548af7
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: why-sca-hygiene-doesn-t-reach-hyatt
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_id: cluster-2026-06-06-b903e27ceb
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Why SCA Hygiene Doesn’t Reach Hyatt

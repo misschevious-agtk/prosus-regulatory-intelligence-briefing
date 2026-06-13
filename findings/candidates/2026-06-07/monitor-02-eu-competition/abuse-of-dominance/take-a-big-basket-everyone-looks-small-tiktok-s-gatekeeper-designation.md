@@ -23,11 +23,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-627/24
-cluster_id: cluster-2026-06-05-47bfd3faf0
-cluster_size: 3
+cluster_id: cluster-2026-06-06-e71ec4b3b9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: take-a-big-basket-everyone-looks-small-tiktok-s-gatekeeper-designation
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Take a Big Basket, Everyone Looks Small: TikTok’s Gatekeeper Designation Hearing Before the Court of Justice (Case C-627/24 P)

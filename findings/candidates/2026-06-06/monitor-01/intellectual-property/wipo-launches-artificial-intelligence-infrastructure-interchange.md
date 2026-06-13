@@ -17,11 +17,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-06-05-f44344bd24
+cluster_id: cluster-2026-06-06-470ecc76e9
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: wipo-launches-artificial-intelligence-infrastructure-interchange
-ranked_at: '2026-06-12T11:04:18+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # WIPO Launches Artificial Intelligence Infrastructure Interchange

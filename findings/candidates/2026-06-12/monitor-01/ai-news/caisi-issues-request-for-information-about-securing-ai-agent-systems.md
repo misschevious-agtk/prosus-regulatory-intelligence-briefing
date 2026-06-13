@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-05-a28c60d421
+cluster_id: cluster-2026-06-06-935b3f6ca2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: caisi-issues-request-for-information-about-securing-ai-agent-systems
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # CAISI Issues Request for Information About Securing AI Agent Systems

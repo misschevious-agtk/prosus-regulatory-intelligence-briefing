@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: EUIPO
 case_numbers: []
-cluster_id: cluster-2026-06-05-4a84ed1a49
+cluster_id: cluster-2026-06-06-b5c55f77d2
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Sunday Surprises

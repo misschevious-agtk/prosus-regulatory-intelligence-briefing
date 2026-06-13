@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-699b01a663
-cluster_size: 31
+cluster_id: cluster-2026-06-13-cc1101b556
+cluster_size: 42
 cluster_role: sibling
-ranked_at: '2026-06-12T11:04:18+00:00'
-cluster_canonical_slug: raises-see-generally
+ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_canonical_slug: even-biglaw-is-celebrating-the-knicks-see-also
 ---
 
 # Biglaw’s Talent Wars Are Getting More Expensive

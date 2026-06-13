@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-10-5f5f04084c
-cluster_size: 8
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-06-09-26
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Giving The Kennedy Center A Bad Name — See Also

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-05-266382d5ca
-cluster_size: 5
+cluster_id: cluster-2026-06-06-f4d8822c99
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: agents-knowledge-graphs-with-netdocuments-dan-hauck
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # Agents + Knowledge Graphs with NetDocuments’ Dan Hauck

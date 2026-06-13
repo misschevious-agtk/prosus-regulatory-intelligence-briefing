@@ -25,11 +25,11 @@ entities:
   jurisdiction: EU
   matched_alias: General Court
 case_numbers: []
-cluster_id: cluster-2026-06-05-dc1af57f3e
-cluster_size: 4
+cluster_id: cluster-2026-06-06-dcc03f7495
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: eu-us-data-transfers-first-reaction-on-latombe-case
-ranked_at: '2026-06-12T11:04:18+00:00'
+ranked_at: '2026-06-13T09:59:59+00:00'
 ---
 
 # EU-US Data Transfers: First Reaction on "Latombe" Case

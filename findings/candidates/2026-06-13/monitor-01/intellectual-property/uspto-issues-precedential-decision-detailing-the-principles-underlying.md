@@ -1,0 +1,42 @@
+---
+date_found: 2026-06-13
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://www.uspto.gov/about-us/news-updates/uspto-issues-precedential-decision-detailing-principles-underlying-directors
+source_publisher: USPTO news
+source_date: Wed, 06/10/2026 - 15:23
+source_method: rss
+title: USPTO issues precedential decision detailing the principles underlying the Director’s exercise of discretion
+matched_keywords:
+- USPTO
+- PTAB
+- IPR
+match_count: 3
+status: candidate
+entities:
+- name: United States Patent and Trademark Office
+  type: regulator
+  jurisdiction: US
+  matched_alias: USPTO
+case_numbers: []
+cluster_id: cluster-2026-06-13-e0668fae8d
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-13T09:59:59+00:00'
+---
+
+# USPTO issues precedential decision detailing the principles underlying the Director’s exercise of discretion
+
+**Source:** [USPTO news](https://www.uspto.gov/about-us/news-updates/uspto-issues-precedential-decision-detailing-principles-underlying-directors)
+**Published:** Wed, 06/10/2026 - 15:23
+**Matched keywords (3):** USPTO, PTAB, IPR
+
+## Summary excerpt
+
+In Magnolia Medical v. Kurin, the Director denied IPR institution where the petitioner raised issues it already litigated and lost in district court rather than using the PTAB as a true alternative to litigation.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

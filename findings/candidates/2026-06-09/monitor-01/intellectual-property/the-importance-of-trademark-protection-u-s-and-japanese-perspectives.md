@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-f00d354b54
-cluster_size: 5
-cluster_role: canonical
-ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_id: cluster-2026-06-14-e0cd0a04cc
+cluster_size: 6
+cluster_role: sibling
+ranked_at: '2026-06-14T10:28:04+00:00'
+cluster_canonical_slug: join-us-for-the-importance-of-trademark-protection-u-s-and-japanese-pe
 ---
 
 # The importance of trademark protection: U.S. and Japanese perspectives

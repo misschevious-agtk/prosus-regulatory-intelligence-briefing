@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-06-82a49548ae
-cluster_size: 31
-cluster_role: sibling
-cluster_canonical_slug: when-your-partners-are-making-9-million-matching-milbank-is-the-easy-p
-ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_id: cluster-2026-06-07-8f8d67fec1
+cluster_size: 22
+cluster_role: canonical
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # When Your Partners Are Making $9 Million, Matching Milbank Is The Easy Part

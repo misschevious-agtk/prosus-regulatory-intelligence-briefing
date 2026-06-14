@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-10-cb3d85e259
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # 8am, Parent to LawPay, MyCase and Others, Has A New CEO

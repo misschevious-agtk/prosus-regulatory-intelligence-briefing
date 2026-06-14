@@ -18,11 +18,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-06-06-da287f93c0
+cluster_id: cluster-2026-06-07-32c11eb042
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: wipo-launches-new-award-for-cities-of-innovation
-ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # WIPO Launches New Award for Cities of Innovation

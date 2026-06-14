@@ -22,9 +22,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-13-2ea914a344
-cluster_size: 162
+cluster_size: 147
 cluster_role: canonical
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Standard-Essential Patent Working Group offers support

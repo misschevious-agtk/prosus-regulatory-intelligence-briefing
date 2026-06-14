@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-06-e1ada83eb3
+cluster_id: cluster-2026-06-07-f3696ad32c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: what-the-verdict-might-have-said-jury-black-boxes-in-ollnova-v-ecobee
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # What the Verdict Might Have Said: Jury Black Boxes in Ollnova v. ecobee

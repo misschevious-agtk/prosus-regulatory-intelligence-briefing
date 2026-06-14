@@ -26,10 +26,10 @@ entities:
   matched_alias: WhatsApp
 case_numbers: []
 cluster_id: cluster-2026-06-08-0b8c8f0caa
-cluster_size: 133
+cluster_size: 165
 cluster_role: sibling
 cluster_canonical_slug: the-chicken-or-egg-dilemma-the-general-court-partially-annuls-the-euro
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Personal Devices, WhatsApp and Signal Within Reach: EU General Court Upholds Broad Information-Gathering Powers in Merger Enforcement

@@ -23,10 +23,10 @@ entities:
   matched_alias: TikTok
 case_numbers: []
 cluster_id: cluster-2026-06-13-e0668fae8d
-cluster_size: 3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: uspto-issues-precedential-decision-detailing-the-principles-underlying
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # USPTO designates as informative three decisions applying the Office’s Revvo and Tesla claim construction precedent

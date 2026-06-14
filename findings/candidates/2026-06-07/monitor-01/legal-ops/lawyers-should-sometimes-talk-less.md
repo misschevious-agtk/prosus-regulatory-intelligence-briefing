@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-06-1b57769bc1
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: lawyers-should-sometimes-talk-less
-ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_id: cluster-2026-06-07-23480b5cac
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Lawyers Should Sometimes Talk Less

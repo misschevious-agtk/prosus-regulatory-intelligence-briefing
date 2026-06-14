@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-06-510190e7a6
-cluster_size: 4
+cluster_id: cluster-2026-06-07-15764ea4f8
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: guest-editorial-tell-the-whole-truth-thomson-reuters
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Guest Editorial: Tell the Whole Truth, Thomson Reuters

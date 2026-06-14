@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-09-8290db1949
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: guest-post-client-data-shadow-ai-and-the-unmanaged-browser
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Guest post: Client data, shadow AI, and the unmanaged browser

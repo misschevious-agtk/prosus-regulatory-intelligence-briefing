@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-12-b9e92e7f32
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Why Google’s New AI-Saturated Search Page Will Be A Disaster

@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-06-bb52d33421
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: cma-publishes-new-monitoring-update-on-road-fuel-market
-ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_id: cluster-2026-06-07-fd5f7851ff
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # CMA publishes new monitoring update on road fuel market

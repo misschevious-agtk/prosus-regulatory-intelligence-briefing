@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-11-c4cedf473b
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Even If Law Professors Are Self-Censoring, Let’s Not Rush To Any Conclusions About ‘Liberal Bias’

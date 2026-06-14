@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-09-2530e2d6fb
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ninth-circuit-judge-ryan-nelson-charged-with-battery-over-parking-lot-
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Ninth Circuit Judge Ryan Nelson Charged With Battery Over Parking Lot Rumble

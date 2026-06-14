@@ -18,10 +18,10 @@ entities:
   matched_alias: Court of Justice
 case_numbers: []
 cluster_id: cluster-2026-06-10-89a0090436
-cluster_size: 20
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: antitrust-collective-redress-in-spain-testing-the-system-through-the-a
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # A new dawn for collective actions in Germany? Federal Court of Justice in Germany sets new boundaries for bundled antitrust claims in Financialright

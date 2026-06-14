@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-06-e0a960978e
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: corporate-report-cma-diversity-and-inclusion-strategy-annual-plan-2025
-ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_id: cluster-2026-06-07-22317a3784
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Corporate report: CMA diversity and inclusion strategy Annual Plan 2025 to 2026

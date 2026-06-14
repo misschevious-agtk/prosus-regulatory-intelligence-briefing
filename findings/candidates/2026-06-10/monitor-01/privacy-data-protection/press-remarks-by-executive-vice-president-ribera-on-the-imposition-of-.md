@@ -25,7 +25,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-10-b47d63aeed
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Press remarks by Executive Vice-President Ribera on the imposition of interim measures on Meta to preserve free access to WhatsApp for rival AI

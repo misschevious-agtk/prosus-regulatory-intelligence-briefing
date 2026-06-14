@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-10-a98660bc52
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: sorry-associates-but-those-knicks-seats-were-always-going-to-clients
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Sorry, Associates, But Those Knicks Seats Were Always Going To Clients

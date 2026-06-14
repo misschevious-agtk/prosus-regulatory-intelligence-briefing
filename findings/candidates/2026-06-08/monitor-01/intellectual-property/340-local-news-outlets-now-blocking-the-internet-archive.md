@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-06-6dffee84d6
-cluster_size: 3
+cluster_id: cluster-2026-06-07-518133135b
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 340-local-news-outlets-now-blocking-the-internet-archive
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # 340 Local News Outlets Now Blocking The Internet Archive

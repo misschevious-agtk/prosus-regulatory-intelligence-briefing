@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-06-917ce4cf68
-cluster_size: 150
+cluster_id: cluster-2026-06-07-9e6225ba21
+cluster_size: 151
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # "The EU will not be complete without the Western Balkans”, von der Leyen says at the EU-Western Balkan Summit.

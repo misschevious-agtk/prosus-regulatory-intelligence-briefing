@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-06-b53f2c4393
+cluster_id: cluster-2026-06-07-f1ab6de7cf
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: boston-children-s-uses-ai-to-unlock-new-diagnoses
-ranked_at: '2026-06-13T09:59:59+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Boston Children’s uses AI to unlock new diagnoses

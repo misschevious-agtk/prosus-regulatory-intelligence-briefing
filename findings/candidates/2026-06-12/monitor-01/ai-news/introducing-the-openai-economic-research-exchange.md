@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-06-09-5f8af4f9e2
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: introducing-the-openai-economic-research-exchange
-ranked_at: '2026-06-13T09:59:59+00:00'
+ranked_at: '2026-06-14T10:28:04+00:00'
 ---
 
 # Introducing the OpenAI Economic Research Exchange

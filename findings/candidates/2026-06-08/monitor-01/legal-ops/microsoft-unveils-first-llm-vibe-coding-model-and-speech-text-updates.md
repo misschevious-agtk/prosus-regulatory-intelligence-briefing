@@ -25,11 +25,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-07-60671b6ded
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: microsoft-unveils-first-llm-vibe-coding-model-and-speech-text-updates
-ranked_at: '2026-06-14T10:28:04+00:00'
+cluster_id: cluster-2026-06-08-214b21375b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Microsoft unveils first LLM, vibe coding model, and speech/text updates

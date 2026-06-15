@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-07-37fd65af39
+cluster_id: cluster-2026-06-08-1c450ce67f
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: law-librarians-name-thomson-reuters-cocounsel-as-winner-of-2026-new-pr
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Law Librarians Name Thomson Reuters CoCounsel As Winner Of 2026 New Product Award

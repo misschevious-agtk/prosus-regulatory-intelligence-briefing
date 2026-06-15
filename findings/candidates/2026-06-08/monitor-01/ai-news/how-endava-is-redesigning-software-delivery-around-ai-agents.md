@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-07-6f2691714f
-cluster_size: 222
-cluster_role: sibling
-cluster_canonical_slug: how-endava-is-redesigning-software-delivery-around-ai-agents
-ranked_at: '2026-06-14T10:28:04+00:00'
+cluster_id: cluster-2026-06-08-4a4090d6f4
+cluster_size: 221
+cluster_role: canonical
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # How Endava is redesigning software delivery around AI agents

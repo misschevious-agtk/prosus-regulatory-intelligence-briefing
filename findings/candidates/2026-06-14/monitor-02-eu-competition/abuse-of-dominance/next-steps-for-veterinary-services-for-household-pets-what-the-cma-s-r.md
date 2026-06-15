@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-13-d198c64d13
-cluster_size: 6
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: next-steps-for-veterinary-services-for-household-pets-what-the-cma-s-r
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Next steps for veterinary services for household pets: what the CMA's remedies mean in practice

@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-11-05ae1a28ce
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-sure-can-get-sticky
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Legal Ethics Sure Can Get Sticky

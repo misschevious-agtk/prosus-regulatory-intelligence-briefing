@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-13-cc1101b556
-cluster_size: 50
+cluster_size: 58
 cluster_role: sibling
 cluster_canonical_slug: even-biglaw-is-celebrating-the-knicks-see-also
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Firm Matches Milbank’s New Salary Scale, Sealed With A Kiss…el

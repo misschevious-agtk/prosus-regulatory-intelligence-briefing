@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-07-9e6225ba21
-cluster_size: 151
+cluster_id: cluster-2026-06-08-22e3aad1a3
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-100-million-austrian-state-aid-scheme-to-support-c
-ranked_at: '2026-06-14T10:28:04+00:00'
+cluster_canonical_slug: commission-approves-23-billion-italian-state-aid-scheme-to-support-ren
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Commission approves €23 billion Italian State aid scheme to support renewable electricity production

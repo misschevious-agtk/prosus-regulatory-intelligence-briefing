@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-09-6c4f5737ea
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Daily Deal: Microsoft Office 2024 Home & Business for Mac or PC Lifetime License

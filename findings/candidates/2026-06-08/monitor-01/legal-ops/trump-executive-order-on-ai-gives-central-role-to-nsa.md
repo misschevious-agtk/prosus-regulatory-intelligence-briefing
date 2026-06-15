@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-07-38db18909d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-executive-order-on-ai-gives-central-role-to-nsa
-ranked_at: '2026-06-14T10:28:04+00:00'
+cluster_id: cluster-2026-06-08-11b50a06f4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Trump Executive Order On AI Gives Central Role To NSA

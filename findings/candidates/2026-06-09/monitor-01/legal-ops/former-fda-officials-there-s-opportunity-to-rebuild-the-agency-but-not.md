@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-07-a971d824ec
-cluster_size: 3
+cluster_id: cluster-2026-06-08-e6625aad49
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: former-fda-officials-there-s-opportunity-to-rebuild-the-agency-but-not
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Former FDA Officials: There’s Opportunity To Rebuild The Agency — But Not The Way It Was

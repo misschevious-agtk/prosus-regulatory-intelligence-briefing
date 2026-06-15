@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-07-a83c039134
-cluster_size: 11
+cluster_id: cluster-2026-06-08-059b28374e
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: harbor-acquires-ce-global-partners-to-bolster-hcm-offering
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Harbor acquires CE Global Partners to bolster HCM offering

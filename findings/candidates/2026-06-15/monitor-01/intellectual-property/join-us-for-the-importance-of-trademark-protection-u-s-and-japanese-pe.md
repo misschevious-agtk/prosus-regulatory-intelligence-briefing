@@ -1,0 +1,42 @@
+---
+date_found: 2026-06-15
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://www.uspto.gov/subscription-center/2026/join-us-importance-trademark-protection-us-and-japanese-perspectives
+source_publisher: USPTO news
+source_date: Fri, 06/12/2026 - 13:28
+source_method: rss
+title: 'Join us for ''The importance of trademark protection: U.S. and Japanese perspectives'''
+matched_keywords:
+- trademark
+- USPTO
+match_count: 2
+status: candidate
+entities:
+- name: United States Patent and Trademark Office
+  type: regulator
+  jurisdiction: US
+  matched_alias: USPTO
+case_numbers: []
+cluster_id: cluster-2026-06-14-e0cd0a04cc
+cluster_size: 7
+cluster_role: sibling
+cluster_canonical_slug: join-us-for-the-importance-of-trademark-protection-u-s-and-japanese-pe
+ranked_at: '2026-06-15T13:16:02+00:00'
+---
+
+# Join us for "The importance of trademark protection: U.S. and Japanese perspectives"
+
+**Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/join-us-importance-trademark-protection-us-and-japanese-perspectives)
+**Published:** Fri, 06/12/2026 - 13:28
+**Matched keywords (2):** trademark, USPTO
+
+## Summary excerpt
+
+[[VIEW_THIS]] USPTO Alert Register now! The importance of trademark protection: U.S. and Japanese perspectives Nearly 7,000 Japanese businesses operate in the United States, proving that...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

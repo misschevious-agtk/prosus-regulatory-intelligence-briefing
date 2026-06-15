@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-10-606395cf0f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-lawyers-keep-missing-easy-filing-deadlines-how-is-this-hard-for-
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Trump Lawyers Keep Missing Easy Filing Deadlines… How Is This Hard For Them?

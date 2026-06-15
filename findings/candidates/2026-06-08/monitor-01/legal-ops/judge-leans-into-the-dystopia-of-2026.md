@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-07-ac1efa98e6
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: judge-leans-into-the-dystopia-of-2026
-ranked_at: '2026-06-14T10:28:04+00:00'
+cluster_id: cluster-2026-06-08-f179d03654
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Judge Leans Into The Dystopia Of 2026

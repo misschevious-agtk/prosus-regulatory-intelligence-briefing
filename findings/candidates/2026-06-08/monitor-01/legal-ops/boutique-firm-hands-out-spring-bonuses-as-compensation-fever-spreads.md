@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-07-8f8d67fec1
-cluster_size: 22
+cluster_id: cluster-2026-06-08-e0c020a6d8
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: when-your-partners-are-making-9-million-matching-milbank-is-the-easy-p
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # Boutique Firm Hands Out Spring Bonuses As Compensation Fever Spreads

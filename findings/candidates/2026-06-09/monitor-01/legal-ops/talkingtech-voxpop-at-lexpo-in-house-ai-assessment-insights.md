@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-09-8e9986cbf6
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # TalkingTech VoxPop at Lexpo: In-house AI assessment insights

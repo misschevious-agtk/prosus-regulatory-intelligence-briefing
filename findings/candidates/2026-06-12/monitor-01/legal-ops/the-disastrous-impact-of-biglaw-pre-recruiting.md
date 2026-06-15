@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-12-4adb0d6f55
-cluster_size: 5
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-06-14T10:28:04+00:00'
+ranked_at: '2026-06-15T13:16:02+00:00'
 ---
 
 # The Disastrous Impact Of Biglaw Pre-Recruiting

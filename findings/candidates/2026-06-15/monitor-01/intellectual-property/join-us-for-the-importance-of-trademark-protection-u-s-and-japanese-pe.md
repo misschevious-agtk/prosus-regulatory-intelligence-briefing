@@ -19,10 +19,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-14-e0cd0a04cc
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: join-us-for-the-importance-of-trademark-protection-u-s-and-japanese-pe
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Join us for "The importance of trademark protection: U.S. and Japanese perspectives"

@@ -22,7 +22,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-13-0068eb9a30
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # USPTO waives the petition fee for the Streamlined Claim Set pilot program

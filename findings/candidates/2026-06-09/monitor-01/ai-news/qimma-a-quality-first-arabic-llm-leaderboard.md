@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-c4c67e67df
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: qimma-a-quality-first-arabic-llm-leaderboard
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_id: cluster-2026-06-09-a2e2d2f2c4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard

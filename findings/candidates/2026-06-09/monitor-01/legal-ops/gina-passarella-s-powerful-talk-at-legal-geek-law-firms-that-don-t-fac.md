@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-d516a1d20d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: gina-passarella-s-powerful-talk-at-legal-geek-law-firms-that-don-t-fac
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_id: cluster-2026-06-09-66b4e1e848
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Gina Passarella’s Powerful Talk At Legal Geek: Law Firms That Don’t Face Change May Soon Run Out Of Gas

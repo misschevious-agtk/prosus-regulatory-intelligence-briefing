@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-09-319c7ad1ad
 cluster_size: 4
 cluster_role: sibling
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 cluster_canonical_slug: commission-updates-eu-air-safety-list-air-express-algeria-added-air-ca
 ---
 

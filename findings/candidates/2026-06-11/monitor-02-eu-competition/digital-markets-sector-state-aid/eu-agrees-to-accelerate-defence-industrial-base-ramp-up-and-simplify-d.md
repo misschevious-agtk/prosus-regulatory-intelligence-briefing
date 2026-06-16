@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-11-36774a5321
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eu-agrees-to-accelerate-defence-industrial-base-ramp-up-and-simplify-d
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # EU agrees to accelerate defence industrial base ramp-up and simplify defence procurement

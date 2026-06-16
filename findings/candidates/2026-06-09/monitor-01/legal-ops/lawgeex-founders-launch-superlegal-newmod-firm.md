@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-9bf607e1fd
-cluster_size: 66
+cluster_id: cluster-2026-06-09-39e0afb855
+cluster_size: 61
 cluster_role: sibling
 cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # LawGeex Founders Launch Superlegal NewMod Firm

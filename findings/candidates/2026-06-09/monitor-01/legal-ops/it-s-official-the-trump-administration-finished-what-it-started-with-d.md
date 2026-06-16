@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: FTC
 case_numbers: []
-cluster_id: cluster-2026-06-08-e0c020a6d8
-cluster_size: 13
+cluster_id: cluster-2026-06-09-49ee69f1e7
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: when-your-partners-are-making-9-million-matching-milbank-is-the-easy-p
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_canonical_slug: associate-compensation-scorecard-the-2026-summer-of-salary-increases
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # It’s Official: The Trump Administration Finished What It Started With Diversity Lab

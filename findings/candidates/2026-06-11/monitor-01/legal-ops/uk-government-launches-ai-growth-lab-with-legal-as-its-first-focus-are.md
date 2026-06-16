@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-10-88034c5132
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: uk-government-launches-ai-growth-lab-with-legal-as-its-first-focus-are
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # UK Government launches AI Growth Lab with legal as its first focus area

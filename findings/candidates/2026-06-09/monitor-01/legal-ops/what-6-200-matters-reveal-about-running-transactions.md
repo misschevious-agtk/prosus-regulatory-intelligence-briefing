@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-2955862809
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: what-6-200-matters-reveal-about-running-transactions
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_id: cluster-2026-06-09-f7327f5f69
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # What 6,200 Matters Reveal About Running Transactions

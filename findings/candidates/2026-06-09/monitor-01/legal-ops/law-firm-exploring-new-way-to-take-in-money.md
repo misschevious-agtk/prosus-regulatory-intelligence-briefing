@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-1fd9f571c4
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: law-firm-exploring-new-way-to-take-in-money
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_id: cluster-2026-06-09-b1f9ca26f1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Law Firm Exploring New Way To Take In Money

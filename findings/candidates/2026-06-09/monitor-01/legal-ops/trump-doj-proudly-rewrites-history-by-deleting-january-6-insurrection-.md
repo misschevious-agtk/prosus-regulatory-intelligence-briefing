@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-08-740755f406
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-doj-proudly-rewrites-history-by-deleting-january-6-insurrection-
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_id: cluster-2026-06-09-15c91f466e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Trump DOJ Proudly Rewrites History By Deleting January 6 Insurrection Press Releases

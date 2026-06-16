@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-13-39c200a3b8
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: where-the-biglaw-hours-aren-t-that-bad
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Where The Biglaw Hours Aren’t That Bad

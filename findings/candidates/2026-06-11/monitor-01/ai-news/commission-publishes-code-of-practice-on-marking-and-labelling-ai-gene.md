@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-08-4a4090d6f4
-cluster_size: 221
+cluster_id: cluster-2026-06-09-08cca0df9f
+cluster_size: 237
 cluster_role: sibling
 cluster_canonical_slug: how-endava-is-redesigning-software-delivery-around-ai-agents
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Commission publishes Code of Practice on marking and labelling AI-generated content

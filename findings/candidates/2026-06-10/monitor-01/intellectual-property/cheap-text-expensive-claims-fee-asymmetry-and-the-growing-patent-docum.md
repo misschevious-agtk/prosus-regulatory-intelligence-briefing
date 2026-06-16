@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-02fb8cc904
-cluster_size: 11
+cluster_id: cluster-2026-06-09-7c208f7529
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: pay-to-cite-applicant-disclosures-drop-after-the-january-2025-ids-surc
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Cheap Text, Expensive Claims: Fee Asymmetry and the Growing Patent Document

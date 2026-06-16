@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-82cc63570e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-real-ai-moment-in-litigation-is-data-organization-not-generative-o
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_id: cluster-2026-06-09-fb12df54a8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # The Real ‘AI Moment’ In Litigation Is Data Organization, Not Generative Output

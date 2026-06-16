@@ -20,10 +20,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-13-e0668fae8d
-cluster_size: 9
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: uspto-issues-precedential-decision-detailing-the-principles-underlying
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # USPTO issues precedential decision detailing the principles underlying the Director’s exercise of discretion

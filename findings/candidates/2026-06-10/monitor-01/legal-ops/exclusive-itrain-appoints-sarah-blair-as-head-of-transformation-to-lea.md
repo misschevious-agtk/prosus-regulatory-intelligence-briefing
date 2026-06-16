@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-810b283132
-cluster_size: 3
+cluster_id: cluster-2026-06-09-3a75f35ccc
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: exclusive-itrain-appoints-sarah-blair-as-head-of-transformation-to-lea
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Exclusive: iTrain appoints Sarah Blair as head of transformation to lead AI services

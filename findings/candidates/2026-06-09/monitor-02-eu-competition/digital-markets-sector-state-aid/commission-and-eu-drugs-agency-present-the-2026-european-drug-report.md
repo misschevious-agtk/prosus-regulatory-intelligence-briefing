@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-09-0d9afd1e81
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: commission-and-eu-drugs-agency-present-the-2026-european-drug-report
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Commission and EU Drugs Agency present the 2026 European Drug Report

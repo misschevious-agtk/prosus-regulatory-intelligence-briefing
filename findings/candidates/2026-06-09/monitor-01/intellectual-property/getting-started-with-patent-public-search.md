@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-13-2ea914a344
-cluster_size: 139
+cluster_size: 131
 cluster_role: sibling
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 cluster_canonical_slug: standard-essential-patent-working-group-offers-support
 ---
 

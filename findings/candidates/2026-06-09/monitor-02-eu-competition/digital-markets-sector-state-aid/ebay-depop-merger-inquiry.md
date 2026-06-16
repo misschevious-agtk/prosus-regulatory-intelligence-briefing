@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-08-0b8c8f0caa
-cluster_size: 197
+cluster_id: cluster-2026-06-09-8ae8c41718
+cluster_size: 180
 cluster_role: sibling
-cluster_canonical_slug: the-chicken-or-egg-dilemma-the-general-court-partially-annuls-the-euro
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_canonical_slug: ebay-depop-merger-inquiry
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # eBay / Depop merger inquiry

@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-09-8e9986cbf6
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: talkingtech-voxpop-at-lexpo-in-house-ai-assessment-insights
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # TalkingTech VoxPop at Lexpo: In-house AI assessment insights

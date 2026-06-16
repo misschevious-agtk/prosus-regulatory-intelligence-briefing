@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-e5671a0256
-cluster_size: 4
+cluster_id: cluster-2026-06-09-3c218b9bf2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-latest-orange-rag-product-table-link-here
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # The Latest Orange Rag Product Table – Link here

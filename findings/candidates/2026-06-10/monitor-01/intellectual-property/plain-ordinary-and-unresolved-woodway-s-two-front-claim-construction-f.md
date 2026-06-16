@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-6e79661bee
-cluster_size: 7
+cluster_id: cluster-2026-06-09-33bc4d5f77
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: plain-ordinary-and-unresolved-woodway-s-two-front-claim-construction-f
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Plain, Ordinary, and Unresolved: Woodway’s Two-Front Claim Construction Fight

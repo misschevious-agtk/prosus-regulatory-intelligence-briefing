@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-b463ec6aaa
-cluster_size: 13
+cluster_id: cluster-2026-06-09-125f0056f9
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-1
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_canonical_slug: two-legal-research-providers-launch-mcp-integrations-with-claude-thoms
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Each Side Claims the Same Recent Ruling Supports Its Position in Thomson Reuters v. ROSS Appeal

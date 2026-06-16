@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-10-6df85e8ca1
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Meta Admits Its ‘AI’ Helped Hackers Compromise 20,000 Instagram Accounts

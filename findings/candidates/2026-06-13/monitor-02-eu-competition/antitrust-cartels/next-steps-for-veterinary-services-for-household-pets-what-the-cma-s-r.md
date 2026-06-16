@@ -18,9 +18,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-13-d198c64d13
-cluster_size: 9
+cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Next steps for veterinary services for household pets: what the CMA's remedies mean in practice

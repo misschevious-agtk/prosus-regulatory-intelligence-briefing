@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-5a64abcb4a
-cluster_size: 34
+cluster_id: cluster-2026-06-09-b3118103a2
+cluster_size: 35
 cluster_role: sibling
 cluster_canonical_slug: ai-in-the-patent-industry-the-risks-of-ai-shadow-use
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # California’s AB 412 Still Demands AI Developers Do The Impossible

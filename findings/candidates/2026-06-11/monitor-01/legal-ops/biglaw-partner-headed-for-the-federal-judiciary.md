@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-10-4b204b7c2d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-partner-headed-for-the-federal-judiciary
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Biglaw Partner Headed For The Federal Judiciary

@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-15-7469d0a110
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_id: cluster-2026-06-16-0b31071537
+cluster_size: 3
+cluster_role: sibling
+ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_canonical_slug: legal-ethics-roundup-judge-ross-apologizes-again-lawyer-chesebro-reins
 ---
 
 # Rough Week To Be A Federal Judge — See Generally

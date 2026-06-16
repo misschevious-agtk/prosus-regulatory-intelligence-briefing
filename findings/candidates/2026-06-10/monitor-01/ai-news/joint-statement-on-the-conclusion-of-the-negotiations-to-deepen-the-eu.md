@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-12-81da86d74f
-cluster_size: 148
+cluster_size: 151
 cluster_role: sibling
 cluster_canonical_slug: coordinated-supervision-committee-extends-scope-to-include-eurodac
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Joint Statement on the conclusion of the negotiations to deepen the EU-Eastern and Southern Africa Economic Partnership Agreement

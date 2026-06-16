@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-08-dedfcb7951
-cluster_size: 16
+cluster_id: cluster-2026-06-09-08cca0df9f
+cluster_size: 237
 cluster_role: sibling
-cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-06-15T13:16:02+00:00'
+cluster_canonical_slug: how-endava-is-redesigning-software-delivery-around-ai-agents
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

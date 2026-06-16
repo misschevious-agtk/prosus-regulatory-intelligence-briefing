@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-11-c4cedf473b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: even-if-law-professors-are-self-censoring-let-s-not-rush-to-any-conclu
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # Even If Law Professors Are Self-Censoring, Let’s Not Rush To Any Conclusions About ‘Liberal Bias’

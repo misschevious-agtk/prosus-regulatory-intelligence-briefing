@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-13-aaab9f1354
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-15T13:16:02+00:00'
+ranked_at: '2026-06-16T12:15:47+00:00'
 ---
 
 # The World Is Coming: ‘Airport Lawyers’ Is Back

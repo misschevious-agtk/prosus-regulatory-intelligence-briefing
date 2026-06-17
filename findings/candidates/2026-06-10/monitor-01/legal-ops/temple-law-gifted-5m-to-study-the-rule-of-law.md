@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-9245a0afd0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: temple-law-gifted-5m-to-study-the-rule-of-law
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_id: cluster-2026-06-10-995d78fa20
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Temple Law Gifted $5M To Study The Rule Of Law

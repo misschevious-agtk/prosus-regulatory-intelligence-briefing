@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-13-aaab9f1354
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-world-is-coming-airport-lawyers-is-back
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # The World Is Coming: ‘Airport Lawyers’ Is Back

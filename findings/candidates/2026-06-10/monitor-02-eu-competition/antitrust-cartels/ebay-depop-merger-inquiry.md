@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-09-8ae8c41718
-cluster_size: 180
-cluster_role: sibling
-cluster_canonical_slug: ebay-depop-merger-inquiry
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_id: cluster-2026-06-10-f451d0ed53
+cluster_size: 192
+cluster_role: canonical
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # eBay / Depop merger inquiry

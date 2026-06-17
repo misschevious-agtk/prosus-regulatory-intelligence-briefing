@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-11-b1c170d149
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # GRRRRREAT News As Firm Announces Above-Market Salaries AND Special Bonuses

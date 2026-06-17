@@ -22,10 +22,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-06-16-a924494e99
-cluster_size: 2
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: top-doj-official-wanted-a-cut-of-the-trump-slush-fund
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # DOJ Official Wanted His Cut Of The Slush Fund — See Also

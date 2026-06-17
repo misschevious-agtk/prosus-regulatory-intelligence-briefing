@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-12-3df08cb2b9
-cluster_size: 9
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Integreon appoints Iron Mountain executive Krishna Nacha as CEO

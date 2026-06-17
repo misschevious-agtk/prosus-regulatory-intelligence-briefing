@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-08cca0df9f
-cluster_size: 237
+cluster_id: cluster-2026-06-10-66018aa715
+cluster_size: 248
 cluster_role: sibling
 cluster_canonical_slug: how-endava-is-redesigning-software-delivery-around-ai-agents
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # How Braintrust turns customer requests into code with Codex

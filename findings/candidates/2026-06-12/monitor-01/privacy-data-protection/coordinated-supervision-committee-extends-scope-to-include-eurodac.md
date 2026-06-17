@@ -15,10 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-81da86d74f
-cluster_size: 151
-cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_id: cluster-2026-06-17-f035b07ba2
+cluster_size: 158
+cluster_role: sibling
+ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
 ---
 
 # Coordinated Supervision Committee extends scope to include Eurodac

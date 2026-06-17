@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-4eb5dd4850
+cluster_id: cluster-2026-06-10-c49406910e
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: dreaming-better-memory-for-a-more-helpful-chatgpt
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Dreaming: Better memory for a more helpful ChatGPT

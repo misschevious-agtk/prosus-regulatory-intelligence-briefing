@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-f78d8b51ff
+cluster_id: cluster-2026-06-10-19b903698f
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-allocates-over-3-million-to-small-businesses-advancing-ai-biotech
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # NIST Allocates Over $3 Million to Small Businesses Advancing AI, Biotechnology, Semiconductors, Quantum and More

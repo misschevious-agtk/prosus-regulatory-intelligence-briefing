@@ -21,10 +21,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-06-13-65acd9d069
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: anthropic-s-claude-fable-5-launch-what-matters-to-legal
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Anthropic’s Claude Fable 5 launch – What matters to legal

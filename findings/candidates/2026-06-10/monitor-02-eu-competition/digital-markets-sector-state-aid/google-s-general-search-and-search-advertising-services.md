@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-09-5c04ae7eeb
-cluster_size: 147
+cluster_id: cluster-2026-06-10-e7f79b1fe0
+cluster_size: 114
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Google's general search and search advertising services

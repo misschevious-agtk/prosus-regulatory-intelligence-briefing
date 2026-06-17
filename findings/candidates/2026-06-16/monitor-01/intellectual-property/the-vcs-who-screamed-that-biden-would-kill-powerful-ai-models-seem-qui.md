@@ -18,10 +18,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-06-16-0c6b753aa1
-cluster_size: 2
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: anthropic-s-claude-fable-5-withdrawal-highlights-geopolitical-risk-in-
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # The VCs Who Screamed That Biden Would Kill Powerful AI Models Seem Quite Chill About Trump Actually Doing It

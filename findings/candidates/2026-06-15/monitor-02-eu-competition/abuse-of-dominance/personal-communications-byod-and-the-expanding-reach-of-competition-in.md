@@ -23,11 +23,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-1119/23
-cluster_id: cluster-2026-06-09-462425d44d
-cluster_size: 38
+cluster_id: cluster-2026-06-10-cded8f69ff
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: the-chicken-or-egg-dilemma-the-general-court-partially-annuls-the-euro
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Personal Communications, BYOD and the Expanding Reach of Competition Investigations: the EU Court of Justice in case T-1119/23

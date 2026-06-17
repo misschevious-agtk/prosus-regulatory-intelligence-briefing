@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-10-0bb1aa389d
-cluster_size: 7
-cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_id: cluster-2026-06-10-66018aa715
+cluster_size: 248
+cluster_role: sibling
+ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_canonical_slug: how-endava-is-redesigning-software-delivery-around-ai-agents
 ---
 
 # How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces

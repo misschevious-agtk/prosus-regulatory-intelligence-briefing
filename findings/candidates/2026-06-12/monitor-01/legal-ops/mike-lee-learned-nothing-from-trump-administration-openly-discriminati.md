@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-12-4570ce0681
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Mike Lee Learned Nothing From Trump Administration Openly Discriminating Against Mormons

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-125f0056f9
-cluster_size: 8
+cluster_id: cluster-2026-06-10-d80bc32033
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: two-legal-research-providers-launch-mcp-integrations-with-claude-thoms
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_canonical_slug: netdocuments-unveils-legal-context-graph-to-map-legal-knowledge-alongs
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # NetDocuments Unveils Legal Context Graph to Map Legal Knowledge, Alongside A ‘Reimagined’ Platform

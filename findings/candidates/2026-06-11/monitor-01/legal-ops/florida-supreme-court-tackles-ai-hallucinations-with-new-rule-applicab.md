@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-6f1fd14687
+cluster_id: cluster-2026-06-10-1653cf4b31
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: florida-supreme-court-tackles-ai-hallucinations-with-new-rule-applicab
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Florida Supreme Court Tackles AI Hallucinations with New Rule Applicable to All State Courts

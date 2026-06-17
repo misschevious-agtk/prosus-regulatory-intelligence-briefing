@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-15-7587a362eb
-cluster_size: 2
+cluster_id: cluster-2026-06-17-3800fadefa
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: hooked-on-differences-design-patent-doctrine-and-schedule-a-litigation
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_canonical_slug: the-federal-circuit-s-expanding-grip-on-dismissed-patent-claims
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Hooked on Differences: Design Patent Doctrine and Schedule A Litigation at the Federal Circuit

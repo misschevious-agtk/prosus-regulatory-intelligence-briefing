@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-13-39c200a3b8
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: where-the-biglaw-hours-aren-t-that-bad
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Where The Biglaw Hours Aren’t That Bad

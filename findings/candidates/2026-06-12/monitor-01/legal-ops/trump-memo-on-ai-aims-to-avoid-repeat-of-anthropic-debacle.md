@@ -22,7 +22,7 @@ cluster_id: cluster-2026-06-11-c4c9138a4f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-memo-on-ai-aims-to-avoid-repeat-of-anthropic-debacle
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Trump Memo On AI Aims To Avoid Repeat Of Anthropic Debacle

@@ -25,10 +25,10 @@ entities:
   jurisdiction: US
   matched_alias: WhatsApp
 case_numbers: []
-cluster_id: cluster-2026-06-09-462425d44d
-cluster_size: 38
+cluster_id: cluster-2026-06-10-cded8f69ff
+cluster_size: 42
 cluster_role: sibling
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 cluster_canonical_slug: the-chicken-or-egg-dilemma-the-general-court-partially-annuls-the-euro
 ---
 

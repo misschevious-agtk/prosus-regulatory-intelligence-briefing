@@ -20,9 +20,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-13-e0668fae8d
-cluster_size: 12
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # USPTO issues precedential decision detailing the principles underlying the Director’s exercise of discretion

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-b3118103a2
-cluster_size: 35
+cluster_id: cluster-2026-06-10-1371f11aa1
+cluster_size: 32
 cluster_role: sibling
 cluster_canonical_slug: ai-in-the-patent-industry-the-risks-of-ai-shadow-use
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Legal Geek 2026: We Caught The Car, Now What Do We Do With It?

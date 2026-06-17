@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-16-0b31071537
-cluster_size: 3
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Legal Ethics Roundup: Judge Ross Apologizes Again, Lawyer Chesebro Reinstated In FL, 88 Deans Support Independence, Anti-Trump Protest Prosecutor Suspended, Recusal Over Family Members & More

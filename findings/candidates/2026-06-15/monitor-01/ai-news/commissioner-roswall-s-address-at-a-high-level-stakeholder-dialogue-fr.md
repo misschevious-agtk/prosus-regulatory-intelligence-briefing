@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-12-81da86d74f
-cluster_size: 151
+cluster_id: cluster-2026-06-17-f035b07ba2
+cluster_size: 158
 cluster_role: sibling
-cluster_canonical_slug: coordinated-supervision-committee-extends-scope-to-include-eurodac
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Commissioner Roswall's address at a High-Level Stakeholder Dialogue; 'From Strategy to Action: Accelerating Europe's Bioeconomy Revolution' as part of the New European Bauhaus Festival 2026

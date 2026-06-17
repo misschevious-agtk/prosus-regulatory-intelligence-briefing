@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-9ba7937ec1
+cluster_id: cluster-2026-06-10-9edb6a3914
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: imanage-touts-ai-momentum-and-a-context-fabric-as-it-unveils-platform-
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # iManage Touts AI Momentum and a ‘Context Fabric’ as It Unveils Platform Overhaul at ConnectLive 2026

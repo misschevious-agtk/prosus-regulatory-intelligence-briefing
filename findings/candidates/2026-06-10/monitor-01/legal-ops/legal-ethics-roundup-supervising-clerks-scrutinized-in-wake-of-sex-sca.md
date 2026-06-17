@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-09-f1352c51ec
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-supervising-clerks-scrutinized-in-wake-of-sex-sca
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_id: cluster-2026-06-10-63bb8a52d1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # Legal Ethics Roundup: Supervising Clerks Scrutinized In Wake Of Sex Scandal, High-Profile Discipline, Gifts For Judges, Lack Of Candor From DOJ, Lawyer Reprimanded For Faking Dementia & More

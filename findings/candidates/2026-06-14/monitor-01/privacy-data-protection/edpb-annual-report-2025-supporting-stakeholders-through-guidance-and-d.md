@@ -23,11 +23,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-06-09-5e37a8446c
+cluster_id: cluster-2026-06-10-b69b23ea2c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-d
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # EDPB annual report 2025: supporting stakeholders through guidance and dialogue

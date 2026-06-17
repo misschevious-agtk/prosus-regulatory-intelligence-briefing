@@ -18,9 +18,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-06-16-e4cbbf143e
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # As AI Search Eats Google, Connecting With Clients Through The Internet Requires New Approach

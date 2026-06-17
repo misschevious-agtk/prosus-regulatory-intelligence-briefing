@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-09-02e70d492e
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: trump-kennedy-center-gets-slapp-ed
-ranked_at: '2026-06-16T12:15:47+00:00'
+cluster_id: cluster-2026-06-10-28accdd256
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # ‘Trump’ Kennedy Center Gets SLAPP-ed

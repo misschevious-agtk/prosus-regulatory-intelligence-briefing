@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-16-95b1e20d13
-cluster_size: 7
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: abf-hovis-merger-inquiry
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # ABF / Hovis merger inquiry

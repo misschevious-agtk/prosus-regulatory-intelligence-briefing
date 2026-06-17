@@ -1,0 +1,37 @@
+---
+date_found: 2026-06-17
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/06/supreme-court-declines-to-review-pauline-newmans-suspension/
+source_publisher: Above the Law
+source_date: Mon, 15 Jun 2026 19:12:00 +0000
+source_method: rss
+title: Supreme Court Declines To Review Pauline Newman’s Suspension
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-06-16-3cb1d22797
+cluster_size: 2
+cluster_role: sibling
+cluster_canonical_slug: supreme-court-declines-to-review-pauline-newman-s-suspension
+ranked_at: '2026-06-17T11:50:15+00:00'
+---
+
+# Supreme Court Declines To Review Pauline Newman’s Suspension
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/06/supreme-court-declines-to-review-pauline-newmans-suspension/)
+**Published:** Mon, 15 Jun 2026 19:12:00 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+Rough. The post Supreme Court Declines To Review Pauline Newman&#8217;s Suspension appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

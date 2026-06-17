@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-13-d1cec99135
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-16T12:15:47+00:00'
+ranked_at: '2026-06-17T11:50:15+00:00'
 ---
 
 # “Culture doesn’t change in a town hall, it changes on a Tuesday”: Some key Lexpo takeaways

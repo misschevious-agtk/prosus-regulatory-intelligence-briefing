@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-10-3dbf34774b
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: claude-fable-steno-billables-ai-spellbook-legora
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_id: cluster-2026-06-11-8d5015e57c
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # Claude Fable, Steno, Billables AI, Spellbook, Legora

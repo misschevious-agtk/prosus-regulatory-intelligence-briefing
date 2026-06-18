@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-16-117b10de03
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-2026-uk-top-50-the-richest-biglaw-firms-across-the-pond
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # The 2026 UK Top 50: The Richest Biglaw Firms Across The Pond

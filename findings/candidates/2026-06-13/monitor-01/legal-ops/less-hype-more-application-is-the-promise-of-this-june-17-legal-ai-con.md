@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-10-99b5a16166
-cluster_size: 55
+cluster_id: cluster-2026-06-11-b897ce7cff
+cluster_size: 50
 cluster_role: sibling
 cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # ‘Less Hype, More Application’ Is the Promise of This June 17 Legal AI Conference, Live In L.A. Or Virtual

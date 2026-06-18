@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-06-10-090b15e13c
+cluster_id: cluster-2026-06-18-b5275cf2db
 cluster_size: 80
 cluster_role: sibling
-cluster_canonical_slug: newsletter-del-21-maggio-2026-data-breach-il-garante-privacy-sanziona-
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # NEWSLETTER del 10 settembre 2025 - Minori: il Garante privacy sanziona un asilo nido - IT-Wallet, sì del Garante privacy alla sperimentazione - Indagini patrimoniali, il Garante privacy dice sì a CEREBRO - Scuola: ok del Garante alle Linee guida del MIM per l’IA negli istituti scolastici

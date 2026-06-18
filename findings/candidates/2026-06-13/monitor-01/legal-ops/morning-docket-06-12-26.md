@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-10-5f5f04084c
-cluster_size: 9
+cluster_id: cluster-2026-06-11-6387041486
+cluster_size: 5
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-06-09-26
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_canonical_slug: morning-docket-06-10-26
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # Morning Docket: 06.12.26

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-12-af381603c5
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # Goals Are Not Magic, They Are Systems: Why Most Professionals Never Reach The Goals They Set

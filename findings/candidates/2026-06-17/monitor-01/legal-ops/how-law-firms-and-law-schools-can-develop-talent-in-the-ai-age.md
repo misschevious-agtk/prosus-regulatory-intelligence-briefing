@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-17-fced4d32d1
-cluster_size: 2
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # How Law Firms And Law Schools Can Develop Talent In The AI Age

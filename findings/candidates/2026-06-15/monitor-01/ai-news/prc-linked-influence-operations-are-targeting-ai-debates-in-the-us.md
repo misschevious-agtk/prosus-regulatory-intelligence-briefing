@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-10-66018aa715
-cluster_size: 248
+cluster_id: cluster-2026-06-17-9f7f3df8b5
+cluster_size: 250
 cluster_role: sibling
-cluster_canonical_slug: how-endava-is-redesigning-software-delivery-around-ai-agents
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_canonical_slug: morning-docket-06-16-26
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # PRC-linked influence operations are targeting AI debates in the US

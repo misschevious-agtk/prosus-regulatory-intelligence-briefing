@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-16-95b1e20d13
-cluster_size: 20
+cluster_id: cluster-2026-06-17-766212f0ad
+cluster_size: 69
 cluster_role: sibling
-cluster_canonical_slug: abf-hovis-merger-inquiry
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_canonical_slug: google-s-general-search-and-search-advertising-services
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # ABF / Hovis merger inquiry

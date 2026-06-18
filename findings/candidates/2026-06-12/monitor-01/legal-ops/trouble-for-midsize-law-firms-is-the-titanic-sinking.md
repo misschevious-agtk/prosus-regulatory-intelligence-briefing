@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-13-cc1101b556
-cluster_size: 58
+cluster_size: 52
 cluster_role: sibling
 cluster_canonical_slug: even-biglaw-is-celebrating-the-knicks-see-also
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # Trouble For Midsize Law Firms: Is The Titanic Sinking?

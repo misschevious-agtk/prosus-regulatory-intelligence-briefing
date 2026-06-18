@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-17-1893d3d1c3
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_id: cluster-2026-06-13-2ea914a344
+cluster_size: 152
+cluster_role: sibling
+ranked_at: '2026-06-18T11:12:28+00:00'
+cluster_canonical_slug: standard-essential-patent-working-group-offers-support
 ---
 
 # USPTO designates as informative a decision applying the Office’s memorandum on Additional Discretionary Institution Considerations

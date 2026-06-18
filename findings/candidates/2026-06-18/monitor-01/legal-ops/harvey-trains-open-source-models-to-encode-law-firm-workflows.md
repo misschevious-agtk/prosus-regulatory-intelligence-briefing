@@ -1,0 +1,37 @@
+---
+date_found: 2026-06-18
+monitor: monitor-01
+domain: legal-ops
+source_url: https://www.artificiallawyer.com/2026/06/18/harvey-trains-open-source-models-to-encode-law-firm-workflows/
+source_publisher: Artificial Lawyer
+source_date: Thu, 18 Jun 2026 06:50:35 +0000
+source_method: rss
+title: Harvey Trains Open Source Models To Encode Law Firm Workflows
+matched_keywords:
+- Harvey
+- Artificial Lawyer
+match_count: 2
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-06-18-6149c64f83
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-18T11:12:28+00:00'
+---
+
+# Harvey Trains Open Source Models To Encode Law Firm Workflows
+
+**Source:** [Artificial Lawyer](https://www.artificiallawyer.com/2026/06/18/harvey-trains-open-source-models-to-encode-law-firm-workflows/)
+**Published:** Thu, 18 Jun 2026 06:50:35 +0000
+**Matched keywords (2):** Harvey, Artificial Lawyer
+
+## Summary excerpt
+
+Harvey CEO, Winston Weinberg, has confirmed to Artificial Lawyer that they are now doing Proof of Concept studies with law firms to train open source ...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-10-aa2733d379
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: guest-post-client-data-shadow-ai-and-the-unmanaged-browser
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_id: cluster-2026-06-11-5021b82675
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # Guest post: Client data, shadow AI, and the unmanaged browser

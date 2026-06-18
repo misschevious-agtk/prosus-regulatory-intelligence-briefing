@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-13-48011e91db
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: a-pox-on-everyone-s-house-mississippi-court-disqualifies-all-4-attorne
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # A Pox On Everyone’s House: Mississippi Court Disqualifies All 4 Attorneys In Major Hallucination Scandal

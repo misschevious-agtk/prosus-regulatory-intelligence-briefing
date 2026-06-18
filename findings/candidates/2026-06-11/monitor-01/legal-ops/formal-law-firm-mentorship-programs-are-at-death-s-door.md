@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-11-de8539e2bf
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # Formal Law Firm Mentorship Programs Are At Death’s Door

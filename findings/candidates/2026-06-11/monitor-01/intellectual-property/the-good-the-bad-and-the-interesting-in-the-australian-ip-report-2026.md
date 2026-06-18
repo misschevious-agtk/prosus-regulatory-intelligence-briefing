@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-10-e7a5c22aa0
-cluster_size: 9
-cluster_role: sibling
-cluster_canonical_slug: the-good-the-bad-and-the-interesting-in-the-australian-ip-report-2026
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_id: cluster-2026-06-11-d557a7ebf8
+cluster_size: 10
+cluster_role: canonical
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # The good, the bad and the interesting in the Australian IP Report 2026

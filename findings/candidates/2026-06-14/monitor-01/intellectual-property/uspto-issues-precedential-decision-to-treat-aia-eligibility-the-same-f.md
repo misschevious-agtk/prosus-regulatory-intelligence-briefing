@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-13-e0668fae8d
-cluster_size: 15
+cluster_id: cluster-2026-06-13-2ea914a344
+cluster_size: 152
 cluster_role: sibling
-cluster_canonical_slug: uspto-issues-precedential-decision-detailing-the-principles-underlying
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_canonical_slug: standard-essential-patent-working-group-offers-support
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # USPTO issues precedential decision to treat AIA eligibility the same for both the United States government and foreign governments

@@ -19,10 +19,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-13-2ea914a344
-cluster_size: 123
+cluster_size: 152
 cluster_role: sibling
 cluster_canonical_slug: standard-essential-patent-working-group-offers-support
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # Electronic System for Trademarks Trials Appeals (ESTTA), Trademark Trial and Appeal Board Inquiry System (TTABVUE), and TTAB Center Maintenance

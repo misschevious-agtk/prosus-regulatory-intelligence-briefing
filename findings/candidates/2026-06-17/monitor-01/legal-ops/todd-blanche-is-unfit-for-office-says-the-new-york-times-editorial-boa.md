@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-a924494e99
-cluster_size: 7
+cluster_id: cluster-2026-06-17-9f7f3df8b5
+cluster_size: 250
 cluster_role: sibling
-cluster_canonical_slug: top-doj-official-wanted-a-cut-of-the-trump-slush-fund
-ranked_at: '2026-06-17T11:50:15+00:00'
+cluster_canonical_slug: morning-docket-06-16-26
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # ‘Todd Blanche Is Unfit For Office,’ Says The New York Times Editorial Board

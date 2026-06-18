@@ -21,9 +21,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-06-16-0c6b753aa1
-cluster_size: 5
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # Anthropic’s Claude Fable 5 withdrawal highlights geopolitical risk in legal AI supply chain

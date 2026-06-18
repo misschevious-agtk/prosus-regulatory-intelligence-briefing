@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-16-e4cbbf143e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: as-ai-search-eats-google-connecting-with-clients-through-the-internet-
-ranked_at: '2026-06-17T11:50:15+00:00'
+ranked_at: '2026-06-18T11:12:28+00:00'
 ---
 
 # As AI Search Eats Google, Connecting With Clients Through The Internet Requires New Approach

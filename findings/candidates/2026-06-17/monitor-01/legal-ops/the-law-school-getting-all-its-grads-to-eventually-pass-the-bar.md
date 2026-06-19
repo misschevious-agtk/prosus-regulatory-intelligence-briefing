@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-16-27a806e469
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-law-school-getting-all-its-grads-to-eventually-pass-the-bar
-ranked_at: '2026-06-18T11:12:28+00:00'
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # The Law School Getting All Its Grads To (Eventually) Pass The Bar

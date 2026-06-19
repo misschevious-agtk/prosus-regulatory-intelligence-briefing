@@ -21,10 +21,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-13-2ea914a344
-cluster_size: 152
+cluster_size: 160
 cluster_role: sibling
 cluster_canonical_slug: standard-essential-patent-working-group-offers-support
-ranked_at: '2026-06-18T11:12:28+00:00'
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # USPTO to no longer accept trademark documents filed by fax

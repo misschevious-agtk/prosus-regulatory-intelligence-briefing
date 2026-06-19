@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-13-c00a6a02f5
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-18T11:12:28+00:00'
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # Ariana Grande Tells White House They Can’t Be Friends

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-17-4b671cc3dc
-cluster_size: 4
+cluster_id: cluster-2026-06-17-f035b07ba2
+cluster_size: 170
 cluster_role: sibling
-cluster_canonical_slug: 2026-state-of-the-digital-decade-report-shows-progress-but-urges-closi
-ranked_at: '2026-06-18T11:12:28+00:00'
+cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # 2026 State of the Digital Decade report shows progress but urges closing structural gaps to reach 2030 goals

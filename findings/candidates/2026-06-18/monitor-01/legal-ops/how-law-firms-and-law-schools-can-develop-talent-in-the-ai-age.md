@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-17-fced4d32d1
-cluster_size: 6
+cluster_id: cluster-2026-06-18-6149c64f83
+cluster_size: 13
 cluster_role: sibling
-cluster_canonical_slug: how-law-firms-and-law-schools-can-develop-talent-in-the-ai-age
-ranked_at: '2026-06-18T11:12:28+00:00'
+cluster_canonical_slug: harvey-trains-open-source-models-to-encode-law-firm-workflows
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # How Law Firms And Law Schools Can Develop Talent In The AI Age

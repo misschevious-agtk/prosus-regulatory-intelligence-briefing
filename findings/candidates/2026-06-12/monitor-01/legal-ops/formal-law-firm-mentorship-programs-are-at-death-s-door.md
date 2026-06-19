@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-11-de8539e2bf
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: formal-law-firm-mentorship-programs-are-at-death-s-door
-ranked_at: '2026-06-18T11:12:28+00:00'
+cluster_id: cluster-2026-06-12-3324030d70
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # Formal Law Firm Mentorship Programs Are At Death’s Door

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-11-2492169ea5
-cluster_size: 26
-cluster_role: sibling
-cluster_canonical_slug: ai-in-the-patent-industry-the-risks-of-ai-shadow-use
-ranked_at: '2026-06-18T11:12:28+00:00'
+cluster_id: cluster-2026-06-12-2e4dd3bed4
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # AI in the patent industry: The risks of AI shadow use

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-17-78f7ed0286
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: jalubro-launches-j-10-governance-layer-helping-businesses-manage-multi
-ranked_at: '2026-06-18T11:12:28+00:00'
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # Jalubro launches J-10 governance layer, helping businesses manage multiple AI systems

@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-17-f035b07ba2
-cluster_size: 163
+cluster_size: 170
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
-ranked_at: '2026-06-18T11:12:28+00:00'
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # Speech by Executive Vice-President Teresa Ribera at the Foresight and Innovation International Award Ceremony 2026

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-13-d1cec99135
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: culture-doesn-t-change-in-a-town-hall-it-changes-on-a-tuesday-some-key
-ranked_at: '2026-06-18T11:12:28+00:00'
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # “Culture doesn’t change in a town hall, it changes on a Tuesday”: Some key Lexpo takeaways

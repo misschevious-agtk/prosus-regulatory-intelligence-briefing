@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-13-0f32097d82
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: ice-wants-to-hand-out-its-unproven-facial-recognition-tech-to-thousand
-ranked_at: '2026-06-18T11:12:28+00:00'
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # ICE Wants To Hand Out Its Unproven Facial Recognition Tech To Thousands Of Cops

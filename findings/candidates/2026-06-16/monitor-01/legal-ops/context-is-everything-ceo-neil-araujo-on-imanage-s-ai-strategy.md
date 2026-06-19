@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-11-b897ce7cff
-cluster_size: 50
+cluster_id: cluster-2026-06-12-a80cbe0b2d
+cluster_size: 46
 cluster_role: sibling
 cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-18T11:12:28+00:00'
+ranked_at: '2026-06-19T11:24:29+00:00'
 ---
 
 # Context Is Everything: CEO Neil Araujo on iManage’s AI Strategy

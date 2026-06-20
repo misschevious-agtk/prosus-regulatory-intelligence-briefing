@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-18-6149c64f83
-cluster_size: 13
-cluster_role: canonical
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_id: cluster-2026-06-20-4992d7659e
+cluster_size: 19
+cluster_role: sibling
+ranked_at: '2026-06-20T10:12:28+00:00'
+cluster_canonical_slug: webinar-replay-how-to-make-ai-actually-work-for-contract-review
 ---
 
 # Harvey Trains Open Source Models To Encode Law Firm Workflows

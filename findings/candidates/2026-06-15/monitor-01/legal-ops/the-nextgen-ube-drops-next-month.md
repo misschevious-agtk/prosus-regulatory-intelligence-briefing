@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-c6d895622d
-cluster_size: 4
+cluster_id: cluster-2026-06-13-24d15cf63d
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-nextgen-ube-drops-next-month
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # The NextGen UBE Drops Next Month

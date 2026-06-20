@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-12-481a93bae4
+cluster_id: cluster-2026-06-13-23d70b57ab
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: introducing-the-openai-economic-research-exchange
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Introducing the OpenAI Economic Research Exchange

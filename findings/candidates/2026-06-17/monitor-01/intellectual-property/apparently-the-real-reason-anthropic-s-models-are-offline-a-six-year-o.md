@@ -18,10 +18,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-06-16-0c6b753aa1
-cluster_size: 8
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: anthropic-s-claude-fable-5-withdrawal-highlights-geopolitical-risk-in-
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Apparently The Real Reason Anthropic’s Models Are Offline: A Six-Year-Old Trump Grudge

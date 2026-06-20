@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-0c2dd63620
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: it-s-still-a-good-time-to-be-a-lawyer-so-far
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_id: cluster-2026-06-13-acab9e6b74
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # It’s Still A Good Time To Be A Lawyer. So Far.

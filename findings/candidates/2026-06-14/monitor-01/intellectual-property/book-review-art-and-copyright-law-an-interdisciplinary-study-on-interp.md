@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-c4316605fa
-cluster_size: 5
+cluster_id: cluster-2026-06-13-36003c6bda
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: book-review-art-and-copyright-law-an-interdisciplinary-study-on-interp
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # [Book Review] Art and Copyright Law: An Interdisciplinary Study on Interpictoriality

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-17-81069c5603
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 50-cent-files-lawsuits-for-fun-spending-24-million-on-legal-fees-in-th
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # 50 Cent Files Lawsuits For Fun, Spending $24 Million On Legal Fees In The Process

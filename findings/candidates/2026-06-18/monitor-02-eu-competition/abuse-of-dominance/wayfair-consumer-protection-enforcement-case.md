@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-17-766212f0ad
-cluster_size: 117
+cluster_size: 165
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-and-search-advertising-services
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Wayfair: consumer protection enforcement case

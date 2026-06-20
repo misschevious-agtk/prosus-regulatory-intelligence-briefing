@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-9ee71edc53
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: wine-railway-and-the-patent-marking-statute-is-a-covenant-not-to-sue-a
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_id: cluster-2026-06-13-c7393f7351
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Wine Railway and the Patent Marking Statute: Is a Covenant Not to Sue a Patent License?

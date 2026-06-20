@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-16-6a14482eab
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: amgen-turns-to-an-independent-review-to-defend-rare-disease-drug-in-fd
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Amgen Turns To An Independent Review To Defend Rare Disease Drug In FDA Crosshairs

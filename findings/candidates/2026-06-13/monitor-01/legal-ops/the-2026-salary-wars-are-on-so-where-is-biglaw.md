@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-d937aa78cc
-cluster_size: 19
-cluster_role: sibling
-cluster_canonical_slug: salary-match-mania-continues-at-elite-litigation-boutique
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_id: cluster-2026-06-13-8d78b11be9
+cluster_size: 10
+cluster_role: canonical
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # The 2026 Salary Wars Are On… So Where Is Biglaw?

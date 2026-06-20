@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-5bb3184568
-cluster_size: 12
+cluster_id: cluster-2026-06-13-289d208ae9
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: clio-acquires-jurisage-to-accelerate-canadian-legal-ai-innovation
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Clio Acquires Jurisage, Paving the Way for Canadian Launch of Clio Work and Other Canadian AI Tools

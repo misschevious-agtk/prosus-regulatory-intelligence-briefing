@@ -33,11 +33,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-06-12-87f60d4468
+cluster_id: cluster-2026-06-13-586550bc91
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: edpb-and-edps-support-strengthening-eu-s-cybersecurity-and-easing-comp
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data

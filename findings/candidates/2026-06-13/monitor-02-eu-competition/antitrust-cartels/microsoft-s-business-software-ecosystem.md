@@ -19,11 +19,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-12-519d3c1da8
-cluster_size: 18
-cluster_role: sibling
-cluster_canonical_slug: microsoft-s-business-software-ecosystem
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_id: cluster-2026-06-13-1d971c025a
+cluster_size: 15
+cluster_role: canonical
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Microsoft’s business software ecosystem

@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-a20e9f2f7f
-cluster_size: 8
+cluster_id: cluster-2026-06-13-5fce8cd204
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: integrity-versus-repose-when-claim-preclusion-bars-fraud-on-the-court
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Integrity Versus Repose: When Claim Preclusion Bars Fraud on the Court

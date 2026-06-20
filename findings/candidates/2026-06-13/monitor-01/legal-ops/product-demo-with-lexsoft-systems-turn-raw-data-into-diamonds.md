@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-e41a4e5286
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: product-demo-with-lexsoft-systems-turn-raw-data-into-diamonds
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_id: cluster-2026-06-13-527da1e6b1
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Product demo with Lexsoft Systems: “Turn raw data into diamonds”

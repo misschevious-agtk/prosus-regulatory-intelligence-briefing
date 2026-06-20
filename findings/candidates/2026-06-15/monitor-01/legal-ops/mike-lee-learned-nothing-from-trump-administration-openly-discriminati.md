@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-12-4570ce0681
-cluster_size: 4
+cluster_id: cluster-2026-06-13-8142cba360
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: mike-lee-learned-nothing-from-trump-administration-openly-discriminati
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Mike Lee Learned Nothing From Trump Administration Openly Discriminating Against Mormons

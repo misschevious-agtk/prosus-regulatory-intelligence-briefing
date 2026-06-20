@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-13-bc38ff4104
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # SOAR presents: Learn the three-step approach to filing a patent application without an attorney

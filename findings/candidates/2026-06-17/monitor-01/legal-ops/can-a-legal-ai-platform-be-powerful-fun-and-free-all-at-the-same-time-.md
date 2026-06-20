@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-a80cbe0b2d
-cluster_size: 46
+cluster_id: cluster-2026-06-13-a2fcd2408e
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Can a Legal AI Platform Be Powerful, Fun and Free All at the Same Time? Lavern Surely Thinks So.

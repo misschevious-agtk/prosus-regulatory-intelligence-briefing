@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-17-fa7c4247c4
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-cocounsel-deepjudge-integration-al-interview
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # The CoCounsel + DeepJudge Integration – AL Interview

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-13-812e06522a
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Famous but not distinctive: ANIMAL FARM and 1984 failed as trade marks because they were successful as books

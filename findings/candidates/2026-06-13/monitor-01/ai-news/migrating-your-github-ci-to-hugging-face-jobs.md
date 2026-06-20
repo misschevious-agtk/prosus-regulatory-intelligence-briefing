@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: GitHub
 case_numbers: []
-cluster_id: cluster-2026-06-12-2d48dbe0ea
+cluster_id: cluster-2026-06-13-9b7ee6059e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: migrating-your-github-ci-to-hugging-face-jobs
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Migrating Your GitHub CI to Hugging Face Jobs

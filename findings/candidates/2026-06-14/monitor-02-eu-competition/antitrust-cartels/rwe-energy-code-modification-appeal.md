@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-12-abebb9ad11
-cluster_size: 18
+cluster_id: cluster-2026-06-13-33425475a5
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: rwe-energy-code-modification-appeal
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # RWE energy code modification appeal

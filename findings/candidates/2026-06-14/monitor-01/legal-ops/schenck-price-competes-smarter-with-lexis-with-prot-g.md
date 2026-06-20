@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-bf4bef4cc5
-cluster_size: 3
+cluster_id: cluster-2026-06-13-8b24dc7971
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: schenck-price-competes-smarter-with-lexis-with-prot-g
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Schenck Price Competes Smarter With Lexis+ With Protégé

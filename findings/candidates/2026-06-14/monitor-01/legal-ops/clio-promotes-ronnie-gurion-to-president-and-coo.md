@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-12-80d643b3eb
-cluster_size: 25
+cluster_id: cluster-2026-06-13-02b7409114
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: casepoint-names-govtech-veteran-paul-colangelo-ceo-as-thoma-bravo-back
-ranked_at: '2026-06-19T11:24:29+00:00'
+cluster_canonical_slug: clio-promotes-ronnie-gurion-to-president-and-coo
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # Clio Promotes Ronnie Gurion to President and COO

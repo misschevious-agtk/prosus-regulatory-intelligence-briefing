@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-17-d699a75408
-cluster_size: 5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: merger-control-in-argentina-from-the-impossibility-of-unscrambling-the
-ranked_at: '2026-06-19T11:24:29+00:00'
+ranked_at: '2026-06-20T10:12:28+00:00'
 ---
 
 # When the EMFA Meets the EUMR: A Coordination Problem in Search of a Fix

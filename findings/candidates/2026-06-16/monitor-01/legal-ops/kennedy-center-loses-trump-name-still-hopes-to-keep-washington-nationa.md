@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-d62336abed
-cluster_size: 4
+cluster_id: cluster-2026-06-14-9d19265dfd
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: kennedy-center-loses-trump-name-still-hopes-to-keep-washington-nationa
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Kennedy Center Loses Trump Name, Still Hopes To Keep Washington National Opera’s Endowment

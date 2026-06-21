@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-13-2ea914a344
+cluster_id: cluster-2026-06-14-77482aa87c
 cluster_size: 156
 cluster_role: sibling
 cluster_canonical_slug: standard-essential-patent-working-group-offers-support
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Join us for "The importance of trademark protection: U.S. and Japanese perspectives"

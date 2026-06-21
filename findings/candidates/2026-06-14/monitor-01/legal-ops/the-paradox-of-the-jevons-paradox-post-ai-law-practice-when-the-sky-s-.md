@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-9b955b308a
-cluster_size: 7
+cluster_id: cluster-2026-06-14-ebcaaa592d
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-florida-supreme-court-just-sent-lawyers-a-message-about-ai
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # The Paradox Of The Jevons Paradox:  Post AI Law Practice When The Sky’s The Limit

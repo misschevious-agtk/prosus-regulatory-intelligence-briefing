@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-cc1101b556
-cluster_size: 15
-cluster_role: sibling
-cluster_canonical_slug: even-biglaw-is-celebrating-the-knicks-see-also
-ranked_at: '2026-06-20T10:12:28+00:00'
+cluster_id: cluster-2026-06-14-320c2f8f2f
+cluster_size: 11
+cluster_role: canonical
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Even Biglaw Is Celebrating The Knicks! — See Also

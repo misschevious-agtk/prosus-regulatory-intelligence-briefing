@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-5d85eea6fc
+cluster_id: cluster-2026-06-14-92cc981f35
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: in-quantum-sensing-what-beats-beating-noise-meeting-noise-halfway
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # In Quantum Sensing, What Beats Beating Noise? Meeting Noise Halfway.

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-17-054f0c64ce
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Summize Buys Part Of InnoLaw Group

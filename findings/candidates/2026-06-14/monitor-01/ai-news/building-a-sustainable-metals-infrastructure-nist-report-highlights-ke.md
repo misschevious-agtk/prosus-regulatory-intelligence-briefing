@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-d6995164b9
+cluster_id: cluster-2026-06-14-97c48c7dd6
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: building-a-sustainable-metals-infrastructure-nist-report-highlights-ke
-ranked_at: '2026-06-20T10:12:28+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Building a Sustainable Metals Infrastructure: NIST Report Highlights Key Strategies

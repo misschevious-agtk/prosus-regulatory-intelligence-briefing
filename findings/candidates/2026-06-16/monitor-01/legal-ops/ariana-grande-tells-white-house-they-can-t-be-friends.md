@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-c00a6a02f5
-cluster_size: 4
+cluster_id: cluster-2026-06-14-f204f3aa4c
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ariana-grande-tells-white-house-they-can-t-be-friends
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Ariana Grande Tells White House They Can’t Be Friends

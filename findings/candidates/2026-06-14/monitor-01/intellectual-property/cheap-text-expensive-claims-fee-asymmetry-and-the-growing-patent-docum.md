@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-05f8437e2b
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: cheap-text-expensive-claims-fee-asymmetry-and-the-growing-patent-docum
-ranked_at: '2026-06-20T10:12:28+00:00'
+cluster_id: cluster-2026-06-14-4d3b981e29
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Cheap Text, Expensive Claims: Fee Asymmetry and the Growing Patent Document

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-f5215a8d9c
-cluster_size: 4
+cluster_id: cluster-2026-06-14-f0645262d6
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: startup-corner-qel-putting-a-claim-firewall-around-ai-generated-work
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Startup Corner: QEL – Putting a ‘claim firewall’ around AI-generated work

@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-15-4e8ce24dc7
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Autologyx extends its governance platform to support agentic work

@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-13-9529b9fa16
-cluster_size: 36
+cluster_id: cluster-2026-06-14-396843fcbc
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: ia-g-n-rative-et-vie-priv-e-une-affiche-coproduite-par-la-pipc-et-la-c
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Recherche en santé : la CNIL met à jour et élargit le champ des méthodologies de référence 001 et 003

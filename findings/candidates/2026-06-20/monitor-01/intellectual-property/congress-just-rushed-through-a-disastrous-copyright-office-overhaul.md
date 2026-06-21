@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-19-9a91b88093
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: congress-just-rushed-through-a-disastrous-copyright-office-overhaul
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Congress Just Rushed Through A Disastrous Copyright Office Overhaul

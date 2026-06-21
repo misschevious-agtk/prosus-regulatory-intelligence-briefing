@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-17-f035b07ba2
 cluster_size: 166
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # ‘Europe for Culture, Culture for Europe': European institutions commit to placing culture at the heart of EU policy

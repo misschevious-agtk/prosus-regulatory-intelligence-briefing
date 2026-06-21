@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-f23e1f49bf
+cluster_id: cluster-2026-06-14-b9f660b826
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: europe-day-2026-let-s-celebrate-together
-ranked_at: '2026-06-20T10:12:28+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Europe Day 2026: let’s celebrate together

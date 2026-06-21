@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-4b3490920c
+cluster_id: cluster-2026-06-14-8f536ae0f4
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: adding-mcp-tools-to-reachy-mini
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Adding MCP Tools to Reachy Mini

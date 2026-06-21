@@ -23,9 +23,9 @@ entities:
   matched_alias: UPC
 case_numbers: []
 cluster_id: cluster-2026-06-14-07f776e71c
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Saturday Sundries

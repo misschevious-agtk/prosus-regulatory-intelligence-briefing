@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-18-52581282b6
-cluster_size: 13
+cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Silicon Valley’s Go-To IP Boutique Matches The Milbank Scale

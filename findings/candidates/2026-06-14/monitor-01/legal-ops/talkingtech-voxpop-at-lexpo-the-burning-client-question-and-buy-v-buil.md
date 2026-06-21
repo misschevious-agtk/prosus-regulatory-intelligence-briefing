@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-49b0a02fad
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: talkingtech-voxpop-at-lexpo-the-burning-client-question-and-buy-v-buil
-ranked_at: '2026-06-20T10:12:28+00:00'
+cluster_id: cluster-2026-06-14-df7793a6a1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # TalkingTech VoxPop at Lexpo: The burning client question and buy v build

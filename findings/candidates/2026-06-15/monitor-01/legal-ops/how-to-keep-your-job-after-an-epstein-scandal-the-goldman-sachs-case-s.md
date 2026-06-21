@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-13-bca3a3bedc
-cluster_size: 3
+cluster_id: cluster-2026-06-14-d485539b7f
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: how-to-keep-your-job-after-an-epstein-scandal-the-goldman-sachs-case-s
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # How To Keep Your Job After An Epstein Scandal: The Goldman Sachs Case Study

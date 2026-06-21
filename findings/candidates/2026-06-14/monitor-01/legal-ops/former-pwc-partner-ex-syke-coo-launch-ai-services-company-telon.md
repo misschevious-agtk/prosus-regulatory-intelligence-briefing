@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-13-a156cd4374
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: former-pwc-partner-ex-syke-coo-launch-ai-services-company-telon
-ranked_at: '2026-06-20T10:12:28+00:00'
+cluster_id: cluster-2026-06-14-a1932b16ae
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # Former PwC partner & ex SYKE COO launch AI services company Telon

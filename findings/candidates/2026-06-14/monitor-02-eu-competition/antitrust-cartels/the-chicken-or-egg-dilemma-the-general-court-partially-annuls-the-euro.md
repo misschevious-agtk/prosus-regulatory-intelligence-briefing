@@ -23,11 +23,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-1078/23
-cluster_id: cluster-2026-06-13-db88f515cb
-cluster_size: 42
+cluster_id: cluster-2026-06-14-f489cc6a72
+cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: personal-communications-byod-and-the-expanding-reach-of-competition-in
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # The Chicken or Egg Dilemma: The General Court Partially Annuls the European Commission’s DMA Designation Decision Against Meta (Case T-1078/23)

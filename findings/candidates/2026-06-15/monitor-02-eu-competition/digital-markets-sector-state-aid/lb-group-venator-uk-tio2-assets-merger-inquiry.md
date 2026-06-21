@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-13-fac48d7ae0
-cluster_size: 36
+cluster_id: cluster-2026-06-14-8535a373a1
+cluster_size: 27
 cluster_role: sibling
 cluster_canonical_slug: healthcare-ireland-hutchinson-homes-merger-inquiry
-ranked_at: '2026-06-20T10:12:28+00:00'
+ranked_at: '2026-06-21T10:32:35+00:00'
 ---
 
 # LB Group / Venator UK (TiO2 assets) merger inquiry

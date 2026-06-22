@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-15-1bd826be5f
-cluster_size: 14
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Relativity expands into the drafting workflow with Gavel acquistion

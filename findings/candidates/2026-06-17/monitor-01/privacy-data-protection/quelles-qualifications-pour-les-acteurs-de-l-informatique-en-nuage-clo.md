@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-14-396843fcbc
-cluster_size: 33
+cluster_id: cluster-2026-06-15-535ed9c751
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: ia-g-n-rative-et-vie-priv-e-une-affiche-coproduite-par-la-pipc-et-la-c
-ranked_at: '2026-06-21T10:32:35+00:00'
+cluster_canonical_slug: quelles-qualifications-pour-les-acteurs-de-l-informatique-en-nuage-clo
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Quelles qualifications pour les acteurs de l’informatique en nuage (cloud) ?

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-16-cda598038e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: why-you-re-a-hypocrite
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Why You’re A Hypocrite

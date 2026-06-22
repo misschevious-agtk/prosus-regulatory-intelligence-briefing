@@ -23,10 +23,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-06-18-5b710cfb82
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: perplexity-gets-serious-about-legal
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Perplexity Gets Serious About Legal

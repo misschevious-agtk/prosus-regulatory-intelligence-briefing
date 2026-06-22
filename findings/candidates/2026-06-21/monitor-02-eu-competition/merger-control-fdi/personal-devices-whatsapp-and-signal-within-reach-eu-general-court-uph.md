@@ -25,11 +25,11 @@ entities:
   jurisdiction: US
   matched_alias: WhatsApp
 case_numbers: []
-cluster_id: cluster-2026-06-14-f489cc6a72
-cluster_size: 40
+cluster_id: cluster-2026-06-15-0bd6ae4852
+cluster_size: 38
 cluster_role: sibling
 cluster_canonical_slug: personal-communications-byod-and-the-expanding-reach-of-competition-in
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Personal Devices, WhatsApp and Signal Within Reach: EU General Court Upholds Broad Information-Gathering Powers in Merger Enforcement

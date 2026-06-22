@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-17-d699a75408
-cluster_size: 9
+cluster_id: cluster-2026-06-15-87908852dc
+cluster_size: 21
 cluster_role: sibling
-cluster_canonical_slug: merger-control-in-argentina-from-the-impossibility-of-unscrambling-the
-ranked_at: '2026-06-21T10:32:35+00:00'
+cluster_canonical_slug: antitrust-collective-redress-in-spain-testing-the-system-through-the-a
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # When the EMFA Meets the EUMR: A Coordination Problem in Search of a Fix

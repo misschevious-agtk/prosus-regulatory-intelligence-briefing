@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-16-d7af3d6a6d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: at-the-kennedy-center-it-s-curtains-for-trump
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # At The Kennedy Center, It’s Curtains For Trump

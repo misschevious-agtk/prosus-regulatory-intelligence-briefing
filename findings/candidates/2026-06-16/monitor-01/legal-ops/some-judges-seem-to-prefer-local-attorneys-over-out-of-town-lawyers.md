@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-14-0754c56fa3
-cluster_size: 3
+cluster_id: cluster-2026-06-15-c4a0bbbbe7
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: some-judges-seem-to-prefer-local-attorneys-over-out-of-town-lawyers
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Some Judges Seem To Prefer Local Attorneys Over Out-Of-Town Lawyers

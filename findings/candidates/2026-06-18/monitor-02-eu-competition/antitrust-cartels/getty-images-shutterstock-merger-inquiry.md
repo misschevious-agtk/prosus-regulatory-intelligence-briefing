@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-17-766212f0ad
-cluster_size: 213
+cluster_size: 261
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-and-search-advertising-services
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Getty Images / Shutterstock merger inquiry

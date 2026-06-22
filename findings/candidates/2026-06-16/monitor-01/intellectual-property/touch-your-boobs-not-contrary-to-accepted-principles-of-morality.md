@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: EUIPO
 case_numbers: []
-cluster_id: cluster-2026-06-14-7e4cdd08f7
-cluster_size: 11
+cluster_id: cluster-2026-06-15-e0ef5dc479
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: mickey-is-free-it-may-not-be-as-free-though
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # 'Touch your boobs' not contrary to accepted principles of morality

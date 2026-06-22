@@ -21,11 +21,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-14-77482aa87c
+cluster_id: cluster-2026-06-15-96d074f031
 cluster_size: 156
-cluster_role: sibling
-cluster_canonical_slug: standard-essential-patent-working-group-offers-support
-ranked_at: '2026-06-21T10:32:35+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Standard-Essential Patent Working Group offers support

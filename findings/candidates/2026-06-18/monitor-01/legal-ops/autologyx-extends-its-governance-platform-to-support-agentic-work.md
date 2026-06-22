@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-15-4e8ce24dc7
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: autologyx-extends-its-governance-platform-to-support-agentic-work
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Autologyx extends its governance platform to support agentic work

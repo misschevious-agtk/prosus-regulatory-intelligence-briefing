@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-14-8c2d550f9c
-cluster_size: 3
+cluster_id: cluster-2026-06-15-95a286edb7
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: how-to-build-authority-through-guest-posting-and-digital-pr
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # How To Build Authority Through Guest Posting And Digital PR

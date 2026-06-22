@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-17-9f7f3df8b5
-cluster_size: 280
+cluster_size: 289
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-06-16-26
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Harness, Scaffold, and the AI Agent Terms Worth Getting Right

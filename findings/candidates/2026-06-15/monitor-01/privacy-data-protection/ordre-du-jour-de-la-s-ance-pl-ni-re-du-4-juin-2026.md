@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-06-14-6e6a73d690
+cluster_id: cluster-2026-06-15-7046aef41e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: ordre-du-jour-de-la-s-ance-pl-ni-re-du-4-juin-2026
-ranked_at: '2026-06-21T10:32:35+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 4 juin 2026

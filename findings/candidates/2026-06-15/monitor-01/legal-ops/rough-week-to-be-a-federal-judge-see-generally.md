@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-16-0b31071537
 cluster_size: 5
 cluster_role: sibling
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 cluster_canonical_slug: legal-ethics-roundup-judge-ross-apologizes-again-lawyer-chesebro-reins
 ---
 

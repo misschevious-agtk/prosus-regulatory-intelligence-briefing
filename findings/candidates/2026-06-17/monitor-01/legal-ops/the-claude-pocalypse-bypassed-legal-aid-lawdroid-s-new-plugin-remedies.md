@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-14-94d03fc0dd
-cluster_size: 28
+cluster_id: cluster-2026-06-15-26dfa250dd
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: the-claude-pocalypse-bypassed-legal-aid-lawdroid-s-new-plugin-remedies
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # The Claude-pocalypse Bypassed Legal Aid; LawDroid’s New Plugin Remedies That, with 15 Targeted Skills

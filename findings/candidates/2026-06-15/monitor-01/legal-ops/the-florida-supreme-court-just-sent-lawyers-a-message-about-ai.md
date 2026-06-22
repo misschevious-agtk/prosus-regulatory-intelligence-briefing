@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-14-ebcaaa592d
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: the-florida-supreme-court-just-sent-lawyers-a-message-about-ai
-ranked_at: '2026-06-21T10:32:35+00:00'
+cluster_id: cluster-2026-06-15-bb772469c2
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # The Florida Supreme Court Just Sent Lawyers A Message About AI

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-14-320c2f8f2f
-cluster_size: 11
+cluster_id: cluster-2026-06-15-a4f3ba73d4
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: even-biglaw-is-celebrating-the-knicks-see-also
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Boutique Firm Matches The Susman Scale — See Also

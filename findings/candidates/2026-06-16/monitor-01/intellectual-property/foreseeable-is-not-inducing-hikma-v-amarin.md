@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-14-7f5671a4a8
-cluster_size: 4
+cluster_id: cluster-2026-06-15-d25b04f945
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: foreseeable-is-not-inducing-hikma-v-amarin
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # Foreseeable Is Not Inducing: Hikma v. Amarin

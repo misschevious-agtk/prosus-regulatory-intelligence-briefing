@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-17-3800fadefa
-cluster_size: 12
+cluster_size: 14
 cluster_role: canonical
-ranked_at: '2026-06-21T10:32:35+00:00'
+ranked_at: '2026-06-22T12:52:54+00:00'
 ---
 
 # The Federal Circuit’s Expanding Grip on Dismissed Patent Claims

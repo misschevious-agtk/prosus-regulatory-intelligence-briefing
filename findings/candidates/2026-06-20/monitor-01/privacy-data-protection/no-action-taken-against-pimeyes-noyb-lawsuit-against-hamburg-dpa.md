@@ -18,11 +18,11 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-15-d91a44a0f0
+cluster_id: cluster-2026-06-16-8a5cc1737b
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: no-action-taken-against-pimeyes-noyb-lawsuit-against-hamburg-dpa
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # No action taken against PimEyes: noyb lawsuit against Hamburg DPA

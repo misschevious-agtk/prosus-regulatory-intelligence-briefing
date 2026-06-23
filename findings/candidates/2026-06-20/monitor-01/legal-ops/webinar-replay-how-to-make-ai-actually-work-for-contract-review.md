@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-20-4992d7659e
-cluster_size: 31
+cluster_size: 33
 cluster_role: canonical
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Webinar Replay: How to make AI actually work for contract review

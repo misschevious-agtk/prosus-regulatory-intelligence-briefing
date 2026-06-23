@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-19-30219d3f25
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: random-neural-firings-and-cage-fighting-on-the-south-lawn
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Random Neural Firings And Cage Fighting On The South Lawn

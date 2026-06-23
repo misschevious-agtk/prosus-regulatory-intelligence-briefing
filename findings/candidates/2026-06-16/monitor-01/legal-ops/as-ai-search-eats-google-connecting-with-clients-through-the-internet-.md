@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-16-e4cbbf143e
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # As AI Search Eats Google, Connecting With Clients Through The Internet Requires New Approach

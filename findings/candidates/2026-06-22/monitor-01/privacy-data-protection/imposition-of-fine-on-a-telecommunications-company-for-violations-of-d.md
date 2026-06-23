@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-22-22e22ab452
-cluster_size: 6
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawf
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Imposition of fine on a telecommunications company for violations of data subject’s rights

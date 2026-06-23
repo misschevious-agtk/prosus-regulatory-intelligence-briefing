@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-15-b014e4f963
-cluster_size: 7
+cluster_id: cluster-2026-06-17-9f7f3df8b5
+cluster_size: 326
 cluster_role: sibling
-cluster_canonical_slug: travelers-deploys-ai-powered-claims-countrywide-with-openai
-ranked_at: '2026-06-22T12:52:54+00:00'
+cluster_canonical_slug: morning-docket-06-16-26
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Travelers deploys AI-powered claims countrywide with OpenAI

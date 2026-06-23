@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-06-18-46bb566537
-cluster_size: 9
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: a-near-autonomous-ai-chemist-improves-a-challenging-reaction-in-medici
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Using AI to help physicians diagnose rare genetic diseases affecting children

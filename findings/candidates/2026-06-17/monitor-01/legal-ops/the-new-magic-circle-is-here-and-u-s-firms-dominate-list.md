@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-16-6424ecadd6
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-new-magic-circle-is-here-and-u-s-firms-dominate-list
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # The ‘New’ Magic Circle Is Here, And U.S. Firms Dominate List

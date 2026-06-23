@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-17-78f7ed0286
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Jalubro launches J-10 governance layer, helping businesses manage multiple AI systems

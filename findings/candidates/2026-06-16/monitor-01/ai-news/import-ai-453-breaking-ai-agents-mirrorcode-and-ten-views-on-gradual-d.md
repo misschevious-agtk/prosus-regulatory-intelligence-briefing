@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-15-2dceb52382
+cluster_id: cluster-2026-06-16-8c5eb7ccb1
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-d
-ranked_at: '2026-06-22T12:52:54+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment

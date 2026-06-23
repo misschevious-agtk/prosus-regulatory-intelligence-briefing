@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-15-af4d9de92a
-cluster_size: 9
+cluster_id: cluster-2026-06-16-3c0a9415bb
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: integreon-appoints-iron-mountain-executive-krishna-nacha-as-ceo
-ranked_at: '2026-06-22T12:52:54+00:00'
+cluster_canonical_slug: integreon-names-krishna-nacha-as-ceo-to-lead-ai-forward-growth-strateg
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Integreon Names Krishna Nacha as CEO to Lead AI-Forward Growth Strategy

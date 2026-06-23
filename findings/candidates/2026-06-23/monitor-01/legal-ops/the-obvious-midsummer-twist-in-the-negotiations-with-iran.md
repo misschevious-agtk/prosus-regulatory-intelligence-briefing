@@ -1,0 +1,36 @@
+---
+date_found: 2026-06-23
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/06/the-obvious-midsummer-twist-in-the-negotiations-with-iran/
+source_publisher: Above the Law
+source_date: Mon, 22 Jun 2026 14:52:50 +0000
+source_method: rss
+title: The Obvious Midsummer Twist In The Negotiations With Iran
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-06-23-5497f865db
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-23T10:39:43+00:00'
+---
+
+# The Obvious Midsummer Twist In The Negotiations With Iran
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/06/the-obvious-midsummer-twist-in-the-negotiations-with-iran/)
+**Published:** Mon, 22 Jun 2026 14:52:50 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+Trump lies as easily as he breathes. The post The Obvious Midsummer Twist In The Negotiations With Iran appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

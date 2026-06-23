@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-16-3cb1d22797
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-declines-to-review-pauline-newman-s-suspension
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Supreme Court Declines To Review Pauline Newman’s Suspension

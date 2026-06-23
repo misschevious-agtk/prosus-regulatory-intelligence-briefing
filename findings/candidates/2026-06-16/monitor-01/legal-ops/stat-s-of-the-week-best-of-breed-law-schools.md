@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-15-ab43b569ee
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: stat-s-of-the-week-best-of-breed-law-schools
-ranked_at: '2026-06-22T12:52:54+00:00'
+cluster_id: cluster-2026-06-16-5a94584a5c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Stat(s) Of The Week: Best Of Breed Law Schools

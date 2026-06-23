@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-15-3dce1b898c
-cluster_size: 38
+cluster_id: cluster-2026-06-16-940e24ff66
+cluster_size: 26
 cluster_role: sibling
-cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-22T12:52:54+00:00'
+cluster_canonical_slug: context-is-everything-ceo-neil-araujo-on-imanage-s-ai-strategy
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # Join 650+ Legal Innovators in SF Next Week!

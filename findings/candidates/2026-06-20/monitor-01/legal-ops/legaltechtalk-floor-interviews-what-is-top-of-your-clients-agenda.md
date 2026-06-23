@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-20-2d962ed69f
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # LegalTechTalk floor interviews: What is top of your clients’ agenda?

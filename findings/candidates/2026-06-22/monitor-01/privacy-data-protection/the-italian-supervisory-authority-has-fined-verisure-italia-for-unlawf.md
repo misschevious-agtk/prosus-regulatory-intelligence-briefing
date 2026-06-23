@@ -19,9 +19,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-22-22e22ab452
-cluster_size: 6
+cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # The Italian Supervisory Authority has fined Verisure Italia for unlawful processing of personal data for direct marketing purposes

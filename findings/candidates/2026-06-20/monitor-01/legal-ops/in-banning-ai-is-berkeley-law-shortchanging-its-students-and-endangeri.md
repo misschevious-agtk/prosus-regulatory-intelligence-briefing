@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-15-7e9e52feaa
+cluster_id: cluster-2026-06-16-a3b4cb7795
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: in-banning-ai-is-berkeley-law-shortchanging-its-students-and-endangeri
-ranked_at: '2026-06-22T12:52:54+00:00'
+ranked_at: '2026-06-23T10:39:43+00:00'
 ---
 
 # In Banning AI, Is Berkeley Law Shortchanging Its Students — and Endangering their Future Clients?

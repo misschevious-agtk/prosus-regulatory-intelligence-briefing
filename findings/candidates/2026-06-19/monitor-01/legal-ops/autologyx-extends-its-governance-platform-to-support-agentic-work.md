@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-d7446b4d6b
-cluster_size: 4
+cluster_id: cluster-2026-06-17-9565566321
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: autologyx-extends-its-governance-platform-to-support-agentic-work
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Autologyx extends its governance platform to support agentic work

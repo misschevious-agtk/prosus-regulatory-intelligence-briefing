@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-d7af3d6a6d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: at-the-kennedy-center-it-s-curtains-for-trump
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_id: cluster-2026-06-17-cad2b900bf
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # At The Kennedy Center, It’s Curtains For Trump

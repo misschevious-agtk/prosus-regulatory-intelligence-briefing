@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-b2fc81079e
-cluster_size: 15
-cluster_role: sibling
-cluster_canonical_slug: relativity-expands-into-the-drafting-workflow-with-gavel-acquistion
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_id: cluster-2026-06-17-9a47a900e6
+cluster_size: 13
+cluster_role: canonical
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Relativity expands into the drafting workflow with Gavel acquistion

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-19-9b43a2ce70
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-federal-clerkship-market-is-broken-and-the-judges-know-it
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # The Federal Clerkship Market Is Broken, And The Judges Know It

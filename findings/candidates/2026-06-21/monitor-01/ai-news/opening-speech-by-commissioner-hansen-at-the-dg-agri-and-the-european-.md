@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-17-f035b07ba2
 cluster_size: 158
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Opening speech by Commissioner Hansen at the DG AGRI and the European Investment Bank (EIB) event 'Boosting generational renewal in EU agriculture – improving access to finance for young farmers'

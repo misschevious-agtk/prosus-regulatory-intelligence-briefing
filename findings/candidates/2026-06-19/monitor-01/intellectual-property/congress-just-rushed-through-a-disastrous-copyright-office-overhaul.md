@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-19-9a91b88093
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Congress Just Rushed Through A Disastrous Copyright Office Overhaul

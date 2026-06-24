@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-17-f1cc50c0ea
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 3-questions-for-a-law-student-turned-conference-host-part-i
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # 3 Questions For A Law Student Turned Conference Host (Part I)

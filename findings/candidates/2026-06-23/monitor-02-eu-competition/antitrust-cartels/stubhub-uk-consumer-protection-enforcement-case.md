@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-23-2abc6cd3fc
-cluster_size: 9
+cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # StubHub UK: consumer protection enforcement case

@@ -23,11 +23,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-1119/23
-cluster_id: cluster-2026-06-16-fd2b13f013
-cluster_size: 34
+cluster_id: cluster-2026-06-17-28ed372ffd
+cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: personal-communications-byod-and-the-expanding-reach-of-competition-in
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Personal Communications, BYOD and the Expanding Reach of Competition Investigations: the EU Court of Justice in case T-1119/23

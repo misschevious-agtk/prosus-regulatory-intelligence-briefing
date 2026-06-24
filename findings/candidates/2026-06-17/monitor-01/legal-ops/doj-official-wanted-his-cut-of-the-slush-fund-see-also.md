@@ -22,10 +22,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-06-17-9f7f3df8b5
-cluster_size: 326
+cluster_size: 320
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-06-16-26
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # DOJ Official Wanted His Cut Of The Slush Fund — See Also

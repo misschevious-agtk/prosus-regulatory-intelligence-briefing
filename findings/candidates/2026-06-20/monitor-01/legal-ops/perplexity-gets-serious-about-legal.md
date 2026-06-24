@@ -26,7 +26,7 @@ cluster_id: cluster-2026-06-18-5b710cfb82
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: perplexity-gets-serious-about-legal
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Perplexity Gets Serious About Legal

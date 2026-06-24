@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-6424ecadd6
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-new-magic-circle-is-here-and-u-s-firms-dominate-list
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_id: cluster-2026-06-17-5682e64618
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # The ‘New’ Magic Circle Is Here, And U.S. Firms Dominate List

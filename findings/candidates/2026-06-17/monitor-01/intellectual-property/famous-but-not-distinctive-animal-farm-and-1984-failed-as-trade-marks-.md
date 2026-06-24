@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-1a2ea6b7fd
+cluster_id: cluster-2026-06-17-e805c30a06
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: famous-but-not-distinctive-animal-farm-and-1984-failed-as-trade-marks-
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Famous but not distinctive: ANIMAL FARM and 1984 failed as trade marks because they were successful as books

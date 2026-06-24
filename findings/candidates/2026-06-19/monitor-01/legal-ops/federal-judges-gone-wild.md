@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-18-8a1c6e6d3e
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: federal-judges-gone-wild
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Federal Judges Gone Wild

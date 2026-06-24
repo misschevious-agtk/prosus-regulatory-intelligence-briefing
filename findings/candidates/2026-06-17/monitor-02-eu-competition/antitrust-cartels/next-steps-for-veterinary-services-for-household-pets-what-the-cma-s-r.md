@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-16-770bca7731
-cluster_size: 18
-cluster_role: sibling
-cluster_canonical_slug: next-steps-for-veterinary-services-for-household-pets-what-the-cma-s-r
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_id: cluster-2026-06-17-3416704fab
+cluster_size: 15
+cluster_role: canonical
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Next steps for veterinary services for household pets: what the CMA's remedies mean in practice

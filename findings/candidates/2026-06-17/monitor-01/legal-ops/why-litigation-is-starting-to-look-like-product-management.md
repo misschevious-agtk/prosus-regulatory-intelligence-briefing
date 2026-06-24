@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-b6c46f4d21
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: why-litigation-is-starting-to-look-like-product-management
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_id: cluster-2026-06-17-19fc2995c9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Why Litigation Is Starting To Look Like Product Management

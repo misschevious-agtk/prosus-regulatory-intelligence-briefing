@@ -23,10 +23,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-06-17-766212f0ad
-cluster_size: 296
+cluster_size: 312
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-and-search-advertising-services
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Google's general search and search advertising services

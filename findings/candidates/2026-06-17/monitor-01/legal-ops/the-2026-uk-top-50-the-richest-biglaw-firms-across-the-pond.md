@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-117b10de03
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-2026-uk-top-50-the-richest-biglaw-firms-across-the-pond
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_id: cluster-2026-06-17-826f255025
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # The 2026 UK Top 50: The Richest Biglaw Firms Across The Pond

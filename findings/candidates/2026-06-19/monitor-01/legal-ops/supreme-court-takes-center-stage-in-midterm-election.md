@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-19-581c8ceff0
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Supreme Court Takes Center Stage In Midterm Election

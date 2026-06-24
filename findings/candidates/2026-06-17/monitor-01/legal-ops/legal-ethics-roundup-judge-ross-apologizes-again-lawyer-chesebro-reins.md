@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-16-0b31071537
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-judge-ross-apologizes-again-lawyer-chesebro-reins
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_id: cluster-2026-06-17-fd12bdb955
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Legal Ethics Roundup: Judge Ross Apologizes Again, Lawyer Chesebro Reinstated In FL, 88 Deans Support Independence, Anti-Trump Protest Prosecutor Suspended, Recusal Over Family Members & More

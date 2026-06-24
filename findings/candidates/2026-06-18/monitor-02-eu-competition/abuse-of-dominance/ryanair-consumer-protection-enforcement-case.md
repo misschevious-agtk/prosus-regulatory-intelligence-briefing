@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-16-c516883575
-cluster_size: 57
+cluster_id: cluster-2026-06-17-cf6ca853ef
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: ebay-depop-merger-inquiry
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Ryanair: consumer protection enforcement case

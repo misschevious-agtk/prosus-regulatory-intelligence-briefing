@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-17-7fb301ea36
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: last-week-saw-a-slew-of-new-legal-tech-ceos-but-why
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Last Week Saw A Slew Of New Legal Tech CEOs. But Why?

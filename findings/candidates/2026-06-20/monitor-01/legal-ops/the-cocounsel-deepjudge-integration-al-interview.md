@@ -18,7 +18,7 @@ cluster_id: cluster-2026-06-17-fa7c4247c4
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-cocounsel-deepjudge-integration-al-interview
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # The CoCounsel + DeepJudge Integration – AL Interview

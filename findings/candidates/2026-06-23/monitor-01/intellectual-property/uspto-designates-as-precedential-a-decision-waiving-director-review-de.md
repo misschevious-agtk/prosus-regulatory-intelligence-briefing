@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-23-47dee4a2cd
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_id: cluster-2026-06-24-6d891fbbf8
+cluster_size: 2
+cluster_role: sibling
+ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_canonical_slug: uspto-designates-as-precedential-a-decision-waiving-director-review-de
 ---
 
 # USPTO designates as precedential a decision waiving Director Review deadline and terminating proceeding under "Hulu"

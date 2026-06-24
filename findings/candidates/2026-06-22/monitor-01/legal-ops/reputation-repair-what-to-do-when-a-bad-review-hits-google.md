@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-19-b3b37f6c01
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: reputation-repair-what-to-do-when-a-bad-review-hits-google
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Reputation Repair: What To Do When A Bad Review Hits Google

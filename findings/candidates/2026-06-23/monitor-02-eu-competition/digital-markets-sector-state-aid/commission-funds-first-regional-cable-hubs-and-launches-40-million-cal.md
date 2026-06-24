@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-17-f035b07ba2
 cluster_size: 158
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Commission funds first Regional Cable Hubs and launches €40 million call for cable repair capacity

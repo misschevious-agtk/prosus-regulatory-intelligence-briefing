@@ -23,7 +23,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-17-f035b07ba2
 cluster_size: 158
 cluster_role: canonical
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Commission approves €1 billion Slovak State aid scheme to support cleantech manufacturing capacity

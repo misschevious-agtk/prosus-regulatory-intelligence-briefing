@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-06-16-0aba0b843f
-cluster_size: 20
+cluster_id: cluster-2026-06-17-32793b377b
+cluster_size: 15
 cluster_role: sibling
-cluster_canonical_slug: ia-g-n-rative-et-vie-priv-e-une-affiche-coproduite-par-la-pipc-et-la-c
-ranked_at: '2026-06-23T10:39:43+00:00'
+cluster_canonical_slug: ordre-du-jour-de-la-s-ance-pl-ni-re-du-28-mai-2026
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 28 mai 2026

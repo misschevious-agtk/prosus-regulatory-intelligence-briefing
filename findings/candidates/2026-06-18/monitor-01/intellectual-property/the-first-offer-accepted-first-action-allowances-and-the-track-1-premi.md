@@ -20,9 +20,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-18-406f5bf889
-cluster_size: 11
+cluster_size: 13
 cluster_role: canonical
-ranked_at: '2026-06-23T10:39:43+00:00'
+ranked_at: '2026-06-24T10:25:29+00:00'
 ---
 
 # The First Offer Accepted: First-Action Allowances and the Track 1 Premium

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-20-4992d7659e
-cluster_size: 34
+cluster_size: 33
 cluster_role: sibling
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 cluster_canonical_slug: webinar-replay-how-to-make-ai-actually-work-for-contract-review
 ---
 

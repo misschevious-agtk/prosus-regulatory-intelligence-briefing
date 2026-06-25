@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-17-9f7f3df8b5
-cluster_size: 320
+cluster_id: cluster-2026-06-18-b4a0ca5396
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-06-16-26
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_canonical_slug: todd-blanche-is-unfit-for-office-says-the-new-york-times-editorial-boa
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Blanche Is In Hot Water — See Also

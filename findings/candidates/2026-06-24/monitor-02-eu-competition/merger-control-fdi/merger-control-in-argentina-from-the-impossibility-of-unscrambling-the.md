@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-17-b0106531bd
-cluster_size: 29
+cluster_id: cluster-2026-06-18-66e35636b0
+cluster_size: 32
 cluster_role: sibling
 cluster_canonical_slug: antitrust-collective-redress-in-spain-testing-the-system-through-the-a
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Merger Control in Argentina: From (the Impossibility of) Unscrambling the Eggs to Ex-Ante Review (1999-2026)

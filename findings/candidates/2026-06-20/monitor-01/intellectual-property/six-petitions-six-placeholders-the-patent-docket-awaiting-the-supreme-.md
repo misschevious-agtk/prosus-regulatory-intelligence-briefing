@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-17-3f890bf1a9
-cluster_size: 6
+cluster_id: cluster-2026-06-18-513277490b
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: six-petitions-six-placeholders-the-patent-docket-awaiting-the-supreme-
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Six Petitions, Six Placeholders: The Patent Docket Awaiting the Supreme Court

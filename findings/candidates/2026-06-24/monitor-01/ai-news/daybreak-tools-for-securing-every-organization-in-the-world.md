@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-17-9f7f3df8b5
-cluster_size: 320
+cluster_id: cluster-2026-06-18-19ef2f316c
+cluster_size: 341
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-06-16-26
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Daybreak: Tools for securing every organization in the world

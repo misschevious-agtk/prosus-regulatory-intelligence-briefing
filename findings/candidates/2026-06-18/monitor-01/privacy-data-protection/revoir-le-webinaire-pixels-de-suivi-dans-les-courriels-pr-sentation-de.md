@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-17-6861f1c9f2
+cluster_id: cluster-2026-06-18-b511b84eed
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: revoir-le-webinaire-pixels-de-suivi-dans-les-courriels-pr-sentation-de
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Revoir le webinaire - Pixels de suivi dans les courriels : présentation des recommandations de la CNIL

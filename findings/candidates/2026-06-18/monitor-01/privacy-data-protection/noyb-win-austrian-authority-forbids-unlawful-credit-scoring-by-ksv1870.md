@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-17-ecffd1193d
+cluster_id: cluster-2026-06-18-72a5866902
 cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: noyb-win-austrian-authority-forbids-unlawful-credit-scoring-by-ksv1870
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # noyb WIN: Austrian authority forbids unlawful credit scoring by KSV1870

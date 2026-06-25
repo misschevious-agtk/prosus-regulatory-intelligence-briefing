@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-23-188469ac46
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: ai-error-nearly-gave-defendant-his-constitutional-right-to-counsel-don
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Attorney Turns In License After Lazy AI Lawyering

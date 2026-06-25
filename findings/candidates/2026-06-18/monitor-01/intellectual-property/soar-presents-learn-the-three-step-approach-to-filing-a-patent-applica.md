@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-17-bbdd960663
+cluster_id: cluster-2026-06-18-21614a8625
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: soar-presents-learn-the-three-step-approach-to-filing-a-patent-applica
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # SOAR presents: Learn the three-step approach to filing a patent application without an attorney

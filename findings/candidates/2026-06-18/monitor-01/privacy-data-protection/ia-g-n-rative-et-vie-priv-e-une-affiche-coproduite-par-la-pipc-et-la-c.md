@@ -18,11 +18,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-17-65f9b23a10
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ia-g-n-rative-et-vie-priv-e-une-affiche-coproduite-par-la-pipc-et-la-c
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_id: cluster-2026-06-18-2fb6340255
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # « IA générative et vie privée » : une affiche coproduite par la PIPC et la CNIL pour sensibiliser les utilisateurs d’IA à la protection de leurs données

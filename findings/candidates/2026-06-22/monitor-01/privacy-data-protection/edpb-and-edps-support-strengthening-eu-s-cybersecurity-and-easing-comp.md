@@ -36,7 +36,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-22-42bb218c0d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data

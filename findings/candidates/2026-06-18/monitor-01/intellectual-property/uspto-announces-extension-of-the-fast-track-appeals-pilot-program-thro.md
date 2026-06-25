@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-17-adc6e2a3d3
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: uspto-waives-the-petition-fee-for-the-streamlined-claim-set-pilot-prog
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_id: cluster-2026-06-18-72db9a10b1
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # USPTO announces extension of the Fast-Track Appeals Pilot Program through May 6, 2028

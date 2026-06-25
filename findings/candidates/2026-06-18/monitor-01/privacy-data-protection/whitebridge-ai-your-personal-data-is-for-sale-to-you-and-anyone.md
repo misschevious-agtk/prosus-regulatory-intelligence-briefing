@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-17-e5898821f0
+cluster_id: cluster-2026-06-18-90d50ed7cc
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: whitebridge-ai-your-personal-data-is-for-sale-to-you-and-anyone
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Whitebridge.ai: your personal data is for sale to you and anyone

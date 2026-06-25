@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-23-3adf17aa6b
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Federal Judge’s Fitness Journey Is Everyone’s Problem

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-19-35f2d75c07
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: sullivan-cromwell-s-cozy-relationship-with-the-trump-administration-go
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Sullivan & Cromwell’s Cozy Relationship With The Trump Administration Got Even Cozier

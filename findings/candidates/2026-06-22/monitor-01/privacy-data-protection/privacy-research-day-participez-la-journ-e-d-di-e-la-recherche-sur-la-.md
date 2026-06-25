@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-17-32793b377b
-cluster_size: 15
+cluster_id: cluster-2026-06-18-6f8e00c727
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: ordre-du-jour-de-la-s-ance-pl-ni-re-du-28-mai-2026
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Privacy Research Day : participez à la journée dédiée à la recherche sur la vie privée

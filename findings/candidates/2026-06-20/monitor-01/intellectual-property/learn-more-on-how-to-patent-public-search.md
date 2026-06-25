@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-17-b9cb520426
-cluster_size: 152
+cluster_id: cluster-2026-06-18-19f03fce70
+cluster_size: 180
 cluster_role: sibling
-cluster_canonical_slug: standard-essential-patent-working-group-offers-support
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Learn more on how to Patent Public Search

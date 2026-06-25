@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-17-f035b07ba2
-cluster_size: 158
+cluster_id: cluster-2026-06-19-9215daecb5
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_canonical_slug: opening-speech-by-commissioner-hansen-at-the-dg-agri-and-the-european-
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Opening speech by Commissioner Hansen at the DG AGRI and the European Investment Bank (EIB) event 'Boosting generational renewal in EU agriculture – improving access to finance for young farmers'

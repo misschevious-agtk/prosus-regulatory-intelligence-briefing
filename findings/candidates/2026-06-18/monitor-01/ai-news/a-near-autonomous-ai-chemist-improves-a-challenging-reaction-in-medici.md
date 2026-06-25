@@ -19,9 +19,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-06-18-46bb566537
-cluster_size: 13
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry

@@ -17,11 +17,11 @@ entities:
   jurisdiction: ES
   matched_alias: CNMC
 case_numbers: []
-cluster_id: cluster-2026-06-17-b0106531bd
-cluster_size: 29
+cluster_id: cluster-2026-06-18-66e35636b0
+cluster_size: 32
 cluster_role: sibling
 cluster_canonical_slug: antitrust-collective-redress-in-spain-testing-the-system-through-the-a
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # The Update To The CNMC’S Guidance On Competition Compliance Programmes: From Formal Compliance To A Standard Of Actual And Verifiable Effectiveness

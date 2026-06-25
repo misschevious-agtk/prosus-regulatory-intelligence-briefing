@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-17-959360e250
-cluster_size: 13
+cluster_id: cluster-2026-06-18-1200f999b3
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-claude-pocalypse-bypassed-legal-aid-lawdroid-s-new-plugin-remedies
-ranked_at: '2026-06-24T10:25:29+00:00'
+ranked_at: '2026-06-25T10:18:47+00:00'
 ---
 
 # Claude for Legal and Access to Justice: The Good, the Bad, and the Unknown

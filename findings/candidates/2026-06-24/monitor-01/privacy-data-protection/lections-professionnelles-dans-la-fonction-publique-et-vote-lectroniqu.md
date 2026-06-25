@@ -17,10 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-24-2f6e0c838b
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-24T10:25:29+00:00'
+cluster_id: cluster-2026-06-18-b5275cf2db
+cluster_size: 84
+cluster_role: sibling
+ranked_at: '2026-06-25T10:18:47+00:00'
+cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
 ---
 
 # Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-18-19ef2f316c
-cluster_size: 341
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-06-16-26
-ranked_at: '2026-06-25T10:18:47+00:00'
+cluster_id: cluster-2026-06-19-3ff1ab66ff
+cluster_size: 11
+cluster_role: canonical
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Supreme Court Term Limits Went From Punchline To Platform For Progressives

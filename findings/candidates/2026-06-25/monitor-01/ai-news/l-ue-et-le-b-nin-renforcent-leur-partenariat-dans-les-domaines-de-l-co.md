@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-25-1bc85f4fcd
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # L'UE et le Bénin renforcent leur partenariat dans les domaines de l'économie, la sécurité et la durabilité

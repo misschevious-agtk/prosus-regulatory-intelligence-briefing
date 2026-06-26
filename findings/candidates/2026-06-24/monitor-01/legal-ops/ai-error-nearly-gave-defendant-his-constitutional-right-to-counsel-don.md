@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-23-188469ac46
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: ai-error-nearly-gave-defendant-his-constitutional-right-to-counsel-don
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # AI Error Nearly Gave Defendant His Constitutional Right To Counsel — Don’t Worry, A Human Judge Fixed That!

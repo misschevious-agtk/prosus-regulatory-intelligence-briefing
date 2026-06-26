@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-18-e9f1accd2b
-cluster_size: 142
+cluster_id: cluster-2026-06-24-624fdb7a4b
+cluster_size: 132
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-1-billion-slovak-state-aid-scheme-to-support-clean
-ranked_at: '2026-06-25T10:18:47+00:00'
+cluster_canonical_slug: questions-and-answers-on-the-tax-simplification-package
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Questions and answers on the tax simplification package

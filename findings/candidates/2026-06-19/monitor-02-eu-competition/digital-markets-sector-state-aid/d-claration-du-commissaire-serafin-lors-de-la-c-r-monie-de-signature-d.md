@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-18-9ac1bbb8f1
-cluster_size: 4
+cluster_id: cluster-2026-06-19-dda08b6ce9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: d-claration-du-commissaire-serafin-lors-de-la-c-r-monie-de-signature-d
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Déclaration du Commissaire Serafin lors de la cérémonie de signature de l'accord SAFE à Paris

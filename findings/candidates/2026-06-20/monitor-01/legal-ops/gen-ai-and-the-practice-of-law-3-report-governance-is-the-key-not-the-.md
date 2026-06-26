@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-18-a72ecb2f97
-cluster_size: 4
+cluster_id: cluster-2026-06-19-cba7bead00
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: gen-ai-and-the-practice-of-law-3-report-governance-is-the-key-not-the-
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Gen AI and the Practice of Law 3 Report: Governance is the Key, not the Lock

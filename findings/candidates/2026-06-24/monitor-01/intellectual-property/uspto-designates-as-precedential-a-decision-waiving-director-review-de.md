@@ -21,9 +21,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-24-6d891fbbf8
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # USPTO designates as precedential a decision waiving Director Review deadline

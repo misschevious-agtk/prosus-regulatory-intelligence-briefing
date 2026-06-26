@@ -30,7 +30,7 @@ cluster_id: cluster-2026-06-25-76a130548f
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: commission-reaches-preliminary-position-that-amazon-s-and-microsoft-s-
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Commission reaches preliminary position that Amazon's and Microsoft's market leading cloud services should be designated under the DMA

@@ -21,11 +21,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-06-18-6faf8c9f96
-cluster_size: 8
+cluster_id: cluster-2026-06-19-5131e63c62
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: edpb-brings-clarity-to-data-processing-for-scientific-research-speeds-
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Enhancing compliance and consistency: EDPB adopts DPIA template

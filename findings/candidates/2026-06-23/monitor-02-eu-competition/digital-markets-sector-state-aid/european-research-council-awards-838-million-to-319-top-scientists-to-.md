@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-23-c55fc8095f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: european-research-council-awards-838-million-to-319-top-scientists-to-
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # European Research Council awards €838 million to 319 top scientists to deliver groundbreaking discoveries

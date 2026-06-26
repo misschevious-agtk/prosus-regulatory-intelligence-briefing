@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-18-678d5fc2b5
-cluster_size: 6
+cluster_id: cluster-2026-06-19-a3dec76b3b
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: trading-claims-for-speed-uspto-sweetens-the-streamlined-claim-set-pilo
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Trading Claims for Speed: USPTO Sweetens the Streamlined Claim Set Pilot

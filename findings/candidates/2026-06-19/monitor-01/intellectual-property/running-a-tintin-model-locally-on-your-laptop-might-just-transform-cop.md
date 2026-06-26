@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-18-2bade0821c
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: running-a-tintin-model-locally-on-your-laptop-might-just-transform-cop
-ranked_at: '2026-06-25T10:18:47+00:00'
+cluster_id: cluster-2026-06-19-6aed077edc
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Running a Tintin model locally on your laptop might just transform copyright

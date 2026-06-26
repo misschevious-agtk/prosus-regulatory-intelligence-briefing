@@ -18,9 +18,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-24-c5c04338b6
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Shoosmiths unveils proprietary AI contract review tool built with Microsoft

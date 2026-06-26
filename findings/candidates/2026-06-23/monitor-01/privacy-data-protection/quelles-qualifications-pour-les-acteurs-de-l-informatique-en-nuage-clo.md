@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-18-2e660141a3
-cluster_size: 6
+cluster_id: cluster-2026-06-19-5bc947fa73
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: quelles-qualifications-pour-les-acteurs-de-l-informatique-en-nuage-clo
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Quelles qualifications pour les acteurs de l’informatique en nuage (cloud) ?

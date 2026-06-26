@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-19-18a59da277
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Arbitration Might Not Make Sense For Small Businesses

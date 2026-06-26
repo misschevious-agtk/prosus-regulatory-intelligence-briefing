@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-a353e8faf8
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-25T10:18:47+00:00'
+cluster_id: cluster-2026-06-24-1c18b1ae7c
+cluster_size: 12
+cluster_role: sibling
+ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_canonical_slug: some-firms-have-to-be-dragged-into-a-salary-match-not-this-one
 ---
 
 # Why Are Boutiques So Much Quicker To Raise Associates’ Salaries Than Biglaw?

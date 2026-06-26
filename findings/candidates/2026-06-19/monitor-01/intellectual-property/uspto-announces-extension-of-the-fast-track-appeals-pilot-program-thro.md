@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-18-72db9a10b1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: uspto-announces-extension-of-the-fast-track-appeals-pilot-program-thro
-ranked_at: '2026-06-25T10:18:47+00:00'
+cluster_id: cluster-2026-06-19-023abd3d38
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # USPTO announces extension of the Fast-Track Appeals Pilot Program through May 6, 2028

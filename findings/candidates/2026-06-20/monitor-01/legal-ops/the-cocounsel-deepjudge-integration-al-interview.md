@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-18-efaf87d7c8
-cluster_size: 4
+cluster_id: cluster-2026-06-19-d5319ed274
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-cocounsel-deepjudge-integration-al-interview
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # The CoCounsel + DeepJudge Integration – AL Interview

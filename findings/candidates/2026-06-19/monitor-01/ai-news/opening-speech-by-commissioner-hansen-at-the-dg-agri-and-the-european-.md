@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-19-9215daecb5
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Opening speech by Commissioner Hansen at the DG AGRI and the European Investment Bank (EIB) event 'Boosting generational renewal in EU agriculture – improving access to finance for young farmers'

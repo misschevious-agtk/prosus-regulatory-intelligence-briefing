@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-18-5b710cfb82
-cluster_size: 5
+cluster_id: cluster-2026-06-19-2dace0d005
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: perplexity-gets-serious-about-legal
-ranked_at: '2026-06-25T10:18:47+00:00'
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # Perplexity Gets Serious About Legal

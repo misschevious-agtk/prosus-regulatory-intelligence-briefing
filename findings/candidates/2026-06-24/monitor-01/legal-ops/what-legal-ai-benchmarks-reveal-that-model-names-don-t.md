@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-18-19ef2f316c
-cluster_size: 341
+cluster_id: cluster-2026-06-19-04373812fc
+cluster_size: 338
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-06-16-26
-ranked_at: '2026-06-25T10:18:47+00:00'
+cluster_canonical_slug: bbva-puts-ai-at-the-core-of-banking-with-openai
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # What Legal AI Benchmarks Reveal That Model Names Don’t

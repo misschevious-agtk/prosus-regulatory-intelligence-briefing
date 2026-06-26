@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-4992d7659e
-cluster_size: 33
+cluster_id: cluster-2026-06-19-3bd7bc8fbb
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: webinar-replay-how-to-make-ai-actually-work-for-contract-review
-ranked_at: '2026-06-25T10:18:47+00:00'
+cluster_canonical_slug: harvey-trains-open-source-models-to-encode-law-firm-workflows
+ranked_at: '2026-06-26T10:26:57+00:00'
 ---
 
 # The Crosby Story – With Co-founder, Ryan Daniels

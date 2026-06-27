@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-19-5b6e1e3f2b
-cluster_size: 5
+cluster_id: cluster-2026-06-20-4430c40cda
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: enforceable-but-not-reviewable-a-breached-sotera-stipulation-and-314-d
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Enforceable, but Not Reviewable: A Breached Sotera Stipulation and § 314(d)

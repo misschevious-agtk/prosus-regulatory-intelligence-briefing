@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-98985d91e9
-cluster_size: 5
+cluster_id: cluster-2026-06-20-0dc67964d8
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-fundamentals-of-effective-contract-management
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # The Fundamentals Of Effective Contract Management

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-6f43fe85e8
-cluster_size: 9
-cluster_role: sibling
-cluster_canonical_slug: relativity-expands-into-the-drafting-workflow-with-gavel-acquistion
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_id: cluster-2026-06-20-6c4ba8e60a
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word

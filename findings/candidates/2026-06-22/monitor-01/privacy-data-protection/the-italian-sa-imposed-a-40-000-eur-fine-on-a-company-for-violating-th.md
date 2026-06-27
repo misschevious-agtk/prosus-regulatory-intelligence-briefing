@@ -18,10 +18,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-22-22e22ab452
-cluster_size: 28
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawf
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment

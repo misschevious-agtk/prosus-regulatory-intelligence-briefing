@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-24-624fdb7a4b
-cluster_size: 132
+cluster_size: 128
 cluster_role: sibling
 cluster_canonical_slug: questions-and-answers-on-the-tax-simplification-package
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Commission disburses the first €3.2 billion instalment to Ukraine under the €90 billion Ukraine Support Loan

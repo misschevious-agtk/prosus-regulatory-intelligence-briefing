@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-d300f9f6d7
+cluster_id: cluster-2026-06-20-e177a4e717
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-researchers-develop-photonic-chip-packaging-that-can-withstand-ex
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # NIST Researchers Develop Photonic Chip Packaging That Can Withstand Extreme Environments

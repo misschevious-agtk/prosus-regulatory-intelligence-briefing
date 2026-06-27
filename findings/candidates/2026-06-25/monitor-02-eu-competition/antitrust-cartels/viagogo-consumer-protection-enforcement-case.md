@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-23-2abc6cd3fc
-cluster_size: 36
+cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: stubhub-uk-consumer-protection-enforcement-case
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # viagogo: consumer protection enforcement case

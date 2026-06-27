@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-3ff1ab66ff
-cluster_size: 11
-cluster_role: sibling
-cluster_canonical_slug: supreme-court-term-limits-went-from-punchline-to-platform-for-progress
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_id: cluster-2026-06-20-11e23fc450
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Supreme Court Term Limits Went From Punchline To Platform For Progressives

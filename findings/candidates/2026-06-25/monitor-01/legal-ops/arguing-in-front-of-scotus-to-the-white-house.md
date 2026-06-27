@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-24-3f35b9a734
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: arguing-in-front-of-scotus-to-the-white-house
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Arguing In Front Of SCOTUS To The White House

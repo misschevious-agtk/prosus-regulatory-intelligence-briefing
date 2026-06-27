@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-26-e18ce952ff
-cluster_size: 1
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # No Laughing Matter: Humor’s Place In Legal Pedagogy

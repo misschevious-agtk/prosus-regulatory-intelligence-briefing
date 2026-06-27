@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-19-13ece37c0b
-cluster_size: 3
+cluster_id: cluster-2026-06-20-339ffaa65a
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: anthropic-s-claude-fable-5-withdrawal-highlights-geopolitical-risk-in-
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Anthropic’s Claude Fable 5 withdrawal highlights geopolitical risk in legal AI supply chain

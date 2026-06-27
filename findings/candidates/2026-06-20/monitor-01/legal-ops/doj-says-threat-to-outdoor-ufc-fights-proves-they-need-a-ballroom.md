@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-19-3474ee03d0
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: doj-says-threat-to-outdoor-ufc-fights-proves-they-need-a-ballroom
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_id: cluster-2026-06-20-e3fa99bba1
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # DOJ Says Threat To Outdoor UFC Fights Proves They Need A Ballroom

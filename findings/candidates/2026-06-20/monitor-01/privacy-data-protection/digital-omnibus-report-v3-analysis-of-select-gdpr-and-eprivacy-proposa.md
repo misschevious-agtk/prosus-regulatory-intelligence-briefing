@@ -22,11 +22,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-19-07f3ef13ae
+cluster_id: cluster-2026-06-20-fa8d0e033e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: digital-omnibus-report-v3-analysis-of-select-gdpr-and-eprivacy-proposa
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Digital Omnibus Report V3: Analysis of Select GDPR and ePrivacy Proposals by the Commission

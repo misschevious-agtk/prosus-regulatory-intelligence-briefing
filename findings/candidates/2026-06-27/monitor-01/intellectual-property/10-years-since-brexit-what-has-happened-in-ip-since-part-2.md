@@ -1,0 +1,38 @@
+---
+date_found: 2026-06-27
+monitor: monitor-01
+domain: intellectual-property
+source_url: http://ipkitten.blogspot.com/2026/06/10-years-since-brexit-what-has-happened_0124859643.html
+source_publisher: IPKat blog
+source_date: '2026-06-23T15:28:50.685+01:00'
+source_method: rss
+title: '10 Years since Brexit: What has happened in IP since? Part 2'
+matched_keywords:
+- trade mark
+- copyright
+match_count: 2
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-06-20-49f49f2525
+cluster_size: 167
+cluster_role: sibling
+cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
+ranked_at: '2026-06-27T09:32:01+00:00'
+---
+
+# 10 Years since Brexit: What has happened in IP since? Part 2
+
+**Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/06/10-years-since-brexit-what-has-happened_0124859643.html)
+**Published:** 2026-06-23T15:28:50.685+01:00
+**Matched keywords (2):** trade mark, copyright
+
+## Summary excerpt
+
+This post is the second of two addressing the way in which IP law has developed in the 10 years since the UK voted to leave the EU. This post covers copyright, trade marks, designs, patents, plant varieties and confidential information. The first post is here. Copyright Copyright law in the UK has remained closely aligned with that of the EU in most respects. On the fundamental question of
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

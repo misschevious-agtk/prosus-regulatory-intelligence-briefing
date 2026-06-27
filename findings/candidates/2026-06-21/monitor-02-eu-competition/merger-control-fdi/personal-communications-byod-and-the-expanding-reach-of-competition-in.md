@@ -24,11 +24,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-1119/23
-cluster_id: cluster-2026-06-19-fa39bd434d
-cluster_size: 170
+cluster_id: cluster-2026-06-20-49f49f2525
+cluster_size: 167
 cluster_role: sibling
 cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Personal Communications, BYOD and the Expanding Reach of Competition Investigations: the EU Court of Justice in case T-1119/23

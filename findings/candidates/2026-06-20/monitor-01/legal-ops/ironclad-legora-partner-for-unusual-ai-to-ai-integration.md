@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-19-1a7985a83b
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: ironclad-legora-partner-for-unusual-ai-to-ai-integration
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_id: cluster-2026-06-20-e854a70c4a
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Ironclad + Legora Partner for Unusual ‘AI-to-AI Integration’

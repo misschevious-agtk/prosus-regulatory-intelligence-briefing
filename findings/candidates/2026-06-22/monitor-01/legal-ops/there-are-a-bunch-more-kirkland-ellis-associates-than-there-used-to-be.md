@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-04373812fc
-cluster_size: 338
+cluster_id: cluster-2026-06-20-298bfda35a
+cluster_size: 11
 cluster_role: sibling
-cluster_canonical_slug: bbva-puts-ai-at-the-core-of-banking-with-openai
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_canonical_slug: ken-crutchfield-is-kirkland-s-500-million-ai-investment-really-a-bet-o
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # There Are A Bunch More Kirkland & Ellis Associates Than There Used To Be

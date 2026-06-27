@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-04373812fc
-cluster_size: 338
+cluster_id: cluster-2026-06-20-e2077654ac
+cluster_size: 363
 cluster_role: sibling
 cluster_canonical_slug: bbva-puts-ai-at-the-core-of-banking-with-openai
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Thomson Reuters Opens Early Access to the ‘Next Generation’ of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product

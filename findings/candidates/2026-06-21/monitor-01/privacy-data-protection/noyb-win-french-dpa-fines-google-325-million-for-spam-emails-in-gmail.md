@@ -32,11 +32,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-19-74fef50f7b
-cluster_size: 4
+cluster_id: cluster-2026-06-20-4fc75642dd
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-french-dpa-fines-google-325-million-for-spam-emails-in-gmail
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # noyb WIN: French DPA fines Google €325 million for “Spam Emails” in Gmail

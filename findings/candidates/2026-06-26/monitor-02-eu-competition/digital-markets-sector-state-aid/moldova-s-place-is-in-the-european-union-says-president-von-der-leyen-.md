@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-26-54312a249e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: moldova-s-place-is-in-the-european-union-says-president-von-der-leyen-
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # “Moldova's place is in the European Union,” says President von der Leyen at the EU-Moldova Summit

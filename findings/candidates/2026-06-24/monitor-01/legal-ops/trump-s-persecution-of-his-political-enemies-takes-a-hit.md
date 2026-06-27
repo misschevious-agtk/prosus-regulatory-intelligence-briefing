@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-23-0bc33570b5
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-s-persecution-of-his-political-enemies-takes-a-hit
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Trump’s Persecution Of His Political Enemies Takes A Hit

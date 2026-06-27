@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-19-d8fbff475e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: claude-for-legal-and-access-to-justice-the-good-the-bad-and-the-unknow
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_id: cluster-2026-06-20-3884a7f342
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Claude for Legal and Access to Justice: The Good, the Bad, and the Unknown

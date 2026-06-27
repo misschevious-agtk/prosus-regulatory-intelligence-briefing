@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-23-919a004b58
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters

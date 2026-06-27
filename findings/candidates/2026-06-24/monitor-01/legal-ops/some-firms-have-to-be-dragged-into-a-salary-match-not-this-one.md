@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-24-1c18b1ae7c
-cluster_size: 12
+cluster_size: 14
 cluster_role: canonical
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Some Firms Have To Be Dragged Into A Salary Match. Not This One.

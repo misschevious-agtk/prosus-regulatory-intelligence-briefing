@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-99473d2149
-cluster_size: 4
+cluster_id: cluster-2026-06-20-2c8bcfc797
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: federal-judges-gone-wild
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Federal Judges Gone Wild

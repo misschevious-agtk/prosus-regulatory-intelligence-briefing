@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-26-ba0b86df1d
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-state-aid-for-romania-s-investment-and-development
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Commission approves State aid for Romania's investment and development bank

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-3fa1b2f5a1
-cluster_size: 4
+cluster_id: cluster-2026-06-20-e518fe7009
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: when-partners-make-record-money-associate-raises-usually-follow
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # When Partners Make Record Money, Associate Raises Usually Follow

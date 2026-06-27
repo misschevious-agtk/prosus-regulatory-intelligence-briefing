@@ -18,9 +18,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-24-6d891fbbf8
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 cluster_canonical_slug: uspto-designates-as-precedential-a-decision-waiving-director-review-de
 ---
 

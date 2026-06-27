@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-06-19-fb83678fd5
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: edpb-conference-on-cross-regulatory-cooperation-what-we-learned
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_id: cluster-2026-06-20-16be8a928e
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # EDPB conference on cross-regulatory cooperation: what we learned

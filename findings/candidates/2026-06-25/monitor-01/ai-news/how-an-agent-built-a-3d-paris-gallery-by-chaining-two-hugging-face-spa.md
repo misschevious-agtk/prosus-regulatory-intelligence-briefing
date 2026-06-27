@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-19-8b88919a03
+cluster_id: cluster-2026-06-20-6adf70a037
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: from-the-hugging-face-hub-to-robot-hardware-with-strands-agents-and-le
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces

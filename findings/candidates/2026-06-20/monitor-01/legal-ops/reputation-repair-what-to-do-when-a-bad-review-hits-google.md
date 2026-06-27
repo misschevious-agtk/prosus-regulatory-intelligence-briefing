@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-19-b3b37f6c01
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: reputation-repair-what-to-do-when-a-bad-review-hits-google
-ranked_at: '2026-06-26T10:26:57+00:00'
+cluster_id: cluster-2026-06-20-78ab6f0d3c
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # Reputation Repair: What To Do When A Bad Review Hits Google

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-23-a4e05577f2
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: nist-releases-technical-findings-on-what-caused-the-2021-partial-colla
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # NIST Releases Technical Findings on What Caused the 2021 Partial Collapse of Champlain Towers South

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-25-2b0016a9ee
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # The Impact Of Dobbs Isn’t What The Far Right Hoped For

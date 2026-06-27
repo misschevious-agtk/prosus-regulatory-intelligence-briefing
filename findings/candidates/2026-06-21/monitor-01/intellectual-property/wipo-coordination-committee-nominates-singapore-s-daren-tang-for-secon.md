@@ -18,11 +18,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-06-19-4a3d661bbf
+cluster_id: cluster-2026-06-20-cb307b9d5a
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: wipo-coordination-committee-nominates-singapore-s-daren-tang-for-secon
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # WIPO Coordination Committee Nominates Singapore’s Daren Tang for Second Term as Director General

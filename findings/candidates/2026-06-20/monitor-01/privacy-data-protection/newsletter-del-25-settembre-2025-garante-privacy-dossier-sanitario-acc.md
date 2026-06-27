@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-06-19-11a0e67ab5
-cluster_size: 87
+cluster_id: cluster-2026-06-20-0ff42d12e5
+cluster_size: 91
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # NEWSLETTER del 25 settembre 2025 - Garante privacy: dossier sanitario accessibile solo per ragioni di cura - Diritto di accesso, il Garante privacy sanziona una banca per 100mila euro - PA e obblighi di trasparenza online, il Garante privacy chiede maggiori tutele - Trasparenza siti, il Garante privacy sanziona un Comune - Garanti privacy mondiali: la protezione dati si applica pienamente all’IA

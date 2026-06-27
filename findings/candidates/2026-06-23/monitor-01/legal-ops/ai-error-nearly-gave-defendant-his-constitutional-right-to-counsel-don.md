@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-23-188469ac46
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-26T10:26:57+00:00'
+ranked_at: '2026-06-27T09:32:01+00:00'
 ---
 
 # AI Error Nearly Gave Defendant His Constitutional Right To Counsel — Don’t Worry, A Human Judge Fixed That!

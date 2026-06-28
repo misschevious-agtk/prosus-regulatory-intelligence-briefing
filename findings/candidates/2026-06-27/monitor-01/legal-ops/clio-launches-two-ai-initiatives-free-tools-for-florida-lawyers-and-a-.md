@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-5530db2dd4
-cluster_size: 14
+cluster_id: cluster-2026-06-21-e324794be7
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: harvey-trains-open-source-models-to-encode-law-firm-workflows
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Clio Launches Two AI Initiatives: Free Tools for Florida Lawyers and a Pledge to Train 25,000 Professionals

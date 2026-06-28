@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-24-2caf334ed5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: i-forgot-to-clean-my-swimming-pool-and-frankly-i-too-suspect-antifa-va
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # ‘We’ve Had Some Real Problems With Vandalism,’ Says Washington, D.C.’s Vandal In Chief

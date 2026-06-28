@@ -19,7 +19,7 @@ cluster_id: cluster-2026-06-24-f88ce98ec4
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: why-you-should-choose-legal-ops-tools-you-can-build-on-part-2
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Why You Should Choose Legal Ops Tools You Can Build On (Part 2)

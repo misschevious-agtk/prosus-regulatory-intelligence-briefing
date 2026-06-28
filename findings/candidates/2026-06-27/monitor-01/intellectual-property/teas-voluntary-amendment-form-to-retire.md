@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-27-9604a7eaeb
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-06-27T09:32:01+00:00'
+cluster_id: cluster-2026-06-21-f6775b1d0e
+cluster_size: 169
+cluster_role: sibling
+ranked_at: '2026-06-28T10:00:46+00:00'
+cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
 ---
 
 # TEAS voluntary amendment form to retire

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-f53b624cde
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: attend-patent-center-and-docx-training
-ranked_at: '2026-06-27T09:32:01+00:00'
+cluster_id: cluster-2026-06-21-73cd9a5b1f
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Attend Patent Center and DOCX training

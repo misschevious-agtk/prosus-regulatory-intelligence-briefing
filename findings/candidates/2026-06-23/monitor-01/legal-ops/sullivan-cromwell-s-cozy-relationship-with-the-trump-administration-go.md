@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-23e36a09e2
-cluster_size: 4
+cluster_id: cluster-2026-06-21-105450f98b
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: sullivan-cromwell-s-cozy-relationship-with-the-trump-administration-go
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Sullivan & Cromwell’s Cozy Relationship With The Trump Administration Got Even Cozier

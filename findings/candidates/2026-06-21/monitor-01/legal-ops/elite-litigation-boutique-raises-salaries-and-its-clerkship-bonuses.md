@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-0ac134bb0b
-cluster_size: 16
+cluster_id: cluster-2026-06-21-9713ed1fc1
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: silicon-valley-s-go-to-ip-boutique-matches-the-milbank-scale
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Elite Litigation Boutique Raises Salaries, And Its Clerkship Bonuses

@@ -19,7 +19,7 @@ cluster_id: cluster-2026-06-24-2ca8e4c093
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: gen-ai-tar-nearly-expert-entirely-binary
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Gen AI TAR: Nearly expert, entirely binary

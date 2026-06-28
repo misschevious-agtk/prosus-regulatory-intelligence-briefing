@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-e2077654ac
-cluster_size: 363
+cluster_id: cluster-2026-06-21-01e0b52d3e
+cluster_size: 384
 cluster_role: sibling
 cluster_canonical_slug: bbva-puts-ai-at-the-core-of-banking-with-openai
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Never Too Late : If you missed The IPKat last week !

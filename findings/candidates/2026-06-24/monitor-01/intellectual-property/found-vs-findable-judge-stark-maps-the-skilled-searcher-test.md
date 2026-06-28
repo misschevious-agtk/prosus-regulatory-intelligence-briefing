@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-24-c0d769d680
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Found vs. Findable: Judge Stark Maps the Skilled-Searcher Test

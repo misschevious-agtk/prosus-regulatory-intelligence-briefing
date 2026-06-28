@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-25-607af6395b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: winston-s-texas-two-step-more-than-a-dozen-lone-star-partners-have-hea
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Winston’s Texas Two-Step: More Than A Dozen Lone Star Partners Have Headed For The Exits

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-25-7c663cc16f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: video-message-from-president-von-der-leyen-at-the-decarbon-days-in-cot
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Video message from President von der Leyen at the Decarbon Days in Cottbus

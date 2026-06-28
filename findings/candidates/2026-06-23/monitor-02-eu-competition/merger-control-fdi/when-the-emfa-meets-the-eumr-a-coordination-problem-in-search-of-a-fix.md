@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-44475b5e1c
+cluster_id: cluster-2026-06-21-496e25aa64
 cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: antitrust-collective-redress-in-spain-testing-the-system-through-the-a
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # When the EMFA Meets the EUMR: A Coordination Problem in Search of a Fix

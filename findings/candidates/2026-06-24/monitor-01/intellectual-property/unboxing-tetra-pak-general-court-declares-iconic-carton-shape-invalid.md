@@ -24,9 +24,9 @@ case_numbers:
 - scheme: EU General Court
   citation: T-104/25
 cluster_id: cluster-2026-06-24-f94b316e77
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Unboxing Tetra Pak: General Court declares iconic carton shape invalid

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-ac3d0777de
-cluster_size: 3
+cluster_id: cluster-2026-06-21-2595ac885b
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: how-the-tax-agencies-in-the-us-canada-and-mexico-simplified-tax-rules-
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # How The Tax Agencies In The US, Canada, And Mexico Simplified Tax Rules For World Cup Participants

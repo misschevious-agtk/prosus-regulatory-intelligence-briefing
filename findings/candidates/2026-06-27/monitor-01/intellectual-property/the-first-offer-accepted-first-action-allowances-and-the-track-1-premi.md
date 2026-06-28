@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-20-97ba84f7bb
+cluster_id: cluster-2026-06-21-4669982745
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: the-first-offer-accepted-first-action-allowances-and-the-track-1-premi
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # The First Offer Accepted: First-Action Allowances and the Track 1 Premium

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-26-3614c0e2c8
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: sam-alito-takes-unusual-step-of-whining-from-the-bench-after-getting-c
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Sam Alito Takes Unusual Step Of Whining From The Bench After Getting Called Out For Lazy Hackery

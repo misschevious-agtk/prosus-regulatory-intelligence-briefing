@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-a22d412dfb
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: how-to-prepare-for-a-hearing
-ranked_at: '2026-06-27T09:32:01+00:00'
+cluster_id: cluster-2026-06-21-4cc4e5897e
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # How To Prepare For A Hearing

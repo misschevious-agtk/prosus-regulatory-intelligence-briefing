@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-347688ac10
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: diddy-on-track-for-even-less-prison-time
-ranked_at: '2026-06-27T09:32:01+00:00'
+cluster_id: cluster-2026-06-21-af24b7a5f8
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Diddy On Track For Even Less Prison Time

@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-3d00f0ab5f
+cluster_id: cluster-2026-06-21-6e7595d67e
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: the-federal-circuit-s-expanding-grip-on-dismissed-patent-claims
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # The Federal Circuit’s Expanding Grip on Dismissed Patent Claims

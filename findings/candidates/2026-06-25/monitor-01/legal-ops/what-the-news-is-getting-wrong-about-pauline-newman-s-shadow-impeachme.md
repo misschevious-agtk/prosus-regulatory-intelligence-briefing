@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-24-6f942cb014
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: what-the-news-is-getting-wrong-about-pauline-newman-s-shadow-impeachme
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # What The News Is Getting Wrong About Pauline Newman’s Shadow Impeachment

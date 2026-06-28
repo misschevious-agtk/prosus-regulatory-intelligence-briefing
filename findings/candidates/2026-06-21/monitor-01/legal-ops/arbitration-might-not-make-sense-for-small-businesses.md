@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-37e1030498
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: arbitration-might-not-make-sense-for-small-businesses
-ranked_at: '2026-06-27T09:32:01+00:00'
+cluster_id: cluster-2026-06-21-95873ab092
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Arbitration Might Not Make Sense For Small Businesses

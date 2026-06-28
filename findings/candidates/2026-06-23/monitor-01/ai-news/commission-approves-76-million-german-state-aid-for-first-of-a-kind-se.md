@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-23-94d887dbef
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-76-million-german-state-aid-for-first-of-a-kind-se
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Commission approves €76 million German State aid for first-of-a-kind semiconductor testing equipment facility

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-20-0589815b6d
-cluster_size: 4
+cluster_id: cluster-2026-06-21-ddfed69cc1
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: poll-has-your-law-firm-declared-juneteenth-a-paid-holiday-2026
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # POLL: Has Your Law Firm Declared Juneteenth A Paid Holiday? (2026)

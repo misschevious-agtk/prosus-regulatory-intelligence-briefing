@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-23-93c85a3680
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # En Banc Ninth Circuit to Reconsider Copyright’s Total Concept and Feel Test

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-23-379678f221
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-welcomes-political-agreement-on-criminal-law-rules-to-fight
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Commission welcomes political agreement on criminal law rules to fight child sexual abuse

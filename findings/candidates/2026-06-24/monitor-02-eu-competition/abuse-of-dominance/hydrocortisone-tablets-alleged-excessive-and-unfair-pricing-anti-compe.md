@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-24-136260136a
-cluster_size: 12
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Hydrocortisone tablets: alleged excessive and unfair pricing, anti-competitive agreements and abusive conduct (50277)

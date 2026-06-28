@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-20-8d02d6a641
+cluster_id: cluster-2026-06-21-edee24d546
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: unique-does-not-mean-identifiable-google-search-data-sharing-under-art
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Unique Does not Mean Identifiable – Google Search Data Sharing under Article 6(11) DMA

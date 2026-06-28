@@ -18,9 +18,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-06-24-1489ff5580
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-06-27T09:32:01+00:00'
+ranked_at: '2026-06-28T10:00:46+00:00'
 ---
 
 # Victimes de violations de données : restez vigilants face aux offres d’accompagnement

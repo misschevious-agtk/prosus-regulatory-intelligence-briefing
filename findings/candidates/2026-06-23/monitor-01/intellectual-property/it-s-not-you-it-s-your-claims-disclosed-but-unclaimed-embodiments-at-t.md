@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-59beaffb88
-cluster_size: 3
+cluster_id: cluster-2026-06-22-15cb5d5f53
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: it-s-not-you-it-s-your-claims-disclosed-but-unclaimed-embodiments-at-t
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # It’s Not You, It’s Your Claims: Disclosed but Unclaimed Embodiments at the Federal Circuit

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-26-3a0285b569
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-diversity-efforts-are-slowing-but-aren-t-dead-yet
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Biglaw’s Diversity Efforts Are Slowing, But Aren’t Dead Yet

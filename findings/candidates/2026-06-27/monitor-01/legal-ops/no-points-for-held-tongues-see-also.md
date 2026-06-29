@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-01e0b52d3e
-cluster_size: 384
+cluster_id: cluster-2026-06-29-700a2489f4
+cluster_size: 422
 cluster_role: sibling
-cluster_canonical_slug: bbva-puts-ai-at-the-core-of-banking-with-openai
-ranked_at: '2026-06-28T10:00:46+00:00'
+cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # No Points For Held Tongues — See Also

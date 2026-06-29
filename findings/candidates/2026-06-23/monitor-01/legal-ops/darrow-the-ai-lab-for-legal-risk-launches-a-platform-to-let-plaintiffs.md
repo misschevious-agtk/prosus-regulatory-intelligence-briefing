@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-33345d37c8
-cluster_size: 3
+cluster_id: cluster-2026-06-22-aec6667169
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: darrow-the-ai-lab-for-legal-risk-launches-a-platform-to-let-plaintiffs
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Darrow, the ‘AI Lab for Legal Risk,’ Launches a Platform to Let Plaintiffs’ Firms Manage Litigation Like an Investment Portfolio

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-4148a4208e
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: supreme-court-takes-center-stage-in-midterm-election
-ranked_at: '2026-06-28T10:00:46+00:00'
+cluster_id: cluster-2026-06-22-1fab1a7709
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Supreme Court Takes Center Stage In Midterm Election

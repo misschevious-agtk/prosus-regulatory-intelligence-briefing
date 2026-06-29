@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-23-cff908c0e5
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Legal Ethics Roundup: When Lawyers Protest, SCOTX Says Self-Rep Lawyer Can Contact Opposing Party, And More!

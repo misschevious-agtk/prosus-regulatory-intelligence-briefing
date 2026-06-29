@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-06-21-1d54d87d68
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: ordre-du-jour-de-la-s-ance-pl-ni-re-du-28-mai-2026
-ranked_at: '2026-06-28T10:00:46+00:00'
+cluster_id: cluster-2026-06-22-dd56da526b
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 28 mai 2026

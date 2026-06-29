@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-88a2d1728b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: spacex-stock-keeps-rising-and-i-can-t-think-of-a-better-use-of-investo
-ranked_at: '2026-06-28T10:00:46+00:00'
+cluster_id: cluster-2026-06-22-6cf2f7b6a6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # SpaceX Stock Keeps Rising, And I Can’t Think Of A Better Use Of Investors’ Money Than Blowing Up More Launchpads

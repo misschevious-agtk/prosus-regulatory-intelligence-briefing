@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-75607f3a6e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: learning-after-law-school-how-do-you-keep-your-skills-fresh
-ranked_at: '2026-06-28T10:00:46+00:00'
+cluster_id: cluster-2026-06-22-7c7421303c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Learning After Law School: How Do You Keep Your Skills Fresh?

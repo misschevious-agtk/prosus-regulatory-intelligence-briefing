@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-9ec55b677b
-cluster_size: 3
+cluster_id: cluster-2026-06-22-7e31a0e46f
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legaltechtalk-to-launch-in-the-usa
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # LegalTechTalk to launch in the USA

@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-26-2b482731f2
-cluster_size: 45
+cluster_size: 60
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-business-appointment-rules-advice-january-to-mar
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Transparency data: CMA: Business Appointment Rules advice, January to March 2026

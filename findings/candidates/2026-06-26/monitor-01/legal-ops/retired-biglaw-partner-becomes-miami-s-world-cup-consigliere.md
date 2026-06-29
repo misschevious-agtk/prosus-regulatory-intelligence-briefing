@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-25-614a7d93c5
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: retired-biglaw-partner-becomes-miami-s-world-cup-consigliere
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Retired Biglaw Partner Becomes Miami’s World Cup ‘Consigliere’

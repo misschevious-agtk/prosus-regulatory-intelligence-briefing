@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-09cb17838e
-cluster_size: 7
+cluster_id: cluster-2026-06-22-c197578a71
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-term-limits-went-from-punchline-to-platform-for-progress
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Happy Juneteenth! — See Also

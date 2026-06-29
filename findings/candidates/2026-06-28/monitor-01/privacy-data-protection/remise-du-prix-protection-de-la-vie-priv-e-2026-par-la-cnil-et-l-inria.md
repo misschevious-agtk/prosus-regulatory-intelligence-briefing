@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-21-54befd8842
-cluster_size: 95
+cluster_id: cluster-2026-06-22-87604a5c22
+cluster_size: 99
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Remise du prix « Protection de la vie privée » 2026 par la CNIL et l’Inria

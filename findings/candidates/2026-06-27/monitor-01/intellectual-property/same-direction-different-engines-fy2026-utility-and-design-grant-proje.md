@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-745c74b4d8
+cluster_id: cluster-2026-06-22-b0f0848283
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: same-direction-different-engines-fy2026-utility-and-design-grant-proje
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Same Direction, Different Engines: FY2026 Utility and Design Grant Projections

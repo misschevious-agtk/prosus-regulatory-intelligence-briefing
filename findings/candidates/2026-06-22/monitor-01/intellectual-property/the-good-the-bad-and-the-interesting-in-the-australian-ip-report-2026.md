@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-f6775b1d0e
-cluster_size: 169
+cluster_id: cluster-2026-06-22-b75717889e
+cluster_size: 171
 cluster_role: sibling
 cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # The good, the bad and the interesting in the Australian IP Report 2026

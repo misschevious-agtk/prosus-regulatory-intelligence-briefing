@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-ccd83a9ca7
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: does-ai-give-male-lawyers-better-resumes
-ranked_at: '2026-06-28T10:00:46+00:00'
+cluster_id: cluster-2026-06-22-d09a1606d9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Does AI Give Male Lawyers Better Resumes?

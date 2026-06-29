@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-d950a20e51
+cluster_id: cluster-2026-06-22-de8f283dc2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: on-lawnext-new-casepoint-ceo-paul-colangelo-on-ai-govtech-and-the-road
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # On LawNext: New Casepoint CEO Paul Colangelo on AI, GovTech and the Road Ahead

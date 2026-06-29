@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-924d5dda0a
+cluster_id: cluster-2026-06-22-666f805afd
 cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: from-the-hugging-face-hub-to-robot-hardware-with-strands-agents-and-le
-ranked_at: '2026-06-28T10:00:46+00:00'
+cluster_role: canonical
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot

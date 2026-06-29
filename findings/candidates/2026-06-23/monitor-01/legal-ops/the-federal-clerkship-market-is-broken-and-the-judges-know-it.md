@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-8df8eb701c
-cluster_size: 3
+cluster_id: cluster-2026-06-22-7343c6e07b
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-federal-clerkship-market-is-broken-and-the-judges-know-it
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # The Federal Clerkship Market Is Broken, And The Judges Know It

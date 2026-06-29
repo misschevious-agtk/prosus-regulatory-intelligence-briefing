@@ -21,10 +21,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-24-6d891fbbf8
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: uspto-designates-as-precedential-a-decision-waiving-director-review-de
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # USPTO designates as precedential a decision waiving Director Review deadline

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-f6775b1d0e
-cluster_size: 169
+cluster_id: cluster-2026-06-22-b75717889e
+cluster_size: 171
 cluster_role: sibling
 cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # Anticompetitive Agreements Within Apple’s Distribution Network and Abuse of a Situation of Economic Dependency: End of an Antitrust Saga

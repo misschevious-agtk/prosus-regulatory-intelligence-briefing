@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-21-e324794be7
-cluster_size: 12
+cluster_id: cluster-2026-06-22-e8d0b0e1f1
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: harvey-trains-open-source-models-to-encode-law-firm-workflows
-ranked_at: '2026-06-28T10:00:46+00:00'
+ranked_at: '2026-06-29T12:01:51+00:00'
 ---
 
 # The Crosby Story – With Co-founder, Ryan Daniels

@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-22-5803f3fb43
-cluster_size: 8
+cluster_id: cluster-2026-06-23-3acc11271e
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: nomination-de-jean-michel-fietier-au-poste-de-directeur-administratif-
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Nomination de Jean-Michel FIETIER au poste de directeur administratif et financier de la CNIL

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-23-322a4f44de
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: quinn-emanuel-gives-pro-bono-its-own-bonus-credit
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Quinn Emanuel Gives Pro Bono Its Own Bonus Credit

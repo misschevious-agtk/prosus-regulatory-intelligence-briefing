@@ -20,10 +20,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-24-1991753731
-cluster_size: 36
+cluster_size: 39
 cluster_role: sibling
 cluster_canonical_slug: microsoft-s-business-software-ecosystem
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Microsoft’s business software ecosystem

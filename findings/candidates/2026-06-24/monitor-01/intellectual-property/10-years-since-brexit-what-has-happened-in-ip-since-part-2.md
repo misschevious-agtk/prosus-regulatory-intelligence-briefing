@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-22-b75717889e
-cluster_size: 171
-cluster_role: sibling
-cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-06-29T12:01:51+00:00'
+cluster_id: cluster-2026-06-24-04c530e554
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # 10 Years since Brexit: What has happened in IP since? Part 2

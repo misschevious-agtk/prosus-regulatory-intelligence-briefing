@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-22-3201f3276e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: aiming-to-provide-members-with-affordable-ai-tools-illinois-bar-partne
-ranked_at: '2026-06-29T12:01:51+00:00'
+cluster_id: cluster-2026-06-23-5b18da53f0
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Aiming To Provide Members with Affordable AI Tools, Illinois Bar Partners with SimpleDocs for Contract Review

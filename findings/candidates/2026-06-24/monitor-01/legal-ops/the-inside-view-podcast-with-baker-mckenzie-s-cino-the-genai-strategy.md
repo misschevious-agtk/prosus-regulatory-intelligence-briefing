@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-24-fe5bc684b8
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # The Inside View podcast with Baker McKenzie’s CINO: The GenAI strategy

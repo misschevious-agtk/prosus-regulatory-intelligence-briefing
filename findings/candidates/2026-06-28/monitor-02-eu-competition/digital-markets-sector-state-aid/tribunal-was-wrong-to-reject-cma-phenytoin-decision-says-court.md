@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-22-581679ae7d
-cluster_size: 48
+cluster_id: cluster-2026-06-23-b520b1b635
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: phenytoin-sodium-capsules-suspected-unfair-pricing
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Tribunal was “wrong” to reject CMA phenytoin decision, says Court

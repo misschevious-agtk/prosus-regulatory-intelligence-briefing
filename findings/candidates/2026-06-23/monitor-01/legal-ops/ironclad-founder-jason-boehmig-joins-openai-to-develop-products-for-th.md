@@ -25,11 +25,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-22-a716dec545
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-th
-ranked_at: '2026-06-29T12:01:51+00:00'
+cluster_id: cluster-2026-06-23-d38ffdf02f
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector

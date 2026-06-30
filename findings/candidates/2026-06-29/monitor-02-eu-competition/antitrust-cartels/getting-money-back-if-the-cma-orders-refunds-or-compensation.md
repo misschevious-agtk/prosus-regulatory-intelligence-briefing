@@ -22,7 +22,7 @@ cluster_id: cluster-2026-06-26-649be7f2ba
 cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: getting-money-back-if-the-cma-orders-refunds-or-compensation
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Getting money back if the CMA orders refunds or compensation

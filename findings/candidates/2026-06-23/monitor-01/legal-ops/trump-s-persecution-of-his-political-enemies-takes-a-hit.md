@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-23-0bc33570b5
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Trump’s Persecution Of His Political Enemies Takes A Hit

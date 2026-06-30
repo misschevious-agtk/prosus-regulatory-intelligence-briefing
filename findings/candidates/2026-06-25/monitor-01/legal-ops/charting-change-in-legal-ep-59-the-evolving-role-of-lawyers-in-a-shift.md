@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-25-8fee24eb1b
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Charting Change In Legal ep 59: The evolving role of lawyers in a shifting market

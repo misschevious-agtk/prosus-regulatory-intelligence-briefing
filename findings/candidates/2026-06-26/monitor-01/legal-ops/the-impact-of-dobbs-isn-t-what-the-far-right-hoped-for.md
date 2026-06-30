@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-25-2b0016a9ee
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-impact-of-dobbs-isn-t-what-the-far-right-hoped-for
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # The Impact Of Dobbs Isn’t What The Far Right Hoped For

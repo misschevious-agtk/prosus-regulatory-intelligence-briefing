@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-23-42dfce5dd6
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-partner-pay-revolution-has-a-losers-bracket
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Biglaw’s Partner Pay Revolution Has A Losers’ Bracket

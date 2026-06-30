@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-24-624fdb7a4b
-cluster_size: 126
+cluster_size: 112
 cluster_role: sibling
 cluster_canonical_slug: questions-and-answers-on-the-tax-simplification-package
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Commission pays €846 million to Spain to support recovery following the 2024 Valencia region floods

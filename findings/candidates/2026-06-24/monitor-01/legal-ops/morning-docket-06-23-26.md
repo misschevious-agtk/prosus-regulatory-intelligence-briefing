@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-29-700a2489f4
-cluster_size: 422
+cluster_id: cluster-2026-06-23-8080d5fa9f
+cluster_size: 447
 cluster_role: sibling
-ranked_at: '2026-06-29T12:01:51+00:00'
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
+ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_canonical_slug: saturday-sundries
 ---
 
 # Morning Docket: 06.23.26

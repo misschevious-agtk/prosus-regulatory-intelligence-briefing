@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-26-8128ed06c8
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: from-foonberg-to-fan-celebrating-a-half-century-of-law-firm-independen
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # From Foonberg To Fan: Celebrating A Half Century Of Law Firm Independents

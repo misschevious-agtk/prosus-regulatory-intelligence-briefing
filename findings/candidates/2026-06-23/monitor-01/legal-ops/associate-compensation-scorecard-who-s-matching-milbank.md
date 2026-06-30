@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-22-c0a515923d
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: elite-litigation-boutique-raises-salaries-and-its-clerkship-bonuses
-ranked_at: '2026-06-29T12:01:51+00:00'
+cluster_id: cluster-2026-06-23-da2df89541
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Associate Compensation Scorecard: Who’s Matching Milbank?

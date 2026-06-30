@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-27-1e1b844ccc
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # House Appropriators Approve $1T Defense Bill, Adopt ‘War Department’ Renaming

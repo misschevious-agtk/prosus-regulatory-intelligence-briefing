@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-26-1781e0db2c
-cluster_size: 8
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: commission-proposes-to-extend-temporary-protection-of-people-fleeing-u
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Commission proposes to extend temporary protection of people fleeing Ukraine for an additional year

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-22-3855355e29
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: ltt-vibeathon-50-apps-built-and-here-are-the-winners
-ranked_at: '2026-06-29T12:01:51+00:00'
+cluster_id: cluster-2026-06-23-4c98004857
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # LTT Vibeathon: 50+ apps built – And here are the winners

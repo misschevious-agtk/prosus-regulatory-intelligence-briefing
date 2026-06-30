@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-22-b75717889e
-cluster_size: 171
+cluster_id: cluster-2026-06-23-7f298b25a9
+cluster_size: 29
 cluster_role: sibling
-cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-06-29T12:01:51+00:00'
+cluster_canonical_slug: australian-high-court-hears-high-stakes-matter-of-pte-eligibility-of-f
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Important changes to New Zealand divisional patent practice

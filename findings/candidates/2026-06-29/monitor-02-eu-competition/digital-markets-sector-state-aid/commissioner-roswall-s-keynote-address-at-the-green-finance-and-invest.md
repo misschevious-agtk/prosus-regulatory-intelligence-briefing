@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-29-0644fba4b3
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commissioner-roswall-s-keynote-address-at-the-green-finance-and-invest
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # Commissioner Roswall's keynote address at the Green Finance and Investment Forum, Moldova

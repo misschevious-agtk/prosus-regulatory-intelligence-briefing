@@ -18,11 +18,11 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-22-22e22ab452
-cluster_size: 43
+cluster_id: cluster-2026-06-23-89dfeff980
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawf
-ranked_at: '2026-06-29T12:01:51+00:00'
+ranked_at: '2026-06-30T10:35:19+00:00'
 ---
 
 # The Italian Supervisory Authority has fined Verisure Italia for unlawful processing of personal data for direct marketing purposes

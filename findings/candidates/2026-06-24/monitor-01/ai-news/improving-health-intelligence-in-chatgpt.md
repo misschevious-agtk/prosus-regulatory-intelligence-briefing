@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-8080d5fa9f
-cluster_size: 447
-cluster_role: sibling
-cluster_canonical_slug: saturday-sundries
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-da2013556a
+cluster_size: 16
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Improving health intelligence in ChatGPT

@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-06-30-c1413ae0a8
-cluster_size: 15
+cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: cma-consults-on-new-requirements-for-apple-and-google-s-mobile-platfor
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Issues relating to NFC access on iOS

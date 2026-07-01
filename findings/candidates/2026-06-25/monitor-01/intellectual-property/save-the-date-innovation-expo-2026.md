@@ -18,9 +18,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-25-242dba05b6
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Save the Date: Innovation Expo 2026

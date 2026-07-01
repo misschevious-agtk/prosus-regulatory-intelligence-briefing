@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-25-1bc85f4fcd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: l-ue-et-le-b-nin-renforcent-leur-partenariat-dans-les-domaines-de-l-co
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # L'UE et le Bénin renforcent leur partenariat dans les domaines de l'économie, la sécurité et la durabilité

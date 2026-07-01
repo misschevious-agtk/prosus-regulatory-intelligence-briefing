@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-23-c9876b520f
-cluster_size: 81
-cluster_role: sibling
-cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-f9f06189db
+cluster_size: 48
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Marks Electrical: consumer protection enforcement case

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-1c0b8fc573
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: kff-insurer-participation-in-aca-marketplaces-is-down
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-f6ada03a7a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # KFF: Insurer Participation In ACA Marketplaces Is Down

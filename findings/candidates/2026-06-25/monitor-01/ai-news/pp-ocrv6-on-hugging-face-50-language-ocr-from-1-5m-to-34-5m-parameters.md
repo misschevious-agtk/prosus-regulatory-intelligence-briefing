@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-919a004b58
-cluster_size: 8
+cluster_id: cluster-2026-06-24-57471d93fe
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: pp-ocrv6-on-hugging-face-50-language-ocr-from-1-5m-to-34-5m-parameters
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters

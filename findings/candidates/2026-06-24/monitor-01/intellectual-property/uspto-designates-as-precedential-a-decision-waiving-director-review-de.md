@@ -20,10 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-24-6d891fbbf8
-cluster_size: 8
-cluster_role: canonical
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-5c4ddf14de
+cluster_size: 147
+cluster_role: sibling
+ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
 ---
 
 # USPTO designates as precedential a decision waiving Director Review deadline

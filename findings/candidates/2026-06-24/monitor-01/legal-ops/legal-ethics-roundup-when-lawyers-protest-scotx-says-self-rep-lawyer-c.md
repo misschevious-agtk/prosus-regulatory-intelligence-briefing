@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-cff908c0e5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-when-lawyers-protest-scotx-says-self-rep-lawyer-c
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-a636b6555f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Legal Ethics Roundup: When Lawyers Protest, SCOTX Says Self-Rep Lawyer Can Contact Opposing Party, And More!

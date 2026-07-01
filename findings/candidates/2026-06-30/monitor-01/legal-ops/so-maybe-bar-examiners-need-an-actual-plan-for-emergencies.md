@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-30-d5a1d40f6b
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # So… Maybe Bar Examiners Need An Actual Plan For Emergencies?

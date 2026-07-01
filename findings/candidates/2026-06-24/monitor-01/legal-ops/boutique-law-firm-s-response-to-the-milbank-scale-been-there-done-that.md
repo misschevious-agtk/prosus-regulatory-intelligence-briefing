@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-24-1c18b1ae7c
 cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: some-firms-have-to-be-dragged-into-a-salary-match-not-this-one
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Boutique Law Firm’s Response To The Milbank Scale? Been There, Done That.

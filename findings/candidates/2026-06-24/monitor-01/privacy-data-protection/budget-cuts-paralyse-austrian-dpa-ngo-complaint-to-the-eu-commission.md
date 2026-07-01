@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-1ae1bcd1a1
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: budget-cuts-paralyse-austrian-dpa-ngo-complaint-to-the-eu-commission
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-1acd9f61d7
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Budget cuts paralyse Austrian DPA: NGO complaint to the EU Commission

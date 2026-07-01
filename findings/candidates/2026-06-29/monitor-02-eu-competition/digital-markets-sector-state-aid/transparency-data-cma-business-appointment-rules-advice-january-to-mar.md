@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-26-2b482731f2
 cluster_size: 75
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-business-appointment-rules-advice-january-to-mar
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Transparency data: CMA: Business Appointment Rules advice, January to March 2026

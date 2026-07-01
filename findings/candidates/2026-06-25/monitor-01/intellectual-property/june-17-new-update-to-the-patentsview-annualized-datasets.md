@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-23-1d4555ae79
-cluster_size: 137
+cluster_id: cluster-2026-06-24-5c4ddf14de
+cluster_size: 147
 cluster_role: sibling
 cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # June 17: New update to the PatentsView Annualized datasets

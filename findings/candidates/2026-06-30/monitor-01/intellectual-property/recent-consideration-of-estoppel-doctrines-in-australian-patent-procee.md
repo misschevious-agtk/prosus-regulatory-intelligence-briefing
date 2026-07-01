@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: FCA
 case_numbers: []
-cluster_id: cluster-2026-06-23-7f298b25a9
-cluster_size: 29
+cluster_id: cluster-2026-06-24-dd8c5de0de
+cluster_size: 31
 cluster_role: sibling
 cluster_canonical_slug: australian-high-court-hears-high-stakes-matter-of-pte-eligibility-of-f
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Recent consideration of estoppel doctrines in Australian patent proceedings confirms the bar remains high

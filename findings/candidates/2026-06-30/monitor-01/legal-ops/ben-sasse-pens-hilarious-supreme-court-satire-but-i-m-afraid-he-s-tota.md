@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-26-e18ce952ff
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: no-laughing-matter-humor-s-place-in-legal-pedagogy
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Ben Sasse Pens Hilarious Supreme Court Satire, But I’m Afraid He’s Totally Serious

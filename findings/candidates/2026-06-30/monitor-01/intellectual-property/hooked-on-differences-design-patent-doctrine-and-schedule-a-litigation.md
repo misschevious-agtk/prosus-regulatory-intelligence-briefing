@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-8bb81757ec
-cluster_size: 16
+cluster_id: cluster-2026-06-24-799493d47a
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: the-federal-circuit-s-expanding-grip-on-dismissed-patent-claims
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Hooked on Differences: Design Patent Doctrine and Schedule A Litigation at the Federal Circuit

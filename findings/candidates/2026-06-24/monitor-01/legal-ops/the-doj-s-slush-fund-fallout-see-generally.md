@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-23-c805a4b774
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-doj-s-slush-fund-fallout-see-generally
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-5cf06793e6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # The DOJ’s Slush Fund Fallout — See Generally

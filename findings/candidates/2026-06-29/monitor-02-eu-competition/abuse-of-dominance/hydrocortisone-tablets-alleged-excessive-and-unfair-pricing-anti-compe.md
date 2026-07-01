@@ -22,7 +22,7 @@ cluster_id: cluster-2026-06-24-136260136a
 cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: hydrocortisone-tablets-alleged-excessive-and-unfair-pricing-anti-compe
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Hydrocortisone tablets: alleged excessive and unfair pricing, anti-competitive agreements and abusive conduct (50277)

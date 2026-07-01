@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-23-b520b1b635
-cluster_size: 42
+cluster_id: cluster-2026-06-24-38b0be082f
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: phenytoin-sodium-capsules-suspected-unfair-pricing
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Phenytoin sodium capsules: suspected unfair pricing

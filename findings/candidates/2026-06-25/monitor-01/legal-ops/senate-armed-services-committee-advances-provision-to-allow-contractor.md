@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-25-62a034ca0d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Senate Armed Services Committee Advances Provision To Allow Contractor Cyber Operations

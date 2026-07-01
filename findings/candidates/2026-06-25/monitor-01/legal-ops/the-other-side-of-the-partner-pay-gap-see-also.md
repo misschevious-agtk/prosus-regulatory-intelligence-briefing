@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-11951f6f52
-cluster_size: 3
+cluster_id: cluster-2026-06-24-d16df3a50c
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-other-side-of-the-partner-pay-gap-see-also
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # The Other Side Of The Partner Pay Gap — See Also

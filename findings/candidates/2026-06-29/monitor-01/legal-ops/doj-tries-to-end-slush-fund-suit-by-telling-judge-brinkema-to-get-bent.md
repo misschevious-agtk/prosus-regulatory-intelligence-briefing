@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-27-cd4e11c9bb
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: doj-tries-to-end-slush-fund-suit-by-telling-judge-brinkema-to-get-bent
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # DOJ Tries To End Slush Fund Suit By Telling Judge Brinkema To Get Bent. Fails.

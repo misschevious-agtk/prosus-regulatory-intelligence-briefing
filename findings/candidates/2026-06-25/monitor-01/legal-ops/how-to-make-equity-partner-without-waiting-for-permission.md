@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-24-977b45e88e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: how-to-make-equity-partner-without-waiting-for-permission
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # How To Make Equity Partner Without Waiting For Permission

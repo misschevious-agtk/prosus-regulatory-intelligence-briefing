@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-30-358ed44fae
-cluster_size: 39
+cluster_size: 41
 cluster_role: sibling
 cluster_canonical_slug: purpose-and-pragmatism-in-the-uk-s-digital-markets-competition-regime
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Merger Control in Argentina: From (the Impossibility of) Unscrambling the Eggs to Ex-Ante Review (1999-2026)

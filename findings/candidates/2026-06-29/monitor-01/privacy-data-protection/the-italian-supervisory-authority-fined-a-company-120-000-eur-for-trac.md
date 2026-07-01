@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-89dfeff980
-cluster_size: 42
+cluster_id: cluster-2026-06-24-1a182cbdeb
+cluster_size: 41
 cluster_role: sibling
 cluster_canonical_slug: the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawf
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars

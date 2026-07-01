@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-5497f865db
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-obvious-midsummer-twist-in-the-negotiations-with-iran
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-518f5fa2be
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # The Obvious Midsummer Twist In The Negotiations With Iran

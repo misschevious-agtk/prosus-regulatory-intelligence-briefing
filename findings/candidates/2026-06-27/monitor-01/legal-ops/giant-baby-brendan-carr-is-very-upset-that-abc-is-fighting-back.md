@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-27-b04b56b5a2
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Giant Baby Brendan Carr Is Very Upset That ABC Is Fighting Back

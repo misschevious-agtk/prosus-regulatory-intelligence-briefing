@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-30-d76c897b47
-cluster_size: 4
-cluster_role: canonical
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-624fdb7a4b
+cluster_size: 122
+cluster_role: sibling
+ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_canonical_slug: questions-and-answers-on-the-tax-simplification-package
 ---
 
 # New rules to protect EU steel industry from damaging impacts of global overcapacity enter into application

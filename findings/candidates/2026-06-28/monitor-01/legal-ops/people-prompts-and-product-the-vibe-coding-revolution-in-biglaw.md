@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-26-8138263e47
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: people-prompts-and-product-the-vibe-coding-revolution-in-biglaw
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # People, Prompts, And Product: The ‘Vibe Coding’ Revolution In Biglaw

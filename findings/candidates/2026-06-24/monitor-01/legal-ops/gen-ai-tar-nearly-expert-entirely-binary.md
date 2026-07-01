@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-24-2ca8e4c093
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-06-30T10:35:19+00:00'
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Gen AI TAR: Nearly expert, entirely binary

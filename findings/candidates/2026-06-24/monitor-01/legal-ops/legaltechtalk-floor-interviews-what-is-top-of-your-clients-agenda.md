@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-6a0cc35b77
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legaltechtalk-floor-interviews-what-is-top-of-your-clients-agenda
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-ba2f8aee6a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # LegalTechTalk floor interviews: What is top of your clients’ agenda?

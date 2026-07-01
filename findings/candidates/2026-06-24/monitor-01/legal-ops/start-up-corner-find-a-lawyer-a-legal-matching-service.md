@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-aee4ced185
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: start-up-corner-find-a-lawyer-a-legal-matching-service
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-e169ec6122
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Start up Corner: Find A Lawyer – A legal matching service

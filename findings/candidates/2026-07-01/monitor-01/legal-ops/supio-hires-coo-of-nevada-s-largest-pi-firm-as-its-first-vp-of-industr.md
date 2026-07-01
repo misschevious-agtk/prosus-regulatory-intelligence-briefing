@@ -1,0 +1,36 @@
+---
+date_found: 2026-07-01
+monitor: monitor-01
+domain: legal-ops
+source_url: https://www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html
+source_publisher: LawSites (Bob Ambrogi)
+source_date: Tue, 30 Jun 2026 13:07:35 +0000
+source_method: rss
+title: Supio Hires COO of Nevada’s Largest PI Firm As Its First VP of Industry, To Help Drive Innovation Strategy
+matched_keywords:
+- LawNext
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-07-01-38082bd79b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
+---
+
+# Supio Hires COO of Nevada’s Largest PI Firm As Its First VP of Industry, To Help Drive Innovation Strategy
+
+**Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html)
+**Published:** Tue, 30 Jun 2026 13:07:35 +0000
+**Matched keywords (1):** LawNext
+
+## Summary excerpt
+
+Supio, the AI platform built for plaintiffs&#8217; personal injury firms, has hired Melissa Graham, chief operating officer of Nevada&#8217;s Richard Harris Law Firm for the last 15 years, as its vice president of industry, a newly created role aimed at narrowing the gap between the people who build legal technology and the people who actually [&#8230;]
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

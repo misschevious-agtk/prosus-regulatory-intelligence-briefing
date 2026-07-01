@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-2af3481dd4
+cluster_id: cluster-2026-06-24-2efbdf319b
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: consulting-firm-harbor-acquires-ce-global-partners-expanding-its-hr-an
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # Consulting Firm Harbor Acquires CE Global Partners, Expanding Its HR and Payroll Advisory Capabilities

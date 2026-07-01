@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-23-d70a20cdca
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: if-your-ai-agent-sends-an-email-to-a-regulator-tomorrow-who-is-respons
-ranked_at: '2026-06-30T10:35:19+00:00'
+cluster_id: cluster-2026-06-24-45d1f6dfa1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-01T10:44:33+00:00'
 ---
 
 # If Your AI Agent Sends An Email To A Regulator Tomorrow, Who Is Responsible?

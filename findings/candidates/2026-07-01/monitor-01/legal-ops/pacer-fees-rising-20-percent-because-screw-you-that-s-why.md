@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-30-ce5b1bc52e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: pacer-fees-rising-20-percent-because-screw-you-that-s-why
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # PACER Fees Rising 20 Percent Because Screw You, That’s Why

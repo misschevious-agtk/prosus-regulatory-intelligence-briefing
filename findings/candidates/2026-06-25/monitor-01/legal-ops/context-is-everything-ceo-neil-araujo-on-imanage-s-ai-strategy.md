@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-ed131eb754
-cluster_size: 23
-cluster_role: sibling
-cluster_canonical_slug: context-is-everything-ceo-neil-araujo-on-imanage-s-ai-strategy
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_id: cluster-2026-06-25-69e57988a2
+cluster_size: 22
+cluster_role: canonical
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Context Is Everything: CEO Neil Araujo on iManage’s AI Strategy

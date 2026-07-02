@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-06-30-db9467af5c
-cluster_size: 4
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: v-hicules-connect-s-dans-quelles-conditions-vos-donn-es-de-localisatio
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?

@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-c5c04338b6
+cluster_id: cluster-2026-06-25-5cda57913d
 cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: shoosmiths-unveils-proprietary-ai-contract-review-tool-built-with-micr
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Shoosmiths unveils proprietary AI contract review tool built with Microsoft

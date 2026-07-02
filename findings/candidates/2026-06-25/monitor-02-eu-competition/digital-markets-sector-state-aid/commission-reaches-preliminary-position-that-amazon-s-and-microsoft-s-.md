@@ -33,7 +33,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-25-76a130548f
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Commission reaches preliminary position that Amazon's and Microsoft's market leading cloud services should be designated under the DMA

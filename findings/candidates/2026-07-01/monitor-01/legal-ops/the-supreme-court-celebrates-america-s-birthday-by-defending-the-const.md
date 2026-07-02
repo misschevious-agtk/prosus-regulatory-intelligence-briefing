@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-01-14e6eeb41b
-cluster_size: 1
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # The Supreme Court Celebrates America’s Birthday By Defending The Constitution

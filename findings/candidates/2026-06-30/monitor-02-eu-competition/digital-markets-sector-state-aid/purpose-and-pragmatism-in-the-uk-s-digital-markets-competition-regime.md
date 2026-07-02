@@ -18,10 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-30-358ed44fae
-cluster_size: 41
-cluster_role: canonical
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_id: cluster-2026-06-29-c5d6c427f6
+cluster_size: 118
+cluster_role: sibling
+ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_canonical_slug: strategic-review-of-cma-markets-remedies
 ---
 
 # Purpose and pragmatism in the UK’s digital markets competition regime

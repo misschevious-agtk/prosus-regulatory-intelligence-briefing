@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-e43a8f8b06
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: the-legaltechtalk-festival-some-important-takeaways
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_id: cluster-2026-06-25-88f171dfef
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # The LegalTechTalk festival – Some important takeaways

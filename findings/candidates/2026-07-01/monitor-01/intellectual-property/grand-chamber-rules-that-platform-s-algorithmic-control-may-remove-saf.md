@@ -21,11 +21,11 @@ case_numbers:
   citation: C-188/24
 - scheme: EU Court of Justice
   citation: C-190/24
-cluster_id: cluster-2026-06-24-dc9a4a16ff
+cluster_id: cluster-2026-06-25-b2bd13f4d9
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: grand-chamber-rules-that-platform-s-algorithmic-control-may-remove-saf
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Grand Chamber rules that platform's algorithmic control may remove safe harbour availability

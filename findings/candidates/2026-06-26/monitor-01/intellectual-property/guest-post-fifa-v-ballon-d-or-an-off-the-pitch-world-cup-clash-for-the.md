@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-201e6a6762
-cluster_size: 438
+cluster_id: cluster-2026-06-25-03ce5bb6b8
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: saturday-sundries
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_canonical_slug: guest-post-fifa-v-ballon-d-or-an-off-the-pitch-world-cup-clash-for-the
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # [Guest post] FIFA v Ballon d’Or: an off the pitch World Cup clash for the ages

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-e7177cce05
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: spain-s-internet-blocks-have-a-flimsy-legal-basis-while-lacking-both-o
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_id: cluster-2026-06-25-4e5835ff6b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Spain’s Internet Blocks Have A Flimsy Legal Basis, While Lacking Both Oversight & Accountability

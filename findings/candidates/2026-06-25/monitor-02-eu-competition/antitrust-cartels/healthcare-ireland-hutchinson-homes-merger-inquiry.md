@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-24-4262ec9d34
-cluster_size: 21
-cluster_role: sibling
-cluster_canonical_slug: healthcare-ireland-hutchinson-homes-merger-inquiry
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_id: cluster-2026-06-25-992ef553d5
+cluster_size: 18
+cluster_role: canonical
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Healthcare Ireland / Hutchinson Homes merger inquiry

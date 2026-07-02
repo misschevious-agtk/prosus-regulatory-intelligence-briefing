@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-135e7f8d7b
-cluster_size: 11
+cluster_id: cluster-2026-06-25-40d612bde9
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Le CEPD rencontre le commissaire européen McGrath et adopte un modèle commun de notification des violations de données

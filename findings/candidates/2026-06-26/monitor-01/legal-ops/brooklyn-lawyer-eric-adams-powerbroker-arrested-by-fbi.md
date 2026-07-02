@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-25-bae45413b2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: brooklyn-lawyer-eric-adams-powerbroker-arrested-by-fbi
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Brooklyn Lawyer/ Eric Adams Powerbroker Arrested By FBI

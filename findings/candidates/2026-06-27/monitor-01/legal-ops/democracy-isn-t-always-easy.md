@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-27-3c186eebd0
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Democracy Isn’t Always Easy

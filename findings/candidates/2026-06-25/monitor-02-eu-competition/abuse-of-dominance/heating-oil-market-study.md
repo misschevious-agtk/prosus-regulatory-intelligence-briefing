@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-24-f9f06189db
-cluster_size: 48
+cluster_id: cluster-2026-06-25-d8192d71bf
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: marks-electrical-consumer-protection-enforcement-case
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_canonical_slug: appliances-direct-consumer-protection-enforcement-case
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Heating oil market study

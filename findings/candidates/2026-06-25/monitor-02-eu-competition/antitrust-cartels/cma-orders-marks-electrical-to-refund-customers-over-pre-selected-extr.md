@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-24-f9f06189db
-cluster_size: 48
-cluster_role: sibling
-cluster_canonical_slug: marks-electrical-consumer-protection-enforcement-case
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_id: cluster-2026-06-25-c19111b740
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # CMA orders Marks Electrical to refund customers over pre-selected extra charges

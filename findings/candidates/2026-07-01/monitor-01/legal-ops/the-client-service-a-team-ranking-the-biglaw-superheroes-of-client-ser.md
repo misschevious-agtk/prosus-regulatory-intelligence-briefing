@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-30-11041ad89a
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-client-service-a-team-ranking-the-biglaw-superheroes-of-client-ser
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026)

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-1c18b1ae7c
-cluster_size: 18
+cluster_id: cluster-2026-06-25-9063457b8a
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: some-firms-have-to-be-dragged-into-a-salary-match-not-this-one
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Associate Compensation Scorecard: Where Are Biglaw Firms In The Race To Match Milbank?

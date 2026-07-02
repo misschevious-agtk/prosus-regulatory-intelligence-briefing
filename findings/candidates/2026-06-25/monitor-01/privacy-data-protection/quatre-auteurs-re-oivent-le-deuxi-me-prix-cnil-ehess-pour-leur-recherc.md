@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-24-1cda9afd71
-cluster_size: 107
+cluster_id: cluster-2026-06-25-d960353f22
+cluster_size: 110
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens

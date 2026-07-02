@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-d8f0cd663e
-cluster_size: 7
+cluster_id: cluster-2026-06-25-b42b2bc1f4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: soar-presents-cooperative-patent-classification-for-cellular-immunothe
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # SOAR presents: Cooperative Patent Classification for cellular immunotherapy

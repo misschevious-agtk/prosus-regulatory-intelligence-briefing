@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-24-e39a1d0852
+cluster_id: cluster-2026-06-25-735ae637bf
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: three-is-company-new-data-on-103-reference-counts
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Three Is Company: New Data on § 103 Reference Counts

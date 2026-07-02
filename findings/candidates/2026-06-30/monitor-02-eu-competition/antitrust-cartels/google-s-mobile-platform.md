@@ -24,10 +24,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-06-30-c1413ae0a8
-cluster_size: 30
+cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: cma-consults-on-new-requirements-for-apple-and-google-s-mobile-platfor
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Google’s mobile platform

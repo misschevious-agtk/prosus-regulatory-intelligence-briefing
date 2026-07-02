@@ -18,9 +18,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-06-27-f5de74d7c5
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Watch "Life, Liberty, and the Pursuit of Innovation," a special film for America's 250th anniversary00

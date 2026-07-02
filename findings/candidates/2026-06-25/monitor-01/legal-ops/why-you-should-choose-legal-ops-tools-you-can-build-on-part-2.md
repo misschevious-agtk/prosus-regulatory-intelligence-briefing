@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-f88ce98ec4
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: why-you-should-choose-legal-ops-tools-you-can-build-on-part-2
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_id: cluster-2026-06-25-e4de440257
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Why You Should Choose Legal Ops Tools You Can Build On (Part 2)

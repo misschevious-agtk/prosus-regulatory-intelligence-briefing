@@ -18,11 +18,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-06-24-1cda9afd71
-cluster_size: 107
+cluster_id: cluster-2026-06-25-d960353f22
+cluster_size: 110
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # NEWSLETTER del 27/11/25 - Sanità, il Garante privacy sanziona società che gestisce un ospedale - Online le FAQ su trattamento dati e trasparenza nei concorsi pubblici - Whistleblowing: nuovo parere sulle Linee guida di ANAC - "La scuola a prova di privacy". Il vademecum aggiornato - GDPR e obblighi di trasparenza, il Garante partecipa al CEF 2026

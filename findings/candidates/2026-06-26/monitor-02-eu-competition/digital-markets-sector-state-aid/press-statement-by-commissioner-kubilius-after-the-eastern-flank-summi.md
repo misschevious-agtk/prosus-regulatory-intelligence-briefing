@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-26-a63d255c66
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: press-statement-by-commissioner-kubilius-after-the-eastern-flank-summi
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Press Statement by Commissioner Kubilius after the Eastern Flank Summit

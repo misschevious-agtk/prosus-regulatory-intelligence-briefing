@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-fe073bebe5
+cluster_id: cluster-2026-06-25-7771bf9100
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: clio-launches-two-ai-initiatives-free-tools-for-florida-lawyers-and-a-
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Clio Launches Two AI Initiatives: Free Tools for Florida Lawyers and a Pledge to Train 25,000 Professionals

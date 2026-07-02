@@ -13,10 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-5c4ddf14de
-cluster_size: 147
+cluster_id: cluster-2026-06-25-c1b95346ef
+cluster_size: 148
 cluster_role: sibling
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
 ---
 

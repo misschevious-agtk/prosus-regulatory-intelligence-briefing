@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-9065d44722
-cluster_size: 6
+cluster_id: cluster-2026-06-25-18d3fcd7af
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: recent-activity-on-plant-breeders-rights-in-canada
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Recent activity on plant breeders' rights in Canada

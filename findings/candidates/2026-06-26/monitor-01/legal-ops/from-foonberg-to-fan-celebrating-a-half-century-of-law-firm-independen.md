@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-26-8128ed06c8
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-01T10:44:33+00:00'
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # From Foonberg To Fan: Celebrating A Half Century Of Law Firm Independents

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-1a182cbdeb
-cluster_size: 41
+cluster_id: cluster-2026-06-25-629f99d4cc
+cluster_size: 39
 cluster_role: sibling
-cluster_canonical_slug: the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawf
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_canonical_slug: italian-sa-fines-a-company-for-post-sick-leave-questionnaires
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Imposition of fine on a telecommunications company for violations of data subject’s rights

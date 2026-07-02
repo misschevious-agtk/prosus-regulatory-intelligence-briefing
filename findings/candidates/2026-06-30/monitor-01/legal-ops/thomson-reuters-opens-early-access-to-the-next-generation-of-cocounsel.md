@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-24-201e6a6762
-cluster_size: 438
+cluster_id: cluster-2026-06-25-e6d5b1d625
+cluster_size: 26
 cluster_role: sibling
-cluster_canonical_slug: saturday-sundries
-ranked_at: '2026-07-01T10:44:33+00:00'
+cluster_canonical_slug: thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel
+ranked_at: '2026-07-02T10:13:18+00:00'
 ---
 
 # Thomson Reuters Opens Early Access to the ‘Next Generation’ of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-cded42398a
-cluster_size: 33
+cluster_id: cluster-2026-07-03-4fb1a0e8af
+cluster_size: 38
 cluster_role: sibling
-cluster_canonical_slug: australian-high-court-hears-high-stakes-matter-of-pte-eligibility-of-f
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_canonical_slug: the-en-banc-queue-for-july-2026
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Australian High Court hears high-stakes matter of PTE eligibility of formulation patents

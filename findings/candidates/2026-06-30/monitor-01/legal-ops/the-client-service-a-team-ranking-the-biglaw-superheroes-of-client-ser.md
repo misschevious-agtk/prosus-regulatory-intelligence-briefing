@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-30-11041ad89a
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026)

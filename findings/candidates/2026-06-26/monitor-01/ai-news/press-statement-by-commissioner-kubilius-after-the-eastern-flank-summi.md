@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-26-a63d255c66
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Press Statement by Commissioner Kubilius after the Eastern Flank Summit

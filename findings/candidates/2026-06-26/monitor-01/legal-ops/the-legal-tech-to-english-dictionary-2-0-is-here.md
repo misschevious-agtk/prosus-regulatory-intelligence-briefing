@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-26-7ee85476a2
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # The Legal Tech–To-English Dictionary (2.0) Is Here!

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-4c3cfb4288
+cluster_id: cluster-2026-06-26-de3b5c797b
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: wear-and-tear-changes-measurable-pfas-levels-in-firefighter-hoods-glov
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Wear and Tear Changes Measurable PFAS Levels in Firefighter Hoods, Gloves and Wildland Gear

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-02-d164e8035b
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Former Biglaw Partner Says Trump’s Billion-Dollar Crypto Haul Is ‘The Greatest Onslaught Of Corruption In The History Of Mankind’

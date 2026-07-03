@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-71729ce6e1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: gen-ai-tar-nearly-expert-entirely-binary
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_id: cluster-2026-06-26-59618b3722
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Gen AI TAR: Nearly expert, entirely binary

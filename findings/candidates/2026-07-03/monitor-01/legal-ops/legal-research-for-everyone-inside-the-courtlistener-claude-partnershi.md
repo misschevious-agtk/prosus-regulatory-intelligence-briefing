@@ -1,0 +1,39 @@
+---
+date_found: 2026-07-03
+monitor: monitor-01
+domain: legal-ops
+source_url: https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html
+source_publisher: Above the Law
+source_date: Thu, 02 Jul 2026 21:15:00 +0000
+source_method: rss
+title: 'Legal Research For Everyone: Inside The CourtListener-Claude Partnership'
+matched_keywords:
+- Above the Law
+- LawNext
+- Claude
+match_count: 3
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-06-26-f3c5304f7d
+cluster_size: 438
+cluster_role: sibling
+cluster_canonical_slug: saturday-sundries
+ranked_at: '2026-07-03T10:00:15+00:00'
+---
+
+# Legal Research For Everyone: Inside The CourtListener-Claude Partnership
+
+**Source:** [Above the Law](https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html)
+**Published:** Thu, 02 Jul 2026 21:15:00 +0000
+**Matched keywords (3):** Above the Law, LawNext, Claude
+
+## Summary excerpt
+
+Suddenly, anyone with a legal problem and a chat window could access verified, authoritative legal materials. The post Legal Research For Everyone: Inside The CourtListener-Claude Partnership appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

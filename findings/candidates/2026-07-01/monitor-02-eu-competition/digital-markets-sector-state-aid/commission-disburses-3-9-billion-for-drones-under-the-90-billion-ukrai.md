@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-06-26-ba0b86df1d
-cluster_size: 112
+cluster_size: 124
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-state-aid-for-romania-s-investment-and-development
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Commission disburses €3.9 billion for drones under the €90 billion Ukraine Support Loan

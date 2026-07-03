@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-69e57988a2
-cluster_size: 22
+cluster_id: cluster-2026-06-26-0b2332fd12
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: context-is-everything-ceo-neil-araujo-on-imanage-s-ai-strategy
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Can a Legal AI Platform Be Powerful, Fun and Free All at the Same Time? Lavern Surely Thinks So.

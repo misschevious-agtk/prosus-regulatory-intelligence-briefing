@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-62a034ca0d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: senate-armed-services-committee-advances-provision-to-allow-contractor
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_id: cluster-2026-06-26-18eed17dc3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Senate Armed Services Committee Advances Provision To Allow Contractor Cyber Operations

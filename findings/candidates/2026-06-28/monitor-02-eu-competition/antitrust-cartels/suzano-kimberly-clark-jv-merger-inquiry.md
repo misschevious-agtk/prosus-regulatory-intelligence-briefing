@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-25-d8192d71bf
-cluster_size: 24
+cluster_id: cluster-2026-06-26-2483aa9201
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: appliances-direct-consumer-protection-enforcement-case
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_canonical_slug: suzano-kimberly-clark-jv-merger-inquiry
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Suzano / Kimberly-Clark JV merger inquiry

@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-30-db9467af5c
-cluster_size: 7
+cluster_id: cluster-2026-06-26-f3c5304f7d
+cluster_size: 438
 cluster_role: sibling
-cluster_canonical_slug: v-hicules-connect-s-dans-quelles-conditions-vos-donn-es-de-localisatio
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_canonical_slug: saturday-sundries
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation

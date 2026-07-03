@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-26-2b482731f2
 cluster_size: 75
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-business-appointment-rules-advice-january-to-mar
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Transparency data: CMA: senior officials' business expenses, Q3 2025 to 2026

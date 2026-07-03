@@ -19,7 +19,7 @@ cluster_id: cluster-2026-06-26-cf008a73e2
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: harvey-product-demo-agentic-tax-analysis-of-a-complex-merger
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Harvey Product Demo: Agentic tax analysis of a complex merger

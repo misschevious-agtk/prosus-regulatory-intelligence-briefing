@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-27-008c1d2c8f
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: origination-battles-at-law-firms-can-be-intense
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Origination Battles At Law Firms Can Be Intense

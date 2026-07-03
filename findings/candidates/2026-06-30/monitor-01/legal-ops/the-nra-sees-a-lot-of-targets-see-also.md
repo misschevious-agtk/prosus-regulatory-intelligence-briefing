@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-30-a8e52ca31c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-nra-is-suing-itself-in-all-the-courts-at-once
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # The NRA Sees A Lot Of Targets — See Also

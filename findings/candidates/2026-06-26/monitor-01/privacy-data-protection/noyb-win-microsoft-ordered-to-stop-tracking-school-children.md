@@ -23,11 +23,10 @@ match_count: 11
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-6d87250e18
+cluster_id: cluster-2026-06-26-6a5ba62887
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: noyb-win-microsoft-ordered-to-stop-tracking-school-children
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # noyb win: Microsoft ordered to stop tracking school children

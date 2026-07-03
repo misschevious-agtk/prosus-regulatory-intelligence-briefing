@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-01-ad47942152
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: elite-boutiques-continue-to-leave-biglaw-in-the-dust-another-milbank-m
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Elite Boutiques Continue To Leave Biglaw In The Dust: Another Milbank Match Is Here

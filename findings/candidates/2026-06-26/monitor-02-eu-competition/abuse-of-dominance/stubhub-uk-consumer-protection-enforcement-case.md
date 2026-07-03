@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-25-91f3f3428f
-cluster_size: 45
+cluster_id: cluster-2026-06-26-b9c5e5e608
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: stubhub-uk-consumer-protection-enforcement-case
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # StubHub UK: consumer protection enforcement case

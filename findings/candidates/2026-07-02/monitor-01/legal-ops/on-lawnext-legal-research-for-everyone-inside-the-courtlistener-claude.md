@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-06-25-96b736ae57
-cluster_size: 412
+cluster_id: cluster-2026-06-26-f3c5304f7d
+cluster_size: 438
 cluster_role: sibling
 cluster_canonical_slug: saturday-sundries
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-9063457b8a
-cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: some-firms-have-to-be-dragged-into-a-salary-match-not-this-one
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_id: cluster-2026-06-26-558f7de25f
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Boutique Firm Pays More Than Where They Broke Off From — See Also

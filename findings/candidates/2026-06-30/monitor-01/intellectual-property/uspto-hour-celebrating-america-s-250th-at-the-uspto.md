@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-25-c1b95346ef
+cluster_id: cluster-2026-06-26-ee1eacd740
 cluster_size: 148
 cluster_role: sibling
 cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # USPTO Hour: Celebrating America's 250th at the USPTO

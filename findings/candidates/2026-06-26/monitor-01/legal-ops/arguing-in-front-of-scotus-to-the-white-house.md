@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-5988ff4ef5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: arguing-in-front-of-scotus-to-the-white-house
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_id: cluster-2026-06-26-455836d9cb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Arguing In Front Of SCOTUS To The White House

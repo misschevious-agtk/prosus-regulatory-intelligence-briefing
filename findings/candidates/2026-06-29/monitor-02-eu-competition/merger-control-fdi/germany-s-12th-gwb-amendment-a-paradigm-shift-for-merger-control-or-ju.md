@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-36fbf7a29e
+cluster_id: cluster-2026-06-26-70d3c5f4b4
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: germany-s-12th-gwb-amendment-a-paradigm-shift-for-merger-control-or-ju
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Germany's 12th GWB Amendment: A Paradigm Shift for Merger Control or Just Catching Up?

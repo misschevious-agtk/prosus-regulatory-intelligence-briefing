@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-01-383a3a13f8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: saks-exits-bankruptcy
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Saks Exits Bankruptcy

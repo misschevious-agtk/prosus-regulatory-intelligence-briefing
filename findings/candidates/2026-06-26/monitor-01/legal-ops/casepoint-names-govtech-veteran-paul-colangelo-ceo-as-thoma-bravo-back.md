@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-8530f72a7a
+cluster_id: cluster-2026-06-26-16515be37e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: casepoint-names-govtech-veteran-paul-colangelo-ceo-as-thoma-bravo-back
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Casepoint Names GovTech Veteran Paul Colangelo CEO, As Thoma Bravo–Backed Company Pushes Deeper Into Government

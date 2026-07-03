@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-26-b1c8736060
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Commission opens investigation into possible anticompetitive conduct by Sanofi regarding the promotion of a flu vaccine for vulnerable patients

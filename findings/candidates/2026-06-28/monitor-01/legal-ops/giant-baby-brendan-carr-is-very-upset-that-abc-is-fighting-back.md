@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-27-b04b56b5a2
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: giant-baby-brendan-carr-is-very-upset-that-abc-is-fighting-back
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Giant Baby Brendan Carr Is Very Upset That ABC Is Fighting Back

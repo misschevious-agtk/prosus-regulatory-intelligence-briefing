@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-01-ea0115f98d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Litigation Boutiques Aren’t The Only Ones Getting In On The Summer Bonus Action

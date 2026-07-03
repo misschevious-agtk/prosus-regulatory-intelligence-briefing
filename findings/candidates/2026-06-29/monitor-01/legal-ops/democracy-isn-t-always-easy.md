@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-27-3c186eebd0
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: democracy-isn-t-always-easy
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Democracy Isn’t Always Easy

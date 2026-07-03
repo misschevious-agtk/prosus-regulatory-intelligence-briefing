@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-b4d348ddf3
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: i-forgot-to-clean-my-swimming-pool-and-frankly-i-too-suspect-antifa-va
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_id: cluster-2026-06-26-455b163602
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # ‘We’ve Had Some Real Problems With Vandalism,’ Says Washington, D.C.’s Vandal In Chief

@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-25-f9a69c761d
-cluster_size: 7
+cluster_id: cluster-2026-06-26-687dec2cf7
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: has-the-late-continuation-surcharge-shifted-filing
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Has the Late-Continuation Surcharge Shifted Filing?

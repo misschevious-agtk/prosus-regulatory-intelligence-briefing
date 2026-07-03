@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-b2d536c9f1
+cluster_id: cluster-2026-06-26-c90b5e7cc0
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: clio-promotes-ronnie-gurion-to-president-and-coo
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Steno Names Its Current COO Prabhdeep Singh as New CEO to Lead Next Phase of Growth

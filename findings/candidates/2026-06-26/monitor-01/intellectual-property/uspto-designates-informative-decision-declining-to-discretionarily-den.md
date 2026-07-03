@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-25-f4b4f51137
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: uspto-designates-informative-decision-declining-to-discretionarily-den
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_id: cluster-2026-06-26-42a0d3be66
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # USPTO designates informative decision declining to discretionarily deny institution where multiple considerations, including U.S. manufacturing, weighed against denial

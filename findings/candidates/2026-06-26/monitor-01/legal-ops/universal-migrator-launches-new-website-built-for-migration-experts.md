@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-7d2db07f3c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: universal-migrator-launches-new-website-built-for-migration-experts
-ranked_at: '2026-07-02T10:13:18+00:00'
+cluster_id: cluster-2026-06-26-229cf2a11c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Universal Migrator Launches New Website Built for Migration Experts

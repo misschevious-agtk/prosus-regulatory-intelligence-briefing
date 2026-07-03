@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-25-e6d5b1d625
-cluster_size: 26
+cluster_id: cluster-2026-06-26-12f1b12318
+cluster_size: 25
 cluster_role: sibling
 cluster_canonical_slug: thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel
-ranked_at: '2026-07-02T10:13:18+00:00'
+ranked_at: '2026-07-03T10:00:15+00:00'
 ---
 
 # Thomson Reuters Opens Early Access to the ‘Next Generation’ of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product

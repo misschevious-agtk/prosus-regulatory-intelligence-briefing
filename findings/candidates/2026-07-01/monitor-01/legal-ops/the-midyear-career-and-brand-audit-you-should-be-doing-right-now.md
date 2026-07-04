@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-01-e8be5412d7
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # The Midyear Career And Brand Audit You Should Be Doing Right Now

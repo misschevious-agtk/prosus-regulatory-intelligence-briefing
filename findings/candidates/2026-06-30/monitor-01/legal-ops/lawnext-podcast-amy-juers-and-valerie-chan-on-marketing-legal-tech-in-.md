@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-26-f3c5304f7d
-cluster_size: 438
+cluster_id: cluster-2026-06-27-eda99825f1
+cluster_size: 51
 cluster_role: sibling
-cluster_canonical_slug: saturday-sundries
-ranked_at: '2026-07-03T10:00:15+00:00'
+cluster_canonical_slug: lexisnexis-webinar-ai-risk-governance-adoption
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # LawNext Podcast: Amy Juers and Valerie Chan on Marketing Legal Tech in the Age of AI Search

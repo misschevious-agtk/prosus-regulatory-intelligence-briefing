@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-03-1f2dfe8d31
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # In An Alternate Universe Where Trump Isn’t Polarizing, He Could Have Thrown The Greatest July 4th 250th Anniversary Celebration Of All Time

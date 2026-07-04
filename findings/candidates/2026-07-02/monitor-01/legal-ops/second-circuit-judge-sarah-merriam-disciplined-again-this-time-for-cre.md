@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-01-34bbc09e6f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: second-circuit-judge-sarah-merriam-disciplined-again-this-time-for-cre
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Second Circuit Judge Sarah Merriam Disciplined Again, This Time for Creating A ‘Tense And Challenging’ Work Environment

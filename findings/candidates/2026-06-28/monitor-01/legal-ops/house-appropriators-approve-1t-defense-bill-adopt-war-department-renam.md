@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-27-1e1b844ccc
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: house-appropriators-approve-1t-defense-bill-adopt-war-department-renam
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # House Appropriators Approve $1T Defense Bill, Adopt ‘War Department’ Renaming

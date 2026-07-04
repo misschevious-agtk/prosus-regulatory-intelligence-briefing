@@ -32,11 +32,11 @@ entities:
   jurisdiction: US
   matched_alias: Facebook
 case_numbers: []
-cluster_id: cluster-2026-06-26-08443dd8cb
+cluster_id: cluster-2026-06-27-e19b21399e
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: former-meta-lobbyist-named-dpc-commissioner-meta-now-officially-regula
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Former Meta lobbyist named DPC Commissioner: Meta now officially regulates itself

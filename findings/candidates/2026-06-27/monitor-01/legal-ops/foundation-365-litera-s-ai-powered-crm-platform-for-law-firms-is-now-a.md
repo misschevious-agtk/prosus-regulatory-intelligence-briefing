@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-26-2db9dc026c
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: foundation-365-litera-s-ai-powered-crm-platform-for-law-firms-is-now-a
-ranked_at: '2026-07-03T10:00:15+00:00'
+cluster_id: cluster-2026-06-27-0511718d8b
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Foundation 365, Litera’s AI-Powered CRM Platform for Law Firms, Is Now Available within Microsoft 365

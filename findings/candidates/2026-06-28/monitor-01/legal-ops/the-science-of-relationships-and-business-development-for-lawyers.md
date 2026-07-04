@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-27-88f5c18f0a
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-science-of-relationships-and-business-development-for-lawyers
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # The Science Of Relationships And Business Development For Lawyers

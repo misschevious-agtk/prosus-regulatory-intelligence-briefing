@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-26-5dc2c0414d
-cluster_size: 5
+cluster_id: cluster-2026-06-27-ecaecb4686
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-inside-view-podcast-with-baker-mckenzie-s-cino-the-genai-strategy
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # The Inside View podcast with Baker McKenzie’s CINO: The GenAI strategy

@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-26-6e4c6f6a81
+cluster_id: cluster-2026-06-27-c2e3401731
 cluster_size: 110
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés

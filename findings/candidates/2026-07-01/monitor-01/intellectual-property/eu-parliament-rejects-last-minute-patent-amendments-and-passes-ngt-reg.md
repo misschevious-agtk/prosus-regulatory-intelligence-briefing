@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-26-0315197f39
-cluster_size: 8
+cluster_id: cluster-2026-06-27-7492b0eb07
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: eu-parliament-rejects-last-minute-patent-amendments-and-passes-ngt-reg
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # EU Parliament rejects last-minute patent amendments and passes NGT Regulation

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-26-45ac2a2363
+cluster_id: cluster-2026-06-27-4ca386c793
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: announcing-the-quot-ai-agent-standards-initiative-quot-for-interoperab
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Announcing the &quot;AI Agent Standards Initiative&quot; for Interoperable and Secure Innovation

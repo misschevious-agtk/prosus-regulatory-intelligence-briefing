@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-26-a8d7a8bc6c
-cluster_size: 15
+cluster_id: cluster-2026-06-27-9a1154f8da
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: hydrocortisone-tablets-alleged-excessive-and-unfair-pricing-anti-compe
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Hydrocortisone tablets: alleged excessive and unfair pricing, anti-competitive agreements and abusive conduct (50277)

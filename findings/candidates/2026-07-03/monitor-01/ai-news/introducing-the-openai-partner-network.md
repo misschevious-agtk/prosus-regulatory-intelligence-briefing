@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-26-4c33633a16
-cluster_size: 13
+cluster_id: cluster-2026-06-27-4311eacf50
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: introducing-the-openai-partner-network
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Introducing the OpenAI Partner Network

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-01-8cf365bbe0
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: vis-a-vis-if-you-re-not-scared-you-re-doing-the-same-thing-as-yesterda
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Vis-a-Vis: “If you’re not scared, you’re doing the same thing as yesterday”

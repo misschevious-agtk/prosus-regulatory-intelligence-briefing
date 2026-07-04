@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-01-c35cbc25a9
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: npr-reports-sam-alito-retires-from-supreme-court-spoiler-alert-he-did-
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # NPR Reports Sam Alito Retires From Supreme Court (Spoiler Alert: He Did Not)

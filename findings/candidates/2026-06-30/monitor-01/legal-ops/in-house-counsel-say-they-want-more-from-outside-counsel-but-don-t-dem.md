@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-27-3830acc554
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: in-house-counsel-say-they-want-more-from-outside-counsel-but-don-t-dem
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # In-House Counsel Say They Want More From Outside Counsel But Don’t Demand It

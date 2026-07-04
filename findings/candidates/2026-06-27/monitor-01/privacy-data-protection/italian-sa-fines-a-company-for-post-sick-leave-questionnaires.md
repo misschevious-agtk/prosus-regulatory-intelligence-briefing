@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-26-e7f50ec61b
-cluster_size: 38
-cluster_role: sibling
-cluster_canonical_slug: italian-sa-fines-a-company-for-post-sick-leave-questionnaires
-ranked_at: '2026-07-03T10:00:15+00:00'
+cluster_id: cluster-2026-06-27-e868d1529f
+cluster_size: 37
+cluster_role: canonical
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Italian SA fines a company for post-sick leave questionnaires

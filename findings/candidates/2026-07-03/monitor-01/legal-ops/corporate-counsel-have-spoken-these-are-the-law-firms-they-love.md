@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-06-30-11041ad89a
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-client-service-a-team-ranking-the-biglaw-superheroes-of-client-ser
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Corporate Counsel Have Spoken: These Are The Law Firms They Love

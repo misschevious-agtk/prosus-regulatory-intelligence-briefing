@@ -21,7 +21,7 @@ cluster_id: cluster-2026-06-27-a3831a5847
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: first-ever-eu-tripartite-agreement-signed-to-boost-energy-storage
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # First-ever EU tripartite agreement signed to boost energy storage

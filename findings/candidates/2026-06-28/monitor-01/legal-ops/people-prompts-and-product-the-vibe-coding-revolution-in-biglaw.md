@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-26-8138263e47
-cluster_size: 4
+cluster_id: cluster-2026-06-27-b76a1d0b81
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: people-prompts-and-product-the-vibe-coding-revolution-in-biglaw
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # People, Prompts, And Product: The ‘Vibe Coding’ Revolution In Biglaw

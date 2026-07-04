@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-02-17022d1c4e
-cluster_size: 18
+cluster_size: 19
 cluster_role: canonical
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Hugging Face and Cerebras bring Gemma 4 to real-time voice AI

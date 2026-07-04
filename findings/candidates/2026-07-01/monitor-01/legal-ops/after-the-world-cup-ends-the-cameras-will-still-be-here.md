@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-30-2b7b2c5317
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: after-the-world-cup-ends-the-cameras-will-still-be-here
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # After The World Cup Ends, The Cameras Will Still Be Here

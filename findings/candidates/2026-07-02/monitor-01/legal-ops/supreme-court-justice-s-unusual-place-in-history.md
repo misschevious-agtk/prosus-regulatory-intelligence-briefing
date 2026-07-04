@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-01-463b5106b2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-justice-s-unusual-place-in-history
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # Supreme Court Justice’s Unusual Place In History

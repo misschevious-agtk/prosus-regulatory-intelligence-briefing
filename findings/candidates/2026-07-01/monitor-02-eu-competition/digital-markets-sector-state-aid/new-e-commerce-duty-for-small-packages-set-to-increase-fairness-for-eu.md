@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-01-4a1e9edd32
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: new-e-commerce-duty-for-small-packages-set-to-increase-fairness-for-eu
-ranked_at: '2026-07-03T10:00:15+00:00'
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # New E-commerce duty for small packages set to increase fairness for EU businesses and safety for consumers

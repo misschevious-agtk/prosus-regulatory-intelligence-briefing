@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-26-0d800b7573
+cluster_id: cluster-2026-06-27-39a7e59078
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: this-week-saw-a-slew-of-new-legal-tech-ceos-but-why
-ranked_at: '2026-07-03T10:00:15+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-04T09:24:59+00:00'
 ---
 
 # This Week Saw A Slew Of New Legal Tech CEOs. But Why?

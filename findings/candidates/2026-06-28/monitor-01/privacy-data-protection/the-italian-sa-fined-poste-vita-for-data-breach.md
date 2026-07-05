@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-27-e868d1529f
-cluster_size: 37
+cluster_id: cluster-2026-06-28-e5eb902ead
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: italian-sa-fines-a-company-for-post-sick-leave-questionnaires
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # The Italian SA fined Poste Vita for data breach

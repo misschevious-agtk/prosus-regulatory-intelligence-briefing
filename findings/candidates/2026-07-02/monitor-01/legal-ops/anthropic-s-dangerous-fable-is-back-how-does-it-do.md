@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-02-b2e3d18192
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Anthropic’s ‘Dangerous’ Fable Is Back! How Does It Do?

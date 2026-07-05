@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-27-4d6d7e0d02
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: another-boutique-goes-above-milbank-on-associate-compensation-while-th
-ranked_at: '2026-07-04T09:24:59+00:00'
+cluster_id: cluster-2026-06-28-4826e81a68
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Another Boutique Goes Above Milbank On Associate Compensation While The Rest Of Biglaw Is Still Thinking About It

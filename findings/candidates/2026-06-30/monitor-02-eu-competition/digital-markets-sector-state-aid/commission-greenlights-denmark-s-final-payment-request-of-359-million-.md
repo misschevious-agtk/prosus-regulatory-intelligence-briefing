@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-27-ef9a31a253
-cluster_size: 132
+cluster_id: cluster-2026-06-28-87d47c8e9f
+cluster_size: 138
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-state-aid-for-romania-s-investment-and-development
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Commission greenlights Denmark's final payment request of €359 million under NextGenerationEU

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-27-46a20fca80
-cluster_size: 6
+cluster_id: cluster-2026-06-28-369644975b
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: new-analysis-on-the-eu-s-most-threatening-criminal-networks
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # New analysis on the EU's most threatening criminal networks

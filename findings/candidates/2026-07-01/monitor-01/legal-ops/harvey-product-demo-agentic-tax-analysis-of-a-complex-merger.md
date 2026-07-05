@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-27-607b9a81cd
-cluster_size: 6
+cluster_id: cluster-2026-06-28-06ae7c4402
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: harvey-product-demo-agentic-tax-analysis-of-a-complex-merger
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Harvey Product Demo: Agentic tax analysis of a complex merger

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-27-483cdec512
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: confidential-submission-of-draft-s-1-to-the-sec
-ranked_at: '2026-07-04T09:24:59+00:00'
+cluster_id: cluster-2026-06-28-c73f6f16e2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Confidential submission of draft S-1 to the SEC

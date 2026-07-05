@@ -25,9 +25,9 @@ entities:
   matched_alias: World Intellectual Property Organization
 case_numbers: []
 cluster_id: cluster-2026-07-04-51d321166d
-cluster_size: 9
+cluster_size: 11
 cluster_role: canonical
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Former USPTO Deputy Director Laura Peter nominated for role at the World Intellectual Property Organization

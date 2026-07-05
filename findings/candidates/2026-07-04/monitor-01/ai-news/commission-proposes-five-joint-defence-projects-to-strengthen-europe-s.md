@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-04-8e1776ea30
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Commission proposes five joint defence projects to strengthen Europe's industrial capabilities

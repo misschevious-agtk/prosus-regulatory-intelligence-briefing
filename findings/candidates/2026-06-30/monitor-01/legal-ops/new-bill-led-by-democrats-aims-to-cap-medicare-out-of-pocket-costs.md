@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-30-919a33b4bc
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # New Bill Led By Democrats Aims To Cap Medicare Out-Of-Pocket Costs

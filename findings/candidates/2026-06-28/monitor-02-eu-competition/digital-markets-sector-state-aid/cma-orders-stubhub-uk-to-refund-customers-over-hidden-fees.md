@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-27-05956ff456
-cluster_size: 27
+cluster_id: cluster-2026-06-28-c8850abfe1
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: stubhub-uk-consumer-protection-enforcement-case
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # CMA orders StubHub UK to refund customers over hidden fees

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-27-93201695c0
-cluster_size: 5
+cluster_id: cluster-2026-06-28-844248a341
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: charting-change-in-legal-ep-59-the-evolving-role-of-lawyers-in-a-shift
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Charting Change In Legal ep 59: The evolving role of lawyers in a shifting market

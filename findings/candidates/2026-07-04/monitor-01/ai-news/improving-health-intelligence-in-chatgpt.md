@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-27-0b0ff9dac9
+cluster_id: cluster-2026-06-28-cf3507a463
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: improving-health-intelligence-in-chatgpt
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Improving health intelligence in ChatGPT

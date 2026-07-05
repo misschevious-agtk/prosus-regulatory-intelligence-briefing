@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-06-27-c2e3401731
-cluster_size: 110
+cluster_id: cluster-2026-06-28-760d016dab
+cluster_size: 109
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # NEWSLETTER 20/02/26 - Il Garante privacy sanziona eCampus, stop al riconoscimento facciale  - Garante privacy a comune di Pescara: no alle body cam della Polizia locale - Dal Garante ok alle Linee guida Agid su accessibilità dei servizi - Garanti Ue, le sfide per una piena attuazione del diritto alla cancellazione - Digital Omnibus, Garanti Ue: semplificare senza ridurre la tutela delle persone

@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-27-7867243e35
-cluster_size: 6
+cluster_id: cluster-2026-06-28-0df0b2d546
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: suzano-kimberly-clark-jv-merger-inquiry
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Suzano / Kimberly-Clark JV merger inquiry

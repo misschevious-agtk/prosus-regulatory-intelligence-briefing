@@ -19,10 +19,10 @@ entities:
   matched_alias: FCA
 case_numbers: []
 cluster_id: cluster-2026-07-03-4fb1a0e8af
-cluster_size: 41
+cluster_size: 44
 cluster_role: sibling
 cluster_canonical_slug: the-en-banc-queue-for-july-2026
-ranked_at: '2026-07-04T09:24:59+00:00'
+ranked_at: '2026-07-05T09:45:13+00:00'
 ---
 
 # Recent consideration of estoppel doctrines in Australian patent proceedings confirms the bar remains high

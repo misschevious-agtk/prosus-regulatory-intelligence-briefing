@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-03-c6c0308d66
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: frontline-justice-and-josef-partner-on-multi-state-rollout-of-ai-to-pr
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Frontline Justice and Josef Partner on Multi-State Rollout of AI to Protect Access to SNAP Benefits

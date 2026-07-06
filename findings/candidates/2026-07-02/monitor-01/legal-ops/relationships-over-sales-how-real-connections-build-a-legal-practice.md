@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-02-c0783b5751
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Relationships Over Sales: How Real Connections Build A Legal Practice

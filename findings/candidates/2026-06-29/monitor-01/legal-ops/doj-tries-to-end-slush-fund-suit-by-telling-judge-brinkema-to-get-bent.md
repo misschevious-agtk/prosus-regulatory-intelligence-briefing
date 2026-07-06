@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-06-28-c7489c1147
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: doj-tries-to-end-slush-fund-suit-by-telling-judge-brinkema-to-get-bent
-ranked_at: '2026-07-05T09:45:13+00:00'
+cluster_id: cluster-2026-06-29-04921d35bd
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # DOJ Tries To End Slush Fund Suit By Telling Judge Brinkema To Get Bent. Fails.

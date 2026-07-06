@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-02-75ff3c89c9
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: attorney-turned-traitor
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Attorney Turned ‘Traitor’

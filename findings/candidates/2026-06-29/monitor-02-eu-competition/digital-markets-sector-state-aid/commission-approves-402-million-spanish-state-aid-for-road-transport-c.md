@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-28-87d47c8e9f
-cluster_size: 138
-cluster_role: sibling
-cluster_canonical_slug: commission-approves-state-aid-for-romania-s-investment-and-development
-ranked_at: '2026-07-05T09:45:13+00:00'
+cluster_id: cluster-2026-06-29-367b06bd42
+cluster_size: 140
+cluster_role: canonical
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Commission approves €402 million Spanish State aid for road transport companies facing increased fuel prices

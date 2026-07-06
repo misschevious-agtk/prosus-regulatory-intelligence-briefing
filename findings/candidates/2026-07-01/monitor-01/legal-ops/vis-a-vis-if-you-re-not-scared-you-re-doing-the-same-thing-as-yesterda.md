@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-01-8cf365bbe0
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Vis-a-Vis: “If you’re not scared, you’re doing the same thing as yesterday”

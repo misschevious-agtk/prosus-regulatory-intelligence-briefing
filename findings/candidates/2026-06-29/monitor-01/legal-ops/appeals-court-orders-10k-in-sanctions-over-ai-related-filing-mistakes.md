@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-28-d985060187
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: appeals-court-orders-10k-in-sanctions-over-ai-related-filing-mistakes
-ranked_at: '2026-07-05T09:45:13+00:00'
+cluster_id: cluster-2026-06-29-6f322d80a0
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Appeals Court Orders $10K In Sanctions Over AI-Related Filing Mistakes

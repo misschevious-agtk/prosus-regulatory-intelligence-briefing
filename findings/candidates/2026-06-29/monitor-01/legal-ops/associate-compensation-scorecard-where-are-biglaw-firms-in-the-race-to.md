@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-28-4826e81a68
-cluster_size: 4
+cluster_id: cluster-2026-06-29-ea5eb868ea
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: another-boutique-goes-above-milbank-on-associate-compensation-while-th
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Associate Compensation Scorecard: Where Are Biglaw Firms In The Race To Match Milbank?

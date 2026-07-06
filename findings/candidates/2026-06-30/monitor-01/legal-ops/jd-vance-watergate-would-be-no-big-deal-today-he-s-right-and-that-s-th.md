@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-28-53dae66cb5
-cluster_size: 3
+cluster_id: cluster-2026-06-29-44450ef3ae
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: jd-vance-watergate-would-be-no-big-deal-today-he-s-right-and-that-s-th
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # JD Vance: Watergate Would Be No Big Deal Today. He’s Right, And That’s The Problem.

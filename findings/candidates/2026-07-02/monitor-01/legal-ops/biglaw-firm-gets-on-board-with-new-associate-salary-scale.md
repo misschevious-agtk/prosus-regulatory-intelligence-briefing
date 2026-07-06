@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-02-14e2fd67b4
 cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Biglaw Firm Gets On Board With New Associate Salary Scale

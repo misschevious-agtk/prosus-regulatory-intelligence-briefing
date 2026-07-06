@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-28-ac6336c56e
-cluster_size: 45
+cluster_id: cluster-2026-06-29-4765fb0482
+cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-business-appointment-rules-advice-january-to-mar
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Transparency data: CMA: spending over £500, April 2026

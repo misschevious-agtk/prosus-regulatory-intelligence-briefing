@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-28-cf3507a463
+cluster_id: cluster-2026-06-29-917d000da0
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: improving-health-intelligence-in-chatgpt
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery

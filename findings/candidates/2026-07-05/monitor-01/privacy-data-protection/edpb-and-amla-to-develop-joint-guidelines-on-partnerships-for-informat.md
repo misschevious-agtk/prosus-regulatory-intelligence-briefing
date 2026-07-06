@@ -18,10 +18,10 @@ entities:
   matched_alias: EDPB
 case_numbers: []
 cluster_id: cluster-2026-07-02-c3d750b3f8
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-informat
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing

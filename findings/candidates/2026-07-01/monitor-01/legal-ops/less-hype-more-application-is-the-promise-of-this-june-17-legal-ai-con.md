@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-28-ae0713a6a9
-cluster_size: 13
+cluster_id: cluster-2026-06-29-9a9c2179e4
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: context-is-everything-ceo-neil-araujo-on-imanage-s-ai-strategy
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # ‘Less Hype, More Application’ Is the Promise of This June 17 Legal AI Conference, Live In L.A. Or Virtual

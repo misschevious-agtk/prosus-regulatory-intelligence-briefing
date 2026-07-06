@@ -22,11 +22,10 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-06-28-e97bb7fcf6
-cluster_size: 394
-cluster_role: sibling
-cluster_canonical_slug: saturday-sundries
-ranked_at: '2026-07-05T09:45:13+00:00'
+cluster_id: cluster-2026-06-29-82e31a61ff
+cluster_size: 397
+cluster_role: canonical
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Saturday Sundries

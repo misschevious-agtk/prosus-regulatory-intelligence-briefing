@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-03-059c154c25
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Goodbye Ratings, Hello Benchmarks: If Legal Tech Can Benchmark Attorneys, Shouldn’t  Attorneys Be Able To Ethically Benchmark Back?

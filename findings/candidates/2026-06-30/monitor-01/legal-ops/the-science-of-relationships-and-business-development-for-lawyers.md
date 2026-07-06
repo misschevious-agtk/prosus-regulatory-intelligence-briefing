@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-28-b3d3392caa
-cluster_size: 3
+cluster_id: cluster-2026-06-29-b0f3b75e40
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-science-of-relationships-and-business-development-for-lawyers
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # The Science Of Relationships And Business Development For Lawyers

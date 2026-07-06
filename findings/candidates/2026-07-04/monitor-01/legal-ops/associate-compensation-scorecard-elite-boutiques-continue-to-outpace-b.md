@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-02-14e2fd67b4
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-gets-on-board-with-new-associate-salary-scale
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Associate Compensation Scorecard: Elite Boutiques Continue To Outpace Biglaw

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-28-0c2c8028d5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: conflict-is-not-the-problem-avoiding-it-is
-ranked_at: '2026-07-05T09:45:13+00:00'
+cluster_id: cluster-2026-06-29-0f50f61f95
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Conflict Is Not The Problem. Avoiding It Is.

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-28-a64927c248
+cluster_id: cluster-2026-06-29-493f1b6eb3
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: provisional-typo-spoils-priority-date
-ranked_at: '2026-07-05T09:45:13+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Provisional Typo Spoils Priority Date

@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-28-21c803ef11
-cluster_size: 145
+cluster_id: cluster-2026-06-29-272b8eacb9
+cluster_size: 141
 cluster_role: sibling
 cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Patent Public Search (PPUBs) Maintenance

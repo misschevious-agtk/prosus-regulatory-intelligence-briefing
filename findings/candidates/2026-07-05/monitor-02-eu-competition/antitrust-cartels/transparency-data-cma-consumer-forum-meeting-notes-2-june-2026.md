@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-04-a39047ca15
-cluster_size: 6
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-consumer-forum-meeting-notes-2-june-2026
-ranked_at: '2026-07-05T09:45:13+00:00'
+ranked_at: '2026-07-06T11:30:48+00:00'
 ---
 
 # Transparency data: CMA Consumer Forum meeting notes: 2 June 2026

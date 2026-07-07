@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-29-a3303ed5cf
+cluster_id: cluster-2026-06-30-cb7413fd5e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: relativity-acquires-document-automation-company-gavel-extending-its-le
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word

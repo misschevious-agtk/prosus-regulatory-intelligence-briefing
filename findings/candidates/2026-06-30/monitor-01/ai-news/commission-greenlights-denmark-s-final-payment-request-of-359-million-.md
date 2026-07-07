@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-29-367b06bd42
-cluster_size: 140
+cluster_id: cluster-2026-06-30-60d3cd8e9a
+cluster_size: 144
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-402-million-spanish-state-aid-for-road-transport-c
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_canonical_slug: commission-greenlights-denmark-s-final-payment-request-of-359-million-
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Commission greenlights Denmark's final payment request of €359 million under NextGenerationEU

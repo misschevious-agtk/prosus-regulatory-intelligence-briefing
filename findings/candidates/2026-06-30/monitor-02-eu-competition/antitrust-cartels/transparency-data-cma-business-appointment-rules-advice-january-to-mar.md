@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-29-4765fb0482
-cluster_size: 30
-cluster_role: sibling
-cluster_canonical_slug: transparency-data-cma-business-appointment-rules-advice-january-to-mar
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_id: cluster-2026-06-30-6ed18cfc04
+cluster_size: 15
+cluster_role: canonical
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Transparency data: CMA: Business Appointment Rules advice, January to March 2026

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-30-26551a0291
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: building-a-judicial-legacy
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Building A Judicial Legacy

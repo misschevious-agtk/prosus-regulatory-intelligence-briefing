@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-29-272b8eacb9
-cluster_size: 141
+cluster_id: cluster-2026-06-30-066afd9fe3
+cluster_size: 137
 cluster_role: sibling
 cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Trademark Basics Boot Camp, Module 4: Application requirements

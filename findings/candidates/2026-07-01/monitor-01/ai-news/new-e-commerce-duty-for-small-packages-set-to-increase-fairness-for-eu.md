@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-01-4a1e9edd32
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # New E-commerce duty for small packages set to increase fairness for EU businesses and safety for consumers

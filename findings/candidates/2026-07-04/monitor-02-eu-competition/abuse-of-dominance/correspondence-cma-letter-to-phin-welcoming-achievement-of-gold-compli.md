@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-29-c5d6c427f6
-cluster_size: 288
+cluster_id: cluster-2026-06-30-0cf2d909e7
+cluster_size: 327
 cluster_role: sibling
 cluster_canonical_slug: strategic-review-of-cma-markets-remedies
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Correspondence: CMA letter to PHIN welcoming achievement of gold compliance milestone

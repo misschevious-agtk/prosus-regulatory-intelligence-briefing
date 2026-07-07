@@ -17,7 +17,7 @@ cluster_id: cluster-2026-06-30-29d96c1a0b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-newest-transatlantic-giant-unveils-an-ambitious-global-vision
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Biglaw’s Newest Transatlantic Giant Unveils An Ambitious Global Vision

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-02-ed88a10b44
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: alito-s-outburst-and-tough-times-for-partners
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Alito’s Outburst And Tough Times For Partners

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-29-3db8965692
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: senator-whitehouse-is-still-waiting-for-todd-blanche-to-explain-the-gh
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_id: cluster-2026-06-30-edc70b50dd
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Bill Barr Would Like The Senate To Know: Confirm Todd Blanche Or The Hostage Gets It

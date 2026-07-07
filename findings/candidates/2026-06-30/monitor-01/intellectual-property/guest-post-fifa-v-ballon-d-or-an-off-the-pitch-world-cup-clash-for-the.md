@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-29-c0f530efb5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: guest-post-fifa-v-ballon-d-or-an-off-the-pitch-world-cup-clash-for-the
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_id: cluster-2026-06-30-059ff4a4e9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # [Guest post] FIFA v Ballon d’Or: an off the pitch World Cup clash for the ages

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-29-0d032f6cf2
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: house-appropriators-approve-1t-defense-bill-adopt-war-department-renam
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_id: cluster-2026-06-30-9371200b9c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # House Appropriators Approve $1T Defense Bill, Adopt ‘War Department’ Renaming

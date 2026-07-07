@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-29-8b3a0210af
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: in-house-counsel-say-they-want-more-from-outside-counsel-but-don-t-dem
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_id: cluster-2026-06-30-f37e16a8fc
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # In-House Counsel Say They Want More From Outside Counsel But Don’t Demand It

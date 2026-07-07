@@ -22,7 +22,7 @@ cluster_id: cluster-2026-07-02-6e599c6e1a
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: spellbook-launches-clm-killer-acm
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Scott Stevenson Interview: Spellbook ACM

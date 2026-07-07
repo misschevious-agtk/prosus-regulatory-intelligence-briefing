@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-02-b6fe8cffd2
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # House GOP Defectors Tank Procedural Vote To Bring NDAA To Floor

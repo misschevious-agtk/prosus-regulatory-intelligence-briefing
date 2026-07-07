@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-29-b2ecedb28e
-cluster_size: 5
+cluster_id: cluster-2026-06-30-4ae2718e42
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-06-26-26
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_canonical_slug: sullivan-cromwell-jumps-on-biglaw-salary-raise-train
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # S&C Takes The Salary Plunge — See Also

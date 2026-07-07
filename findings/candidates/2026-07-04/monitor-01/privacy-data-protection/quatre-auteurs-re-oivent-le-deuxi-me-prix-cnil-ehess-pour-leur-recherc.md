@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-29-cd5ea96dc8
-cluster_size: 28
+cluster_id: cluster-2026-06-30-21c8c801f2
+cluster_size: 26
 cluster_role: sibling
 cluster_canonical_slug: lections-professionnelles-dans-la-fonction-publique-et-vote-lectroniqu
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens

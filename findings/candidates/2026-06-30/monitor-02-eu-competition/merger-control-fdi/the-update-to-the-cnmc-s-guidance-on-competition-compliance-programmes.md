@@ -17,11 +17,11 @@ entities:
   jurisdiction: ES
   matched_alias: CNMC
 case_numbers: []
-cluster_id: cluster-2026-06-29-c5d6c427f6
-cluster_size: 288
+cluster_id: cluster-2026-06-30-0cf2d909e7
+cluster_size: 327
 cluster_role: sibling
 cluster_canonical_slug: strategic-review-of-cma-markets-remedies
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # The Update To The CNMC’S Guidance On Competition Compliance Programmes: From Formal Compliance To A Standard Of Actual And Verifiable Effectiveness

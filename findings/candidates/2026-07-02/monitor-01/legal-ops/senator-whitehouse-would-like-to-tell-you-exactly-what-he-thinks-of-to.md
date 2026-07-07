@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-01-96715f3c6f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: senator-whitehouse-would-like-to-tell-you-exactly-what-he-thinks-of-to
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Senator Whitehouse Would Like To Tell You Exactly What He Thinks Of Todd Blanche

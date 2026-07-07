@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-06-29-82e31a61ff
-cluster_size: 397
+cluster_id: cluster-2026-06-30-f1dfb1b182
+cluster_size: 410
 cluster_role: sibling
-cluster_canonical_slug: saturday-sundries
-ranked_at: '2026-07-06T11:30:48+00:00'
+cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # How Omio is building the future of conversational travel

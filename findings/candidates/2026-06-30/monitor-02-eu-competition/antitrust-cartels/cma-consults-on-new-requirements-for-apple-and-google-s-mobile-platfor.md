@@ -26,7 +26,7 @@ case_numbers: []
 cluster_id: cluster-2026-06-30-c1413ae0a8
 cluster_size: 48
 cluster_role: canonical
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # CMA consults on new requirements for Apple and Google’s mobile platforms

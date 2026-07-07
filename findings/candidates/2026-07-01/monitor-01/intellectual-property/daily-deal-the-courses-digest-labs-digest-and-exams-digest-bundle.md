@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-01-f29ad184e0
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-06T11:30:48+00:00'
+ranked_at: '2026-07-07T10:28:24+00:00'
 ---
 
 # Daily Deal: The Courses Digest, Labs Digest, and Exams Digest Bundle

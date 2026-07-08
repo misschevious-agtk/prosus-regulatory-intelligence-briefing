@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-02-14e2fd67b4
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-gets-on-board-with-new-associate-salary-scale
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Biglaw Firm Gets On Board With New Associate Salary Scale

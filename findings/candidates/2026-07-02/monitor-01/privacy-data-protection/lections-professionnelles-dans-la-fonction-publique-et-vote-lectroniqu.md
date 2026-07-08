@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-06-30-21c8c801f2
-cluster_size: 26
+cluster_id: cluster-2026-07-01-fe339a6b8d
+cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: lections-professionnelles-dans-la-fonction-publique-et-vote-lectroniqu
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?

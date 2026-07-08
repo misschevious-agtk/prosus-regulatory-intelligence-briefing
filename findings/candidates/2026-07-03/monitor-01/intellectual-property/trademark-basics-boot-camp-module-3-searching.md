@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-30-066afd9fe3
-cluster_size: 137
+cluster_id: cluster-2026-07-01-cb615cadf9
+cluster_size: 108
 cluster_role: sibling
-cluster_canonical_slug: deborah-stephens-appointed-to-permanent-role-of-chief-information-offi
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_canonical_slug: uspto-designates-as-precedential-a-decision-waiving-director-review-de
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Trademark Basics Boot Camp, Module 3: Searching

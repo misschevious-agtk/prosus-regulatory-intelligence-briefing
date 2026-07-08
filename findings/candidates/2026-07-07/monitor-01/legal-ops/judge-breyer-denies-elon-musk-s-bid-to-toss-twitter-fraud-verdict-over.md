@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-f695883775
-cluster_size: 3
+cluster_id: cluster-2026-07-01-8b9af0f3b0
+cluster_size: 411
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-07-06-26
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Judge Breyer Denies Elon Musk’s Bid To Toss Twitter Fraud Verdict Over Weed Joke Conspiracy Theory

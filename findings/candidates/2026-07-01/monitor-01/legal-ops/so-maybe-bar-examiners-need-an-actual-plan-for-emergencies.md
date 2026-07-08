@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-d5a1d40f6b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: so-maybe-bar-examiners-need-an-actual-plan-for-emergencies
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-28d8952c91
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # So… Maybe Bar Examiners Need An Actual Plan For Emergencies?

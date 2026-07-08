@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-6e3dfa20e2
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-side-hustle-myth-lawyers-need-to-stop-believing
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-0f1525afd5
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # The Side Hustle Myth Lawyers Need To Stop Believing

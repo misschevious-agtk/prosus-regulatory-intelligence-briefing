@@ -19,9 +19,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-07-04-4ce6a52431
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Watch the USPTO's latest informational videos on name, image, and likeness

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-e443eac83e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: two-justices-just-signaled-again-that-they-want-to-destroy-press-freed
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-09bfaef6ee
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Two Justices Just Signaled — Again — That They Want To Destroy Press Freedom

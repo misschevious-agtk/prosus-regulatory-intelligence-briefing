@@ -33,11 +33,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-06-30-9679bd3ac5
+cluster_id: cluster-2026-07-01-52776a1604
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: eu-member-states-and-google-suddenly-want-to-keep-cookie-banners
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # EU Member States (and Google) suddenly want to keep cookie banners!

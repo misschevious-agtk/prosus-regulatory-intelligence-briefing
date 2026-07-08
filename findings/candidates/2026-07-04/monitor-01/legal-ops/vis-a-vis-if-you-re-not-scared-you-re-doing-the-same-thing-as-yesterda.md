@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-01-8cf365bbe0
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: vis-a-vis-if-you-re-not-scared-you-re-doing-the-same-thing-as-yesterda
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Vis-a-Vis: “If you’re not scared, you’re doing the same thing as yesterday”

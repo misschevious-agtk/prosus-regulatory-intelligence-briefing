@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-f695883775
-cluster_size: 3
-cluster_role: canonical
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-8b9af0f3b0
+cluster_size: 411
+cluster_role: sibling
+ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
 ---
 
 # Morning Docket: 07.06.26

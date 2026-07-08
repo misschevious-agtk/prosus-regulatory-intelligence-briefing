@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-02-17022d1c4e
-cluster_size: 22
+cluster_size: 49
 cluster_role: sibling
 cluster_canonical_slug: hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces

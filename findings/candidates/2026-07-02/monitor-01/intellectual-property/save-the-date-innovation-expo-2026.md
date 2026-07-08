@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-06-30-ef3aa2bf83
-cluster_size: 4
+cluster_id: cluster-2026-07-01-0852bb476c
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: save-the-date-innovation-expo-2026
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Save the Date: Innovation Expo 2026

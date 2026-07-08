@@ -19,10 +19,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-07-02-b2e3d18192
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: anthropic-s-dangerous-fable-is-back-how-does-it-do
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Anthropic’s ‘Dangerous’ Fable Is Back! How Does It Do?

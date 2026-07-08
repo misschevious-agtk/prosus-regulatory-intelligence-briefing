@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-5c83aa9adf
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: start-up-corner-caira-from-unwildered-improving-access-to-justice
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-da35350a86
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Start Up Corner: Caira from Unwildered – Improving access to justice

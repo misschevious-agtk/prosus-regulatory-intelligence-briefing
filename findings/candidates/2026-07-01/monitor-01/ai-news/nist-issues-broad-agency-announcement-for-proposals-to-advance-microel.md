@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-55bfdb1b77
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: nist-issues-broad-agency-announcement-for-proposals-to-advance-microel
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-cd1eb5f529
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # NIST Issues Broad Agency Announcement for Proposals to Advance Microelectronics Technologies

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-8591be97d1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-legal-ethics-in-berlin-101-judges-seek-blanche-ny
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-3e169d75d2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists’ Legal Fees Paid By Feds, Bolton Pleads Guilty, Law Deans Drive Innovation & More

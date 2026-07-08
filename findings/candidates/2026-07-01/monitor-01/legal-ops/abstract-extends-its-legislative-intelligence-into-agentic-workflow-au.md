@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-75a38b17eb
+cluster_id: cluster-2026-07-01-c73784dc64
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: abstract-extends-its-legislative-intelligence-into-agentic-workflow-au
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Abstract Extends Its Legislative Intelligence into Agentic Workflow Automation with Launch of ‘Abstract Workers’

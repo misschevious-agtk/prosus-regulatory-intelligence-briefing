@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-03-53c42ca8de
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-nintendo-palworld-patent-suit-appears-to-be-heading-for-a-muted-co
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # The Nintendo/Palworld Patent Suit Appears To Be Heading For A Muted Conclusion

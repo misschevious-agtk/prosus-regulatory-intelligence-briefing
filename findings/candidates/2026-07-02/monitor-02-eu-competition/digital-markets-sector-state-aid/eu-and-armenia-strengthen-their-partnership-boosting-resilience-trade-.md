@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-06-30-60d3cd8e9a
-cluster_size: 144
-cluster_role: sibling
-ranked_at: '2026-07-07T10:28:24+00:00'
-cluster_canonical_slug: commission-greenlights-denmark-s-final-payment-request-of-359-million-
+cluster_id: cluster-2026-07-02-2663c99d9d
+cluster_size: 132
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # EU and Armenia strengthen their partnership, boosting resilience, trade and connectivity

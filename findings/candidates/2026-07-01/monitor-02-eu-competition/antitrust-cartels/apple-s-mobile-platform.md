@@ -19,11 +19,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-30-c1413ae0a8
-cluster_size: 48
+cluster_id: cluster-2026-07-01-062e162784
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: cma-consults-on-new-requirements-for-apple-and-google-s-mobile-platfor
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Apple’s mobile platform

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-07-962d26ace6
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Supreme Court Term Goes Out In Blaze Of Hypocrisy, False Retirements, And Bad Ratings — See Generally

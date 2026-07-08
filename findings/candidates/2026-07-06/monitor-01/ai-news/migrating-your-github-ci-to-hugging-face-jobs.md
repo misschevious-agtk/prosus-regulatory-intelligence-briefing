@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: GitHub
 case_numbers: []
-cluster_id: cluster-2026-06-30-819835adb7
-cluster_size: 8
+cluster_id: cluster-2026-07-02-17022d1c4e
+cluster_size: 49
 cluster_role: sibling
-cluster_canonical_slug: migrating-your-github-ci-to-hugging-face-jobs
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_canonical_slug: hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Migrating Your GitHub CI to Hugging Face Jobs

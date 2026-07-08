@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-e95b5e6c09
+cluster_id: cluster-2026-07-01-38de74d4be
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: blackboiler-launches-veris-pairing-its-deterministic-redlining-with-ge
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word

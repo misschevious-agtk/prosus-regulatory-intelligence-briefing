@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-03-27e96617ce
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # The Work Is Waiting: How To Get Involved And Lead Voluntary Bar Associations

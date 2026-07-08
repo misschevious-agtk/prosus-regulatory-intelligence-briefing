@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-f1dfb1b182
-cluster_size: 410
-cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-1815f548bb
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era

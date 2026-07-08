@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-03-b1a5901142
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Universal Migrator Now Supports Migrations From More Than 170 Applications

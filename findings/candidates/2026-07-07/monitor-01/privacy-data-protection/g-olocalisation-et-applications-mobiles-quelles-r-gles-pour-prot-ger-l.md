@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-07-07-a125dbfa7b
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: g-olocalisation-et-applications-mobiles-comment-prot-ger-vos-donn-es
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?

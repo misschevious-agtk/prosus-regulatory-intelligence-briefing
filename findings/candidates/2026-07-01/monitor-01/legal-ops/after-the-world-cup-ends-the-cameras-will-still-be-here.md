@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-2b7b2c5317
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: after-the-world-cup-ends-the-cameras-will-still-be-here
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_id: cluster-2026-07-01-701e50ef24
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # After The World Cup Ends, The Cameras Will Still Be Here

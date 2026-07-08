@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-9cdc735d71
+cluster_id: cluster-2026-07-01-15c2bcd708
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: smokeball-s-free-trust-accounting-program-now-reaches-more-than-900-00
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Smokeball’s Free Trust Accounting Program Now Reaches More Than 900,000 U.S. Lawyers

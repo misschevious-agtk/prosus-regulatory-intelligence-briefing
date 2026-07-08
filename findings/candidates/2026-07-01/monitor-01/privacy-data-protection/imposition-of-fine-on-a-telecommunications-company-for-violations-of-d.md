@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-a1a7001ddf
-cluster_size: 34
+cluster_id: cluster-2026-07-01-8d0430b644
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: italian-sa-fines-a-company-for-post-sick-leave-questionnaires
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Imposition of fine on a telecommunications company for violations of data subject’s rights

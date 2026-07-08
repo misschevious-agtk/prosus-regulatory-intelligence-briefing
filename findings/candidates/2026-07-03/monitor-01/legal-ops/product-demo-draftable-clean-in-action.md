@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-02-8c89a9f243
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: product-demo-draftable-clean-in-action
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Product demo: Draftable Clean in action

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-06-30-0cf2d909e7
-cluster_size: 327
+cluster_id: cluster-2026-07-01-6abb83972a
+cluster_size: 357
 cluster_role: sibling
-cluster_canonical_slug: strategic-review-of-cma-markets-remedies
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_canonical_slug: suspected-anti-competitive-conduct-in-relation-to-the-supply-of-roofin
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # How to engage with the CMA’s childcare market study

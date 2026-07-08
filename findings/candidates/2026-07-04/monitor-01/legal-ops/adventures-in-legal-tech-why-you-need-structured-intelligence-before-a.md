@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-f1dfb1b182
-cluster_size: 410
+cluster_id: cluster-2026-07-01-8b9af0f3b0
+cluster_size: 411
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # ‘Adventures In Legal Tech’: Why You Need Structured Intelligence Before Artificial Intelligence

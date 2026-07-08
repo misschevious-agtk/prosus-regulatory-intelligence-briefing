@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-636ead5f9a
-cluster_size: 34
+cluster_id: cluster-2026-07-01-e96ffcd37f
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: lexisnexis-webinar-ai-risk-governance-adoption
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_canonical_slug: import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-2062e7d401
+cluster_id: cluster-2026-07-01-8cd9a1966b
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel
-ranked_at: '2026-07-07T10:28:24+00:00'
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Thomson Reuters ‘Future of Professionals’ Report Warns of Widening Gap Between AI Adoption and AI Value

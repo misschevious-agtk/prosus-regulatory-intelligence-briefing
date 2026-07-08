@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-06-30-7189011b8e
-cluster_size: 15
+cluster_id: cluster-2026-07-02-17022d1c4e
+cluster_size: 49
 cluster_role: sibling
-cluster_canonical_slug: pp-ocrv6-on-hugging-face-50-language-ocr-from-1-5m-to-34-5m-parameters
-ranked_at: '2026-07-07T10:28:24+00:00'
+cluster_canonical_slug: hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai
+ranked_at: '2026-07-08T09:29:15+00:00'
 ---
 
 # Featuring Every Eval Ever Results on Hugging Face Model Pages

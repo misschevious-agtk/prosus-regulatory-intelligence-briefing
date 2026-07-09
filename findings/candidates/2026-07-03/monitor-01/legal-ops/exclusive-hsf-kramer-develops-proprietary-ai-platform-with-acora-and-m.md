@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-b68227ddc0
-cluster_size: 4
+cluster_id: cluster-2026-07-02-4381f2485b
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: shoosmiths-unveils-proprietary-ai-contract-review-tool-built-with-micr
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_canonical_slug: exclusive-hsf-kramer-develops-proprietary-ai-platform-with-acora-and-m
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Exclusive: HSF Kramer develops proprietary AI platform with Acora and Microsoft

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-01-cb615cadf9
-cluster_size: 108
+cluster_id: cluster-2026-07-02-f7460ac6b5
+cluster_size: 102
 cluster_role: sibling
-cluster_canonical_slug: uspto-designates-as-precedential-a-decision-waiving-director-review-de
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_canonical_slug: new-serial-number-series-begins-for-applications
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Multiple Systems Maintenance

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-c35cbc25a9
-cluster_size: 4
+cluster_id: cluster-2026-07-02-458fe09f0c
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: npr-reports-sam-alito-retires-from-supreme-court-spoiler-alert-he-did-
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Sam Alito Still Has His Job — See Also

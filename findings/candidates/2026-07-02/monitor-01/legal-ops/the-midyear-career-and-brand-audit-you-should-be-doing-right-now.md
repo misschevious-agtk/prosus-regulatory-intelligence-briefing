@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-e8be5412d7
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-midyear-career-and-brand-audit-you-should-be-doing-right-now
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-bd23872059
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # The Midyear Career And Brand Audit You Should Be Doing Right Now

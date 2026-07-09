@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-08-0ee5da0935
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Daily Deal: Microsoft Office Professional 2021 for Windows

@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-02-17022d1c4e
-cluster_size: 49
-cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-1c88df6a1d
+cluster_size: 534
+cluster_role: sibling
+ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
 ---
 
 # Hugging Face and Cerebras bring Gemma 4 to real-time voice AI

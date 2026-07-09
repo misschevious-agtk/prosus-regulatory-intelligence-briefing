@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-668d9fe158
-cluster_size: 5
+cluster_id: cluster-2026-07-02-0345f027d1
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: the-client-service-a-team-ranking-the-biglaw-superheroes-of-client-ser
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_canonical_slug: corporate-counsel-have-spoken-these-are-the-law-firms-they-love
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Corporate Counsel Have Spoken: These Are The Law Firms They Love

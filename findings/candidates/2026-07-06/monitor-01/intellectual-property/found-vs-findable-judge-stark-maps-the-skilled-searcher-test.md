@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-e5210a05af
+cluster_id: cluster-2026-07-02-a19b0e23d0
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: found-vs-findable-judge-stark-maps-the-skilled-searcher-test
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Found vs. Findable: Judge Stark Maps the Skilled-Searcher Test

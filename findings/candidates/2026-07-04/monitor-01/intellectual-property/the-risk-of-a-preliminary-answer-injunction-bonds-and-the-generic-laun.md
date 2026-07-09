@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-04-6c525f83f8
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # The Risk of a Preliminary Answer: Injunction Bonds and the Generic Launch

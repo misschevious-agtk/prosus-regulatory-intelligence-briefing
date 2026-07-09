@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-02-ed88a10b44
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Alito’s Outburst And Tough Times For Partners

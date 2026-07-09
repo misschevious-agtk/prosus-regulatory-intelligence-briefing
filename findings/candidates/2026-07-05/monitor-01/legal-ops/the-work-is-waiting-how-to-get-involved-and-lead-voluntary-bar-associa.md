@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-03-27e96617ce
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-work-is-waiting-how-to-get-involved-and-lead-voluntary-bar-associa
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # The Work Is Waiting: How To Get Involved And Lead Voluntary Bar Associations

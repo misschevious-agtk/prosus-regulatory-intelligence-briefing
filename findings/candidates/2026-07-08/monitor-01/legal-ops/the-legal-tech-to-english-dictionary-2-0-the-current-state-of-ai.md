@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-ff7496c6a4
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-09-5005e0aca5
+cluster_size: 3
+cluster_role: sibling
+ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_canonical_slug: ai-liability-clarified-ukjt-says-existing-english-law-provides-the-ans
 ---
 
 # The Legal Tech-To-English Dictionary (2.0): The Current State Of AI

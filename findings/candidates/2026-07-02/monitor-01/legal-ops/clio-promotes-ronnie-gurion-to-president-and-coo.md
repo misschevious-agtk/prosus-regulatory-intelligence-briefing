@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-81a18f5cf3
-cluster_size: 15
-cluster_role: sibling
-cluster_canonical_slug: clio-promotes-ronnie-gurion-to-president-and-coo
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-da2b0f5944
+cluster_size: 14
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Clio Promotes Ronnie Gurion to President and COO

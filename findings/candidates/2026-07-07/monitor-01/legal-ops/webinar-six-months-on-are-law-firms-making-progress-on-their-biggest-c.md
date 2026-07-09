@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-60c8b84451
-cluster_size: 3
-cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-09-11b68c59b3
+cluster_size: 6
+cluster_role: sibling
+ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_canonical_slug: the-dms-reimagined-why-your-firm-s-memory-is-now-its-ai-foundation
 ---
 
 # Webinar: Six months on – Are law firms making progress on their biggest challenges?

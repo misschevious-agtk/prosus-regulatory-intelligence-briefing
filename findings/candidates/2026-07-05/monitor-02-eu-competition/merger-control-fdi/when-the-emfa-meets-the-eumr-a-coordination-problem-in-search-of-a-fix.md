@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-ccd1b4c351
-cluster_size: 14
+cluster_id: cluster-2026-07-02-3b4b2deae3
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: purpose-and-pragmatism-in-the-uk-s-digital-markets-competition-regime
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # When the EMFA Meets the EUMR: A Coordination Problem in Search of a Fix

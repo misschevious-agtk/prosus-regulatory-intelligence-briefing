@@ -18,9 +18,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-07-08-0d6c23718e
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Did Google's 2017 'fix' Actually Fix Anything?  - Swedish Court Awards €1.3 Billion in Record Competition Damages

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-02-269c0d2d44
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Halfway To 250, America’s Republican President Fought Big Business, Won The Real Peace Prize, And Loved Nature

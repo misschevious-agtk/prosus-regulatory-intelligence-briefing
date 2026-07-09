@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-96715f3c6f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: senator-whitehouse-would-like-to-tell-you-exactly-what-he-thinks-of-to
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-d7034193a7
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Senator Whitehouse Would Like To Tell You Exactly What He Thinks Of Todd Blanche

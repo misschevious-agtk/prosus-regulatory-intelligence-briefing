@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-01-042f0d6011
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: victimes-de-violations-de-donn-es-restez-vigilants-face-aux-offres-d-a
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-9fb4a076a6
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Victimes de violations de données : restez vigilants face aux offres d’accompagnement

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-01-6abb83972a
-cluster_size: 357
+cluster_id: cluster-2026-07-02-0a78a626ff
+cluster_size: 363
 cluster_role: sibling
 cluster_canonical_slug: suspected-anti-competitive-conduct-in-relation-to-the-supply-of-roofin
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Vets market investigation: draft funding Order and Undertakings

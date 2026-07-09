@@ -23,11 +23,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-01-062e162784
-cluster_size: 33
-cluster_role: sibling
-cluster_canonical_slug: cma-consults-on-new-requirements-for-apple-and-google-s-mobile-platfor
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-f6fe1274c5
+cluster_size: 18
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # CMA consults on new requirements for Apple and Google’s mobile platforms

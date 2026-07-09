@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-ad47942152
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: elite-boutiques-continue-to-leave-biglaw-in-the-dust-another-milbank-m
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-89ca71f281
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Elite Boutiques Continue To Leave Biglaw In The Dust: Another Milbank Match Is Here

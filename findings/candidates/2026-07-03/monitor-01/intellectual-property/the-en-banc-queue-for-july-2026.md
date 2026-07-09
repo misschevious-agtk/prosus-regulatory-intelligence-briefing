@@ -16,10 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-4fb1a0e8af
-cluster_size: 50
-cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-1c88df6a1d
+cluster_size: 534
+cluster_role: sibling
+ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
 ---
 
 # The En Banc Queue for July-2026

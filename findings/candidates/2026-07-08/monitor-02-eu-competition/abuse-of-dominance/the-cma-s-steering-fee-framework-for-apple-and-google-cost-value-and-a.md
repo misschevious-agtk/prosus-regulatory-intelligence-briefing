@@ -28,10 +28,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-07-07-a693a0f332
-cluster_size: 10
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # The CMA’s Steering Fee Framework for Apple and Google: Cost, Value and a Nod to the CAT

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-827caaa92c
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-9a70a7b105
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Can a Legal AI Platform Be Powerful, Fun and Free All at the Same Time? Lavern Surely Thinks So.

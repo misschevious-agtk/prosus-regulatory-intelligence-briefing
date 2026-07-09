@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-02-c0783b5751
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: relationships-over-sales-how-real-connections-build-a-legal-practice
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Relationships Over Sales: How Real Connections Build A Legal Practice

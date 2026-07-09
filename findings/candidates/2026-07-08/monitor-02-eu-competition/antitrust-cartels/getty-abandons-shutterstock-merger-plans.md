@@ -17,10 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-08-9f807b498c
-cluster_size: 3
-cluster_role: canonical
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-07-13d5c4186d
+cluster_size: 33
+cluster_role: sibling
+ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_canonical_slug: nexfibre-substantial-merger-inquiry
 ---
 
 # Getty abandons Shutterstock merger plans

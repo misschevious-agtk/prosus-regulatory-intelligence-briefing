@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-08-f4be26f247
-cluster_size: 3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: are-supreme-court-justices-betting-on-their-own-cases-a-member-of-cong
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Former DOJ Prosecutors To Senate: Blanche Took The Same Oath We Did But He Didn’t Keep It

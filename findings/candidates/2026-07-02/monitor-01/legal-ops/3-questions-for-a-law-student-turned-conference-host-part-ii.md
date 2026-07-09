@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-788602b166
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 3-questions-for-a-law-student-turned-conference-host-part-ii
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-d7766e6134
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # 3 Questions For A Law Student Turned Conference Host (Part II)

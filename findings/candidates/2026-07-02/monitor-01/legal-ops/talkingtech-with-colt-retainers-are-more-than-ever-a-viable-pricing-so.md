@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-01-3b2bdd5444
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: talkingtech-with-colt-retainers-are-more-than-ever-a-viable-pricing-so
-ranked_at: '2026-07-08T09:29:15+00:00'
+cluster_id: cluster-2026-07-02-31d4316220
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # TalkingTech with Colt: Retainers are, more than ever, a viable pricing solution

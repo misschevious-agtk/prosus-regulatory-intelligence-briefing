@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-02-2663c99d9d
-cluster_size: 132
+cluster_size: 136
 cluster_role: sibling
 cluster_canonical_slug: eu-and-armenia-strengthen-their-partnership-boosting-resilience-trade-
-ranked_at: '2026-07-08T09:29:15+00:00'
+ranked_at: '2026-07-09T10:27:21+00:00'
 ---
 
 # Joint press release: €2.5 billion of EU ETS revenues invested in cleaner energy systems in 11 EU countries

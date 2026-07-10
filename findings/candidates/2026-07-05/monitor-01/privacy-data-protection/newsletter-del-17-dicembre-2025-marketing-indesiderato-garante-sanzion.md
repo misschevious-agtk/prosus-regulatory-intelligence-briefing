@@ -18,10 +18,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-07-09-08485bc199
-cluster_size: 82
+cluster_size: 85
 cluster_role: sibling
 cluster_canonical_slug: edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-a
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # NEWSLETTER del 17 dicembre 2025 - Marketing indesiderato: Garante sanziona Verisure Italia per 400mila euro - Misure di sicurezza inadeguate, Garante privacy sanziona Aimag  - G7 Privacy: per un’innovazione che tuteli i minori - Sistema informazione Schengen: online i nuovi modelli per l’esercizio dei diritti

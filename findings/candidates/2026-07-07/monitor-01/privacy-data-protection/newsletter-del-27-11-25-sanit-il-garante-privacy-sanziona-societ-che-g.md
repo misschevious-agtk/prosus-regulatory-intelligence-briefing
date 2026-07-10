@@ -19,10 +19,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-07-09-08485bc199
-cluster_size: 82
+cluster_size: 85
 cluster_role: sibling
 cluster_canonical_slug: edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-a
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # NEWSLETTER del 27/11/25 - Sanità, il Garante privacy sanziona società che gestisce un ospedale - Online le FAQ su trattamento dati e trasparenza nei concorsi pubblici - Whistleblowing: nuovo parere sulle Linee guida di ANAC - "La scuola a prova di privacy". Il vademecum aggiornato - GDPR e obblighi di trasparenza, il Garante partecipa al CEF 2026

@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-02-3b4b2deae3
-cluster_size: 10
+cluster_id: cluster-2026-07-03-f360a33ec5
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: purpose-and-pragmatism-in-the-uk-s-digital-markets-competition-regime
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Purpose and pragmatism in the UK’s digital markets competition regime

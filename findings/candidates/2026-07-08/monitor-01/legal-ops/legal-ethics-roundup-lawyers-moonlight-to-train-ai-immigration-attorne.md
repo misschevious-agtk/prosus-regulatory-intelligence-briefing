@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-07-65ceeceef7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-lawyers-moonlight-to-train-ai-immigration-attorne
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Legal Ethics Roundup: Lawyers Moonlight To Train AI, Immigration Attorney Scam, Partnership Pain, Ethical Listening Is ‘Secret Superpower’ & More

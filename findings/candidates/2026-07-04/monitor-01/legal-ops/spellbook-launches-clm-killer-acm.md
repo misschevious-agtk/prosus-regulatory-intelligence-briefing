@@ -18,11 +18,11 @@ entities:
   jurisdiction: NL
   matched_alias: ACM
 case_numbers: []
-cluster_id: cluster-2026-07-02-6e599c6e1a
-cluster_size: 8
+cluster_id: cluster-2026-07-03-7f9eb25ee9
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: spellbook-launches-clm-killer-acm
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Spellbook Launches ‘CLM Killer’ ACM

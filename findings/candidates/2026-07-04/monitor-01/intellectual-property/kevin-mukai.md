@@ -18,9 +18,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-07-04-3256645b9b
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Kevin Mukai

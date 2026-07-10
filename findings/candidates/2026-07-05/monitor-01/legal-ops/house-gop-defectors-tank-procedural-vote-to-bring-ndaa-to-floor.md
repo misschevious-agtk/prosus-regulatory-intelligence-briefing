@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-02-b6fe8cffd2
-cluster_size: 4
+cluster_id: cluster-2026-07-03-0d8d6994a3
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: house-gop-defectors-tank-procedural-vote-to-bring-ndaa-to-floor
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # House GOP Defectors Tank Procedural Vote To Bring NDAA To Floor

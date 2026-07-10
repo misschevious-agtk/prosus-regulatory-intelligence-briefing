@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-02-34b46f9c58
-cluster_size: 21
+cluster_id: cluster-2026-07-03-b450b6e6c7
+cluster_size: 17
 cluster_role: sibling
-cluster_canonical_slug: lections-professionnelles-dans-la-fonction-publique-et-vote-lectroniqu
-ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_canonical_slug: quatre-auteurs-re-oivent-le-deuxi-me-prix-cnil-ehess-pour-leur-recherc
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés

@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-08-c69f010e2b
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: whole-or-apportioned-sunoco-asks-the-supreme-court-to-rethink-lost-pro
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Whole or Apportioned: Sunoco Asks the Supreme Court to Rethink Lost Profits

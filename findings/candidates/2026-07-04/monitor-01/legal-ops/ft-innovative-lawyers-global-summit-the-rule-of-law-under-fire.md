@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-04-ed70c32e4a
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # FT Innovative Lawyers Global Summit – The rule of law under fire

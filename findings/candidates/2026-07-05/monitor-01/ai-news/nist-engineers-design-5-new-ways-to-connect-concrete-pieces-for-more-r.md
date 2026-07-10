@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-02-860c0e9d88
-cluster_size: 8
+cluster_id: cluster-2026-07-03-53fcb24541
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: nist-engineers-design-5-new-ways-to-connect-concrete-pieces-for-more-r
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # NIST Engineers Design 5 New Ways to Connect Concrete Pieces for More Resilient Buildings

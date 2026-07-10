@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-02-6580a050a1
-cluster_size: 7
+cluster_id: cluster-2026-07-03-ea72aefaf3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: 8am-parent-to-lawpay-mycase-and-others-has-a-new-ceo
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # 8am, Parent to LawPay, MyCase and Others, Has A New CEO

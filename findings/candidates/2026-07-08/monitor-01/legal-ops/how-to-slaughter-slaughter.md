@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-07-2e5e32eccf
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: how-to-slaughter-slaughter
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # How To Slaughter Slaughter

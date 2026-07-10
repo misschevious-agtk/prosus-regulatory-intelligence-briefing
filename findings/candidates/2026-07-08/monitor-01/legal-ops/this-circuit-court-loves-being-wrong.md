@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-07-57996e1495
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-circuit-court-loves-being-wrong
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # This Circuit Court Loves Being Wrong

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-07-0e3de7be1a
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # America Now Cares Enough About Soccer To Play FIFA’s Game, And Europe Is Mad About It

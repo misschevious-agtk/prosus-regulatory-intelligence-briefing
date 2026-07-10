@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-09-b7124a81b3
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # The Downside Of A Biglaw Merger: Legacy Cadwalader Timekeepers Get A Not-So-Fun Homework Assignment

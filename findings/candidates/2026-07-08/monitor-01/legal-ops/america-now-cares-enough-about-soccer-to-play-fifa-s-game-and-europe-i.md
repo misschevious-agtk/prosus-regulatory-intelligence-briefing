@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-07-0e3de7be1a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: america-now-cares-enough-about-soccer-to-play-fifa-s-game-and-europe-i
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # America Now Cares Enough About Soccer To Play FIFA’s Game, And Europe Is Mad About It

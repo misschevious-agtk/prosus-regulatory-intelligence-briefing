@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-08-3b365e2d15
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: when-cyberattacks-walk-through-the-front-door
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # When Cyberattacks Walk Through the Front Door

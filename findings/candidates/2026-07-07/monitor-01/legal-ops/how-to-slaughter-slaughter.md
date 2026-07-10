@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-07-2e5e32eccf
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # How To Slaughter Slaughter

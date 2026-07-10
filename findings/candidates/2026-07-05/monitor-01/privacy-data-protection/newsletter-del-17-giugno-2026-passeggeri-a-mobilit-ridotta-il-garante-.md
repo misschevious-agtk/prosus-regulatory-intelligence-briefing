@@ -25,10 +25,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-07-09-08485bc199
-cluster_size: 82
+cluster_size: 85
 cluster_role: sibling
 cluster_canonical_slug: edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-a
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # NEWSLETTER del 17 giugno 2026 - Passeggeri a mobilità ridotta, il Garante privacy sanziona Emirates - Telecamere di sicurezza urbana, Garante: usi ulteriori solo se previsti dalla legge - Foto dei minori sui social: serve il consenso di entrambi i genitori - Data breach: in consultazione il nuovo modello di notificazione dell’EDPB

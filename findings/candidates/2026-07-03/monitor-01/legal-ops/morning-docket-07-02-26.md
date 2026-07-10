@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: YouTube
 case_numbers: []
-cluster_id: cluster-2026-07-02-1c88df6a1d
-cluster_size: 534
+cluster_id: cluster-2026-07-03-8bcd8dd53f
+cluster_size: 17
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_canonical_slug: justice-gorsuch-s-birthright-citizenship-dissent-will-not-make-donald-
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Morning Docket: 07.02.26

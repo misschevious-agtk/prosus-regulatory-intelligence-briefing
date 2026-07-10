@@ -18,10 +18,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-07-09-08485bc199
-cluster_size: 82
+cluster_size: 85
 cluster_role: sibling
 cluster_canonical_slug: edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-a
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # NEWSLETTER del 25 settembre 2025 - Garante privacy: dossier sanitario accessibile solo per ragioni di cura - Diritto di accesso, il Garante privacy sanziona una banca per 100mila euro - PA e obblighi di trasparenza online, il Garante privacy chiede maggiori tutele - Trasparenza siti, il Garante privacy sanziona un Comune - Garanti privacy mondiali: la protezione dati si applica pienamente all’IA

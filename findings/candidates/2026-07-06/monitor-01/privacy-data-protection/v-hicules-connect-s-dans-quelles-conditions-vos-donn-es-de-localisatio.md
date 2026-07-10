@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-02-1c88df6a1d
-cluster_size: 534
+cluster_id: cluster-2026-07-03-4fb1a0e8af
+cluster_size: 520
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_canonical_slug: the-en-banc-queue-for-july-2026
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?

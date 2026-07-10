@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-09-b33bb46ebc
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # F-35 For Turkey? Trump Says ‘Certainly, We’ll Consider’ Reversing Ban

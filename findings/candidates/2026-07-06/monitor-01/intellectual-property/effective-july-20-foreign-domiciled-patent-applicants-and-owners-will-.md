@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-02-f7460ac6b5
-cluster_size: 102
+cluster_id: cluster-2026-07-03-8d35a55073
+cluster_size: 97
 cluster_role: sibling
 cluster_canonical_slug: new-serial-number-series-begins-for-applications
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Effective July 20: Foreign-domiciled patent applicants and owners will be required to use a USPTO registered patent practitioner in correspondence with the USPTO

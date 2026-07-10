@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-03-1f2dfe8d31
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: in-an-alternate-universe-where-trump-isn-t-polarizing-he-could-have-th
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # In An Alternate Universe Where Trump Isn’t Polarizing, He Could Have Thrown The Greatest July 4th 250th Anniversary Celebration Of All Time

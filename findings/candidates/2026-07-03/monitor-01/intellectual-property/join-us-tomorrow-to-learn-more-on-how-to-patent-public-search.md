@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-02-9bb74e3224
-cluster_size: 20
-cluster_role: sibling
-cluster_canonical_slug: join-us-tomorrow-to-learn-more-on-how-to-patent-public-search
-ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_id: cluster-2026-07-03-6bec69766c
+cluster_size: 17
+cluster_role: canonical
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # Join us tomorrow to learn more on how to Patent Public Search

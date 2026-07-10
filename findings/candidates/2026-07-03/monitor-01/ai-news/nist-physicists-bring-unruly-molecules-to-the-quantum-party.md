@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-02-4bb83a5cfe
+cluster_id: cluster-2026-07-03-3ed1d7374f
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-physicists-bring-unruly-molecules-to-the-quantum-party
-ranked_at: '2026-07-09T10:27:21+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # NIST Physicists Bring Unruly Molecules to the Quantum Party

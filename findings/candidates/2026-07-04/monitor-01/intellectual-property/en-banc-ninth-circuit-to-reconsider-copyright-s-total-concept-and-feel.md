@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-02-41f476f509
-cluster_size: 7
+cluster_id: cluster-2026-07-03-6ac46ecc6f
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: en-banc-ninth-circuit-to-reconsider-copyright-s-total-concept-and-feel
-ranked_at: '2026-07-09T10:27:21+00:00'
+ranked_at: '2026-07-10T10:26:10+00:00'
 ---
 
 # En Banc Ninth Circuit to Reconsider Copyright’s Total Concept and Feel Test

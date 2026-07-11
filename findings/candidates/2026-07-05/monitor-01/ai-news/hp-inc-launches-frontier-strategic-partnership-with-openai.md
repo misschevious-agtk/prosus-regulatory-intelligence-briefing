@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-03-3c7bb1f6f3
-cluster_size: 15
+cluster_id: cluster-2026-07-04-2f80b8b678
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: hp-inc-launches-frontier-strategic-partnership-with-openai
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # HP Inc. launches Frontier strategic partnership with OpenAI

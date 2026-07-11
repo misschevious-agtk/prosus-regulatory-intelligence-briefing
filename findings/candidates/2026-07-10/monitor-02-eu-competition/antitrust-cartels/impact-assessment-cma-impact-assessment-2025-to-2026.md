@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-07-a693a0f332
-cluster_size: 29
+cluster_size: 43
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Impact assessment: CMA Impact Assessment 2025 to 2026

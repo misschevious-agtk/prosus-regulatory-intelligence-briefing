@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-09-5005e0aca5
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 cluster_canonical_slug: ai-liability-clarified-ukjt-says-existing-english-law-provides-the-ans
 ---
 

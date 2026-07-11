@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-8a8de4d5cf
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: attorney-turned-traitor
-ranked_at: '2026-07-10T10:26:10+00:00'
+cluster_id: cluster-2026-07-04-e4f8b1833a
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Attorney Turned ‘Traitor’

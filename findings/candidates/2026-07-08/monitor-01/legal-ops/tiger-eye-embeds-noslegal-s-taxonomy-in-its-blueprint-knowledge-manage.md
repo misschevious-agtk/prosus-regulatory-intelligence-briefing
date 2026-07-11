@@ -19,7 +19,7 @@ cluster_id: cluster-2026-07-07-08a653e1ba
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: tiger-eye-embeds-noslegal-s-taxonomy-in-its-blueprint-knowledge-manage
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Tiger Eye embeds noslegal’s taxonomy in its Blueprint Knowledge Management platform

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-08-adde478fb9
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Report Highlights Private Equity’s Lesser-Known Strategy: Nonprofit Joint Ventures

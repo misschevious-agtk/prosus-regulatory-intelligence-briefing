@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-53c42ca8de
-cluster_size: 4
+cluster_id: cluster-2026-07-04-e7791d9d56
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-nintendo-palworld-patent-suit-appears-to-be-heading-for-a-muted-co
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # The Nintendo/Palworld Patent Suit Appears To Be Heading For A Muted Conclusion

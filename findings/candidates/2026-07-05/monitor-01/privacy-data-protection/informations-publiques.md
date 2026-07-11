@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-03-91a7b58f95
-cluster_size: 4
+cluster_id: cluster-2026-07-04-0f31d7058c
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: informations-publiques
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Informations publiques

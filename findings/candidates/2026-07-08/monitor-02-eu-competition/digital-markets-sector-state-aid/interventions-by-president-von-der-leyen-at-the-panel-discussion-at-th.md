@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-08-18ae55fc94
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: interventions-by-president-von-der-leyen-at-the-panel-discussion-at-th
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Interventions by President von der Leyen at the panel discussion at the NATO Summit Defence Industry Forum

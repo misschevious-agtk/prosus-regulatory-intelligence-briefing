@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-07-4dc9b9d04f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: debunked-a-little-more-transparency-a-little-more-action
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Debunked: A Little More Transparency, A Little More Action

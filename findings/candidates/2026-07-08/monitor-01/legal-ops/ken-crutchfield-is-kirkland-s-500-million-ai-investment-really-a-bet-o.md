@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-584a19fd3d
+cluster_id: cluster-2026-07-04-01317e72b6
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: ken-crutchfield-is-kirkland-s-500-million-ai-investment-really-a-bet-o
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Ken Crutchfield: Is Kirkland’s $500 Million AI Investment Really A Bet On Data?

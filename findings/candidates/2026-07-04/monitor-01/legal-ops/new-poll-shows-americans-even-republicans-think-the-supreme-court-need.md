@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-8bcd8dd53f
-cluster_size: 17
+cluster_id: cluster-2026-07-04-c11fa35f41
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: justice-gorsuch-s-birthright-citizenship-dissent-will-not-make-donald-
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # New Poll Shows Americans — Even Republicans — Think The Supreme Court Needs To Be Reined In

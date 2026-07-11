@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-2718ce6378
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: alito-s-outburst-and-tough-times-for-partners
-ranked_at: '2026-07-10T10:26:10+00:00'
+cluster_id: cluster-2026-07-04-1b8b73742c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Alito’s Outburst And Tough Times For Partners

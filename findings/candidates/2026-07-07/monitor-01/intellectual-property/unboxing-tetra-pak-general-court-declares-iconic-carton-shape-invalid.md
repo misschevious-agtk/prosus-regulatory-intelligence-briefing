@@ -23,11 +23,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-104/25
-cluster_id: cluster-2026-07-03-4fb1a0e8af
-cluster_size: 520
+cluster_id: cluster-2026-07-04-ebae92d876
+cluster_size: 475
 cluster_role: sibling
-cluster_canonical_slug: the-en-banc-queue-for-july-2026
-ranked_at: '2026-07-10T10:26:10+00:00'
+cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Unboxing Tetra Pak: General Court declares iconic carton shape invalid

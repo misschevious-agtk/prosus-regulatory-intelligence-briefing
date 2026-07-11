@@ -19,10 +19,10 @@ entities:
   matched_alias: WIPO
 case_numbers: []
 cluster_id: cluster-2026-07-04-51d321166d
-cluster_size: 23
+cluster_size: 27
 cluster_role: sibling
 cluster_canonical_slug: former-uspto-deputy-director-laura-peter-nominated-for-role-at-the-wor
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Laura Peter to be the World Intellectual Property Organization’s Next Deputy Director General of the Patents and Technology Sector

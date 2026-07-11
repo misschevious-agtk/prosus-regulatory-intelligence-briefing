@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-6981f141cc
-cluster_size: 3
+cluster_id: cluster-2026-07-04-ab56e0e5ee
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: halfway-to-250-america-s-republican-president-fought-big-business-won-
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Halfway To 250, America’s Republican President Fought Big Business, Won The Real Peace Prize, And Loved Nature

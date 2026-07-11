@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-e79628c1dd
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: the-june-orange-rag-is-here
-ranked_at: '2026-07-10T10:26:10+00:00'
+cluster_id: cluster-2026-07-04-11799d99ae
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # The June Orange Rag Is Here!

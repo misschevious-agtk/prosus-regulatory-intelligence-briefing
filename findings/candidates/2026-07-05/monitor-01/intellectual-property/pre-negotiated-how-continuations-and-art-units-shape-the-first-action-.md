@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-2a6189f8bd
-cluster_size: 4
+cluster_id: cluster-2026-07-04-a8080e1edd
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: the-first-offer-accepted-first-action-allowances-and-the-track-1-premi
-ranked_at: '2026-07-10T10:26:10+00:00'
+cluster_canonical_slug: pre-negotiated-how-continuations-and-art-units-shape-the-first-action-
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Pre-Negotiated: How Continuations and Art Units Shape the First-Action Allowance

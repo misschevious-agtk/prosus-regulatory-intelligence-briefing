@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-4fb1a0e8af
-cluster_size: 520
-cluster_role: sibling
-cluster_canonical_slug: the-en-banc-queue-for-july-2026
-ranked_at: '2026-07-10T10:26:10+00:00'
+cluster_id: cluster-2026-07-04-fb7b3e5ba9
+cluster_size: 12
+cluster_role: canonical
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # Anticompetitive Agreements Within Apple’s Distribution Network and Abuse of a Situation of Economic Dependency: End of an Antitrust Saga

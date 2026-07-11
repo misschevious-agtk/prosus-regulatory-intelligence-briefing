@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-27e96617ce
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-work-is-waiting-how-to-get-involved-and-lead-voluntary-bar-associa
-ranked_at: '2026-07-10T10:26:10+00:00'
+cluster_id: cluster-2026-07-04-f6cc88d277
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # The Work Is Waiting: How To Get Involved And Lead Voluntary Bar Associations

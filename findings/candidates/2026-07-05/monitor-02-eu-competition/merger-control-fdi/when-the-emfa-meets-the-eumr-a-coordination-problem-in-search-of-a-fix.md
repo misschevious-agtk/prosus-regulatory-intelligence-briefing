@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-7921357006
-cluster_size: 3
+cluster_id: cluster-2026-07-04-a3cab4ee52
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: when-the-emfa-meets-the-eumr-a-coordination-problem-in-search-of-a-fix
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # When the EMFA Meets the EUMR: A Coordination Problem in Search of a Fix

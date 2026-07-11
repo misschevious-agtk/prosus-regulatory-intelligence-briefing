@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-03-8d35a55073
-cluster_size: 97
+cluster_id: cluster-2026-07-04-1659720069
+cluster_size: 92
 cluster_role: sibling
 cluster_canonical_slug: new-serial-number-series-begins-for-applications
-ranked_at: '2026-07-10T10:26:10+00:00'
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # USPTO eliminating select petition forms

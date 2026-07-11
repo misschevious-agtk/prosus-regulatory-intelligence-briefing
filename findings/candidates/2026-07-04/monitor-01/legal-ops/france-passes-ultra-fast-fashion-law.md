@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-03-2fb89b57e1
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: france-passes-ultra-fast-fashion-law
-ranked_at: '2026-07-10T10:26:10+00:00'
+cluster_id: cluster-2026-07-04-333af70bce
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-11T08:50:16+00:00'
 ---
 
 # France Passes Ultra-Fast Fashion Law

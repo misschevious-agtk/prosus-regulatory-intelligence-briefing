@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-07-13d5c4186d
-cluster_size: 63
+cluster_size: 78
 cluster_role: sibling
 cluster_canonical_slug: nexfibre-substantial-merger-inquiry
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Vandemoortele / Délifrance merger inquiry

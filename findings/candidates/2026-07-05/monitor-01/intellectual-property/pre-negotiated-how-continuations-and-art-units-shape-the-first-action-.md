@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-04-a8080e1edd
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: pre-negotiated-how-continuations-and-art-units-shape-the-first-action-
-ranked_at: '2026-07-11T08:50:16+00:00'
+cluster_id: cluster-2026-07-05-31962f1114
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Pre-Negotiated: How Continuations and Art Units Shape the First-Action Allowance

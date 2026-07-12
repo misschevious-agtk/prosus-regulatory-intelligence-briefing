@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-04-f1ff03202f
+cluster_id: cluster-2026-07-05-d99ac9889a
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: caisi-evaluation-of-deepseek-ai-models-finds-shortcomings-and-risks
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # CAISI Evaluation of DeepSeek AI Models Finds Shortcomings and Risks

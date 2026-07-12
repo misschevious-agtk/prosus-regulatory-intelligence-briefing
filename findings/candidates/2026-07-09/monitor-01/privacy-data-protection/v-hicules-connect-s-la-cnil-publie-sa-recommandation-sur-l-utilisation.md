@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-04-ebae92d876
-cluster_size: 475
+cluster_id: cluster-2026-07-05-9765dd08fe
+cluster_size: 470
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation

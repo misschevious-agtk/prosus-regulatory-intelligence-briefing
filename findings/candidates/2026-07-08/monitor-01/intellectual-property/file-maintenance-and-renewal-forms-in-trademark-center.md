@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-04-fa3be1077d
+cluster_id: cluster-2026-07-05-9e9cc7aff1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: file-maintenance-and-renewal-forms-in-trademark-center
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # File maintenance and renewal forms in Trademark Center

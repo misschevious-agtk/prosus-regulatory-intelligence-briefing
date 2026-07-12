@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-04-aabb979184
-cluster_size: 3
+cluster_id: cluster-2026-07-05-a70aae8489
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fireworks-firm-raises-and-fantasy-vacations-see-also
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Fireworks, Firm Raises, And Fantasy Vacations — See Also

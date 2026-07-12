@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-04-bcb32f7f69
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: biglaw-firm-gets-on-board-with-new-associate-salary-scale
-ranked_at: '2026-07-11T08:50:16+00:00'
+cluster_id: cluster-2026-07-05-a9d9405466
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Biglaw Firm Gets On Board With New Associate Salary Scale

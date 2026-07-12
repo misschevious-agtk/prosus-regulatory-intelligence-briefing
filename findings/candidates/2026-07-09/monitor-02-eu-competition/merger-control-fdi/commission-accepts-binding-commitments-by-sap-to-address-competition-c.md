@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-04-22c2b491ad
-cluster_size: 333
+cluster_id: cluster-2026-07-05-ec49b44abc
+cluster_size: 15
 cluster_role: sibling
-cluster_canonical_slug: veterinary-services-for-household-pets
-ranked_at: '2026-07-11T08:50:16+00:00'
+cluster_canonical_slug: the-update-to-the-cnmc-s-guidance-on-competition-compliance-programmes
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Commission accepts binding commitments by SAP to address competition concerns about services for its popular business management software

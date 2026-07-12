@@ -17,11 +17,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-07-04-b3b8df8aef
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: world-s-largest-ip-survey-reveals-increased-awareness-and-trust-in-ip
-ranked_at: '2026-07-11T08:50:16+00:00'
+cluster_id: cluster-2026-07-05-b6da1a5475
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # World's Largest IP Survey Reveals Increased Awareness and Trust in IP

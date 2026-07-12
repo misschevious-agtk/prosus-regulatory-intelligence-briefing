@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-07-13a8a91dca
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-for-environmental-law-2026
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # The Best Law Schools For Environmental Law (2026)

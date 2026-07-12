@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-04-21523e72fe
-cluster_size: 16
+cluster_id: cluster-2026-07-05-a5fa201152
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: the-en-banc-queue-for-july-2026
-ranked_at: '2026-07-11T08:50:16+00:00'
+cluster_canonical_slug: ttab-manual-of-procedure-update-now-available
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # TTAB Manual of Procedure update now available

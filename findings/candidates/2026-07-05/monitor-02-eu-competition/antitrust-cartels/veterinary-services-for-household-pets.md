@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-04-22c2b491ad
-cluster_size: 333
-cluster_role: sibling
-cluster_canonical_slug: veterinary-services-for-household-pets
-ranked_at: '2026-07-11T08:50:16+00:00'
+cluster_id: cluster-2026-07-05-7271ff79d5
+cluster_size: 294
+cluster_role: canonical
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Veterinary services for household pets

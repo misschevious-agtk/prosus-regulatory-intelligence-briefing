@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-09-5005e0aca5
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: ai-liability-clarified-ukjt-says-existing-english-law-provides-the-ans
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # The Legal Tech-To-English Dictionary (2.0): The Current State Of AI

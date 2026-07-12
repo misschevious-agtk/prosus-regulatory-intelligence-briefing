@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-07-40bc1f86fb
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: marc-kasowitz-allegedly-took-a-6-4m-cut-of-columbia-antisemitism-settl
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Marc Kasowitz Allegedly Took A $6.4M Cut Of Columbia Antisemitism Settlement And Jewish Students Are Pissed

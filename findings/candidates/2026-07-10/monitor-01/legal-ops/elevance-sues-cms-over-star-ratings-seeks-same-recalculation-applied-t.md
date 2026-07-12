@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-10-91127ed65d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Elevance Sues CMS Over Star Ratings, Seeks Same Recalculation Applied To Clover

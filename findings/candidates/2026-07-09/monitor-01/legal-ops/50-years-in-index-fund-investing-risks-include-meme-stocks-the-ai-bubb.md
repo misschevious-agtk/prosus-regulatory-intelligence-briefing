@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-09-d02bf6f089
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # 50 Years In, Index Fund Investing Risks Include Meme Stocks, The AI Bubble, And Presidential Market Manipulation

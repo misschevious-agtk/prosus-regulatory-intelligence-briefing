@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-10-7ee880dc44
-cluster_size: 113
+cluster_size: 119
 cluster_role: sibling
 cluster_canonical_slug: commission-preliminarily-finds-the-addictive-design-of-instagram-and-f
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Remarks by President von der Leyen at the dinner hosted by the Taoiseach for the start of the Irish Presidency of the Council of the European Union

@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-10-addb235a3d
-cluster_size: 4
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the 31st anniversary of the Srebrenica genocide

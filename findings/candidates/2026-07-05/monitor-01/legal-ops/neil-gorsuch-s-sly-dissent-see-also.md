@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-04-c11fa35f41
-cluster_size: 12
+cluster_id: cluster-2026-07-05-d35561ba3f
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: justice-gorsuch-s-birthright-citizenship-dissent-will-not-make-donald-
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Neil Gorsuch’s Sly Dissent– See Also

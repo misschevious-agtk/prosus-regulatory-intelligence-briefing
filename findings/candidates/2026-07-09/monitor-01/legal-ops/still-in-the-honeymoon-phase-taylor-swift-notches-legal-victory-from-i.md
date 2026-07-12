@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-08-b20b09d98d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: still-in-the-honeymoon-phase-taylor-swift-notches-legal-victory-from-i
-ranked_at: '2026-07-11T08:50:16+00:00'
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Still In The Honeymoon Phase, Taylor Swift Notches Legal Victory From Interesting Source

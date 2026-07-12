@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-04-02d7320ce0
+cluster_id: cluster-2026-07-05-c9620e8768
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: accelerating-transformers-fine-tuning-with-nvidia-nemo-automodel
-ranked_at: '2026-07-11T08:50:16+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-12T09:05:15+00:00'
 ---
 
 # Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel

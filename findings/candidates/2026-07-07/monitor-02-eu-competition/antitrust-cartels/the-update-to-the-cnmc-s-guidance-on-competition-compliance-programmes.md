@@ -17,11 +17,11 @@ entities:
   jurisdiction: ES
   matched_alias: CNMC
 case_numbers: []
-cluster_id: cluster-2026-07-05-ec49b44abc
-cluster_size: 15
+cluster_id: cluster-2026-07-06-fd6d90845b
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: the-update-to-the-cnmc-s-guidance-on-competition-compliance-programmes
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # The Update To The CNMC’S Guidance On Competition Compliance Programmes: From Formal Compliance To A Standard Of Actual And Verifiable Effectiveness

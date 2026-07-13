@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-05-8e2c21abfa
+cluster_id: cluster-2026-07-06-693da7f02a
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: lawnext-podcast-amy-juers-and-valerie-chan-on-marketing-legal-tech-in-
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # LawNext Podcast: Amy Juers and Valerie Chan on Marketing Legal Tech in the Age of AI Search

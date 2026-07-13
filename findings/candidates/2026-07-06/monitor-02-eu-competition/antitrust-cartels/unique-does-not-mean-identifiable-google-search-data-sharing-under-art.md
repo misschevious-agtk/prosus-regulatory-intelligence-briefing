@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-05-9765dd08fe
-cluster_size: 470
+cluster_id: cluster-2026-07-06-32008175c9
+cluster_size: 420
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Unique Does not Mean Identifiable – Google Search Data Sharing under Article 6(11) DMA

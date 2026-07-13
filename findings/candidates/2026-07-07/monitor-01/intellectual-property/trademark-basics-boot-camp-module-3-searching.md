@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-05-ad1dc8087e
-cluster_size: 88
+cluster_id: cluster-2026-07-06-272baa6f22
+cluster_size: 85
 cluster_role: sibling
 cluster_canonical_slug: new-serial-number-series-begins-for-applications
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Trademark Basics Boot Camp, Module 3: Searching

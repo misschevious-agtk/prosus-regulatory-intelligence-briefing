@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-05-7271ff79d5
-cluster_size: 294
+cluster_id: cluster-2026-07-06-083a088a6f
+cluster_size: 273
 cluster_role: sibling
 cluster_canonical_slug: veterinary-services-for-household-pets
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Suspected anti-competitive conduct in relation to the supply of Solidworks computer-aided design and computer-aided engineering software and related products and services

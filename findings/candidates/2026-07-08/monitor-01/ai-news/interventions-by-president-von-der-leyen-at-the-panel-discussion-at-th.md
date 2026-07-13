@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-08-18ae55fc94
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Interventions by President von der Leyen at the panel discussion at the NATO Summit Defence Industry Forum

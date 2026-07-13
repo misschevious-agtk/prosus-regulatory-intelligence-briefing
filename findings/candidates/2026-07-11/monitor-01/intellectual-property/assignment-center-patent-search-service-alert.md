@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-08-bd74c6d6d7
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: assignment-center-patent-search-service-alert
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Assignment Center Patent Search Service Alert

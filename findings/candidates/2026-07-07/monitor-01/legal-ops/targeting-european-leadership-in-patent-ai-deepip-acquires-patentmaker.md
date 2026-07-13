@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-05-f1cf4894dd
-cluster_size: 3
+cluster_id: cluster-2026-07-06-ec05d4ce4d
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: targeting-european-leadership-in-patent-ai-deepip-acquires-patentmaker
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Targeting European Leadership in Patent AI, DeepIP Acquires PatentMaker

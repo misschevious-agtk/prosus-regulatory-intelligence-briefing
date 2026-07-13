@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-05-8a2017f3f7
-cluster_size: 10
+cluster_id: cluster-2026-07-06-de26bb8ce3
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: anticompetitive-agreements-within-apple-s-distribution-network-and-abu
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Anticompetitive Agreements Within Apple’s Distribution Network and Abuse of a Situation of Economic Dependency: End of an Antitrust Saga

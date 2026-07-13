@@ -18,10 +18,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-07-09-08485bc199
-cluster_size: 91
+cluster_size: 94
 cluster_role: sibling
 cluster_canonical_slug: edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-a
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # NEWSLETTER 29/01/26 - No al controllo dello stile di guida dei lavoratori - L’accesso alla email del lavoratore licenziato vìola la privacy - Monopattini: sì alla piattaforma per rilascio delle targhe - Attivo un nuovo strumento contro il telemarketing selvaggio - Casi transfrontalieri, al via Regolamento UE su reclami e istruttorie

@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-05-9765dd08fe
-cluster_size: 470
+cluster_id: cluster-2026-07-06-bf2a667bf4
+cluster_size: 20
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-12T09:05:15+00:00'
+cluster_canonical_slug: on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Legal Research For Everyone: Inside The CourtListener-Claude Partnership

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-11-937b4b46e6
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Xbox Lays Off 20% Of Staff, Cut Studios, Largely Impacting Acquired Devs It Promised It Wouldn’t Layoff

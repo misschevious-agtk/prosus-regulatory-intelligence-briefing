@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-05-8b487cc776
-cluster_size: 16
+cluster_id: cluster-2026-07-06-318d23b075
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: important-changes-to-new-zealand-divisional-patent-practice
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Refilling the Pipeline: Two New Section 101 Petitions Heading to the Supreme Court

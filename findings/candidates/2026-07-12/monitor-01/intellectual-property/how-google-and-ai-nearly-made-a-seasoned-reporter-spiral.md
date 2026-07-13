@@ -18,10 +18,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-07-11-57b6e966a6
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: how-google-and-ai-nearly-made-a-seasoned-reporter-spiral
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # How Google And AI Nearly Made A Seasoned Reporter Spiral

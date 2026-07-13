@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-09-c052a19493
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: former-law-school-dean-takes-the-w-in-primary
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Former Law School Dean Takes The ‘W’ In Primary

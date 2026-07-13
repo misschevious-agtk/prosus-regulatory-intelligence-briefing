@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-05-c08d187539
+cluster_id: cluster-2026-07-06-853a545e41
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: eve-builds-on-ai-workforce-launch-with-eveos-an-ai-native-operational-
-ranked_at: '2026-07-12T09:05:15+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Eve Builds on AI Workforce Launch with EveOS, An AI-Native Operational Platform for Plaintiff Firms

@@ -23,10 +23,11 @@ entities:
   jurisdiction: US
   matched_alias: Facebook
 case_numbers: []
-cluster_id: cluster-2026-07-10-7ee880dc44
+cluster_id: cluster-2026-07-13-d0b478af49
 cluster_size: 119
-cluster_role: canonical
-ranked_at: '2026-07-12T09:05:15+00:00'
+cluster_role: sibling
+ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_canonical_slug: commission-approves-french-state-aid-to-support-offshore-wind-energy
 ---
 
 # Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act

@@ -18,11 +18,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-07-05-5d2e5d221c
-cluster_size: 30
+cluster_id: cluster-2026-07-06-d33dda09ff
+cluster_size: 32
 cluster_role: sibling
 cluster_canonical_slug: former-uspto-deputy-director-laura-peter-nominated-for-role-at-the-wor
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # WIPO 2026 Global Awards Winners: Eleven Companies Recognized for Using IP to Build and Scale Their Businesses

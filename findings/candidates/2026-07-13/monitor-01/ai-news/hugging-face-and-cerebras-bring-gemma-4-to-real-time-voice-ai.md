@@ -1,0 +1,38 @@
+---
+date_found: 2026-07-13
+monitor: monitor-01
+domain: ai-news
+source_url: https://huggingface.co/blog/cerebras-gemma4-voice-ai
+source_publisher: Hugging Face blog
+source_date: Wed, 01 Jul 2026 00:00:00 GMT
+source_method: rss
+title: Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
+matched_keywords:
+- Hugging Face
+- Cerebras
+match_count: 2
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-07-06-32008175c9
+cluster_size: 420
+cluster_role: sibling
+cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
+ranked_at: '2026-07-13T10:27:12+00:00'
+---
+
+# Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
+
+**Source:** [Hugging Face blog](https://huggingface.co/blog/cerebras-gemma4-voice-ai)
+**Published:** Wed, 01 Jul 2026 00:00:00 GMT
+**Matched keywords (2):** Hugging Face, Cerebras
+
+## Summary excerpt
+
+_No summary available from source feed._
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

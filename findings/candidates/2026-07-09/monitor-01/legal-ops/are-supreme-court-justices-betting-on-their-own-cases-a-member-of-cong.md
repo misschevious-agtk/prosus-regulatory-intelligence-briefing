@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-08-f4be26f247
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: are-supreme-court-justices-betting-on-their-own-cases-a-member-of-cong
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Are Supreme Court Justices Betting On Their Own Cases? A Member Of Congress Would Love John Roberts To Answer This Question

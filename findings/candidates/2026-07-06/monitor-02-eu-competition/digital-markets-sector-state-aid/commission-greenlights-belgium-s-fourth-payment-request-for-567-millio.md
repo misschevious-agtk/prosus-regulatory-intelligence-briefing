@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-05-5b994f32b5
-cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-belgium-s-fourth-payment-request-for-567-millio
-ranked_at: '2026-07-12T09:05:15+00:00'
+cluster_id: cluster-2026-07-06-de064b5322
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Commission greenlights Belgium's fourth payment request for €567 million under NextGenerationEU

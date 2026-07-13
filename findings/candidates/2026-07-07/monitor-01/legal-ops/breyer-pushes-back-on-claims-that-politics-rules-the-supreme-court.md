@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-05-d35561ba3f
-cluster_size: 7
+cluster_id: cluster-2026-07-07-52c69e8f87
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: justice-gorsuch-s-birthright-citizenship-dissent-will-not-make-donald-
-ranked_at: '2026-07-12T09:05:15+00:00'
+cluster_canonical_slug: new-poll-shows-americans-even-republicans-think-the-supreme-court-need
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # Breyer Pushes Back On Claims That Politics Rules The Supreme Court

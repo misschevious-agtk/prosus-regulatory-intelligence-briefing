@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-05-38c6ada466
+cluster_id: cluster-2026-07-06-98769eaca1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-en-banc-queue-for-july-2026
-ranked_at: '2026-07-12T09:05:15+00:00'
+ranked_at: '2026-07-13T10:27:12+00:00'
 ---
 
 # The En Banc Queue for July-2026

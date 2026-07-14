@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-10-f1dd8a2943
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-in-the-world-2026
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # The Best Law Schools In The World (2026)

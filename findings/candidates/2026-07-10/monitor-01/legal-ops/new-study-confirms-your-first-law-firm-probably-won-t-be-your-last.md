@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-10-bd2a8331ec
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # New Study Confirms Your First Law Firm Probably Won’t Be Your Last

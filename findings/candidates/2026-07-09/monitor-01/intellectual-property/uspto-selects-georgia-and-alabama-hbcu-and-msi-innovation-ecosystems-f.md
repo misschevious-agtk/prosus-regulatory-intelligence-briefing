@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-07-07-41e983050d
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: uspto-selects-georgia-and-alabama-hbcu-and-msi-innovation-ecosystems-f
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # USPTO selects Georgia and Alabama HBCU and MSI innovation ecosystems for Southeast Community Engagement Office expansion

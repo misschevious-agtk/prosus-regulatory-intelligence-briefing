@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-06-1e124074d6
-cluster_size: 8
+cluster_id: cluster-2026-07-07-4a63773ccf
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: quatre-auteurs-re-oivent-le-deuxi-me-prix-cnil-ehess-pour-leur-recherc
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens

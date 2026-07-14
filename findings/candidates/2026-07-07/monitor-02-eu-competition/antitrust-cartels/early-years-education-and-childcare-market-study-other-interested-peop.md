@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-06-083a088a6f
-cluster_size: 273
-cluster_role: sibling
-cluster_canonical_slug: veterinary-services-for-household-pets
-ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_id: cluster-2026-07-07-2b287260bd
+cluster_size: 228
+cluster_role: canonical
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Early years education and childcare market study: other interested people

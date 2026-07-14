@@ -18,9 +18,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-07-07-a125dbfa7b
-cluster_size: 14
+cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Géolocalisation et applications mobiles : comment protéger vos données ?

@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-13-d0b478af49
-cluster_size: 119
+cluster_size: 117
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-french-state-aid-to-support-offshore-wind-energy
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Remarks by President von der Leyen at the dinner hosted by the Taoiseach for the start of the Irish Presidency of the Council of the European Union

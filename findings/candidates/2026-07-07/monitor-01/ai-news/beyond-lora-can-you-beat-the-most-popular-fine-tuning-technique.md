@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-06-bffa33e570
+cluster_id: cluster-2026-07-07-20a572e6c6
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: beyond-lora-can-you-beat-the-most-popular-fine-tuning-technique
-ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Beyond LoRA: Can you beat the most popular fine-tuning technique?

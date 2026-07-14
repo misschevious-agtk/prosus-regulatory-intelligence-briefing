@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-06-de064b5322
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-belgium-s-fourth-payment-request-for-567-millio
-ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_id: cluster-2026-07-08-6dad5e4c82
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Commission issues €11 billion in its seventh syndicated transaction of 2026

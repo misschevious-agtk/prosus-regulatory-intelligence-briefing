@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-06-1e124074d6
-cluster_size: 8
+cluster_id: cluster-2026-07-07-96dfd1ab21
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: quatre-auteurs-re-oivent-le-deuxi-me-prix-cnil-ehess-pour-leur-recherc
-ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_canonical_slug: technologies-mergentes-et-protection-des-mineurs-les-autorit-s-de-prot
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés

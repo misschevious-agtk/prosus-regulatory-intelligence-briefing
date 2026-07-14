@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-06-bf2a667bf4
-cluster_size: 20
+cluster_id: cluster-2026-07-07-0e9f96a755
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Legal Innovators New York + UK, LexisNexis, Opus 2

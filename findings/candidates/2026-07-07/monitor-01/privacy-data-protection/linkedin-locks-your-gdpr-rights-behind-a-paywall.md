@@ -18,11 +18,10 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-06-00a550fe1e
+cluster_id: cluster-2026-07-07-4265f25435
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: linkedin-locks-your-gdpr-rights-behind-a-paywall
-ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # LinkedIn locks your GDPR rights behind a paywall

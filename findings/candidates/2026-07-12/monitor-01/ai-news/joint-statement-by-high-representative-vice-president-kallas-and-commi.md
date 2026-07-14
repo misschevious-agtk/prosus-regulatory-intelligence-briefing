@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-10-addb235a3d
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: joint-statement-by-high-representative-vice-president-kallas-and-commi
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the 31st anniversary of the Srebrenica genocide

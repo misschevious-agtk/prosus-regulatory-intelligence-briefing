@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-06-965414265b
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: register-for-path-to-a-patent-part-v-understanding-the-role-of-claims-
-ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_id: cluster-2026-07-07-782a214064
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Register for Path to a Patent, Part V: Understanding the role of claims in a patent application

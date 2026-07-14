@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-06-f9376d696c
-cluster_size: 4
+cluster_id: cluster-2026-07-07-2736e19be1
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: 10-years-since-brexit-what-has-happened-in-ip-since-part-2
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # 10 Years since Brexit: What has happened in IP since? Part 2

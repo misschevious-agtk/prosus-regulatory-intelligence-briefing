@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-07-0cd437898b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-s-howler-monkeys-attack-carroll-s-lawyer
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Trump’s Howler Monkeys Attack Carroll’s Lawyer

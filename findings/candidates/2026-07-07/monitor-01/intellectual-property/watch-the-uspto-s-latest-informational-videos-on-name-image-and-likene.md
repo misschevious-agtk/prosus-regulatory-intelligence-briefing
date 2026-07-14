@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-06-ad46ba01f0
+cluster_id: cluster-2026-07-07-9a71c1b053
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: watch-the-uspto-s-latest-informational-videos-on-name-image-and-likene
-ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Watch the USPTO's latest informational videos on name, image, and likeness

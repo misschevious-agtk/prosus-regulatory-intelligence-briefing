@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-06-dcfe199d13
-cluster_size: 4
+cluster_id: cluster-2026-07-07-746cf380da
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: watch-life-liberty-and-the-pursuit-of-innovation-a-special-film-for-am
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Watch "Life, Liberty, and the Pursuit of Innovation," a special film for America's 250th anniversary00

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-06-083a088a6f
-cluster_size: 273
+cluster_id: cluster-2026-07-07-32635df48a
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: veterinary-services-for-household-pets
-ranked_at: '2026-07-13T10:27:12+00:00'
+cluster_canonical_slug: paramount-warner-bros-discovery-merger-inquiry
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Paramount / Warner Bros. Discovery merger inquiry

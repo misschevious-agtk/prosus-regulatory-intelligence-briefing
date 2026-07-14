@@ -18,11 +18,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-07-06-32008175c9
-cluster_size: 420
+cluster_id: cluster-2026-07-07-78baf727a8
+cluster_size: 434
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # [Guest post] WIPO-UK Summer School on Intellectual Property open for registrations with IPKat readers’ discount

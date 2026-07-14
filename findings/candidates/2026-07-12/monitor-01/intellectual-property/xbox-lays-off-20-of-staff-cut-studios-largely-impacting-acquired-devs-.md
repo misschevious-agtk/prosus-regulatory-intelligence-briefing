@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-11-937b4b46e6
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: xbox-lays-off-20-of-staff-cut-studios-largely-impacting-acquired-devs-
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Xbox Lays Off 20% Of Staff, Cut Studios, Largely Impacting Acquired Devs It Promised It Wouldn’t Layoff

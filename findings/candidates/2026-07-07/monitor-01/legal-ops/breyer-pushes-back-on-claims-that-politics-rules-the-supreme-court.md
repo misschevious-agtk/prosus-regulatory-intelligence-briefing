@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-07-52c69e8f87
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: new-poll-shows-americans-even-republicans-think-the-supreme-court-need
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Breyer Pushes Back On Claims That Politics Rules The Supreme Court

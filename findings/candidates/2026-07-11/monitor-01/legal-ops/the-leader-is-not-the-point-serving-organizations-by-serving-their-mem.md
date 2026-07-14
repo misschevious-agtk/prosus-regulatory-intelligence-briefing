@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-10-9458e50e86
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-leader-is-not-the-point-serving-organizations-by-serving-their-mem
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # The Leader Is Not The Point: Serving Organizations By Serving Their Members

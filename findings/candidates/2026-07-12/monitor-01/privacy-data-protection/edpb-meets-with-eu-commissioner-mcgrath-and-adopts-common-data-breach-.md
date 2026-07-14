@@ -22,11 +22,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-07-06-8a904fc685
+cluster_id: cluster-2026-07-07-dd9596ea6b
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # EDPB meets with EU Commissioner McGrath and adopts common data breach notification template

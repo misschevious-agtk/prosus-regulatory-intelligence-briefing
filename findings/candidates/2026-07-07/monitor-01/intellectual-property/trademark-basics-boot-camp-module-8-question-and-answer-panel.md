@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-06-272baa6f22
-cluster_size: 85
+cluster_id: cluster-2026-07-07-51e87ad987
+cluster_size: 83
 cluster_role: sibling
 cluster_canonical_slug: new-serial-number-series-begins-for-applications
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Trademark Basics Boot Camp, Module 8: Question-and-answer panel

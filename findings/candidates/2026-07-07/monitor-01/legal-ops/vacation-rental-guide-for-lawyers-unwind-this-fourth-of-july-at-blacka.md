@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-07-e2a2b7988a
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Vacation Rental Guide For Lawyers: Unwind This Fourth Of July At Blackacre

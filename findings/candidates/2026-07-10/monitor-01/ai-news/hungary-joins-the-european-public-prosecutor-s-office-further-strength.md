@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-10-9b2020d8b8
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # Hungary joins the European Public Prosecutor's Office, further strengthening protection of EU funds

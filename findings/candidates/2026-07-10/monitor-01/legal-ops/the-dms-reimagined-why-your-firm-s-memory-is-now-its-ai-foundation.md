@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-09-11b68c59b3
-cluster_size: 12
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: the-dms-reimagined-why-your-firm-s-memory-is-now-its-ai-foundation
-ranked_at: '2026-07-13T10:27:12+00:00'
+ranked_at: '2026-07-14T09:07:27+00:00'
 ---
 
 # The DMS, Reimagined: Why Your Firm’s Memory Is Now Its AI Foundation

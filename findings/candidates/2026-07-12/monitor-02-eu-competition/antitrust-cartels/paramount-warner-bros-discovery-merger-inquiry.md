@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-07-32635df48a
-cluster_size: 24
+cluster_id: cluster-2026-07-08-7c9c6430d9
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: paramount-warner-bros-discovery-merger-inquiry
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Paramount / Warner Bros. Discovery merger inquiry

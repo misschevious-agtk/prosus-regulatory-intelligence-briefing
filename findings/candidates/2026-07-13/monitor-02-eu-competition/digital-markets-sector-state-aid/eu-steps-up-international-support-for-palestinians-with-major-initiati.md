@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-13-afb7a802e6
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eu-steps-up-international-support-for-palestinians-with-major-initiati
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # EU steps up international support for Palestinians with major initiative for Gaza's early recovery and stronger international coordination

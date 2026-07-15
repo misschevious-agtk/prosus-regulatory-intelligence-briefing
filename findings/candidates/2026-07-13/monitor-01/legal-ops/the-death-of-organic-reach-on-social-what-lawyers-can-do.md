@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-11-f93c4a7172
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-death-of-organic-reach-on-social-what-lawyers-can-do
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # The Death Of Organic Reach On Social: What Lawyers Can Do

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-08a653e1ba
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: tiger-eye-embeds-noslegal-s-taxonomy-in-its-blueprint-knowledge-manage
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_id: cluster-2026-07-08-9ba9a3598d
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Tiger Eye embeds noslegal’s taxonomy in its Blueprint Knowledge Management platform

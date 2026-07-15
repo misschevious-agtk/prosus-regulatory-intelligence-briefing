@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-09-9e41c22336
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-end-of-physical-playstation-games-ownership-licenses-and-the-digit
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # The End Of Physical PlayStation Games: Ownership, Licenses, And The Digital Backlash

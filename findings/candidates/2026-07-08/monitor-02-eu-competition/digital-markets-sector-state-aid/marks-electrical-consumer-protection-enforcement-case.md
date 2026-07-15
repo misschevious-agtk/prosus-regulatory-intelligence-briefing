@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-07-2b287260bd
-cluster_size: 228
+cluster_id: cluster-2026-07-08-2ea993fb16
+cluster_size: 204
 cluster_role: sibling
 cluster_canonical_slug: early-years-education-and-childcare-market-study-other-interested-peop
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Marks Electrical: consumer protection enforcement case

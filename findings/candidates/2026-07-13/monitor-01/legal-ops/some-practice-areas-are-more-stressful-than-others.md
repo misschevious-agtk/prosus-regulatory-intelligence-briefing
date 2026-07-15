@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-11-8014596107
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: some-practice-areas-are-more-stressful-than-others
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Some Practice Areas Are More Stressful Than Others

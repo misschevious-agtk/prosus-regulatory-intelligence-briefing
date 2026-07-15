@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-7dd46f164f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: product-demo-draftable-clean-in-action
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_id: cluster-2026-07-08-89a148b89a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Product demo: Draftable Clean in action

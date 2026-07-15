@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-3ca46a32b0
+cluster_id: cluster-2026-07-08-6bd0e1ba5d
 cluster_size: 20
-cluster_role: sibling
-cluster_canonical_slug: important-changes-to-new-zealand-divisional-patent-practice
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Important changes to New Zealand divisional patent practice

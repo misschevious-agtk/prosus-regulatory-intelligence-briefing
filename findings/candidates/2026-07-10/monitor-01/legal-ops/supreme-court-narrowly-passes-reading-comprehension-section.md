@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-09-5ccce36ff1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-narrowly-passes-reading-comprehension-section
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Supreme Court Narrowly Passes Reading Comprehension Section

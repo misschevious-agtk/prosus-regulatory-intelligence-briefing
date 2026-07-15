@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-10-685afdad69
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Narrowed to Clear the Art: The Enablement Cost of Wyeth’s Unit Dosage Claims

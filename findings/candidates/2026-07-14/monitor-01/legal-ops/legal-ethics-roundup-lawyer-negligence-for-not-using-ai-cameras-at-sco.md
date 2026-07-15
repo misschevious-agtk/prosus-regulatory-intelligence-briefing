@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-14-dc5e5403b6
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Legal Ethics Roundup: Lawyer ‘Negligence’ For Not Using AI, Cameras At SCOTUS, Law School Laptop Ban & More

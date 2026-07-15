@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-10-46d9cd4827
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: job-of-the-month-senior-title-insurance-underwriting-counsel
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Job Of The Month: Senior Title Insurance Underwriting Counsel

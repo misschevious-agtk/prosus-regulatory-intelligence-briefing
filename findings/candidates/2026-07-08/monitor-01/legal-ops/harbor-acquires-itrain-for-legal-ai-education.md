@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-08-abe5603776
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: exclusive-harbor-acquires-uk-legal-tech-training-provider-itrain
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Harbor Acquires iTrain for Legal AI Education

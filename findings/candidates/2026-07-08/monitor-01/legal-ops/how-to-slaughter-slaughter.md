@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-2e5e32eccf
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-to-slaughter-slaughter
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_id: cluster-2026-07-08-f90a7abc4f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # How To Slaughter Slaughter

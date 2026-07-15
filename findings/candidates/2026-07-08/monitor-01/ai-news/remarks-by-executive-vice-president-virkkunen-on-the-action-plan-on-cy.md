@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-07-48e74222f9
-cluster_size: 8
+cluster_id: cluster-2026-07-08-60ac0f7c2d
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: commission-proposes-five-joint-defence-projects-to-strengthen-europe-s
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_canonical_slug: commission-presents-eu-action-plan-on-cybersecurity-and-artificial-int
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Remarks by Executive Vice-President Virkkunen on the Action plan on Cybersecurity and Artificial Intelligence

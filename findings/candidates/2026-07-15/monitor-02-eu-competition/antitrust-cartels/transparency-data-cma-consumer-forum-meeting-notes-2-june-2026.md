@@ -1,0 +1,42 @@
+---
+date_found: 2026-07-15
+monitor: monitor-02-eu-competition
+domain: antitrust-cartels
+source_url: https://www.gov.uk/government/publications/cma-consumer-forum-meeting-notes-2-june-2026
+source_publisher: CMA news
+source_date: '2026-07-03T11:30:07Z'
+source_method: rss
+title: 'Transparency data: CMA Consumer Forum meeting notes: 2 June 2026'
+matched_keywords:
+- CMA
+- Competition and Markets Authority
+match_count: 2
+status: candidate
+entities:
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  matched_alias: CMA
+case_numbers: []
+cluster_id: cluster-2026-07-08-23f5893e82
+cluster_size: 24
+cluster_role: sibling
+cluster_canonical_slug: transparency-data-cma-consumer-forum-meeting-notes-2-june-2026
+ranked_at: '2026-07-15T09:12:22+00:00'
+---
+
+# Transparency data: CMA Consumer Forum meeting notes: 2 June 2026
+
+**Source:** [CMA news](https://www.gov.uk/government/publications/cma-consumer-forum-meeting-notes-2-june-2026)
+**Published:** 2026-07-03T11:30:07Z
+**Matched keywords (2):** CMA, Competition and Markets Authority
+
+## Summary excerpt
+
+The minutes of the Competition and Markets Authority (CMA) Consumer Forum meeting on 2 June 2026.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

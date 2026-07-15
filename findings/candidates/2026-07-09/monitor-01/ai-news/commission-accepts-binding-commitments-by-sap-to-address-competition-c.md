@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-07-4f38accbd0
-cluster_size: 9
-cluster_role: sibling
-cluster_canonical_slug: the-update-to-the-cnmc-s-guidance-on-competition-compliance-programmes
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_id: cluster-2026-07-09-f4d757afb9
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Commission accepts binding commitments by SAP to address competition concerns about services for its popular business management software

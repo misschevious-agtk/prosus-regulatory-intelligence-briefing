@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-13a8a91dca
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-best-law-schools-for-environmental-law-2026
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_id: cluster-2026-07-08-c62f7e1cca
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # The Best Law Schools For Environmental Law (2026)

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-08-f7608ebdcb
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-biglaw-firms-where-lawyers-did-the-most-pro-bono-work-2025
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # The Biglaw Firms Where Lawyers Did The Most Pro Bono Work (2025)

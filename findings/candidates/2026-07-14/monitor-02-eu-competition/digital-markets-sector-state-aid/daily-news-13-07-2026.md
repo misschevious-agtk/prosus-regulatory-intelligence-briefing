@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-13-9b34334fc1
-cluster_size: 6
+cluster_id: cluster-2026-07-13-d0b478af49
+cluster_size: 119
 cluster_role: sibling
-cluster_canonical_slug: commission-designates-special-representative-for-cyprus
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_canonical_slug: commission-approves-french-state-aid-to-support-offshore-wind-energy
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Daily News 13 / 07 / 2026

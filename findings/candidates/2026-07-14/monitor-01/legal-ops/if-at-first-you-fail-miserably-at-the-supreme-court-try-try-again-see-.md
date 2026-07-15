@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-78baf727a8
-cluster_size: 434
+cluster_id: cluster-2026-07-08-13023089fb
+cluster_size: 428
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # If At First You Fail Miserably At The Supreme Court, Try, Try Again — See Generally

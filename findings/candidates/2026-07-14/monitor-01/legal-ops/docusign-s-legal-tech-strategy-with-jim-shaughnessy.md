@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-08-8f8c09df08
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: docusign-s-legal-tech-strategy-with-jim-shaughnessy
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Docusign’s Legal Tech Strategy With Jim Shaughnessy

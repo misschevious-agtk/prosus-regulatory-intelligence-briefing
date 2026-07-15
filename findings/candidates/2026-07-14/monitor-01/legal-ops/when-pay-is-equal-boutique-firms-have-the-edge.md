@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-10-8c03e4857c
 cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: the-biglaw-associates-billing-the-most
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # When Pay Is Equal, Boutique Firms Have The Edge

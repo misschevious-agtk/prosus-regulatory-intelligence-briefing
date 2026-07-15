@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-09-7fe65d51d5
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Centari Launches External Views, Enabling Firms to Share Deal Intelligence Dashboards Directly with Clients

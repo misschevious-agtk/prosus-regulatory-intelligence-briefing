@@ -18,10 +18,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-07-09-08485bc199
-cluster_size: 97
+cluster_size: 100
 cluster_role: sibling
 cluster_canonical_slug: edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-a
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # NEWSLETTER del 9 marzo 2026 - Cimiteri digitali, il Garante privacy sanziona Aldilapp - Stop alle telecamere non a norma privacy - Piattaforma di gestione delle deleghe, via libera del Garante - Garanti mondiali: preoccupazione per contenuti intimi generati con IA

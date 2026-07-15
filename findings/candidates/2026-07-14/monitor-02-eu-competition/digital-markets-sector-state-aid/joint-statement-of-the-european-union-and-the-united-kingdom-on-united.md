@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-14-1a4367d62b
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: joint-statement-of-the-european-union-and-the-united-kingdom-on-united
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Joint Statement of the European Union and the United Kingdom on United Kingdom participation under the Ukraine Support Loan

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-14-c1f9a9d470
-cluster_size: 3
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-13-26
-ranked_at: '2026-07-14T09:07:27+00:00'
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Well, This Doesn’t Help Todd Blanche

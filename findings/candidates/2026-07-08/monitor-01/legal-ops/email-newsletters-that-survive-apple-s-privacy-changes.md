@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-07-ad6f52ba04
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: email-newsletters-that-survive-apple-s-privacy-changes
-ranked_at: '2026-07-14T09:07:27+00:00'
+cluster_id: cluster-2026-07-08-a6490837d8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-15T09:12:22+00:00'
 ---
 
 # Email Newsletters That Survive Apple’s Privacy Changes

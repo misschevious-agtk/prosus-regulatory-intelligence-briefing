@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-14-6e87c83c81
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-is-growing-its-sports-law-practice
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Biglaw Firm Is Growing Its Sports Law Practice

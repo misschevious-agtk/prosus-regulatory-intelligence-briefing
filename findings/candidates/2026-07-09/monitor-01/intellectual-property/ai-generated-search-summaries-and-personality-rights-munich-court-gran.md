@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-08-13023089fb
-cluster_size: 428
-cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-09-fcccfe7d0a
+cluster_size: 121
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # AI-generated search summaries and personality rights: Munich court grants preliminary injunction against Google

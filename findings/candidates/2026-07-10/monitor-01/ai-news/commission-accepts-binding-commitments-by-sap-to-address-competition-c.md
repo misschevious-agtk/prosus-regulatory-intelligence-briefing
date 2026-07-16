@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-09-f4d757afb9
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-accepts-binding-commitments-by-sap-to-address-competition-c
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Commission accepts binding commitments by SAP to address competition concerns about services for its popular business management software*

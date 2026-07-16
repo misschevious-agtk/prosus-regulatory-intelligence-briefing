@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-08-bdee5fd681
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: three-is-company-two-s-a-trial-reference-counts-in-federal-circuit-obv
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-09-e183e820d0
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Three Is Company, Two’s a Trial: Reference Counts in Federal Circuit Obviousness Appeals

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-4d9904894e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: token-maxxing-this-pricing-movie-is-a-remake
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-09-e9f7b53b88
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Token Maxxing: This Pricing Movie Is A Remake

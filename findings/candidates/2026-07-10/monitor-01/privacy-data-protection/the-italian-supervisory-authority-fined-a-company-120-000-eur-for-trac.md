@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-ca13df02dd
-cluster_size: 24
+cluster_id: cluster-2026-07-09-705e3afd70
+cluster_size: 22
 cluster_role: sibling
-cluster_canonical_slug: italian-sa-fines-a-company-for-post-sick-leave-questionnaires
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_canonical_slug: the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-th
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-10-4f1f3c1d74
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update)

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-11-604119782c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: adventures-in-legal-tech-you-too-can-tame-your-esi-here-s-how
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # ‘Adventures In Legal Tech’: You, Too, Can Tame Your ESI. Here’s How.

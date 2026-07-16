@@ -21,9 +21,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-13-d0b478af49
-cluster_size: 119
+cluster_size: 127
 cluster_role: canonical
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Commission approves French State aid to support offshore wind energy

@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-15-1fa8ed531c
-cluster_size: 12
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: heating-oil-market-study
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Heating oil market study

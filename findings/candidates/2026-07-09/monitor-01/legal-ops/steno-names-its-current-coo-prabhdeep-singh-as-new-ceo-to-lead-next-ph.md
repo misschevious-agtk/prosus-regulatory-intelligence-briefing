@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-aeec68f47f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-ph
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-09-61f0d3342e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Steno Names Its Current COO Prabhdeep Singh as New CEO to Lead Next Phase of Growth

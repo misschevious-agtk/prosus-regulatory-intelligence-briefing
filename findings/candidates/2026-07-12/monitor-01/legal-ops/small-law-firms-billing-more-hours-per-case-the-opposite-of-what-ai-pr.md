@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-11-8a477e78c9
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: small-law-firms-billing-more-hours-per-case-the-opposite-of-what-ai-pr
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Small Law Firms Billing More Hours Per Case — The Opposite Of What AI Promised — But At Least They’re Getting Paid!

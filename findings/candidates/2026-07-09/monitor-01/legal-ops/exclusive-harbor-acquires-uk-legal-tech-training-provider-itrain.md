@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-abe5603776
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: exclusive-harbor-acquires-uk-legal-tech-training-provider-itrain
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-09-176681c400
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Exclusive: Harbor acquires UK legal tech training provider iTrain

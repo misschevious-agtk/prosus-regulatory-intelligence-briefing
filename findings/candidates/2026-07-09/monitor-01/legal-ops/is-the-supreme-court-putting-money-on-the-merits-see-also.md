@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-f4be26f247
-cluster_size: 6
+cluster_id: cluster-2026-07-09-eca2bdc1ab
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: are-supreme-court-justices-betting-on-their-own-cases-a-member-of-cong
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Is The Supreme Court Putting Money On The Merits? — See Also

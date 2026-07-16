@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-08-11a25f11cc
-cluster_size: 94
+cluster_id: cluster-2026-07-09-a3951f43aa
+cluster_size: 101
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Corporate report: Framework document between the Competition and Markets Authority and the Department for Business and Trade

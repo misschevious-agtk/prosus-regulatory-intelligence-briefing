@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-14-78c7912c3d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: rebecca-slaughter-has-a-message-for-yale-grow-a-spine
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Rebecca Slaughter Has A Message For Yale: Grow A Spine

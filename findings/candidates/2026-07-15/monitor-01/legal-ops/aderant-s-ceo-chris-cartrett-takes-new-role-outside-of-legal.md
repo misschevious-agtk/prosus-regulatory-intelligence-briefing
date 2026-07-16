@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-15-93446b53fd
-cluster_size: 2
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Aderant’s CEO Chris Cartrett takes new role outside of legal

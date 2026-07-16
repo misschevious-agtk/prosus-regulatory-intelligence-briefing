@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-15-fe5a7e5193
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: doj-rolls-out-a-case-quota-for-the-prosecutors-it-hasn-t-lost-yet
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Forcing Prosecutors To Bring Cases To Keep Their Jobs? What Could Possibly Go Wrong? — See Also

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-b18acf05cd
+cluster_id: cluster-2026-07-09-2bbe95925c
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI

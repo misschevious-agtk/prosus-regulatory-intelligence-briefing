@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-10-747ab699c4
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # The ABA Wants The White House’s Receipts On The Biglaw Executive Orders

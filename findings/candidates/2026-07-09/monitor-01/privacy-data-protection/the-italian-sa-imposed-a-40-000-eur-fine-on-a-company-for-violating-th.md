@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-ca13df02dd
-cluster_size: 24
-cluster_role: sibling
-cluster_canonical_slug: italian-sa-fines-a-company-for-post-sick-leave-questionnaires
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-09-705e3afd70
+cluster_size: 22
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment

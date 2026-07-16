@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-14-01bf9e4780
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: locked-in-or-left-open-a-decision-matrix-for-ptab-fact-findings-after-
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Locked In or Left Open: A Decision Matrix for PTAB Fact Findings After Appeal

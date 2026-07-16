@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-07-08-1b7d665987
-cluster_size: 11
+cluster_id: cluster-2026-07-09-02b9169c9c
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership

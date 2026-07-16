@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-13023089fb
-cluster_size: 428
+cluster_id: cluster-2026-07-09-fe0334a762
+cluster_size: 295
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Hugging Face Models on Foundry Managed Compute

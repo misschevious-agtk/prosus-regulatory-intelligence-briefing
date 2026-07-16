@@ -15,11 +15,11 @@ entities: []
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-2/24
-cluster_id: cluster-2026-07-08-87190f7bde
+cluster_id: cluster-2026-07-09-6e10f53d51
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: thoughts-on-case-c-2-24-p-teva-pay-for-delay-is-the-saga-that-keeps-on
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Thoughts on Case C‑2/24 P, Teva: pay-for-delay is the saga that keeps on giving

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-3e090c45e2
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: the-risk-of-a-preliminary-answer-injunction-bonds-and-the-generic-laun
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-09-a0fbaaffef
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # The Risk of a Preliminary Answer: Injunction Bonds and the Generic Launch

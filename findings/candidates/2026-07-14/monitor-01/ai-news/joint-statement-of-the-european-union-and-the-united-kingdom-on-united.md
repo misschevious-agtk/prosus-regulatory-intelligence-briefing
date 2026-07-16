@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-14-1a4367d62b
-cluster_size: 4
-cluster_role: canonical
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-13-d0b478af49
+cluster_size: 127
+cluster_role: sibling
+ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_canonical_slug: commission-approves-french-state-aid-to-support-offshore-wind-energy
 ---
 
 # Joint Statement of the European Union and the United Kingdom on United Kingdom participation under the Ukraine Support Loan

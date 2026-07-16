@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-c9804fffcc
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: blank-rome-hit-with-two-class-actions-after-data-breach-exposes-57-000
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_id: cluster-2026-07-09-3586b3d99a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Blank Rome Hit With Two Class Actions After Data Breach Exposes 57,000 Clients

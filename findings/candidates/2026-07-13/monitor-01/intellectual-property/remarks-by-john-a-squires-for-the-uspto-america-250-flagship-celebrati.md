@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-08-f49adc72a6
-cluster_size: 119
+cluster_id: cluster-2026-07-09-114e3bf535
+cluster_size: 136
 cluster_role: sibling
 cluster_canonical_slug: former-uspto-deputy-director-laura-peter-nominated-for-role-at-the-wor
-ranked_at: '2026-07-15T09:12:22+00:00'
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # Remarks by John A. Squires for the USPTO America 250 Flagship Celebration!

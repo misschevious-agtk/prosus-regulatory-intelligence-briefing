@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-08-13023089fb
-cluster_size: 428
+cluster_id: cluster-2026-07-09-d5c6edf161
+cluster_size: 12
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_canonical_slug: fastcase-and-alexi-head-to-court-this-week-in-high-stakes-fight-over-l
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # How Best Lawyers Is Helping Small Firms Get Found In The Age Of AI Search

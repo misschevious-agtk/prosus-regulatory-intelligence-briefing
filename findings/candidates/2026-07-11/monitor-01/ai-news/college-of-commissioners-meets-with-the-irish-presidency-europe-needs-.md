@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-13-d0b478af49
-cluster_size: 119
+cluster_id: cluster-2026-07-10-76238f44ac
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-french-state-aid-to-support-offshore-wind-energy
-ranked_at: '2026-07-15T09:12:22+00:00'
+cluster_canonical_slug: college-of-commissioners-meets-with-the-irish-presidency-europe-needs-
+ranked_at: '2026-07-16T09:15:34+00:00'
 ---
 
 # College of Commissioners meets with the Irish Presidency: “Europe needs to navigate change. Ireland can help chart the course”, says von der Leyen

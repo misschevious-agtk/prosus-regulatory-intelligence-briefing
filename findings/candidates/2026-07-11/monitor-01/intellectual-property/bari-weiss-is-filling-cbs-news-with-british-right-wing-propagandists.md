@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-10-ce453ebe72
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: bari-weiss-is-filling-cbs-news-with-british-right-wing-propagandists
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Bari Weiss Is Filling CBS News With British Right Wing Propagandists

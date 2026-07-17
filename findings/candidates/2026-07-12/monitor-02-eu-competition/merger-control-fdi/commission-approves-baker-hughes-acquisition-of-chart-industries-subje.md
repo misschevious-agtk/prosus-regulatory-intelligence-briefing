@@ -22,7 +22,7 @@ cluster_id: cluster-2026-07-11-b8ea773a4f
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-baker-hughes-acquisition-of-chart-industries-subje
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Commission approves Baker Hughes' acquisition of Chart Industries, subject to conditions

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-173ff8ecd6
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: locked-in-at-the-lectern-how-the-federal-circuit-uses-oral-argument
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_id: cluster-2026-07-10-f720c5d1d0
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Locked In at the Lectern: How the Federal Circuit Uses Oral Argument

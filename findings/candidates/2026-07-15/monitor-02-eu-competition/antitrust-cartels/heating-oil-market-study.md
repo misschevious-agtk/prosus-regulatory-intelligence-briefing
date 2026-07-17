@@ -18,10 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-15-1fa8ed531c
-cluster_size: 36
-cluster_role: canonical
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_id: cluster-2026-07-15-81076468a1
+cluster_size: 69
+cluster_role: sibling
+ranked_at: '2026-07-17T09:11:37+00:00'
+cluster_canonical_slug: heating-oil-market-study
 ---
 
 # Heating oil market study

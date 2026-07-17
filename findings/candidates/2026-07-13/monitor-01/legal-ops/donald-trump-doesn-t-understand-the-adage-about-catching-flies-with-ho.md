@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-10-b2694202a6
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: donald-trump-doesn-t-understand-the-adage-about-catching-flies-with-ho
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Donald Trump Doesn’t Understand The Adage About Catching Flies With Honey — See Also

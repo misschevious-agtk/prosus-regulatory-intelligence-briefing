@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-15-bae5a66de4
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-law-schools-that-offer-students-the-most-help-with-tuition-2026
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # The Law Schools That Offer Students The Most Help With Tuition (2026)

@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-09-fe0334a762
-cluster_size: 295
+cluster_id: cluster-2026-07-10-2604fbfe3d
+cluster_size: 224
 cluster_role: sibling
 cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Previewing GPT-5.6 Sol: a next-generation model

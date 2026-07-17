@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-d02bf6f089
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 50-years-in-index-fund-investing-risks-include-meme-stocks-the-ai-bubb
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_id: cluster-2026-07-10-b182c14ae8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # 50 Years In, Index Fund Investing Risks Include Meme Stocks, The AI Bubble, And Presidential Market Manipulation

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-5c9dd2f496
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ken-paxton-wants-texans-to-snitch-on-illegal-voters-a-new-report-sugge
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_id: cluster-2026-07-10-25e4b16e1f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Ken Paxton Wants Texans To Snitch On Illegal Voters. A New Report Suggests He Should Check The Mirror.

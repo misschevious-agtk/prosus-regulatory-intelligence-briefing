@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-07-09-fcccfe7d0a
+cluster_id: cluster-2026-07-10-fdf646d99b
 cluster_size: 121
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # [UPCKat]  When is imminent infringement more likely than not? Decision of the UPC Court of Appeal in Merz v Viatris

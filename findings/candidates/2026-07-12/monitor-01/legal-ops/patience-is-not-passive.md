@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-10-f66ad738eb
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: patience-is-not-passive
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Patience Is Not Passive

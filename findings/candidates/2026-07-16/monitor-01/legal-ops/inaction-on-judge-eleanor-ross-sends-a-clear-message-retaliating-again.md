@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-15-cd3ad4df74
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: inaction-on-judge-eleanor-ross-sends-a-clear-message-retaliating-again
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Inaction On Judge Eleanor Ross Sends A Clear Message: Retaliating Against Whistleblowers Is OK

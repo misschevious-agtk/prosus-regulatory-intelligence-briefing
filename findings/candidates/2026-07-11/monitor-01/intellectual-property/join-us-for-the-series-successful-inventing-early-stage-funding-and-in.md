@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-09-6a77a01205
-cluster_size: 6
+cluster_id: cluster-2026-07-10-1259721a17
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: join-us-for-the-series-successful-inventing-early-stage-funding-and-in
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Join us for the series Successful Inventing: Early-stage funding and informal plans

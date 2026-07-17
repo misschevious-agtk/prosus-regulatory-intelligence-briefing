@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-fcccfe7d0a
+cluster_id: cluster-2026-07-10-fdf646d99b
 cluster_size: 121
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # University Of Chicago Law School Takes Away Laptops And Doubles Down On Socrates

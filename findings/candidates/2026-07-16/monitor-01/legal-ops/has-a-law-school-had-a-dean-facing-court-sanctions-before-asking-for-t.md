@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-15-e61716f6ac
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: has-a-law-school-had-a-dean-facing-court-sanctions-before-asking-for-t
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Has A Law School Had A Dean Facing Court Sanctions Before? Asking For THIS Law School.

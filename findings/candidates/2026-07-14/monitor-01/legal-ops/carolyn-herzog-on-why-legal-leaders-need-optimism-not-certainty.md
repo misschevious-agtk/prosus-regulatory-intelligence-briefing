@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-14-e439b546c5
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Carolyn Herzog On Why Legal Leaders Need Optimism, Not Certainty

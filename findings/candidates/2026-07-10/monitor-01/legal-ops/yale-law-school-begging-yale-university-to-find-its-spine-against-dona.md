@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-fcccfe7d0a
-cluster_size: 121
+cluster_id: cluster-2026-07-10-81793483f1
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_canonical_slug: a-merger-sized-wrinkle-in-time-see-also
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Yale Law School Begging Yale University To Find Its Spine Against Donald Trump

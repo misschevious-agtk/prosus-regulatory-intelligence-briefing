@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-aee64c223a
-cluster_size: 6
+cluster_id: cluster-2026-07-10-5c0a1e3955
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: integreon-names-krishna-nacha-as-ceo-to-lead-ai-forward-growth-strateg
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Integreon Names Krishna Nacha as CEO to Lead AI-Forward Growth Strategy

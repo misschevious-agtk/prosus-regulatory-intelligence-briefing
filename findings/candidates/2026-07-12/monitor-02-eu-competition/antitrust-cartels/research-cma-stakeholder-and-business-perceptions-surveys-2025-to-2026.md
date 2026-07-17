@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-09-a3951f43aa
-cluster_size: 101
+cluster_id: cluster-2026-07-10-a25013504f
+cluster_size: 216
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Research: CMA stakeholder and business perceptions surveys 2025 to 2026

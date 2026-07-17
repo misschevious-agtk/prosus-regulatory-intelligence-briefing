@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-14-dc5e5403b6
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-lawyer-negligence-for-not-using-ai-cameras-at-sco
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Legal Ethics Roundup: Lawyer ‘Negligence’ For Not Using AI, Cameras At SCOTUS, Law School Laptop Ban & More

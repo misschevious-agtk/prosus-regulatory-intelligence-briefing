@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-16-b1ba4942a2
+cluster_id: cluster-2026-07-16-4d5abc419d
 cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_role: sibling
+ranked_at: '2026-07-17T09:11:37+00:00'
+cluster_canonical_slug: eu-law-on-nitrates-pollution-remains-effective-with-scope-for-smarter-
 ---
 
 # EU law on nitrates pollution remains effective, with scope for smarter implementation

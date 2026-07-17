@@ -23,11 +23,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-104/25
-cluster_id: cluster-2026-07-09-fcccfe7d0a
+cluster_id: cluster-2026-07-10-fdf646d99b
 cluster_size: 121
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Unboxing Tetra Pak: General Court declares iconic carton shape invalid

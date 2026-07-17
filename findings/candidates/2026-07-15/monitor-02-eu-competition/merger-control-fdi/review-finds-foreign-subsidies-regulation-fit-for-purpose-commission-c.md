@@ -19,10 +19,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-15-7924b817c9
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: questions-and-answers-on-the-findings-of-the-first-review-of-the-forei
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Review finds Foreign Subsidies Regulation fit for purpose, Commission considers targeted changes

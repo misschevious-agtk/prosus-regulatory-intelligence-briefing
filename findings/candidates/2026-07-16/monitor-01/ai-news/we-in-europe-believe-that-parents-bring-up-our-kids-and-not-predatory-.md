@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-13-d0b478af49
-cluster_size: 127
+cluster_id: cluster-2026-07-10-a25013504f
+cluster_size: 216
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-french-state-aid-to-support-offshore-wind-energy
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # “We in Europe believe that parents bring up our kids, and not predatory algorithms”, says President von der Leyen.

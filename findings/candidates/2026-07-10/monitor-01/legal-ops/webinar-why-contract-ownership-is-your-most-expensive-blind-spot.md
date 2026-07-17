@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-2bd9d678a4
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: webinar-why-contract-ownership-is-your-most-expensive-blind-spot
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_id: cluster-2026-07-10-bdaad147ee
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Webinar: Why Contract Ownership Is Your Most Expensive Blind Spot

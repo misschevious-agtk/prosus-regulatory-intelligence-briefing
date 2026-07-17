@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-10-76238f44ac
+cluster_id: cluster-2026-07-10-d6f5569255
 cluster_size: 6
-cluster_role: canonical
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_role: sibling
+ranked_at: '2026-07-17T09:11:37+00:00'
+cluster_canonical_slug: college-of-commissioners-meets-with-the-irish-presidency-europe-needs-
 ---
 
 # College of Commissioners meets with the Irish Presidency: “Europe needs to navigate change. Ireland can help chart the course”, says von der Leyen

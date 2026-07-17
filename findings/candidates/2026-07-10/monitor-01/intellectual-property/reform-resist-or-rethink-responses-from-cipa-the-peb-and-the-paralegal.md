@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-6e947226f7
+cluster_id: cluster-2026-07-10-b40cdb82cc
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: reform-resist-or-rethink-responses-from-cipa-the-peb-and-the-paralegal
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Reform, resist, or rethink: Responses from CIPA, the PEB and the Paralegal Committee to IPReg's Education Review

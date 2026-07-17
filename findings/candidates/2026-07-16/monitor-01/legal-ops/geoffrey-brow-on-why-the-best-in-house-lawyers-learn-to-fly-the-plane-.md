@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-15-0c4f004491
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: geoffrey-brow-on-why-the-best-in-house-lawyers-learn-to-fly-the-plane-
-ranked_at: '2026-07-16T09:15:34+00:00'
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Geoffrey Brow On Why the Best In-House Lawyers Learn To Fly The Plane With One Engine Burning

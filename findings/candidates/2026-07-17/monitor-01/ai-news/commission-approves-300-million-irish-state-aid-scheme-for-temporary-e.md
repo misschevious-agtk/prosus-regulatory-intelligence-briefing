@@ -1,0 +1,41 @@
+---
+date_found: 2026-07-17
+monitor: monitor-01
+domain: ai-news
+source_url: https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1610
+source_publisher: European Commission press
+source_date: Wed, 15 Jul 2026 22:00:00 GMT
+source_method: rss
+title: Commission approves €300 million Irish State aid scheme for temporary electricity price relief for energy-intensive companies
+matched_keywords:
+- European Commission
+match_count: 1
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+case_numbers: []
+cluster_id: cluster-2026-07-10-a25013504f
+cluster_size: 216
+cluster_role: sibling
+cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
+ranked_at: '2026-07-17T09:11:37+00:00'
+---
+
+# Commission approves €300 million Irish State aid scheme for temporary electricity price relief for energy-intensive companies
+
+**Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1610)
+**Published:** Wed, 15 Jul 2026 22:00:00 GMT
+**Matched keywords (1):** European Commission
+
+## Summary excerpt
+
+European Commission Press release Brussels, 16 Jul 2026 The European Commission has approved a €300 million Irish scheme to provide temporary electricity price relief for energy-intensive companies in line with the objectives of the Clean Industrial Deal.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

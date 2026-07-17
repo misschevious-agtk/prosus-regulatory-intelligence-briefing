@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-09-f6f27e79d3
-cluster_size: 171
+cluster_id: cluster-2026-07-10-65cbf3774b
+cluster_size: 138
 cluster_role: sibling
-cluster_canonical_slug: early-years-education-and-childcare-market-study-providers-and-profess
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_canonical_slug: early-years-education-and-childcare-market-study
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Correspondence: CMA letter to PHIN welcoming achievement of gold compliance milestone

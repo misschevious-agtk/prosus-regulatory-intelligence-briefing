@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-09-813c6f9f27
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: judge-emil-bove-set-trump-assassination-photo-as-his-phone-s-lock-scre
-ranked_at: '2026-07-16T09:15:34+00:00'
+cluster_id: cluster-2026-07-10-94de4fec80
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-17T09:11:37+00:00'
 ---
 
 # Judge Emil Bove Set Trump Assassination Photo As His Phone’s Lock Screen, Like A Proper Henchman

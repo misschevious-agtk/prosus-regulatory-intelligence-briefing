@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-17-0f88e274d2
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Value From the Beginning: The Book of Wisdom’s Limit in 4DD Holdings v. United States

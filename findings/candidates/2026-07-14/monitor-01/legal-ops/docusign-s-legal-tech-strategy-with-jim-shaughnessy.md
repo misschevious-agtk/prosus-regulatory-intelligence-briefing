@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-da2db4dbe2
-cluster_size: 3
+cluster_id: cluster-2026-07-13-d543a5e175
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: docusign-s-legal-tech-strategy-with-jim-shaughnessy
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Docusign’s Legal Tech Strategy With Jim Shaughnessy

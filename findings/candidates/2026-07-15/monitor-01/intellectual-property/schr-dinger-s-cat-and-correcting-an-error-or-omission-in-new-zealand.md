@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-fb427178f3
+cluster_id: cluster-2026-07-11-00d50b2f6f
 cluster_size: 20
 cluster_role: sibling
-cluster_canonical_slug: important-changes-to-new-zealand-divisional-patent-practice
-ranked_at: '2026-07-17T09:11:37+00:00'
+cluster_canonical_slug: refilling-the-pipeline-two-new-section-101-petitions-heading-to-the-su
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Schrödinger's cat, and correcting an error or omission in New Zealand

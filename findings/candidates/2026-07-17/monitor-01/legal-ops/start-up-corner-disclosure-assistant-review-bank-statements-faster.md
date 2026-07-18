@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-c499fa680c
-cluster_size: 8
+cluster_id: cluster-2026-07-11-a3f3671857
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: start-up-corner-disclosure-assistant-review-bank-statements-faster
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Start Up Corner: Disclosure Assistant – Review bank statements faster

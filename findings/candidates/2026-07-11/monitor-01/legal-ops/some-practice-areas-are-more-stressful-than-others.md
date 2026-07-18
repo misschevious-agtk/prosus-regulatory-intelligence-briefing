@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-11-8014596107
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Some Practice Areas Are More Stressful Than Others

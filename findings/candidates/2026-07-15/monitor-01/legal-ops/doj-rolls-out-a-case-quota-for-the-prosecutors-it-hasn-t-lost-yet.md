@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-15-fe5a7e5193
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # DOJ Rolls Out A Case Quota For The Prosecutors It Hasn’t Lost Yet

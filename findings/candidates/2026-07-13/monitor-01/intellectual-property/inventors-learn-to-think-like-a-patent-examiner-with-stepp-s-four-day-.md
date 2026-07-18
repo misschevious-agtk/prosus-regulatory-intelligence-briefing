@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-4398012ddf
-cluster_size: 7
+cluster_id: cluster-2026-07-11-d3c9835e0d
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: inventors-learn-to-think-like-a-patent-examiner-with-stepp-s-four-day-
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Inventors: Learn to think like a patent examiner with STEPP's four-day course

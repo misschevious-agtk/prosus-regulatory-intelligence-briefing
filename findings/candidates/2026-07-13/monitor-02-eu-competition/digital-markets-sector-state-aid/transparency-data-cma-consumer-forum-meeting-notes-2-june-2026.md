@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-10-43821ce063
-cluster_size: 21
+cluster_id: cluster-2026-07-11-2ebda50942
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-consumer-forum-meeting-notes-2-june-2026
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Transparency data: CMA Consumer Forum meeting notes: 2 June 2026

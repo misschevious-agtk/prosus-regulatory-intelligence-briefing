@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-17-cb7ea79ab6
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Florida’s Stop WOKE Act Shut Down (Again) By Eleventh Circuit Appeals Court

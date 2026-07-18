@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-0fc0275e47
+cluster_id: cluster-2026-07-11-4daa2e7910
 cluster_size: 145
 cluster_role: sibling
 cluster_canonical_slug: former-uspto-deputy-director-laura-peter-nominated-for-role-at-the-wor
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Assignment Center Patent Search Service Alert

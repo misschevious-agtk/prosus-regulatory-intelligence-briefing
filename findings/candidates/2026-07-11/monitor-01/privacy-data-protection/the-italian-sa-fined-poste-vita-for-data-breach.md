@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-3c5c06d349
-cluster_size: 21
+cluster_id: cluster-2026-07-11-3aec6208cb
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-th
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # The Italian SA fined Poste Vita for data breach

@@ -22,10 +22,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-07-16-5325c23729
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Patent Trial and Appeal Board launches updated landing and statistics webpages

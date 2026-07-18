@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-14-075d3296ae
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: arguments-that-embarrass-only-the-advocate
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Arguments That Embarrass Only The Advocate

@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-10-0d8af4ec45
+cluster_id: cluster-2026-07-11-eb86279a62
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: le-m-tier-de-dpo-l-heure-de-l-intelligence-artificielle-publication-de
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?

@@ -24,11 +24,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-10-a25013504f
-cluster_size: 216
+cluster_id: cluster-2026-07-11-92240fc64a
+cluster_size: 214
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Commission provides guidance to Google for AI interoperability on Android and sharing of Google Search data under the Digital Markets Act

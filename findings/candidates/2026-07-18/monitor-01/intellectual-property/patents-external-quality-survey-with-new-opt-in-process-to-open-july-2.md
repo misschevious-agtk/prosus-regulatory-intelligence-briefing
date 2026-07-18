@@ -1,0 +1,44 @@
+---
+date_found: 2026-07-18
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://www.uspto.gov/subscription-center/2026/patents-external-quality-survey-new-opt-process-open-july-22
+source_publisher: USPTO news
+source_date: Wed, 07/15/2026 - 10:00
+source_method: rss
+title: Patents External Quality Survey with new opt-in process to open July 22
+matched_keywords:
+- patent
+- trademark
+- USPTO
+- Patent
+match_count: 4
+status: candidate
+entities:
+- name: United States Patent and Trademark Office
+  type: regulator
+  jurisdiction: US
+  matched_alias: USPTO
+case_numbers: []
+cluster_id: cluster-2026-07-11-4daa2e7910
+cluster_size: 145
+cluster_role: sibling
+cluster_canonical_slug: former-uspto-deputy-director-laura-peter-nominated-for-role-at-the-wor
+ranked_at: '2026-07-18T08:51:08+00:00'
+---
+
+# Patents External Quality Survey with new opt-in process to open July 22
+
+**Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/patents-external-quality-survey-new-opt-process-open-july-22)
+**Published:** Wed, 07/15/2026 - 10:00
+**Matched keywords (4):** patent, trademark, USPTO, Patent
+
+## Summary excerpt
+
+[[VIEW_THIS]] Patent Alert Patents External Quality Survey with new opt-in process to open July 22 The United States Patent and Trademark Office (USPTO) is seeking...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

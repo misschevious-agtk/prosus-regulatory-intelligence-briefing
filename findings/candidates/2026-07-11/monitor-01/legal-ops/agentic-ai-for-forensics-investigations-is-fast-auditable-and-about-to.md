@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-a900395870
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: agentic-ai-for-forensics-investigations-is-fast-auditable-and-about-to
-ranked_at: '2026-07-17T09:11:37+00:00'
+cluster_id: cluster-2026-07-11-d172c53fde
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Agentic AI For Forensics Investigations Is Fast, Auditable, And About To Bloody Daubert

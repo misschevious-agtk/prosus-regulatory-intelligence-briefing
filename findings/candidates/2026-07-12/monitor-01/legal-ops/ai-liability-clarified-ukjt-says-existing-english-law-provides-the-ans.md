@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-a72ca615a1
-cluster_size: 4
+cluster_id: cluster-2026-07-11-19bb01c2af
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ai-liability-clarified-ukjt-says-existing-english-law-provides-the-ans
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # AI liability clarified? UKJT says existing English Law provides the answer

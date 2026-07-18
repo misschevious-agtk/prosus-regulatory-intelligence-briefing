@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-11-f10762cc7f
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: fifth-circuit-says-gov-t-can-violate-migrants-due-process-rights-but-o
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Fifth Circuit Says Gov’t Can Violate Migrants’ Due Process Rights… But Only For 90 Days

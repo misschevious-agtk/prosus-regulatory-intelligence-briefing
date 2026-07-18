@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-16-495ae78b3d
-cluster_size: 6
+cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Efficiencies in the Draft EU Merger Guidelines: A Glass Half Full

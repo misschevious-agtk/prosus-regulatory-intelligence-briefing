@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-15-4976aa59d0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: when-being-a-scotus-justice-means-explaining-bulletproof-vests-to-your
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # When Being A SCOTUS Justice Means Explaining Bulletproof Vests To Your Kids

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-15-484f318533
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Former Mayo Clinic Leader Sues System Over Alleged AI Cover-Up: 6 Things To Know

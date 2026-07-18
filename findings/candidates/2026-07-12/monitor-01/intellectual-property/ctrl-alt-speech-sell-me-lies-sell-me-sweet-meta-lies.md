@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-11-2fd9cbc30d
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ctrl-alt-speech-sell-me-lies-sell-me-sweet-meta-lies
-ranked_at: '2026-07-17T09:11:37+00:00'
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # Ctrl-Alt-Speech: Sell Me Lies, Sell Me Sweet Meta Lies

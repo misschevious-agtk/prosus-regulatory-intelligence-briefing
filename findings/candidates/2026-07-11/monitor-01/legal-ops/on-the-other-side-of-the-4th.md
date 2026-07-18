@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-10-a0b99fb436
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: on-the-other-side-of-the-4th
-ranked_at: '2026-07-17T09:11:37+00:00'
+cluster_id: cluster-2026-07-11-d0b91eed9b
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-18T08:51:08+00:00'
 ---
 
 # On The Other Side Of The 4th

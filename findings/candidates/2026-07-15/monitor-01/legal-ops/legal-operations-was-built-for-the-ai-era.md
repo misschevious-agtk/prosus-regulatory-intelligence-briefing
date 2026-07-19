@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-15-c36552ca59
-cluster_size: 10
+cluster_size: 13
 cluster_role: canonical
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Legal Operations Was Built For The AI Era

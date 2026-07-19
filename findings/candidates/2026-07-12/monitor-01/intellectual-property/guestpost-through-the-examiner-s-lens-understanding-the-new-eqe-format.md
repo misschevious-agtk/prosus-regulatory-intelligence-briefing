@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-11-513902ced8
-cluster_size: 94
-cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-18T08:51:08+00:00'
+cluster_id: cluster-2026-07-12-42f0d02629
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # [GuestPost] Through the Examiner’s Lens: Understanding the New EQE Format

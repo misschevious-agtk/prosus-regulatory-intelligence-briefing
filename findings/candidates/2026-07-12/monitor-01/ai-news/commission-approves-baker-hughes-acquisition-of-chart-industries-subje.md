@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-11-b8ea773a4f
-cluster_size: 6
+cluster_id: cluster-2026-07-12-2fc9c63c3c
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-baker-hughes-acquisition-of-chart-industries-subje
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Commission approves Baker Hughes' acquisition of Chart Industries, subject to conditions

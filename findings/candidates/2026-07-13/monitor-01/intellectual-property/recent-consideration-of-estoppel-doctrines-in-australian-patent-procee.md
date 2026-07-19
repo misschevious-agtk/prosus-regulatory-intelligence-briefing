@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: FCA
 case_numbers: []
-cluster_id: cluster-2026-07-11-513902ced8
-cluster_size: 94
+cluster_id: cluster-2026-07-14-e95d13cd93
+cluster_size: 32
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-18T08:51:08+00:00'
+cluster_canonical_slug: looking-forward-why-completed-conduct-often-cannot-support-a-prelimina
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Recent consideration of estoppel doctrines in Australian patent proceedings confirms the bar remains high

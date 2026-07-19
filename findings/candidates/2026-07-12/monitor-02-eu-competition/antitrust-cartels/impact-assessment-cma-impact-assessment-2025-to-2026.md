@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-11-92240fc64a
-cluster_size: 214
+cluster_id: cluster-2026-07-12-fe79d02fd4
+cluster_size: 72
 cluster_role: sibling
-cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-18T08:51:08+00:00'
+cluster_canonical_slug: corporate-report-cma-annual-report-and-accounts-2025-to-2026
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Impact assessment: CMA Impact Assessment 2025 to 2026

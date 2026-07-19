@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-11-02096390cf
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: ttab-manual-of-procedure-update-now-available
-ranked_at: '2026-07-18T08:51:08+00:00'
+cluster_id: cluster-2026-07-12-38d40186ba
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # TTAB Manual of Procedure update now available

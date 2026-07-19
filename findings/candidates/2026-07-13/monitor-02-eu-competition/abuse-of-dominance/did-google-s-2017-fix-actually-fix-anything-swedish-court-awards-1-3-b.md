@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-11-4c9123dc9c
-cluster_size: 12
+cluster_id: cluster-2026-07-12-5dfe10343a
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: did-google-s-2017-fix-actually-fix-anything-swedish-court-awards-1-3-b
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Did Google's 2017 'fix' Actually Fix Anything?  - Swedish Court Awards €1.3 Billion in Record Competition Damages

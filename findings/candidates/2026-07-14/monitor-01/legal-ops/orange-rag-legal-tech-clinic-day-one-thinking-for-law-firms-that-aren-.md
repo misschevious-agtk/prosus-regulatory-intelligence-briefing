@@ -19,7 +19,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-14-ed56d8cab5
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Orange Rag Legal Tech Clinic: Day one thinking, for law firms that aren’t on day one

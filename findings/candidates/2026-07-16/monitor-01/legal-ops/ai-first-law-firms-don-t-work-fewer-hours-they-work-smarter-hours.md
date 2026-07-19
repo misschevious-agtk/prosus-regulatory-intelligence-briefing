@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-15-c36552ca59
-cluster_size: 10
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: legal-operations-was-built-for-the-ai-era
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # AI-First Law Firms Don’t Work Fewer Hours, They Work Smarter Hours

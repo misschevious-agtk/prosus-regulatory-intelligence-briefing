@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-11-846bcc94fc
-cluster_size: 3
+cluster_id: cluster-2026-07-12-956220b526
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-takes-up-whether-trademark-strength-belongs-to-judge-or-
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Supreme Court Takes Up Whether Trademark Strength Belongs to Judge or Jury

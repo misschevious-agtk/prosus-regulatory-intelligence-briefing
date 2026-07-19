@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-11-f688000cb2
-cluster_size: 6
+cluster_id: cluster-2026-07-12-93de96e30d
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: commission-opens-formal-investigation-into-possible-gun-jumping-in-xxx
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Commission opens formal investigation into possible gun jumping in XXXLutz's acquisition of Porta

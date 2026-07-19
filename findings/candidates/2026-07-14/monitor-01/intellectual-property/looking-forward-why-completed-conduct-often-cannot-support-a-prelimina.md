@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-11-513902ced8
-cluster_size: 94
-cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-18T08:51:08+00:00'
+cluster_id: cluster-2026-07-14-e95d13cd93
+cluster_size: 32
+cluster_role: canonical
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Looking Forward: Why Completed Conduct Often Cannot Support a Preliminary Injunction

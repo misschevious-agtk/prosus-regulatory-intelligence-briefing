@@ -22,11 +22,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-07-11-4daa2e7910
-cluster_size: 145
+cluster_id: cluster-2026-07-12-c89fe9958b
+cluster_size: 154
 cluster_role: sibling
 cluster_canonical_slug: former-uspto-deputy-director-laura-peter-nominated-for-role-at-the-wor
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Remarks by John A. Squires before the 2026 WIPO Member State Assemblies

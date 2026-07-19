@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-11-55768d36fd
-cluster_size: 22
+cluster_id: cluster-2026-07-12-74b9ba56d0
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-a
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # If At First You Fail Miserbly At The Supreme Court, Try, Try Again — See Generally

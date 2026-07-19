@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-11-513902ced8
-cluster_size: 94
+cluster_id: cluster-2026-07-12-264cfb8b79
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-18T08:51:08+00:00'
+cluster_canonical_slug: morning-docket-07-10-26
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Morning Docket: 07.10.26

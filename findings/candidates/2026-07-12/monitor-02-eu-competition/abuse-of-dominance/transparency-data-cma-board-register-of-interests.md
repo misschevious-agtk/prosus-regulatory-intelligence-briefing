@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-11-87f41c357e
-cluster_size: 114
+cluster_id: cluster-2026-07-12-8a0bc8bd85
+cluster_size: 90
 cluster_role: sibling
 cluster_canonical_slug: early-years-education-and-childcare-market-study
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Transparency data: CMA board: register of interests

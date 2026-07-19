@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-16-6bfb179175
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-end-to-end-medical-record-retrieval-playbook
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # The End-to-End Medical Record Retrieval Playbook

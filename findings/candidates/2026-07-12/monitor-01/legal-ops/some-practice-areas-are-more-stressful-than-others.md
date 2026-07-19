@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-11-8014596107
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: some-practice-areas-are-more-stressful-than-others
-ranked_at: '2026-07-18T08:51:08+00:00'
+cluster_id: cluster-2026-07-12-ab4861e830
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Some Practice Areas Are More Stressful Than Others

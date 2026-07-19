@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-13-7baba38b72
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Harvey Increases Token Use 14X in Just 6 Months

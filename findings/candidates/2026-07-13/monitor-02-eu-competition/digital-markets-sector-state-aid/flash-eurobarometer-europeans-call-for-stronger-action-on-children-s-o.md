@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-11-92240fc64a
-cluster_size: 214
+cluster_id: cluster-2026-07-12-d76c8c1139
+cluster_size: 148
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Flash Eurobarometer: Europeans call for stronger action on children's online safety, democratic resilience, defence, and the energy transition

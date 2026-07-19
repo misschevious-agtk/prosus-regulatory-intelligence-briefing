@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-17-08de79b829
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: stop-acting-like-a-squirrel-with-your-legal-business-development
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # Stop Acting Like A Squirrel With Your Legal Business Development

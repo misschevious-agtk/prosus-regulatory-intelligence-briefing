@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-14-89f08da47b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-projection-of-the-2027-u-s-news-law-school-rankings
-ranked_at: '2026-07-18T08:51:08+00:00'
+ranked_at: '2026-07-19T09:07:47+00:00'
 ---
 
 # A ‘Projection’ Of The 2027 U.S. News Law School Rankings

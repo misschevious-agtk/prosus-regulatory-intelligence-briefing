@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-15-484f318533
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: former-mayo-clinic-leader-sues-system-over-alleged-ai-cover-up-6-thing
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Former Mayo Clinic Leader Sues System Over Alleged AI Cover-Up: 6 Things To Know

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-fb911b560d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: building-a-judicial-legacy
-ranked_at: '2026-07-19T09:07:47+00:00'
+cluster_id: cluster-2026-07-13-a1cc7998a0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Building A Judicial Legacy

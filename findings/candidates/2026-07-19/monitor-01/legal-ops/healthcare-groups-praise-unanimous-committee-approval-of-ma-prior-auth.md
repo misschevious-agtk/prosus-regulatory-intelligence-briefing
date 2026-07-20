@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-18-5682027e87
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: healthcare-groups-praise-unanimous-committee-approval-of-ma-prior-auth
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Healthcare Groups Praise Unanimous Committee Approval Of MA Prior Auth Bill

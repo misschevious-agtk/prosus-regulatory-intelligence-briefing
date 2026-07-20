@@ -32,11 +32,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-07-12-9bfa51a09e
+cluster_id: cluster-2026-07-13-70d290dbe4
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: digital-omnibus-eu-dpas-reject-many-proposed-changes-to-the-gdpr
-ranked_at: '2026-07-19T09:07:47+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Digital Omnibus: EU DPAs reject many proposed changes to the GDPR

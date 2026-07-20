@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-12-1d63b0e240
-cluster_size: 4
+cluster_id: cluster-2026-07-13-7da1201de2
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: hungary-joins-the-european-public-prosecutor-s-office-further-strength
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Hungary joins the European Public Prosecutor's Office, further strengthening protection of EU funds

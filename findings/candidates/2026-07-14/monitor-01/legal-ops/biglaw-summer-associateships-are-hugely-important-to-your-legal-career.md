@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-8f95d04516
-cluster_size: 3
+cluster_id: cluster-2026-07-13-313c738930
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-summer-associateships-are-hugely-important-to-your-legal-career
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Biglaw Summer Associateships Are Hugely Important To Your Legal Career

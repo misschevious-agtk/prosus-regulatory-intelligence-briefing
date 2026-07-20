@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-e4355b816b
-cluster_size: 5
+cluster_id: cluster-2026-07-13-1fc9678d33
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: code-without-structure-tracktime-v-amazon-and-the-112-f-redo-after-dyf
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Code Without Structure? TrackTime v. Amazon and the § 112(f) Redo After Dyfan

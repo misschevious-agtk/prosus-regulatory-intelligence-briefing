@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-bc658f3e4e
-cluster_size: 3
+cluster_id: cluster-2026-07-13-7d1e561502
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: oz-benamram-joins-pillsbury-as-chief-ai-officer
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Oz Benamram joins Pillsbury as chief AI officer

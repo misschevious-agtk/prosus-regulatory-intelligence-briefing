@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-15-8c90cc34ad
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Amy Coney Barrett Then: ‘Read The Opinion!’ ACB Now: Inappropriate To Expect Supreme Court To Explain Decisions

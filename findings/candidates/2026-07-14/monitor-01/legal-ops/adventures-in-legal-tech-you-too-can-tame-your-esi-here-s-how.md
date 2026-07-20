@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-4e4d6c2017
-cluster_size: 3
+cluster_id: cluster-2026-07-13-0fbc410ba4
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: adventures-in-legal-tech-you-too-can-tame-your-esi-here-s-how
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # ‘Adventures In Legal Tech’: You, Too, Can Tame Your ESI. Here’s How.

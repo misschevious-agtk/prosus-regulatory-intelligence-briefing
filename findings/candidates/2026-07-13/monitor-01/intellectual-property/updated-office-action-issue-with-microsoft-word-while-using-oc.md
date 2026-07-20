@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-7f9cca2031
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: updated-office-action-issue-with-microsoft-word-while-using-oc
-ranked_at: '2026-07-19T09:07:47+00:00'
+cluster_id: cluster-2026-07-13-e7a632d8e1
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # UPDATED:  Office Action Issue with Microsoft Word while using OC

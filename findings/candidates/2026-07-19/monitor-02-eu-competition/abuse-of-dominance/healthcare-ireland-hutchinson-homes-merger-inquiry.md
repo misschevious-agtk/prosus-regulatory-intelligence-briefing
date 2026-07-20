@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-15-81076468a1
-cluster_size: 141
+cluster_size: 177
 cluster_role: sibling
 cluster_canonical_slug: heating-oil-market-study
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Healthcare Ireland / Hutchinson Homes merger inquiry

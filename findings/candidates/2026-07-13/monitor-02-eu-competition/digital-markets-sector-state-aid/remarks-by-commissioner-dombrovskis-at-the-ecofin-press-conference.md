@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-12-d76c8c1139
-cluster_size: 148
+cluster_id: cluster-2026-07-13-ea50e0650f
+cluster_size: 152
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Remarks by Commissioner Dombrovskis at the ECOFIN press conference

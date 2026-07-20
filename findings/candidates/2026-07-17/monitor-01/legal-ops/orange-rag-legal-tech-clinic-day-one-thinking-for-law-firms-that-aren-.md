@@ -20,7 +20,7 @@ cluster_id: cluster-2026-07-14-ed56d8cab5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: orange-rag-legal-tech-clinic-day-one-thinking-for-law-firms-that-aren-
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Orange Rag Legal Tech Clinic: Day one thinking, for law firms that aren’t on day one

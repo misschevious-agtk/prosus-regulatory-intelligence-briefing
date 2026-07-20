@@ -24,10 +24,10 @@ entities:
   matched_alias: FTC
 case_numbers: []
 cluster_id: cluster-2026-07-14-c1f9a9d470
-cluster_size: 51
+cluster_size: 63
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-13-26
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Morning Docket: 07.13.26

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-dc11427985
+cluster_id: cluster-2026-07-13-ec990f53cd
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: at-3rd-circuit-judges-press-ross-and-thomson-reuters-on-fair-use-ai-tr
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # At 3rd Circuit, Judges Press ROSS and Thomson Reuters on Fair Use, AI Training and Market Harm

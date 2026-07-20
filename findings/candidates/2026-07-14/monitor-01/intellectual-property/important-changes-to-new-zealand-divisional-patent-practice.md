@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-e41ffb1051
-cluster_size: 18
+cluster_id: cluster-2026-07-13-29d7520626
+cluster_size: 10
 cluster_role: sibling
-cluster_canonical_slug: refilling-the-pipeline-two-new-section-101-petitions-heading-to-the-su
-ranked_at: '2026-07-19T09:07:47+00:00'
+cluster_canonical_slug: important-changes-to-new-zealand-divisional-patent-practice
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Important changes to New Zealand divisional patent practice

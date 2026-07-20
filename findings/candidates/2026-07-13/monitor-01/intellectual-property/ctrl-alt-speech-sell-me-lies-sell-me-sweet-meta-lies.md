@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: YouTube
 case_numbers: []
-cluster_id: cluster-2026-07-12-df1d25c4d8
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ctrl-alt-speech-sell-me-lies-sell-me-sweet-meta-lies
-ranked_at: '2026-07-19T09:07:47+00:00'
+cluster_id: cluster-2026-07-13-3d834ac081
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Ctrl-Alt-Speech: Sell Me Lies, Sell Me Sweet Meta Lies

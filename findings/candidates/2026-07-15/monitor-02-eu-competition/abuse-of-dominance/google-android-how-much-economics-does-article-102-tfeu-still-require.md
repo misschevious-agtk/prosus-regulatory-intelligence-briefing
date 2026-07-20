@@ -23,11 +23,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-12-729dfde10b
+cluster_id: cluster-2026-07-13-bfc324a922
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: google-android-how-much-economics-does-article-102-tfeu-still-require
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Google Android: How Much Economics Does Article 102 TFEU Still Require?

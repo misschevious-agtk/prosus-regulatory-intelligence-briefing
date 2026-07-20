@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-1155042bcb
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: training-adoption-and-the-buy-v-build-question-how-mayer-brown-is-scal
-ranked_at: '2026-07-19T09:07:47+00:00'
+cluster_id: cluster-2026-07-13-23234f11dd
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Training, adoption and the buy-v-build question: How Mayer Brown is scaling GenAI

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-c2b701bc07
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-leader-is-not-the-point-serving-organizations-by-serving-their-mem
-ranked_at: '2026-07-19T09:07:47+00:00'
+cluster_id: cluster-2026-07-13-7b2d053e0e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # The Leader Is Not The Point: Serving Organizations By Serving Their Members

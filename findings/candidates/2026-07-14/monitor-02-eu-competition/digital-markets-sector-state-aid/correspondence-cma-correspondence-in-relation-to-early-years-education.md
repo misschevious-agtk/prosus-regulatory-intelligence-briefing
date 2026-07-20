@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-12-8a0bc8bd85
-cluster_size: 90
+cluster_id: cluster-2026-07-13-5f28e7d0be
+cluster_size: 66
 cluster_role: sibling
 cluster_canonical_slug: early-years-education-and-childcare-market-study
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Correspondence: CMA correspondence in relation to early years education and childcare sector

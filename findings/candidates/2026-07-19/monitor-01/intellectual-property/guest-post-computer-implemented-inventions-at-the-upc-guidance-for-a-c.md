@@ -20,11 +20,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-07-12-7df4480961
-cluster_size: 57
+cluster_id: cluster-2026-07-13-ba7f8923d0
+cluster_size: 62
 cluster_role: sibling
 cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # [Guest Post] Computer Implemented Inventions at the UPC - Guidance for a common path

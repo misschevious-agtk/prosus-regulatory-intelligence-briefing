@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-08b4b173cb
-cluster_size: 6
+cluster_id: cluster-2026-07-13-a0bd8f2c75
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: barbri-acquires-lega-completing-the-startup-s-pivot-from-ai-governance
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # BARBRI Acquires Lega, Completing the Startup’s Pivot From AI Governance to Experiential AI Training

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-12-20e89942e9
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: kevin-mukai
-ranked_at: '2026-07-19T09:07:47+00:00'
+cluster_id: cluster-2026-07-13-6260cb4c5c
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Kevin Mukai

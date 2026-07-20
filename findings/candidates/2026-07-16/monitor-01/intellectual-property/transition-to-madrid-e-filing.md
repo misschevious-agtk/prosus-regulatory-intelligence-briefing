@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-12-c89fe9958b
-cluster_size: 154
+cluster_id: cluster-2026-07-13-2063ac0174
+cluster_size: 163
 cluster_role: sibling
 cluster_canonical_slug: former-uspto-deputy-director-laura-peter-nominated-for-role-at-the-wor
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # Transition to Madrid e-Filing

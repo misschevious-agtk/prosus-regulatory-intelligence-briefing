@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-15-329db8abf3
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: the-inside-view-addleshaw-goddard-s-agpt-learnings-and-the-future-of-b
-ranked_at: '2026-07-19T09:07:47+00:00'
+ranked_at: '2026-07-20T10:02:05+00:00'
 ---
 
 # The Inside View: Addleshaw Goddard’s AGPT learnings and the future of build vs buy

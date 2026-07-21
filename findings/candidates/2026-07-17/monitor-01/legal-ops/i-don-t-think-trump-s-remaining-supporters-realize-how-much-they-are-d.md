@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-16-858cbee001
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: i-don-t-think-trump-s-remaining-supporters-realize-how-much-they-are-d
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # I Don’t Think Trump’s Remaining Supporters Realize How Much They Are Despised By Non-MAGA Voters

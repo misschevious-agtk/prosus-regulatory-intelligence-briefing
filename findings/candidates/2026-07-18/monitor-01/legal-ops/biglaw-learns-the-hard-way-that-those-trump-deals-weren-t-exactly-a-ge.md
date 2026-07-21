@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-14-c1f9a9d470
-cluster_size: 63
+cluster_size: 69
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-13-26
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # Biglaw Learns The Hard Way That Those Trump Deals Weren’t Exactly A Get-Out-Of-Jail-Free Card

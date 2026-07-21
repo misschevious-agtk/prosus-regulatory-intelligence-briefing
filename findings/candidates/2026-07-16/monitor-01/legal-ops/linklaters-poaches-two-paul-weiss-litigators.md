@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-15-51963b73d3
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: linklaters-poaches-two-paul-weiss-litigators
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # Linklaters Poaches Two Paul Weiss Litigators

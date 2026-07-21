@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-13-5f28e7d0be
-cluster_size: 66
+cluster_id: cluster-2026-07-14-108d227951
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: early-years-education-and-childcare-market-study
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # Suspected anti-competitive conduct in relation to the supply of Solidworks computer-aided design and computer-aided engineering software and related products and services

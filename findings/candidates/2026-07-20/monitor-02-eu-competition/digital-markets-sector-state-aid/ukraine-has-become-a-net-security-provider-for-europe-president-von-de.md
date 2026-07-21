@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-13-ea50e0650f
-cluster_size: 152
+cluster_id: cluster-2026-07-14-2d652fa9b3
+cluster_size: 155
 cluster_role: sibling
 cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # "Ukraine has become a net security provider for Europe": President von der Leyen unveils new defence partnership with Kyiv

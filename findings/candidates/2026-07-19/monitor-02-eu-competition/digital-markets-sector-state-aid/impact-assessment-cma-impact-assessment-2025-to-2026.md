@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-13-f2c950e550
+cluster_id: cluster-2026-07-21-14901dee3a
 cluster_size: 72
 cluster_role: sibling
 cluster_canonical_slug: corporate-report-cma-annual-report-and-accounts-2025-to-2026
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # Impact assessment: CMA Impact Assessment 2025 to 2026

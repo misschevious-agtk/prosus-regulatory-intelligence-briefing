@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-13-d8fa5fbaa5
-cluster_size: 4
+cluster_id: cluster-2026-07-14-69bfbaf0e9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: some-practice-areas-are-more-stressful-than-others
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # Stat(s) Of The Week: ‘Soft Skills’ Are All The Rage

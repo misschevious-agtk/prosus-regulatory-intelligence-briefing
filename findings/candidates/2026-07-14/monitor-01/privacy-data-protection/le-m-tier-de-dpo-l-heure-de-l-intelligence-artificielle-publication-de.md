@@ -18,11 +18,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-13-759b428193
-cluster_size: 23
-cluster_role: sibling
-cluster_canonical_slug: le-m-tier-de-dpo-l-heure-de-l-intelligence-artificielle-publication-de
-ranked_at: '2026-07-20T10:02:05+00:00'
+cluster_id: cluster-2026-07-14-1c349b63e4
+cluster_size: 21
+cluster_role: canonical
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête

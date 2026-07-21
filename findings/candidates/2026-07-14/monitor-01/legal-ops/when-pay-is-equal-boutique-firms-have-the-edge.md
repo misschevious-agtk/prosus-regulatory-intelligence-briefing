@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-13-b30c4350ff
-cluster_size: 5
+cluster_id: cluster-2026-07-14-0a7b7d1281
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: the-biglaw-associates-billing-the-most
-ranked_at: '2026-07-20T10:02:05+00:00'
+cluster_canonical_slug: associate-compensation-scorecard-are-biglaw-firms-on-vacation-when-it-
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # When Pay Is Equal, Boutique Firms Have The Edge

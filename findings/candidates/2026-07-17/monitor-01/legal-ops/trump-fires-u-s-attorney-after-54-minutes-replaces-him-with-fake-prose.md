@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-17-1724e537e2
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # Trump Fires U.S. Attorney After 54 Minutes, Replaces Him With Fake Prosecutor

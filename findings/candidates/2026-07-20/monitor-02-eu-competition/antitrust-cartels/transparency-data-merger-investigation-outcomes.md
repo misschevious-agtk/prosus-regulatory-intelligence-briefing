@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-20-68915b4050
-cluster_size: 3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-merger-investigation-outcomes
-ranked_at: '2026-07-20T10:02:05+00:00'
+ranked_at: '2026-07-21T09:29:25+00:00'
 ---
 
 # Transparency data: Merger investigation outcomes

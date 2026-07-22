@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-e95d13cd93
-cluster_size: 32
+cluster_id: cluster-2026-07-15-bcd37ac14d
+cluster_size: 29
 cluster_role: sibling
 cluster_canonical_slug: looking-forward-why-completed-conduct-often-cannot-support-a-prelimina
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # The growing trend of Delegate-raised invalidity grounds in Australian patent oppositions

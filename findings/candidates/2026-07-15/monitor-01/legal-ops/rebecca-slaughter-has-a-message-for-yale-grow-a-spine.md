@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: FTC
 case_numbers: []
-cluster_id: cluster-2026-07-14-78c7912c3d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: rebecca-slaughter-has-a-message-for-yale-grow-a-spine
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_id: cluster-2026-07-15-7e753e2b97
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Rebecca Slaughter Has A Message For Yale: Grow A Spine

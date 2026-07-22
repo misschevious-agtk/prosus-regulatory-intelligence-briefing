@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-af7e4dcaee
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: from-data-strategy-to-human-judgment-key-knowledge-exchange-takeaways
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_id: cluster-2026-07-15-279f20e86d
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # From data strategy to human judgment: Key Knowledge Exchange takeaways

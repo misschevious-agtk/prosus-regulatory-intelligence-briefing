@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-17-1724e537e2
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-fires-u-s-attorney-after-54-minutes-replaces-him-with-fake-prose
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Trump Fires U.S. Attorney After 54 Minutes, Replaces Him With Fake Prosecutor

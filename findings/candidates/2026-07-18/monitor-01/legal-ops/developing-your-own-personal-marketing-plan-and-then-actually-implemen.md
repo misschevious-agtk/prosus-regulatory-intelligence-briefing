@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-17-d4ade0109a
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: developing-your-own-personal-marketing-plan-and-then-actually-implemen
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Developing Your Own Personal Marketing Plan And Then Actually Implementing It

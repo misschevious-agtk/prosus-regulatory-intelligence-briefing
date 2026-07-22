@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-1d4805105a
-cluster_size: 5
+cluster_id: cluster-2026-07-15-de000e82ee
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: refilling-the-pipeline-two-new-section-101-petitions-heading-to-the-su
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Refilling the Pipeline: Two New Section 101 Petitions Heading to the Supreme Court

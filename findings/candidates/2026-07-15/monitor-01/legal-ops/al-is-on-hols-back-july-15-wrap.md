@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-41c553faa6
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: al-is-on-hols-back-july-15-wrap
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_id: cluster-2026-07-15-95a5610705
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # AL Is On Hols, Back July 15 + Wrap

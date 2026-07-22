@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-1897a4cabc
-cluster_size: 299
+cluster_id: cluster-2026-07-15-fec33d0701
+cluster_size: 280
 cluster_role: sibling
 cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters

@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-07-21-61a654a3c3
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: commission-endorses-latvia-s-617-million-social-climate-plan
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Commission endorses Latvia's €617 million Social Climate Plan

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-14-9e7618c581
-cluster_size: 12
+cluster_id: cluster-2026-07-15-2446187ba1
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: corporate-report-framework-document-between-the-competition-and-market
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Corporate report: Framework document between the Competition and Markets Authority and the Department for Business and Trade

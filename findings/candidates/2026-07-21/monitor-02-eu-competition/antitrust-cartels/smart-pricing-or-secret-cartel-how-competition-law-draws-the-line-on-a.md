@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-20-b88f99c242
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: smart-pricing-or-secret-cartel-how-competition-law-draws-the-line-on-a
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Smart Pricing or Secret Cartel? How Competition Law Draws the Line on Algorithms

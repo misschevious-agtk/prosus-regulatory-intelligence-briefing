@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-c3a2a59126
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: surprise-surprise-more-evidence-that-what-you-say-to-your-chatbot-isn-
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_id: cluster-2026-07-15-453f281cf0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Surprise, Surprise: More Evidence That What You Say To Your Chatbot Isn’t Always Private

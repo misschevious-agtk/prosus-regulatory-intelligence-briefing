@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-16-858cbee001
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # I Don’t Think Trump’s Remaining Supporters Realize How Much They Are Despised By Non-MAGA Voters

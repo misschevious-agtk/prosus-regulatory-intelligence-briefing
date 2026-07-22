@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-c1f9a9d470
-cluster_size: 69
+cluster_id: cluster-2026-07-15-c347cd3c73
+cluster_size: 67
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-13-26
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Biglaw Summer Associate Recruiting Has Officially Become Ridiculous

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-15-c36552ca59
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: legal-operations-was-built-for-the-ai-era
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # What Does Your Legal Team Actually Need From AI?

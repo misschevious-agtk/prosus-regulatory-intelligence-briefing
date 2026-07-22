@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-21-b52ead7ecb
-cluster_size: 3
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: doj-wants-susman-godfrey-kicked-off-the-aba-s-case-because-doj-subpoen
-ranked_at: '2026-07-21T09:29:25+00:00'
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Supreme Court Takes Up Case Of Most Expensive Six-Pack Of Bud Light Ever — See Also

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-14-2d652fa9b3
-cluster_size: 155
+cluster_id: cluster-2026-07-16-5e9a85f416
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_canonical_slug: we-in-europe-believe-that-parents-bring-up-our-kids-and-not-predatory-
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # “We in Europe believe that parents bring up our kids, and not predatory algorithms”, says President von der Leyen.

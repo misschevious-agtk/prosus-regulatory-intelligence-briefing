@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-47743dd146
-cluster_size: 66
+cluster_id: cluster-2026-07-15-3170ee16ea
+cluster_size: 44
 cluster_role: sibling
-cluster_canonical_slug: ai-generated-search-summaries-and-personality-rights-munich-court-gran
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_canonical_slug: guest-post-computer-implemented-inventions-at-the-upc-guidance-for-a-c
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # [Guest Post] The proposed changes to Polish IP law: Will trade secret deposit be a successful tool to enforce protection of trade secrets?

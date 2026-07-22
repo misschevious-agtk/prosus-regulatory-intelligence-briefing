@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-25c5a1f38e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: larry-david-casts-his-biglaw-lawyer-in-new-show
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_id: cluster-2026-07-15-1362332c41
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Larry David Casts His Biglaw Lawyer In New Show

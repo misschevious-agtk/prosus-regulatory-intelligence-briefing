@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-14-2caed2f193
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-a
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_id: cluster-2026-07-15-8bc6c92f24
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # UChicago Law Bans Laptops from 1L Classrooms As Part of Sweeping New AI Strategy for Legal Education

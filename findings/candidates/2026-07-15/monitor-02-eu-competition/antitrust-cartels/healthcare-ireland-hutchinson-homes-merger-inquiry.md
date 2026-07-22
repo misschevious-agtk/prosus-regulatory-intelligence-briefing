@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-14-108d227951
-cluster_size: 42
+cluster_id: cluster-2026-07-15-1e41765b06
+cluster_size: 18
 cluster_role: sibling
-cluster_canonical_slug: early-years-education-and-childcare-market-study
-ranked_at: '2026-07-21T09:29:25+00:00'
+cluster_canonical_slug: marks-electrical-consumer-protection-enforcement-case
+ranked_at: '2026-07-22T09:28:59+00:00'
 ---
 
 # Healthcare Ireland / Hutchinson Homes merger inquiry

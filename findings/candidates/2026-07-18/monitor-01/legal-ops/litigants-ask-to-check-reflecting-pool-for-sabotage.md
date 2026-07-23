@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-18-2bb3a5e2b3
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Litigants Ask To Check Reflecting Pool For ‘Sabotage’

@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-07-15-ee0b95a963
-cluster_size: 83
+cluster_id: cluster-2026-07-16-a176c5c4bc
+cluster_size: 84
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # NEWSLETTER del 17 dicembre 2025 - Marketing indesiderato: Garante sanziona Verisure Italia per 400mila euro - Misure di sicurezza inadeguate, Garante privacy sanziona Aimag  - G7 Privacy: per un’innovazione che tuteli i minori - Sistema informazione Schengen: online i nuovi modelli per l’esercizio dei diritti

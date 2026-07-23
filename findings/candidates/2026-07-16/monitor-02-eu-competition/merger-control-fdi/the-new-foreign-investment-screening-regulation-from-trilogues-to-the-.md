@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-7924b817c9
-cluster_size: 13
-cluster_role: sibling
-cluster_canonical_slug: questions-and-answers-on-the-findings-of-the-first-review-of-the-forei
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-16-8341733c09
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # The New Foreign Investment Screening Regulation: From Trilogues to the Official Journal

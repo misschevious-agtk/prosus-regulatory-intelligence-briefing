@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-17-6117d0ef88
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Intapp Makes Celeste Generally Available, Calling It An ‘AI Coworker’ To Run the Business Side of Law Firms

@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-16-5325c23729
-cluster_size: 174
-cluster_role: sibling
-cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-16-adf490de54
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Still a Lawyer, Not a Practitioner: Schindler v. Squires and the Reach of Practice Before the Office

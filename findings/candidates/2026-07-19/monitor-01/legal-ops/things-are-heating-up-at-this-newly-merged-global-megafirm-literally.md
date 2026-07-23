@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-18-fad3dc0e0c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: things-are-heating-up-at-this-newly-merged-global-megafirm-literally
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Things Are Heating Up At This Newly Merged Global Megafirm — Literally

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-16-e4d9b7090c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: yes-even-celebrities-have-to-pay-their-attorneys
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Yes, Even Celebrities Have To Pay Their Attorneys

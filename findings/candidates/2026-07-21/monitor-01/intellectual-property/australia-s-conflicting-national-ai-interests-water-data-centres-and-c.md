@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-17-3ec0b2e5bb
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: australia-s-conflicting-national-ai-interests-water-data-centres-and-c
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Australia’s (conflicting) national AI interests: water, data centres and creativity

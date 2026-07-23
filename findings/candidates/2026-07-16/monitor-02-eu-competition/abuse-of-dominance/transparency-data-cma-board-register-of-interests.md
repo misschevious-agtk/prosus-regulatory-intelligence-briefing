@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-15-1e41765b06
-cluster_size: 18
+cluster_id: cluster-2026-07-16-9b01bfe66f
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: marks-electrical-consumer-protection-enforcement-case
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_canonical_slug: transparency-data-cma-board-register-of-interests
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Transparency data: CMA board: register of interests

@@ -17,11 +17,11 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-4626e1dfa9
-cluster_size: 11
+cluster_id: cluster-2026-07-16-c2ba7d5d66
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-th
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # The Italian SA imposed a 40 000 EUR fine on a company for violating the confidentiality of a employee's email account after the end of his employment

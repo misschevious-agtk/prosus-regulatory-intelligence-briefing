@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-16-5e9a85f416
+cluster_id: cluster-2026-07-16-7dc38cf0ec
 cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_role: sibling
+ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_canonical_slug: we-in-europe-believe-that-parents-bring-up-our-kids-and-not-predatory-
 ---
 
 # “We in Europe believe that parents bring up our kids, and not predatory algorithms”, says President von der Leyen.

@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-16-5325c23729
-cluster_size: 174
-cluster_role: sibling
-cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-21-cd48547169
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Remarks by John A. Squires — 150 years of Alexander Graham Bell's telephone patent

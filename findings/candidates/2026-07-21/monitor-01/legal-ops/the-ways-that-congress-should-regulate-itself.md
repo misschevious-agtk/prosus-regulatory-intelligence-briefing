@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-21-3ad03d46e9
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # The Ways That Congress Should Regulate Itself

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-22-481c9a8a87
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # The AI Tension In Healthcare: Patent Strategy, FDA Reality, And HIPAA Constraints

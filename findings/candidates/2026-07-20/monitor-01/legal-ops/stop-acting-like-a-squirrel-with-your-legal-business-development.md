@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-17-08de79b829
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: stop-acting-like-a-squirrel-with-your-legal-business-development
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Stop Acting Like A Squirrel With Your Legal Business Development

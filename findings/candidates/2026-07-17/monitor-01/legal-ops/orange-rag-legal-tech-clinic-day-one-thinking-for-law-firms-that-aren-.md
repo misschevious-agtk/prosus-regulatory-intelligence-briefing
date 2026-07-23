@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-0c0b42e41e
-cluster_size: 3
+cluster_id: cluster-2026-07-16-d30caa7ed3
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: orange-rag-legal-tech-clinic-day-one-thinking-for-law-firms-that-aren-
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Orange Rag Legal Tech Clinic: Day one thinking, for law firms that aren’t on day one

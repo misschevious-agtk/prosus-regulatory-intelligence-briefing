@@ -20,11 +20,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-15-71aeb59758
-cluster_size: 151
-cluster_role: sibling
-cluster_canonical_slug: the-cma-s-steering-fee-framework-for-apple-and-google-cost-value-and-a
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-17-0a7572d1df
+cluster_size: 140
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Commission approves €300 million Irish State aid scheme for temporary electricity price relief for energy-intensive companies

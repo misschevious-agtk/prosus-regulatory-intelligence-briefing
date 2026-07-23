@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-ebf480066e
-cluster_size: 3
+cluster_id: cluster-2026-07-16-c46131ede9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: guestpost-through-the-examiner-s-lens-understanding-the-new-eqe-format
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # [GuestPost] Through the Examiner’s Lens: Understanding the New EQE Format

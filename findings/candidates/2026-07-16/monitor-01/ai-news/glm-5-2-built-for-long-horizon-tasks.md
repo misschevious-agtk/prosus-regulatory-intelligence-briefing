@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-092eaf764b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: glm-5-2-built-for-long-horizon-tasks
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-16-a8400ec20c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # GLM-5.2: Built for Long-Horizon Tasks

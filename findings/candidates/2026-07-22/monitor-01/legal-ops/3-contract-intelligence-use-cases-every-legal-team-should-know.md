@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-21-103dfa5141
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 3-contract-intelligence-use-cases-every-legal-team-should-know
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # 3 Contract Intelligence Use Cases Every Legal Team Should Know

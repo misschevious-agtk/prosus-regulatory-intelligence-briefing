@@ -22,11 +22,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-07-15-3170ee16ea
-cluster_size: 44
+cluster_id: cluster-2026-07-16-7d580f3305
+cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: guest-post-computer-implemented-inventions-at-the-upc-guidance-for-a-c
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Saturday Sundries

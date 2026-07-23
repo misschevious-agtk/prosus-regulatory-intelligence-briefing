@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-4976aa59d0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: when-being-a-scotus-justice-means-explaining-bulletproof-vests-to-your
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-16-12459fc176
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # When Being A SCOTUS Justice Means Explaining Bulletproof Vests To Your Kids

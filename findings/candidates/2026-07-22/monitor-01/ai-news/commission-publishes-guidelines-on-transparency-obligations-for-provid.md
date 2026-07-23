@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-21-75fcb3de60
-cluster_size: 4
+cluster_id: cluster-2026-07-17-0a7572d1df
+cluster_size: 140
 cluster_role: sibling
-cluster_canonical_slug: commission-publishes-guidelines-on-transparency-obligations-for-provid
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_canonical_slug: commission-approves-300-million-irish-state-aid-scheme-for-temporary-e
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Commission publishes guidelines on transparency obligations for providers and deployers of certain AI systems

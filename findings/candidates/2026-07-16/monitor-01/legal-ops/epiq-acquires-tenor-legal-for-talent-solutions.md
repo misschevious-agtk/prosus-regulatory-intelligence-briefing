@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-bdf1403665
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: epiq-acquires-tenor-legal-for-talent-solutions
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-16-4030d13f30
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Epiq acquires Tenor Legal for talent solutions

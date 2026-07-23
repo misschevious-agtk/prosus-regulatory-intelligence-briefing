@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-21-e0f5dddd63
-cluster_size: 3
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: quislex-launches-ai-capability-framework-as-focus-shifts-from-adoption
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # QuisLex launches AI capability framework as focus shifts from adoption to accountability

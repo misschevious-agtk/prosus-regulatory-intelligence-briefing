@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-17-d83a0ad04b
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: kathryn-ruemmler-s-epstein-testimony-is-classic-gaslighting-according-
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Kathryn Ruemmler’s Epstein Testimony Is ‘Classic Gaslighting’ According To Legal Scholars

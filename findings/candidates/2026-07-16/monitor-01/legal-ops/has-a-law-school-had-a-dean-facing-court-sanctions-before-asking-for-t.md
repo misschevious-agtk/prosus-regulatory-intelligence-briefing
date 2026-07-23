@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-e61716f6ac
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: has-a-law-school-had-a-dean-facing-court-sanctions-before-asking-for-t
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-16-2ec0e2ff5f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Has A Law School Had A Dean Facing Court Sanctions Before? Asking For THIS Law School.

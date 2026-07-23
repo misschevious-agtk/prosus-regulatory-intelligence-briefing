@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-17-d4ade0109a
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Developing Your Own Personal Marketing Plan And Then Actually Implementing It

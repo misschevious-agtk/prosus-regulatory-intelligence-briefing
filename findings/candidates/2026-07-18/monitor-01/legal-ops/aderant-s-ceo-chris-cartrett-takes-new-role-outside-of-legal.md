@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-93446b53fd
+cluster_id: cluster-2026-07-16-bd7fd1d9b2
 cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: aderant-s-ceo-chris-cartrett-takes-new-role-outside-of-legal
-ranked_at: '2026-07-22T09:28:59+00:00'
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Aderant’s CEO Chris Cartrett takes new role outside of legal

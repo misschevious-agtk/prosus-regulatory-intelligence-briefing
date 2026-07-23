@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-15-e72a3c3354
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: words-are-magic-what-counts-as-applicant-admitted-prior-art-in-in-re-g
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-16-da24fa92d3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Words are Magic: What Counts as Applicant Admitted Prior Art in In re GE Vernova Hitachi

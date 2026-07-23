@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-21-ddccd07e6c
+cluster_id: cluster-2026-07-21-e9f68c9b7d
 cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: speech-by-commissioner-kubilius-at-the-iris-polish-contribution-agreem
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # Speech by Commissioner Kubilius at the IRIS² - Polish contribution Agreement Signature Ceremony

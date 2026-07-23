@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-07-15-fe5a7e5193
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: doj-rolls-out-a-case-quota-for-the-prosecutors-it-hasn-t-lost-yet
-ranked_at: '2026-07-22T09:28:59+00:00'
+cluster_id: cluster-2026-07-16-01957e771c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-23T09:27:55+00:00'
 ---
 
 # DOJ Rolls Out A Case Quota For The Prosecutors It Hasn’t Lost Yet

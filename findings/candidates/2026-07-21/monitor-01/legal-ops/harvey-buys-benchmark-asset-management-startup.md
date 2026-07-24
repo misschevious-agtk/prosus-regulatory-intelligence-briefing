@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-17-0a0127919a
 cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: harvey-strengthens-asset-management-offering-with-benchmark-acquisitio
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Harvey Buys Benchmark Asset Management Startup

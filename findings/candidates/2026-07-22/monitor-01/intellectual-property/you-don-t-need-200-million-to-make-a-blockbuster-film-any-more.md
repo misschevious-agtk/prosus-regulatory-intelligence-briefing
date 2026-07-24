@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-22-c619152dd0
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # You Don’t Need $200 Million To Make A Blockbuster Film Any More

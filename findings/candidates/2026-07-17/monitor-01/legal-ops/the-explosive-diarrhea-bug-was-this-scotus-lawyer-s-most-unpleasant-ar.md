@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-16-87a384a036
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-explosive-diarrhea-bug-was-this-scotus-lawyer-s-most-unpleasant-ar
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_id: cluster-2026-07-17-d9622384fc
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # The ‘Explosive Diarrhea’ Bug Was This SCOTUS Lawyer’s Most Unpleasant Argument Yet

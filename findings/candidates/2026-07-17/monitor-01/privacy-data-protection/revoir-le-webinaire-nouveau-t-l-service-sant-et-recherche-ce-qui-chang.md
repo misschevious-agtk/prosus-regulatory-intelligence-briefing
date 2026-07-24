@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-16-eca3b95d0e
+cluster_id: cluster-2026-07-17-12cc59b181
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: revoir-le-webinaire-nouveau-t-l-service-sant-et-recherche-ce-qui-chang
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation

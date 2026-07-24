@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-16-141ced0b67
-cluster_size: 264
+cluster_id: cluster-2026-07-17-ae580c8633
+cluster_size: 255
 cluster_role: sibling
 cluster_canonical_slug: heating-oil-market-study
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Danone / Huel merger inquiry

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-21-77794538d3
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: what-the-2026-fifa-world-cup-taught-us-about-global-events
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # What The 2026 FIFA World Cup Taught Us About Global Events

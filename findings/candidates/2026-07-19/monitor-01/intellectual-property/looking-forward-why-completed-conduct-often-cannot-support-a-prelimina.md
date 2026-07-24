@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-16-1604dda627
-cluster_size: 5
+cluster_id: cluster-2026-07-17-9781574d60
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: looking-forward-why-completed-conduct-often-cannot-support-a-prelimina
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Looking Forward: Why Completed Conduct Often Cannot Support a Preliminary Injunction

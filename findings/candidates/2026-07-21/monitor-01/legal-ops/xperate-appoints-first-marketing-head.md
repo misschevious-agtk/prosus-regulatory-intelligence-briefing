@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-17-79e99db681
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: xperate-appoints-first-marketing-head
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Xperate appoints first marketing head

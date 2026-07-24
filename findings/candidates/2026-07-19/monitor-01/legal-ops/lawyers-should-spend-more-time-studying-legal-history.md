@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-18-5b338173c1
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: lawyers-should-spend-more-time-studying-legal-history
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Lawyers Should Spend More Time Studying Legal History

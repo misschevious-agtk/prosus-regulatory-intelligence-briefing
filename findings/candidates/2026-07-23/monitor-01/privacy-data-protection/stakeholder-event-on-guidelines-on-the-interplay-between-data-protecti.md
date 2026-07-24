@@ -22,10 +22,10 @@ entities:
   matched_alias: EDPB
 case_numbers: []
 cluster_id: cluster-2026-07-17-0a7572d1df
-cluster_size: 140
+cluster_size: 141
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-300-million-irish-state-aid-scheme-for-temporary-e
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Stakeholder event on guidelines on the interplay between data protection and competition law: save the date

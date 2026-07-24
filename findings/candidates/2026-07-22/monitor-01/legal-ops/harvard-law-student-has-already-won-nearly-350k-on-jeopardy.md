@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-21-f23cd9e468
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: harvard-law-student-has-already-won-nearly-350k-on-jeopardy
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Harvard Law Student Has Already Won Nearly $350K On Jeopardy!

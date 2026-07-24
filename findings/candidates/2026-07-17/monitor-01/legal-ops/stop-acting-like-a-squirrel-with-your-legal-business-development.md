@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-17-08de79b829
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Stop Acting Like A Squirrel With Your Legal Business Development

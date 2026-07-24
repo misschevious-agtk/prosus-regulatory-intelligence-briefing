@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-21-9e5c17fe6d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: to-help-heroin-trafficker-keep-his-gun-fifth-circuit-considers-what-if
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # To Help Heroin Trafficker Keep His Gun, Fifth Circuit Considers ‘What If We Got Rid Of All Federal Laws?’

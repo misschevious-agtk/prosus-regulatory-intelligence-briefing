@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-23-dc8ab83034
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: commission-opens-in-depth-investigation-into-proposed-merger-between-s
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Commission opens in-depth investigation into proposed merger between Saipem and Subsea7

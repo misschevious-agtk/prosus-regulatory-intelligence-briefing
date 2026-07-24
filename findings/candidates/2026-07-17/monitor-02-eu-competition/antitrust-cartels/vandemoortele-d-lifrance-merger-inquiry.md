@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-16-a87a45b994
-cluster_size: 51
-cluster_role: sibling
-cluster_canonical_slug: nexfibre-substantial-merger-inquiry
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_id: cluster-2026-07-17-3426173b0f
+cluster_size: 36
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Vandemoortele / Délifrance merger inquiry

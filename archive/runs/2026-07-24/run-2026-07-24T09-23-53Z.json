@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-24",
+  "total_candidates": 354,
+  "per_domain": {
+    "monitor-01/ai-news": 80,
+    "monitor-01/intellectual-property": 61,
+    "monitor-01/legal-ops": 72,
+    "monitor-01/privacy-data-protection": 61,
+    "monitor-02-eu-competition/abuse-of-dominance": 27,
+    "monitor-02-eu-competition/antitrust-cartels": 24,
+    "monitor-02-eu-competition/digital-markets-sector-state-aid": 26,
+    "monitor-02-eu-competition/merger-control-fdi": 3
+  },
+  "per_source": {
+    "European Commission press": 26,
+    "OpenAI blog": 29,
+    "NIST news (filtered for AI in script)": 26,
+    "Hugging Face blog": 8,
+    "AI Snake Oil": 2,
+    "Import AI (Jack Clark)": 5,
+    "USPTO news": 25,
+    "IPKat blog": 16,
+    "Patently-O": 10,
+    "WIPO news": 9,
+    "TechDirt copyright": 1,
+    "LawSites (Bob Ambrogi)": 30,
+    "Above the Law": 29,
+    "Artificial Lawyer": 5,
+    "Legal IT Insider": 8,
+    "noyb news": 30,
+    "Garante per la protezione dei dati personali [IT]": 10,
+    "EDPB news": 10,
+    "CNIL actualités [FR]": 9,
+    "CMA news": 49,
+    "Chillin'Competition": 6,
+    "Kluwer Competition Law Blog": 11
+  },
+  "clusters": [
+    {
+      "id": "",
+      "size": 309,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 255,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 169,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 141,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 85,
+      "canonical_title": ""
+    }
+  ],
+  "top_titles": {
+    "monitor-01": [
+      {
+        "title": "EU Commission internal draft would wreck core principles of the GDPR",
+        "source": "noyb news",
+        "match_count": 23,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Data Protection Day: 5 misconceptions about data protection, debunked",
+        "source": "noyb news",
+        "match_count": 16,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "EU Member States (and Google) suddenly want to keep cookie banners!",
+        "source": "noyb news",
+        "match_count": 13,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Former Meta lobbyist named DPC Commissioner: Meta now officially regulates itself",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Digital Omnibus: EU DPAs reject many proposed changes to the GDPR",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "sibling"
+      }
+    ],
+    "monitor-02-eu-competition": [
+      {
+        "title": "Commission fines Google €890 million for breaches of the Digital Markets Act",
+        "source": "European Commission press",
+        "match_count": 4,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Article 102 TFEU and the Android judgment (I): understanding the law of the exceptional (and the exceptional within the exceptional)",
+        "source": "Chillin'Competition",
+        "match_count": 4,
+        "cluster_role": "canonical"
+      },
+      {
+        "title": "Daily News 23 / 07 / 2026",
+        "source": "European Commission press",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "The New Foreign Investment Screening Regulation: From Trilogues to the Official Journal",
+        "source": "Kluwer Competition Law Blog",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Healthcare Ireland / Hutchinson Homes merger inquiry",
+        "source": "CMA news",
+        "match_count": 2,
+        "cluster_role": "sibling"
+      }
+    ]
+  },
+  "broken_feed_sources": [],
+  "top_entities": [
+    {
+      "name": "Competition and Markets Authority",
+      "count": 48
+    },
+    {
+      "name": "European Commission",
+      "count": 39
+    },
+    {
+      "name": "OpenAI",
+      "count": 25
+    },
+    {
+      "name": "United States Patent and Trademark Office",
+      "count": 25
+    },
+    {
+      "name": "Alphabet / Google",
+      "count": 21
+    },
+    {
+      "name": "European Data Protection Board",
+      "count": 12
+    },
+    {
+      "name": "World Intellectual Property Organization",
+      "count": 11
+    },
+    {
+      "name": "Garante per la protezione dei dati personali",
+      "count": 10
+    },
+    {
+      "name": "Commission Nationale de l'Informatique et des Libertés",
+      "count": 9
+    },
+    {
+      "name": "Court of Justice of the European Union",
+      "count": 7
+    }
+  ]
+}

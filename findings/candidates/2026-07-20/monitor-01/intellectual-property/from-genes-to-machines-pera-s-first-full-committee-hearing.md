@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-16-72131ed5b8
+cluster_id: cluster-2026-07-17-7fb60d43bb
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: from-genes-to-machines-pera-s-first-full-committee-hearing
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # From Genes to Machines: PERA’s First Full-Committee Hearing

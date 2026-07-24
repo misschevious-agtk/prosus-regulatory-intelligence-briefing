@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-21-0d6648212e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: t14-degrees-aren-t-all-that-anymore
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # T14 Degrees Aren’t All That Anymore…

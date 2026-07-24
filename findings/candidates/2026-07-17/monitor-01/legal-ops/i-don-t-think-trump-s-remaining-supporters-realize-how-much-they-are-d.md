@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-16-858cbee001
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: i-don-t-think-trump-s-remaining-supporters-realize-how-much-they-are-d
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_id: cluster-2026-07-17-401ba5c988
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # I Don’t Think Trump’s Remaining Supporters Realize How Much They Are Despised By Non-MAGA Voters

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-22-3e31301fc6
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # No Merger Needed: Linklaters Posts Strong Financial Results

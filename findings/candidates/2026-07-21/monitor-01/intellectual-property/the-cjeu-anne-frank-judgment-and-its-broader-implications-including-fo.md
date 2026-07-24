@@ -20,10 +20,10 @@ case_numbers:
 - scheme: EU Court of Justice
   citation: C-788/24
 cluster_id: cluster-2026-07-20-658d8d087e
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-cjeu-anne-frank-judgment-and-its-broader-implications-including-fo
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # The CJEU Anne Frank judgment and its broader implications (including for the internet and, obviously, AI too)

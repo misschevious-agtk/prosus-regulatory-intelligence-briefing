@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-21-ba5ed92bd1
-cluster_size: 5
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Le CEPD demande une base légale pour le partage d’informations entre régulateurs

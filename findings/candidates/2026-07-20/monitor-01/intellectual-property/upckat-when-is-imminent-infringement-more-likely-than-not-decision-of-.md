@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-07-16-7574711bc8
-cluster_size: 22
+cluster_id: cluster-2026-07-17-2ace13c8d1
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: the-growing-trend-of-delegate-raised-invalidity-grounds-in-australian-
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # [UPCKat]  When is imminent infringement more likely than not? Decision of the UPC Court of Appeal in Merz v Viatris

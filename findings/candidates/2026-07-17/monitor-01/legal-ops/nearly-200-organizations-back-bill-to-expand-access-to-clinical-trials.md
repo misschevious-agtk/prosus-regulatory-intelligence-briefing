@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-16-61b0534130
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: nearly-200-organizations-back-bill-to-expand-access-to-clinical-trials
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_id: cluster-2026-07-17-14c8f08438
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Nearly 200 Organizations Back Bill To Expand Access To Clinical Trials

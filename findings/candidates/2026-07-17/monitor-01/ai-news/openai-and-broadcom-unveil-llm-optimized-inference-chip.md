@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-16-5626fe2eb3
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: openai-and-broadcom-unveil-llm-optimized-inference-chip
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_id: cluster-2026-07-17-a4c424a6ff
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # OpenAI and Broadcom unveil LLM-optimized inference chip

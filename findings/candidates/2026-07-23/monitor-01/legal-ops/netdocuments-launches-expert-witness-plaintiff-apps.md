@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-23-0f8cf24e14
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: netdocuments-adds-six-new-ndmax-studio-apps
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # NetDocuments Launches Expert Witness + Plaintiff Apps

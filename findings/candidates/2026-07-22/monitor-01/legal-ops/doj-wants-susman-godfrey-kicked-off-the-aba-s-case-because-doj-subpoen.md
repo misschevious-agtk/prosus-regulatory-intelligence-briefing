@@ -19,10 +19,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-22-224ab83bd5
-cluster_size: 19
+cluster_size: 26
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-21-26
-ranked_at: '2026-07-23T09:27:55+00:00'
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # DOJ Wants Susman Godfrey Kicked Off The ABA’s Case Because DOJ Subpoenaed Susman Godfrey

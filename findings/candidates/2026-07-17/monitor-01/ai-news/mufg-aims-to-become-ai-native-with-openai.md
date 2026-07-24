@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-16-18e8542148
-cluster_size: 298
-cluster_role: sibling
-cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_id: cluster-2026-07-17-737309062f
+cluster_size: 309
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # MUFG aims to become AI-native with OpenAI

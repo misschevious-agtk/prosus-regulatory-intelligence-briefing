@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-16-7574711bc8
-cluster_size: 22
-cluster_role: sibling
-cluster_canonical_slug: the-growing-trend-of-delegate-raised-invalidity-grounds-in-australian-
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_id: cluster-2026-07-17-2ace13c8d1
+cluster_size: 20
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # The growing trend of Delegate-raised invalidity grounds in Australian patent oppositions

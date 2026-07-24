@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-16-a55ef902a8
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: narrowed-to-clear-the-art-the-enablement-cost-of-wyeth-s-unit-dosage-c
-ranked_at: '2026-07-23T09:27:55+00:00'
+cluster_id: cluster-2026-07-17-7883436774
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-24T09:23:49+00:00'
 ---
 
 # Narrowed to Clear the Art: The Enablement Cost of Wyeth’s Unit Dosage Claims

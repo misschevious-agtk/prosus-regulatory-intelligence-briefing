@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-17-0a7572d1df
-cluster_size: 141
+cluster_id: cluster-2026-07-18-a6ce708ec2
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-300-million-irish-state-aid-scheme-for-temporary-e
-ranked_at: '2026-07-24T09:23:49+00:00'
+cluster_canonical_slug: commission-launches-eu-ukraine-drone-alliance-to-boost-drone-and-count
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Commission launches EU-Ukraine Drone Alliance to boost drone and counter-drone technology

@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-17-8bb08cb4e0
-cluster_size: 5
+cluster_id: cluster-2026-07-18-c983b1a65b
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: la-cnil-a-prononc-23-nouvelles-sanctions-depuis-janvier-au-titre-de-la
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée

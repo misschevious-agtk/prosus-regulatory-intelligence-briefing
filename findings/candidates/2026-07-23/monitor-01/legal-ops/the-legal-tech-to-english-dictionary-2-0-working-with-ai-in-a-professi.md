@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-22-a7e842a45d
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-legal-tech-to-english-dictionary-2-0-working-with-ai-in-a-professi
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # The Legal Tech-To-English Dictionary (2.0): Working With AI In A Professional Environment

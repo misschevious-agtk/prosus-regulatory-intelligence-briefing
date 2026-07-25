@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-07-17-9c1fba76c8
-cluster_size: 85
+cluster_id: cluster-2026-07-18-f772c4bb2b
+cluster_size: 86
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 16 juillet 2026

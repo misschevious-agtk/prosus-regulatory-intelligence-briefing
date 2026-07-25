@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-17-d636871416
-cluster_size: 20
+cluster_id: cluster-2026-07-18-5cfa29e6af
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: aderant-s-ceo-chris-cartrett-takes-new-role-outside-of-legal
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # ‘I Couldn’t Get It Out of My Mind’: Chris Cartrett on Why He Is Leaving Aderant and Legal Tech

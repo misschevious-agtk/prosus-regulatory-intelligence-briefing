@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-22-224ab83bd5
-cluster_size: 26
+cluster_size: 32
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-21-26
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Todd Blanche’s Brief Has The Tone Of A Kid Yelling ‘That’s Not Fair’

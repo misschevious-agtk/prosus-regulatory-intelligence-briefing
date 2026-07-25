@@ -22,10 +22,10 @@ entities:
   matched_alias: Microsoft Corp
 case_numbers: []
 cluster_id: cluster-2026-07-22-c75c4b1421
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: exhaustion-is-back-baby
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Exhaustion is back baby!

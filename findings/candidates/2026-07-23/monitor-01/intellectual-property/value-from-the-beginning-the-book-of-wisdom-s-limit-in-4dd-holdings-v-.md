@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-17-0f88e274d2
+cluster_id: cluster-2026-07-18-33fac87b8c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: value-from-the-beginning-the-book-of-wisdom-s-limit-in-4dd-holdings-v-
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Value From the Beginning: The Book of Wisdom’s Limit in 4DD Holdings v. United States

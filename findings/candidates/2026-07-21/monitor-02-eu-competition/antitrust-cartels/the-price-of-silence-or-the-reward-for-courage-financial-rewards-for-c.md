@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-21-5b33546062
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # The Price of Silence or the Reward for Courage? Financial Rewards for Cartel Whistleblowers in Competition Law

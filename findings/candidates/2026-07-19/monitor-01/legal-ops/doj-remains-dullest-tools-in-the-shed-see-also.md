@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-07-18-0c26992e76
-cluster_size: 56
+cluster_id: cluster-2026-07-18-c6a95300e3
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: k-l-gates-cuts-circa-10-of-its-business-services-workforce
-ranked_at: '2026-07-24T09:23:49+00:00'
+cluster_canonical_slug: doj-cites-fake-case-to-keep-man-locked-up-by-ice-judge-declines-to-do-
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # DOJ Remains Dullest Tools In The Shed — See Also

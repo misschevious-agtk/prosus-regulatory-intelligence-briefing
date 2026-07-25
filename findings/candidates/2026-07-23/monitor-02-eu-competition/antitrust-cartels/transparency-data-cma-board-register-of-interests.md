@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-21-7419cb65aa
-cluster_size: 12
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-board-register-of-interests
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Transparency data: CMA board: register of interests

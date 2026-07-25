@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-18-14271cad13
 cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # 2026 Rule of Law Report strengthens Europe's prosperity, security and democratic resilience

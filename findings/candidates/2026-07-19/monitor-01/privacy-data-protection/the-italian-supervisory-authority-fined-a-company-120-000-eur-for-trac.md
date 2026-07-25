@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-17-6b1fa320b8
-cluster_size: 7
+cluster_id: cluster-2026-07-18-8ea9edb62b
+cluster_size: 5
 cluster_role: sibling
-cluster_canonical_slug: the-italian-sa-imposed-a-40-000-eur-fine-on-a-company-for-violating-th
-ranked_at: '2026-07-24T09:23:49+00:00'
+cluster_canonical_slug: the-italian-supervisory-authority-fined-a-company-120-000-eur-for-trac
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # The Italian Supervisory Authority fined a company 120 000 EUR for tracking five employees who drove company cars

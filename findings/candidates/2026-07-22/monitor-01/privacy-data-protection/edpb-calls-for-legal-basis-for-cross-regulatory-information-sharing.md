@@ -20,11 +20,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-07-17-0a7572d1df
-cluster_size: 141
+cluster_id: cluster-2026-07-18-f4da24590b
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-300-million-irish-state-aid-scheme-for-temporary-e
-ranked_at: '2026-07-24T09:23:49+00:00'
+cluster_canonical_slug: edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # EDPB calls for legal basis for cross-regulatory information sharing

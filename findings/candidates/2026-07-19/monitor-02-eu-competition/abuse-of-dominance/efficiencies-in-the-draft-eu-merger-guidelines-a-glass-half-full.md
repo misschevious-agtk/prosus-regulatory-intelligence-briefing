@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-17-4f5984a14d
+cluster_id: cluster-2026-07-18-c0d85937e7
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: efficiencies-in-the-draft-eu-merger-guidelines-a-glass-half-full
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Efficiencies in the Draft EU Merger Guidelines: A Glass Half Full

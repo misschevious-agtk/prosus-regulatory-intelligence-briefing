@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-23-15bbb0d8d1
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: gateley-s-ceo-stands-down-following-business-services-cuts
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Gateley’s CEO stands down following business services cuts

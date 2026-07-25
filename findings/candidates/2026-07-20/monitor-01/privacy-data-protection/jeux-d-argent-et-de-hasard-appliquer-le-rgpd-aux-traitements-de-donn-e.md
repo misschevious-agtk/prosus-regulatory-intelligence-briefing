@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-17-5243e0f408
-cluster_size: 12
+cluster_id: cluster-2026-07-18-aa1fa55396
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: le-m-tier-de-dpo-l-heure-de-l-intelligence-artificielle-publication-de
-ranked_at: '2026-07-24T09:23:49+00:00'
+ranked_at: '2026-07-25T09:04:11+00:00'
 ---
 
 # Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs

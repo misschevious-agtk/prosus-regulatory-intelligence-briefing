@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-21-2adab7187c
-cluster_size: 15
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: mccormick-unilever-merger-inquiry
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # McCormick / Unilever merger inquiry

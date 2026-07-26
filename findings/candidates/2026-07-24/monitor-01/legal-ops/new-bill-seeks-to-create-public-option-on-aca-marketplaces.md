@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-24-7ddaa0a1e7
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # New Bill Seeks To Create Public Option On ACA Marketplaces

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-18-e646453963
-cluster_size: 10
+cluster_id: cluster-2026-07-19-52e0054b83
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: ukraine-has-become-a-net-security-provider-for-europe-president-von-de
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # "Ukraine has become a net security provider for Europe": President von der Leyen unveils new defence partnership with Kyiv

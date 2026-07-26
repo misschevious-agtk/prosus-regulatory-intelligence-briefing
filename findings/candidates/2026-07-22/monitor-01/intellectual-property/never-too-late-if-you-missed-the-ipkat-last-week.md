@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-18-6c06317a45
-cluster_size: 48
+cluster_id: cluster-2026-07-19-ccd9315f73
+cluster_size: 50
 cluster_role: sibling
 cluster_canonical_slug: guest-post-computer-implemented-inventions-at-the-upc-guidance-for-a-c
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

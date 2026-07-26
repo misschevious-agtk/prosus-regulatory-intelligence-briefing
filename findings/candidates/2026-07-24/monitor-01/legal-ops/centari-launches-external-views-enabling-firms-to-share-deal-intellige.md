@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-18-af9ecde170
+cluster_id: cluster-2026-07-19-a8e175fc52
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: centari-launches-external-views-enabling-firms-to-share-deal-intellige
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Centari Launches External Views, Enabling Firms to Share Deal Intelligence Dashboards Directly with Clients

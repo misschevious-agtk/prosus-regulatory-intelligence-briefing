@@ -19,7 +19,7 @@ cluster_id: cluster-2026-07-21-5e5e901077
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: clifford-chance-pairs-with-epiq-advisory-and-microsoft-for-new-knowled
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Clifford Chance pairs with Epiq Advisory and Microsoft for new knowledge management platform

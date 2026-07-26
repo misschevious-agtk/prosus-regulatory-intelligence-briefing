@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-18-9fc9603abe
-cluster_size: 7
+cluster_id: cluster-2026-07-19-697d437e7d
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: developing-your-own-personal-marketing-plan-and-then-actually-implemen
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Developing Your Own Personal Marketing Plan And Then Actually Implementing It

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-18-e75e364790
-cluster_size: 24
-cluster_role: sibling
-cluster_canonical_slug: litera-relaunches-to-clarify-and-reinforce-its-market-position
-ranked_at: '2026-07-25T09:04:11+00:00'
+cluster_id: cluster-2026-07-19-02399e8ae9
+cluster_size: 22
+cluster_role: canonical
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Litera relaunches to clarify and reinforce its market position

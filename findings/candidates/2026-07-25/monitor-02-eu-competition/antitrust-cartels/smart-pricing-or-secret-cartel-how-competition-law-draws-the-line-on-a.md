@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-20-b88f99c242
-cluster_size: 6
+cluster_id: cluster-2026-07-26-61063aa527
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: smart-pricing-or-secret-cartel-how-competition-law-draws-the-line-on-a
-ranked_at: '2026-07-25T09:04:11+00:00'
+cluster_canonical_slug: competition-agencies-compute-the-law-still-assumes-they-read
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Smart Pricing or Secret Cartel? How Competition Law Draws the Line on Algorithms

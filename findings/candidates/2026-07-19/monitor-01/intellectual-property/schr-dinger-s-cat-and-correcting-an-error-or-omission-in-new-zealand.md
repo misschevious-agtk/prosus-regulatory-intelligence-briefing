@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-18-fb9954760c
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: schr-dinger-s-cat-and-correcting-an-error-or-omission-in-new-zealand
-ranked_at: '2026-07-25T09:04:11+00:00'
+cluster_id: cluster-2026-07-19-3904da7e74
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Schrödinger's cat, and correcting an error or omission in New Zealand

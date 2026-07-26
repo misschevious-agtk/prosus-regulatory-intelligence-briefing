@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-24-4e7a6520df
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: entegrata-hires-simpson-thacher-ai-leader-andrew-baker-to-run-ai-enabl
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Entegrata Hires Simpson Thacher AI Leader Andrew Baker To Head New AI Enablement Product Line

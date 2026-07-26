@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-23-26fefb0233
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-law-schools-where-starting-salaries-for-graduates-exceed-their-stu
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # The Law Schools Where Starting Salaries For Graduates Exceed Their Student Debt (2026)

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-21-3ad03d46e9
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-ways-that-congress-should-regulate-itself
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # The Ways That Congress Should Regulate Itself

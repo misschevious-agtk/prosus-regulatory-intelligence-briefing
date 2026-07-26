@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-21-6d09f5c491
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: scotus-to-decide-if-cops-can-steal-82-year-old-s-plane-over-passenger-
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # SCOTUS To Decide If Cops Can Steal 82-Year-Old’s Plane Over Passenger’s Bud Lights

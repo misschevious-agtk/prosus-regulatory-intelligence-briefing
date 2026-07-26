@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-18-dc7d7679aa
-cluster_size: 176
+cluster_id: cluster-2026-07-19-59f37e60b8
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-07-25T09:04:11+00:00'
+cluster_canonical_slug: modest-rule-real-traps-the-uspto-s-foreign-applicant-representation-re
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Modest Rule, Real Traps: The USPTO’s Foreign-Applicant Representation Requirement Takes Effect July 20

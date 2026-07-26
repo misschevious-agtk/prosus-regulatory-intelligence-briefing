@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-23-f3f9e85648
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: european-commission-appoints-ali-nor-margerit-as-head-of-representatio
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # European Commission transfers in the Interest of the Service Zacharias Giakoumis as Head of Representation in Athens

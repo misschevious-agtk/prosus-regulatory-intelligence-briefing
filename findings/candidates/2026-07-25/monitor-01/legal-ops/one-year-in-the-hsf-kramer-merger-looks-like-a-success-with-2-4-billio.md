@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-22-224ab83bd5
-cluster_size: 32
+cluster_size: 38
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-21-26
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # One Year In, The HSF Kramer Merger Looks Like A Success With $2.4 Billion In Revenue

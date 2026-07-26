@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-18-8772a8dc70
-cluster_size: 320
+cluster_id: cluster-2026-07-19-5535c2cdc0
+cluster_size: 331
 cluster_role: sibling
 cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Hugging Face and Cerebras bring Gemma 4 to real-time voice AI

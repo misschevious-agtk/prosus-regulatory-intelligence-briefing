@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-23-b242fa04b4
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # The Next President Should Throw Open The Gates Of Trade To BYD And Other Electric Automakers

@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-18-6373925329
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: still-a-lawyer-not-a-practitioner-schindler-v-squires-and-the-reach-of
-ranked_at: '2026-07-25T09:04:11+00:00'
+cluster_id: cluster-2026-07-19-0070b67bf8
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Still a Lawyer, Not a Practitioner: Schindler v. Squires and the Reach of Practice Before the Office

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-23-fdbf2b2b4a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: senate-democrats-reintroduce-supreme-court-term-limits-bill-and-the-po
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Senate Democrats Reintroduce Supreme Court Term Limits Bill, And The Polling Has Never Been Friendlier

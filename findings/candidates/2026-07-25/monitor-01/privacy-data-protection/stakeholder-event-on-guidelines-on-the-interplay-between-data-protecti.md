@@ -22,10 +22,10 @@ entities:
   matched_alias: EDPB
 case_numbers: []
 cluster_id: cluster-2026-07-24-8405bf5381
-cluster_size: 131
+cluster_size: 145
 cluster_role: sibling
 cluster_canonical_slug: commission-fines-google-890-million-for-breaches-of-the-digital-market
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Stakeholder event on guidelines on the interplay between data protection and competition law: save the date

@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-21-14901dee3a
-cluster_size: 39
+cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: corporate-report-cma-annual-report-and-accounts-2025-to-2026
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Impact assessment: CMA Impact Assessment 2025 to 2026

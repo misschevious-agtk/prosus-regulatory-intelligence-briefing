@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-18-89bada336b
+cluster_id: cluster-2026-07-19-62c15bfe76
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: fast-to-deny-slow-to-grant-the-range-of-motion-en-banc-petition-at-102
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Fast to Deny, Slow to Grant: The Range of Motion En Banc Petition at 102 Days

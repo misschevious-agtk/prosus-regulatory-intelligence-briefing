@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-18-3c6c1d7e73
-cluster_size: 22
+cluster_id: cluster-2026-07-19-164a58fb3b
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: lawnext-podcast-amy-juers-and-valerie-chan-on-marketing-legal-tech-in-
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event

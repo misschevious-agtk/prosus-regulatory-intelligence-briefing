@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-18-dc7d7679aa
-cluster_size: 176
+cluster_id: cluster-2026-07-19-a07df31bf2
+cluster_size: 174
 cluster_role: sibling
 cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-07-25T09:04:11+00:00'
+ranked_at: '2026-07-26T09:14:43+00:00'
 ---
 
 # Register today to celebrate the anniversary of the first U.S. patent and 250 years of American innovation

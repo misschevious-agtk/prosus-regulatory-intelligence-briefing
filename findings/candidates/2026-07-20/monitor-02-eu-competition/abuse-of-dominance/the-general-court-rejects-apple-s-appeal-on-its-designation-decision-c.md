@@ -25,11 +25,10 @@ case_numbers:
   citation: T-1080/23
 - scheme: EU General Court
   citation: T-214/24
-cluster_id: cluster-2026-07-19-fa5f51f001
-cluster_size: 10
-cluster_role: sibling
-cluster_canonical_slug: the-general-court-rejects-apple-s-appeal-on-its-designation-decision-c
-ranked_at: '2026-07-26T09:14:43+00:00'
+cluster_id: cluster-2026-07-20-da656aafc0
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # The General Court Rejects Apple’s Appeal on its Designation Decision (Cases T-1079/23, T-1080/23 and T-214/24)

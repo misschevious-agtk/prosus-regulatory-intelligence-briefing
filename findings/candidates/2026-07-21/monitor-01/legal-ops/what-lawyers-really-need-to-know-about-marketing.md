@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-19-697d437e7d
-cluster_size: 5
+cluster_id: cluster-2026-07-20-932563c4df
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: developing-your-own-personal-marketing-plan-and-then-actually-implemen
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # What Lawyers Really Need To Know About Marketing

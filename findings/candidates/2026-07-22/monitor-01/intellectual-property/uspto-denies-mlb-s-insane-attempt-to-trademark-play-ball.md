@@ -22,7 +22,7 @@ cluster_id: cluster-2026-07-21-bfc90f1851
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: uspto-denies-mlb-s-insane-attempt-to-trademark-play-ball
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # USPTO Denies MLB’s Insane Attempt To Trademark ‘Play Ball’

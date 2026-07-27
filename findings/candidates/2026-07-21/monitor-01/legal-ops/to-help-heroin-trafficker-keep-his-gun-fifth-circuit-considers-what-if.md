@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-21-9e5c17fe6d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # To Help Heroin Trafficker Keep His Gun, Fifth Circuit Considers ‘What If We Got Rid Of All Federal Laws?’

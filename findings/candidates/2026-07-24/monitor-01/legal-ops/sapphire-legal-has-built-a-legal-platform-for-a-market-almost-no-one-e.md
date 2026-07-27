@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-19-164a58fb3b
-cluster_size: 21
+cluster_id: cluster-2026-07-20-fbda7499bd
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: lawnext-podcast-amy-juers-and-valerie-chan-on-marketing-legal-tech-in-
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Sapphire Legal Has Built A Legal Platform for a Market Almost No One Else Is Chasing: The Fractional GC

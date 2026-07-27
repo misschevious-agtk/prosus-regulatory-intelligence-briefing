@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-19-aec6b8031a
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: 2026-rule-of-law-report-strengthens-europe-s-prosperity-security-and-d
-ranked_at: '2026-07-26T09:14:43+00:00'
+cluster_id: cluster-2026-07-20-9c8b05859b
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # 2026 Rule of Law Report strengthens Europe's prosperity, security and democratic resilience

@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-19-0a7a0b37b0
-cluster_size: 204
+cluster_id: cluster-2026-07-20-d74984310e
+cluster_size: 177
 cluster_role: sibling
 cluster_canonical_slug: heating-oil-market-study
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Correspondence: Open letter to the private parking sector

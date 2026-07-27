@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-19-1baf943fdc
-cluster_size: 3
+cluster_id: cluster-2026-07-20-829e4e9a83
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: xperate-appoints-first-marketing-head
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Xperate appoints first marketing head

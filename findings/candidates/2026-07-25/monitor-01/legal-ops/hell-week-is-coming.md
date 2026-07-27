@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-24-dfb1e56a55
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: hell-week-is-coming
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Hell Week Is Coming

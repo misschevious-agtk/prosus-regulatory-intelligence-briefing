@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-22-5af2a4e44a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: federal-judge-asks-supreme-court-to-please-start-publicly-humiliating-
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Federal Judge Asks Supreme Court To Please Start Publicly Humiliating His Colleagues

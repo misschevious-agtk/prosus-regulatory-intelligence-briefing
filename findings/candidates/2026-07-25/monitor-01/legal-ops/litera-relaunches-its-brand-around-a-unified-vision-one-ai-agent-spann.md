@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-19-02399e8ae9
-cluster_size: 22
+cluster_id: cluster-2026-07-20-bd6479225c
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: litera-relaunches-to-clarify-and-reinforce-its-market-position
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Litera Relaunches Its Brand Around a Unified Vision: One AI Agent Spanning the Practice and Business of Law

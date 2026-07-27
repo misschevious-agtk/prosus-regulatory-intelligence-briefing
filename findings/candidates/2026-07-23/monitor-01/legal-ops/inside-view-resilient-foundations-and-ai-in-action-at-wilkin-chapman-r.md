@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-21-e0f5dddd63
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: quislex-launches-ai-capability-framework-as-focus-shifts-from-adoption
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Inside View: Resilient foundations and AI in action at Wilkin Chapman Rollits

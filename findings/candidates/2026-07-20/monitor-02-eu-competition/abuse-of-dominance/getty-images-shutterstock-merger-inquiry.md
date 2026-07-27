@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-19-80e172c6fd
-cluster_size: 15
+cluster_id: cluster-2026-07-20-c001f8d1f3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: e-on-ovo-merger-inquiry
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Getty Images / Shutterstock merger inquiry

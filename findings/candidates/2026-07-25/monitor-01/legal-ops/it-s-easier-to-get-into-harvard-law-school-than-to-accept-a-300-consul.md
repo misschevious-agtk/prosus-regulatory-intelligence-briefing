@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-24-aa13097676
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: it-s-easier-to-get-into-harvard-law-school-than-to-accept-a-300-consul
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # It’s Easier To Get Into Harvard Law School Than To Accept A $300 Consultation Fee From A Self-Scheduled Platform

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-19-aec6b8031a
-cluster_size: 12
+cluster_id: cluster-2026-07-20-9c8b05859b
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: 2026-rule-of-law-report-strengthens-europe-s-prosperity-security-and-d
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Remarks by Executive Vice-President Virkkunen and Commissioner McGrath on the Rule of Law Report

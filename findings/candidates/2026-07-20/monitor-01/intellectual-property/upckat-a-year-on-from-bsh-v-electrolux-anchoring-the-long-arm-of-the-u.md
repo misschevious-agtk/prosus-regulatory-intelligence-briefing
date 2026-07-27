@@ -21,11 +21,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-07-19-a1dd832624
-cluster_size: 16
+cluster_id: cluster-2026-07-20-2523507394
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: the-growing-trend-of-delegate-raised-invalidity-grounds-in-australian-
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # [UPCKat] A year on from BSH v Electrolux: Anchoring the long-arm of the UPC

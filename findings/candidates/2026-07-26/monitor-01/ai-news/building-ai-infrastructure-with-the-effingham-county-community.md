@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-07-23-c2a0b847e2
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: building-ai-infrastructure-with-the-effingham-county-community
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Building AI infrastructure with the Effingham County community

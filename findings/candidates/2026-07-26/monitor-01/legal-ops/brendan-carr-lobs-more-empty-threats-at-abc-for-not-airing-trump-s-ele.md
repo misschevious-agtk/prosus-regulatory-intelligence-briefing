@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-25-b79d03ce67
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: brendan-carr-lobs-more-empty-threats-at-abc-for-not-airing-trump-s-ele
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Brendan Carr Lobs More Empty Threats At ABC For Not Airing Trump’s Election Fraud Lies

@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-07-19-cb06308291
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: doj-cites-fake-case-to-keep-man-locked-up-by-ice-judge-declines-to-do-
-ranked_at: '2026-07-26T09:14:43+00:00'
+cluster_id: cluster-2026-07-20-9845c49aed
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # DOJ Cites Fake Case To Keep Man Locked Up By ICE, Judge Declines To Do Anything About It

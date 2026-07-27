@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-19-5535c2cdc0
-cluster_size: 331
+cluster_id: cluster-2026-07-20-597de1bfbd
+cluster_size: 343
 cluster_role: sibling
 cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Willkie Farr partners with OpenAI to develop proprietary AI platforms and solutions

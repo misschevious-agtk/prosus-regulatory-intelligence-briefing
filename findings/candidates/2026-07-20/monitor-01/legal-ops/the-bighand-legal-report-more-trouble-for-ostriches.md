@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-19-940c2ad076
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-deloitte-legal-report-trouble-for-ostriches
-ranked_at: '2026-07-26T09:14:43+00:00'
+cluster_id: cluster-2026-07-20-d06f5bc16c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # The BigHand Legal Report: More Trouble For Ostriches

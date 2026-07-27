@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-22-224ab83bd5
-cluster_size: 38
+cluster_size: 44
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-21-26
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Comer Throws Alan Dershowitz’s ‘Nothing To Hide’ Boast Back At Him With Subpoena Threat

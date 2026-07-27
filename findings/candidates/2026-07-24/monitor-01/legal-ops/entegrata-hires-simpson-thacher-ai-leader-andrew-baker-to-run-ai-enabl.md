@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-24-4e7a6520df
-cluster_size: 6
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Entegrata hires Simpson Thacher AI leader Andrew Baker to run AI enablement strategy

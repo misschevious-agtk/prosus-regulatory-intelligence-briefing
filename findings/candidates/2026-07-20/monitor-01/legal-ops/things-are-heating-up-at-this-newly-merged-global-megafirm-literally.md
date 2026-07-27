@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-19-482a2db30b
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: things-are-heating-up-at-this-newly-merged-global-megafirm-literally
-ranked_at: '2026-07-26T09:14:43+00:00'
+cluster_id: cluster-2026-07-20-b489425f8c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # Things Are Heating Up At This Newly Merged Global Megafirm — Literally

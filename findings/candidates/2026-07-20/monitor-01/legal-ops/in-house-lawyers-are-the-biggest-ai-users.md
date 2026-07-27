@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-19-3a71f2cc11
-cluster_size: 6
+cluster_id: cluster-2026-07-20-3ba386b4e7
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: what-does-your-legal-team-actually-need-from-ai
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 ---
 
 # In-House Lawyers Are The Biggest AI Users

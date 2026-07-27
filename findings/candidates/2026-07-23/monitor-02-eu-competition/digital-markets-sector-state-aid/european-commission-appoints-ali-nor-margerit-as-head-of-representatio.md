@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-23-f3f9e85648
 cluster_size: 8
 cluster_role: sibling
-ranked_at: '2026-07-26T09:14:43+00:00'
+ranked_at: '2026-07-27T10:44:07+00:00'
 cluster_canonical_slug: european-commission-appoints-ali-nor-margerit-as-head-of-representatio
 ---
 

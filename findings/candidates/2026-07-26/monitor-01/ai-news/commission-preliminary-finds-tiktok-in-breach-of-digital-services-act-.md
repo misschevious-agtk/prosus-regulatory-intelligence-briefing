@@ -22,10 +22,10 @@ entities:
   matched_alias: TikTok
 case_numbers: []
 cluster_id: cluster-2026-07-24-8405bf5381
-cluster_size: 159
+cluster_size: 172
 cluster_role: sibling
 cluster_canonical_slug: commission-fines-google-890-million-for-breaches-of-the-digital-market
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Commission preliminary finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors

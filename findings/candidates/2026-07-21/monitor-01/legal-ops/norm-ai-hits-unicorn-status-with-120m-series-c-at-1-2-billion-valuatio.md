@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-20-0d0245b32c
+cluster_id: cluster-2026-07-21-d85daa91a5
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuatio
-ranked_at: '2026-07-27T10:44:07+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Norm Ai Hits Unicorn Status with $120M Series C at $1.2 Billion Valuation

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-25-8958877567
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: elena-kagan-thinks-the-supreme-court-gets-a-bad-rap-which-is-either-a-
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Elena Kagan Thinks The Supreme Court Gets ‘A Bad Rap,’ Which Is Either A Lie Or Dangerously Naive

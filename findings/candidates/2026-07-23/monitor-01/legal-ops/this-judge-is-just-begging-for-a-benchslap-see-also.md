@@ -19,10 +19,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-22-224ab83bd5
-cluster_size: 44
+cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-21-26
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # This Judge Is Just Begging For A Benchslap — See Also

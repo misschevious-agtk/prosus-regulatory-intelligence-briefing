@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-24-612c87dcc6
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Caleb Williams, George Gervin, An ‘Iceman’ Trademark And Insulated Boots…Oh My?

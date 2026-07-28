@@ -1,0 +1,37 @@
+---
+date_found: 2026-07-28
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/07/only-a-billionaire-could-fail-the-bar-exam-this-profitably/
+source_publisher: Above the Law
+source_date: Fri, 24 Jul 2026 18:45:53 +0000
+source_method: rss
+title: Only A Billionaire Could Fail The Bar Exam This Profitably
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-07-25-c602916362
+cluster_size: 4
+cluster_role: sibling
+cluster_canonical_slug: only-a-billionaire-could-fail-the-bar-exam-this-profitably
+ranked_at: '2026-07-28T09:39:15+00:00'
+---
+
+# Only A Billionaire Could Fail The Bar Exam This Profitably
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/07/only-a-billionaire-could-fail-the-bar-exam-this-profitably/)
+**Published:** Fri, 24 Jul 2026 18:45:53 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+Kim Kardashian's new UPDATE campaign makes a punchline of the test she can't seem to beat -- and she's laughing all the way to the endcap. The post Only A Billionaire Could Fail The Bar Exam This Profitably appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

@@ -17,10 +17,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-22-fedcb728bb
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: sedlik-en-banc-a-menu-for-replacing-copyright-s-intrinsic-test
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Sedlik en Banc: A Menu for Replacing Copyright’s Intrinsic Test

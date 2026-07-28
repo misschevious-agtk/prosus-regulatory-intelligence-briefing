@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-20-930ecb3ac4
-cluster_size: 178
+cluster_id: cluster-2026-07-21-08e757212f
+cluster_size: 173
 cluster_role: sibling
 cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # USPTO holds historic patent and trademark signing ceremony commemorating America's 250th birthday

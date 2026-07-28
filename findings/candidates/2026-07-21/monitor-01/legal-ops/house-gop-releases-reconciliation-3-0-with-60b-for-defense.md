@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-21-7930266b30
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # House GOP Releases ‘Reconciliation 3.0’ With $60B For Defense

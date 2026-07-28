@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-20-28840734e4
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: litigants-ask-to-check-reflecting-pool-for-sabotage
-ranked_at: '2026-07-27T10:44:07+00:00'
+cluster_id: cluster-2026-07-21-95fd74f98a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Litigants Ask To Check Reflecting Pool For ‘Sabotage’

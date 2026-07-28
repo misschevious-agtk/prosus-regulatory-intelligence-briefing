@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-23-0f8cf24e14
-cluster_size: 9
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: netdocuments-adds-six-new-ndmax-studio-apps
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # NetDocuments adds six new ndMAX Studio apps

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-22-07fed83e5f
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # This Biglaw Partner Got A Crash Course In Comedy From Larry David

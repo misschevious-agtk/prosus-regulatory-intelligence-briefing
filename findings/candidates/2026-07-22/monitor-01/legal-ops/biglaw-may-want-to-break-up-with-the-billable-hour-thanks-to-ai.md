@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-21-f7c9d597d8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-may-want-to-break-up-with-the-billable-hour-thanks-to-ai
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Biglaw May Want To Break Up With The Billable Hour Thanks To AI

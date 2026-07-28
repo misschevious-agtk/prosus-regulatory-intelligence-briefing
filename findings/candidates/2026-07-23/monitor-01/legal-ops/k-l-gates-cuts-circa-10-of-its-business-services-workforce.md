@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-20-3f6dbfe65d
-cluster_size: 13
+cluster_id: cluster-2026-07-21-87537fc051
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: k-l-gates-cuts-circa-10-of-its-business-services-workforce
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # K&L Gates cuts circa 10% of its business services workforce

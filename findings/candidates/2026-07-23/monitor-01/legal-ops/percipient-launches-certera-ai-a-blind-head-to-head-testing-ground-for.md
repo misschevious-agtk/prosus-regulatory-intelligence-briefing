@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-20-bd6479225c
-cluster_size: 20
+cluster_id: cluster-2026-07-21-77e8a6291d
+cluster_size: 18
 cluster_role: sibling
-cluster_canonical_slug: litera-relaunches-to-clarify-and-reinforce-its-market-position
-ranked_at: '2026-07-27T10:44:07+00:00'
+cluster_canonical_slug: startup-corner-lexitrove-ai-for-the-employment-matter-lifecycle
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Percipient Launches Certera.AI, A Blind Head-to-Head Testing Ground for Legal AI, with a Lawyer-Voted Leaderboard On the Way

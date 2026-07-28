@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-25-7e0c66ee2a
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Did Jim Jordan Outsource This Jack Smith Criminal Referral To ChatGPT?

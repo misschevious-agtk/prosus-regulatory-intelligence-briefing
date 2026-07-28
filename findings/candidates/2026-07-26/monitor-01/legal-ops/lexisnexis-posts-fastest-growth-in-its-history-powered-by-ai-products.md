@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-24-1266246edc
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: lexisnexis-posts-fastest-growth-in-its-history-powered-by-ai-products
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # LexisNexis posts fastest growth in its history, powered by AI products

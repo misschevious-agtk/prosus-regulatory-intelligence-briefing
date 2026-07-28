@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-25-c602916362
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: only-a-billionaire-could-fail-the-bar-exam-this-profitably
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Only A Billionaire Could Fail The Bar Exam This Profitably

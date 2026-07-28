@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-20-7f984249d9
-cluster_size: 5
+cluster_id: cluster-2026-07-21-248c8e53a1
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: uspto-champions-global-assignment-initiative-and-pct-modernization
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # USPTO champions global assignment initiative and PCT modernization

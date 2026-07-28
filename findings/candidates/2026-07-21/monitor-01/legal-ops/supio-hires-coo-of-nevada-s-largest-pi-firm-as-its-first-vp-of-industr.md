@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-20-75b4b181c0
+cluster_id: cluster-2026-07-21-7b98443a13
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: supio-hires-coo-of-nevada-s-largest-pi-firm-as-its-first-vp-of-industr
-ranked_at: '2026-07-27T10:44:07+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Supio Hires COO of Nevada’s Largest PI Firm As Its First VP of Industry, To Help Drive Innovation Strategy

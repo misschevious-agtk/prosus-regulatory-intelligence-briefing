@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-21-29d6ccbc58
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: amol-bargaje-joins-thompson-coburn-as-cio
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # Amol Bargaje joins Thompson Coburn as CIO

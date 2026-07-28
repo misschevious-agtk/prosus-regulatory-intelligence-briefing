@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-23-39976da478
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-class-action-lawsuit-will-determine-whether-nintendo-customers-are-e
-ranked_at: '2026-07-27T10:44:07+00:00'
+ranked_at: '2026-07-28T09:39:15+00:00'
 ---
 
 # A Class Action Lawsuit Will Determine Whether Nintendo Customers Are Entitled To Tariff Refunds

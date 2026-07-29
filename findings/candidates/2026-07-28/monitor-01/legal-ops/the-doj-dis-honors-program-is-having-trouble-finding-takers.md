@@ -18,9 +18,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-28-f022e4bc9a
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # The DOJ (Dis)Honors Program Is Having Trouble Finding Takers

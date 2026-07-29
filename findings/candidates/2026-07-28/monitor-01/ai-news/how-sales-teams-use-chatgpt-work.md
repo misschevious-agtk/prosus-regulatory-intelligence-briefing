@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-21-fe77c9c055
-cluster_size: 336
+cluster_id: cluster-2026-07-22-2eaf7854c8
+cluster_size: 329
 cluster_role: sibling
 cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # How sales teams use ChatGPT Work

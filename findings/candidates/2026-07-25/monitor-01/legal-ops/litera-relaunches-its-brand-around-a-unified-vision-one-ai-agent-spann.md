@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-21-77e8a6291d
-cluster_size: 18
+cluster_id: cluster-2026-07-22-c7429a9b34
+cluster_size: 17
 cluster_role: sibling
 cluster_canonical_slug: startup-corner-lexitrove-ai-for-the-employment-matter-lifecycle
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Litera Relaunches Its Brand Around a Unified Vision: One AI Agent Spanning the Practice and Business of Law

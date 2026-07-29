@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-21-877c03ba4a
-cluster_size: 52
+cluster_id: cluster-2026-07-22-9de548f17e
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: guest-post-computer-implemented-inventions-at-the-upc-guidance-for-a-c
-ranked_at: '2026-07-28T09:39:15+00:00'
+cluster_canonical_slug: european-patent-litigation-certificate-returns-to-train-tomorrow-s-pat
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # European Patent Litigation Certificate returns to train tomorrow's patent litigators

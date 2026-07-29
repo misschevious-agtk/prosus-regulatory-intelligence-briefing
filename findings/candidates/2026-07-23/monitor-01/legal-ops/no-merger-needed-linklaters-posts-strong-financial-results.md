@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-22-3e31301fc6
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: no-merger-needed-linklaters-posts-strong-financial-results
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # No Merger Needed: Linklaters Posts Strong Financial Results

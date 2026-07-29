@@ -22,7 +22,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-23-dc8ab83034
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Commission opens in-depth investigation into proposed merger between Saipem and Subsea7

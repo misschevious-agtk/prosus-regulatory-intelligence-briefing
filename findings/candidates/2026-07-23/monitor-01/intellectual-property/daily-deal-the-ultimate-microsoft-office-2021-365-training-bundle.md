@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-23-0e294db6a2
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Daily Deal: The Ultimate Microsoft Office 2021/365 Training Bundle

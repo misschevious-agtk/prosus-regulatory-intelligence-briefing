@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-22-c11784dc09
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # SOAR presents - Learn to search like a patent examiner

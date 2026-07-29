@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-07-21-31dd9bac64
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: from-models-to-solutions-what-anthropic-s-ode-launch-signals-for-legal
-ranked_at: '2026-07-28T09:39:15+00:00'
+cluster_id: cluster-2026-07-22-610e8642aa
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # From models to solutions: What Anthropic’s Ode launch signals for legal

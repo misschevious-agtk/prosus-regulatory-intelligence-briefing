@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-21-39d9ee857c
-cluster_size: 150
+cluster_id: cluster-2026-07-22-43ef3a4933
+cluster_size: 114
 cluster_role: sibling
 cluster_canonical_slug: heating-oil-market-study
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Parking charges: CMA takes action to drive improvements for motorists

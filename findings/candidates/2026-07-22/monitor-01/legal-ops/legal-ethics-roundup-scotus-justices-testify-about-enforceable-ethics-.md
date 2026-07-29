@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-21-38f77799b7
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-scotus-justices-testify-about-enforceable-ethics-
-ranked_at: '2026-07-28T09:39:15+00:00'
+cluster_id: cluster-2026-07-22-b817020805
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Legal Ethics Roundup: SCOTUS Justices Testify About Enforceable Ethics, 20 AGs Want Clark Discipline Challenge Dismissed, Law Democratized On LawNext & More

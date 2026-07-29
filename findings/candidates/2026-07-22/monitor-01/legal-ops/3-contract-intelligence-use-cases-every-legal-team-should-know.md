@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-21-103dfa5141
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 3-contract-intelligence-use-cases-every-legal-team-should-know
-ranked_at: '2026-07-28T09:39:15+00:00'
+cluster_id: cluster-2026-07-22-e262ef55b5
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # 3 Contract Intelligence Use Cases Every Legal Team Should Know

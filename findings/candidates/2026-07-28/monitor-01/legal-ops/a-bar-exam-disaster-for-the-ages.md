@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-28-bd8cc46520
-cluster_size: 2
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-bar-exam-pep-talk-every-student-needs-to-read
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # A Bar Exam Disaster For The Ages

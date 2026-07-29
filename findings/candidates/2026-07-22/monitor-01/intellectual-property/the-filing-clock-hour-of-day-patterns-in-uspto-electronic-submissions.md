@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-21-8b436d811b
+cluster_id: cluster-2026-07-22-108f16e383
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-filing-clock-hour-of-day-patterns-in-uspto-electronic-submissions
-ranked_at: '2026-07-28T09:39:15+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # The Filing Clock: Hour-of-Day Patterns in USPTO Electronic Submissions

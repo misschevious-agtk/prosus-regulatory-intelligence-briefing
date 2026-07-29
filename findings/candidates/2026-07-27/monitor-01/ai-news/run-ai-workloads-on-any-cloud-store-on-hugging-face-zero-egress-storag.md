@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-21-abe296b419
+cluster_id: cluster-2026-07-22-43551dd4e8
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: run-ai-workloads-on-any-cloud-store-on-hugging-face-zero-egress-storag
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot

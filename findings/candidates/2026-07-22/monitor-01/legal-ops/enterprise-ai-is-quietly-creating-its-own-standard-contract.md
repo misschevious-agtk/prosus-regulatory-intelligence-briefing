@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-22-b0a45cbf35
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Enterprise AI Is Quietly Creating Its Own Standard Contract

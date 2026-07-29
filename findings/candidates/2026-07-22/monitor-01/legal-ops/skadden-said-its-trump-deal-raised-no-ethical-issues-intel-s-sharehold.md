@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-22-258c70b43c
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Skadden Said Its Trump Deal Raised No Ethical Issues. Intel’s Shareholders Disagree.

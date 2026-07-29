@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-21-957c6a5ceb
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: harvey-strengthens-asset-management-offering-with-benchmark-acquisitio
-ranked_at: '2026-07-28T09:39:15+00:00'
+cluster_id: cluster-2026-07-22-62dc4f92be
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Harvey strengthens asset management offering with Benchmark acquisition

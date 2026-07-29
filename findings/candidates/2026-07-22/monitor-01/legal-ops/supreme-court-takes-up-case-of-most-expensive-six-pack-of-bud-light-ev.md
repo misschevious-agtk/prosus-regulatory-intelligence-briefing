@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-22-224ab83bd5
-cluster_size: 45
+cluster_size: 41
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-21-26
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # Supreme Court Takes Up Case Of Most Expensive Six-Pack Of Bud Light Ever — See Also

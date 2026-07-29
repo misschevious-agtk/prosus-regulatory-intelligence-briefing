@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-25-8de27a2dd1
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # New Jersey Has A Message For Lawyers: Don’t Sleep With Your Clients

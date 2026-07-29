@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-21-877c03ba4a
-cluster_size: 52
+cluster_id: cluster-2026-07-22-4165c1a8da
+cluster_size: 37
 cluster_role: sibling
 cluster_canonical_slug: guest-post-computer-implemented-inventions-at-the-upc-guidance-for-a-c
-ranked_at: '2026-07-28T09:39:15+00:00'
+ranked_at: '2026-07-29T09:40:28+00:00'
 ---
 
 # [Guest Book Review] Creative Value Chains – Copyright and Beyond for a Better Value Distribution

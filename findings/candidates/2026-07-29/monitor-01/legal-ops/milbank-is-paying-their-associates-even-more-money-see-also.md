@@ -19,10 +19,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-28-1abbb4bb8a
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: milbank-is-paying-their-associates-even-more-money-see-also
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Milbank Is Paying Their Associates Even More Money — See Also

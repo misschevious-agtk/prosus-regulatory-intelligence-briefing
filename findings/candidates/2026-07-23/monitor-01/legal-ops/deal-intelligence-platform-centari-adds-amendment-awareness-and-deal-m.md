@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-22-b08efe5610
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: deal-intelligence-platform-centari-adds-amendment-awareness-and-deal-m
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_id: cluster-2026-07-23-2cd6b9fcdf
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Deal-Intelligence Platform Centari Adds Amendment Awareness and Deal Maps, Features that Deepen Its Multi-Document Analysis

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-07-22-000c49a75f
+cluster_id: cluster-2026-07-23-90ce0a1fa1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-ba
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing

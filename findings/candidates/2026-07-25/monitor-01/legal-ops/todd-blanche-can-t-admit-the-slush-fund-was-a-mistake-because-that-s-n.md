@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-22-224ab83bd5
-cluster_size: 41
+cluster_id: cluster-2026-07-23-790d5e4bb8
+cluster_size: 34
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-07-21-26
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_canonical_slug: when-you-run-out-of-law-reach-for-absurd-see-also
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Todd Blanche Can’t Admit The Slush Fund Was A Mistake Because ‘That’s Not Proper MAGA Talk’ — See Also

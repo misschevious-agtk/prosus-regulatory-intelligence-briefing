@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-22-e1456b23b5
-cluster_size: 5
+cluster_id: cluster-2026-07-23-3c97982250
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: quislex-launches-ai-capability-framework-as-focus-shifts-from-adoption
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Inside View: Resilient foundations and AI in action at Wilkin Chapman Rollits

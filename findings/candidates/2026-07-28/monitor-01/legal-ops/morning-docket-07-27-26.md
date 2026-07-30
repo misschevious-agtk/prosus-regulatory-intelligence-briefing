@@ -18,9 +18,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-07-28-35c15f7bce
-cluster_size: 4
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Morning Docket: 07.27.26

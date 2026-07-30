@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-22-2608447139
+cluster_id: cluster-2026-07-23-04fba19afd
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-ai-productivity-inflection-how-the-agentic-pdlc-accelerated-delive
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # The AI Productivity Inflection: How the Agentic PDLC Accelerated Delivery and Drove AI Adoption

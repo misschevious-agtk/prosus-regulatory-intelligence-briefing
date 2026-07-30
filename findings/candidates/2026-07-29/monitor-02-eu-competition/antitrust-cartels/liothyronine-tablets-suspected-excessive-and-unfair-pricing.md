@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-29-8389196c0e
-cluster_size: 9
+cluster_id: cluster-2026-07-30-3e8102aada
+cluster_size: 30
 cluster_role: sibling
-cluster_canonical_slug: hydrocortisone-tablets-alleged-excessive-and-unfair-pricing-anti-compe
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_canonical_slug: microsoft-consumer-protection-enforcement-case
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Liothyronine tablets: suspected excessive and unfair pricing

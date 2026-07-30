@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-28-a9ce74ee4a
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: a-blanche-confirmation-hearing-witness-is-getting-death-threats-thanks
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Todd Blanche’s Confirmation Is Being Held Up By… Todd Blanche

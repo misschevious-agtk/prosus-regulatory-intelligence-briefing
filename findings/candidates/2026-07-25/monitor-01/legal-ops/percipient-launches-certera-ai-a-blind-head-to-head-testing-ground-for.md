@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-22-c7429a9b34
-cluster_size: 17
+cluster_id: cluster-2026-07-23-f4e6c94e86
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: startup-corner-lexitrove-ai-for-the-employment-matter-lifecycle
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_canonical_slug: percipient-launches-certera-ai-a-blind-head-to-head-testing-ground-for
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Percipient Launches Certera.AI, A Blind Head-to-Head Testing Ground for Legal AI, with a Lawyer-Voted Leaderboard On the Way

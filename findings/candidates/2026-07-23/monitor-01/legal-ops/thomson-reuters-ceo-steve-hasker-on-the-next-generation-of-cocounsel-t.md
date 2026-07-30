@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-22-8effad443f
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_id: cluster-2026-07-23-a324ae9ccb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Thomson Reuters CEO Steve Hasker on the Next Generation of CoCounsel, the ‘Future of Professionals’ Report, and Why TR Is Building Its Own LLM

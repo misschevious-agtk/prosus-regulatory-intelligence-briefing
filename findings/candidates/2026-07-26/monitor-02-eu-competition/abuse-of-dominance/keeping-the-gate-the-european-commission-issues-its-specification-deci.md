@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: Alphabet
 case_numbers: []
-cluster_id: cluster-2026-07-22-2eaf7854c8
-cluster_size: 329
+cluster_id: cluster-2026-07-23-fddbcac288
+cluster_size: 320
 cluster_role: sibling
-cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_canonical_slug: willkie-farr-partners-with-openai-to-develop-proprietary-ai-platforms-
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Keeping the Gate: The European Commission Issues Its Specification Decision on Alphabet’s Operating System Interoperability with AI Assistants

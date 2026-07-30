@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-22-5c8df16cff
-cluster_size: 173
+cluster_id: cluster-2026-07-23-8b7fb6fbd3
+cluster_size: 171
 cluster_role: sibling
 cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Anonymous No More: Real-Party Disclosure Comes to Ex Parte Reexamination

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-22-07fed83e5f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: this-biglaw-partner-got-a-crash-course-in-comedy-from-larry-david
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_id: cluster-2026-07-23-251cf61eee
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # This Biglaw Partner Got A Crash Course In Comedy From Larry David

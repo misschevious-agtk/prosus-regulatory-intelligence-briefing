@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-28-305da3ed80
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fcc-approves-satellite-spectrum-license-streamlining
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # FCC Approves Satellite Spectrum License Streamlining

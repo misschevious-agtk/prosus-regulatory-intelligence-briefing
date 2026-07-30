@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-29-14d46c1aa7
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: orange-rag-insights-from-advisors-to-builders-how-ai-is-remaking-the-i
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # LegalOn Lets 100 AI Workflows Bloom

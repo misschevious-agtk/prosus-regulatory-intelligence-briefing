@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-22-43ef3a4933
-cluster_size: 114
+cluster_id: cluster-2026-07-23-13f55bd4d8
+cluster_size: 78
 cluster_role: sibling
-cluster_canonical_slug: heating-oil-market-study
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_canonical_slug: correspondence-cma-letter-to-government-in-relation-to-private-parking
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Euro Car Parks: consumer protection enforcement case

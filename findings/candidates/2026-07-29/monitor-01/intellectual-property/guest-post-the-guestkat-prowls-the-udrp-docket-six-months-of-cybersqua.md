@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-22-4165c1a8da
-cluster_size: 37
+cluster_id: cluster-2026-07-23-34385d931a
+cluster_size: 38
 cluster_role: sibling
 cluster_canonical_slug: guest-post-computer-implemented-inventions-at-the-upc-guidance-for-a-c
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # [Guest Post] The GuestKat Prowls the UDRP Docket: Six Months of Cybersquatting, Catfights and Curious Decisions

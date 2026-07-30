@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-22-2eaf7854c8
-cluster_size: 329
+cluster_id: cluster-2026-07-23-b6197f5cdb
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: mufg-aims-to-become-ai-native-with-openai
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_canonical_slug: ia-agentique-et-donn-es-personnelles-la-cnil-et-le-conseil-de-l-ia-et-
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # IA agentique et données personnelles : la CNIL et le Conseil de l’IA et du Numérique publient une note exploratoire

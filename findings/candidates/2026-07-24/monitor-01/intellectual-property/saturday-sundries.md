@@ -22,11 +22,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-07-22-9de548f17e
-cluster_size: 16
+cluster_id: cluster-2026-07-24-8405bf5381
+cluster_size: 191
 cluster_role: sibling
-cluster_canonical_slug: european-patent-litigation-certificate-returns-to-train-tomorrow-s-pat
-ranked_at: '2026-07-29T09:40:28+00:00'
+cluster_canonical_slug: commission-fines-google-890-million-for-breaches-of-the-digital-market
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Saturday Sundries

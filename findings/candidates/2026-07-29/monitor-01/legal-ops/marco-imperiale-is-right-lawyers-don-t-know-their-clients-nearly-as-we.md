@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-28-12d25c8b64
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: marco-imperiale-is-right-lawyers-don-t-know-their-clients-nearly-as-we
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Marco Imperiale Is Right: Lawyers Don’t Know Their Clients Nearly As Well As They Think

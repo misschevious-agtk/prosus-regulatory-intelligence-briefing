@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-22-7783004d05
-cluster_size: 8
+cluster_id: cluster-2026-07-23-af2af4f083
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: lawyers-learning-you-can-t-square-peg-ai-into-ediscovery-round-holes
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # The One Thing You Didn’t Think To Look For In Legal AI

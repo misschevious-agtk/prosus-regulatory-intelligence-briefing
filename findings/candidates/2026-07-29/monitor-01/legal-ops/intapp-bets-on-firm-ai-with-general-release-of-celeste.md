@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-28-63dc9bbfe9
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: intapp-bets-on-firm-ai-with-general-release-of-celeste
-ranked_at: '2026-07-29T09:40:28+00:00'
+ranked_at: '2026-07-30T09:33:52+00:00'
 ---
 
 # Intapp bets on ‘firm AI’ with general release of Celeste

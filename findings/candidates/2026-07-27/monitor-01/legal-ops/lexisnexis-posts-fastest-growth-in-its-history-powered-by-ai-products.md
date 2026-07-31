@@ -19,7 +19,7 @@ cluster_id: cluster-2026-07-24-1266246edc
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: lexisnexis-posts-fastest-growth-in-its-history-powered-by-ai-products
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # LexisNexis posts fastest growth in its history, powered by AI products

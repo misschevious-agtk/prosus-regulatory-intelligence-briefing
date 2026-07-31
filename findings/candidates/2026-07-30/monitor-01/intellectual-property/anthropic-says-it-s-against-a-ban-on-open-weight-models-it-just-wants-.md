@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-30-dbece1e839
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Anthropic Says It’s Against A Ban On Open Weight Models. It Just Wants To Ban Everything That Makes Them Good.

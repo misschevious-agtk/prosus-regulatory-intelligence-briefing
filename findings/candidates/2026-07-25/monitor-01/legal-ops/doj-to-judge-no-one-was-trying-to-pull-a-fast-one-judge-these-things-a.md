@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-25-e5306c5cc7
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # DOJ To Judge: ‘No One Was Trying To Pull A Fast One.’ Judge: ‘These Things Are Starting To Pile Up.’

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-28-651a40c3c9
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fiu-installs-sanctioned-trump-attorney-as-interim-law-dean-overruling-
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # FIU Installs Sanctioned Trump Attorney As Interim Law Dean, Overruling Its Own Search Committee

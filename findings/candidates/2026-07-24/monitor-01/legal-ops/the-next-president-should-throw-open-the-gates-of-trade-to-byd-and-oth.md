@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-23-b242fa04b4
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-next-president-should-throw-open-the-gates-of-trade-to-byd-and-oth
-ranked_at: '2026-07-30T09:33:52+00:00'
+cluster_id: cluster-2026-07-24-68700aeeec
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # The Next President Should Throw Open The Gates Of Trade To BYD And Other Electric Automakers

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-25-92abe1841f
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-to-create-a-free-tool-to-capture-leads-in-your-practice-niche
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # How To Create A Free Tool To Capture Leads In Your Practice Niche

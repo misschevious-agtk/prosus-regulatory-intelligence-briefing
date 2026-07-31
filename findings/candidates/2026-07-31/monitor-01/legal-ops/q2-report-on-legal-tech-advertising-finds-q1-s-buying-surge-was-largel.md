@@ -1,0 +1,37 @@
+---
+date_found: 2026-07-31
+monitor: monitor-01
+domain: legal-ops
+source_url: https://www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html
+source_publisher: LawSites (Bob Ambrogi)
+source_date: Tue, 28 Jul 2026 17:04:51 +0000
+source_method: rss
+title: Q2 Report On Legal Tech Advertising Finds Q1’s Buying Surge Was Largely Seasonal, But Reveals Where Demand Is Now Concentrated
+matched_keywords:
+- LawNext
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-07-28-4d11992613
+cluster_size: 10
+cluster_role: sibling
+cluster_canonical_slug: webinar-six-months-on-are-law-firms-making-progress-on-their-biggest-c
+ranked_at: '2026-07-31T09:46:23+00:00'
+---
+
+# Q2 Report On Legal Tech Advertising Finds Q1’s Buying Surge Was Largely Seasonal, But Reveals Where Demand Is Now Concentrated
+
+**Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html)
+**Published:** Tue, 28 Jul 2026 17:04:51 +0000
+**Matched keywords (1):** LawNext
+
+## Summary excerpt
+
+In April, I reported here on a dramatic first-quarter 2026 increase in the numbers of legal tech demos law firms were scheduling, with the numbers going up across nearly every major practice area by as much as 40% to 50%. Now, it appears that trend has reversed, according to a newly released report on legal [&#8230;]
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

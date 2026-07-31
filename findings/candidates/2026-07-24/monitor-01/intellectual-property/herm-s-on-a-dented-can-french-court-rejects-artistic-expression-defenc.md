@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-24-d6650b0a69
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Hermès on a dented can: French court rejects artistic expression defence

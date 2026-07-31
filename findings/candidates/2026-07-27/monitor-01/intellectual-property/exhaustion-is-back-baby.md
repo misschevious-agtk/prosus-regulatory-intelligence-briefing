@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: Microsoft Corp
 case_numbers: []
-cluster_id: cluster-2026-07-23-32fa5333b2
+cluster_id: cluster-2026-07-24-b7cc00a3e3
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: exhaustion-is-back-baby
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Exhaustion is back baby!

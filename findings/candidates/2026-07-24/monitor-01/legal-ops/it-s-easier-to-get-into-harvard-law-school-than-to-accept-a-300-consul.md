@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-24-aa13097676
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # It’s Easier To Get Into Harvard Law School Than To Accept A $300 Consultation Fee From A Self-Scheduled Platform

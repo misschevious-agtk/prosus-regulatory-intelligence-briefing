@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-23-89ff20378a
+cluster_id: cluster-2026-07-24-0254fe7b5b
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: exclusive-as-its-kaleidoscope-conference-returns-for-year-two-8am-trad
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Exclusive: As Its Kaleidoscope Conference Returns for Year Two, 8am Trades Austin’s Cowboy Boots for the Las Vegas Strip — And Books the Savannah Bananas’ Founder As Keynote

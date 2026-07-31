@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-23-844723fe87
+cluster_id: cluster-2026-07-24-d618d5484f
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: soar-presents-learn-to-search-like-a-patent-examiner
-ranked_at: '2026-07-30T09:33:52+00:00'
+cluster_role: canonical
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # SOAR presents - Learn to search like a patent examiner

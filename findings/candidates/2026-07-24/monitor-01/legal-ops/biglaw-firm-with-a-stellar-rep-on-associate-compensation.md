@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-23-435e8d10e2
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: biglaw-firm-with-a-stellar-rep-on-associate-compensation
-ranked_at: '2026-07-30T09:33:52+00:00'
+cluster_id: cluster-2026-07-24-966e53addf
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Biglaw Firm With A Stellar Rep On Associate Compensation

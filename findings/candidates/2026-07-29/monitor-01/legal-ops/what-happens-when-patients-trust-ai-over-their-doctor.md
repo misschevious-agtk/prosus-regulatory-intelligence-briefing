@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-29-99ea956829
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # What Happens When Patients Trust AI Over Their Doctor?

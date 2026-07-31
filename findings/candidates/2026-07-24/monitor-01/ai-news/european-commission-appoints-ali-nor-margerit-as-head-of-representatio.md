@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-23-f3f9e85648
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: european-commission-appoints-ali-nor-margerit-as-head-of-representatio
-ranked_at: '2026-07-30T09:33:52+00:00'
+cluster_id: cluster-2026-07-24-b47da73cc4
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # European Commission Appoints Aliénor Margerit as Head of Representation in Paris

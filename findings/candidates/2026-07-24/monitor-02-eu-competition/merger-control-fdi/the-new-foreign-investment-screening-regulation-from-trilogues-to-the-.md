@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-23-0d1d83e8fc
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-new-foreign-investment-screening-regulation-from-trilogues-to-the-
-ranked_at: '2026-07-30T09:33:52+00:00'
+cluster_id: cluster-2026-07-24-0ef9c773bb
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # The New Foreign Investment Screening Regulation: From Trilogues to the Official Journal

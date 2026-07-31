@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-23-8b7fb6fbd3
-cluster_size: 171
+cluster_id: cluster-2026-07-24-ae581c5996
+cluster_size: 169
 cluster_role: sibling
 cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # USPTO proposing rulemaking requiring identification of all real parties in interest to a third party request for an ex parte reexamination

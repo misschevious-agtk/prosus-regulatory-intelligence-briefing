@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-28-85239b8d9d
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: two-pages-of-testimony-jmol-of-anticipation-in-board-of-regents-v-bost
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Two Pages of Testimony: JMOL of Anticipation in Board of Regents v. Boston Scientific

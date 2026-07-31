@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-23-c04a5af3e4
-cluster_size: 6
+cluster_id: cluster-2026-07-24-f8c071f21b
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: the-legal-tech-to-english-dictionary-2-0-working-with-ai-in-a-professi
-ranked_at: '2026-07-30T09:33:52+00:00'
+cluster_canonical_slug: tomorrow-opus-2-webinar-ai-native-litigation-workflows
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Tomorrow – Opus 2 Webinar: AI-Native Litigation Workflows

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-a3f07ece30
-cluster_size: 4
+cluster_id: cluster-2026-07-31-32240edf6f
+cluster_size: 22
 cluster_role: sibling
-cluster_canonical_slug: cha-ching-another-firm-joins-the-bonus-party
-ranked_at: '2026-07-30T09:33:52+00:00'
+cluster_canonical_slug: replay-legaltech-week-for-07-24-26-free-legal-claude-connector-aall-re
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Cha-Ching: Another Firm Joins The Bonus Party

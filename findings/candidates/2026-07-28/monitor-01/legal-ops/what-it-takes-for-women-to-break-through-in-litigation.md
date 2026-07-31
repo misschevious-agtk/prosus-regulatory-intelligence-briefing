@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-25-7df441f31c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: what-it-takes-for-women-to-break-through-in-litigation
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # What It Takes For Women To Break Through In Litigation

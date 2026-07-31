@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-23-fddbcac288
-cluster_size: 320
+cluster_id: cluster-2026-07-24-df0c020536
+cluster_size: 319
 cluster_role: sibling
 cluster_canonical_slug: willkie-farr-partners-with-openai-to-develop-proprietary-ai-platforms-
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker

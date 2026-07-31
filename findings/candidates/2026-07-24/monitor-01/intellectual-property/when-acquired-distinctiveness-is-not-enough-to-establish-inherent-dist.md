@@ -22,11 +22,10 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-615/25
-cluster_id: cluster-2026-07-23-1772d20b1e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: when-acquired-distinctiveness-is-not-enough-to-establish-inherent-dist
-ranked_at: '2026-07-30T09:33:52+00:00'
+cluster_id: cluster-2026-07-24-fbc85dd32f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # When acquired distinctiveness is not enough to establish inherent distinctiveness

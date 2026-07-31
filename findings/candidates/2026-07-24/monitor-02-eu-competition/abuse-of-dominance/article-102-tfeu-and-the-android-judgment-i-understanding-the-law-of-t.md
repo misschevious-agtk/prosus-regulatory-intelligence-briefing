@@ -25,9 +25,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-07-24-16a4151cd5
-cluster_size: 14
+cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Article 102 TFEU and the Android judgment (I): understanding the law of the exceptional (and the exceptional within the exceptional)

@@ -22,7 +22,7 @@ cluster_id: cluster-2026-07-24-81dfe82f7d
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: lexis-spellbook-google-legal-innovators-nordics
-ranked_at: '2026-07-30T09:33:52+00:00'
+ranked_at: '2026-07-31T09:46:23+00:00'
 ---
 
 # Lexis $$$, Spellbook / Google, Legal Innovators Nordics

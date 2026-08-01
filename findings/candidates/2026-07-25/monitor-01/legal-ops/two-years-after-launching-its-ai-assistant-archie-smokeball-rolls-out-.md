@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-24-203010e346
+cluster_id: cluster-2026-07-25-ee0bd9d8b2
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: two-years-after-launching-its-ai-assistant-archie-smokeball-rolls-out-
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Two Years After Launching Its AI Assistant Archie, Smokeball Rolls Out the ‘Next Generation’ Built on Agentic AI, and Embedded in Word and Outlook

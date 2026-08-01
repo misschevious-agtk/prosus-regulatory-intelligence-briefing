@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-24-e37c91dee9
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: helping-k-12-educators-build-practical-ai-skills
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_id: cluster-2026-07-25-ca93261b96
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Helping K–12 educators build practical AI skills

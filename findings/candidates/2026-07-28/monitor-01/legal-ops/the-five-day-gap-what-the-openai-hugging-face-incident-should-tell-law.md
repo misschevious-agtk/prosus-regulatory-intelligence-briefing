@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-24-df0c020536
-cluster_size: 319
+cluster_id: cluster-2026-07-25-b393dfb282
+cluster_size: 512
 cluster_role: sibling
-cluster_canonical_slug: willkie-farr-partners-with-openai-to-develop-proprietary-ai-platforms-
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_canonical_slug: commission-preliminary-finds-tiktok-in-breach-of-digital-services-act-
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # The five-day gap: what the OpenAI–Hugging Face incident should tell law firms

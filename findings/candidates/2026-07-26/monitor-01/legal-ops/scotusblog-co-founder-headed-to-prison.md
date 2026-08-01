@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-25-90e15784c0
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: scotusblog-co-founder-headed-to-prison
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # SCOTUSblog Co-Founder Headed To Prison

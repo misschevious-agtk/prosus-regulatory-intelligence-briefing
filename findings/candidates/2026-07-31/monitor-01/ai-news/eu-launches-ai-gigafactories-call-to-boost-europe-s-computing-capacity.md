@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-31-c7bc039dea
-cluster_size: 2
+cluster_id: cluster-2026-07-25-b393dfb282
+cluster_size: 512
 cluster_role: sibling
-cluster_canonical_slug: eu-launches-ai-gigafactories-call-to-boost-europe-s-computing-capacity
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_canonical_slug: commission-preliminary-finds-tiktok-in-breach-of-digital-services-act-
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-30-7a406a1152
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: if-you-sell-legendary-virtual-pok-mon-for-thousands-of-dollars-there-c
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # If You Sell Legendary Virtual Pokémon For Thousands Of Dollars, There Could Be Tax Consequences In The Real World

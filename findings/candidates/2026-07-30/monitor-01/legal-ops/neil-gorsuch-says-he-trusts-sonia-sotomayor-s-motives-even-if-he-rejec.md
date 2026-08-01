@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-29-56ca648cfd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: neil-gorsuch-says-he-trusts-sonia-sotomayor-s-motives-even-if-he-rejec
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Neil Gorsuch Says He Trusts Sonia Sotomayor’s Motives, Even If He Rejects Her Legal Views

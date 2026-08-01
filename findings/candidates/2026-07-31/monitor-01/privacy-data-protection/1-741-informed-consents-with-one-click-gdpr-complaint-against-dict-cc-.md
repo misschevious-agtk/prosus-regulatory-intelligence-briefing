@@ -18,10 +18,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-30-debbf220bc
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: 1-741-informed-consents-with-one-click-gdpr-complaint-against-dict-cc-
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # 1,741 “informed” consents with one click?! GDPR complaint against dict.cc filed

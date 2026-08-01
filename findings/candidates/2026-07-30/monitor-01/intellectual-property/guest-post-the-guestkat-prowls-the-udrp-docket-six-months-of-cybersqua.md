@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-24-5712a79a74
-cluster_size: 39
+cluster_id: cluster-2026-07-25-b393dfb282
+cluster_size: 512
 cluster_role: sibling
-cluster_canonical_slug: guest-post-the-guestkat-prowls-the-udrp-docket-six-months-of-cybersqua
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_canonical_slug: commission-preliminary-finds-tiktok-in-breach-of-digital-services-act-
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # [Guest Post] The GuestKat Prowls the UDRP Docket: Six Months of Cybersquatting, Catfights and Curious Decisions

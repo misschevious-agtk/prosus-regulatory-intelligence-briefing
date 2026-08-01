@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-31-ffce30b051
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Fact-checking the German Chamber of Commerce and Industry’s (DIHK) position statement on ‘Collective Enforcement of Rights: Limiting Strategic Lawsuits and Regulating Litigation Funding’

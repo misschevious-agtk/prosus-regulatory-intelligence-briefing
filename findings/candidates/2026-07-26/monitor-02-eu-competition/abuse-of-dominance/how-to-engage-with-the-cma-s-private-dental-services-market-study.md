@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-24-82ac750980
-cluster_size: 51
+cluster_id: cluster-2026-07-25-84e7185a90
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: healthcare-ireland-hutchinson-homes-merger-inquiry
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_canonical_slug: how-to-engage-with-the-cma-s-private-dental-services-market-study
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # How to engage with the CMA’s private dental services market study

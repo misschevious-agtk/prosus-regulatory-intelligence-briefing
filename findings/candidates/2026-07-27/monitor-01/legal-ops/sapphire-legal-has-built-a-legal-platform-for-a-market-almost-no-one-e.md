@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-24-b569b5ef9d
-cluster_size: 4
+cluster_id: cluster-2026-07-25-0809be3b29
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: sapphire-legal-has-built-a-legal-platform-for-a-market-almost-no-one-e
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Sapphire Legal Has Built A Legal Platform for a Market Almost No One Else Is Chasing: The Fractional GC

@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-25-cf73c5edd3
 cluster_size: 21
 cluster_role: canonical
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # nexfibre / Substantial merger inquiry

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-29-07d0ee2d79
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: webinar-why-contract-ownership-is-your-most-expensive-blind-spot
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Webinar: Why Contract Ownership Is Your Most Expensive Blind Spot

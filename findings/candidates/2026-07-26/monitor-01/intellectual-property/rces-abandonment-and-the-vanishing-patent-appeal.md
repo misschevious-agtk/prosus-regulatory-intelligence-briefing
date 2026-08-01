@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-24-72ee6dec2a
-cluster_size: 7
+cluster_id: cluster-2026-07-25-d07ffbacd9
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: rces-abandonment-and-the-vanishing-patent-appeal
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # RCEs, Abandonment, and the Vanishing Patent Appeal

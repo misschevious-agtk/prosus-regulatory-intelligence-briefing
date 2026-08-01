@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-28-41b45b24e9
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-viral-lawyer-zodiac-breakdown-is-painfully-accurate
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # This Viral Lawyer Zodiac Breakdown Is Painfully Accurate

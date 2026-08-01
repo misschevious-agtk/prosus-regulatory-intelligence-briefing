@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-24-832180499a
-cluster_size: 6
+cluster_id: cluster-2026-07-25-eab9bcee7b
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: speech-by-commissioner-kubilius-at-eu-defense-night
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Speech by Commissioner Kubilius at “EU Defense Night”

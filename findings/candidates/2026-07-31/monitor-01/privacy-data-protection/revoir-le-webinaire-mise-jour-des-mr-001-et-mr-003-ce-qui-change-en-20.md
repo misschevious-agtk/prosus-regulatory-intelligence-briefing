@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-07-24-314a39f99b
-cluster_size: 81
+cluster_id: cluster-2026-07-25-2986f0c39f
+cluster_size: 82
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026

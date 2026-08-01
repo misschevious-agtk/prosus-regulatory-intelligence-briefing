@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-28-4d11992613
-cluster_size: 10
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: webinar-six-months-on-are-law-firms-making-progress-on-their-biggest-c
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Webinar: Six months on – Are law firms making progress on their biggest challenges?

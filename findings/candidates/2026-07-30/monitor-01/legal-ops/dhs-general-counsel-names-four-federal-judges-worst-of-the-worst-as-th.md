@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-29-44ba296df5
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: dhs-general-counsel-names-four-federal-judges-worst-of-the-worst-as-th
-ranked_at: '2026-07-31T09:46:23+00:00'
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # DHS General Counsel Names Four Federal Judges ‘Worst Of The Worst’ As Threats Against Judiciary Hit 564

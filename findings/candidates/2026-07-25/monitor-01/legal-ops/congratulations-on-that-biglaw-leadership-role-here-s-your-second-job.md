@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-24-81678a9dea
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: congratulations-on-that-biglaw-leadership-role-here-s-your-second-job
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_id: cluster-2026-07-25-edabf79b94
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Congratulations On That Biglaw Leadership Role. Here’s Your Second Job.

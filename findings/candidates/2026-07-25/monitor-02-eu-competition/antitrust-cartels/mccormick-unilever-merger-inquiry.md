@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-24-61223e39d0
-cluster_size: 18
-cluster_role: sibling
-cluster_canonical_slug: mccormick-unilever-merger-inquiry
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_id: cluster-2026-07-25-e936f51953
+cluster_size: 15
+cluster_role: canonical
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # McCormick / Unilever merger inquiry

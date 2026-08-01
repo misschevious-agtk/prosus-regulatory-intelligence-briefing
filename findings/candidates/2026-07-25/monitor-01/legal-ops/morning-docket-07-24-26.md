@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-07-24-b901b8864e
-cluster_size: 13
-cluster_role: sibling
-cluster_canonical_slug: todd-blanche-can-t-admit-the-slush-fund-was-a-mistake-because-that-s-n
-ranked_at: '2026-07-31T09:46:23+00:00'
+cluster_id: cluster-2026-07-25-44af6a01b0
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-01T09:08:18+00:00'
 ---
 
 # Morning Docket: 07.24.26

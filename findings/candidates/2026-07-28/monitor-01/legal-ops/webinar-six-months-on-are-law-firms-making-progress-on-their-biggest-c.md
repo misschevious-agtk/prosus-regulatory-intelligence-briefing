@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-28-4d11992613
-cluster_size: 11
+cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Webinar: Six months on – Are law firms making progress on their biggest challenges?

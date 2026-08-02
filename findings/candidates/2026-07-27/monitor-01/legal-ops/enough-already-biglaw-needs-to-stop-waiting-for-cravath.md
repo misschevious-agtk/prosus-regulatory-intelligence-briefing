@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-25-0d57456b1b
-cluster_size: 3
+cluster_id: cluster-2026-07-26-521ccb27e4
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: enough-already-biglaw-needs-to-stop-waiting-for-cravath
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Enough Already: Biglaw Needs To Stop Waiting For Cravath

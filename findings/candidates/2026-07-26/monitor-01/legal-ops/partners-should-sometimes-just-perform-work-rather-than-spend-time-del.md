@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-25-8ad657917f
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: partners-should-sometimes-just-perform-work-rather-than-spend-time-del
-ranked_at: '2026-08-01T09:08:18+00:00'
+cluster_id: cluster-2026-07-26-adc01a851d
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Partners Should Sometimes Just Perform Work Rather Than Spend Time Delegating It To Associates

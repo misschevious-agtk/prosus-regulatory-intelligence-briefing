@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-25-861b1efd8d
-cluster_size: 3
+cluster_id: cluster-2026-07-26-459b3996e9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-facing-1-2-billion-malpractice-lawsuit-over-the-business-m
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Biglaw Firm Facing $1.2 Billion Malpractice Lawsuit Over The Business Model It Allegedly Built

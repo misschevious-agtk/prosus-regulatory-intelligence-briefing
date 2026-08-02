@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-30-0a6bef2c02
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-unexpected-downside-of-becoming-a-supreme-court-justice
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # The Unexpected ‘Downside’ Of Becoming A Supreme Court Justice

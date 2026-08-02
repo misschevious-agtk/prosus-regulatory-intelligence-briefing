@@ -21,11 +21,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-07-25-b393dfb282
-cluster_size: 512
+cluster_id: cluster-2026-07-26-c50c658f02
+cluster_size: 505
 cluster_role: sibling
 cluster_canonical_slug: commission-preliminary-finds-tiktok-in-breach-of-digital-services-act-
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest

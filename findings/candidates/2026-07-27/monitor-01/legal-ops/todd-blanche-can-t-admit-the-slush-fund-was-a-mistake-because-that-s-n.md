@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-25-82fba37739
-cluster_size: 6
+cluster_id: cluster-2026-07-26-1294fac6f4
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: todd-blanche-can-t-admit-the-slush-fund-was-a-mistake-because-that-s-n
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Todd Blanche Can’t Admit The Slush Fund Was A Mistake Because ‘That’s Not Proper MAGA Talk’ — See Also

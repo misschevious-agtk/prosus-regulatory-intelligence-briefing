@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-25-e529a8afee
-cluster_size: 4
+cluster_id: cluster-2026-07-26-2d5969cc69
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: perplexity-makes-its-move-into-legal-unveiling-industry-features-at-co
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event

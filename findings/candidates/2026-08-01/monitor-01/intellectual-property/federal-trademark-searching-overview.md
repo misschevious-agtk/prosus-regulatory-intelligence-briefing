@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-01-f65514d33f
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: federal-trademark-filing-overview
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Federal trademark searching: Overview

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-01-abc1e66732
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-anti-dei-crowd-is-coming-for-the-biglaw-pipeline-again
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # The Biglaw Love Shack — See Also

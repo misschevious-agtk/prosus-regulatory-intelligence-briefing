@@ -20,9 +20,9 @@ entities:
   matched_alias: DG COMP
 case_numbers: []
 cluster_id: cluster-2026-07-26-61063aa527
-cluster_size: 27
+cluster_size: 34
 cluster_role: canonical
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Competition Agencies Compute. The Law Still Assumes They Read.

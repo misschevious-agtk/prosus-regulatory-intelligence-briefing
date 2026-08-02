@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-30-ebc9c9a60d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # This Attorney Wouldn’t Let The Supreme Court Have The Last Word

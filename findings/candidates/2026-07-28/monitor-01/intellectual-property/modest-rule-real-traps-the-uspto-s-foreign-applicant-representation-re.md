@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-25-0e7680a21c
-cluster_size: 4
+cluster_id: cluster-2026-07-26-d1daa52f19
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: modest-rule-real-traps-the-uspto-s-foreign-applicant-representation-re
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Modest Rule, Real Traps: The USPTO’s Foreign-Applicant Representation Requirement Takes Effect July 20

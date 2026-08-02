@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-25-aba2d2c693
-cluster_size: 3
+cluster_id: cluster-2026-07-26-6386ccc7be
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-fretzin-rules-for-legal-business-development-success
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # The FRETZIN Rules For Legal Business Development Success

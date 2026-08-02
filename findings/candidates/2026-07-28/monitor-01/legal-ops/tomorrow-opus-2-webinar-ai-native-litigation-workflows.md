@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-26-469c8a52a2
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: tomorrow-opus-2-webinar-ai-native-litigation-workflows
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Tomorrow – Opus 2 Webinar: AI-Native Litigation Workflows

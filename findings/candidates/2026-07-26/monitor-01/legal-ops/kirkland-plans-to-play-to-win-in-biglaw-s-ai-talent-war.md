@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-25-15f4832d0f
-cluster_size: 15
+cluster_id: cluster-2026-07-26-d02d06e373
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: willkie-farr-partners-with-openai-to-develop-proprietary-ai-platforms-
-ranked_at: '2026-08-01T09:08:18+00:00'
+ranked_at: '2026-08-02T09:11:45+00:00'
 ---
 
 # Kirkland Plans To ‘Play To Win’ In Biglaw’s AI Talent War

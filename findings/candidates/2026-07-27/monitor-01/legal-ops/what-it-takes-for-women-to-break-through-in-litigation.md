@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-6ce62abcd2
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: what-it-takes-for-women-to-break-through-in-litigation
-ranked_at: '2026-08-02T09:11:45+00:00'
+cluster_id: cluster-2026-07-27-c0102440a2
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # What It Takes For Women To Break Through In Litigation

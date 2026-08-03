@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-26-511f151d7e
-cluster_size: 18
+cluster_id: cluster-2026-07-27-e967bc3c84
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: how-to-engage-with-the-cma-s-private-dental-services-market-study
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # eBay / Depop merger inquiry

@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-26-302b50de8a
-cluster_size: 159
+cluster_id: cluster-2026-07-27-775e1354d1
+cluster_size: 155
 cluster_role: sibling
 cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Reminder: Effective July 20—foreign-domiciled patent applicants and owners will be required to use a USPTO registered patent practitioner in correspondence with the USPTO

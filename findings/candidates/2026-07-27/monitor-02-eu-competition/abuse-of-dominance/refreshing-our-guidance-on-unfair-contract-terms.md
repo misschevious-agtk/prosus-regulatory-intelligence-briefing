@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-26-b95d05c0e3
-cluster_size: 131
+cluster_id: cluster-2026-07-27-f77c034d7a
+cluster_size: 106
 cluster_role: sibling
 cluster_canonical_slug: vets-market-investigation-draft-substantive-order-and-undertakings
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Refreshing our guidance on unfair contract terms

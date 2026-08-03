@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-28-166b331fdd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-jaunt-through-the-odyssey
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # A Jaunt Through ‘The Odyssey’

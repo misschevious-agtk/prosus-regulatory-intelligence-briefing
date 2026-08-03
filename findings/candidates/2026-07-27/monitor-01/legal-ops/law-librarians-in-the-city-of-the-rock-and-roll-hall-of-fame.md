@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-26f64b4a8d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: law-librarians-in-the-city-of-the-rock-and-roll-hall-of-fame
-ranked_at: '2026-08-02T09:11:45+00:00'
+cluster_id: cluster-2026-07-27-0b7d0d3476
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Law Librarians In The City Of The Rock And Roll Hall Of Fame

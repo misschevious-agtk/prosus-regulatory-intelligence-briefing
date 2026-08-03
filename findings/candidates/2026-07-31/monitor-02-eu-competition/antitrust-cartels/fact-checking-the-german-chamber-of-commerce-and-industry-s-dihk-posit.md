@@ -13,10 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-61063aa527
-cluster_size: 34
+cluster_id: cluster-2026-07-27-d8c43dde27
+cluster_size: 37
 cluster_role: sibling
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 cluster_canonical_slug: competition-agencies-compute-the-law-still-assumes-they-read
 ---
 

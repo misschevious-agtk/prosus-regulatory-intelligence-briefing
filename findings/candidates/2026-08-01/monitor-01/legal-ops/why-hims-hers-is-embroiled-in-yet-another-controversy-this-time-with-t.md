@@ -18,9 +18,9 @@ entities:
   matched_alias: FTC
 case_numbers: []
 cluster_id: cluster-2026-08-01-d8bd4f89f6
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Why Hims & Hers Is Embroiled In Yet Another Controversy, This Time With The FTC

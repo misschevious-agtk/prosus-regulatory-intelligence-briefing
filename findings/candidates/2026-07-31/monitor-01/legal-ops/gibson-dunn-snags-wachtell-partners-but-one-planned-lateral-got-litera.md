@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-28-9c229a1989
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: makeout-video-elevates-wachtell-to-the-internet-s-main-character
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Gibson Dunn Snags Wachtell Partners… But One Planned Lateral Got Literally & Figuratively Benched

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-31-12bf38fcb5
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: judge-james-ho-shakes-his-moneymaker-at-christian-legal-cabaret
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Judge James Ho Shakes His Moneymaker At Christian Legal Cabaret

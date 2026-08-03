@@ -23,10 +23,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-07-30-3e8102aada
-cluster_size: 135
+cluster_size: 168
 cluster_role: sibling
 cluster_canonical_slug: microsoft-consumer-protection-enforcement-case
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Google’s general search services: proposed conduct requirements

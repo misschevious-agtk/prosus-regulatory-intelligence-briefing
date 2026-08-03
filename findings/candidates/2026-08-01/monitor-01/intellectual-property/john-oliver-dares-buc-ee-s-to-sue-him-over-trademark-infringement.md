@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-31-5985aa9191
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: john-oliver-dares-buc-ee-s-to-sue-him-over-trademark-infringement
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # John Oliver Dares Buc-ee’s To Sue Him Over Trademark Infringement

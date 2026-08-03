@@ -19,7 +19,7 @@ cluster_id: cluster-2026-07-28-072a65f40a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-aba-opines-gov-lawyers-must-report-unlawful-condu
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Legal Ethics Roundup: ABA Opines Gov Lawyers Must Report Unlawful Conduct, Toronto Lawyer Suspended Over AI, Senate Bills On Judges’ Finances/FOIA & More

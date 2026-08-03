@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-28-b42590fd09
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # FRAND at the Pool Level

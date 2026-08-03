@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-ac4c9ff599
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: ptab-updates-standard-operating-procedure-1-on-assigning-judges-to-pan
-ranked_at: '2026-08-02T09:11:45+00:00'
+cluster_id: cluster-2026-07-27-bb4302a28a
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # PTAB updates Standard Operating Procedure 1 on assigning judges to panels

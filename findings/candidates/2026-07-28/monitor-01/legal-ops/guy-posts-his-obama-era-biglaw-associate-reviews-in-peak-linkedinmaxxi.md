@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-d911329fe5
-cluster_size: 3
+cluster_id: cluster-2026-07-27-0768cd8064
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: guy-posts-his-obama-era-biglaw-associate-reviews-in-peak-linkedinmaxxi
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Guy Posts His Obama-Era Biglaw Associate Reviews In Peak LinkedInMaxxing

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-820eb41675
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: netdocuments-adds-six-new-ndmax-studio-apps
-ranked_at: '2026-08-02T09:11:45+00:00'
+cluster_id: cluster-2026-07-27-b92d7a7948
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # NetDocuments adds six new ndMAX Studio apps

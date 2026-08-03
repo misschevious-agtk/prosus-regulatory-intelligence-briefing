@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-30-94da267ec2
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # AI For Criminal Defense: It’s An Issue Of Priorities. And Money.

@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-30-fbd1214bb5
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Japan officially joins Horizon Europe

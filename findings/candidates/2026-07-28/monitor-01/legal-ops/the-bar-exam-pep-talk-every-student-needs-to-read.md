@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-30-68944d9628
-cluster_size: 20
+cluster_size: 22
 cluster_role: sibling
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 cluster_canonical_slug: there-s-an-obvious-fix-for-washington-s-bar-exam-debacle
 ---
 

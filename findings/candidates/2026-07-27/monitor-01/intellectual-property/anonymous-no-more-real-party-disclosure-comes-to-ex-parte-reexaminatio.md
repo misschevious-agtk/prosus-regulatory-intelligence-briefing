@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-26-b3eba82d66
+cluster_id: cluster-2026-07-27-370deddc8a
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: anonymous-no-more-real-party-disclosure-comes-to-ex-parte-reexaminatio
-ranked_at: '2026-08-02T09:11:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Anonymous No More: Real-Party Disclosure Comes to Ex Parte Reexamination

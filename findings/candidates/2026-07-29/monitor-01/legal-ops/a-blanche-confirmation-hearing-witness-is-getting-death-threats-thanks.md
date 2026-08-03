@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-31-32240edf6f
-cluster_size: 36
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: replay-legaltech-week-for-07-24-26-free-legal-claude-connector-aall-re
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # A Blanche Confirmation Hearing Witness Is Getting Death Threats. Thanks, Sens. Hawley And Schmitt!

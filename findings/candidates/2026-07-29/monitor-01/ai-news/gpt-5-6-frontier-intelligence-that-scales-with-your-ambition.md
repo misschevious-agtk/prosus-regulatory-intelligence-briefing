@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-c50c658f02
-cluster_size: 505
+cluster_id: cluster-2026-07-27-837902a5a5
+cluster_size: 499
 cluster_role: sibling
 cluster_canonical_slug: commission-preliminary-finds-tiktok-in-breach-of-digital-services-act-
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # GPT-5.6: Frontier intelligence that scales with your ambition

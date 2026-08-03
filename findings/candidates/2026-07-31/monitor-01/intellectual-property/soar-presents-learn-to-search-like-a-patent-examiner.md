@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-302b50de8a
-cluster_size: 159
+cluster_id: cluster-2026-07-27-775e1354d1
+cluster_size: 155
 cluster_role: sibling
 cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # SOAR presents - Learn to search like a patent examiner

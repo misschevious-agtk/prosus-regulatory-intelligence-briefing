@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-5eae3ddb9f
+cluster_id: cluster-2026-07-27-25100eb77d
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: sedlik-en-banc-a-menu-for-replacing-copyright-s-intrinsic-test
-ranked_at: '2026-08-02T09:11:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Sedlik en Banc: A Menu for Replacing Copyright’s Intrinsic Test

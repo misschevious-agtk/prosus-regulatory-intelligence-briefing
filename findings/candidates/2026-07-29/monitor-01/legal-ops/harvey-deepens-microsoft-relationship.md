@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-601dd44c4d
-cluster_size: 18
+cluster_id: cluster-2026-07-27-73906871a0
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: microsoft-s-corporate-external-and-legal-affairs-team-selects-harvey
-ranked_at: '2026-08-02T09:11:45+00:00'
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # Harvey Deepens Microsoft Relationship

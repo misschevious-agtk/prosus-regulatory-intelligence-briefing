@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-26-36e9542de6
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: fast-to-deny-slow-to-grant-the-range-of-motion-en-banc-petition-at-102
-ranked_at: '2026-08-02T09:11:45+00:00'
+cluster_id: cluster-2026-07-27-105079fd9d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-03T10:45:13+00:00'
 ---
 
 # The Survivors: IPR Petition Filings Stay Low and Highly Targeted in 2026

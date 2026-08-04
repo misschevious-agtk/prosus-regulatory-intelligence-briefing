@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-27-4af714c736
-cluster_size: 8
+cluster_id: cluster-2026-07-28-b964730211
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: willkie-farr-partners-with-openai-to-develop-proprietary-ai-platforms-
-ranked_at: '2026-08-03T10:45:13+00:00'
+cluster_canonical_slug: start-up-corner-lexidesk-an-ai-receptionist-for-law-firms
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # US Law Firm Willkie Partners With OpenAI

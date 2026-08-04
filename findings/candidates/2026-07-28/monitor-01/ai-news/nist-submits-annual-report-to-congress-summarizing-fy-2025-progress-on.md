@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-27-5bfb109311
+cluster_id: cluster-2026-07-28-005f0a3f06
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-submits-annual-report-to-congress-summarizing-fy-2025-progress-on
-ranked_at: '2026-08-03T10:45:13+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # NIST Submits Annual Report to Congress Summarizing FY 2025 Progress on National Construction Safety Team Investigations

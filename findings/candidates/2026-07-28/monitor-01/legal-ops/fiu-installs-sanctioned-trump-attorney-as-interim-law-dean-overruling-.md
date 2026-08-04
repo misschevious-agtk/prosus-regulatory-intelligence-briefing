@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-28-651a40c3c9
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # FIU Installs Sanctioned Trump Attorney As Interim Law Dean, Overruling Its Own Search Committee

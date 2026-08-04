@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-29-158cbac4c1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: selling-the-skinny
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # Selling The Skinny

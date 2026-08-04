@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-28-eafffdd140
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # Daily Deal: ExamsDigest for CompTIA, AWS, Microsoft & More

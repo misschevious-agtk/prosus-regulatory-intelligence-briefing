@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-27-fcd3f6ff32
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: tomorrow-opus-2-webinar-ai-native-litigation-workflows
-ranked_at: '2026-08-03T10:45:13+00:00'
+cluster_id: cluster-2026-07-28-71a9ab1e7a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # Tomorrow – Opus 2 Webinar: AI-Native Litigation Workflows

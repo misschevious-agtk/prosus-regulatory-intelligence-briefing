@@ -18,9 +18,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-30-debbf220bc
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # 1,741 “informed” consents with one click?! GDPR complaint against dict.cc filed

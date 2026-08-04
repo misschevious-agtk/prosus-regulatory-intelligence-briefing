@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-27-775e1354d1
-cluster_size: 155
+cluster_id: cluster-2026-07-28-04f5ad6bf4
+cluster_size: 149
 cluster_role: sibling
-cluster_canonical_slug: patent-trial-and-appeal-board-launches-updated-landing-and-statistics-
-ranked_at: '2026-08-03T10:45:13+00:00'
+cluster_canonical_slug: new-homepage-redesign-coming-to-uspto-gov
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # New in Trademark Center: bulk forms, extension requests, and registration certificates

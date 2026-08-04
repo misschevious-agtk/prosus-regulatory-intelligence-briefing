@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-28-c0a09d602e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: banning-technology-a-balk-that-should-be-called
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # Banning Technology: A Balk That Should Be Called

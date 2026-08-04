@@ -21,11 +21,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-27-7871f95887
-cluster_size: 24
-cluster_role: sibling
-cluster_canonical_slug: the-european-commission-hits-the-nail-on-the-head-in-its-dma-specifica
-ranked_at: '2026-08-03T10:45:13+00:00'
+cluster_id: cluster-2026-07-28-d7213855d4
+cluster_size: 21
+cluster_role: canonical
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # The European Commission Hits the Nail on the Head in its DMA Specification Decision Forcing Google to Allow Access to its Search Data

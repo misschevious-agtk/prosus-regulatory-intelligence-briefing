@@ -18,10 +18,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-08-01-d3523b6d1e
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-to-gain-visibility-through-featured-snippets
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # How To Gain Visibility Through Featured Snippets

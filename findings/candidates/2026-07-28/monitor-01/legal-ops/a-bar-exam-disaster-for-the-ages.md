@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-30-68944d9628
-cluster_size: 22
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: there-s-an-obvious-fix-for-washington-s-bar-exam-debacle
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # A Bar Exam Disaster For The Ages

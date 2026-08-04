@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-31-e22e29a0fb
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: 50-public-speaking-tips-every-young-lawyer-should-learn
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # 50 Public Speaking Tips Every Young Lawyer Should Learn

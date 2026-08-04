@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-30-ebc9c9a60d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-attorney-wouldn-t-let-the-supreme-court-have-the-last-word
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # This Attorney Wouldn’t Let The Supreme Court Have The Last Word

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-27-e967bc3c84
-cluster_size: 12
+cluster_id: cluster-2026-07-28-c7b8d1c776
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: how-to-engage-with-the-cma-s-private-dental-services-market-study
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # How to engage with the CMA’s private dental services market study

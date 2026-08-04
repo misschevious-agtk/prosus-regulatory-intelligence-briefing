@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-07-27-852fc0fec5
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: biglaw-partner-associate-public-makeout-sesh-posted-on-social-media
-ranked_at: '2026-08-03T10:45:13+00:00'
+cluster_id: cluster-2026-07-28-3aff6a54d6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # Partner And Associate, Sittin’ In A Tree — See Also

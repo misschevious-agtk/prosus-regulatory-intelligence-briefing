@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-07-27-69f0b2230d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: doj-to-judge-no-one-was-trying-to-pull-a-fast-one-judge-these-things-a
-ranked_at: '2026-08-03T10:45:13+00:00'
+cluster_id: cluster-2026-07-28-0a85e52598
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # DOJ To Judge: ‘No One Was Trying To Pull A Fast One.’ Judge: ‘These Things Are Starting To Pile Up.’

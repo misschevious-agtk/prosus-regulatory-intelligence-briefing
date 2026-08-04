@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-01-587f57a39b
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: associate-compensation-scoreboard-milbank-unleashes-special-bonuses-an
-ranked_at: '2026-08-03T10:45:13+00:00'
+ranked_at: '2026-08-04T09:41:45+00:00'
 ---
 
 # Associate Compensation Scoreboard: Milbank Unleashes Special Bonuses And Biglaw Continues To Wait For Cravath

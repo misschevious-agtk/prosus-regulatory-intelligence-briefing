@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-c0a09d602e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: banning-technology-a-balk-that-should-be-called
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_id: cluster-2026-07-29-595a7a77c0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Banning Technology: A Balk That Should Be Called

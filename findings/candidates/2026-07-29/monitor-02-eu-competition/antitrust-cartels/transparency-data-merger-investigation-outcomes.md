@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-28-c3b8e38b57
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: transparency-data-merger-investigation-outcomes
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_id: cluster-2026-07-29-e7529b11f6
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Transparency data: Merger investigation outcomes

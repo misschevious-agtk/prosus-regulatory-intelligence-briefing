@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-28-9576a84d78
-cluster_size: 12
+cluster_id: cluster-2026-07-29-05229365c5
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: nexfibre-substantial-merger-inquiry
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # nexfibre / Substantial merger inquiry

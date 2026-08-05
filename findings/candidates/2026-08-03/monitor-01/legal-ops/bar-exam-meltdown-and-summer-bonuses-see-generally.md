@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-03-d41c9ff268
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Bar Exam Meltdown And Summer Bonuses — See Generally

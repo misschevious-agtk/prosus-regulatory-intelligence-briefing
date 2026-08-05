@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-04-6f4e357f40
-cluster_size: 3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: paul-weiss-s-multimillion-dollar-secret-deal-to-get-its-first-openly-t
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # The Explosive Look Inside Paul, Weiss — See Also

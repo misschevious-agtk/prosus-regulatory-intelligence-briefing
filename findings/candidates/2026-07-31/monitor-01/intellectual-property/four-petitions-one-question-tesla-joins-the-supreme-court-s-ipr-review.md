@@ -26,9 +26,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-07-31-ddb1a18ea4
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Four Petitions, One Question: Tesla Joins the Supreme Court’s IPR Reviewability Docket

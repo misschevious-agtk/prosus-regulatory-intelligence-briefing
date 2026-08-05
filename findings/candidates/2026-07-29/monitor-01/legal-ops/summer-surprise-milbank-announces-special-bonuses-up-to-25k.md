@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-1abbb4bb8a
-cluster_size: 5
+cluster_id: cluster-2026-07-29-bbcfe82077
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: milbank-is-paying-their-associates-even-more-money-see-also
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Summer Surprise: Milbank Announces Special Bonuses Up To $25K

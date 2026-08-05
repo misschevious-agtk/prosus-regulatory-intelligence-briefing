@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-30-e8742abcbc
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: s-c-s-bob-giuffra-put-his-name-on-the-trump-scotus-petition-he-was-goi
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # S&C’s Bob Giuffra Put His Name On The Trump SCOTUS Petition He Was Going To Stay Away From

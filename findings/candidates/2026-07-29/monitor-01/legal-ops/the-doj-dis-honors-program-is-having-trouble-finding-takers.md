@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-07-28-f022e4bc9a
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-doj-dis-honors-program-is-having-trouble-finding-takers
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_id: cluster-2026-07-29-8cbc6a8a5f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # The DOJ (Dis)Honors Program Is Having Trouble Finding Takers

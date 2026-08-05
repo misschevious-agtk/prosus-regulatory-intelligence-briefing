@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-31-d8ca8b8dea
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-approval-hits-rock-bottom-as-public-confidence-continues
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Supreme Court Approval Hits Rock Bottom As Public Confidence Continues To Crater

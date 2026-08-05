@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-63dc9bbfe9
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: intapp-bets-on-firm-ai-with-general-release-of-celeste
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_id: cluster-2026-07-29-326023f3d4
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Intapp bets on ‘firm AI’ with general release of Celeste

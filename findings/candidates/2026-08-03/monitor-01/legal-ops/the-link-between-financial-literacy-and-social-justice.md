@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-01-3c9a461ba5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-link-between-financial-literacy-and-social-justice
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # The Link Between Financial Literacy And Social Justice

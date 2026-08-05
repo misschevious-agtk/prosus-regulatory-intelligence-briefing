@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-ef3cfcb626
-cluster_size: 15
-cluster_role: sibling
-cluster_canonical_slug: microsoft-s-corporate-external-and-legal-affairs-team-selects-harvey
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_id: cluster-2026-07-29-7d210ce8d7
+cluster_size: 14
+cluster_role: canonical
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Microsoft’s Own Legal Department Will Use Harvey, As the Two Companies Deepen Their Alliance

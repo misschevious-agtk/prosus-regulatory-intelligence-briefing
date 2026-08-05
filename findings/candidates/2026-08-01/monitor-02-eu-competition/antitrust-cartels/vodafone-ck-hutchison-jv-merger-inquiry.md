@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-07-30-3e8102aada
-cluster_size: 198
+cluster_size: 228
 cluster_role: sibling
 cluster_canonical_slug: microsoft-consumer-protection-enforcement-case
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Vodafone / CK Hutchison JV merger inquiry

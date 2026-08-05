@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-28-704f30916f
-cluster_size: 497
+cluster_id: cluster-2026-07-29-6e3d9218ed
+cluster_size: 494
 cluster_role: sibling
-cluster_canonical_slug: commission-preliminary-finds-tiktok-in-breach-of-digital-services-act-
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_canonical_slug: eu-state-aid-rules-enable-social-support-and-investments-new-commissio
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Advancing the next era of national science

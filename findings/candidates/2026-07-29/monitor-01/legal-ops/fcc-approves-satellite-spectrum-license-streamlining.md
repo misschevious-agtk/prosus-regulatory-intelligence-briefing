@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-305da3ed80
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: fcc-approves-satellite-spectrum-license-streamlining
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_id: cluster-2026-07-29-a0aa0d51a9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # FCC Approves Satellite Spectrum License Streamlining

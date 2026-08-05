@@ -22,9 +22,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-07-31-32240edf6f
-cluster_size: 43
+cluster_size: 40
 cluster_role: canonical
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Replay – Legaltech Week for 07/24/26: Free Legal Claude Connector, AALL recap, OpenAI’s rogue model, and more

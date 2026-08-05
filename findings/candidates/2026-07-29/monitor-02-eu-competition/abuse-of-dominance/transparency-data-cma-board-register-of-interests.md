@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-28-fd5f3fb08a
-cluster_size: 6
+cluster_id: cluster-2026-07-29-d980498802
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-board-register-of-interests
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Transparency data: CMA board: register of interests

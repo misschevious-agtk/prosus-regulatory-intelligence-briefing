@@ -23,11 +23,11 @@ match_count: 11
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-01cef9cbde
+cluster_id: cluster-2026-07-29-82f99d51b1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-microsoft-365-education-may-not-track-school-children
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # noyb win: Microsoft 365 Education may not track school children

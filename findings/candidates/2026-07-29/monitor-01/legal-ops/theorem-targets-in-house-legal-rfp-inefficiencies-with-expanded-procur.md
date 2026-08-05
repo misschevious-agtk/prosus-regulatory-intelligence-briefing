@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-014270376a
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: theorem-targets-in-house-legal-rfp-inefficiencies-with-expanded-procur
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_id: cluster-2026-07-29-d999fa8a0f
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Theorem targets in-house legal RFP inefficiencies with expanded procurement platform

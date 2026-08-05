@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-41b45b24e9
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: this-viral-lawyer-zodiac-breakdown-is-painfully-accurate
-ranked_at: '2026-08-04T09:41:45+00:00'
+cluster_id: cluster-2026-07-29-bbfccf47dc
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # This Viral Lawyer Zodiac Breakdown Is Painfully Accurate

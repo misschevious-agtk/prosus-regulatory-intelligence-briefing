@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-28-9c229a1989
-cluster_size: 4
+cluster_id: cluster-2026-07-29-df30f0c860
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: makeout-video-elevates-wachtell-to-the-internet-s-main-character
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Gibson Dunn Snags Wachtell Partners… But One Planned Lateral Got Literally & Figuratively Benched

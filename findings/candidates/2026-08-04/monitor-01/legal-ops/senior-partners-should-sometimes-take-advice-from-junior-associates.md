@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-01-513d4e524f
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: senior-partners-should-sometimes-take-advice-from-junior-associates
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Senior Partners Should Sometimes Take Advice From Junior Associates

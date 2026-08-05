@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-30-9316d13f77
-cluster_size: 18
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: spanish-fdi-and-government-controlled-entities
-ranked_at: '2026-08-04T09:41:45+00:00'
+ranked_at: '2026-08-05T09:39:32+00:00'
 ---
 
 # Spanish FDI and Government-Controlled Entities

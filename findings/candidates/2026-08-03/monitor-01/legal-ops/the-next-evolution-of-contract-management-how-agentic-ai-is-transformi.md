@@ -18,7 +18,7 @@ cluster_id: cluster-2026-07-31-937368ba55
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-next-evolution-of-contract-management-how-agentic-ai-is-transformi
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops

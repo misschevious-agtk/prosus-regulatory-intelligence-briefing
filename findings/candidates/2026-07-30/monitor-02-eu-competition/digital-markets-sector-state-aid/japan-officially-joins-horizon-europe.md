@@ -21,7 +21,7 @@ cluster_id: cluster-2026-07-30-fbd1214bb5
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: japan-officially-joins-horizon-europe
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Japan officially joins Horizon Europe

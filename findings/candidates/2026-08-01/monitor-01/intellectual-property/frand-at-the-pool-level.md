@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-4c67979b17
+cluster_id: cluster-2026-07-30-d7ea305e0f
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: frand-at-the-pool-level
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # FRAND at the Pool Level

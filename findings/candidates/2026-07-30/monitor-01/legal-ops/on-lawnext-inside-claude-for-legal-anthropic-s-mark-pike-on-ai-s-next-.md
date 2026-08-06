@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-07-29-5e9ac76e5f
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: on-lawnext-inside-claude-for-legal-anthropic-s-mark-pike-on-ai-s-next-
-ranked_at: '2026-08-05T09:39:32+00:00'
+cluster_id: cluster-2026-07-30-a020126787
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # On LawNext: Inside Claude for Legal — Anthropic’s Mark Pike on AI’s Next Frontier in Law

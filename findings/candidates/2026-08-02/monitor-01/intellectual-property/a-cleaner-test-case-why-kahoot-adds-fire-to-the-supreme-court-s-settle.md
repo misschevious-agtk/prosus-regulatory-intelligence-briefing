@@ -25,11 +25,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-29-92f6821b20
-cluster_size: 8
+cluster_id: cluster-2026-07-30-68331b2c20
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: a-cleaner-test-case-why-kahoot-adds-fire-to-the-supreme-court-s-settle
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # A Cleaner Test Case: Why Kahoot! Adds Fire to the Supreme Court’s Settled Expectations Docket

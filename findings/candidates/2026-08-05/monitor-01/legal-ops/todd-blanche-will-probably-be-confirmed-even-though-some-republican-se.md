@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-05-d547e6ae21
-cluster_size: 1
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Todd Blanche Will Probably Be Confirmed Even Though Some Republican Senators Are Performatively On The Fence

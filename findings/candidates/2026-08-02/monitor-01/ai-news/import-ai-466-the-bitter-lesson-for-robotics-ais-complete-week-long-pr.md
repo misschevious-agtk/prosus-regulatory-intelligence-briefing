@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-29-6e3d9218ed
-cluster_size: 494
+cluster_id: cluster-2026-07-30-e118a1e0d4
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: eu-state-aid-rules-enable-social-support-and-investments-new-commissio
-ranked_at: '2026-08-05T09:39:32+00:00'
+cluster_canonical_slug: import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-pr
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker

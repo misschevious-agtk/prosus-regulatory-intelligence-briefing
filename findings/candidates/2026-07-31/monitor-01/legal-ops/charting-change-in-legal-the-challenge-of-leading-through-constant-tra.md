@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-a84fdb0d80
-cluster_size: 14
+cluster_id: cluster-2026-07-30-67b6ec3a18
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: webinar-six-months-on-are-law-firms-making-progress-on-their-biggest-c
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Charting Change in Legal: The challenge of leading through constant transformation

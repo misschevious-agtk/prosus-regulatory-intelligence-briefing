@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-30-68944d9628
-cluster_size: 21
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: there-s-an-obvious-fix-for-washington-s-bar-exam-debacle
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # The Bar Exam That Went So Horribly Wrong The Whole Thing Got Canceled — See Also

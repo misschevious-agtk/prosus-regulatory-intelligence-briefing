@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-d839cde110
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-fails-to-file-promised-birthright-citizenship-rehearing-before-d
-ranked_at: '2026-08-05T09:39:32+00:00'
+cluster_id: cluster-2026-07-30-39619c5c7b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Trump Fails To File Promised Birthright Citizenship Rehearing Before Deadline

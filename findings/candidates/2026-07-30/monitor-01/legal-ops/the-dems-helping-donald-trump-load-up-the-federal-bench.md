@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-9ca3637b19
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-dems-helping-donald-trump-load-up-the-federal-bench
-ranked_at: '2026-08-05T09:39:32+00:00'
+cluster_id: cluster-2026-07-30-687fd4f9e8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # The Dems Helping Donald Trump Load Up The Federal Bench

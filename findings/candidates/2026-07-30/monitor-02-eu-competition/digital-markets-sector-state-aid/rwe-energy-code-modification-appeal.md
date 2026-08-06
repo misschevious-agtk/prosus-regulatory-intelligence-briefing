@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-07-29-9067783ab2
-cluster_size: 56
+cluster_id: cluster-2026-07-30-b9214f9d7f
+cluster_size: 15
 cluster_role: sibling
-cluster_canonical_slug: vets-market-investigation-draft-substantive-order-and-undertakings
-ranked_at: '2026-08-05T09:39:32+00:00'
+cluster_canonical_slug: co-operative-group-southern-co-operative-merger-inquiry
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # RWE energy code modification appeal

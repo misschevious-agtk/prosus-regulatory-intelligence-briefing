@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-07-29-f64f6eaca7
-cluster_size: 6
+cluster_id: cluster-2026-07-30-4ba75b47fc
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: lexis-spellbook-google-legal-innovators-nordics
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Lexis $$$, Spellbook / Google, Legal Innovators Nordics

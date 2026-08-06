@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-7d210ce8d7
-cluster_size: 14
+cluster_id: cluster-2026-07-30-ce85046124
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: microsoft-s-own-legal-department-will-use-harvey-as-the-two-companies-
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Harvey Deepens Microsoft Relationship

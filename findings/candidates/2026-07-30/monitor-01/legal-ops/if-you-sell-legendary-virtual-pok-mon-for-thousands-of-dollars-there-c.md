@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-30-7a406a1152
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # If You Sell Legendary Virtual Pokémon For Thousands Of Dollars, There Could Be Tax Consequences In The Real World

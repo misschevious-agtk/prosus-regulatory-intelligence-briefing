@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-68d94f7c5c
-cluster_size: 144
+cluster_id: cluster-2026-07-30-f318935720
+cluster_size: 140
 cluster_role: sibling
 cluster_canonical_slug: new-homepage-redesign-coming-to-uspto-gov
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # SOAR presents - Learn to search like a patent examiner

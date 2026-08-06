@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-07-30-68944d9628
-cluster_size: 21
+cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-08-05T09:39:32+00:00'
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # There’s An Obvious Fix For Washington’s Bar Exam Debacle

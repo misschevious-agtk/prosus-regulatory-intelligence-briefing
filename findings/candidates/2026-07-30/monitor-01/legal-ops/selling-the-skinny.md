@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-158cbac4c1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: selling-the-skinny
-ranked_at: '2026-08-05T09:39:32+00:00'
+cluster_id: cluster-2026-07-30-de2c203051
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Selling The Skinny

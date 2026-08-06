@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-05-0e64ce054b
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-08-05T09:39:32+00:00'
+cluster_id: cluster-2026-08-01-058cbef276
+cluster_size: 510
+cluster_role: sibling
+ranked_at: '2026-08-06T09:42:15+00:00'
+cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
 ---
 
 # EU receives €1.4 billion in revenue from immobilised Russian assets to be used for supporting Ukraine

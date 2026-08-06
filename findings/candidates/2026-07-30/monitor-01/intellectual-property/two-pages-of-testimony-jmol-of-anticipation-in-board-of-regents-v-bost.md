@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-29-c506a0f8d9
+cluster_id: cluster-2026-07-30-d6398efbed
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: two-pages-of-testimony-jmol-of-anticipation-in-board-of-regents-v-bost
-ranked_at: '2026-08-05T09:39:32+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-06T09:42:15+00:00'
 ---
 
 # Two Pages of Testimony: JMOL of Anticipation in Board of Regents v. Boston Scientific

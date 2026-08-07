@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-01-0f31bd1f7f
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Rejection Is Not Denial: What a Final Office Action Actually Costs

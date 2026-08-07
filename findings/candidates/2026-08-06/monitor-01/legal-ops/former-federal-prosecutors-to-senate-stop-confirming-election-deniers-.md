@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-06-ace17224f4
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-08-06T09:42:15+00:00'
+cluster_id: cluster-2026-08-05-ac690eb2d3
+cluster_size: 12
+cluster_role: sibling
+ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_canonical_slug: why-an-extra-2-million-isn-t-enough-to-poach-biglaw-s-top-partners
 ---
 
 # Former Federal Prosecutors To Senate: Stop Confirming Election Deniers To The Federal Bench

@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-01-86d5f65a17
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Foot Anstey selects iManage Cloud supported by Tiger Eye

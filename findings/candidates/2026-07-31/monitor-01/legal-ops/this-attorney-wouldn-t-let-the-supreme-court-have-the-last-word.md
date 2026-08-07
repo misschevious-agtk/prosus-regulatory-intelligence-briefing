@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-30-ebc9c9a60d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: this-attorney-wouldn-t-let-the-supreme-court-have-the-last-word
-ranked_at: '2026-08-06T09:42:15+00:00'
+cluster_id: cluster-2026-07-31-915e0cdd76
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # This Attorney Wouldn’t Let The Supreme Court Have The Last Word

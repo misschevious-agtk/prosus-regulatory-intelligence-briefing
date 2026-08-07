@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-01-058cbef276
-cluster_size: 510
+cluster_id: cluster-2026-07-31-6828009e8b
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-06T09:42:15+00:00'
+cluster_canonical_slug: commission-opens-in-depth-investigation-into-arbitration-award-orderin
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Commission opens in-depth investigation into arbitration award ordering Romania to pay compensation to ten energy investors

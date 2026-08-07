@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-05-ac690eb2d3
-cluster_size: 4
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: why-an-extra-2-million-isn-t-enough-to-poach-biglaw-s-top-partners
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Biglaw Firm Goes Even Bigger With Largest Group Hire In Firm History

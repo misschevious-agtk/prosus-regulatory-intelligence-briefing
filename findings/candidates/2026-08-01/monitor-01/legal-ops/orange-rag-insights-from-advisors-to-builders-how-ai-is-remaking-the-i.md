@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-30-a2855c90a3
-cluster_size: 11
+cluster_id: cluster-2026-07-31-f1af27dd2c
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: orange-rag-insights-from-advisors-to-builders-how-ai-is-remaking-the-i
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Orange Rag Insights: From advisors to builders – How AI is remaking the in-house lawyer

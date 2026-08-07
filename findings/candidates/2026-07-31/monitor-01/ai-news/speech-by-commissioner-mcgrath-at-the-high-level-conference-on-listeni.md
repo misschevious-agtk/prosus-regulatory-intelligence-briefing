@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-07-31-2f5c2094e0
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Speech by Commissioner McGrath at the High-Level Conference on Listening to Children and Young People - Challenges in Challenging Settings

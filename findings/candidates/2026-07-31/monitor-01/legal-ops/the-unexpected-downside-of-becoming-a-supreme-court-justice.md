@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-30-0a6bef2c02
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-unexpected-downside-of-becoming-a-supreme-court-justice
-ranked_at: '2026-08-06T09:42:15+00:00'
+cluster_id: cluster-2026-07-31-4ad386caf2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # The Unexpected ‘Downside’ Of Becoming A Supreme Court Justice

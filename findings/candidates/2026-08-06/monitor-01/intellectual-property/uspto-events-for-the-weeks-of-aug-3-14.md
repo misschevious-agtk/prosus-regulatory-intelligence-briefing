@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-30-f318935720
-cluster_size: 140
+cluster_id: cluster-2026-07-31-04be12631e
+cluster_size: 129
 cluster_role: sibling
 cluster_canonical_slug: new-homepage-redesign-coming-to-uspto-gov
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # USPTO events for the weeks of Aug. 3-14

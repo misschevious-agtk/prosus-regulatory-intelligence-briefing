@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-05-09dcb2553f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: linkedin-is-the-golden-goose-for-introverted-lawyers-5-ways-to-get-com
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # LinkedIn Is The Golden Goose For Introverted Lawyers: 5 Ways To Get Comfortable With Discomfort In Legal Business Development

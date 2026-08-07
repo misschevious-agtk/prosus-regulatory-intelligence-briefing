@@ -17,7 +17,7 @@ cluster_id: cluster-2026-07-31-cab8bd9661
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: interactive-exercises-for-lawyer-training-get-off-my-lawn
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Interactive Exercises For Lawyer Training: Get Off My Lawn

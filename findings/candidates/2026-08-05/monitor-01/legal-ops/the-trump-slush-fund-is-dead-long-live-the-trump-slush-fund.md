@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-05-b89d1692d4
-cluster_size: 7
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-08-04-26
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # The Trump Slush Fund Is Dead. Long Live The Trump Slush Fund.

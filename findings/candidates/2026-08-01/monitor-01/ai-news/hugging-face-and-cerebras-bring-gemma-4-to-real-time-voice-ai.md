@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-30-e0b1b1dbe6
-cluster_size: 8
+cluster_id: cluster-2026-08-01-058cbef276
+cluster_size: 523
 cluster_role: sibling
-cluster_canonical_slug: hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai
-ranked_at: '2026-08-06T09:42:15+00:00'
+cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Hugging Face and Cerebras bring Gemma 4 to real-time voice AI

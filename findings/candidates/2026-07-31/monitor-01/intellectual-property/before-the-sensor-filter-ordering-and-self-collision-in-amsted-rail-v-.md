@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-30-4597050373
+cluster_id: cluster-2026-07-31-844daccaa7
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: before-the-sensor-filter-ordering-and-self-collision-in-amsted-rail-v-
-ranked_at: '2026-08-06T09:42:15+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Before the Sensor: Filter Ordering and Self-Collision in Amsted Rail v. Squires

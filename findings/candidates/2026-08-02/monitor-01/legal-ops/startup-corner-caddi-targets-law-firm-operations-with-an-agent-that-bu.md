@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-01-7c44091b71
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: startup-corner-caddi-targets-law-firm-operations-with-an-agent-that-bu
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Startup Corner: Caddi targets law firm operations with an ‘agent that build agents’

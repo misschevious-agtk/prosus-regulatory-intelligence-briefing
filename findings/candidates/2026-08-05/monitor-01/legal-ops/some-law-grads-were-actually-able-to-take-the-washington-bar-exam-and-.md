@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-04-9288c89f69
-cluster_size: 3
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: some-law-grads-were-actually-able-to-take-the-washington-bar-exam-and-
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Some Law Grads Were Actually Able To Take The Washington Bar Exam — And They Deserve Diploma Privilege Too

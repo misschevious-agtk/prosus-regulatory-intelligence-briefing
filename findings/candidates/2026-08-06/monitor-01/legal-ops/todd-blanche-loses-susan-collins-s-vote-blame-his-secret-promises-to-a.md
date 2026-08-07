@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-d547e6ae21
-cluster_size: 3
+cluster_id: cluster-2026-08-05-b89d1692d4
+cluster_size: 14
 cluster_role: sibling
-cluster_canonical_slug: todd-blanche-will-probably-be-confirmed-even-though-some-republican-se
-ranked_at: '2026-08-06T09:42:15+00:00'
+cluster_canonical_slug: morning-docket-08-04-26
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Todd Blanche Loses Susan Collins’s Vote. Blame His Secret Promises To Anti-Abortion Groups.

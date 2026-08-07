@@ -20,9 +20,9 @@ entities:
   matched_alias: General Court
 case_numbers: []
 cluster_id: cluster-2026-08-04-3ceb8c54e2
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # The most important part of a patent specification is … the pictures (at least for design law)

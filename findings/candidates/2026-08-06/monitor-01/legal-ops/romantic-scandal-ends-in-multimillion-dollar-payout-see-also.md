@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-05-db0fa8b35f
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: romantic-scandal-ends-in-multimillion-dollar-payout-see-also
-ranked_at: '2026-08-06T09:42:15+00:00'
+ranked_at: '2026-08-07T08:15:37+00:00'
 ---
 
 # Romantic Scandal Ends In Multimillion-Dollar Payout — See Also

@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-01-058cbef276
-cluster_size: 523
+cluster_id: cluster-2026-08-05-cfb50a4862
+cluster_size: 20
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_canonical_slug: remarks-by-commissioner-brunner-on-the-situation-in-ceuta
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Remarks by Commissioner Brunner on the situation in Ceuta

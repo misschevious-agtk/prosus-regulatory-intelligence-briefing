@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-31-a62102ecc0
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: louisiana-supreme-court-forcibly-recuses-its-own-chief-justice
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_id: cluster-2026-08-01-7a7063a3cb
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Louisiana Supreme Court Forcibly Recuses Its Own Chief Justice

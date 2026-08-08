@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-a316f12fe7
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_id: cluster-2026-08-08-d21e135625
+cluster_size: 3
+cluster_role: sibling
+ranked_at: '2026-08-08T07:50:32+00:00'
+cluster_canonical_slug: startup-corner-lawdie-the-ai-back-office-for-law-firms
 ---
 
 # Exclusive: Coming Out of Stealth, Paravo Launches What It Calls the First AI ‘Revenue Engine’ for Law Firms

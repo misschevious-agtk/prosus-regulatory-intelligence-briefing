@@ -21,9 +21,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-01-058cbef276
-cluster_size: 523
+cluster_size: 516
 cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Commission approves €290 million Dutch State aid to support sustainable aviation fuels

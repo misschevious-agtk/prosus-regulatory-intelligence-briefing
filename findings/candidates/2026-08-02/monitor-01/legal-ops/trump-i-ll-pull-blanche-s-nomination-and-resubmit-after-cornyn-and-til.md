@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-31-32240edf6f
-cluster_size: 32
+cluster_id: cluster-2026-08-01-9e5efc2aea
+cluster_size: 17
 cluster_role: sibling
-cluster_canonical_slug: replay-legaltech-week-for-07-24-26-free-legal-claude-connector-aall-re
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_canonical_slug: morning-docket-07-31-26
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Trump: I’ll Pull Blanche’s Nomination And Resubmit After Cornyn And Tillis Are Gone. Cornyn: Cool, Roll The Dice.

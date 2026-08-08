@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-03-d41c9ff268
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: bar-exam-meltdown-and-summer-bonuses-see-generally
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Bar Exam Meltdown And Summer Bonuses — See Generally

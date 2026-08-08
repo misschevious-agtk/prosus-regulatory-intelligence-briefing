@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-01-058cbef276
-cluster_size: 523
+cluster_size: 516
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # [Guest post]  Long walk to copyright reform #12: The Constitutional Court clarifies the constitutional anatomy of South Africa's copyright exceptions

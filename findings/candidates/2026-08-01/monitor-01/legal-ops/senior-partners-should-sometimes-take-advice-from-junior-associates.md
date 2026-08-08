@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-01-513d4e524f
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Senior Partners Should Sometimes Take Advice From Junior Associates

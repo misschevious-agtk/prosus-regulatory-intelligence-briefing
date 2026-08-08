@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-06-ba4d3638e7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: will-trump-s-tariffs-be-reversed-after-he-leaves-office
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Will Trump’s Tariffs Be Reversed After He Leaves Office?

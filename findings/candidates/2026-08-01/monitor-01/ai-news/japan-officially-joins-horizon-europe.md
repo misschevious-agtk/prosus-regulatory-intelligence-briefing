@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-31-d679815c5e
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: japan-officially-joins-horizon-europe
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_id: cluster-2026-08-01-9dff6c6ae6
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Japan officially joins Horizon Europe

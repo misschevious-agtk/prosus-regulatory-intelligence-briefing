@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-05-4ad243742f
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Universal Migrator helps closing startups offboard customers and reduce legal risk

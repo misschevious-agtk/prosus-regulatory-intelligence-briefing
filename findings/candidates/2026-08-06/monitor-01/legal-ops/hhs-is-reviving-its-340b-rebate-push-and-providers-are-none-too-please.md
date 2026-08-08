@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-06-974942da06
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # HHS Is Reviving Its 340B Rebate Push — And Providers Are None Too Pleased

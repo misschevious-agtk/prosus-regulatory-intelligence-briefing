@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-04-7cca029813
-cluster_size: 40
+cluster_size: 59
 cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Vets market investigation: draft substantive Order and Undertakings

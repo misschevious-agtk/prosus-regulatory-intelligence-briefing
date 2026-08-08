@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-b89d1692d4
-cluster_size: 14
+cluster_id: cluster-2026-08-04-9288c89f69
+cluster_size: 46
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-08-04-26
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_canonical_slug: some-law-grads-were-actually-able-to-take-the-washington-bar-exam-and-
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Todd Blanche Loses Susan Collins’s Vote. Blame His Secret Promises To Anti-Abortion Groups.

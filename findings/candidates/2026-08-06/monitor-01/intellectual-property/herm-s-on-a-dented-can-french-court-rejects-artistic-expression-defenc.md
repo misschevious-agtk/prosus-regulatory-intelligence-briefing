@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-31-03dcbab038
+cluster_id: cluster-2026-08-01-3a589d819e
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: herm-s-on-a-dented-can-french-court-rejects-artistic-expression-defenc
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Hermès on a dented can: French court rejects artistic expression defence

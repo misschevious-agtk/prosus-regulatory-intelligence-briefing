@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-04-6f4e357f40
 cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Paul, Weiss’s Multimillion-Dollar Secret Deal To Get Its First Openly Trans Partner Out Of The Firm

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-31-9b9cdc90d8
-cluster_size: 11
+cluster_id: cluster-2026-08-01-4bafd86837
+cluster_size: 7
 cluster_role: sibling
-cluster_canonical_slug: there-s-an-obvious-fix-for-washington-s-bar-exam-debacle
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_canonical_slug: washington-law-deans-say-diploma-privilege-is-the-only-fair-fix-after-
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Washington Law Deans Say Diploma Privilege Is The Only Fair Fix After Bar Exam Fiasco

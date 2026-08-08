@@ -19,10 +19,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-08-01-058cbef276
-cluster_size: 523
+cluster_size: 516
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling To Fix Them Fast Enough.

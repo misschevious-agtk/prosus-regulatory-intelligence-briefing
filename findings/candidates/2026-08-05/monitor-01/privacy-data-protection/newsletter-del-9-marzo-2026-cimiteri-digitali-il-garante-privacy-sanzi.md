@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-07-31-22eb71c9ce
+cluster_id: cluster-2026-08-01-b8bb413ad5
 cluster_size: 88
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # NEWSLETTER del 9 marzo 2026 - Cimiteri digitali, il Garante privacy sanziona Aldilapp - Stop alle telecamere non a norma privacy - Piattaforma di gestione delle deleghe, via libera del Garante - Garanti mondiali: preoccupazione per contenuti intimi generati con IA

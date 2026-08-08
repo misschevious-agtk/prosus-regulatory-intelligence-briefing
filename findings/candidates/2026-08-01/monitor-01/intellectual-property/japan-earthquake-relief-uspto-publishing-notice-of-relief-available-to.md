@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-31-04be12631e
-cluster_size: 129
-cluster_role: sibling
-cluster_canonical_slug: new-homepage-redesign-coming-to-uspto-gov
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_id: cluster-2026-08-01-288f8b05c0
+cluster_size: 127
+cluster_role: canonical
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Japan Earthquake Relief: USPTO publishing notice of relief available to patent and trademark applicants, patentees, reexamination parties, and registered trademark owners affected by the severe earthquake on July 28, 2026

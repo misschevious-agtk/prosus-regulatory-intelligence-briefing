@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-31-937368ba55
-cluster_size: 4
+cluster_id: cluster-2026-08-01-d0e5b89ad8
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-next-evolution-of-contract-management-how-agentic-ai-is-transformi
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops

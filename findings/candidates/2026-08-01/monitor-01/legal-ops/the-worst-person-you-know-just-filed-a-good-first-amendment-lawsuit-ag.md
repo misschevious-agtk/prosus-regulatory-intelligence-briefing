@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-01-a38a63da5a
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # The Worst Person You Know Just Filed A Good First Amendment Lawsuit Against A Very Badly Drafted Nudify App Ban

@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-07-31-04be12631e
-cluster_size: 129
+cluster_id: cluster-2026-08-01-288f8b05c0
+cluster_size: 127
 cluster_role: sibling
-cluster_canonical_slug: new-homepage-redesign-coming-to-uspto-gov
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Remarks by John A. Squires at the America 250 signing ceremony and Commerce Secretary Howard W. Lutnick’s Trading Card unveiling

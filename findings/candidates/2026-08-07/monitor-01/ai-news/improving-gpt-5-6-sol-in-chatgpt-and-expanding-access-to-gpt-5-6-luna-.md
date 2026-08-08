@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-01-058cbef276
-cluster_size: 523
+cluster_size: 516
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users

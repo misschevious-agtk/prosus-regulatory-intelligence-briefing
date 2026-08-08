@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-07-31-47ce0d4c31
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: david-v-lez-and-robin-vince-join-the-boards-of-the-openai-foundation-a
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_id: cluster-2026-08-01-2f98aa433f
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC

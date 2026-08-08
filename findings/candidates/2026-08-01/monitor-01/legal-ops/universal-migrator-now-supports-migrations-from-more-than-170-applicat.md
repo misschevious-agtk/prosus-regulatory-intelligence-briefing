@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-31-80fdc4b76f
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: universal-migrator-now-supports-migrations-from-more-than-170-applicat
-ranked_at: '2026-08-07T08:15:37+00:00'
+cluster_id: cluster-2026-08-01-3f65a63e97
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Universal Migrator Now Supports Migrations From More Than 170 Applications

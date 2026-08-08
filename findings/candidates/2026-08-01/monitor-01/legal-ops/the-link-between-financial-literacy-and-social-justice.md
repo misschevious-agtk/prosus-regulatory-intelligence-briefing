@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-01-3c9a461ba5
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # The Link Between Financial Literacy And Social Justice

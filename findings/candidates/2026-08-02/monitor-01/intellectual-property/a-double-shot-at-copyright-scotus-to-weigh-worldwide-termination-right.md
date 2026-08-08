@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-07-31-cd4f2d39b2
-cluster_size: 3
+cluster_id: cluster-2026-08-01-75e55351f2
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-double-shot-at-copyright-scotus-to-weigh-worldwide-termination-right
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # A Double Shot at Copyright: SCOTUS to Weigh Worldwide Termination Rights

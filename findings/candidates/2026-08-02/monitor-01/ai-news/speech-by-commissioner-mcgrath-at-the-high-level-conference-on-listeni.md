@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-07-31-2f5c2094e0
-cluster_size: 8
+cluster_id: cluster-2026-08-01-a817a38bcd
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: speech-by-commissioner-mcgrath-at-the-high-level-conference-on-listeni
-ranked_at: '2026-08-07T08:15:37+00:00'
+ranked_at: '2026-08-08T07:50:32+00:00'
 ---
 
 # Speech by Commissioner McGrath at the High-Level Conference on Listening to Children and Young People - Challenges in Challenging Settings

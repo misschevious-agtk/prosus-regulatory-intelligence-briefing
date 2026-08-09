@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-01-f8547641bc
-cluster_size: 219
+cluster_id: cluster-2026-08-02-594e4dd3bb
+cluster_size: 195
 cluster_role: sibling
 cluster_canonical_slug: microsoft-consumer-protection-enforcement-case
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Microsoft: consumer protection enforcement case

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-20e4fdd67d
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: guest-post-how-startups-can-prepare-for-the-ai-patent-wars
-ranked_at: '2026-08-08T07:50:32+00:00'
+cluster_id: cluster-2026-08-02-7eb022b2df
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Guest post: How startups can prepare for the AI patent wars

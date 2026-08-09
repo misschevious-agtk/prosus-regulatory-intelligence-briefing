@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-05-db0fa8b35f
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Romantic Scandal Ends In Multimillion-Dollar Payout — See Also

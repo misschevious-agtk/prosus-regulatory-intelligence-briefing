@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Apple App Store
 case_numbers: []
-cluster_id: cluster-2026-08-01-c835fdfbc6
-cluster_size: 39
+cluster_id: cluster-2026-08-02-7bd4119ad2
+cluster_size: 38
 cluster_role: sibling
 cluster_canonical_slug: competition-agencies-compute-the-law-still-assumes-they-read
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Beyond Enforcement: The Apple App Store Case and the Need to Rethink Brazil’s Antitrust Framework

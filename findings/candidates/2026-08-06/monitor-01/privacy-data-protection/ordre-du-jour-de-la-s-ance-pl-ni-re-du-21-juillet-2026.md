@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-08-01-a900e36e3c
+cluster_id: cluster-2026-08-02-8bea216d42
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: le-cepd-demande-une-base-l-gale-pour-le-partage-d-informations-entre-r
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 21 juillet 2026

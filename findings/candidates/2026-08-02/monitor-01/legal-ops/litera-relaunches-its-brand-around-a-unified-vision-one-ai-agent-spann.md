@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-10e1818ec3
+cluster_id: cluster-2026-08-02-ae94a6ac07
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: percipient-launches-certera-ai-a-blind-head-to-head-testing-ground-for
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Litera Relaunches Its Brand Around a Unified Vision: One AI Agent Spanning the Practice and Business of Law

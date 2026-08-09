@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-04-213b796666
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-for-moot-court-2026
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # The Best Law Schools For Moot Court (2026)

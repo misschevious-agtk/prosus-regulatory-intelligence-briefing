@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-6c0a9d80c4
-cluster_size: 3
+cluster_id: cluster-2026-08-02-2cc1d4d2e1
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 50-public-speaking-tips-every-young-lawyer-should-learn
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # 50 Public Speaking Tips Every Young Lawyer Should Learn

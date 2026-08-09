@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-07-6f56d2466d
-cluster_size: 3
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Every Lawyer Has A Book In Them. Most Never Write It.

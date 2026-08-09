@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-681fca7d56
-cluster_size: 3
+cluster_id: cluster-2026-08-02-327e655fc5
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ai-evidence-blurring-the-line-between-reality-and-fiction
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # AI Evidence: Blurring The Line Between Reality And Fiction

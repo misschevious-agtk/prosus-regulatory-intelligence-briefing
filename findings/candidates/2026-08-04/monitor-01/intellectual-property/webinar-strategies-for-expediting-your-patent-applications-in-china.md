@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-04-23a152655a
-cluster_size: 8
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Webinar: Strategies for expediting your patent applications in China

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-03-006aaddfb9
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: has-patent-term-adjustment-peaked
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Has Patent Term Adjustment Peaked?

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: FTC
 case_numbers: []
-cluster_id: cluster-2026-08-01-d8bd4f89f6
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: why-hims-hers-is-embroiled-in-yet-another-controversy-this-time-with-t
-ranked_at: '2026-08-08T07:50:32+00:00'
+cluster_id: cluster-2026-08-02-dde3cd335b
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Why Hims & Hers Is Embroiled In Yet Another Controversy, This Time With The FTC

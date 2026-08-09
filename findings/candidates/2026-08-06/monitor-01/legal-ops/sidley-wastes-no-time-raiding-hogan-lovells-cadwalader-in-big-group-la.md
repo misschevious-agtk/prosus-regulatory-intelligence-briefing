@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-05-db0fa8b35f
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: romantic-scandal-ends-in-multimillion-dollar-payout-see-also
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Sidley Wastes No Time Raiding Hogan Lovells Cadwalader In Big Group Lateral Move

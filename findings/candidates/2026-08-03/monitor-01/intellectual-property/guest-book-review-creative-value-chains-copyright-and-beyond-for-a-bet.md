@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-058cbef276
-cluster_size: 516
+cluster_id: cluster-2026-08-02-d4209c9b6f
+cluster_size: 66
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-08T07:50:32+00:00'
+cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # [Guest Book Review] Creative Value Chains – Copyright and Beyond for a Better Value Distribution

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-05-97b3f8c841
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: daffodil-health-launches-no-surprises-act-dispute-management-solution
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Daffodil Health Launches No Surprises Act Dispute Management Solution

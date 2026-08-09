@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-538a34f3dd
+cluster_id: cluster-2026-08-02-a652ff5cc9
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: what-s-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI

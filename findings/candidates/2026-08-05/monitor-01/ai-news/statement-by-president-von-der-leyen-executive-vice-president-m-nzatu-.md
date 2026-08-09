@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-05-cfb50a4862
-cluster_size: 20
+cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: remarks-by-commissioner-brunner-on-the-situation-in-ceuta
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Statement by President von der Leyen, Executive Vice-President Mînzatu, and Commissioner Lahbib ahead of European Roma Holocaust Memorial Day

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-02f582cfb3
-cluster_size: 4
+cluster_id: cluster-2026-08-02-0a4e3b39ba
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-ultimate-clerkship-flex
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # The Ultimate Clerkship Flex

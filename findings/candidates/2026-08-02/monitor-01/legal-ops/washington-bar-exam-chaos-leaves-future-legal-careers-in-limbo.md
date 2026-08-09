@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-4bafd86837
-cluster_size: 7
+cluster_id: cluster-2026-08-02-3875b2378b
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: washington-law-deans-say-diploma-privilege-is-the-only-fair-fix-after-
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Washington Bar Exam Chaos Leaves Future Legal Careers In Limbo

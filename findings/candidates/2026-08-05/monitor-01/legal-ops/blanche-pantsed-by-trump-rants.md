@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-04-f0654c347d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: blanche-pantsed-by-trump-rants
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Blanche Pantsed By Trump Rants

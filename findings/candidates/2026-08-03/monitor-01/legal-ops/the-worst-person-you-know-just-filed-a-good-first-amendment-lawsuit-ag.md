@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-a38a63da5a
-cluster_size: 4
+cluster_id: cluster-2026-08-02-16a816c5b1
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-worst-person-you-know-just-filed-a-good-first-amendment-lawsuit-ag
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # The Worst Person You Know Just Filed A Good First Amendment Lawsuit Against A Very Badly Drafted Nudify App Ban

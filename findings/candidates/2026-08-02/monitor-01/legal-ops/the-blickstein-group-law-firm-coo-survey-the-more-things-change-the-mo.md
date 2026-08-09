@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-696383a78a
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-blickstein-group-law-firm-coo-survey-the-more-things-change-the-mo
-ranked_at: '2026-08-08T07:50:32+00:00'
+cluster_id: cluster-2026-08-02-9520335eb0
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # The Blickstein Group Law Firm COO Survey: The More Things Change, The More Some Things Stay The Same

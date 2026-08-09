@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-04-9288c89f69
-cluster_size: 46
+cluster_size: 57
 cluster_role: sibling
 cluster_canonical_slug: some-law-grads-were-actually-able-to-take-the-washington-bar-exam-and-
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Why An Extra $2 Million Isn’t Enough To Poach Biglaw’s Top Partners

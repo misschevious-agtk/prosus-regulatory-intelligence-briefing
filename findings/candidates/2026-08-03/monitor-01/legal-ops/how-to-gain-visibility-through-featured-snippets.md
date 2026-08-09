@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-08-01-d3523b6d1e
-cluster_size: 4
+cluster_id: cluster-2026-08-02-d0555f1d67
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: how-to-gain-visibility-through-featured-snippets
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # How To Gain Visibility Through Featured Snippets

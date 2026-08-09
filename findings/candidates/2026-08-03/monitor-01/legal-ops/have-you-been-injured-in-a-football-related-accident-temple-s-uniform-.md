@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-01-c7e3230947
-cluster_size: 3
+cluster_id: cluster-2026-08-02-e88784682d
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: have-you-been-injured-in-a-football-related-accident-temple-s-uniform-
-ranked_at: '2026-08-08T07:50:32+00:00'
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Have You Been Injured In A Football-Related Accident? Temple’s Uniform Now Has A Firm For That.

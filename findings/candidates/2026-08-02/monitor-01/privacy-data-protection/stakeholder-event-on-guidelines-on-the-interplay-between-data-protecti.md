@@ -21,11 +21,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-08-01-058cbef276
-cluster_size: 516
-cluster_role: sibling
-cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-08T07:50:32+00:00'
+cluster_id: cluster-2026-08-02-533d33ccf6
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-08-09T07:56:12+00:00'
 ---
 
 # Stakeholder event on guidelines on the interplay between data protection and competition law: express your interest

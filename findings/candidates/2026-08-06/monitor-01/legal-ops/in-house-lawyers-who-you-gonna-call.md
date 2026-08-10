@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-05-ceea3bb520
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: in-house-lawyers-who-you-gonna-call
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # In-House Lawyers: Who You Gonna Call?

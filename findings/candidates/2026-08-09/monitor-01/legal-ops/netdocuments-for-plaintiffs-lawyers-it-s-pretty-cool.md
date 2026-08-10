@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-07-81ce7497a1
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: netdocuments-for-plaintiffs-lawyers-it-s-pretty-cool
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # NetDocuments For Plaintiffs’ Lawyers: It’s Pretty Cool

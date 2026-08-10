@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-90439e2a2b
+cluster_id: cluster-2026-08-03-7c8e5846c8
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: built-by-lawyers-for-lawyers-dingduff-is-a-free-claude-connector-that-
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Built By Lawyers, For Lawyers: DingDuff Is A Free Claude Connector That Its Founders Say Rivals The Legal Research Giants

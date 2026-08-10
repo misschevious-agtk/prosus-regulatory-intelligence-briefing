@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-7dff1c6091
-cluster_size: 3
+cluster_id: cluster-2026-08-03-070f692fb7
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: senior-partners-should-sometimes-take-advice-from-junior-associates
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Senior Partners Should Sometimes Take Advice From Junior Associates

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-08-d21e135625
-cluster_size: 5
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Startup Corner: Lawdie, the AI back office for law firms

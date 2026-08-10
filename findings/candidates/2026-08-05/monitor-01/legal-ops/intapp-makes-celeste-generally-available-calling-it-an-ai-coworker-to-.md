@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-5fd373b689
+cluster_id: cluster-2026-08-03-828bd81547
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: intapp-makes-celeste-generally-available-calling-it-an-ai-coworker-to-
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Intapp Makes Celeste Generally Available, Calling It An ‘AI Coworker’ To Run the Business Side of Law Firms

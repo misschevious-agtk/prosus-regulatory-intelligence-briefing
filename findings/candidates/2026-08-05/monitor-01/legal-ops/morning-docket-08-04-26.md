@@ -19,9 +19,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-08-04-9288c89f69
-cluster_size: 57
+cluster_size: 69
 cluster_role: sibling
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 cluster_canonical_slug: some-law-grads-were-actually-able-to-take-the-washington-bar-exam-and-
 ---
 

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-04-2906c0757d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: donald-trump-likely-to-fire-jeanine-pirro-for-having-one-foot-in-reali
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Donald Trump Likely To Fire Jeanine Pirro For Having One Foot In Reality

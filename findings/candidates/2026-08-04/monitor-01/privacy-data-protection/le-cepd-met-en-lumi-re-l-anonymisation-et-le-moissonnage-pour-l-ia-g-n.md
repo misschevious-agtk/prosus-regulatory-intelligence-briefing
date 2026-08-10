@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-deb79c0e32
-cluster_size: 11
+cluster_id: cluster-2026-08-03-2be6353871
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-a
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs

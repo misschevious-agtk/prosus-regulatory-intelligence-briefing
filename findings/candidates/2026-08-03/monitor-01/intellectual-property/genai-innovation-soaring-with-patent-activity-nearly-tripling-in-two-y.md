@@ -20,11 +20,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-08-02-b8e5b8b3e4
+cluster_id: cluster-2026-08-03-ec7f1abcd4
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: genai-innovation-soaring-with-patent-activity-nearly-tripling-in-two-y
-ranked_at: '2026-08-09T07:56:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # GenAI Innovation Soaring, With Patent Activity Nearly Tripling in Two Years

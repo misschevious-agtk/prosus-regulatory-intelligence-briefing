@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-014d486b04
+cluster_id: cluster-2026-08-03-8d95042c75
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-e
-ranked_at: '2026-08-09T07:56:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era

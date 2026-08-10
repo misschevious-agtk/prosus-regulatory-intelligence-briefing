@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-6a2611e24a
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: after-the-barbri-deal-lega-s-christian-lang-says-the-governance-platfo
-ranked_at: '2026-08-09T07:56:12+00:00'
+cluster_id: cluster-2026-08-03-d8eeeacb77
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # After the BARBRI Deal, Lega’s Christian Lang Says the Governance Platform Isn’t Going Away, But It Is Going to School

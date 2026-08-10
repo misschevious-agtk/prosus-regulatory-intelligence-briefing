@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-6d406aff19
-cluster_size: 11
+cluster_id: cluster-2026-08-03-64005d6ab6
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-07-31-26
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Withdrawing The Attorney General Nominee Is Nothing New

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-7bd4119ad2
-cluster_size: 38
+cluster_id: cluster-2026-08-03-1d914d3398
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: competition-agencies-compute-the-law-still-assumes-they-read
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Lost in Translation: Cease-and-Desist Agreements and Private Enforcement in Brazil

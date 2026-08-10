@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-02-843bdb3fcd
-cluster_size: 116
+cluster_id: cluster-2026-08-03-f1fb1eb1e5
+cluster_size: 114
 cluster_role: sibling
 cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # USPTO IP attachés celebrate World IP Day

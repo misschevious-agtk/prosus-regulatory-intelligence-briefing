@@ -19,11 +19,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-08-02-8db72ecf1c
-cluster_size: 88
+cluster_id: cluster-2026-08-03-4ebcda9deb
+cluster_size: 80
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # NEWSLETTER del 21 maggio 2026 - Data breach, il Garante privacy sanziona The European House Ambrosetti - Online le Faq aggiornate sul Fascicolo sanitario elettronico - No alla diffusione delle foto di un malato senza consenso - In Turchia la Conferenza di primavera dei Garanti europei

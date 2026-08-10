@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-63fb8ed3ee
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: judge-james-ho-shakes-his-moneymaker-at-christian-legal-cabaret
-ranked_at: '2026-08-09T07:56:12+00:00'
+cluster_id: cluster-2026-08-03-6a4b3c22cb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Judge James Ho Shakes His Moneymaker At Christian Legal Cabaret

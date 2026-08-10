@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-07-7638797543
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Linklaters and Webber Wentzel end their alliance amid global law firm churn in SA

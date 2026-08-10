@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-04-9288c89f69
-cluster_size: 57
+cluster_size: 69
 cluster_role: canonical
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Some Law Grads Were Actually Able To Take The Washington Bar Exam — And They Deserve Diploma Privilege Too

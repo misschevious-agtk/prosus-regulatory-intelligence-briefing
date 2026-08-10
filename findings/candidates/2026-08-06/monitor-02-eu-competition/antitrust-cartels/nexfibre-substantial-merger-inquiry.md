@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-06-02250c2830
-cluster_size: 12
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-08-09T07:56:12+00:00'
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # nexfibre / Substantial merger inquiry

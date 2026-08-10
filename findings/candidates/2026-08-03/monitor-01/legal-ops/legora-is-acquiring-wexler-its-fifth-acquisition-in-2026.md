@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-02-0951fc6351
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: legora-is-acquiring-wexler-its-fifth-acquisition-in-2026
-ranked_at: '2026-08-09T07:56:12+00:00'
+cluster_id: cluster-2026-08-03-9c3b87471c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-10T08:29:29+00:00'
 ---
 
 # Legora is acquiring Wexler, its fifth acquisition in 2026

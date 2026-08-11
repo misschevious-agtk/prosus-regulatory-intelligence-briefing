@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-9288c89f69
-cluster_size: 69
+cluster_id: cluster-2026-08-11-9adf86a650
+cluster_size: 78
 cluster_role: sibling
-cluster_canonical_slug: some-law-grads-were-actually-able-to-take-the-washington-bar-exam-and-
-ranked_at: '2026-08-10T08:29:29+00:00'
+cluster_canonical_slug: morning-docket-08-10-26
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Law Schools Spent 30 Years Buying U.S. News Rankings And The Bill Just Came Due

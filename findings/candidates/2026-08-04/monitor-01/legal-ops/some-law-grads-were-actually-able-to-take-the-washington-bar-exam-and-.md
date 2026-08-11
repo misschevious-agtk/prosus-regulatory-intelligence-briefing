@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-9288c89f69
-cluster_size: 69
-cluster_role: canonical
-ranked_at: '2026-08-10T08:29:29+00:00'
+cluster_id: cluster-2026-08-11-9adf86a650
+cluster_size: 78
+cluster_role: sibling
+ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_canonical_slug: morning-docket-08-10-26
 ---
 
 # Some Law Grads Were Actually Able To Take The Washington Bar Exam — And They Deserve Diploma Privilege Too

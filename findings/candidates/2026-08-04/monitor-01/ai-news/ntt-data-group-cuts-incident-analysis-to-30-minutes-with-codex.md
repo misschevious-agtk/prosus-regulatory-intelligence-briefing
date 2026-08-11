@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-03-97d495f823
-cluster_size: 463
-cluster_role: sibling
-cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-10T08:29:29+00:00'
+cluster_id: cluster-2026-08-04-d5d755af50
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # NTT DATA Group cuts incident analysis to 30 minutes with Codex

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-04-07e70ce42f
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # [Book Review] Pharmaceutical, Biological and Chemical Patents: A Handbook

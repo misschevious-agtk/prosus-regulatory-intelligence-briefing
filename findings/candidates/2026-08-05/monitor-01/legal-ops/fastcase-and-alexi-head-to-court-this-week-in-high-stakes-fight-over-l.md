@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-03-169aa09663
-cluster_size: 3
+cluster_id: cluster-2026-08-04-f405f58152
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fastcase-and-alexi-head-to-court-this-week-in-high-stakes-fight-over-l
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex Deal

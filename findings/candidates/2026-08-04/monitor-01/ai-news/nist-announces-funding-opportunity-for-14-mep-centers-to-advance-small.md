@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-03-7fbc8c7c64
+cluster_id: cluster-2026-08-04-21717bf23c
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-announces-funding-opportunity-for-14-mep-centers-to-advance-small
-ranked_at: '2026-08-10T08:29:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers

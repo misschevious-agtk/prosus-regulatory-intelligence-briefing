@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-03-856d94672d
-cluster_size: 12
+cluster_id: cluster-2026-08-04-9323ae6c60
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: draft-nist-guidelines-rethink-cybersecurity-for-the-ai-era
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Securing Smart Speakers for Home Health Care: NIST Offers New Guidelines

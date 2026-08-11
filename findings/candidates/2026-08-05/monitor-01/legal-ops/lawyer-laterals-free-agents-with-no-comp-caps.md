@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-05-9c76a36051
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Lawyer Laterals: Free Agents With No Comp Caps

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-05-46c3991a82
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: honor-courts-boards-and-academic-dishonesty
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Honor Courts, Boards, And Academic Dishonesty

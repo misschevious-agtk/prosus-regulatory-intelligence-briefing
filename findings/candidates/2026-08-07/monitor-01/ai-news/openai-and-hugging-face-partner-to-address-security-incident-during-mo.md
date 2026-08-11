@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-03-97d495f823
-cluster_size: 463
+cluster_id: cluster-2026-08-04-6a6899e4ca
+cluster_size: 487
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # OpenAI and Hugging Face partner to address security incident during model evaluation

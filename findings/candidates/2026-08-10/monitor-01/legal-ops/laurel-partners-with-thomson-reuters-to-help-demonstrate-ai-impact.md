@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-06-91a3fee47d
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: laurel-partners-with-thomson-reuters-to-help-demonstrate-ai-impact
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Laurel partners with Thomson Reuters to help demonstrate AI impact

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-03-f1fb1eb1e5
-cluster_size: 114
+cluster_id: cluster-2026-08-04-2c887fa59a
+cluster_size: 113
 cluster_role: sibling
 cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # The U.S. Trade Representative's 2026 Special 301 Report: A USPTO Hour on global intellectual property rights enforcement

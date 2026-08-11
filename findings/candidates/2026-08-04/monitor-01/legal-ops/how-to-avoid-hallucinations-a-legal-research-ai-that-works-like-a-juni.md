@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-04-1b8e827634
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # How To Avoid Hallucinations: A Legal Research AI That Works Like A Junior Lawyer

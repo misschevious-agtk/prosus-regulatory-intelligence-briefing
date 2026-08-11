@@ -25,11 +25,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-08-03-00fd9d11bc
-cluster_size: 7
+cluster_id: cluster-2026-08-04-369a0cb1a8
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: four-petitions-one-question-tesla-joins-the-supreme-court-s-ipr-review
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Four Petitions, One Question: Tesla Joins the Supreme Court’s IPR Reviewability Docket

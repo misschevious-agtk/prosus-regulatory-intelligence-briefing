@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-03-9a5b87caa1
+cluster_id: cluster-2026-08-04-c79e2a781d
 cluster_size: 120
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-spending-over-500-may-2026
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Transparency data: CMA: spending over £25,000, May 2026

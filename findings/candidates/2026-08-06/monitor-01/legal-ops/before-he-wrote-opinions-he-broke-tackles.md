@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-04-f00f2471eb
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: before-he-wrote-opinions-he-broke-tackles
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Before He Wrote Opinions, He Broke Tackles

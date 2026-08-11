@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-05-cfb50a4862
-cluster_size: 26
+cluster_size: 28
 cluster_role: sibling
 cluster_canonical_slug: remarks-by-commissioner-brunner-on-the-situation-in-ceuta
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Statement by Executive Vice-President Mînzatu on a proposal for a European Day in Remembrance of Victims of Accidents at Work ahead of the 70 year commemoration of the Marcinelle tragedy

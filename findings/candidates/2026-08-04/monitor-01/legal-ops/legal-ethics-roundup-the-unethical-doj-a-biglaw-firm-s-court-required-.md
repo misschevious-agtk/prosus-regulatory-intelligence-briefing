@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-04-f5174aefc0
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Legal Ethics Roundup: The ‘Unethical’ DOJ, A Biglaw Firm’s Court-Required Ethics Training, ‘Bending The Knee’ To Trump & More

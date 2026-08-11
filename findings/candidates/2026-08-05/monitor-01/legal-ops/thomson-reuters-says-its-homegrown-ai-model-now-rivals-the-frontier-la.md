@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-03-97d495f823
-cluster_size: 463
+cluster_id: cluster-2026-08-04-6a6899e4ca
+cluster_size: 487
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Thomson Reuters Says Its Homegrown AI Model Now Rivals the Frontier Labs – I Take A Closer Look At the Benchmarks

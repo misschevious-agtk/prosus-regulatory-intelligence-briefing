@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-05-04e05cb8dc
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: breaking-news-bighand-acquires-ayora
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Breaking news: BigHand acquires Ayora

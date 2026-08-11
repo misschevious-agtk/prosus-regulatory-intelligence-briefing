@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-04-6f4e357f40
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: paul-weiss-s-multimillion-dollar-secret-deal-to-get-its-first-openly-t
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Did Paul, Weiss Partners Seriously Debate Running The Firm’s Business Past Stephen Miller?

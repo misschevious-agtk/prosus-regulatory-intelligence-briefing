@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-06-9168bb37ed
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Partial Retreat: Ten Months of § 101 Data After the Surge

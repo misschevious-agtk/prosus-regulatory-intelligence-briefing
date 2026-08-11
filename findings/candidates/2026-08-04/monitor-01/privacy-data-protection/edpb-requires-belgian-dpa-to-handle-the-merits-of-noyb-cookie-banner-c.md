@@ -24,11 +24,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-08-03-b9eb116462
+cluster_id: cluster-2026-08-04-cf1c4646ce
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-c
-ranked_at: '2026-08-10T08:29:29+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint

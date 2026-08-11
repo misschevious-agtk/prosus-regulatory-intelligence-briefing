@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-05-8fe996d7c5
 cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-08-10T08:29:29+00:00'
+ranked_at: '2026-08-11T08:12:53+00:00'
 ---
 
 # Commission opens in-depth State aid investigation into arbitration award ordering Spain to pay compensation to JGC Holdings Corporation

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-861897a583
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: startup-corner-caddi-targets-law-firm-operations-with-an-agent-that-bu
-ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_id: cluster-2026-08-05-67341c00bb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Startup Corner: Caddi targets law firm operations with an ‘agent that build agents’

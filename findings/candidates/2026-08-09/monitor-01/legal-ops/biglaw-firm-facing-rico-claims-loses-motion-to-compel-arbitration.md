@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-07-52589e7f53
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-facing-rico-claims-loses-motion-to-compel-arbitration
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Biglaw Firm Facing RICO Claims Loses Motion To Compel Arbitration

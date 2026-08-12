@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-cf6efcc4aa
+cluster_id: cluster-2026-08-05-9111049114
 cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: le-cepd-demande-une-base-l-gale-pour-le-partage-d-informations-entre-r
-ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Le CEPD demande une base légale pour le partage d’informations entre régulateurs

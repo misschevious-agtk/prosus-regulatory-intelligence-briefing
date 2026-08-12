@@ -1,0 +1,38 @@
+---
+date_found: 2026-08-12
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://patentlyo.com/patent/2026/08/the-trail-guide-problem-judge-jury-and-design-patent-claim-construction.html
+source_publisher: Patently-O
+source_date: Tue, 11 Aug 2026 18:45:37 +0000
+source_method: rss
+title: 'The Trail Guide Problem: Judge, Jury, and Design Patent Claim Construction'
+matched_keywords:
+- Federal Circuit
+- Patent
+- patent
+match_count: 3
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-08-12-f6937f8399
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-12T08:19:01+00:00'
+---
+
+# The Trail Guide Problem: Judge, Jury, and Design Patent Claim Construction
+
+**Source:** [Patently-O](https://patentlyo.com/patent/2026/08/the-trail-guide-problem-judge-jury-and-design-patent-claim-construction.html)
+**Published:** Tue, 11 Aug 2026 18:45:37 +0000
+**Matched keywords (3):** Federal Circuit, Patent, patent
+
+## Summary excerpt
+
+The Federal Circuit denies en banc rehearing in Range of Motion v. Armaid. Chief Judge Moore says Markman was built for text, not pictures. Continue reading this post on Patently-O.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

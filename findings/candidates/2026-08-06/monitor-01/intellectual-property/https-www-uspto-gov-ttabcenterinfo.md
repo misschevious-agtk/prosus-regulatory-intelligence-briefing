@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-d90c7b1b9d
+cluster_id: cluster-2026-08-05-6a0f5c7966
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: https-www-uspto-gov-ttabcenterinfo
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # https://www.uspto.gov/TTABCenterInfo

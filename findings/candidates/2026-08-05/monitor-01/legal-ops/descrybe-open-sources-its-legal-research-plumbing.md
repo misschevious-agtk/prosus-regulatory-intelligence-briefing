@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-08-04-e9a4008c2e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: descrybe-open-sources-its-legal-research-plumbing
-ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_id: cluster-2026-08-05-51311f01f2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Descrybe Open-Sources Its Legal Research Plumbing

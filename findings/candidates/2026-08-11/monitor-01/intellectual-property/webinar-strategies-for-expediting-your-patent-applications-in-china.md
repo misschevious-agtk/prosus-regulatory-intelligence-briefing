@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-23a152655a
+cluster_id: cluster-2026-08-05-186395edd4
 cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: webinar-strategies-for-expediting-your-patent-applications-in-china
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Webinar: Strategies for expediting your patent applications in China

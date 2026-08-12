@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-08-41d6daf37c
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Claim construction checkpoints: Application as filed versus granted patent (T 0715/24)

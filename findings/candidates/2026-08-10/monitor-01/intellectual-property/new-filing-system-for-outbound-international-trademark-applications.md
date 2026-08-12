@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-04-2c887fa59a
-cluster_size: 113
+cluster_id: cluster-2026-08-05-223609d721
+cluster_size: 117
 cluster_role: sibling
 cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # New filing system for outbound international trademark applications

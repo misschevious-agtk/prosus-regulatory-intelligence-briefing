@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-f42f6c0b6c
-cluster_size: 2
+cluster_id: cluster-2026-08-06-ac0661b937
+cluster_size: 532
 cluster_role: sibling
-cluster_canonical_slug: legaltech-clinic-ai-consumption-for-law-firms-and-avoiding-token-gestu
-ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Cherryn-Paige Bissett Says AI Didn’t Replace Lawyers. It Repriced Judgment.

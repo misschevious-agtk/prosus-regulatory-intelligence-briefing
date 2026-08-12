@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-04-7cca029813
-cluster_size: 116
+cluster_id: cluster-2026-08-05-354264aaf7
+cluster_size: 132
 cluster_role: sibling
 cluster_canonical_slug: vets-market-investigation-draft-substantive-order-and-undertakings
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # GXO / Wincanton merger inquiry

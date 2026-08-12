@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-f35e902974
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: al-interview-lexisnexis-ceo-sean-fitzpatrick
-ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_id: cluster-2026-08-05-67e5a3f739
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # AL Interview: LexisNexis CEO, Sean Fitzpatrick

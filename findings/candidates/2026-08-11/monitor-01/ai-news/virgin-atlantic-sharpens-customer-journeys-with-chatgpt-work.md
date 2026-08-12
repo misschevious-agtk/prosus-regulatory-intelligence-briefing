@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-11-c43f81238c
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: premium-seats-are-coming-to-chatgpt-business
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Virgin Atlantic sharpens customer journeys with ChatGPT Work

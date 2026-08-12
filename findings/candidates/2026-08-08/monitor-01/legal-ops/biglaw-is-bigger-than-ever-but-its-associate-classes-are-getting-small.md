@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-11-9adf86a650
-cluster_size: 78
+cluster_size: 81
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-08-10-26
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Biglaw Is Bigger Than Ever, But Its Associate Classes Are Getting Smaller

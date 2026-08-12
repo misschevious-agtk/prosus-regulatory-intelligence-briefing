@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-04-6a6899e4ca
-cluster_size: 487
+cluster_id: cluster-2026-08-06-ac0661b937
+cluster_size: 532
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-290-million-dutch-state-aid-to-support-sustainable
-ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Responding to the next frontier of critical cyber capabilities

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-6f4e357f40
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: paul-weiss-s-multimillion-dollar-secret-deal-to-get-its-first-openly-t
-ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_id: cluster-2026-08-05-311be01cd7
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Paul, Weiss’s Multimillion-Dollar Secret Deal To Get Its First Openly Trans Partner Out Of The Firm

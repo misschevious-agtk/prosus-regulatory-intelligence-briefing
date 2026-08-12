@@ -23,11 +23,11 @@ entities:
 case_numbers:
 - scheme: EU merger (M.)
   citation: M.6447
-cluster_id: cluster-2026-08-04-7cca029813
-cluster_size: 116
+cluster_id: cluster-2026-08-05-354264aaf7
+cluster_size: 132
 cluster_role: sibling
 cluster_canonical_slug: vets-market-investigation-draft-substantive-order-and-undertakings
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Notice: Monitoring of the commitments given by IAG to the European Commission in relation to its acquisition of bmi

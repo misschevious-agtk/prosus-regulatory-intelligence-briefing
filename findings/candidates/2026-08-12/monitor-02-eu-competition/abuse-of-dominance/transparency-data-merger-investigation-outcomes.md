@@ -1,0 +1,41 @@
+---
+date_found: 2026-08-12
+monitor: monitor-02-eu-competition
+domain: abuse-of-dominance
+source_url: https://www.gov.uk/government/publications/merger-investigation-outcomes
+source_publisher: CMA news
+source_date: '2026-08-05T09:41:36Z'
+source_method: rss
+title: 'Transparency data: Merger investigation outcomes'
+matched_keywords:
+- CMA
+match_count: 1
+status: candidate
+entities:
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  matched_alias: CMA
+case_numbers: []
+cluster_id: cluster-2026-08-05-354264aaf7
+cluster_size: 132
+cluster_role: sibling
+cluster_canonical_slug: vets-market-investigation-draft-substantive-order-and-undertakings
+ranked_at: '2026-08-12T08:19:01+00:00'
+---
+
+# Transparency data: Merger investigation outcomes
+
+**Source:** [CMA news](https://www.gov.uk/government/publications/merger-investigation-outcomes)
+**Published:** 2026-08-05T09:41:36Z
+**Matched keywords (1):** CMA
+
+## Summary excerpt
+
+Outcomes of merger investigations carried out by the CMA under the Enterprise Act 2002.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

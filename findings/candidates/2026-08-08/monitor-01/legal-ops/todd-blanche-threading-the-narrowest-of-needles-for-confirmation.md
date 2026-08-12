@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-08-fb0a1920b8
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Todd Blanche Threading The Narrowest Of Needles For Confirmation

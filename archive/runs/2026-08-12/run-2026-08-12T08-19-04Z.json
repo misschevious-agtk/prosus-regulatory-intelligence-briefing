@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-12",
+  "total_candidates": 349,
+  "per_domain": {
+    "monitor-01/ai-news": 82,
+    "monitor-01/intellectual-property": 58,
+    "monitor-01/legal-ops": 70,
+    "monitor-01/privacy-data-protection": 58,
+    "monitor-02-eu-competition/abuse-of-dominance": 25,
+    "monitor-02-eu-competition/antitrust-cartels": 25,
+    "monitor-02-eu-competition/digital-markets-sector-state-aid": 29,
+    "monitor-02-eu-competition/merger-control-fdi": 2
+  },
+  "per_source": {
+    "OpenAI blog": 28,
+    "NIST news (filtered for AI in script)": 26,
+    "European Commission press": 20,
+    "AI Snake Oil": 3,
+    "Import AI (Jack Clark)": 6,
+    "Hugging Face blog": 9,
+    "WIPO news": 9,
+    "USPTO news": 24,
+    "IPKat blog": 15,
+    "Patently-O": 10,
+    "LawSites (Bob Ambrogi)": 30,
+    "Above the Law": 29,
+    "Artificial Lawyer": 3,
+    "Legal IT Insider": 8,
+    "noyb news": 30,
+    "CNIL actualités [FR]": 9,
+    "Garante per la protezione dei dati personali [IT]": 10,
+    "EDPB news": 9,
+    "Kluwer Competition Law Blog": 7,
+    "CMA news": 58,
+    "Chillin'Competition": 6
+  },
+  "clusters": [
+    {
+      "id": "",
+      "size": 532,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 132,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 120,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 120,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 117,
+      "canonical_title": ""
+    }
+  ],
+  "top_titles": {
+    "monitor-01": [
+      {
+        "title": "EU Commission internal draft would wreck core principles of the GDPR",
+        "source": "noyb news",
+        "match_count": 23,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Data Protection Day: 5 misconceptions about data protection, debunked",
+        "source": "noyb news",
+        "match_count": 16,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "EU Member States (and Google) suddenly want to keep cookie banners!",
+        "source": "noyb news",
+        "match_count": 13,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Digital Omnibus: EU DPAs reject many proposed changes to the GDPR",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Open letter: Digital omnibus brings deregulation, not simplification",
+        "source": "noyb news",
+        "match_count": 11,
+        "cluster_role": "sibling"
+      }
+    ],
+    "monitor-02-eu-competition": [
+      {
+        "title": "Article 102 TFEU and the Android judgment (I): understanding the law of the exceptional (and the exceptional within the exceptional)",
+        "source": "Chillin'Competition",
+        "match_count": 4,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Commission greenlights Poland's fifth payment request for €7.9 billion under NextGenerationEU",
+        "source": "European Commission press",
+        "match_count": 2,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Daily News 06 / 08 / 2026",
+        "source": "European Commission press",
+        "match_count": 2,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Remarks by Commissioner Brunner on the situation in Ceuta",
+        "source": "European Commission press",
+        "match_count": 2,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Daily News 10 / 08 / 2026",
+        "source": "European Commission press",
+        "match_count": 2,
+        "cluster_role": "sibling"
+      }
+    ]
+  },
+  "broken_feed_sources": [],
+  "top_entities": [
+    {
+      "name": "Competition and Markets Authority",
+      "count": 58
+    },
+    {
+      "name": "European Commission",
+      "count": 32
+    },
+    {
+      "name": "OpenAI",
+      "count": 23
+    },
+    {
+      "name": "United States Patent and Trademark Office",
+      "count": 21
+    },
+    {
+      "name": "European Data Protection Board",
+      "count": 11
+    },
+    {
+      "name": "Garante per la protezione dei dati personali",
+      "count": 10
+    },
+    {
+      "name": "World Intellectual Property Organization",
+      "count": 9
+    },
+    {
+      "name": "Commission Nationale de l'Informatique et des Libertés",
+      "count": 9
+    },
+    {
+      "name": "Court of Justice of the European Union",
+      "count": 8
+    },
+    {
+      "name": "Anthropic",
+      "count": 5
+    }
+  ]
+}

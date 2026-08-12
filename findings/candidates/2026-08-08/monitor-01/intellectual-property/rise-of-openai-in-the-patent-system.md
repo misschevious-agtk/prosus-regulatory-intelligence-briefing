@@ -20,9 +20,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-08-08-f4dfeb1865
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Rise of OpenAI in the Patent System

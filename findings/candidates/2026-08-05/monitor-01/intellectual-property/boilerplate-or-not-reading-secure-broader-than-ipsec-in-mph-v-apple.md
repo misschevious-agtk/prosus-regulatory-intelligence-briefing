@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-04-785937274f
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: boilerplate-or-not-reading-secure-broader-than-ipsec-in-mph-v-apple
-ranked_at: '2026-08-11T08:12:53+00:00'
+cluster_id: cluster-2026-08-05-7c3a708d30
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # Boilerplate or Not: Reading “Secure” Broader Than IPSec in MPH v. Apple

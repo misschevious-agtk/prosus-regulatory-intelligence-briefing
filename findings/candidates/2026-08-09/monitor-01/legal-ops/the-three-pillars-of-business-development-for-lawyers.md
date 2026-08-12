@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-08-57e78e836c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-three-pillars-of-business-development-for-lawyers
-ranked_at: '2026-08-11T08:12:53+00:00'
+ranked_at: '2026-08-12T08:19:01+00:00'
 ---
 
 # The Three Pillars Of Business Development For Lawyers

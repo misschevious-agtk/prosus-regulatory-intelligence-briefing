@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-06-974942da06
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: hhs-is-reviving-its-340b-rebate-push-and-providers-are-none-too-please
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # HHS Is Reviving Its 340B Rebate Push — And Providers Are None Too Pleased

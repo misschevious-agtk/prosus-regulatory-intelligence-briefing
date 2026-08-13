@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-78377a42a3
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: before-he-wrote-opinions-he-broke-tackles
-ranked_at: '2026-08-12T08:19:01+00:00'
+cluster_id: cluster-2026-08-06-eeee078277
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Before He Wrote Opinions, He Broke Tackles

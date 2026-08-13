@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-b556c2d707
+cluster_id: cluster-2026-08-06-c3b15e6672
 cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: chris-cartrett-to-step-down-as-ceo-of-aderant-departing-legal-tech-to-
-ranked_at: '2026-08-12T08:19:01+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Chris Cartrett to Step Down as CEO of Aderant, Departing Legal Tech to Lead Public Safety Software Company; Former CEO Deane Price to Return on Interim Basis

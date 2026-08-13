@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-08-05-386fc33f77
+cluster_id: cluster-2026-08-06-9ad6880993
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-upda
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Supporting GDPR consistency: EDPB launches dedicated form

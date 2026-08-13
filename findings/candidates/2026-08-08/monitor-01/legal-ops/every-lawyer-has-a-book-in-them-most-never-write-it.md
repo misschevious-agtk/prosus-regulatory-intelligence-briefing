@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-07-6f56d2466d
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: every-lawyer-has-a-book-in-them-most-never-write-it
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Every Lawyer Has A Book In Them. Most Never Write It.

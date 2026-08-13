@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-11-b597825b77
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: moderna-gets-fda-approval-for-mrna-flu-vaccine-but-cdc-input-still-unc
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Moderna Gets FDA Approval For mRNA Flu Vaccine, But CDC Input Still Uncertain

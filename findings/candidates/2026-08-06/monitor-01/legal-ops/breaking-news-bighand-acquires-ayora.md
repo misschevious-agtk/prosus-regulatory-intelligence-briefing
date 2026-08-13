@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-04e05cb8dc
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: breaking-news-bighand-acquires-ayora
-ranked_at: '2026-08-12T08:19:01+00:00'
+cluster_id: cluster-2026-08-06-bd6d84c175
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Breaking news: BigHand acquires Ayora

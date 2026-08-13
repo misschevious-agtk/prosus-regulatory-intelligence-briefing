@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-11-937d42a4e8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: thinking-about-trump-s-brain-trust
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Thinking About Trump’s ‘Brain Trust’

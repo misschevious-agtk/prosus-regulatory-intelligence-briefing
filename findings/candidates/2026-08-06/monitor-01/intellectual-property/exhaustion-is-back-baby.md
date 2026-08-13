@@ -21,11 +21,10 @@ entities:
   jurisdiction: US
   matched_alias: Microsoft Corp
 case_numbers: []
-cluster_id: cluster-2026-08-05-d309ae1c55
-cluster_size: 63
-cluster_role: sibling
-cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-12T08:19:01+00:00'
+cluster_id: cluster-2026-08-06-7af2fcdc99
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Exhaustion is back baby!

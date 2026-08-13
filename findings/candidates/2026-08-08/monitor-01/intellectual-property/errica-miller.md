@@ -20,9 +20,9 @@ entities:
   matched_alias: United States Patent and Trademark Office
 case_numbers: []
 cluster_id: cluster-2026-08-08-3356fd3954
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Errica Miller

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-10-a9b396577c
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: 4-legal-techs-join-y-combinator-summer-26
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # 4 Legal Techs Join Y Combinator Summer ‘26

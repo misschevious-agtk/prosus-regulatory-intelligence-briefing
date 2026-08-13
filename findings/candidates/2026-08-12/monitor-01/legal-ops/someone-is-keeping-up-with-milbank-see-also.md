@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-456947e72a
-cluster_size: 2
+cluster_id: cluster-2026-08-11-9adf86a650
+cluster_size: 82
 cluster_role: sibling
-cluster_canonical_slug: biglaw-firm-joins-the-salary-wars-but-keeps-raises-on-ice-until-2027
-ranked_at: '2026-08-12T08:19:01+00:00'
+cluster_canonical_slug: morning-docket-08-10-26
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Someone Is Keeping Up With Milbank — See Also

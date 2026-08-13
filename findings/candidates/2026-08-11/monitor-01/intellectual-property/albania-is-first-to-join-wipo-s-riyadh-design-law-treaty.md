@@ -18,11 +18,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-08-05-e712d213b1
+cluster_id: cluster-2026-08-06-90a02536a8
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: albania-is-first-to-join-wipo-s-riyadh-design-law-treaty
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Albania is First to Join WIPO’s Riyadh Design Law Treaty

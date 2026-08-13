@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-fbbf8fb075
-cluster_size: 3
+cluster_id: cluster-2026-08-06-703db7118b
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legalon-lets-100-ai-workflows-bloom
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # LegalOn Lets 100 AI Workflows Bloom

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-e42f538790
-cluster_size: 5
+cluster_id: cluster-2026-08-06-d33c876593
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: us-congress-faces-its-own-debate-about-a-patent-ban-for-plants
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # US Congress faces its own debate about a "patent ban" for plants

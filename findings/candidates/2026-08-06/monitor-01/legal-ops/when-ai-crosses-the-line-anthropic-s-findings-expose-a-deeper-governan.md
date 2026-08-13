@@ -25,9 +25,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-08-06-ac0661b937
-cluster_size: 532
+cluster_size: 406
 cluster_role: canonical
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # When AI crosses the line: Anthropic’s findings expose a deeper governance problem

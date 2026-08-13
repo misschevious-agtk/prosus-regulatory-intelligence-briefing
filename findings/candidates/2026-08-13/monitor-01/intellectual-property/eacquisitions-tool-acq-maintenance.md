@@ -1,0 +1,41 @@
+---
+date_found: 2026-08-13
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://www.uspto.gov/system-status/20260806-eacquisitions-tool-acq-maintenance
+source_publisher: USPTO news
+source_date: Tue, 08/04/2026 - 11:23
+source_method: rss
+title: eAcquisitions Tool (ACQ) Maintenance
+matched_keywords:
+- USPTO
+match_count: 1
+status: candidate
+entities:
+- name: United States Patent and Trademark Office
+  type: regulator
+  jurisdiction: US
+  matched_alias: USPTO
+case_numbers: []
+cluster_id: cluster-2026-08-06-ac17991544
+cluster_size: 122
+cluster_role: sibling
+cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
+ranked_at: '2026-08-13T08:22:19+00:00'
+---
+
+# eAcquisitions Tool (ACQ) Maintenance
+
+**Source:** [USPTO news](https://www.uspto.gov/system-status/20260806-eacquisitions-tool-acq-maintenance)
+**Published:** Tue, 08/04/2026 - 11:23
+**Matched keywords (1):** USPTO
+
+## Summary excerpt
+
+The USPTO will perform routine maintenance on the ACQ from 9-11 p.m. on Thursday, August 6. During this maintenance period, ACQ may be unavailable.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

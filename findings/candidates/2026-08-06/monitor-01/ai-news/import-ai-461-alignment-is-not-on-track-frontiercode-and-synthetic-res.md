@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-65611026f5
+cluster_id: cluster-2026-08-06-5581c3544f
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-res
-ranked_at: '2026-08-12T08:19:01+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Import AI 461: “Alignment is not on track”; FrontierCode; and synthetic research interns

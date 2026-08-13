@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-12-8dd344188c
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Bipartisan Lawmakers Are Fighting HHS’ 340B Rebate Push

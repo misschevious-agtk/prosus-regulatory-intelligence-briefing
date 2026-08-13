@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-05-6f5d8c8bbd
+cluster_id: cluster-2026-08-06-86077bc64c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: replay-legaltech-week-for-07-24-26-free-legal-claude-connector-aall-re
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Replay – Legaltech Week for 07/24/26: Free Legal Claude Connector, AALL recap, OpenAI’s rogue model, and more

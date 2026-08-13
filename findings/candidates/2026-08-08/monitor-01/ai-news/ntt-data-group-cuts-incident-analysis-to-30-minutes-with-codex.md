@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-4402103707
-cluster_size: 6
+cluster_id: cluster-2026-08-06-33e9682b98
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: ntt-data-group-cuts-incident-analysis-to-30-minutes-with-codex
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # NTT DATA Group cuts incident analysis to 30 minutes with Codex

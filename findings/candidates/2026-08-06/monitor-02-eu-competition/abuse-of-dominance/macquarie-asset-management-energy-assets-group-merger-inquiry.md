@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-05-ae425f5a6a
-cluster_size: 120
+cluster_id: cluster-2026-08-06-bd9f91b162
+cluster_size: 90
 cluster_role: sibling
-cluster_canonical_slug: microsoft-consumer-protection-enforcement-case
-ranked_at: '2026-08-12T08:19:01+00:00'
+cluster_canonical_slug: google-s-general-search-services-proposed-conduct-requirements
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Macquarie Asset Management / Energy Assets Group merger inquiry

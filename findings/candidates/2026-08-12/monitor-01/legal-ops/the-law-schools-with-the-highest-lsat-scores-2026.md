@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-11-70178b79d3
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-law-schools-with-the-highest-lsat-scores-2026
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # The Law Schools With The Highest LSAT Scores (2026)

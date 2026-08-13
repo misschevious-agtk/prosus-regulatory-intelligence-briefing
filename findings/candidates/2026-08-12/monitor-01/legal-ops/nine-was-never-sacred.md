@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-11-5707becd5a
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: nine-was-never-sacred
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Nine Was Never Sacred

@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-11-071822fce6
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-08-12T08:19:01+00:00'
+cluster_id: cluster-2026-08-06-ac0661b937
+cluster_size: 406
+cluster_role: sibling
+ranked_at: '2026-08-13T08:22:19+00:00'
+cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
 ---
 
 # What building an AI-native finance function taught me

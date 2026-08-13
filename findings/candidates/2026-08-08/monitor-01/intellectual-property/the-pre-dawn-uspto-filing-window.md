@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-05-2b45d5d9bd
-cluster_size: 4
+cluster_id: cluster-2026-08-06-59490ce2cc
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-pre-dawn-uspto-filing-window
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # The Pre-Dawn USPTO Filing Window

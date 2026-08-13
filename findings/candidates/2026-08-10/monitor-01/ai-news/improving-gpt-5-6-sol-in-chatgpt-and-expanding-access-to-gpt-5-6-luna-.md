@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-06-ac0661b937
-cluster_size: 532
+cluster_size: 406
 cluster_role: sibling
 cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users

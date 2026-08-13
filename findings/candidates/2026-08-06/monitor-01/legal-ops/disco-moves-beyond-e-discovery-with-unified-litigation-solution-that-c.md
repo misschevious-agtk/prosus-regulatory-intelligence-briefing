@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-06-ec1ea84d48
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # DISCO Moves Beyond E-Discovery with ‘Unified Litigation Solution’ that Combines Case Facts and Case Law

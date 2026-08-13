@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-05-d309ae1c55
-cluster_size: 63
+cluster_id: cluster-2026-08-06-51c0970ad6
+cluster_size: 54
 cluster_role: sibling
 cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-12T08:19:01+00:00'
+ranked_at: '2026-08-13T08:22:19+00:00'
 ---
 
 # [GuestPost] SEP licensing when the patent landscape changes

@@ -15,10 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-f36a819d20
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-08-13T08:22:19+00:00'
+cluster_id: cluster-2026-08-07-3ef25e5b14
+cluster_size: 351
+cluster_role: sibling
+ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
 ---
 
 # Webinar: A practitioner’s perspective on building connected legal workflows

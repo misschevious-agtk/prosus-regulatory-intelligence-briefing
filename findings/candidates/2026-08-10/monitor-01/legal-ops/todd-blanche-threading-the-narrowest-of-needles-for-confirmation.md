@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-08-fb0a1920b8
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: todd-blanche-threading-the-narrowest-of-needles-for-confirmation
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Todd Blanche Threading The Narrowest Of Needles For Confirmation

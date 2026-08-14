@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-07-9144edfd88
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Woman Who Went Into Cardiac Arrest During NY Bar Exam Sues Hofstra — But Not The Bar Examiners

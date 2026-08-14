@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-08-06-fd51a928eb
+cluster_id: cluster-2026-08-07-a4b501633e
 cluster_size: 80
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # NEWSLETTER 29/01/26 - No al controllo dello stile di guida dei lavoratori - L’accesso alla email del lavoratore licenziato vìola la privacy - Monopattini: sì alla piattaforma per rilascio delle targhe - Attivo un nuovo strumento contro il telemarketing selvaggio - Casi transfrontalieri, al via Regolamento UE su reclami e istruttorie

@@ -19,9 +19,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-08-13-037e34671c
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Boutique Money Is Where It’s At — See Also

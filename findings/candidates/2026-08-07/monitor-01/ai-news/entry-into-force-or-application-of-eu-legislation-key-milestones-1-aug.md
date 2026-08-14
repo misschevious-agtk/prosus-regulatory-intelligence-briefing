@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-06-51f992dda4
-cluster_size: 136
+cluster_id: cluster-2026-08-07-8b32562b16
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: daily-news-03-08-2026
-ranked_at: '2026-08-13T08:22:19+00:00'
+cluster_canonical_slug: entry-into-force-or-application-of-eu-legislation-key-milestones-1-aug
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Entry into force or application of EU legislation: key milestones | 1 August – 15 September 2026

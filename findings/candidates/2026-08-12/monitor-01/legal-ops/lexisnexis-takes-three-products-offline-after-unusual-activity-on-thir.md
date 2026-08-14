@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-12-e9f2578af1
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # LexisNexis takes three products offline after ‘unusual activity’ on third-party servers

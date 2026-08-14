@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-07-2e414fd41b
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-smartadvocate-manages-a-case-from-first-call-to-final-settlement
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # How SmartAdvocate™ Manages A Case From First Call To Final Settlement

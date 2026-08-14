@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-06-b801b2cdcd
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-warms-to-ukraine-only-because-it-s-winning-he-might-do-the-right
-ranked_at: '2026-08-13T08:22:19+00:00'
+cluster_id: cluster-2026-08-07-f4673e69d6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Trump Warms To Ukraine Only Because It’s Winning; He Might Do The Right Thing For The Wrong Reason

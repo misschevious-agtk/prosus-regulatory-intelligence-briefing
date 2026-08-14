@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-06-51f992dda4
-cluster_size: 136
+cluster_id: cluster-2026-08-07-afab8f4b2b
+cluster_size: 120
 cluster_role: sibling
 cluster_canonical_slug: daily-news-03-08-2026
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Remarks by Commissioner Brunner on the situation in Ceuta

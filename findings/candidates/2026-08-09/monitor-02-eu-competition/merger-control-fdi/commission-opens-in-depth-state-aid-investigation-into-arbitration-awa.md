@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-06-aa07d9a698
-cluster_size: 15
+cluster_id: cluster-2026-08-07-120a5d7ad7
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: commission-opens-in-depth-state-aid-investigation-into-arbitration-awa
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Commission opens in-depth State aid investigation into arbitration award ordering Spain to pay compensation to JGC Holdings Corporation

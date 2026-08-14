@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-11-0a39118cd0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-richest-law-firms-are-looking-at-private-equity-cash-because-i-gue
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # The Richest Law Firms Are Looking At Private Equity Cash Because I Guess They Don’t Have Enough Money

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-06-51c0970ad6
-cluster_size: 54
+cluster_id: cluster-2026-08-07-203603c010
+cluster_size: 53
 cluster_role: sibling
 cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # [Guest Book Review] Creative Value Chains – Copyright and Beyond for a Better Value Distribution

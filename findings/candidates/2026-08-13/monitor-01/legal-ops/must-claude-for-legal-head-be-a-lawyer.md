@@ -22,7 +22,7 @@ cluster_id: cluster-2026-08-11-be5c545e8a
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: must-claude-for-legal-head-be-a-lawyer
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Must ‘Claude For Legal’ Head Be A Lawyer?

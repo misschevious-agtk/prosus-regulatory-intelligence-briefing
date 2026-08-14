@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-12-77302bc2d0
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: peter-navarro-wants-a-prosecutor-fired-for-the-unforgivable-sin-of-pro
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Peter Navarro Wants A Prosecutor Fired For The Unforgivable Sin Of Prosecuting Him

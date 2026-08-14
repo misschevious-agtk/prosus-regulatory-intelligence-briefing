@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-07-52589e7f53
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Biglaw Firm Facing RICO Claims Loses Motion To Compel Arbitration

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-06-644f893a8d
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: rejection-is-not-denial-what-a-final-office-action-actually-costs
-ranked_at: '2026-08-13T08:22:19+00:00'
+cluster_id: cluster-2026-08-07-e01f919ed1
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Rejection Is Not Denial: What a Final Office Action Actually Costs

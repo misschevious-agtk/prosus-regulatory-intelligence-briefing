@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-06-b012aaf155
-cluster_size: 8
+cluster_id: cluster-2026-08-07-bdac62376a
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: trademark-id-manual-tm-idm-upgrade
-ranked_at: '2026-08-13T08:22:19+00:00'
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # Trademark ID Manual (TM-IDM) Upgrade

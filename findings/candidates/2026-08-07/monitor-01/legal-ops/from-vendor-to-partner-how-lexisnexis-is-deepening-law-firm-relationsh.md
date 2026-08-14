@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-06-ac0661b937
-cluster_size: 406
+cluster_id: cluster-2026-08-07-f441a09c37
+cluster_size: 35
 cluster_role: sibling
-cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
-ranked_at: '2026-08-13T08:22:19+00:00'
+cluster_canonical_slug: lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customer
+ranked_at: '2026-08-14T08:17:03+00:00'
 ---
 
 # From ‘Vendor’ To ‘Partner’: How LexisNexis Is Deepening Law Firm Relationships

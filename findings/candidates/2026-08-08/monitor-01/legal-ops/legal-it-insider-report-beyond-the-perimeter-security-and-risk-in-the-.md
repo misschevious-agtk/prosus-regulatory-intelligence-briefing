@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-8158a37772
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: legal-it-insider-report-beyond-the-perimeter-security-and-risk-in-the-
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_id: cluster-2026-08-08-cac2a4172e
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Legal IT Insider Report: Beyond the perimeter – Security and risk in the age of legal AI

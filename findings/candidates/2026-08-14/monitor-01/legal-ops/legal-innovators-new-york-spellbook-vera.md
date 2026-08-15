@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-9c058b3a6f
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_id: cluster-2026-08-15-a23d974d47
+cluster_size: 3
+cluster_role: sibling
+ranked_at: '2026-08-15T07:32:12+00:00'
+cluster_canonical_slug: deepjudge-disco-spellbook-and-korbyt-unveil-new-capabilities-ahead-of-
 ---
 
 # Legal Innovators New York, Spellbook, Vera +

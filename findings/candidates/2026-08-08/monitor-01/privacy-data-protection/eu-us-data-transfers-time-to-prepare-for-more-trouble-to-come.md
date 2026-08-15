@@ -23,11 +23,10 @@ match_count: 11
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-d1afd54193
+cluster_id: cluster-2026-08-08-8b30c8687c
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: eu-us-data-transfers-time-to-prepare-for-more-trouble-to-come
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # EU-US Data Transfers: Time to prepare for more trouble to come

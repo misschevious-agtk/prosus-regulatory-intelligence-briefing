@@ -18,9 +18,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-08-14-d2e9310fe2
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # OpenAI appoints Dali Rajic as Chief Revenue Officer

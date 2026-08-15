@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-f441a09c37
-cluster_size: 35
+cluster_id: cluster-2026-08-08-6dc4211033
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customer
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_canonical_slug: law-firms-need-to-reassert-their-ai-sovereignty-here-s-how
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Law Firms Need To Reassert Their AI Sovereignty, Here’s How

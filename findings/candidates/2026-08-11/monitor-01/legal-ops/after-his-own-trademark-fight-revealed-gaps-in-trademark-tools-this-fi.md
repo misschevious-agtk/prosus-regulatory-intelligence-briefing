@@ -18,9 +18,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-08-11-f5f0fa0ef0
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # After His Own Trademark Fight Revealed Gaps in Trademark Tools, This Fintech Founder Built His Own

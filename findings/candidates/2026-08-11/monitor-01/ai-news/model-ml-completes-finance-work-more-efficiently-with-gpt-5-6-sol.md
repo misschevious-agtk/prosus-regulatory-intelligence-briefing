@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-11-ec0321f8e3
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Model ML completes finance work more efficiently with GPT-5.6 Sol

@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-08-07-c02e06fbb9
+cluster_id: cluster-2026-08-08-2fd5f1aec2
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-informat
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing

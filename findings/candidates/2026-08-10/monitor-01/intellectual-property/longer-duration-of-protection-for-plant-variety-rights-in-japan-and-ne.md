@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-a9de4735bf
-cluster_size: 4
+cluster_id: cluster-2026-08-08-2fdd132101
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: longer-duration-of-protection-for-plant-variety-rights-in-japan-and-ne
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Longer duration of protection for plant variety rights in Japan and New Zealand

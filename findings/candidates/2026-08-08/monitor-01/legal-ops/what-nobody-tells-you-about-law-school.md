@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-6f56d2466d
-cluster_size: 8
+cluster_id: cluster-2026-08-08-1758d47eb4
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: every-lawyer-has-a-book-in-them-most-never-write-it
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # What Nobody Tells You About Law School

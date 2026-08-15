@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-08-28d5692b36
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: law-firm-website-conversions-in-the-age-of-ai-chatbots
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Law Firm Website Conversions In The Age Of AI Chatbots

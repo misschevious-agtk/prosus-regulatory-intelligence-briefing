@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-9adf86a650
-cluster_size: 74
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-08-10-26
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_id: cluster-2026-08-08-889e888773
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Bar Exam FUBARs Are Still Out There

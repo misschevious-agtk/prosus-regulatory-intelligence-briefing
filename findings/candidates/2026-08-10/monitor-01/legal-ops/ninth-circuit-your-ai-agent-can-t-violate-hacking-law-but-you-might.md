@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-08-0701846fd8
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: ninth-circuit-your-ai-agent-can-t-violate-hacking-law-but-you-might
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Ninth Circuit: Your AI Agent Can’t Violate Hacking Law. But You Might.

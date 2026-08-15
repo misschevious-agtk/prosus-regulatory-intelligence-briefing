@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-6771915a3b
+cluster_id: cluster-2026-08-08-258c87f388
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: book-review-pharmaceutical-biological-and-chemical-patents-a-handbook
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # [Book Review] Pharmaceutical, Biological and Chemical Patents: A Handbook

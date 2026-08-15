@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-07-9823aef424
-cluster_size: 127
+cluster_id: cluster-2026-08-08-5f2cbc7275
+cluster_size: 132
 cluster_role: sibling
 cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # USPTO opens opportunities to practice before the agency by evolving admissions criteria for patent bar

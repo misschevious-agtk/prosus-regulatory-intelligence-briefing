@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-08-7502313df1
-cluster_size: 14
+cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Statement by Executive Vice-President Mînzatu on a proposal for a European Day in Remembrance of Victims of Accidents at Work ahead of the 70 year commemoration of the Marcinelle tragedy

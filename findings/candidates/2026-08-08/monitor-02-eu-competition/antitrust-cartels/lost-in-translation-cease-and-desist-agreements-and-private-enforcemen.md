@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-003aaf1c0e
+cluster_id: cluster-2026-08-08-1d6c86d941
 cluster_size: 32
 cluster_role: sibling
 cluster_canonical_slug: beyond-enforcement-the-apple-app-store-case-and-the-need-to-rethink-br
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Lost in Translation: Cease-and-Desist Agreements and Private Enforcement in Brazil

@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-07-7100d758d1
-cluster_size: 66
+cluster_id: cluster-2026-08-08-23999a4dc3
+cluster_size: 12
 cluster_role: sibling
-cluster_canonical_slug: welltower-multiple-care-homes-merger-inquiries
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_canonical_slug: suspected-anti-competitive-conduct-in-relation-to-the-supply-of-waste-
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Suspected anti-competitive conduct in relation to the supply of waste management services

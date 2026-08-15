@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-f441a09c37
-cluster_size: 35
+cluster_id: cluster-2026-08-08-5c05e24dcb
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customer
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_canonical_slug: webinar-from-technology-strategy-to-organisational-change
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Webinar: From technology strategy to organisational change

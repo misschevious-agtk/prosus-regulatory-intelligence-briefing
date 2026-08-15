@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-11-f9e5f1b2d1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: bunker-ballroom-blocked
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Bunker Ballroom Blocked

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-1a29e166d0
-cluster_size: 3
+cluster_id: cluster-2026-08-08-84d9a96856
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: retailers-are-selling-economic-rights-to-their-potential-tariff-refund
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Retailers Are Selling Economic Rights To Their Potential Tariff Refunds

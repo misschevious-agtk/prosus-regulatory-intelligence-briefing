@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-12-9f76b26463
-cluster_size: 45
+cluster_size: 66
 cluster_role: sibling
 cluster_canonical_slug: nrg-fleet-services-specialist-fleet-services-merger-inquiry
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Transparency data: CMA structure

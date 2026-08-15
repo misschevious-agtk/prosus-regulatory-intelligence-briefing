@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-3ef25e5b14
-cluster_size: 351
+cluster_id: cluster-2026-08-08-21ff6592b0
+cluster_size: 343
 cluster_role: sibling
-cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_canonical_slug: advancing-responsible-ai-across-europe
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board

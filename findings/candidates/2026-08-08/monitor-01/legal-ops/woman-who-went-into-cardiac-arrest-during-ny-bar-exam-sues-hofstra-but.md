@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-9144edfd88
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: woman-who-went-into-cardiac-arrest-during-ny-bar-exam-sues-hofstra-but
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_id: cluster-2026-08-08-9d92e52d29
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Woman Who Went Into Cardiac Arrest During NY Bar Exam Sues Hofstra — But Not The Bar Examiners

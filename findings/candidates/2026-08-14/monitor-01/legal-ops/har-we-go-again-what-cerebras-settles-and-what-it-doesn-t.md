@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-13-710f8ea5b8
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: har-we-go-again-what-cerebras-settles-and-what-it-doesn-t
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # HAR We Go Again: What Cerebras Settles — and What It Doesn’t

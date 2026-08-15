@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-08-62d058df82
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: judges-should-not-make-lawyers-handwrite-orders-after-oral-argument
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Judges Should Not Make Lawyers Handwrite Orders After Oral Argument

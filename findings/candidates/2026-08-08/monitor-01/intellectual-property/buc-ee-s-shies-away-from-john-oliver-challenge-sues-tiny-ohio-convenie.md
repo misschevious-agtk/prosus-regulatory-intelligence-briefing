@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-08-b3ce76e2d2
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # Buc-ee’s Shies Away From John Oliver Challenge, Sues Tiny Ohio Convenience Store Instead

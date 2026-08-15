@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-07-e8c8a7bd46
+cluster_id: cluster-2026-08-08-8673c7f38e
 cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: https-www-uspto-gov-ttabcenterinfo
-ranked_at: '2026-08-14T08:17:03+00:00'
+cluster_canonical_slug: https-www-uspto-gov-spark
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # https://www.uspto.gov/Spark

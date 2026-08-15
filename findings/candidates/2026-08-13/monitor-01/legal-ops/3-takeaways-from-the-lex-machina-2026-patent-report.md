@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-12-e6cb6ae195
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 3-takeaways-from-the-lex-machina-2026-patent-report
-ranked_at: '2026-08-14T08:17:03+00:00'
+ranked_at: '2026-08-15T07:32:12+00:00'
 ---
 
 # 3 Takeaways From The Lex Machina 2026 Patent Report

@@ -24,11 +24,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-08-08-3b16f6e6fd
-cluster_size: 13
+cluster_id: cluster-2026-08-09-dd33ae7ed3
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # When AI crosses the line: Anthropic’s findings expose a deeper governance problem

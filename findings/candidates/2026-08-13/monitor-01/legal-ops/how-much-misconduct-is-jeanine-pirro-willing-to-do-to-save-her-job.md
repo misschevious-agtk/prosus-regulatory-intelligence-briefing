@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-12-77302bc2d0
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: peter-navarro-wants-a-prosecutor-fired-for-the-unforgivable-sin-of-pro
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # How Much Misconduct Is Jeanine Pirro Willing To Do To Save Her Job?

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-08-c52b305a9f
-cluster_size: 3
+cluster_id: cluster-2026-08-09-9b49ac9133
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: no-law-degree-no-problem
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # No Law Degree, No Problem

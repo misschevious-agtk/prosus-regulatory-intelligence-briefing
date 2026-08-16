@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-15-a23d974d47
-cluster_size: 3
+cluster_size: 5
 cluster_role: sibling
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 cluster_canonical_slug: deepjudge-disco-spellbook-and-korbyt-unveil-new-capabilities-ahead-of-
 ---
 

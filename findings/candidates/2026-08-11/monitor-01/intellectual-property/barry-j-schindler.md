@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-08-b38caced72
-cluster_size: 5
+cluster_id: cluster-2026-08-09-456096fb8e
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: barry-j-schindler
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Barry J. Schindler

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-08-7c693959e1
-cluster_size: 3
+cluster_id: cluster-2026-08-09-a829692165
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-doj-has-betrayed-epstein-survivors-new-mexico-is-suing-over-the-la
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # The DOJ Has Betrayed Epstein Survivors — New Mexico Is Suing Over The Latest Issue

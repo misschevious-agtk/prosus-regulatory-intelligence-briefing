@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-08-08-9143ad5408
+cluster_id: cluster-2026-08-09-d2d5bccb10
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: ordre-du-jour-de-la-s-ance-pl-ni-re-du-16-juillet-2026
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 16 juillet 2026

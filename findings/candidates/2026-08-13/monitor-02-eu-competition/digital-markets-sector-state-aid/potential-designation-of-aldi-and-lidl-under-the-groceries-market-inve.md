@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-08-c1ade5b5de
+cluster_id: cluster-2026-08-09-0b3f3a9e51
 cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Potential designation of Aldi and Lidl under the Groceries Market Investigation (Controlled Land) Order 2010

@@ -1,0 +1,38 @@
+---
+date_found: 2026-08-16
+monitor: monitor-01
+domain: legal-ops
+source_url: https://www.lawnext.com/2026/08/deepjudge-releases-an-open-protocol-for-passing-users-and-their-context-between-ai-products-with-harvey-and-thomson-reuters-on-board.html
+source_publisher: LawSites (Bob Ambrogi)
+source_date: Thu, 13 Aug 2026 13:00:21 +0000
+source_method: rss
+title: DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board
+matched_keywords:
+- LawNext
+- Harvey
+match_count: 2
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-08-09-08bdd1577a
+cluster_size: 349
+cluster_role: sibling
+cluster_canonical_slug: advancing-responsible-ai-across-europe
+ranked_at: '2026-08-16T07:32:27+00:00'
+---
+
+# DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board
+
+**Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/08/deepjudge-releases-an-open-protocol-for-passing-users-and-their-context-between-ai-products-with-harvey-and-thomson-reuters-on-board.html)
+**Published:** Thu, 13 Aug 2026 13:00:21 +0000
+**Matched keywords (2):** LawNext, Harvey
+
+## Summary excerpt
+
+DeepJudge, the Zurich-based enterprise search company that describes itself as the institutional intelligence platform for legal AI, today introduced the Agent Handoff Protocol, an open protocol designed to let users move from one AI product into another – and, in some cases, back again – while retaining the full context of their work. Harvey has [&#8230;]
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-08-15-c71d9244fc
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: luigi-mangione-pleads-guilty-to-stalking-admits-to-murder-anyway-argue
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Trump DOJ Uses Luigi Mangione Case To Spite Manhattan DA — See Also

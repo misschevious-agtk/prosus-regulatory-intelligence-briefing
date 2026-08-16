@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-08-ed60dd3a6f
+cluster_id: cluster-2026-08-09-512b4d6269
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: space-the-final-frontier-for-standards
-ranked_at: '2026-08-15T07:32:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Space: The Final Frontier for Standards

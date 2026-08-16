@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-08-9433964d04
-cluster_size: 12
+cluster_id: cluster-2026-08-09-3cbe327a8f
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: learn-to-assess-the-strengths-and-weaknesses-of-your-patent-applicatio
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Webinar: Strategies for expediting your patent applications in China

@@ -20,9 +20,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-15-6ea58ad0e9
-cluster_size: 9
+cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Apple’s mobile platform

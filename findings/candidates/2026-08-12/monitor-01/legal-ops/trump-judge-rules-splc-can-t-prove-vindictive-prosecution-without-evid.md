@@ -21,7 +21,7 @@ cluster_id: cluster-2026-08-11-5298943cbd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-judge-rules-splc-can-t-prove-vindictive-prosecution-without-evid
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Trump Judge Rules SPLC Can’t Prove Vindictive Prosecution Without Evidence, Which She Also Won’t Let Them See

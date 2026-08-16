@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-08-0a4ee5e374
-cluster_size: 133
-cluster_role: sibling
-cluster_canonical_slug: vets-market-investigation-draft-substantive-order-and-undertakings
-ranked_at: '2026-08-15T07:32:12+00:00'
+cluster_id: cluster-2026-08-09-4b594d8555
+cluster_size: 114
+cluster_role: canonical
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Vets market investigation: draft substantive Order and Undertakings

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-08-5738267f6e
-cluster_size: 6
+cluster_id: cluster-2026-08-09-98df9366cd
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: securing-smart-speakers-for-home-health-care-nist-offers-new-guideline
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Securing Smart Speakers for Home Health Care: NIST Offers New Guidelines

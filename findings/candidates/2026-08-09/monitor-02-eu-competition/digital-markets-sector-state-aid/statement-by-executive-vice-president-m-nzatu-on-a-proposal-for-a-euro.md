@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-08-7502313df1
+cluster_id: cluster-2026-08-09-b7045f9cd4
 cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: statement-by-executive-vice-president-m-nzatu-on-a-proposal-for-a-euro
-ranked_at: '2026-08-15T07:32:12+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Statement by Executive Vice-President Mînzatu on a proposal for a European Day in Remembrance of Victims of Accidents at Work ahead of the 70 year commemoration of the Marcinelle tragedy

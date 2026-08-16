@@ -22,11 +22,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-08-08-c5b1f30b88
-cluster_size: 52
+cluster_id: cluster-2026-08-09-5d729790e0
+cluster_size: 51
 cluster_role: sibling
 cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Saturday Sundries

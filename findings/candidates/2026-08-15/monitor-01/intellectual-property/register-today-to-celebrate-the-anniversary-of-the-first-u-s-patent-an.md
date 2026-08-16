@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-08-5f2cbc7275
-cluster_size: 132
+cluster_id: cluster-2026-08-09-13f591260a
+cluster_size: 139
 cluster_role: sibling
 cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Register today to celebrate the anniversary of the first U.S. patent and 250 years of American innovation

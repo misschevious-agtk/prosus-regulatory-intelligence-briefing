@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-08-1825df047c
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: back-to-1789-collision-asks-the-federal-circuit-to-rewrite-the-ebay-fa
-ranked_at: '2026-08-15T07:32:12+00:00'
+cluster_id: cluster-2026-08-09-45051156cc
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Back to 1789: Collision Asks the Federal Circuit to Rewrite the eBay Factors

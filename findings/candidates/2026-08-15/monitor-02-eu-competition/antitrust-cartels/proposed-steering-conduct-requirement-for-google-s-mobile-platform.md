@@ -18,9 +18,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-08-15-0d1c66e3a9
-cluster_size: 8
+cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Proposed steering conduct requirement for Google’s mobile platform

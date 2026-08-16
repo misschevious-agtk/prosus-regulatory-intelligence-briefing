@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-11-0d95967cb8
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # New Mexico Judge Appoints Himself Meta’s New Product Manager

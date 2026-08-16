@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-08-c3285076d0
-cluster_size: 27
+cluster_id: cluster-2026-08-09-b09af5d5a6
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: vodafone-ck-hutchison-jv-merger-inquiry
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Healthcare Ireland / Hutchinson Homes merger inquiry

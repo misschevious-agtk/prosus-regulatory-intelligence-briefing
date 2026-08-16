@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-13-cc36118a7c
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Legal Education In America Is Getting A Fresh Look, Without The ABA Accreditor At The Table

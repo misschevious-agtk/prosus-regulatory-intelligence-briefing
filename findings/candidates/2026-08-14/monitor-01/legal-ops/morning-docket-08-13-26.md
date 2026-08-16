@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-08-11-9adf86a650
-cluster_size: 55
+cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-08-10-26
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # Morning Docket: 08.13.26

@@ -25,11 +25,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-08-f0e7e02864
+cluster_id: cluster-2026-08-09-bdf53f19fd
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: gdpr-omnibus-eu-simplification-far-removed-from-real-business-needs
-ranked_at: '2026-08-15T07:32:12+00:00'
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # GDPR Omnibus: EU “simplification” far removed from real business needs

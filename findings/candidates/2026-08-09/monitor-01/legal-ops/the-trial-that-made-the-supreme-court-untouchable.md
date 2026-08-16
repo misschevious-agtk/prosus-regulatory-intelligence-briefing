@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-08-775dc635ae
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-trial-that-made-the-supreme-court-untouchable
-ranked_at: '2026-08-15T07:32:12+00:00'
+cluster_id: cluster-2026-08-09-76d2302682
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-16T07:32:27+00:00'
 ---
 
 # The Trial That Made The Supreme Court Untouchable

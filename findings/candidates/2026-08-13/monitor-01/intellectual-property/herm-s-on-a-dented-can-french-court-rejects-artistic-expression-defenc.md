@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-73d3ea6873
-cluster_size: 8
+cluster_id: cluster-2026-08-17-73861cfca4
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: herm-s-on-a-dented-can-french-court-rejects-artistic-expression-defenc
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_canonical_slug: claude-s-watermarks-and-their-legal-sector-impact
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Hermès on a dented can: French court rejects artistic expression defence

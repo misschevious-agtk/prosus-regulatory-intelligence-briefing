@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-15-f756aeae9e
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: not-before-us-the-federal-circuit-sidesteps-schedule-a-in-jacki-easlic
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Not Before Us: The Federal Circuit Sidesteps Schedule A in Jacki Easlick

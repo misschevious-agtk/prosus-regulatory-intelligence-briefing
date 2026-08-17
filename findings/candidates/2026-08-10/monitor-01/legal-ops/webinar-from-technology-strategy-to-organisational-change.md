@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-4b3398e7f0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: webinar-from-technology-strategy-to-organisational-change
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_id: cluster-2026-08-10-c9e315c662
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Webinar: From technology strategy to organisational change

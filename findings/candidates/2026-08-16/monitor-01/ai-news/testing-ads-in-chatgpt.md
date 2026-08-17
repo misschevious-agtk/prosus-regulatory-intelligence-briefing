@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-09-08bdd1577a
-cluster_size: 349
+cluster_id: cluster-2026-08-10-3ca7218f72
+cluster_size: 351
 cluster_role: sibling
 cluster_canonical_slug: advancing-responsible-ai-across-europe
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Testing ads in ChatGPT

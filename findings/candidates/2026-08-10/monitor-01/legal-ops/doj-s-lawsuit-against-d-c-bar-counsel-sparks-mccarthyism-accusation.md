@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-09-a945cc1906
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: doj-s-lawsuit-against-d-c-bar-counsel-sparks-mccarthyism-accusation
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_id: cluster-2026-08-10-6756559d3f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # DOJ’s Lawsuit Against D.C. Bar Counsel Sparks ‘McCarthyism’ Accusation

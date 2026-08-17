@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-14-319c9ca2be
-cluster_size: 9
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: seras-enva-dedicated-waste-wood-business-merger-inquiry
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Seras / Enva (dedicated waste wood business) merger inquiry

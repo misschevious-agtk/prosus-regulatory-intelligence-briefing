@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-43e1f49021
+cluster_id: cluster-2026-08-10-f004026e54
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: any-color-you-like-nist-scientists-create-any-wavelength-lasers-in-tin
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Any Color You Like: NIST Scientists Create ‘Any Wavelength’ Lasers in Tiny Circuits for Light

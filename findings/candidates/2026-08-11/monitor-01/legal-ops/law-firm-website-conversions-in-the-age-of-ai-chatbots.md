@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-f86ed9e06f
-cluster_size: 3
+cluster_id: cluster-2026-08-10-b6a1880b10
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: law-firm-website-conversions-in-the-age-of-ai-chatbots
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Law Firm Website Conversions In The Age Of AI Chatbots

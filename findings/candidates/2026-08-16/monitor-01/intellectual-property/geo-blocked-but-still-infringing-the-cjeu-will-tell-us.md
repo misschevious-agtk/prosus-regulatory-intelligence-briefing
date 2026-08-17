@@ -20,10 +20,10 @@ case_numbers:
 - scheme: EU Court of Justice
   citation: C-584/26
 cluster_id: cluster-2026-08-13-412ab3a53c
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: geo-blocked-but-still-infringing-the-cjeu-will-tell-us
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Geo-blocked but still infringing? The CJEU will tell us

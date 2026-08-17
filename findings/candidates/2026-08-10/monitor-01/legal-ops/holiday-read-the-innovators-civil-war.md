@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-80438df9d1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: holiday-read-the-innovators-civil-war
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_id: cluster-2026-08-10-cdedae7126
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Holiday Read – The Innovators – ‘Civil War’

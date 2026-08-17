@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-13-3d8a0500db
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: small-businesses-could-face-double-digit-premium-hikes-in-2027
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Small Businesses Could Face Double-Digit Premium Hikes In 2027

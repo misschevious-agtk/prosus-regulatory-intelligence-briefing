@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-1a64c0901e
+cluster_id: cluster-2026-08-10-f01b78df94
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: claim-construction-checkpoints-application-as-filed-versus-granted-pat
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Claim construction checkpoints: Application as filed versus granted patent (T 0715/24)

@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-08-09-dd33ae7ed3
-cluster_size: 10
+cluster_id: cluster-2026-08-10-a8a1d754d9
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: when-ai-crosses-the-line-anthropic-s-findings-expose-a-deeper-governan
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Anthropic hires Robert Mahari as head of Claude for Legal

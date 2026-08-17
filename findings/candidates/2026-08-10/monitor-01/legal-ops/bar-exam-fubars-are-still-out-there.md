@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-0d2565d57e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: bar-exam-fubars-are-still-out-there
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_id: cluster-2026-08-10-95fb64290f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Bar Exam FUBARs Are Still Out There

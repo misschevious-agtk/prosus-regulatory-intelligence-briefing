@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-15-f50e07bb2f
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Biglaw’s NDA Problem Is Heading To Prestige TV

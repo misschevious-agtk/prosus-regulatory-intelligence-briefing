@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-11-2fe6fcd433
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: samuel-alito-sees-vultures-circling-his-supreme-court-seat-but-has-no-
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Samuel Alito Sees ‘Vultures’ Circling His Supreme Court Seat But Has No Plans To Retire

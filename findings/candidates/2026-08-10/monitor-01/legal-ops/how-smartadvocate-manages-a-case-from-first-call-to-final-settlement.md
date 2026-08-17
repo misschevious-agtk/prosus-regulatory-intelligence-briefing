@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-b13e4e2ed6
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-smartadvocate-manages-a-case-from-first-call-to-final-settlement
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_id: cluster-2026-08-10-75909b26d0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # How SmartAdvocate™ Manages A Case From First Call To Final Settlement

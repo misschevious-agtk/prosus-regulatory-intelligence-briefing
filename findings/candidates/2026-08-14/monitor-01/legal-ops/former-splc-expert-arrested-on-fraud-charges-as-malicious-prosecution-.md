@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-13-c446164e1e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: former-splc-expert-arrested-on-fraud-charges-as-malicious-prosecution-
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Former SPLC Expert Arrested On Fraud Charges As Malicious Prosecution Expands

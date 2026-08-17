@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-10-9e97adf45d
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO

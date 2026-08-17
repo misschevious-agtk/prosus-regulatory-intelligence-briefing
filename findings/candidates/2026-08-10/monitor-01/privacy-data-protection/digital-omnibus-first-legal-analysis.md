@@ -19,11 +19,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-09-99a7d5b7b1
+cluster_id: cluster-2026-08-10-69e4cbac9d
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: digital-omnibus-first-legal-analysis
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Digital Omnibus - First Legal Analysis

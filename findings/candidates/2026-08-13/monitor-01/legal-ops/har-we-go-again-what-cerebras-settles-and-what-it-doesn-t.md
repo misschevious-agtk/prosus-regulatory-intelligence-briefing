@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-13-710f8ea5b8
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # HAR We Go Again: What Cerebras Settles — and What It Doesn’t

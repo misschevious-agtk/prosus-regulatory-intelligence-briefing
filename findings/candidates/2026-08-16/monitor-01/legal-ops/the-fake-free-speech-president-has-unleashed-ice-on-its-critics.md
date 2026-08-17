@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-15-9bdf16089e
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-fake-free-speech-president-has-unleashed-ice-on-its-critics
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # The Fake Free Speech President Has Unleashed ICE On Its Critics

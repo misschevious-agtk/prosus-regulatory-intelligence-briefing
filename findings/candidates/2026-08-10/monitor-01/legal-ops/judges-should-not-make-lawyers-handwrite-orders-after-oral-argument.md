@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-09-56887167c9
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: judges-should-not-make-lawyers-handwrite-orders-after-oral-argument
-ranked_at: '2026-08-16T07:32:27+00:00'
+cluster_id: cluster-2026-08-10-4ec916f9c0
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Judges Should Not Make Lawyers Handwrite Orders After Oral Argument

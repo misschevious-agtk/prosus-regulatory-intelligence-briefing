@@ -19,10 +19,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-08-14-30f67b1a99
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: anthropic-will-embed-watermarks-in-ai-outputs
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Anthropic Will Embed Watermarks in AI Outputs

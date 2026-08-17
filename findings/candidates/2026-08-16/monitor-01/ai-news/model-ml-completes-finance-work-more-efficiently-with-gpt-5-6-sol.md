@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-11-ec0321f8e3
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Model ML completes finance work more efficiently with GPT-5.6 Sol

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-14-184f85beb6
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Who Is Justice Barrett?

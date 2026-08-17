@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-13-16bbee94a0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-surrenders-were-worse-than-we-thought
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Biglaw Surrenders Were Worse Than We Thought

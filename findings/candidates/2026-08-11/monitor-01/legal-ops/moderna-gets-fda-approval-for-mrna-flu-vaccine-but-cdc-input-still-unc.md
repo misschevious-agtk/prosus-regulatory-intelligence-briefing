@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-11-b597825b77
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Moderna Gets FDA Approval For mRNA Flu Vaccine, But CDC Input Still Uncertain

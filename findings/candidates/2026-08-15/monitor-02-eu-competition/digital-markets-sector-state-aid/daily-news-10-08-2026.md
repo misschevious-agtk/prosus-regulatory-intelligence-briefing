@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-09-c406f8d6f5
-cluster_size: 126
+cluster_id: cluster-2026-08-10-6c68d28356
+cluster_size: 129
 cluster_role: sibling
 cluster_canonical_slug: daily-news-06-08-2026
-ranked_at: '2026-08-16T07:32:27+00:00'
+ranked_at: '2026-08-17T07:55:04+00:00'
 ---
 
 # Daily News 10 / 08 / 2026

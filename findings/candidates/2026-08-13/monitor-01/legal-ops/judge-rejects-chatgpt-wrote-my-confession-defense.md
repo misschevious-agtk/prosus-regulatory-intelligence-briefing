@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-12-7de655f57a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: judge-rejects-chatgpt-wrote-my-confession-defense
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Judge Rejects ‘ChatGPT Wrote My Confession’ Defense

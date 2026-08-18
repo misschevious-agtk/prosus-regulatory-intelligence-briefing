@@ -20,9 +20,9 @@ case_numbers:
 - scheme: EU Court of Justice
   citation: C-584/26
 cluster_id: cluster-2026-08-13-412ab3a53c
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Geo-blocked but still infringing? The CJEU will tell us

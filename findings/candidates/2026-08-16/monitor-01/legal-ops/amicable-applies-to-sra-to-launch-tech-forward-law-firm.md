@@ -17,10 +17,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-14-69873f9084
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: amicable-applies-to-sra-to-launch-tech-forward-law-firm
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # amicable applies to SRA to launch “tech-forward” law firm

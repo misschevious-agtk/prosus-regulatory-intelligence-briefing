@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-15-6b0a9f632d
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: congress-threw-this-judge-off-the-bench-the-voters-sent-him-right-back
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Congress Threw This Judge Off The Bench. The Voters Sent Him Right Back To Congress.

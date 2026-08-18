@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-10-49649d15e8
-cluster_size: 147
+cluster_id: cluster-2026-08-11-806093ef75
+cluster_size: 155
 cluster_role: sibling
-cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
-ranked_at: '2026-08-17T07:55:04+00:00'
+cluster_canonical_slug: ex-parte-baurin-and-the-anti-harassment-rationale-for-double-patenting
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Can Harassment Risk Alone Support Obviousness-Type Double Patenting?

@@ -18,9 +18,9 @@ entities:
   matched_alias: UPC
 case_numbers: []
 cluster_id: cluster-2026-08-17-cd8186d1ee
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Sunday Surprises

@@ -21,11 +21,10 @@ case_numbers:
   citation: C-580/23
 - scheme: EU Court of Justice
   citation: C-795/23
-cluster_id: cluster-2026-08-10-9f7acb08e9
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: usm-haller-ii-copyright-protection-for-a-furniture-system-maybe
-ranked_at: '2026-08-17T07:55:04+00:00'
+cluster_id: cluster-2026-08-11-4d56a6afc5
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # USM Haller II – Copyright protection for a furniture system? Maybe!

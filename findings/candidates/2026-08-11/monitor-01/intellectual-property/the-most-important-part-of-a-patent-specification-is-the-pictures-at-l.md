@@ -19,11 +19,10 @@ entities:
   jurisdiction: EU
   matched_alias: General Court
 case_numbers: []
-cluster_id: cluster-2026-08-10-28e6a3fb8d
+cluster_id: cluster-2026-08-11-5b832055cc
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-most-important-part-of-a-patent-specification-is-the-pictures-at-l
-ranked_at: '2026-08-17T07:55:04+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # The most important part of a patent specification is … the pictures (at least for design law)

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-13-a87b4c751c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: two-brother-left-the-same-biglaw-firm-and-took-over-u-s-foreign-policy
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Two Brothers Left The Same Biglaw Firm And Took Over U.S. Foreign Policy

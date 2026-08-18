@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-13-cc36118a7c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-education-in-america-is-getting-a-fresh-look-without-the-aba-acc
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Legal Education In America Is Getting A Fresh Look, Without The ABA Accreditor At The Table

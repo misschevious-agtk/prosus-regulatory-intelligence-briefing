@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-10-82d45f174e
+cluster_id: cluster-2026-08-11-785c76cd36
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: law-democratized-renee-knake-jefferson-on-her-blueprint-for-solving-th
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Law Democratized: Renee Knake Jefferson on Her Blueprint for Solving the Justice Crisis

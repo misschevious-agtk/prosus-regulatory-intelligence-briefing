@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-10-a47cdd603e
+cluster_id: cluster-2026-08-11-e4aeb262c2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: scotus-patent-owner-joins-the-section-314-d-cert-queue
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # SCOTUS: Patent Owner Joins the Section 314(d) Cert Queue

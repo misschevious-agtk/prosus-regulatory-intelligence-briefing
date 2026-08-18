@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-10-4602cb5d31
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: todd-blanche-threading-the-narrowest-of-needles-for-confirmation
-ranked_at: '2026-08-17T07:55:04+00:00'
+cluster_id: cluster-2026-08-11-3014ca9fa8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Todd Blanche Threading The Narrowest Of Needles For Confirmation

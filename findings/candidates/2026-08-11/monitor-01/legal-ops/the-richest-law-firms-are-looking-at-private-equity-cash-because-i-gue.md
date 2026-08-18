@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-11-0a39118cd0
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # The Richest Law Firms Are Looking At Private Equity Cash Because I Guess They Don’t Have Enough Money

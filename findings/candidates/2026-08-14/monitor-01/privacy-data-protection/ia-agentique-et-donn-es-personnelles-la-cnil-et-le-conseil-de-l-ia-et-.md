@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-08-10-66b8094159
+cluster_id: cluster-2026-08-11-e8e414b84a
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: ia-agentique-et-donn-es-personnelles-la-cnil-et-le-conseil-de-l-ia-et-
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # IA agentique et données personnelles : la CNIL et le Conseil de l’IA et du Numérique publient une note exploratoire

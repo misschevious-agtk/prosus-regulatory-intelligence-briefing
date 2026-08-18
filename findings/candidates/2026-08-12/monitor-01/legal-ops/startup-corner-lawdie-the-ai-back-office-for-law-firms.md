@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-10-3df9dc1976
-cluster_size: 11
+cluster_id: cluster-2026-08-11-a4cc4cced6
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: startup-corner-lawdie-the-ai-back-office-for-law-firms
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Startup Corner: Lawdie, the AI back office for law firms

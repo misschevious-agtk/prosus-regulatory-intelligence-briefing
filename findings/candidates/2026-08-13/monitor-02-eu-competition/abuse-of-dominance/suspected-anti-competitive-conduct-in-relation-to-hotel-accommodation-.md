@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-10-b0c484ffa9
-cluster_size: 95
+cluster_id: cluster-2026-08-11-6632a8cfc4
+cluster_size: 76
 cluster_role: sibling
 cluster_canonical_slug: vets-market-investigation-draft-substantive-order-and-undertakings
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Suspected anti-competitive conduct in relation to hotel accommodation services

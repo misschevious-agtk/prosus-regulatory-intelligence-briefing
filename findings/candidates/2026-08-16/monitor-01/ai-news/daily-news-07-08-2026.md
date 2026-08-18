@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-10-6c68d28356
-cluster_size: 129
+cluster_id: cluster-2026-08-11-7d05e1016b
+cluster_size: 135
 cluster_role: sibling
-cluster_canonical_slug: daily-news-06-08-2026
-ranked_at: '2026-08-17T07:55:04+00:00'
+cluster_canonical_slug: commission-greenlights-poland-s-fifth-payment-request-for-7-9-billion-
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Daily News 07 / 08 / 2026

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-10-f6e27c7c09
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-viral-wachtell-kiss-that-exposed-a-bigger-biglaw-problem
-ranked_at: '2026-08-17T07:55:04+00:00'
+cluster_id: cluster-2026-08-11-03253e393a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # The Viral Wachtell Kiss That Exposed A Bigger Biglaw Problem

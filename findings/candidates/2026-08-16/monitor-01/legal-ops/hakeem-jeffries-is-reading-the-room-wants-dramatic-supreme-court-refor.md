@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-15-d721dc5724
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: hakeem-jeffries-is-reading-the-room-wants-dramatic-supreme-court-refor
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Hakeem Jeffries Is Reading The Room, Wants ‘Dramatic’ Supreme Court Reform

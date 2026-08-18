@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-13-5771141aa7
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered

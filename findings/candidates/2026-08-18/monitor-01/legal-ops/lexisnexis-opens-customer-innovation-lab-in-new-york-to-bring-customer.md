@@ -1,0 +1,47 @@
+---
+date_found: 2026-08-18
+monitor: monitor-01
+domain: legal-ops
+source_url: https://www.lawnext.com/2026/08/lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customers-engineers-and-ai-companies-together-to-build-legal-ai-in-real-time.html
+source_publisher: LawSites (Bob Ambrogi)
+source_date: Tue, 04 Aug 2026 11:59:47 +0000
+source_method: rss
+title: LexisNexis Opens Customer Innovation Lab in New York to Bring Customers, Engineers and AI Companies Together to Build Legal AI in Real Time
+matched_keywords:
+- LawNext
+- LexisNexis
+- OpenAI
+match_count: 3
+status: candidate
+entities:
+- name: Amazon
+  type: bigtech
+  jurisdiction: US
+  matched_alias: Amazon Web Services
+- name: OpenAI
+  type: company
+  jurisdiction: US
+  matched_alias: OpenAI
+case_numbers: []
+cluster_id: cluster-2026-08-11-9acf9afd97
+cluster_size: 24
+cluster_role: sibling
+cluster_canonical_slug: lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customer
+ranked_at: '2026-08-18T07:47:34+00:00'
+---
+
+# LexisNexis Opens Customer Innovation Lab in New York to Bring Customers, Engineers and AI Companies Together to Build Legal AI in Real Time
+
+**Source:** [LawSites (Bob Ambrogi)](https://www.lawnext.com/2026/08/lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customers-engineers-and-ai-companies-together-to-build-legal-ai-in-real-time.html)
+**Published:** Tue, 04 Aug 2026 11:59:47 +0000
+**Matched keywords (3):** LawNext, LexisNexis, OpenAI
+
+## Summary excerpt
+
+LexisNexis Legal &#38; Professional today announced the opening of its Customer Innovation Lab in New York City, a physical space where legal professionals, LexisNexis engineers, and AI technology partners including OpenAI and Amazon Web Services work side by side to design, prototype and test new legal AI capabilities – sometimes iterating on an idea multiple [&#8230;]
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

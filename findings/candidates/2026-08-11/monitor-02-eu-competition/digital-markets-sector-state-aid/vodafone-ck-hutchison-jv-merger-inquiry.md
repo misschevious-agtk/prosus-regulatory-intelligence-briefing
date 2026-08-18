@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-10-6340329d1d
-cluster_size: 15
+cluster_id: cluster-2026-08-11-5a1a990c50
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: vodafone-ck-hutchison-jv-merger-inquiry
-ranked_at: '2026-08-17T07:55:04+00:00'
+ranked_at: '2026-08-18T07:47:34+00:00'
 ---
 
 # Vodafone / CK Hutchison JV merger inquiry

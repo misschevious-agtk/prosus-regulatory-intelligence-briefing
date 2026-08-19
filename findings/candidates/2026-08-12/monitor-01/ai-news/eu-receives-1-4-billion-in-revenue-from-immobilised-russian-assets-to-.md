@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-11-7d05e1016b
-cluster_size: 135
+cluster_id: cluster-2026-08-12-53448daab1
+cluster_size: 139
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-poland-s-fifth-payment-request-for-7-9-billion-
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # EU receives €1.4 billion in revenue from immobilised Russian assets to be used for supporting Ukraine

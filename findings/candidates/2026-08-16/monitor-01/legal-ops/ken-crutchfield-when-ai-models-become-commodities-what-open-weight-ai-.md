@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-11-c4ff1f4377
-cluster_size: 305
+cluster_id: cluster-2026-08-19-b834a0296c
+cluster_size: 350
 cluster_role: sibling
-cluster_canonical_slug: advancing-responsible-ai-across-europe
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Ken Crutchfield: When AI Models Become Commodities — What Open-Weight AI Could Mean For LegalTech

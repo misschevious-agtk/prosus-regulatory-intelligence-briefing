@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-70178b79d3
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-law-schools-with-the-highest-lsat-scores-2026
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_id: cluster-2026-08-12-7f1ecdeea2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # The Law Schools With The Highest LSAT Scores (2026)

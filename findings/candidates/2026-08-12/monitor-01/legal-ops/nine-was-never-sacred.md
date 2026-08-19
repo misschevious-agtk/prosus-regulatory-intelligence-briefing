@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-5707becd5a
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: nine-was-never-sacred
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_id: cluster-2026-08-12-5e468b27e3
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Nine Was Never Sacred

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-13-1c3fddaf29
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: lobbing-multimillion-dollar-munitions-at-targets-worth-less-than-the-m
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Lobbing Multimillion-Dollar Munitions At Targets Worth Less Than The Missiles Themselves Remains A Bad War Strategy

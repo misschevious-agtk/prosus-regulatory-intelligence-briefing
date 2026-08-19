@@ -20,10 +20,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-08-12-5ea782a5a8
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-bartz-anthropic-settlement-is-still-a-hot-mess-but-at-least-it-is-
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # The Bartz/Anthropic Settlement is still a hot mess but at least it is the largest known copyright recovery of all time (for piracy)?

@@ -1,0 +1,37 @@
+---
+date_found: 2026-08-19
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/08/lawyer-disbarred-after-suggesting-colleague-be-sent-to-mental-asylum/
+source_publisher: Above the Law
+source_date: Mon, 17 Aug 2026 20:04:00 +0000
+source_method: rss
+title: Lawyer Disbarred After Suggesting Colleague Be Sent To ‘Mental Asylum’
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-08-18-0c3b5811f2
+cluster_size: 2
+cluster_role: sibling
+cluster_canonical_slug: lawyer-disbarred-after-suggesting-colleague-be-sent-to-mental-asylum
+ranked_at: '2026-08-19T07:47:44+00:00'
+---
+
+# Lawyer Disbarred After Suggesting Colleague Be Sent To ‘Mental Asylum’
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/08/lawyer-disbarred-after-suggesting-colleague-be-sent-to-mental-asylum/)
+**Published:** Mon, 17 Aug 2026 20:04:00 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+In fairness, that's not all. The post Lawyer Disbarred After Suggesting Colleague Be Sent To &#8216;Mental Asylum&#8217; appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

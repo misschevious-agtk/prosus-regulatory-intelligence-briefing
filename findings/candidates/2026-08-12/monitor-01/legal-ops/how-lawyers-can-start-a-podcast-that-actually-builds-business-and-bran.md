@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-40d043eefa
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-lawyers-can-start-a-podcast-that-actually-builds-business-and-bran
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_id: cluster-2026-08-12-eae4638253
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # How Lawyers Can Start A Podcast That Actually Builds Business And Brand

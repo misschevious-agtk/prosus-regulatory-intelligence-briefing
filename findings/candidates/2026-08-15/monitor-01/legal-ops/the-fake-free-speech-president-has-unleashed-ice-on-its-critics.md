@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-15-9bdf16089e
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # The Fake Free Speech President Has Unleashed ICE On Its Critics

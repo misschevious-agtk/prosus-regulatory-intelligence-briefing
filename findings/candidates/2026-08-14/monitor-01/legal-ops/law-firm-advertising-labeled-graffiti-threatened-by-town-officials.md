@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-14-b24cdcbc8a
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Law Firm Advertising Labeled ‘Graffiti,’ Threatened By Town Officials

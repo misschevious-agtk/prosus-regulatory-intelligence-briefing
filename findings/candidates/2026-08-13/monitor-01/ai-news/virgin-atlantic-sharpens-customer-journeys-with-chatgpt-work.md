@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-c43f81238c
-cluster_size: 16
+cluster_id: cluster-2026-08-19-b834a0296c
+cluster_size: 350
 cluster_role: sibling
-cluster_canonical_slug: premium-seats-are-coming-to-chatgpt-business
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Virgin Atlantic sharpens customer journeys with ChatGPT Work

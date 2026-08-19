@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-12-77302bc2d0
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Peter Navarro Wants A Prosecutor Fired For The Unforgivable Sin Of Prosecuting Him

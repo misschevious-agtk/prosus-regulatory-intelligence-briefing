@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-17-73861cfca4
-cluster_size: 9
+cluster_id: cluster-2026-08-19-b834a0296c
+cluster_size: 350
 cluster_role: sibling
-cluster_canonical_slug: claude-s-watermarks-and-their-legal-sector-impact
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Hermès on a dented can: French court rejects artistic expression defence

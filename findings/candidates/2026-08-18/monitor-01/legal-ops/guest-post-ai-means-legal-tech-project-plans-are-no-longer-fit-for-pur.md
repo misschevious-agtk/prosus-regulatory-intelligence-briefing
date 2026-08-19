@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-18-141c7d57ef
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_id: cluster-2026-08-19-b834a0296c
+cluster_size: 350
+cluster_role: sibling
+ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
 ---
 
 # Guest Post: AI means legal tech project plans are no longer fit for purpose

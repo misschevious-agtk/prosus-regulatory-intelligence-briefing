@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-8eb7866519
+cluster_id: cluster-2026-08-12-141b729693
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-expands-its-library-of-chemical-fingerprints-to-identify-unknown-
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # NIST Expands Its Library of ‘Chemical Fingerprints’ to Identify Unknown Substances

@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-cc10e78daf
+cluster_id: cluster-2026-08-12-f99e0a0fda
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: rise-of-ai-patents-and-their-corresponding-eligibility-rejections
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Rise of AI Patents and their Corresponding Eligibility Rejections

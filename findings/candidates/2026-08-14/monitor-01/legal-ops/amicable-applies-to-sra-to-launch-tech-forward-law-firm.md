@@ -19,7 +19,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-14-69873f9084
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # amicable applies to SRA to launch “tech-forward” law firm

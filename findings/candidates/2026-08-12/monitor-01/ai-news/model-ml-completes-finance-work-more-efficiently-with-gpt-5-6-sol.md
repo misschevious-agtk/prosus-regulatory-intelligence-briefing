@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-ec0321f8e3
+cluster_id: cluster-2026-08-12-fe59c7e1ef
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Model ML completes finance work more efficiently with GPT-5.6 Sol

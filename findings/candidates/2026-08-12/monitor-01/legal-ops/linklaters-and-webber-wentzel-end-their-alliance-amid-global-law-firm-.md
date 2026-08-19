@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-7dc7739426
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: linklaters-and-webber-wentzel-end-their-alliance-amid-global-law-firm-
-ranked_at: '2026-08-18T07:47:34+00:00'
+cluster_id: cluster-2026-08-12-5c96001e58
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Linklaters and Webber Wentzel end their alliance amid global law firm churn in SA

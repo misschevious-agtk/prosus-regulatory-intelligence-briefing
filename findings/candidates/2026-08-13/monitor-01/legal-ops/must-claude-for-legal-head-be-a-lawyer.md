@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-08-11-be5c545e8a
-cluster_size: 3
+cluster_id: cluster-2026-08-12-b29b4b0963
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: must-claude-for-legal-head-be-a-lawyer
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Must ‘Claude For Legal’ Head Be A Lawyer?

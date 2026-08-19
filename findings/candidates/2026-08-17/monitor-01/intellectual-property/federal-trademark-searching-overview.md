@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-11-9e105e97d3
-cluster_size: 12
+cluster_id: cluster-2026-08-12-5ab74de721
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: federal-trademark-filing-overview
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Federal trademark searching: Overview

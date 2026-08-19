@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-11-7e8ef6d758
-cluster_size: 8
+cluster_id: cluster-2026-08-12-9c73473bd3
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: rise-of-openai-in-the-patent-system
-ranked_at: '2026-08-18T07:47:34+00:00'
+ranked_at: '2026-08-19T07:47:44+00:00'
 ---
 
 # Rise of OpenAI in the Patent System

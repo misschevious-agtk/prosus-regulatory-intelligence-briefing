@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-9f718fee33
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-trump-administration-says-the-names-of-the-people-who-wrote-the-bi
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Expert Has ChatGPT Write Report. That Was A… Poor Decision — See Also

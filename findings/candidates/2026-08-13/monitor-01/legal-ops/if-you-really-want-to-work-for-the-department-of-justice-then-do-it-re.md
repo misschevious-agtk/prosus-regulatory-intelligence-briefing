@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-13-16a537d26d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # If You Really Want To Work For The Department Of Justice, Then Do It Regardless Of Who The President Is

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-e6cb6ae195
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 3-takeaways-from-the-lex-machina-2026-patent-report
-ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_id: cluster-2026-08-13-25ff399438
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # 3 Takeaways From The Lex Machina 2026 Patent Report

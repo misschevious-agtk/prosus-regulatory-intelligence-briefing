@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-7de655f57a
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: judge-rejects-chatgpt-wrote-my-confession-defense
-ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_id: cluster-2026-08-13-cc4a9aed02
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Judge Rejects ‘ChatGPT Wrote My Confession’ Defense

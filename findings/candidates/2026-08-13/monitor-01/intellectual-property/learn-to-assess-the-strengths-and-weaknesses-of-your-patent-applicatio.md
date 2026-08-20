@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-ef02a740f8
+cluster_id: cluster-2026-08-13-4995678786
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: learn-to-assess-the-strengths-and-weaknesses-of-your-patent-applicatio
-ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Learn to assess the strengths and weaknesses of your patent application

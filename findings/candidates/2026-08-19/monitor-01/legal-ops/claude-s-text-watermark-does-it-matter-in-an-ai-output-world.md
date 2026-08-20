@@ -23,7 +23,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-19-b834a0296c
 cluster_size: 350
 cluster_role: canonical
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Claude’s text watermark – Does it matter in an AI output world?

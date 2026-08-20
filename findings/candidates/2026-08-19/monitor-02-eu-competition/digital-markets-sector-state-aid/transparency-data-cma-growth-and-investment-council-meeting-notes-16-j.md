@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-19-485341de2c
-cluster_size: 3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-growth-and-investment-council-meeting-notes-16-j
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Transparency data: CMA Growth and Investment Council meeting notes: 16 July 2026

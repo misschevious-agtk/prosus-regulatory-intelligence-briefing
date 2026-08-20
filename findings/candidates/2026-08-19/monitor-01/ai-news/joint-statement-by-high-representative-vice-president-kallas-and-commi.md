@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-19-cf8821e87c
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: joint-statement-by-high-representative-vice-president-kallas-and-commi
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Joint statement by High Representative/Vice-President Kallas and Commissioner Lahbib ahead of World Humanitarian Day*

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-ba3984fb54
+cluster_id: cluster-2026-08-13-76fa5e31ce
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: bringing-home-the-bacon-clio-launches-clio-work-ai-in-its-home-country
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Bringing Home The Bacon: Clio Launches ‘Clio Work’ AI In Its Home Country Of Canada

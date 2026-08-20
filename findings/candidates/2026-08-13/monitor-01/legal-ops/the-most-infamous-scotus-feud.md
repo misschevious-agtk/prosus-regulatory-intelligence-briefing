@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-ee9a06b8b8
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-most-infamous-scotus-feud
-ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_id: cluster-2026-08-13-03fd7ec810
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # The Most Infamous SCOTUS Feud

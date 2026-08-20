@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-15-c71d9244fc
 cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Luigi Mangione Pleads Guilty To Stalking, Admits To Murder Anyway, Argues This Makes Trial Double Jeopardy

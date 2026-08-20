@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-85b660380e
-cluster_size: 41
+cluster_id: cluster-2026-08-13-045518f2b6
+cluster_size: 39
 cluster_role: sibling
 cluster_canonical_slug: from-hugging-face-to-amazon-sagemaker-studio-in-one-click
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Hugging Face and Cerebras bring Gemma 4 to real-time voice AI

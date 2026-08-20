@@ -1,0 +1,44 @@
+---
+date_found: 2026-08-20
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://patentlyo.com/patent/2026/08/ex-parte-baurin-and-the-anti-harassment-rationale-for-double-patenting.html
+source_publisher: Patently-O
+source_date: Mon, 10 Aug 2026 02:13:49 +0000
+source_method: rss
+title: Ex parte Baurin and the Anti-Harassment Rationale for Double Patenting
+matched_keywords:
+- Federal Circuit
+- patent
+- USPTO
+- Patent
+match_count: 4
+status: candidate
+entities:
+- name: United States Patent and Trademark Office
+  type: regulator
+  jurisdiction: US
+  matched_alias: USPTO
+case_numbers: []
+cluster_id: cluster-2026-08-13-b0c56317ab
+cluster_size: 8
+cluster_role: sibling
+cluster_canonical_slug: ex-parte-baurin-and-the-anti-harassment-rationale-for-double-patenting
+ranked_at: '2026-08-20T07:51:28+00:00'
+---
+
+# Ex parte Baurin and the Anti-Harassment Rationale for Double Patenting
+
+**Source:** [Patently-O](https://patentlyo.com/patent/2026/08/ex-parte-baurin-and-the-anti-harassment-rationale-for-double-patenting.html)
+**Published:** Mon, 10 Aug 2026 02:13:49 +0000
+**Matched keywords (4):** Federal Circuit, patent, USPTO, Patent
+
+## Summary excerpt
+
+Ex parte Baurin sustains double patenting on an anti-harassment theory the USPTO distrusts, with the Federal Circuit's In re Ablynx up next. Continue reading this post on Patently-O.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

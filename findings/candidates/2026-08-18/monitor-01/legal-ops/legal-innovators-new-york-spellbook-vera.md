@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-15-a23d974d47
 cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: deepjudge-disco-spellbook-and-korbyt-unveil-new-capabilities-ahead-of-
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Legal Innovators New York, Spellbook, Vera +

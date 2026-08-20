@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-2b159381e6
-cluster_size: 2
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: harvey-ii-launches-with-memory-that-learns-how-individual-lawyers-work
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Next Gen ‘Harvey II’ Launches with Memory at Its Core

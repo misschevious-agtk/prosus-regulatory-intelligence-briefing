@@ -1,0 +1,41 @@
+---
+date_found: 2026-08-20
+monitor: monitor-01
+domain: ai-news
+source_url: https://openai.com/index/building-an-ai-native-finance-function
+source_publisher: OpenAI blog
+source_date: Mon, 10 Aug 2026 17:00:00 GMT
+source_method: rss
+title: What building an AI-native finance function taught me
+matched_keywords:
+- OpenAI
+match_count: 1
+status: candidate
+entities:
+- name: OpenAI
+  type: company
+  jurisdiction: US
+  matched_alias: OpenAI
+case_numbers: []
+cluster_id: cluster-2026-08-19-b834a0296c
+cluster_size: 350
+cluster_role: sibling
+cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
+ranked_at: '2026-08-20T07:51:28+00:00'
+---
+
+# What building an AI-native finance function taught me
+
+**Source:** [OpenAI blog](https://openai.com/index/building-an-ai-native-finance-function)
+**Published:** Mon, 10 Aug 2026 17:00:00 GMT
+**Matched keywords (1):** OpenAI
+
+## Summary excerpt
+
+OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

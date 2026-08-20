@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-a01bd326da
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legaltech-governance-latest-new-akerman-head-eu-ai-act-warning-barbri-
-ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_id: cluster-2026-08-13-5879c0223a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Legaltech governance latest: New Akerman head, EU AI Act warning, & BARBRI AI adoption findings

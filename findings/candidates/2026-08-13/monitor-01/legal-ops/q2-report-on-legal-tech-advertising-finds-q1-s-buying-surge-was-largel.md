@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-147ac22c1f
+cluster_id: cluster-2026-08-13-5295a77b49
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: q2-report-on-legal-tech-advertising-finds-q1-s-buying-surge-was-largel
-ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Q2 Report On Legal Tech Advertising Finds Q1’s Buying Surge Was Largely Seasonal, But Reveals Where Demand Is Now Concentrated

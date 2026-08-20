@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-12-53448daab1
-cluster_size: 139
-cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-poland-s-fifth-payment-request-for-7-9-billion-
-ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_id: cluster-2026-08-13-05a9074dbc
+cluster_size: 143
+cluster_role: canonical
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Commission greenlights Poland's fifth payment request for €7.9 billion under NextGenerationEU

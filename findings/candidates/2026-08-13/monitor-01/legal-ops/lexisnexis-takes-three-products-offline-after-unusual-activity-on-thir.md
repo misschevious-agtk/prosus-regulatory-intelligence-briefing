@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-12-e9f2578af1
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: lexisnexis-takes-three-products-offline-after-unusual-activity-on-thir
-ranked_at: '2026-08-19T07:47:44+00:00'
+cluster_id: cluster-2026-08-13-e3889cd083
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # LexisNexis takes three products offline after ‘unusual activity’ on third-party servers

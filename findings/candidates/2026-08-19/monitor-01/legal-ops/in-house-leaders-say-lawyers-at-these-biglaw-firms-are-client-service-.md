@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-d7b72d27bc
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: in-house-lawyers-who-you-gonna-call
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # In-House Leaders Say Lawyers At These Biglaw Firms Are Client Service ‘All-Stars’ (2026)

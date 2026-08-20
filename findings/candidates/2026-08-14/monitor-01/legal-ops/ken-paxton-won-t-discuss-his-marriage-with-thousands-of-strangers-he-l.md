@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-13-4092220a82
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ken-paxton-won-t-discuss-his-marriage-with-thousands-of-strangers-he-l
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Ken Paxton Won’t Discuss His Marriage With Thousands Of Strangers. He’ll Just Regulate Yours.

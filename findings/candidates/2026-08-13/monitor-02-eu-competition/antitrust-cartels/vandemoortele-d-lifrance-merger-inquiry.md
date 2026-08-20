@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-12-9f76b26463
-cluster_size: 138
+cluster_id: cluster-2026-08-13-7d75d89e4e
+cluster_size: 132
 cluster_role: sibling
 cluster_canonical_slug: nrg-fleet-services-specialist-fleet-services-merger-inquiry
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Vandemoortele / Délifrance merger inquiry

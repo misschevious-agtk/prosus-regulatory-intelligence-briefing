@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-13-4a1431d951
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: florida-s-ag-wants-to-charge-wnba-player-with-crime-of-playing-basketb
-ranked_at: '2026-08-19T07:47:44+00:00'
+ranked_at: '2026-08-20T07:51:28+00:00'
 ---
 
 # Florida’s AG Wants To Charge WNBA Player With Crime Of Playing Basketball

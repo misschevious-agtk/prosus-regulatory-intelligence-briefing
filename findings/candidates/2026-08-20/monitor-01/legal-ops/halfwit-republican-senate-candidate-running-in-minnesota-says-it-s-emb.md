@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-20-9698674e8e
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Halfwit Republican Senate Candidate Running In Minnesota Says ‘It’s Embarrassing’ To Be Minnesotan

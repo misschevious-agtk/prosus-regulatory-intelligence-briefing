@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-14-b24cdcbc8a
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: law-firm-advertising-labeled-graffiti-threatened-by-town-officials
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Law Firm Advertising Labeled ‘Graffiti,’ Threatened By Town Officials

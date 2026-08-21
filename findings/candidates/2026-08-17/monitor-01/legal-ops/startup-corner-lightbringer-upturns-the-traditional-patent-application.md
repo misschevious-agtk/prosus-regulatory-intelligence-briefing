@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-15-de67400ca0
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: startup-corner-lightbringer-upturns-the-traditional-patent-application
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Startup Corner: Lightbringer upturns the traditional patent application model

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-19-3207099703
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-most-famous-line-about-grand-juries-came-back-to-bite-its-author
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # The Most Famous Line About Grand Juries Came Back To Bite Its Author

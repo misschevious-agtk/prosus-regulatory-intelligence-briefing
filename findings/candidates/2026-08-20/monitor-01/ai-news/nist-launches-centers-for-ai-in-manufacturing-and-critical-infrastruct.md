@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-a540dbc507
+cluster_id: cluster-2026-08-14-e5c83b7557
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-launches-centers-for-ai-in-manufacturing-and-critical-infrastruct
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # NIST Launches Centers for AI in Manufacturing and Critical Infrastructure

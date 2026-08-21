@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-cc36118a7c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-education-in-america-is-getting-a-fresh-look-without-the-aba-acc
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_id: cluster-2026-08-14-2521822524
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Legal Education In America Is Getting A Fresh Look, Without The ABA Accreditor At The Table

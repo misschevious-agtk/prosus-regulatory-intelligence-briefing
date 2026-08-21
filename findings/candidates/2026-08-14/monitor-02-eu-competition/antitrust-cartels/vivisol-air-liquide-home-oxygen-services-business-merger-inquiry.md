@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-13-194b2f01db
-cluster_size: 18
-cluster_role: sibling
-cluster_canonical_slug: vivisol-air-liquide-home-oxygen-services-business-merger-inquiry
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_id: cluster-2026-08-14-adc4bf5c28
+cluster_size: 15
+cluster_role: canonical
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Vivisol / Air Liquide (home oxygen services business) merger inquiry

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-16a537d26d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: if-you-really-want-to-work-for-the-department-of-justice-then-do-it-re
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_id: cluster-2026-08-14-02ea8bfd47
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # If You Really Want To Work For The Department Of Justice, Then Do It Regardless Of Who The President Is

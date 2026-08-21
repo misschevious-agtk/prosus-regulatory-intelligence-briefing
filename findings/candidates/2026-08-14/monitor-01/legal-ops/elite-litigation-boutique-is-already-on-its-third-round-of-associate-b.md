@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-bc87e7c235
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: elite-litigation-boutique-is-already-on-its-third-round-of-associate-b
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_id: cluster-2026-08-14-cab57e68c1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Elite Litigation Boutique Is Already On Its Third Round Of Associate Bonuses

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-14-f7cb120431
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-for-technology-law-2026
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # The Best Law Schools For Technology Law (2026)

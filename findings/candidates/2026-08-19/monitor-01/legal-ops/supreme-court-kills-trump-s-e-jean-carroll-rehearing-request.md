@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-18-13fa7e96d4
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-kills-trump-s-e-jean-carroll-rehearing-request
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Supreme Court Kills Trump’s E. Jean Carroll Rehearing Request

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-5f52bc1f58
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: john-oliver-doubles-down-after-latest-buc-ee-s-trademark-bullying-laws
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_id: cluster-2026-08-14-606904d54d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # John Oliver Doubles Down After Latest Buc-ee’s Trademark Bullying Lawsuit

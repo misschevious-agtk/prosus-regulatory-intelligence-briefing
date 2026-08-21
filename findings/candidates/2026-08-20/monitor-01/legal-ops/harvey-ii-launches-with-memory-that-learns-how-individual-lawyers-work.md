@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-2b159381e6
-cluster_size: 5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: harvey-ii-launches-with-memory-that-learns-how-individual-lawyers-work
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Harvey II launches with Memory that learns how individual lawyers work

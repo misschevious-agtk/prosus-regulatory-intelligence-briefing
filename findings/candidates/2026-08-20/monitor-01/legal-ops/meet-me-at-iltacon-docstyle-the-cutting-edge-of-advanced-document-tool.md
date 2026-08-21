@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-20-3e8a2f3c63
-cluster_size: 1
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Meet Me At ILTACON: DocStyle, The Cutting Edge Of Advanced Document Tools

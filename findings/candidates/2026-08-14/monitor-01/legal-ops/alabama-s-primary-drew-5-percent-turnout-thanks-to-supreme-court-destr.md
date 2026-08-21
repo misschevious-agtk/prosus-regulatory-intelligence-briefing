@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-037e34671c
-cluster_size: 7
+cluster_id: cluster-2026-08-14-c14dd8efef
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: boutique-money-is-where-it-s-at-see-also
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Alabama’s Primary Drew 5 Percent Turnout Thanks To Supreme Court Destroying Voting Rights Act

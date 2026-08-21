@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-499f65fdf6
-cluster_size: 47
+cluster_id: cluster-2026-08-14-9859aeee4f
+cluster_size: 37
 cluster_role: sibling
 cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # [Guest post] Nigeria's copyright licensing system comes under parliamentary scrutiny

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-a87b4c751c
-cluster_size: 4
+cluster_id: cluster-2026-08-14-c698e99a8c
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: two-brother-left-the-same-biglaw-firm-and-took-over-u-s-foreign-policy
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_canonical_slug: two-brothers-left-the-same-biglaw-firm-and-took-over-u-s-foreign-polic
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Two Brothers Left The Same Biglaw Firm And Took Over U.S. Foreign Policy

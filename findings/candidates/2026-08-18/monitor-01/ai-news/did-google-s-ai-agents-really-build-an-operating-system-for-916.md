@@ -18,10 +18,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-08-19-b834a0296c
-cluster_size: 350
+cluster_size: 341
 cluster_role: sibling
 cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Did Google’s AI agents really build an operating system for $916?

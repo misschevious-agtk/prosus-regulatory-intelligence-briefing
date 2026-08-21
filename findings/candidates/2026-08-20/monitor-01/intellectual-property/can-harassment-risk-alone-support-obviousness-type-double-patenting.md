@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-be5f337d51
-cluster_size: 149
+cluster_id: cluster-2026-08-14-d2075d4374
+cluster_size: 155
 cluster_role: sibling
-cluster_canonical_slug: japan-earthquake-relief-uspto-publishing-notice-of-relief-available-to
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_canonical_slug: community-voting-period-now-open-for-uspto-sxsw-2027-panelpicker-propo
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Can Harassment Risk Alone Support Obviousness-Type Double Patenting?

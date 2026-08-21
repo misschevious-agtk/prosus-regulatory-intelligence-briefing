@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-18-37d66b321b
-cluster_size: 5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: rejected-with-a-road-map-allowable-subject-matter-in-the-first-action
-ranked_at: '2026-08-20T07:51:28+00:00'
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Allowable, Not Allowed: What the First Action Predicts

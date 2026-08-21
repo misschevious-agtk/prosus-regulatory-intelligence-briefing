@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-13-449d4c13ce
+cluster_id: cluster-2026-08-14-96aa62fd7e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: provisional-prior-art
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Provisional Prior Art

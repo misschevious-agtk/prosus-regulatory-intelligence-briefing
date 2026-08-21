@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-448b84074d
-cluster_size: 14
+cluster_id: cluster-2026-08-14-80bd82453a
+cluster_size: 10
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-08-11-26
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_canonical_slug: morning-docket-08-12-26
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Someone Is Keeping Up With Milbank — See Also

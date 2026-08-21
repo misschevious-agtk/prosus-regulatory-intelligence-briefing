@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-13-4a1431d951
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: florida-s-ag-wants-to-charge-wnba-player-with-crime-of-playing-basketb
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_id: cluster-2026-08-14-d112720314
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Florida’s AG Wants To Charge WNBA Player With Crime Of Playing Basketball

@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-08-13-d6373fb0e3
+cluster_id: cluster-2026-08-14-2026cb8e6a
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: revoir-le-webinaire-mise-jour-des-mr-001-et-mr-003-ce-qui-change-en-20
-ranked_at: '2026-08-20T07:51:28+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-21T07:52:32+00:00'
 ---
 
 # Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026

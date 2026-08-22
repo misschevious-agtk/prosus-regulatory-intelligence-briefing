@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-2b159381e6
-cluster_size: 7
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: harvey-ii-launches-with-memory-that-learns-how-individual-lawyers-work
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Avvoka Partners With Harvey, Launches Curate For Templates

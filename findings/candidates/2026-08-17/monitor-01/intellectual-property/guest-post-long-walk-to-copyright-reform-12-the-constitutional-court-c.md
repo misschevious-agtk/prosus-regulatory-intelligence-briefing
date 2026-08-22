@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-9859aeee4f
-cluster_size: 37
+cluster_id: cluster-2026-08-15-0fe85851da
+cluster_size: 35
 cluster_role: sibling
 cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # [Guest post]  Long walk to copyright reform #12: The Constitutional Court clarifies the constitutional anatomy of South Africa's copyright exceptions

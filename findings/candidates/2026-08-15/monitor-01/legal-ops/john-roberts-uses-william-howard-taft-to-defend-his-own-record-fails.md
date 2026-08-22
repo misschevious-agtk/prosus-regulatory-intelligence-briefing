@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-d02fe19547
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: john-roberts-uses-william-howard-taft-to-defend-his-own-record-fails
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_id: cluster-2026-08-15-1f7c35c676
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # John Roberts Uses William Howard Taft To Defend His Own Record, Fails

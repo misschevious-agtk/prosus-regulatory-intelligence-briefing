@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-14-80bd82453a
-cluster_size: 10
+cluster_id: cluster-2026-08-15-6c5b34b24a
+cluster_size: 7
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-08-12-26
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_canonical_slug: morning-docket-08-13-26
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Morning Docket: 08.13.26

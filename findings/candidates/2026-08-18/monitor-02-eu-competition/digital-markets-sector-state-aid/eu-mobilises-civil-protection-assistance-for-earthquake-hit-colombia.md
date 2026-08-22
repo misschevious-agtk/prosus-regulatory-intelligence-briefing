@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-14-634575ef6b
+cluster_id: cluster-2026-08-15-abcbd49eb1
 cluster_size: 147
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-poland-s-fifth-payment-request-for-7-9-billion-
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # EU mobilises civil protection assistance for earthquake-hit Colombia

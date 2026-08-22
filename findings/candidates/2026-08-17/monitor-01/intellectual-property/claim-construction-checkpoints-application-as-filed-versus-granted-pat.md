@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-b92accf042
-cluster_size: 8
+cluster_id: cluster-2026-08-20-cf42f96e60
+cluster_size: 12
 cluster_role: sibling
-cluster_canonical_slug: claim-construction-checkpoints-application-as-filed-versus-granted-pat
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_canonical_slug: australian-court-orders-withdrawal-of-patent-applications-prior-to-pub
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Claim construction checkpoints: Application as filed versus granted patent (T 0715/24)

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-18-b587c37120
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Karmic Turnaround For Disbarred Lawyer — See Also

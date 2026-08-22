@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-be65bf92e2
-cluster_size: 4
+cluster_id: cluster-2026-08-15-6b0cec560b
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: your-most-important-summer-reading-isn-t-on-your-syllabus
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Your Most Important Summer Reading Isn’t On Your Syllabus

@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: United States Patent and Trademark Office
 case_numbers: []
-cluster_id: cluster-2026-08-14-c62254ca33
-cluster_size: 7
+cluster_id: cluster-2026-08-15-9f520c24c5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: errica-miller
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Errica Miller

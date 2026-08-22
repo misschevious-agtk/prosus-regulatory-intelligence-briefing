@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-b24cdcbc8a
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: law-firm-advertising-labeled-graffiti-threatened-by-town-officials
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_id: cluster-2026-08-15-6312dabacb
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Law Firm Advertising Labeled ‘Graffiti,’ Threatened By Town Officials

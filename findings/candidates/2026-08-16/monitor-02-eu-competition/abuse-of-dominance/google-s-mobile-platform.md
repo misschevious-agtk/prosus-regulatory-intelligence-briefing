@@ -26,7 +26,7 @@ cluster_id: cluster-2026-08-15-6ea58ad0e9
 cluster_size: 60
 cluster_role: sibling
 cluster_canonical_slug: apple-s-mobile-platform
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Google’s mobile platform

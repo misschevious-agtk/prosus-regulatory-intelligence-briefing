@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-14-d438183adf
-cluster_size: 114
+cluster_id: cluster-2026-08-15-02506f902b
+cluster_size: 96
 cluster_role: sibling
 cluster_canonical_slug: nrg-fleet-services-specialist-fleet-services-merger-inquiry
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Strategic review of CMA markets remedies

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-20-0799ab1c6f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-40m-ferrari-that-could-be-a-38-9m-tax-break
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # The $40M Ferrari That Could Be A $38.9M Tax Break

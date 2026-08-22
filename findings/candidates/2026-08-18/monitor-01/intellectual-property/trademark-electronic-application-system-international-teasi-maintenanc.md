@@ -13,10 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-d2075d4374
-cluster_size: 155
+cluster_id: cluster-2026-08-15-114bbb3b05
+cluster_size: 157
 cluster_role: sibling
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 cluster_canonical_slug: community-voting-period-now-open-for-uspto-sxsw-2027-panelpicker-propo
 ---
 

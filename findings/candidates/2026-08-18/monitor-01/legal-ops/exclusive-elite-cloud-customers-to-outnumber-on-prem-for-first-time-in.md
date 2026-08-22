@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-cbb3beac51
-cluster_size: 5
+cluster_id: cluster-2026-08-15-089af66981
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: exclusive-elite-cloud-customers-to-outnumber-on-prem-for-first-time-in
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Exclusive: Elite Cloud customers to outnumber on prem for first time in company’s history

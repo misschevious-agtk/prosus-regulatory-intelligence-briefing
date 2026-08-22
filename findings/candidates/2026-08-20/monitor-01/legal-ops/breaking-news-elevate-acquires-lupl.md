@@ -20,7 +20,7 @@ cluster_id: cluster-2026-08-19-5aa51648bf
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: breaking-news-elevate-acquires-lupl
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Breaking news: Elevate acquires Lupl

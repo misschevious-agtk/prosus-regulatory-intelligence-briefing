@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-69413ff608
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-t
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_id: cluster-2026-08-15-5d8c5bf557
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Relativity President Chris Brown on the Gavel Acquisition, Opening Up to Claude, and the ‘Gangbusters’ Growth of aiR

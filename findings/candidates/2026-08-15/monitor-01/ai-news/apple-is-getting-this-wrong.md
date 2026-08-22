@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-14-c4b9affbc5
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: apple-is-getting-this-wrong
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_id: cluster-2026-08-15-e490307602
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Apple is getting this wrong

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-d547f3aa8a
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-first-10-a-young-lawyer-s-blueprint-beyond-the-billable-hour
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_id: cluster-2026-08-15-6a513d1559
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # The First 10: A Young Lawyer’s Blueprint Beyond The Billable Hour

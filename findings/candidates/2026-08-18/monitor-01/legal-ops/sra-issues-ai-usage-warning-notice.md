@@ -19,7 +19,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-18-a4a6d2d1fa
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # SRA issues AI usage warning notice

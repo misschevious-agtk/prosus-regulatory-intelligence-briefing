@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-15-6b0a9f632d
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Congress Threw This Judge Off The Bench. The Voters Sent Him Right Back To Congress.

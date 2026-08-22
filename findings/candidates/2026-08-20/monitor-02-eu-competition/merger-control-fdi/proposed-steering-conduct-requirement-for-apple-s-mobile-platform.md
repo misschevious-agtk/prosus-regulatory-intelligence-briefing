@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-18-dbd412cea5
-cluster_size: 16
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: proposed-steering-conduct-requirement-for-apple-s-mobile-platform
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Proposed steering conduct requirement for Apple’s mobile platform

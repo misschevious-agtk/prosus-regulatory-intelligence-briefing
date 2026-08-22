@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-b834a0296c
-cluster_size: 341
+cluster_id: cluster-2026-08-15-46dfc38985
+cluster_size: 38
 cluster_role: sibling
-cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_canonical_slug: ken-crutchfield-when-ai-models-become-commodities-what-open-weight-ai-
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Relativity Develops claiR Conversational AI System

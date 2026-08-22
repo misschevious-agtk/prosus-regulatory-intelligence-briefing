@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-20-1cb1098de8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: alan-dershowitz-continues-to-fight-martha-s-vineyard-mccarthyites-in-h
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Alan Dershowitz Continues To Fight Martha’s Vineyard McCarthyites In His Own Mind

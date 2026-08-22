@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-20-3e8a2f3c63
-cluster_size: 3
+cluster_id: cluster-2026-08-19-b834a0296c
+cluster_size: 303
 cluster_role: sibling
-cluster_canonical_slug: meet-me-at-iltacon-docstyle-the-cutting-edge-of-advanced-document-tool
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Meet Me At ILTACON: DocStyle, The Cutting Edge Of Advanced Document Tools

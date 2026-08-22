@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-15-9bdf16089e
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-fake-free-speech-president-has-unleashed-ice-on-its-critics
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # The Fake Free Speech President Has Unleashed ICE On Its Critics

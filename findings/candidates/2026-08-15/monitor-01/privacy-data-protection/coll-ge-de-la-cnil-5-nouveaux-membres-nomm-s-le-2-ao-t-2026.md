@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-08-14-f43e1c09a0
+cluster_id: cluster-2026-08-15-f3cb71b5ba
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: coll-ge-de-la-cnil-5-nouveaux-membres-nomm-s-le-2-ao-t-2026
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Collège de la CNIL : 5 nouveaux membres nommés le 2 août 2026

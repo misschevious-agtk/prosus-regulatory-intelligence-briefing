@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-39acbe4124
-cluster_size: 29
+cluster_id: cluster-2026-08-15-b3984c3f08
+cluster_size: 28
 cluster_role: sibling
 cluster_canonical_slug: hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Hugging Face Models on Foundry Managed Compute

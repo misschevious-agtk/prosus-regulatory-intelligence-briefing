@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-20-7fbb04e73b
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # The DOJ Insists There’s ‘No Serious Dispute’ About A Phrase Everyone Is Disputing

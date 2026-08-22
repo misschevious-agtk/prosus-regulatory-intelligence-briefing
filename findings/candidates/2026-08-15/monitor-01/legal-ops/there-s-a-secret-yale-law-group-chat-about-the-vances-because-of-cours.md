@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-14-9be2e56768
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: there-s-a-secret-yale-law-group-chat-about-the-vances-because-of-cours
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_id: cluster-2026-08-15-659b3980ab
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # There’s A Secret Yale Law Group Chat About The Vances Because Of Course There Is

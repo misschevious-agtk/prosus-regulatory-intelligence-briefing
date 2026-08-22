@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-15-dc20c0b628
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # ABA Plans Major Restructuring Amid Financial Struggles

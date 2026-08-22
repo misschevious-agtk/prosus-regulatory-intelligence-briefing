@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-19-c9677f8549
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: buc-ee-s-billboard-near-beaver-s-mini-mart-vandalized-as-corporation-g
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # Buc-ee’s Billboard Near Beaver’s Mini Mart Vandalized As Corporation Gaslights Mayor

@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-20-4c95edf413
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-08-21T07:52:32+00:00'
+cluster_id: cluster-2026-08-22-74d8da52e3
+cluster_size: 5
+cluster_role: sibling
+ranked_at: '2026-08-22T07:41:06+00:00'
+cluster_canonical_slug: matching-the-milbank-scale-before-most-of-biglaw-see-also
 ---
 
 # Prominent Lawyer Charged In Penn State Frat Cocaine Ring

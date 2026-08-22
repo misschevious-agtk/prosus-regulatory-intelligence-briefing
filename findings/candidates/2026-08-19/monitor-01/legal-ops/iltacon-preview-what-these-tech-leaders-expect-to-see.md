@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-18-72c84b9c2d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: iltacon-preview-what-these-tech-leaders-expect-to-see
-ranked_at: '2026-08-21T07:52:32+00:00'
+ranked_at: '2026-08-22T07:41:06+00:00'
 ---
 
 # ILTACON Preview: What These Tech Leaders Expect To See

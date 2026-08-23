@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-2b159381e6
-cluster_size: 9
+cluster_size: 11
 cluster_role: canonical
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Harvey II launches with Memory that learns how individual lawyers work

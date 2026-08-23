@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-15-114bbb3b05
-cluster_size: 157
+cluster_id: cluster-2026-08-16-226eec9ef4
+cluster_size: 166
 cluster_role: sibling
 cluster_canonical_slug: community-voting-period-now-open-for-uspto-sxsw-2027-panelpicker-propo
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Trademark Electronic Official Gazette Maintenance

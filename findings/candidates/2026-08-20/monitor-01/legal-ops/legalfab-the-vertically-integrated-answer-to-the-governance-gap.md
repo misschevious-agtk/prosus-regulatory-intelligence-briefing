@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-20-d09964fa03
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # LegalFab: The vertically integrated answer to the governance gap

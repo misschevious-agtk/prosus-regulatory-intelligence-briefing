@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-15-15e40ee150
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: partial-retreat-ten-months-of-101-data-after-the-surge
-ranked_at: '2026-08-22T07:41:06+00:00'
+cluster_id: cluster-2026-08-16-a82d9c7cb3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Partial Retreat: Ten Months of § 101 Data After the Surge

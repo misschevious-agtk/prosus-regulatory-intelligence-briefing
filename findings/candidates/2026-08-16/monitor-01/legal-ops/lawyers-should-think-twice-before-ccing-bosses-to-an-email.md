@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-15-7571a2448c
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: lawyers-should-think-twice-before-ccing-bosses-to-an-email
-ranked_at: '2026-08-22T07:41:06+00:00'
+cluster_id: cluster-2026-08-16-1fb79114c6
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Lawyers Should Think Twice Before CCing Bosses To An Email

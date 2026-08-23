@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-b834a0296c
-cluster_size: 303
+cluster_size: 293
 cluster_role: sibling
 cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-18-776c8598a3
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: justice-clarence-thomas-says-he-s-not-welcome-at-stanford-law-but-the-
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Justice Clarence Thomas Says He’s Not Welcome At Stanford Law, But The School Says Otherwise

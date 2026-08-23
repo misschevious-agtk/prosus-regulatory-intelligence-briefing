@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-18-81fff11778
-cluster_size: 118
+cluster_size: 156
 cluster_role: canonical
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Paramount / Warner Bros. Discovery merger inquiry

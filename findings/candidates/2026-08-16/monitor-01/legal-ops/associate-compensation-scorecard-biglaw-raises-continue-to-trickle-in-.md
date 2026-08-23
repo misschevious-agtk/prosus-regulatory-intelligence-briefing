@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-15-8e4b28ee3e
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: associate-compensation-scorecard-biglaw-raises-continue-to-trickle-in-
-ranked_at: '2026-08-22T07:41:06+00:00'
+cluster_id: cluster-2026-08-16-041ee16336
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Associate Compensation Scorecard: Biglaw Raises Continue To Trickle In At An Agonizing Pace

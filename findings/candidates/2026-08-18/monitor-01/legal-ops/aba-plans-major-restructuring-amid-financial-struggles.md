@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-15-dc20c0b628
-cluster_size: 4
+cluster_id: cluster-2026-08-16-5d8ec15278
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: aba-plans-major-restructuring-amid-financial-struggles
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # ABA Plans Major Restructuring Amid Financial Struggles

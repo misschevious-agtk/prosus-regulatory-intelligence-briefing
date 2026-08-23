@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-15-5e41b5bd56
-cluster_size: 7
+cluster_id: cluster-2026-08-16-663e0adf16
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: examiner-allowance-rates-under-director-squires
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Examiner Allowance Rates Under Director Squires

@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-19-717a40d1fc
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: appeals-court-sides-with-providers-in-no-surprises-act-pay-dispute
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Appeals Court Sides With Providers In No Surprises Act Pay Dispute

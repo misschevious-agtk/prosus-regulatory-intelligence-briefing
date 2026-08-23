@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-15-3efb93f93f
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: biglaw-partner-dishes-on-her-unique-path-to-partnership
-ranked_at: '2026-08-22T07:41:06+00:00'
+cluster_id: cluster-2026-08-16-57f23c2a90
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Biglaw Partner Dishes On Her Unique Path To Partnership

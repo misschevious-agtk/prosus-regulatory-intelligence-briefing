@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-15-1cbc2f4cbc
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: judge-newman-s-name-may-soon-be-on-the-bench-even-if-she-is-barred-fro
-ranked_at: '2026-08-22T07:41:06+00:00'
+cluster_id: cluster-2026-08-16-e2dab856cf
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Judge Newman’s Name may soon be on the Bench, Even if she is Barred from Entry

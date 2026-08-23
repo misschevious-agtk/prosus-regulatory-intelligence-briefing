@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-15-21ce09af53
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-only-attorney-general-to-go-to-prison-so-far
-ranked_at: '2026-08-22T07:41:06+00:00'
+cluster_id: cluster-2026-08-16-10cb751fc9
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # The Only Attorney General To Go To Prison (So Far)

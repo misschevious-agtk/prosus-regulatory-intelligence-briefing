@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-b834a0296c
-cluster_size: 303
+cluster_id: cluster-2026-08-16-13ed64d2af
+cluster_size: 11
 cluster_role: sibling
-cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
-ranked_at: '2026-08-22T07:41:06+00:00'
+cluster_canonical_slug: deepjudge-releases-an-open-protocol-for-passing-users-and-their-contex
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board

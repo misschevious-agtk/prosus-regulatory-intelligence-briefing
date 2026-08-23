@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-21-0ea27d7f6b
-cluster_size: 3
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-confirmation-speech-that-doomed-the-scotus-nominee-it-was-meant-to
-ranked_at: '2026-08-22T07:41:06+00:00'
+ranked_at: '2026-08-23T07:43:51+00:00'
 ---
 
 # Supreme Court Confirmation Isn’t Always A Sure Thing — Just Ask The First Man To Lose One

@@ -21,11 +21,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-08-16-d9bc802843
+cluster_id: cluster-2026-08-17-91bb2a3577
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: international-patent-applications-rose-in-2025-with-digital-communicat
-ranked_at: '2026-08-23T07:43:51+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # International Patent Applications Rose in 2025, with Digital Communication and Semiconductor Technologies Showing Strong Growth

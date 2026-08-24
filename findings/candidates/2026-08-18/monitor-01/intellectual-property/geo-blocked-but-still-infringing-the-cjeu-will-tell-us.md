@@ -19,11 +19,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-584/26
-cluster_id: cluster-2026-08-16-b88bfeaa21
-cluster_size: 8
+cluster_id: cluster-2026-08-17-2fdff8b55b
+cluster_size: 46
 cluster_role: sibling
-cluster_canonical_slug: geo-blocked-but-still-infringing-the-cjeu-will-tell-us
-ranked_at: '2026-08-23T07:43:51+00:00'
+cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Geo-blocked but still infringing? The CJEU will tell us

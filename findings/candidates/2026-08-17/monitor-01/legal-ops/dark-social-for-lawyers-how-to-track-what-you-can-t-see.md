@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-16-3061782156
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: dark-social-for-lawyers-how-to-track-what-you-can-t-see
-ranked_at: '2026-08-23T07:43:51+00:00'
+cluster_id: cluster-2026-08-17-0c13a1afe8
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Dark Social For Lawyers: How To Track What You Can’t See

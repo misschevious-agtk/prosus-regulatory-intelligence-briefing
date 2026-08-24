@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-18-6597b7a47f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-tribute-or-a-tactic-the-lindsay-clancy-prosecutor-s-hair-bows-could-
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # A Tribute, Or A Tactic? The Lindsay Clancy Prosecutor’s Hair Bows Could Backfire

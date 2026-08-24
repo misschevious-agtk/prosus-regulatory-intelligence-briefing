@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-18-37d53e2e0e
-cluster_size: 9
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: aderant-launches-itimekeep-integration-with-harvey
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Aderant launches iTimekeep integration with Harvey

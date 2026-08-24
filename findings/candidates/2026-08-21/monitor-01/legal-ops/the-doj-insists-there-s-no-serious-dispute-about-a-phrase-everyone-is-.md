@@ -21,7 +21,7 @@ cluster_id: cluster-2026-08-20-7fbb04e73b
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-doj-insists-there-s-no-serious-dispute-about-a-phrase-everyone-is-
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # The DOJ Insists There’s ‘No Serious Dispute’ About A Phrase Everyone Is Disputing

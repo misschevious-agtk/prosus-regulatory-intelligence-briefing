@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-21-0ea27d7f6b
-cluster_size: 5
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # The Confirmation Speech That Doomed The SCOTUS Nominee It Was Meant To Save

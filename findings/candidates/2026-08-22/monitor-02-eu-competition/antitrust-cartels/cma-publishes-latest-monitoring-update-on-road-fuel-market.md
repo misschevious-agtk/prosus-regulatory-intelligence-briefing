@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-19-e10ddd3ed2
-cluster_size: 15
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: cma-publishes-latest-monitoring-update-on-road-fuel-market
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # CMA publishes latest monitoring update on road fuel market

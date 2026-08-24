@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-16-ac09ebd41e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: phia-co-founders-knew-the-app-was-wrongfully-claiming-sales-credits
-ranked_at: '2026-08-23T07:43:51+00:00'
+cluster_id: cluster-2026-08-17-d297732c60
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Phia Co-Founders Knew The App Was Wrongfully Claiming Sales Credits

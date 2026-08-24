@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-16-226eec9ef4
-cluster_size: 166
+cluster_id: cluster-2026-08-17-e456ab78fa
+cluster_size: 171
 cluster_role: sibling
 cluster_canonical_slug: community-voting-period-now-open-for-uspto-sxsw-2027-panelpicker-propo
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # The U.S. Trade Representative's 2026 Special 301 Report: A USPTO Hour on global intellectual property rights enforcement

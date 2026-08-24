@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-81d65e7e4f
-cluster_size: 9
+cluster_size: 11
 cluster_role: canonical
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # NetDocuments publishes Legal Context Engineering Benchmark report

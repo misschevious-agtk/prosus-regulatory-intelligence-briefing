@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-18-81fff11778
-cluster_size: 156
+cluster_size: 194
 cluster_role: sibling
 cluster_canonical_slug: paramount-warner-bros-discovery-merger-inquiry
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Guidance: Veterinary Services Market Investigation (Funding) Order 2026 and Veterinary Services Market Investigation Royal College of Veterinary Surgeons (Funding) Undertakings 2026

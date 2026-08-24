@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-16-6fcc565099
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: commission-accelerates-iris-deployment-with-enhanced-security-and-expa
-ranked_at: '2026-08-23T07:43:51+00:00'
+cluster_id: cluster-2026-08-17-0d01332d25
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Commission accelerates IRIS² deployment with enhanced security and expanded satellites network

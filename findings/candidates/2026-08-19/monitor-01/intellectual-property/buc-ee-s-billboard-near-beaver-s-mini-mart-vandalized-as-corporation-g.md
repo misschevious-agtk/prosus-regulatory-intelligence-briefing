@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-19-c9677f8549
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Buc-ee’s Billboard Near Beaver’s Mini Mart Vandalized As Corporation Gaslights Mayor

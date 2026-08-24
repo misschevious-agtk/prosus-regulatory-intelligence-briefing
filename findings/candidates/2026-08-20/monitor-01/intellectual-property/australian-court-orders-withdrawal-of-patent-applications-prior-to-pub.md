@@ -20,9 +20,9 @@ entities:
   matched_alias: FCA
 case_numbers: []
 cluster_id: cluster-2026-08-20-cf42f96e60
-cluster_size: 14
+cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Australian court orders withdrawal of patent applications prior to publication

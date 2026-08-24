@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-16-8b4603e697
-cluster_size: 27
+cluster_id: cluster-2026-08-17-b7699d2558
+cluster_size: 26
 cluster_role: sibling
 cluster_canonical_slug: hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Baseten on Hugging Face Inference Providers 🔥

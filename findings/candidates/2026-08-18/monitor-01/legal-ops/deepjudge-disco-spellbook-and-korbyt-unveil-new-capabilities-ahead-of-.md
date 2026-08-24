@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-16-3190a65b2e
-cluster_size: 7
+cluster_id: cluster-2026-08-17-7df8b3a765
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: deepjudge-disco-spellbook-and-korbyt-unveil-new-capabilities-ahead-of-
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # DeepJudge, DISCO, Spellbook and Korbyt unveil new capabilities ahead of ILTACON

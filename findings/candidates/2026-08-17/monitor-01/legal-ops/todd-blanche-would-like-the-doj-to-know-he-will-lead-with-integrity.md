@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-16-9eadd33543
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: todd-blanche-would-like-the-doj-to-know-he-will-lead-with-integrity
-ranked_at: '2026-08-23T07:43:51+00:00'
+cluster_id: cluster-2026-08-17-511d917918
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Todd Blanche Would Like The DOJ To Know He Will Lead With Integrity

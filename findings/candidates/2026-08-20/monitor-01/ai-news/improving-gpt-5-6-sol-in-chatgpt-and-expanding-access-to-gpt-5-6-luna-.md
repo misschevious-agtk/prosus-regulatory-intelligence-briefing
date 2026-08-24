@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-19-b834a0296c
 cluster_size: 293
 cluster_role: sibling
 cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users

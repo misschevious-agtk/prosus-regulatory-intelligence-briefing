@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-20-cf42f96e60
-cluster_size: 14
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: australian-court-orders-withdrawal-of-patent-applications-prior-to-pub
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Claim construction checkpoints: Application as filed versus granted patent (T 0715/24)

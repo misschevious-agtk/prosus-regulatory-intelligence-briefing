@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-22-e4aa8910ed
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: estonian-lawmaker-calls-us-questionnaire-to-nato-unnecessary-stress-te
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # Estonian Lawmaker Calls US Questionnaire To NATO ‘Unnecessary Stress Test’

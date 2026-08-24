@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-16-ea21996046
+cluster_id: cluster-2026-08-17-e49d15097f
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: openai-appoints-dali-rajic-as-chief-revenue-officer
-ranked_at: '2026-08-23T07:43:51+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # OpenAI appoints Dali Rajic as Chief Revenue Officer

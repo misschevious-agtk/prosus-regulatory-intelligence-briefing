@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-16-6ee95ddf88
-cluster_size: 4
+cluster_id: cluster-2026-08-17-9dfec79efc
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: there-s-a-secret-yale-law-group-chat-about-the-vances-because-of-cours
-ranked_at: '2026-08-23T07:43:51+00:00'
+ranked_at: '2026-08-24T08:07:51+00:00'
 ---
 
 # XOXO, Gossip Girl: The Yale Law Whisper Network Dishes On Usha Vance — See Also

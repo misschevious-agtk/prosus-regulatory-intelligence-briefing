@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-21-c56fa3d101
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Hearing Adjourned After Lawyer Suffers Shock Bar Association Election Loss

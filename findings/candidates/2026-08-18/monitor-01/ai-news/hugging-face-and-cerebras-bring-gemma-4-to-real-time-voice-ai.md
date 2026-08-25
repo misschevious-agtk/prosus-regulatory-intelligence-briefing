@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-17-b7699d2558
-cluster_size: 26
-cluster_role: sibling
-cluster_canonical_slug: hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai
-ranked_at: '2026-08-24T08:07:51+00:00'
+cluster_id: cluster-2026-08-18-61e4b0b0a3
+cluster_size: 25
+cluster_role: canonical
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Hugging Face and Cerebras bring Gemma 4 to real-time voice AI

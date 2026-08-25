@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-18-6597b7a47f
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # A Tribute, Or A Tactic? The Lindsay Clancy Prosecutor’s Hair Bows Could Backfire

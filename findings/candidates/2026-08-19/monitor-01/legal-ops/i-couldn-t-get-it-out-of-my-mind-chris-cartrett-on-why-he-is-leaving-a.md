@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-17-c9c89dd14b
-cluster_size: 4
+cluster_id: cluster-2026-08-18-8034b6a0d6
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: chris-cartrett-to-step-down-as-ceo-of-aderant-departing-legal-tech-to-
-ranked_at: '2026-08-24T08:07:51+00:00'
+cluster_canonical_slug: i-couldn-t-get-it-out-of-my-mind-chris-cartrett-on-why-he-is-leaving-a
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # ‘I Couldn’t Get It Out of My Mind’: Chris Cartrett on Why He Is Leaving Aderant and Legal Tech

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-81d65e7e4f
-cluster_size: 11
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: netdocuments-publishes-legal-context-engineering-benchmark-report
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # NetDocuments Goes After M&A Due Diligence

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-20-cf42f96e60
-cluster_size: 16
+cluster_id: cluster-2026-08-19-b834a0296c
+cluster_size: 304
 cluster_role: sibling
-cluster_canonical_slug: australian-court-orders-withdrawal-of-patent-applications-prior-to-pub
-ranked_at: '2026-08-24T08:07:51+00:00'
+cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Nuances of divisional patent practice in Australia and New Zealand

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-17-cdad06a015
-cluster_size: 6
+cluster_id: cluster-2026-08-18-b17bb822f0
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: luigi-mangione-pleads-guilty-to-stalking-admits-to-murder-anyway-argue
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Vances Learn That If You’re Not In A Side Chat, The Side Chat Is About You — See Generally

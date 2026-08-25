@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-17-1c41c3de04
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: startup-corner-lightbringer-upturns-the-traditional-patent-application
-ranked_at: '2026-08-24T08:07:51+00:00'
+cluster_id: cluster-2026-08-18-62e8ed7d5d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Startup Corner: Lightbringer upturns the traditional patent application model

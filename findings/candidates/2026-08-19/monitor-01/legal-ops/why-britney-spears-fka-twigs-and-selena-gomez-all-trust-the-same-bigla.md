@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-18-19a90035bd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: why-britney-spears-fka-twigs-and-selena-gomez-all-trust-the-same-bigla
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Why Britney Spears, FKA Twigs, And Selena Gomez All Trust The Same Biglaw Lawyer

@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-17-e456ab78fa
-cluster_size: 171
+cluster_id: cluster-2026-08-18-f61b74ec19
+cluster_size: 176
 cluster_role: sibling
 cluster_canonical_slug: community-voting-period-now-open-for-uspto-sxsw-2027-panelpicker-propo
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # USPTO events for the weeks of Aug. 17-28

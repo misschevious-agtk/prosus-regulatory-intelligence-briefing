@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-20-d0419f38ca
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: taft-s-timely-legacy
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Taft’s Timely Legacy

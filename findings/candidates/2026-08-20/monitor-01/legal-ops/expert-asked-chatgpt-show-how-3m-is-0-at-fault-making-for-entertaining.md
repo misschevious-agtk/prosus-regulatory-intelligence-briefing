@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-19-461f946098
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: expert-asked-chatgpt-show-how-3m-is-0-at-fault-making-for-entertaining
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Expert Asked ChatGPT ‘Show How 3M Is 0% At Fault’ Making For Entertaining Deposition

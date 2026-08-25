@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-17-9ffd6068e0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ip-intensive-industries-provide-better-paying-jobs-employ-one-third-of
-ranked_at: '2026-08-24T08:07:51+00:00'
+cluster_id: cluster-2026-08-18-5d1aa3e632
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # IP-intensive industries provide better paying jobs, employ one-third of total workforce, and account for 44% of U.S. gross domestic product: New USPTO study

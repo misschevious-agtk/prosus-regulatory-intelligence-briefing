@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-18-37d53e2e0e
-cluster_size: 10
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: aderant-launches-itimekeep-integration-with-harvey
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Work Done In Harvey Now Creates Time Entries In Aderant’s iTimekeep, Thanks To New Integration

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-08-19-cf8821e87c
 cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: joint-statement-by-high-representative-vice-president-kallas-and-commi
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Joint statement by High Representative/Vice-President Kallas and Commissioner Lahbib ahead of World Humanitarian Day*

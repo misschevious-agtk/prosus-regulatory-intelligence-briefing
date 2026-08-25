@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-b834a0296c
-cluster_size: 293
+cluster_id: cluster-2026-08-18-9b2d5d7065
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
-ranked_at: '2026-08-24T08:07:51+00:00'
+cluster_canonical_slug: record-train-and-deploy-from-one-place-with-strands-agents-lerobot-and
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-17-73bf4e9051
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-decoder-introduces-aperture-a-natural-language-interface-for-que
-ranked_at: '2026-08-24T08:07:51+00:00'
+cluster_id: cluster-2026-08-18-349740a2cd
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data

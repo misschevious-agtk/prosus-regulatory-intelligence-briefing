@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-17-0219a7d0a8
-cluster_size: 145
+cluster_id: cluster-2026-08-18-6d09fb3dec
+cluster_size: 142
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-poland-s-fifth-payment-request-for-7-9-billion-
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Commission approves €4.5 million German State aid for fishing and aquaculture companies facing increased fuel prices

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-08-17-cd8186d1ee
+cluster_id: cluster-2026-08-18-0b4a95f8e3
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: sunday-surprises
-ranked_at: '2026-08-24T08:07:51+00:00'
+ranked_at: '2026-08-25T07:54:26+00:00'
 ---
 
 # Sunday Surprises

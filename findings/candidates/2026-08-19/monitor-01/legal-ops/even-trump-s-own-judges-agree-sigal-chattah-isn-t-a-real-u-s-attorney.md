@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-18-085796ac0e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: even-trump-s-own-judges-agree-sigal-chattah-isn-t-a-real-u-s-attorney
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_id: cluster-2026-08-19-02ffffc4ff
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Even Trump’s Own Judges Agree: Sigal Chattah Isn’t A Real U.S. Attorney

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-18-81fff11778
-cluster_size: 229
+cluster_id: cluster-2026-08-19-170f201c27
+cluster_size: 258
 cluster_role: sibling
 cluster_canonical_slug: paramount-warner-bros-discovery-merger-inquiry
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Virgin Atlantic: consumer protection enforcement case

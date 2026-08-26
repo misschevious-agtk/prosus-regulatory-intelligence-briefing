@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-22-5130101647
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: want-to-go-to-law-school-get-ready-for-hyper-competition-to-earn-your-
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Want To Go To Law School? Get Ready For ‘Hyper Competition’ To Earn Your Seat

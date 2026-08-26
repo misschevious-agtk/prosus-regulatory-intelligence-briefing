@@ -27,11 +27,10 @@ match_count: 16
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-18-be0deac078
+cluster_id: cluster-2026-08-19-70f27fa322
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: data-protection-day-5-misconceptions-about-data-protection-debunked
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Data Protection Day: 5 misconceptions about data protection, debunked

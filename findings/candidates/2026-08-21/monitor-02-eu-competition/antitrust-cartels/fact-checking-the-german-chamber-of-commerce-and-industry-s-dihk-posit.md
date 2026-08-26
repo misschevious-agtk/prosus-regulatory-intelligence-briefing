@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-18-a7e03596e5
+cluster_id: cluster-2026-08-19-4276c5fbe0
 cluster_size: 32
 cluster_role: sibling
 cluster_canonical_slug: beyond-enforcement-the-apple-app-store-case-and-the-need-to-rethink-br
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Fact-checking the German Chamber of Commerce and Industry’s (DIHK) position statement on ‘Collective Enforcement of Rights: Limiting Strategic Lawsuits and Regulating Litigation Funding’

@@ -18,9 +18,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-08-24-3b2521eb35
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER

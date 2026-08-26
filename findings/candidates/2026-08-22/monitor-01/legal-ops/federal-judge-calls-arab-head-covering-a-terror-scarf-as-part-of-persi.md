@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-21-d00d9f097f
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: federal-judge-calls-arab-head-covering-a-terror-scarf-as-part-of-persi
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Federal Judge Calls Arab Head Covering A ‘Terror Scarf’ As Part Of Persistent Anti-Muslim Rhetoric

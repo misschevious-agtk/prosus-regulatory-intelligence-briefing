@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-19-3207099703
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # The Most Famous Line About Grand Juries Came Back To Bite Its Author

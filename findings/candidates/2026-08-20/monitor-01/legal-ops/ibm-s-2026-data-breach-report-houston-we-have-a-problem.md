@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-20-a10470a111
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # IBM’s 2026 Data Breach Report: Houston, We Have A Problem

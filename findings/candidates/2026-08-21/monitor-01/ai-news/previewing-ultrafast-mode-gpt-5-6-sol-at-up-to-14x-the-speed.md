@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-18-0b6fded7be
+cluster_id: cluster-2026-08-19-95fa90e7f1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed

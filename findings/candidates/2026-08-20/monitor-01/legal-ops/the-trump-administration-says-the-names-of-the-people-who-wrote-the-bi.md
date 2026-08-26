@@ -19,10 +19,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-08-19-b834a0296c
-cluster_size: 304
+cluster_size: 312
 cluster_role: sibling
 cluster_canonical_slug: claude-s-text-watermark-does-it-matter-in-an-ai-output-world
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # The Trump Administration Says The Names Of The People Who Wrote The Biglaw Executive Orders Are A Secret

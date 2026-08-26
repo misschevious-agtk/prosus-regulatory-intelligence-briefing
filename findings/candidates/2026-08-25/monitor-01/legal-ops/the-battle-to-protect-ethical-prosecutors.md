@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-22-e974ca4c59
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-battle-to-protect-ethical-prosecutors
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # The Battle To Protect Ethical Prosecutors

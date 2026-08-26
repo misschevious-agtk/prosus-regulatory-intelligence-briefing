@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-18-0c3b5811f2
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: lawyer-disbarred-after-suggesting-colleague-be-sent-to-mental-asylum
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_id: cluster-2026-08-19-522df00239
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Lawyer Disbarred After Suggesting Colleague Be Sent To ‘Mental Asylum’

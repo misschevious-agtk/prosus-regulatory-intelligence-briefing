@@ -19,7 +19,7 @@ cluster_id: cluster-2026-08-21-01488e5275
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: kinstellar-selects-laurel-ai-in-commercial-excellence-drive
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Kinstellar selects Laurel AI in “commercial excellence” drive

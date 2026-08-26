@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-20-6c3b11ce31
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Patient Group Sues AMA, Says The Org Shouldn’t Be Charging For CPT Codes

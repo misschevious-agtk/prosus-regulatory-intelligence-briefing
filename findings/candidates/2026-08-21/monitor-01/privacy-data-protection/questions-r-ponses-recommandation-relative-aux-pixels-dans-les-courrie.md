@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-08-18-fad7da11fd
-cluster_size: 17
+cluster_id: cluster-2026-08-19-b32fcee221
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: ia-agentique-et-donn-es-personnelles-la-cnil-et-le-conseil-de-l-ia-et-
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Questions-réponses - recommandation relative aux pixels dans les courriers électroniques de la CNIL

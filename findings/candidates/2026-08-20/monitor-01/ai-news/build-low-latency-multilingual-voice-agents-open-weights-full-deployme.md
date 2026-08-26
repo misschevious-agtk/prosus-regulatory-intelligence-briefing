@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-18-61e4b0b0a3
-cluster_size: 25
+cluster_id: cluster-2026-08-19-8ef332d1e3
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_canonical_slug: build-low-latency-multilingual-voice-agents-open-weights-full-deployme
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS

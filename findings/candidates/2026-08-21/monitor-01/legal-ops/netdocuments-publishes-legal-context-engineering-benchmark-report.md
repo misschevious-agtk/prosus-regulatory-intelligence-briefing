@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-19-81d65e7e4f
-cluster_size: 12
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: netdocuments-publishes-legal-context-engineering-benchmark-report
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # NetDocuments publishes Legal Context Engineering Benchmark report

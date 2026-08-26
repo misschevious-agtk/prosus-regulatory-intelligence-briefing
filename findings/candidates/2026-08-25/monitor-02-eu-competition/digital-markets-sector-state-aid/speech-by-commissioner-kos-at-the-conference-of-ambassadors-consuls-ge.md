@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-25-9ceed8e9f5
-cluster_size: 2
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Speech by Commissioner Kos at the Conference of Ambassadors, Consuls General, Consuls and Military Attachés

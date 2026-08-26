@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-25-31167e7189
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_id: cluster-2026-08-25-85649b5b94
+cluster_size: 10
+cluster_role: sibling
+ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_canonical_slug: morning-docket-08-24-26
 ---
 
 # An Administration Drowning In Vindictive Prosecution Motions Would Like To Abolish The Category

@@ -23,11 +23,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-18-f8eb15cc5b
-cluster_size: 26
+cluster_id: cluster-2026-08-19-3dbfed944c
+cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: ken-crutchfield-when-ai-models-become-commodities-what-open-weight-ai-
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # LawNext: LexisNexis CTO Greg Dickason On Building Legal AI In Real Time with Customers in Its New Innovation Lab

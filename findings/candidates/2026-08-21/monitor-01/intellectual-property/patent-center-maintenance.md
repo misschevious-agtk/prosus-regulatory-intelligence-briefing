@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-18-f61b74ec19
-cluster_size: 176
+cluster_id: cluster-2026-08-19-192b973899
+cluster_size: 178
 cluster_role: sibling
 cluster_canonical_slug: community-voting-period-now-open-for-uspto-sxsw-2027-panelpicker-propo
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Patent Center Maintenance

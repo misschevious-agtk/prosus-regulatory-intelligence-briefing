@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-18-12e051ad2d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ptc-therapeutics-211m-bid-wins-bankruptcy-auction-for-sangamo-gene-the
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_id: cluster-2026-08-19-0a7014e007
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction For Sangamo Gene Therapy

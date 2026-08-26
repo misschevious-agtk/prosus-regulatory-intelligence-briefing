@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-22-f029b648be
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: harvey-tenet-nashville-legal-innovators
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Harvey Tenet, Nashville, Legal Innovators +

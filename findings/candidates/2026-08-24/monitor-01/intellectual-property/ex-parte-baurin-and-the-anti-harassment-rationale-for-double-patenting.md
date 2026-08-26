@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-18-3aa3a2e533
-cluster_size: 7
+cluster_id: cluster-2026-08-19-3b0ebf0e85
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: ex-parte-baurin-and-the-anti-harassment-rationale-for-double-patenting
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Ex parte Baurin and the Anti-Harassment Rationale for Double Patenting

@@ -18,9 +18,9 @@ entities:
   matched_alias: FTC
 case_numbers: []
 cluster_id: cluster-2026-08-25-0deaa8f920
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # This Week In Epic News: FTC Probe, AI Agents & More

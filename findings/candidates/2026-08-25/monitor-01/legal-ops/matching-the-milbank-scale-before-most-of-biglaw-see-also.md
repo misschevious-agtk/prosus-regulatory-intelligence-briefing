@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-22-74d8da52e3
 cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: matching-the-milbank-scale-before-most-of-biglaw-see-also
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Matching The Milbank Scale Before Most Of Biglaw — See Also

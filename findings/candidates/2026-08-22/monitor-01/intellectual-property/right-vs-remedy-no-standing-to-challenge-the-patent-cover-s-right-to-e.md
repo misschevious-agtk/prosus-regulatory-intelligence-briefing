@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-21-03dd6ffdf2
-cluster_size: 9
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: problem-statements-and-the-scope-of-prior-art
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Right vs. Remedy: No Standing to Challenge the Patent Cover’s ‘Right to Exclude’ Promise

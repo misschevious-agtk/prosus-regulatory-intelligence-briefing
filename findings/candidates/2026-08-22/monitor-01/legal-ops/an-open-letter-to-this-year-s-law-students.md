@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-22-3771f88aee
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # An Open Letter To This Year’s Law Students

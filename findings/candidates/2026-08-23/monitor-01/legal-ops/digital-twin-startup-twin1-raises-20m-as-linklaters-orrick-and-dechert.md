@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-21-8a94a4d523
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: digital-twin-startup-twin1-raises-20m-as-linklaters-orrick-and-dechert
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Digital twin startup Twin1 raises $20m as Linklaters, Orrick and Dechert sign up

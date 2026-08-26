@@ -24,11 +24,10 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-08-18-b6c0d8b61e
+cluster_id: cluster-2026-08-19-cbebe27aed
 cluster_size: 80
-cluster_role: sibling
-cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # NEWSLETTER del 17 giugno 2026 - Passeggeri a mobilità ridotta, il Garante privacy sanziona Emirates - Telecamere di sicurezza urbana, Garante: usi ulteriori solo se previsti dalla legge - Foto dei minori sui social: serve il consenso di entrambi i genitori - Data breach: in consultazione il nuovo modello di notificazione dell’EDPB

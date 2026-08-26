@@ -23,11 +23,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-18-34ca470890
+cluster_id: cluster-2026-08-19-7eca04c184
 cluster_size: 24
-cluster_role: sibling
-cluster_canonical_slug: lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customer
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # LexisNexis Opens Customer Innovation Lab in New York to Bring Customers, Engineers and AI Companies Together to Build Legal AI in Real Time

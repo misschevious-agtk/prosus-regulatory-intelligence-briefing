@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-18-5ba024b7f6
-cluster_size: 33
+cluster_id: cluster-2026-08-19-c100902fea
+cluster_size: 12
 cluster_role: sibling
-cluster_canonical_slug: nrg-fleet-services-specialist-fleet-services-merger-inquiry
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_canonical_slug: strategic-review-of-cma-markets-remedies
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # CMA proposes removing 27 market remedies in part or full following review

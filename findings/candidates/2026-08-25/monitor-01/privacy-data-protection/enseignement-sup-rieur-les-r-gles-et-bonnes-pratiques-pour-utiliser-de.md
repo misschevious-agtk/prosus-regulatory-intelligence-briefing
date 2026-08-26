@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-08-25-fefb877629
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: enseignement-du-premier-et-du-second-degr-s-les-r-gles-et-bonnes-prati
-ranked_at: '2026-08-25T07:54:26+00:00'
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # Enseignement supérieur : les règles et bonnes pratiques pour utiliser des outils collaboratifs en ligne

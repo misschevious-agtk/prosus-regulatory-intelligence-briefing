@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-18-bf4f4ceaa9
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-justice-s-name-came-off-the-door-but-the-biglaw-firm-is-still-a-po
-ranked_at: '2026-08-25T07:54:26+00:00'
+cluster_id: cluster-2026-08-19-2d47c70749
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-26T07:53:09+00:00'
 ---
 
 # The Justice’s Name Came Off The Door, But The Biglaw Firm Is Still A Powerhouse.

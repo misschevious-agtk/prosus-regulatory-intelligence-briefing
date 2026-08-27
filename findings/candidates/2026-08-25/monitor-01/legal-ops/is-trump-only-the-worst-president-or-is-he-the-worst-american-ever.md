@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-25-a56ade2f76
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Is Trump Only The Worst President — Or Is He The Worst American — Ever?

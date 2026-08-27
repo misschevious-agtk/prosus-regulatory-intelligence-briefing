@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-19-1a8a1da610
-cluster_size: 24
+cluster_id: cluster-2026-08-20-dfd2b7f5eb
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: apple-s-mobile-platform
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # The CMA's programme of work across mobile platforms

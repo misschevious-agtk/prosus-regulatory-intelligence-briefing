@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-192b973899
-cluster_size: 178
+cluster_id: cluster-2026-08-27-e3e47cdfd5
+cluster_size: 172
 cluster_role: sibling
-cluster_canonical_slug: community-voting-period-now-open-for-uspto-sxsw-2027-panelpicker-propo
-ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Federal trademark filing: Overview

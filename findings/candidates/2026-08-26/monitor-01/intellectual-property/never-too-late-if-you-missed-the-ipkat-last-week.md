@@ -23,11 +23,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-08-19-90616968f2
-cluster_size: 42
+cluster_id: cluster-2026-08-20-8d79d4d33d
+cluster_size: 57
 cluster_role: sibling
 cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

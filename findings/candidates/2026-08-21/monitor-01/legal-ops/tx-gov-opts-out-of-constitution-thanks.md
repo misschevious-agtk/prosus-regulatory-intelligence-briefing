@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-21-4e5c10543b
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # TX Gov Opts Out Of Constitution, Thanks

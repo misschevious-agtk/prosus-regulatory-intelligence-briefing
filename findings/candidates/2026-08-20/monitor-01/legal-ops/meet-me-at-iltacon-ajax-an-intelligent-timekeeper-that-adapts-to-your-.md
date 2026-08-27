@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-7650940da8
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: meet-me-at-iltacon-ajax-an-intelligent-timekeeper-that-adapts-to-your-
-ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_id: cluster-2026-08-20-d7bdc1be98
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Meet Me At ILTACON: Ajax, An Intelligent Timekeeper That Adapts To Your Existing Workflow

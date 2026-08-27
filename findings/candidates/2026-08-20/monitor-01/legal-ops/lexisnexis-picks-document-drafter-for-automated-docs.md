@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-1b4952f185
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: lexisnexis-picks-document-drafter-for-automated-docs
-ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_id: cluster-2026-08-20-02c478dc23
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # LexisNexis Picks Document Drafter for Automated Docs

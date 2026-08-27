@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-0c07312c21
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: sra-issues-ai-usage-warning-notice
-ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_id: cluster-2026-08-20-01a3dc64b2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # SRA issues AI usage warning notice

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-22-3771f88aee
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: an-open-letter-to-this-year-s-law-students
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # An Open Letter To This Year’s Law Students

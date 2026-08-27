@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-717a40d1fc
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: appeals-court-sides-with-providers-in-no-surprises-act-pay-dispute
-ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_id: cluster-2026-08-20-22cf6ceb02
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Appeals Court Sides With Providers In No Surprises Act Pay Dispute

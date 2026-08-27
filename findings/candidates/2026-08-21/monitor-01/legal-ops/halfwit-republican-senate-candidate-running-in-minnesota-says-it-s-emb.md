@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-20-9698674e8e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: halfwit-republican-senate-candidate-running-in-minnesota-says-it-s-emb
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Halfwit Republican Senate Candidate Running In Minnesota Says ‘It’s Embarrassing’ To Be Minnesotan

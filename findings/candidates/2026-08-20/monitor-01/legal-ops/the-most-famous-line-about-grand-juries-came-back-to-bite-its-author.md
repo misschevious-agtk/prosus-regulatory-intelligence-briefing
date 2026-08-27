@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-19-3207099703
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-most-famous-line-about-grand-juries-came-back-to-bite-its-author
-ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_id: cluster-2026-08-20-013f95319c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # The Most Famous Line About Grand Juries Came Back To Bite Its Author

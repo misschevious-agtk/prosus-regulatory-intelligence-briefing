@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-19-983ad8f7e4
-cluster_size: 132
+cluster_id: cluster-2026-08-22-39de4152f0
+cluster_size: 120
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-poland-s-fifth-payment-request-for-7-9-billion-
-ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_canonical_slug: commission-approves-4-5-million-german-state-aid-for-fishing-and-aquac
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Commission proposes fishing opportunities for 2027 in the Baltic Sea

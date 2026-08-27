@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-21-d00d9f097f
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Federal Judge Calls Arab Head Covering A ‘Terror Scarf’ As Part Of Persistent Anti-Muslim Rhetoric

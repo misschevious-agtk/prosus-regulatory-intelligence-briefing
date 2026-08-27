@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-25-8673d26c87
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-three-day-office-week-is-going-out-of-style
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Biglaw’s Three-Day Office Week Is Going Out Of Style

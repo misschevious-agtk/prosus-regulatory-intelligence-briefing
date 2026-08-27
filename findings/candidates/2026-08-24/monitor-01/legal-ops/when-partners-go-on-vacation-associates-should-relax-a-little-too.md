@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-22-22b0a1e6f1
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: when-partners-go-on-vacation-associates-should-relax-a-little-too
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # When Partners Go On Vacation, Associates Should Relax A Little Too

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-22-2eb859ca5b
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: former-federal-prosecutor-indicted-for-allegedly-threatening-to-murder
-ranked_at: '2026-08-26T07:53:09+00:00'
+ranked_at: '2026-08-27T18:19:26+00:00'
 ---
 
 # Former Federal Prosecutor Indicted For Allegedly Threatening To Murder Old Bosses — And Their Kids

@@ -18,10 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-08-26-081be34d44
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-08-26T07:53:09+00:00'
+cluster_id: cluster-2026-08-27-d63c7e9524
+cluster_size: 343
+cluster_role: sibling
+ranked_at: '2026-08-27T18:19:26+00:00'
+cluster_canonical_slug: short-of-disavowal-narrowing-provision-and-activate-in-zilkr-v-cisco
 ---
 
 # Google Cloud unveils Gemini Enterprise for Legal

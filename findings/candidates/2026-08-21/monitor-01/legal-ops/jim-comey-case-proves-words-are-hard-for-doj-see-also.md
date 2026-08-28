@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-20-7fbb04e73b
-cluster_size: 4
+cluster_id: cluster-2026-08-21-b1eb546e86
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-doj-insists-there-s-no-serious-dispute-about-a-phrase-everyone-is-
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # Jim Comey Case Proves Words Are Hard For DOJ — See Also

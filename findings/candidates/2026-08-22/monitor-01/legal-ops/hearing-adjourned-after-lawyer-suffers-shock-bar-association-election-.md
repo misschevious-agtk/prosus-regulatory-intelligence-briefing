@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-21-c56fa3d101
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: hearing-adjourned-after-lawyer-suffers-shock-bar-association-election-
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # Hearing Adjourned After Lawyer Suffers Shock Bar Association Election Loss

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-27-c3a3f71e95
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # Morgan & Morgan Is Testing The Limits Of Lawyer Advertising. The Rest Of Us Should Pay Attention.

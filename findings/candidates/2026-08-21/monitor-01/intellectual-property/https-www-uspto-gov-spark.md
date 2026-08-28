@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-20-bcb76c7016
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: https-www-uspto-gov-spark
-ranked_at: '2026-08-27T18:19:26+00:00'
+cluster_id: cluster-2026-08-21-22de571112
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # https://www.uspto.gov/Spark

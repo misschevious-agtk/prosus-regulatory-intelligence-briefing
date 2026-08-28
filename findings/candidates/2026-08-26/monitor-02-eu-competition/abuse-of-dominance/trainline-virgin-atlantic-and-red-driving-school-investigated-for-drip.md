@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-20-4df43da5fa
-cluster_size: 269
+cluster_id: cluster-2026-08-21-a0c2bcc92d
+cluster_size: 255
 cluster_role: sibling
 cluster_canonical_slug: paramount-warner-bros-discovery-merger-inquiry
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # Trainline, Virgin Atlantic and RED Driving School investigated for drip pricing

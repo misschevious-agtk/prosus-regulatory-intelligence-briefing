@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-22-5f37444d7e
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: aba-going-to-lose-law-school-accreditor-role-on-same-day-it-surrenders
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # ABA Going To Lose Law School Accreditor Role On Same Day It Surrenders To Trump Administration

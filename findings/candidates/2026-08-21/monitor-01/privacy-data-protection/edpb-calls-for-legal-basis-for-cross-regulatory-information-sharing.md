@@ -20,11 +20,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-08-20-7e91633609
+cluster_id: cluster-2026-08-21-170c7d2509
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing
-ranked_at: '2026-08-27T18:19:26+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # EDPB calls for legal basis for cross-regulatory information sharing

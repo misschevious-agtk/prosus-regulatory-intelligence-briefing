@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-21-01488e5275
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # Kinstellar selects Laurel AI in “commercial excellence” drive

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-20-a10470a111
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ibm-s-2026-data-breach-report-houston-we-have-a-problem
-ranked_at: '2026-08-27T18:19:26+00:00'
+cluster_id: cluster-2026-08-21-aa4af03335
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # IBM’s 2026 Data Breach Report: Houston, We Have A Problem

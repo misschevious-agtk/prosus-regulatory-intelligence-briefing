@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-08-20-383f7825c7
-cluster_size: 12
+cluster_id: cluster-2026-08-21-de6e9087a9
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: questions-r-ponses-recommandation-relative-aux-pixels-dans-les-courrie
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # Questions-réponses - recommandation relative aux pixels dans les courriers électroniques de la CNIL

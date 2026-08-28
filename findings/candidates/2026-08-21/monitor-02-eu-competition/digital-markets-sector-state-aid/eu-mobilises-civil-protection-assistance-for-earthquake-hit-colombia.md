@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-22-39de4152f0
-cluster_size: 120
+cluster_size: 110
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-4-5-million-german-state-aid-for-fishing-and-aquac
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # EU mobilises civil protection assistance for earthquake-hit Colombia

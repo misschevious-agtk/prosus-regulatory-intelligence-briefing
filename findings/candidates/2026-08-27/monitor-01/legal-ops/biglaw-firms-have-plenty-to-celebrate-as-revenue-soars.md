@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-34254203b3
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-08-27T18:19:26+00:00'
+cluster_id: cluster-2026-08-24-a1015816a8
+cluster_size: 350
+cluster_role: sibling
+ranked_at: '2026-08-28T19:27:03+00:00'
+cluster_canonical_slug: ilta-and-cosmonauts-partner-to-deliver-four-future-lawyer-regional-eve
 ---
 
 # Biglaw Firms Have Plenty To Celebrate As Revenue Soars

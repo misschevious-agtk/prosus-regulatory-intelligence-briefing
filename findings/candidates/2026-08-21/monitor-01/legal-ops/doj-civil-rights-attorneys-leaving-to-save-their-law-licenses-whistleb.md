@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-20-1ab9b3e8ca
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: doj-civil-rights-attorneys-leaving-to-save-their-law-licenses-whistleb
-ranked_at: '2026-08-27T18:19:26+00:00'
+cluster_id: cluster-2026-08-21-50dc845f42
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # DOJ Civil Rights Attorneys Leaving To Save Their Law Licenses, Whistleblower Tells Congress

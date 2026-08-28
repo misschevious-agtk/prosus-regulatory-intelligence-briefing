@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-25-9ceed8e9f5
-cluster_size: 10
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: speech-by-commissioner-kos-at-the-conference-of-ambassadors-consuls-ge
-ranked_at: '2026-08-27T18:19:26+00:00'
+ranked_at: '2026-08-28T19:27:03+00:00'
 ---
 
 # Opening address by Commissioner Šuica on the "Current Issues in the European Union and the Priorities of the Republic of Croatia” at the Conference of Ambassadors, Consuls General, Consuls and Military Attachés of the Republic of Croatia

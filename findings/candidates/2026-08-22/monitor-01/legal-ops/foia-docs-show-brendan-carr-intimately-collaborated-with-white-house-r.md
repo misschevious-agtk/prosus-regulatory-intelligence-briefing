@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-22-fe09914d64
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # FOIA Docs Show Brendan Carr Intimately Collaborated With White House, Right-Wing Propaganda Orgs

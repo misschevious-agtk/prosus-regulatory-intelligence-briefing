@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-21-959ea9c877
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: private-equity-found-a-law-firm-that-said-yes
-ranked_at: '2026-08-28T19:27:03+00:00'
+cluster_id: cluster-2026-08-22-2e90a556e7
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # The First Big ‘Yes’ In Private Equity’s Slow March Into Law — See Also

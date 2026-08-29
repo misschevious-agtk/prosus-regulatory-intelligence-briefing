@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-21-da2f487f12
+cluster_id: cluster-2026-08-22-eb8dcb0a4e
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: rejected-with-a-road-map-allowable-subject-matter-in-the-first-action
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Allowable, Not Allowed: What the First Action Predicts

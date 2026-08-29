@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-21-0ea27d7f6b
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-confirmation-speech-that-doomed-the-scotus-nominee-it-was-meant-to
-ranked_at: '2026-08-28T19:27:03+00:00'
+cluster_id: cluster-2026-08-22-b0586d1f8a
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # The Confirmation Speech That Doomed The SCOTUS Nominee It Was Meant To Save

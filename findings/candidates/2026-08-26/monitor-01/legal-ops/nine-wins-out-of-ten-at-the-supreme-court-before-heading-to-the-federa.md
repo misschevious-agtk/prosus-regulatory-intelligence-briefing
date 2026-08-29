@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-25-9d34294bd1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: nine-wins-out-of-ten-at-the-supreme-court-before-heading-to-the-federa
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary

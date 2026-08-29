@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-a1015816a8
-cluster_size: 350
+cluster_id: cluster-2026-08-22-3d8c156dc4
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: ilta-and-cosmonauts-partner-to-deliver-four-future-lawyer-regional-eve
-ranked_at: '2026-08-28T19:27:03+00:00'
+cluster_canonical_slug: how-to-audit-your-law-firm-website-for-ai-readability
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # How To Audit Your Law Firm Website For AI Readability

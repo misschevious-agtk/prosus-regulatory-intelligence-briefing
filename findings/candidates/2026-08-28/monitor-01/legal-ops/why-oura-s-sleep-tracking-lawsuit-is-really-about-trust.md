@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-27-1fa1375018
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: why-oura-s-sleep-tracking-lawsuit-is-really-about-trust
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust

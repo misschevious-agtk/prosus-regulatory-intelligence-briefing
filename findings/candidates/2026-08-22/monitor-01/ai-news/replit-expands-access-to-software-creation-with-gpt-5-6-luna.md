@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-21-e82da26242
+cluster_id: cluster-2026-08-22-d86d45d928
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: replit-expands-access-to-software-creation-with-gpt-5-6-luna
-ranked_at: '2026-08-28T19:27:03+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Replit expands access to software creation with GPT-5.6 Luna

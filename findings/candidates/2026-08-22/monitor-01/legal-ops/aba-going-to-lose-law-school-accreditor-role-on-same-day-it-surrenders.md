@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-22-5f37444d7e
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # ABA Going To Lose Law School Accreditor Role On Same Day It Surrenders To Trump Administration

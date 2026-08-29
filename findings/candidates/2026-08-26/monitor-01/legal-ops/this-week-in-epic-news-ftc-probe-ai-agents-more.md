@@ -21,7 +21,7 @@ cluster_id: cluster-2026-08-25-0deaa8f920
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-week-in-epic-news-ftc-probe-ai-agents-more
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # This Week In Epic News: FTC Probe, AI Agents & More

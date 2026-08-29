@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-21-ca4388d6a0
-cluster_size: 7
+cluster_id: cluster-2026-08-22-af2448ca64
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: can-harassment-risk-alone-support-obviousness-type-double-patenting
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Can Harassment Risk Alone Support Obviousness-Type Double Patenting?

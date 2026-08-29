@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-27-8dbf188c11
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: angry-birds-crash-into-bad-faith
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Angry Birds crash into bad faith

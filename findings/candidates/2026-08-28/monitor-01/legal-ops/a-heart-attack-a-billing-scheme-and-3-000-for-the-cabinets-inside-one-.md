@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-28-e352d2934f
-cluster_size: 3
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # A Heart Attack, A Billing Scheme, And $3,000 For The ‘Cabinets’: Inside One Associate’s Suit Against Troutman Pepper — See Also

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-21-3f2ea5668b
+cluster_id: cluster-2026-08-22-4207c3b323
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nvidia-cosmos-h-dreams-bringing-real-time-generative-simulation-to-sur
-ranked_at: '2026-08-28T19:27:03+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics

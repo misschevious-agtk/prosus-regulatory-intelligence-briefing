@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-21-8a94a4d523
-cluster_size: 5
+cluster_id: cluster-2026-08-22-aa6352e1d8
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: digital-twin-startup-twin1-raises-20m-as-linklaters-orrick-and-dechert
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Digital twin startup Twin1 raises $20m as Linklaters, Orrick and Dechert sign up

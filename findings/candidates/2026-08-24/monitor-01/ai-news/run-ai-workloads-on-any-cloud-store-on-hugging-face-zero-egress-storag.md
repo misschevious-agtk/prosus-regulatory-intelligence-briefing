@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-24-a1015816a8
-cluster_size: 350
+cluster_size: 343
 cluster_role: sibling
 cluster_canonical_slug: ilta-and-cosmonauts-partner-to-deliver-four-future-lawyer-regional-eve
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot

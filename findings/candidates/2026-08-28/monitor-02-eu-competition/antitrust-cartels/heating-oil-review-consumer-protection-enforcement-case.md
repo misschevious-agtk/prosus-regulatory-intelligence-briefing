@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-28-2f5c3491f1
-cluster_size: 6
+cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Heating oil review: consumer protection enforcement case

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-27-b396a93119
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Meta To Pay Up To $18 Billion In Settlements

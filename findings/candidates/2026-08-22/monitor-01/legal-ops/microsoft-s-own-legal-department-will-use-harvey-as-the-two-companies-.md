@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-21-ce0471c7f1
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: microsoft-s-own-legal-department-will-use-harvey-as-the-two-companies-
-ranked_at: '2026-08-28T19:27:03+00:00'
+cluster_id: cluster-2026-08-22-5afe447006
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Microsoft’s Own Legal Department Will Use Harvey, As the Two Companies Deepen Their Alliance

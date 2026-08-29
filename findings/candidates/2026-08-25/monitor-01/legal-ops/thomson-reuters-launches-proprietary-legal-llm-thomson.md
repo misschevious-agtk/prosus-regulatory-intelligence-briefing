@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-25-adf9c73d2a
-cluster_size: 10
+cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-08-28T19:27:03+00:00'
+ranked_at: '2026-08-29T13:10:37+00:00'
 ---
 
 # Thomson Reuters launches proprietary legal LLM “Thomson”

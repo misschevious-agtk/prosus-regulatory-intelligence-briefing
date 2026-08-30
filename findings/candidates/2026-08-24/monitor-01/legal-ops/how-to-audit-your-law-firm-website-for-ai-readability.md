@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-3d8c156dc4
-cluster_size: 4
+cluster_id: cluster-2026-08-23-e45149c23a
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: how-to-audit-your-law-firm-website-for-ai-readability
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # How To Audit Your Law Firm Website For AI Readability

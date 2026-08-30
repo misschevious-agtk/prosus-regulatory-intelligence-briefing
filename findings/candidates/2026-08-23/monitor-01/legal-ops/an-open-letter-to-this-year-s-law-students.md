@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-3771f88aee
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: an-open-letter-to-this-year-s-law-students
-ranked_at: '2026-08-29T13:10:37+00:00'
+cluster_id: cluster-2026-08-23-6013b62333
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # An Open Letter To This Year’s Law Students

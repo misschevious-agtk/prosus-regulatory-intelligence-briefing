@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-26-2ce0c32428
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Patent Troll SLAPPs Lawyer For Saying His Shell Companies Never Pay Up, Loses, Now Owes Her Money

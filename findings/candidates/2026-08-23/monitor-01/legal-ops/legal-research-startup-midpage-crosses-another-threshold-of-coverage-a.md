@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-b9a36e2e8a
+cluster_id: cluster-2026-08-23-cac2646fe1
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: legal-research-startup-midpage-crosses-another-threshold-of-coverage-a
-ranked_at: '2026-08-29T13:10:37+00:00'
+cluster_role: canonical
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Legal Research Startup Midpage Crosses Another Threshold Of Coverage, Adding Federal and State Statutes, Regulations and Agency Guidance

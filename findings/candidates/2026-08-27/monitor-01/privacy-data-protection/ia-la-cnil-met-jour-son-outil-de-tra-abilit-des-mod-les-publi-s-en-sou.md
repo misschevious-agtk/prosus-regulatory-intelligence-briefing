@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-08-25-fefb877629
-cluster_size: 13
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: enseignement-du-premier-et-du-second-degr-s-les-r-gles-et-bonnes-prati
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-25-66efae1d3b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: former-acting-u-s-attorney-found-dead-inside-federal-building
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Former Acting U.S. Attorney Found Dead Inside Federal Building

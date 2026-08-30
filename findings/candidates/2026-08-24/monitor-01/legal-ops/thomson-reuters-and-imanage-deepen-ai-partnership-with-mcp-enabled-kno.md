@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-7d8d32fa2a
-cluster_size: 3
+cluster_id: cluster-2026-08-23-e5fb55698e
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: thomson-reuters-and-imanage-deepen-ai-partnership-with-mcp-enabled-kno
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Thomson Reuters and iManage deepen AI partnership with MCP-enabled knowledge integration

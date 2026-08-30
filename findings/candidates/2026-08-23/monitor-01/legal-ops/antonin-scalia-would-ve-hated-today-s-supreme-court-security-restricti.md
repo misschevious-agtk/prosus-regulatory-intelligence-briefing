@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-5a38b5fde3
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: antonin-scalia-would-ve-hated-today-s-supreme-court-security-restricti
-ranked_at: '2026-08-29T13:10:37+00:00'
+cluster_id: cluster-2026-08-23-7f588bec38
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Antonin Scalia Would’ve Hated Today’s Supreme Court Security Restrictions

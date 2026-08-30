@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-d1575f96c2
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: ai-prompt-injection-has-entered-the-courtroom
-ranked_at: '2026-08-29T13:10:37+00:00'
+cluster_id: cluster-2026-08-23-4d97b6f12a
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # AI Prompt Injection Has Entered The Courtroom

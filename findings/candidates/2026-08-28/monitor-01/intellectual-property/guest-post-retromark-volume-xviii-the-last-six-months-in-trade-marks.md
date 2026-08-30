@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-92751aa877
-cluster_size: 63
+cluster_id: cluster-2026-08-23-9c6eea9306
+cluster_size: 71
 cluster_role: sibling
 cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # [Guest post] Retromark Volume XVIII: the last six months in trade marks

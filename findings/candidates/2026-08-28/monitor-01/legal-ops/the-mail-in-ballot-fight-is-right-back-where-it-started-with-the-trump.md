@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-28-6d421b7440
-cluster_size: 5
+cluster_size: 8
 cluster_role: sibling
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 cluster_canonical_slug: samuel-alito-thought-clarence-thomas-was-scary-in-law-school
 ---
 

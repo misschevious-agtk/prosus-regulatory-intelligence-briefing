@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-27-8874d7a968
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # $6 A Gallon Gas, A Huge Recession, Or AI Taking Your Job: Pick 2

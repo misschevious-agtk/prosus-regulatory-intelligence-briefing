@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-26-cab05b2094
-cluster_size: 8
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Visite dans les Hautes Fagnes

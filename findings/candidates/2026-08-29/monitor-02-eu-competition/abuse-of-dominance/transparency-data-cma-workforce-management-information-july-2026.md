@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-28-6381eaef4e
-cluster_size: 18
+cluster_size: 27
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-prompt-payment-data-april-to-june-2026
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Transparency data: CMA: workforce management information July 2026

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-24-a1015816a8
-cluster_size: 343
+cluster_size: 346
 cluster_role: sibling
 cluster_canonical_slug: ilta-and-cosmonauts-partner-to-deliver-four-future-lawyer-regional-eve
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # NetDocuments Asks How Much Are Lawyers Paying To Get The ‘Right’ Answer From AI

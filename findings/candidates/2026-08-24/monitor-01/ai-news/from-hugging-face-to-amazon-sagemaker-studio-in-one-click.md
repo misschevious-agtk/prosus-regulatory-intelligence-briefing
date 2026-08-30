@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-53e2c572de
-cluster_size: 4
+cluster_id: cluster-2026-08-23-44f98c2ec1
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: from-hugging-face-to-amazon-sagemaker-studio-in-one-click
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # From Hugging Face to Amazon SageMaker Studio in one click

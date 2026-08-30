@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-25-b23c4033e1
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Harvey and PacerPro Announce Partnership To Connect Docket Data with AI Litigation Workflows

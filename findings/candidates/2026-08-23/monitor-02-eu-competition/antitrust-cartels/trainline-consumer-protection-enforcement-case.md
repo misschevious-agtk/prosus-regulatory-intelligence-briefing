@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-22-b8db39ca96
-cluster_size: 227
+cluster_id: cluster-2026-08-23-96f938e4da
+cluster_size: 199
 cluster_role: sibling
 cluster_canonical_slug: paramount-warner-bros-discovery-merger-inquiry
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Trainline: consumer protection enforcement case

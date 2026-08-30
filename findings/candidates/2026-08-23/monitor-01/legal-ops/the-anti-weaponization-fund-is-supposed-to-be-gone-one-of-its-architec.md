@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-6f9f34551e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-anti-weaponization-fund-is-supposed-to-be-gone-one-of-its-architec
-ranked_at: '2026-08-29T13:10:37+00:00'
+cluster_id: cluster-2026-08-23-acd11815d2
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # The Anti-Weaponization Fund Is Supposed To Be Gone. One Of Its Architects Wants To Be The Next Deputy Attorney General.

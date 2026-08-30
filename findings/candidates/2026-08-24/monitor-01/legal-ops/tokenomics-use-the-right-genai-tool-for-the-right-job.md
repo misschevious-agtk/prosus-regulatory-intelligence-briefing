@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-22-32f55ad18e
-cluster_size: 4
+cluster_id: cluster-2026-08-23-d763223fd6
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: tokenomics-use-the-right-genai-tool-for-the-right-job
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Tokenomics: “Use the right GenAI tool for the right job”

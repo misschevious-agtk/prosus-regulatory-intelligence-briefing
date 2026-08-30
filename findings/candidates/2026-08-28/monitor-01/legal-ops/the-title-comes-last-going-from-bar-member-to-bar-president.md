@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-27-29873d3487
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-title-comes-last-going-from-bar-member-to-bar-president
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # The Title Comes Last: Going From Bar Member To Bar President

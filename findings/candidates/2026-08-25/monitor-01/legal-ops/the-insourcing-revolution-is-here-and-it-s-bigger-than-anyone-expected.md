@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-25-b84e05fd30
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # The Insourcing Revolution Is Here. And It’s Bigger Than Anyone Expected.

@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-25-f1a46ed975
-cluster_size: 60
+cluster_size: 75
 cluster_role: sibling
 cluster_canonical_slug: aramark-entier-merger-inquiry
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # Aramark / Entier merger inquiry

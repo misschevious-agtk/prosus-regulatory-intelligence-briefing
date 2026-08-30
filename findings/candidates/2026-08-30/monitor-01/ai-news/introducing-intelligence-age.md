@@ -1,0 +1,41 @@
+---
+date_found: 2026-08-30
+monitor: monitor-01
+domain: ai-news
+source_url: https://openai.com/index/introducing-intelligence-age
+source_publisher: OpenAI blog
+source_date: Thu, 20 Aug 2026 07:00:00 GMT
+source_method: rss
+title: Introducing Intelligence Age
+matched_keywords:
+- OpenAI
+match_count: 1
+status: candidate
+entities:
+- name: OpenAI
+  type: company
+  jurisdiction: US
+  matched_alias: OpenAI
+case_numbers: []
+cluster_id: cluster-2026-08-24-a1015816a8
+cluster_size: 346
+cluster_role: sibling
+cluster_canonical_slug: ilta-and-cosmonauts-partner-to-deliver-four-future-lawyer-regional-eve
+ranked_at: '2026-08-30T12:49:26+00:00'
+---
+
+# Introducing Intelligence Age
+
+**Source:** [OpenAI blog](https://openai.com/index/introducing-intelligence-age)
+**Published:** Thu, 20 Aug 2026 07:00:00 GMT
+**Matched keywords (1):** OpenAI
+
+## Summary excerpt
+
+Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

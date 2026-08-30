@@ -18,11 +18,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-08-22-6748d92310
+cluster_id: cluster-2026-08-23-e6c2bf6c3b
 cluster_size: 80
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-08-29T13:10:37+00:00'
+ranked_at: '2026-08-30T12:49:26+00:00'
 ---
 
 # NEWSLETTER del 26 marzo 2026 - Telemarketing, il Garante privacy sanziona Enel Energia per oltre 500mila euro - Annunci online senza consenso, il Garante sanziona Bakeca - Recupero crediti, Garante privacy: illecita la comunicazione ai familiari del debitore - Troppi rischi su siti e app per i minori: l’indagine del GPEN

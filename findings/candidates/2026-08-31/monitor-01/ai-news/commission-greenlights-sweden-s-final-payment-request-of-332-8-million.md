@@ -1,0 +1,41 @@
+---
+date_found: 2026-08-31
+monitor: monitor-01
+domain: ai-news
+source_url: https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1770
+source_publisher: European Commission press
+source_date: Sun, 30 Aug 2026 22:00:00 GMT
+source_method: rss
+title: Commission greenlights Sweden's final payment request of €332.8 million under NextGenerationEU
+matched_keywords:
+- European Commission
+match_count: 1
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+case_numbers: []
+cluster_id: cluster-2026-08-31-438d8190f9
+cluster_size: 4
+cluster_role: sibling
+cluster_canonical_slug: commission-greenlights-sweden-s-final-payment-request-of-332-8-million
+ranked_at: '2026-08-31T15:02:38+00:00'
+---
+
+# Commission greenlights Sweden's final payment request of €332.8 million under NextGenerationEU
+
+**Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1770)
+**Published:** Sun, 30 Aug 2026 22:00:00 GMT
+**Matched keywords (1):** European Commission
+
+## Summary excerpt
+
+European Commission Press release Brussels, 31 Aug 2026 Today, the European Commission positively assessed Sweden's third and final payment request for €332.8 million under the Recovery and Resilience Facility, the centrepiece of NextGenerationEU.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

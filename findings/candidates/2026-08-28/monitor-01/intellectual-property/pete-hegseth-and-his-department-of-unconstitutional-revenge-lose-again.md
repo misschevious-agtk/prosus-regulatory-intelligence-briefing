@@ -18,9 +18,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-08-28-529980c0a7
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-30T12:49:26+00:00'
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # Pete Hegseth And His Department Of Unconstitutional Revenge Lose Again In California

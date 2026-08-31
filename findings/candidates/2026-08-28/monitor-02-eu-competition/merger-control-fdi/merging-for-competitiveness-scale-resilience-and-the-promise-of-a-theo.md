@@ -21,9 +21,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-28-72523d053d
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-08-30T12:49:26+00:00'
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # Merging for Competitiveness: Scale, Resilience, and the Promise of a Theory of Benefit in EU Merger Review

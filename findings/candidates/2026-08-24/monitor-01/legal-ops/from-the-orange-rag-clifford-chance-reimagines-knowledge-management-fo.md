@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-23-db34fd35bb
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: from-the-orange-rag-clifford-chance-reimagines-knowledge-management-fo
-ranked_at: '2026-08-30T12:49:26+00:00'
+cluster_id: cluster-2026-08-24-e8c3826aad
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # From the Orange Rag: Clifford Chance reimagines knowledge management for the AI era

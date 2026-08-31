@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-26-d3d3fc0387
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-30T12:49:26+00:00'
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # Live Nation’s Ticket Out Of Its Antitrust Case Apparently Came Courtesy Of Some ‘Bizarre’ White House Intervention

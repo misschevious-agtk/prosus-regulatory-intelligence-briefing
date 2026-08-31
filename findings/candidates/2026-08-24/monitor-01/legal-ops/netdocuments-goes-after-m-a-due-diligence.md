@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-23-1febcf7521
-cluster_size: 10
-cluster_role: sibling
-cluster_canonical_slug: netdocuments-goes-after-m-a-due-diligence
-ranked_at: '2026-08-30T12:49:26+00:00'
+cluster_id: cluster-2026-08-24-d1d49a984b
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # NetDocuments Goes After M&A Due Diligence

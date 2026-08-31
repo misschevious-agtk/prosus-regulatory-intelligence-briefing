@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-23-82ee0362c9
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: former-federal-prosecutor-indicted-for-allegedly-threatening-to-murder
-ranked_at: '2026-08-30T12:49:26+00:00'
+cluster_id: cluster-2026-08-24-16efe5ffe2
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # Former Federal Prosecutor Indicted For Allegedly Threatening To Murder Old Bosses — And Their Kids

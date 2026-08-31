@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-23-236eb83f27
-cluster_size: 4
+cluster_id: cluster-2026-08-24-2887d92387
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: kinstellar-selects-laurel-ai-in-commercial-excellence-drive
-ranked_at: '2026-08-30T12:49:26+00:00'
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # Kinstellar bets on best-of-breed as it accelerates firmwide transformation

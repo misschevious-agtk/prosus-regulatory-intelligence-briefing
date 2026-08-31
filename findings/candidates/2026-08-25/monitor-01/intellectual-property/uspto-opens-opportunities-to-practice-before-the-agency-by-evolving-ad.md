@@ -21,10 +21,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-08-27-e3e47cdfd5
-cluster_size: 174
+cluster_size: 172
 cluster_role: sibling
 cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-08-30T12:49:26+00:00'
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # USPTO opens opportunities to practice before the agency by evolving admissions criteria for patent bar

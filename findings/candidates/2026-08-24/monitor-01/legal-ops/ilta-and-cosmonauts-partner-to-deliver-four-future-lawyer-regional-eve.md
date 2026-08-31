@@ -16,10 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-a1015816a8
-cluster_size: 346
-cluster_role: canonical
-ranked_at: '2026-08-30T12:49:26+00:00'
+cluster_id: cluster-2026-08-31-14c8c43b89
+cluster_size: 360
+cluster_role: sibling
+ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_canonical_slug: commission-designates-chatgpt-reddit-roblox-under-digital-services-act
 ---
 
 # ILTA and Cosmonauts partner to deliver four Future Lawyer regional events

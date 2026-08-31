@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-23-7ebb0d0413
+cluster_id: cluster-2026-08-24-17908318fe
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customer
-ranked_at: '2026-08-30T12:49:26+00:00'
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # As AI Legal Research Tools Race to Give Answers, This New Product Gives Only Cases — And That’s the Point

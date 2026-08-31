@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-23-7055c3f582
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-best-law-schools-for-health-law-2026
-ranked_at: '2026-08-30T12:49:26+00:00'
+cluster_id: cluster-2026-08-24-af2a84e27d
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # The Best Law Schools For Health Law (2026)

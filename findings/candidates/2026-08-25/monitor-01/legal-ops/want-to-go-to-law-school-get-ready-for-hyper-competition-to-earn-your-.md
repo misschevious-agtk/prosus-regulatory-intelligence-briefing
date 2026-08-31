@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-23-88d2b13ffe
-cluster_size: 3
+cluster_id: cluster-2026-08-24-837ca92c17
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: want-to-go-to-law-school-get-ready-for-hyper-competition-to-earn-your-
-ranked_at: '2026-08-30T12:49:26+00:00'
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # Want To Go To Law School? Get Ready For ‘Hyper Competition’ To Earn Your Seat

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-23-9c6eea9306
-cluster_size: 71
+cluster_id: cluster-2026-08-24-9738b65644
+cluster_size: 69
 cluster_role: sibling
-cluster_canonical_slug: guestpost-sep-licensing-when-the-patent-landscape-changes
-ranked_at: '2026-08-30T12:49:26+00:00'
+cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # In 2021, DLA Piper Wanted Trump Removed Over The Capitol Riot. Today, It’s On Trump’s Jan. 6 Legal Team.

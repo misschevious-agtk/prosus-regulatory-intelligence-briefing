@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-28-6d421b7440
-cluster_size: 8
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: samuel-alito-thought-clarence-thomas-was-scary-in-law-school
-ranked_at: '2026-08-30T12:49:26+00:00'
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # When Samuel Alito Is The One Calling You ‘Scary,’ You Know There’s A Problem — See Also

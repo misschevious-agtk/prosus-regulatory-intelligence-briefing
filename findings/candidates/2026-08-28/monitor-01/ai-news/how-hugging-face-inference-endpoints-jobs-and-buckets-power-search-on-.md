@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-a1015816a8
-cluster_size: 346
+cluster_id: cluster-2026-08-31-14c8c43b89
+cluster_size: 360
 cluster_role: sibling
-cluster_canonical_slug: ilta-and-cosmonauts-partner-to-deliver-four-future-lawyer-regional-eve
-ranked_at: '2026-08-30T12:49:26+00:00'
+cluster_canonical_slug: commission-designates-chatgpt-reddit-roblox-under-digital-services-act
+ranked_at: '2026-08-31T15:02:38+00:00'
 ---
 
 # How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code

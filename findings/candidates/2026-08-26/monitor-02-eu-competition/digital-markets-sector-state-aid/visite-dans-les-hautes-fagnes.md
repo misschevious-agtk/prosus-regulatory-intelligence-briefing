@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-26-cab05b2094
-cluster_size: 10
-cluster_role: canonical
-ranked_at: '2026-08-30T12:49:26+00:00'
+cluster_id: cluster-2026-08-24-52269742b0
+cluster_size: 118
+cluster_role: sibling
+ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_canonical_slug: commission-approves-4-5-million-german-state-aid-for-fishing-and-aquac
 ---
 
 # Visite dans les Hautes Fagnes

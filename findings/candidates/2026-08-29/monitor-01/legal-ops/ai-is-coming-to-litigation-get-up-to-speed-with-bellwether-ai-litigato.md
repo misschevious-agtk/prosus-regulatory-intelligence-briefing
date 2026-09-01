@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-28-69bd599fa5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: ai-is-coming-to-litigation-get-up-to-speed-with-bellwether-ai-litigato
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # AI Is Coming To Litigation. Get Up To Speed With Bellwether AI Litigator Early Bird Special.

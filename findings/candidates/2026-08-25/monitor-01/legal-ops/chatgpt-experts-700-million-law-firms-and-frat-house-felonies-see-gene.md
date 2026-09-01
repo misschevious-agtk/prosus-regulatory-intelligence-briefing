@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-24-a59f21edb5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: chatgpt-experts-700-million-law-firms-and-frat-house-felonies-see-gene
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_id: cluster-2026-08-25-fc017c1e0e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # ChatGPT Experts, $700 Million Law Firms, And Frat House Felonies — See Generally

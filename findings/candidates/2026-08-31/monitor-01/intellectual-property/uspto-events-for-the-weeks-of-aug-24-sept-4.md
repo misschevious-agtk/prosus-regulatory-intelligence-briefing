@@ -22,7 +22,7 @@ cluster_id: cluster-2026-08-27-e3e47cdfd5
 cluster_size: 172
 cluster_role: sibling
 cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # USPTO events for the weeks of Aug. 24- Sept. 4

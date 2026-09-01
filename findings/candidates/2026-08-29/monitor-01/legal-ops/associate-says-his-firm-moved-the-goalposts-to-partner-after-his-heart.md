@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-28-e352d2934f
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: a-heart-attack-a-billing-scheme-and-3-000-for-the-cabinets-inside-one-
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Associate Says His Firm ‘Moved The Goalposts’ To Partner After His Heart Attack

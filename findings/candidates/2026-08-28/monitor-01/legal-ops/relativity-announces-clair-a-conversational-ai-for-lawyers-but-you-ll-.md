@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-7aae40a39e
+cluster_id: cluster-2026-08-25-5e2d119d3d
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: ken-crutchfield-when-ai-models-become-commodities-what-open-weight-ai-
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Relativity Announces claiR, A Conversational AI for Lawyers, But You’ll Have to Wait Awhile to Chat with It

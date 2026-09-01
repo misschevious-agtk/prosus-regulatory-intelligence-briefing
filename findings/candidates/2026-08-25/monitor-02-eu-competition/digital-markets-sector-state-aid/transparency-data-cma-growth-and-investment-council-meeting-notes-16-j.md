@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-24-c135ef48de
-cluster_size: 6
+cluster_id: cluster-2026-08-25-0c85caefaf
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-growth-and-investment-council-meeting-notes-16-j
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Transparency data: CMA Growth and Investment Council meeting notes: 16 July 2026

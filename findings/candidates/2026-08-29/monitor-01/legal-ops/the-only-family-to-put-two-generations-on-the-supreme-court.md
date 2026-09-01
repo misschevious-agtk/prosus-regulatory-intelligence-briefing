@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-28-a0ac66e837
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-only-family-to-put-two-generations-on-the-supreme-court
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # The Only Family To Put Two Generations On The Supreme Court

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-25-a56ade2f76
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: is-trump-only-the-worst-president-or-is-he-the-worst-american-ever
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Is Trump Only The Worst President — Or Is He The Worst American — Ever?

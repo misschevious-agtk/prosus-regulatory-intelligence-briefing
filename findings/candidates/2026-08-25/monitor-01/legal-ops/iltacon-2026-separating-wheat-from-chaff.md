@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-3c3bde6e15
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: iltacon-2026-separating-wheat-from-chaff
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_id: cluster-2026-08-25-2dc95ae243
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # ILTACON 2026: Separating Wheat From Chaff

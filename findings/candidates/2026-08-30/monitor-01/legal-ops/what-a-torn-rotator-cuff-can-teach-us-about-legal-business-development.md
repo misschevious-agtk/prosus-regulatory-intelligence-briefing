@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-28-1e1b959f79
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: what-a-torn-rotator-cuff-can-teach-us-about-legal-business-development
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # What A Torn Rotator Cuff Can Teach Us About Legal Business Development

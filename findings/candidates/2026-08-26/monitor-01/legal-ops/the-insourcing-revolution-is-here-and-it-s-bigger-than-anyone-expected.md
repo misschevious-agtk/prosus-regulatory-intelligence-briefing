@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-25-b84e05fd30
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-insourcing-revolution-is-here-and-it-s-bigger-than-anyone-expected
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # The Insourcing Revolution Is Here. And It’s Bigger Than Anyone Expected.

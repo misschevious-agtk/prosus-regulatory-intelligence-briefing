@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-66d5d7e3b0
+cluster_id: cluster-2026-08-25-68e681477d
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: build-low-latency-multilingual-voice-agents-open-weights-full-deployme
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS

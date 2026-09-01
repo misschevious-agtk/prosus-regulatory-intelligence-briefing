@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-24-005510c687
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: statement-by-executive-vice-president-virkkunen-and-commissioner-mcgra
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_id: cluster-2026-08-25-4108a38da1
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Statement by Executive Vice-President Virkkunen and Commissioner McGrath ahead of the Europe-wide Day of Remembrance of the victims of all totalitarian and authoritarian regimes

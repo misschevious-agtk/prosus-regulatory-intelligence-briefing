@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-8dbf188c11
-cluster_size: 5
-cluster_role: canonical
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_id: cluster-2026-08-25-2d8dd0d9a8
+cluster_size: 77
+cluster_role: sibling
+ranked_at: '2026-09-01T12:32:41+00:00'
+cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
 ---
 
 # Angry Birds crash into bad faith

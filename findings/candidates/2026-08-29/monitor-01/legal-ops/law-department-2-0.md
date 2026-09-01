@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-28-431ee5d027
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: law-department-2-0
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Law Department 2.0

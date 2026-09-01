@@ -23,10 +23,10 @@ entities:
   matched_alias: X Corp
 case_numbers: []
 cluster_id: cluster-2026-08-25-f1a46ed975
-cluster_size: 90
+cluster_size: 105
 cluster_role: sibling
 cluster_canonical_slug: aramark-entier-merger-inquiry
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Schlumberger / ChampionX merger inquiry

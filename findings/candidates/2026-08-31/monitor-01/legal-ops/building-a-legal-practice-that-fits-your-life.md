@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-28-84482071c2
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: building-a-legal-practice-that-fits-your-life
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Building A Legal Practice That Fits Your Life

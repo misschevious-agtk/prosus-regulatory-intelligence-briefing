@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-26-bd67f16fff
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: he-made-a-political-enemy-of-the-wrong-man-and-it-cost-him-the-supreme
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # He Made A Political Enemy Of The Wrong Man — And It Cost Him The Supreme Court

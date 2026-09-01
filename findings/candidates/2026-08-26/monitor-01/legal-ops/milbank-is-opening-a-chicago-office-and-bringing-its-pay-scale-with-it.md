@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-25-184ee93126
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: milbank-is-opening-a-chicago-office-and-bringing-its-pay-scale-with-it
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Milbank Is Opening A Chicago Office — And Bringing Its Pay Scale With It

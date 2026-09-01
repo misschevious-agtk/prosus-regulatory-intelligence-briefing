@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-8f8f56dd1c
+cluster_id: cluster-2026-08-25-7defd09186
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: work-done-in-harvey-now-creates-time-entries-in-aderant-s-itimekeep-th
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Work Done In Harvey Now Creates Time Entries In Aderant’s iTimekeep, Thanks To New Integration

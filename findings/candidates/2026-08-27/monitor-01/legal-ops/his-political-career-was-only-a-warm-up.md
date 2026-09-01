@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-27-43c5980a9d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # His Political Career Was Only A Warm-Up

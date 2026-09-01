@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-0d2e1bd869
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: associate-compensation-scorecard-more-associate-raises-coming-in-hot-i
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_id: cluster-2026-08-25-9ddbffc717
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Associate Compensation Scorecard: More Associate Raises Coming In Hot… In 2027

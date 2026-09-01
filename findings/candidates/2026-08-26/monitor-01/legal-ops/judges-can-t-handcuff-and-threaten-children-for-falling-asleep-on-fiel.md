@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-25-862a5d9b4b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: judges-can-t-handcuff-and-threaten-children-for-falling-asleep-on-fiel
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Judges Can’t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules

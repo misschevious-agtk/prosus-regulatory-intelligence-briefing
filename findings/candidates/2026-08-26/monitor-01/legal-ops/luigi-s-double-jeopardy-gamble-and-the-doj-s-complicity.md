@@ -21,7 +21,7 @@ cluster_id: cluster-2026-08-25-b1323c1cb9
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: luigi-s-double-jeopardy-gamble-and-the-doj-s-complicity
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Luigi’s Double Jeopardy Gamble And The DOJ’s Complicity

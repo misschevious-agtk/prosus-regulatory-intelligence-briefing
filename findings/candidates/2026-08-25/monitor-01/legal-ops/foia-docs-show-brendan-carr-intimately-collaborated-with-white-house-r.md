@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-02276575fd
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: foia-docs-show-brendan-carr-intimately-collaborated-with-white-house-r
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_id: cluster-2026-08-25-35a80a3e44
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # FOIA Docs Show Brendan Carr Intimately Collaborated With White House, Right-Wing Propaganda Orgs

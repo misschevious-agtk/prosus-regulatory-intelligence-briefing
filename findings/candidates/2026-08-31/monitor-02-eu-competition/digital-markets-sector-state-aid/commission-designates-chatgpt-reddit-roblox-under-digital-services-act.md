@@ -24,9 +24,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-31-14c8c43b89
-cluster_size: 360
+cluster_size: 485
 cluster_role: canonical
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Commission designates ChatGPT, Reddit, Roblox under Digital Services Act*

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-20fda249cd
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: matching-the-milbank-scale-before-most-of-biglaw-see-also
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_id: cluster-2026-08-25-7d48787be4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Matching The Milbank Scale Before Most Of Biglaw — See Also

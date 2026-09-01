@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-f8edb11f29
-cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: problem-statements-and-the-scope-of-prior-art
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_id: cluster-2026-08-25-36c9236a11
+cluster_size: 15
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Problem Statements and the Scope of Prior Art

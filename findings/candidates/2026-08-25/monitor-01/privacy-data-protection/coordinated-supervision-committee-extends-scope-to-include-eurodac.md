@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-24-b6ce66e5c1
+cluster_id: cluster-2026-08-25-b305ea7637
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: coordinated-supervision-committee-extends-scope-to-include-eurodac
-ranked_at: '2026-08-31T15:02:38+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Coordinated Supervision Committee extends scope to include Eurodac

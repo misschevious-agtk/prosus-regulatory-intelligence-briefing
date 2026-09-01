@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-31-14c8c43b89
-cluster_size: 360
+cluster_size: 485
 cluster_role: sibling
 cluster_canonical_slug: commission-designates-chatgpt-reddit-roblox-under-digital-services-act
-ranked_at: '2026-08-31T15:02:38+00:00'
+ranked_at: '2026-09-01T12:32:41+00:00'
 ---
 
 # Draftwise Launches ‘Legal Ontology’ to Capture The Judgment Layer

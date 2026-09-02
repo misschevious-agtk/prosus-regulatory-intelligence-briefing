@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-26-11f5047422
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Eiropas komisāra Valda Dombrovska runa Rīgas Tehniskajā universitātē, atklājot Talantu programmas 2026./2027. m.g.

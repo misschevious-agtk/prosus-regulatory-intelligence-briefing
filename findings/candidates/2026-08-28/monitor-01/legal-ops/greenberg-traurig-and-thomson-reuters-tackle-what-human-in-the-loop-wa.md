@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-27-5135cc5b03
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: greenberg-traurig-and-thomson-reuters-tackle-what-human-in-the-loop-wa
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Greenberg Traurig And Thomson Reuters Tackle What ‘Human In The Loop’ Was Missing

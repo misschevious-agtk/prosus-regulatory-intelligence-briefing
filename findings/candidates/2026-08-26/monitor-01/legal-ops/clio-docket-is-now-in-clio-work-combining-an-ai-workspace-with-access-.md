@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-25-209412379e
+cluster_id: cluster-2026-08-26-efa52dc10c
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: clio-docket-is-now-in-clio-work-combining-an-ai-workspace-with-access-
-ranked_at: '2026-09-01T12:32:41+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Clio Docket Is Now In Clio Work, Combining An AI Workspace with Access to More Than 1 Billion Court Filings

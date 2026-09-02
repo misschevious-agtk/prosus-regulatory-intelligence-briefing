@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-25-792a4dba6f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-trail-guide-problem-judge-jury-and-design-patent-claim-constructio
-ranked_at: '2026-09-01T12:32:41+00:00'
+cluster_id: cluster-2026-08-26-07614cc0e1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # The Trail Guide Problem: Judge, Jury, and Design Patent Claim Construction

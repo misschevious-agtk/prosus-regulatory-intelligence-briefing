@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-27-1b399a4015
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: paying-for-clout-isn-t-a-business-expense-tax-court-lessons-for-social
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Paying For Clout Isn’t A Business Expense: Tax Court Lessons For Social Media Creators

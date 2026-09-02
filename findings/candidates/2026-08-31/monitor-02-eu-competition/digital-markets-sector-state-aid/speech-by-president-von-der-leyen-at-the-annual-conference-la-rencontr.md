@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-25-88db64acca
-cluster_size: 14
+cluster_id: cluster-2026-08-26-3a16bda948
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: video-message-by-president-von-der-leyen-at-the-ons-conference
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Speech by President von der Leyen at the annual conference ‘La Rencontre des Entrepreneurs de France 2026'

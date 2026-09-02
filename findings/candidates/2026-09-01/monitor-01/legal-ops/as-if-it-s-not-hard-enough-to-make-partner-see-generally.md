@@ -19,10 +19,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-08-31-fc5ebba0fd
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: as-if-it-s-not-hard-enough-to-make-partner-see-generally
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # As If It’s Not Hard Enough To Make Partner — See Generally

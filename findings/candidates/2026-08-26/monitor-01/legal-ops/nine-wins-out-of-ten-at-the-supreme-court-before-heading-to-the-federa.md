@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-25-9d34294bd1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: nine-wins-out-of-ten-at-the-supreme-court-before-heading-to-the-federa
-ranked_at: '2026-09-01T12:32:41+00:00'
+cluster_id: cluster-2026-08-26-be1e08cd1d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary

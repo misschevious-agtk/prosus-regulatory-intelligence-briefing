@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-25-f309b5de99
+cluster_id: cluster-2026-08-26-f1ddd6953b
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: universal-migrator-helps-aggressive-startups-onboard-customers-quicker
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Universal Migrator helps aggressive startups onboard customers quicker

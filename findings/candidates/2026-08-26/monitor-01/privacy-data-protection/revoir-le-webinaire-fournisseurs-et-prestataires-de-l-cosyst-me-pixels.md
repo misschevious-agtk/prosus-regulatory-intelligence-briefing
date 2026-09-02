@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-08-25-730439026f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: revoir-le-webinaire-fournisseurs-et-prestataires-de-l-cosyst-me-pixels
-ranked_at: '2026-09-01T12:32:41+00:00'
+cluster_id: cluster-2026-08-26-bd8253052e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Revoir le webinaire - Fournisseurs et prestataires de l’écosystème « pixels » : comment implémenter la recommandation CNIL ?

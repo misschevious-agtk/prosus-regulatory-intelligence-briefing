@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-28-e352d2934f
 cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # A Heart Attack, A Billing Scheme, And $3,000 For The ‘Cabinets’: Inside One Associate’s Suit Against Troutman Pepper — See Also

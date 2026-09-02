@@ -18,9 +18,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-08-26-720ac3bbfe
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Jalapeño’s first results show industry-leading speed and efficiency in AI inference

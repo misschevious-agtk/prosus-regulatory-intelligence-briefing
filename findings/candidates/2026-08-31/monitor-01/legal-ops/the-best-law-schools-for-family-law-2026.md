@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-27-2ca2fda6ec
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-for-family-law-2026
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # The Best Law Schools For Family Law (2026)

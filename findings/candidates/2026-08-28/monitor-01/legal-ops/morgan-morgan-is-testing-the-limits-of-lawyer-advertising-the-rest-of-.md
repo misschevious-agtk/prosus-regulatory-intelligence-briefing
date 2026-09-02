@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-27-c3a3f71e95
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: morgan-morgan-is-testing-the-limits-of-lawyer-advertising-the-rest-of-
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Morgan & Morgan Is Testing The Limits Of Lawyer Advertising. The Rest Of Us Should Pay Attention.

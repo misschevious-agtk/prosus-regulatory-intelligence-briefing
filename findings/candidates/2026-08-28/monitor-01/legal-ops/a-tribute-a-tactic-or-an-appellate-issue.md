@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-27-eca26a9831
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-tribute-a-tactic-or-an-appellate-issue
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # A Tribute, A Tactic, Or An Appellate Issue?

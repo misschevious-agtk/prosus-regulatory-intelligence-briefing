@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-01-c686b1594f
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-01T12:32:41+00:00'
+cluster_id: cluster-2026-08-31-14c8c43b89
+cluster_size: 492
+cluster_role: sibling
+ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_canonical_slug: commission-designates-chatgpt-reddit-roblox-under-digital-services-act
 ---
 
 # Series A Round for Newcode, An AI Harness for Legal, Brings Its Funding To $20M and Fuels U.S. Expansion

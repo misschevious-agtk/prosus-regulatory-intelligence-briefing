@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-08-29-c0a887b3f5
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: our-decision-on-cursor-following-its-acquisition-by-spacex
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Our decision on Cursor following its acquisition by SpaceX

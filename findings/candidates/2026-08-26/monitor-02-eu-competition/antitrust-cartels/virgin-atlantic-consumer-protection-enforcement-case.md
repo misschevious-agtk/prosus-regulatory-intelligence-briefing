@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-25-3963f3a73c
-cluster_size: 143
-cluster_role: sibling
-cluster_canonical_slug: virgin-atlantic-consumer-protection-enforcement-case
-ranked_at: '2026-09-01T12:32:41+00:00'
+cluster_id: cluster-2026-08-26-08cfd67d36
+cluster_size: 111
+cluster_role: canonical
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Virgin Atlantic: consumer protection enforcement case

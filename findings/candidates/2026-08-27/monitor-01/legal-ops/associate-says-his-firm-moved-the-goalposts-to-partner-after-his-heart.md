@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-28-e352d2934f
 cluster_size: 9
 cluster_role: sibling
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 cluster_canonical_slug: a-heart-attack-a-billing-scheme-and-3-000-for-the-cabinets-inside-one-
 ---
 

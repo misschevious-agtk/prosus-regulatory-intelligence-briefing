@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-08-25-2d8dd0d9a8
-cluster_size: 77
+cluster_id: cluster-2026-08-26-bcaaa2cc14
+cluster_size: 75
 cluster_role: sibling
 cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # The Abrego Garcia Appeal Is A Trojan Horse — See Also

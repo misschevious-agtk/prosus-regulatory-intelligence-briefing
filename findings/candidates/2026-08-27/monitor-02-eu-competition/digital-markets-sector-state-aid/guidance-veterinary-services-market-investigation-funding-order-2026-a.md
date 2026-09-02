@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-25-3963f3a73c
-cluster_size: 143
+cluster_id: cluster-2026-08-26-08cfd67d36
+cluster_size: 111
 cluster_role: sibling
 cluster_canonical_slug: virgin-atlantic-consumer-protection-enforcement-case
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Guidance: Veterinary Services Market Investigation (Funding) Order 2026 and Veterinary Services Market Investigation Royal College of Veterinary Surgeons (Funding) Undertakings 2026

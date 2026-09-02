@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-25-84b5703b5c
+cluster_id: cluster-2026-08-26-2f2744e40d
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: arvind-raman-confirmed-as-the-18th-nist-director
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Arvind Raman Confirmed as the 18th NIST Director

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-25-dfe199e2c4
+cluster_id: cluster-2026-08-26-1b9e4de187
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: exclusive-coming-out-of-stealth-paravo-launches-what-it-calls-the-firs
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # Exclusive: Coming Out of Stealth, Paravo Launches What It Calls the First AI ‘Revenue Engine’ for Law Firms

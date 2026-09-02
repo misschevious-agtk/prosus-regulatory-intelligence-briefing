@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-89f8ebac7e
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-09-01T12:32:41+00:00'
+cluster_id: cluster-2026-09-01-3137ddc0dd
+cluster_size: 10
+cluster_role: sibling
+ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_canonical_slug: sam-alito-delayed-financials-reveal-still-betting-big-on-oil-companies
 ---
 
 # Morning Docket: 08.31.26

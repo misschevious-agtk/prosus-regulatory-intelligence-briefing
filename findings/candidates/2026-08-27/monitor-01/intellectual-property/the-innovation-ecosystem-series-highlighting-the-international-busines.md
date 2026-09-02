@@ -21,10 +21,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-08-27-e3e47cdfd5
-cluster_size: 172
+cluster_size: 163
 cluster_role: sibling
 cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # The Innovation Ecosystem series: Highlighting the International Business Innovation Association (InBIA)

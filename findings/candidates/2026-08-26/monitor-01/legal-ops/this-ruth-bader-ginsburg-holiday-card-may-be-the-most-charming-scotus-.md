@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-26-e85a9e6654
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-09-01T12:32:41+00:00'
+ranked_at: '2026-09-02T12:10:55+00:00'
 ---
 
 # This Ruth Bader Ginsburg Holiday Card May Be The Most Charming SCOTUS Collectible Ever

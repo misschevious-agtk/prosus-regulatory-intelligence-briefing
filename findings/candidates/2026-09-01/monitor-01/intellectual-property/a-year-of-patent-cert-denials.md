@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-26-bcaaa2cc14
-cluster_size: 75
+cluster_id: cluster-2026-08-27-30ec3c39c9
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_canonical_slug: a-year-of-patent-cert-denials
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # A Year of Patent Cert Denials

@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-08-31-14c8c43b89
-cluster_size: 492
+cluster_size: 421
 cluster_role: sibling
 cluster_canonical_slug: commission-designates-chatgpt-reddit-roblox-under-digital-services-act
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Statement by President von der Leyen following her visit to the Emergency Response Coordination Centre

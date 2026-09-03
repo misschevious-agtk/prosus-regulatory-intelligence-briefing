@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-29-fb4cef2db6
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: buc-ee-s-decides-the-right-response-to-pushback-on-its-trademark-bully
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Buc-ee’s Decides The Right Response To Pushback On Its Trademark Bullying Is To Invoke Partisanship

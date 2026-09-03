@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-26-bd67f16fff
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: he-made-a-political-enemy-of-the-wrong-man-and-it-cost-him-the-supreme
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_id: cluster-2026-08-27-7325c556ed
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # He Made A Political Enemy Of The Wrong Man — And It Cost Him The Supreme Court

@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-26-11f5047422
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: eiropas-komis-ra-valda-dombrovska-runa-r-gas-tehniskaj-universit-t-atk
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_id: cluster-2026-08-27-dbbb6237f1
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Eiropas komisāra Valda Dombrovska runa Rīgas Tehniskajā universitātē, atklājot Talantu programmas 2026./2027. m.g.

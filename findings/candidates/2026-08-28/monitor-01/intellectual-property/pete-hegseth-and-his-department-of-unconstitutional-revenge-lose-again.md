@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-28-529980c0a7
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Pete Hegseth And His Department Of Unconstitutional Revenge Lose Again In California

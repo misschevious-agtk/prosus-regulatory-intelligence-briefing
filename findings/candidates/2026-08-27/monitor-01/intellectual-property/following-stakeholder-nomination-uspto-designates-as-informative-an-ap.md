@@ -22,9 +22,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-08-27-e3e47cdfd5
-cluster_size: 163
+cluster_size: 166
 cluster_role: canonical
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Following stakeholder nomination, USPTO designates as informative an appeal decision addressing Markush groupings

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-26-e396718a85
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: exclusive-jigsaw-set-to-move-into-entity-management-in-major-product-e
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_id: cluster-2026-08-27-a59340772f
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Exclusive: Jigsaw set to move into entity management in major product expansion

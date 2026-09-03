@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-26-2a2a98356e
+cluster_id: cluster-2026-08-27-2af6e18cd8
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: law-practice-management-company-smokeball-unveils-new-global-brand-bui
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Law Practice Management Company Smokeball Unveils New Global Brand Built Around ‘Powering People-Law’

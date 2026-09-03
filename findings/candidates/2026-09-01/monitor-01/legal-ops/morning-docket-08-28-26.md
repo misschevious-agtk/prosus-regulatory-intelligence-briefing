@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-26-bcaaa2cc14
-cluster_size: 75
+cluster_id: cluster-2026-08-27-402a65679c
+cluster_size: 10
 cluster_role: sibling
-cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_canonical_slug: morning-docket-08-26-26
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Morning Docket: 08.28.26

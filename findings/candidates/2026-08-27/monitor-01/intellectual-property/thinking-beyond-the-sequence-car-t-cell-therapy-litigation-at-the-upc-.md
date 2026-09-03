@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-08-26-12400a6744
+cluster_id: cluster-2026-08-27-9c4aefeacc
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: thinking-beyond-the-sequence-car-t-cell-therapy-litigation-at-the-upc-
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Thinking beyond the sequence: CAR-T cell therapy litigation at the UPC (2seventy bio v Johnson & Johnson, UPC_CFI_029/2026)

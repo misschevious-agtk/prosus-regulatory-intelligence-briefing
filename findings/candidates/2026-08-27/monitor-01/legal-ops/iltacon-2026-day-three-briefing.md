@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-27-1eff597626
 cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # ILTACON 2026: Day Three Briefing

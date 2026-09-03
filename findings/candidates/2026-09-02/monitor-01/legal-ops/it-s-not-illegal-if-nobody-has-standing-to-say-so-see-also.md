@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-01-3137ddc0dd
-cluster_size: 10
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: sam-alito-delayed-financials-reveal-still-betting-big-on-oil-companies
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # It’s Not Illegal If Nobody Has Standing To Say So — See Also

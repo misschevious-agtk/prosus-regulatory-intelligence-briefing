@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Apple App Store
 case_numbers: []
-cluster_id: cluster-2026-08-26-91e091900a
-cluster_size: 25
+cluster_id: cluster-2026-09-03-65556e5c3a
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: beyond-enforcement-the-apple-app-store-case-and-the-need-to-rethink-br
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_canonical_slug: data-protection-commission-announces-final-decision-following-inquiry-
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Beyond Enforcement: The Apple App Store Case and the Need to Rethink Brazil’s Antitrust Framework

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-27-1eff597626
 cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: iltacon-2026-day-three-briefing
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # ILTACON 2026: Day Two Briefing

@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-02-8831843e20
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_id: cluster-2026-08-31-14c8c43b89
+cluster_size: 421
+cluster_role: sibling
+ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_canonical_slug: commission-designates-chatgpt-reddit-roblox-under-digital-services-act
 ---
 
 # Saving Time Is Not The Win. Turning It Into Growth Is.

@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-28-6381eaef4e
-cluster_size: 54
+cluster_size: 63
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-prompt-payment-data-april-to-june-2026
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Transparency data: CMA: senior officials' business expenses, Q4 2025 to 2026

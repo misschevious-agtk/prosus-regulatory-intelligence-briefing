@@ -18,10 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-02-8772aa8bd4
-cluster_size: 6
-cluster_role: canonical
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_id: cluster-2026-08-28-72523d053d
+cluster_size: 40
+cluster_role: sibling
+ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_canonical_slug: merging-for-competitiveness-scale-resilience-and-the-promise-of-a-theo
 ---
 
 # E.ON / OVO merger inquiry

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-26-78d898b479
+cluster_id: cluster-2026-08-27-f48fb00ff2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-launches-center-to-drive-the-manufacture-of-quantum-technologies
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # NIST Launches Center to Drive the Manufacture of Quantum Technologies

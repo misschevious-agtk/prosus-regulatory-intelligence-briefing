@@ -23,11 +23,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-397/26
-cluster_id: cluster-2026-08-26-91e091900a
-cluster_size: 25
+cluster_id: cluster-2026-09-03-65556e5c3a
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: beyond-enforcement-the-apple-app-store-case-and-the-need-to-rethink-br
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_canonical_slug: data-protection-commission-announces-final-decision-following-inquiry-
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # From Public Enforcement to Private Enforcement: Is Information Getting Lost Along the Way?

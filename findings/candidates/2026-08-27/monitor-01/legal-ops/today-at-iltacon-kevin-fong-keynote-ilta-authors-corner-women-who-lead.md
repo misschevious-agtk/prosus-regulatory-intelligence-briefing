@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-14c8c43b89
-cluster_size: 492
-cluster_role: sibling
-cluster_canonical_slug: commission-designates-chatgpt-reddit-roblox-under-digital-services-act
-ranked_at: '2026-09-02T12:10:55+00:00'
+cluster_id: cluster-2026-08-27-56c41b15b5
+cluster_size: 24
+cluster_role: canonical
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Today At ILTACON: Kevin Fong Keynote, ILTA Authors Corner, Women Who Lead Reception

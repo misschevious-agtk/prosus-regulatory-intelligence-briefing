@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-31-abea616742
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: an-ordinary-word-t-mobile-v-kaifi-and-what-counts-as-a-patent-case
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # An Ordinary Word: T-Mobile v. KAIFI and What Counts as a Patent Case

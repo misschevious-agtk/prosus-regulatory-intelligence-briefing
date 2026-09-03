@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-08-31-e69127a08b
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # [Guest post] Mixing it up: Court of Rome invalidates Müller’s two-compartment yoghurt pot 3D trade mark

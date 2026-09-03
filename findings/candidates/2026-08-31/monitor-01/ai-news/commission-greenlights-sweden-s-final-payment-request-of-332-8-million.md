@@ -21,7 +21,7 @@ cluster_id: cluster-2026-08-31-438d8190f9
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-sweden-s-final-payment-request-of-332-8-million
-ranked_at: '2026-09-02T12:10:55+00:00'
+ranked_at: '2026-09-03T12:07:37+00:00'
 ---
 
 # Commission greenlights Sweden's final payment request of €332.8 million under NextGenerationEU

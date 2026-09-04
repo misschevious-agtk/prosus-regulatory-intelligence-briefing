@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-01-690476e627
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: jim-clyburn-vouched-for-clarence-thomas-in-1991-now-he-wants-to-add-fo
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Jim Clyburn Vouched For Clarence Thomas In 1991, Now He Wants To Add Four Justices To Compensate

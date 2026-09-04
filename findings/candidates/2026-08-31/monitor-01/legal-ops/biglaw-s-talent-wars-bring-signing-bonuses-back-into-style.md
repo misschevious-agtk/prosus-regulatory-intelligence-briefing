@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-28-3cb76f856b
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-talent-wars-bring-signing-bonuses-back-into-style
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style

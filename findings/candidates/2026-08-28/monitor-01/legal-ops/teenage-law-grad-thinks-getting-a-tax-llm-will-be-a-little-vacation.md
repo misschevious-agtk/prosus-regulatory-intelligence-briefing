@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-28-219ed1e8c0
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Teenage Law Grad Thinks Getting A Tax LLM Will Be A ‘Little Vacation’

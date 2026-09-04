@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-01-48d5c75370
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: circuit-revives-kentucky-law-professor-s-first-amendment-suit-over-isr
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Circuit Revives Kentucky Law Professor’s First Amendment Suit Over Israel Petition

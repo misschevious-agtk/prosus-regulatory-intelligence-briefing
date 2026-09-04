@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-9e60eb56de
-cluster_size: 7
+cluster_id: cluster-2026-08-28-04f54aa193
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: lawnext-from-product-to-practice-why-casetext-s-former-cto-founded-gen
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # LawNext: From Product to Practice – Why Casetext’s Former CTO Founded General Legal, An AI Native Law Firm

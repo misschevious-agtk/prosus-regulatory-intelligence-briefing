@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-27-6c8eede2bd
-cluster_size: 8
+cluster_id: cluster-2026-08-28-373163d827
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-sends-statement-of-objections-over-proposed-joint-venture-b
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Commission sends Statement of Objections over proposed joint venture between UPM and Sappi

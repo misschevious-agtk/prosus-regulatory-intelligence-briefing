@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-02-d0f4683a74
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-white-house-is-in-its-whorehouse-era
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # The White House Is In Its Whorehouse Era

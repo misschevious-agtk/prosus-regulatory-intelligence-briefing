@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-1dbbc6e42b
+cluster_id: cluster-2026-08-28-e3ccdc842c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: surepoint-s-new-ceo-jeff-steinberg-on-his-mandate-for-change
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # SurePoint’s New CEO Jeff Steinberg on His Mandate for Change

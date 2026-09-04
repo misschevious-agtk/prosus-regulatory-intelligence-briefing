@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-27-68b243d970
-cluster_size: 79
+cluster_id: cluster-2026-08-28-de159c8cc4
+cluster_size: 15
 cluster_role: sibling
-cluster_canonical_slug: red-driving-school-consumer-protection-enforcement-case
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_canonical_slug: veterinary-services-for-household-pets
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Veterinary services for household pets

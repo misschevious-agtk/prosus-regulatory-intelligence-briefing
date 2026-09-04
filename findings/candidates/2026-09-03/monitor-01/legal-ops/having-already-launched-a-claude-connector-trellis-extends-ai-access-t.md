@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-27-263b8e0aa5
+cluster_id: cluster-2026-08-28-a6eeebed33
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: having-already-launched-a-claude-connector-trellis-extends-ai-access-t
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Having Already Launched A Claude Connector, Trellis Extends AI Access to Its Court Data with ChatGPT Plugin and Its Own Chat Tool

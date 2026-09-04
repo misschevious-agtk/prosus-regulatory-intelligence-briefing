@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-03-65556e5c3a
-cluster_size: 24
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: data-protection-commission-announces-final-decision-following-inquiry-
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Lost in Translation: Cease-and-Desist Agreements and Private Enforcement in Brazil

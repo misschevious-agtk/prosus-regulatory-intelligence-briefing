@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-02-c9ffd71d08
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: guestpost-what-has-long-arms-and-lives-in-switzerland-the-cross-border
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # [GuestPost] What has long arms and lives in Switzerland? The cross-border injunction club gains a new member

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-02-1770e2bee1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fordham-law-grad-killed-in-times-square-knife-attack
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Fordham Law Grad Killed In Times Square Knife Attack

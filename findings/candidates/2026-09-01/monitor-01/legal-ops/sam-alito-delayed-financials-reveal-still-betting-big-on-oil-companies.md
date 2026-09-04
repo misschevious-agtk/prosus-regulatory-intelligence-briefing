@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-01-3137ddc0dd
-cluster_size: 15
-cluster_role: canonical
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_id: cluster-2026-09-04-eaf875427e
+cluster_size: 16
+cluster_role: sibling
+ranked_at: '2026-09-04T12:10:37+00:00'
+cluster_canonical_slug: morning-docket-09-03-26
 ---
 
 # Sam Alito Delayed Financials Reveal Still Betting Big On Oil Companies As He Hears Climate Change Case

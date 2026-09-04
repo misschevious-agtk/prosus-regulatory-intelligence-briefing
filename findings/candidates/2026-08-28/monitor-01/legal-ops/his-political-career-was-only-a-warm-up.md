@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-43c5980a9d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: his-political-career-was-only-a-warm-up
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_id: cluster-2026-08-28-d0bd83e742
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # His Political Career Was Only A Warm-Up

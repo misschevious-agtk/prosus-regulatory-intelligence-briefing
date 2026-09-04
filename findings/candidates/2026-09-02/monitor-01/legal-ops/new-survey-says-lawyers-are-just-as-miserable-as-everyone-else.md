@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-31-470cf90a18
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: new-survey-says-lawyers-are-just-as-miserable-as-everyone-else
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # New Survey Says Lawyers Are Just As Miserable As Everyone Else

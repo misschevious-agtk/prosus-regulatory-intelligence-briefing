@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-28-84482071c2
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: building-a-legal-practice-that-fits-your-life
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Building A Legal Practice That Fits Your Life

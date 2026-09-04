@@ -17,10 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-03-60e96397e2
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_id: cluster-2026-08-28-e343eb25b7
+cluster_size: 88
+cluster_role: sibling
+ranked_at: '2026-09-04T12:10:37+00:00'
+cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
 ---
 
 # Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE

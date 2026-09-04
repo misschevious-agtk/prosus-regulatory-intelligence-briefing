@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-c3a3f71e95
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: morgan-morgan-is-testing-the-limits-of-lawyer-advertising-the-rest-of-
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_id: cluster-2026-08-28-d416e81cae
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Morgan & Morgan Is Testing The Limits Of Lawyer Advertising. The Rest Of Us Should Pay Attention.

@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-08-28-72523d053d
-cluster_size: 40
+cluster_size: 62
 cluster_role: sibling
 cluster_canonical_slug: merging-for-competitiveness-scale-resilience-and-the-promise-of-a-theo
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Draft revised guidance on our approach to assessing merger efficiencies

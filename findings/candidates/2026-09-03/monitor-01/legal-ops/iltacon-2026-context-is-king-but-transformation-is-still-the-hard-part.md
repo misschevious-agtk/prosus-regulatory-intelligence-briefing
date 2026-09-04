@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-02-531a1f08f0
-cluster_size: 6
+cluster_id: cluster-2026-09-04-87d3da2416
+cluster_size: 442
 cluster_role: sibling
-cluster_canonical_slug: have-we-reached-peak-legal-tech-sure-felt-that-way-at-iltacon
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # ILTACON 2026: Context is king – but transformation is still the hard part

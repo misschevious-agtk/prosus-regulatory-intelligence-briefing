@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-1eff597626
-cluster_size: 12
+cluster_id: cluster-2026-08-28-f0c7954d83
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: iltacon-2026-day-three-briefing
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # ILTACON 2026: Day Three Briefing

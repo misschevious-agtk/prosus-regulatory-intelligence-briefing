@@ -24,10 +24,10 @@ case_numbers:
 - scheme: EU General Court
   citation: T-397/26
 cluster_id: cluster-2026-09-03-65556e5c3a
-cluster_size: 24
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: data-protection-commission-announces-final-decision-following-inquiry-
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # From Public Enforcement to Private Enforcement: Is Information Getting Lost Along the Way?

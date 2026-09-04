@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-5135cc5b03
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: greenberg-traurig-and-thomson-reuters-tackle-what-human-in-the-loop-wa
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_id: cluster-2026-08-28-0963e365bc
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Greenberg Traurig And Thomson Reuters Tackle What ‘Human In The Loop’ Was Missing

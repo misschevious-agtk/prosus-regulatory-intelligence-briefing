@@ -18,7 +18,7 @@ cluster_id: cluster-2026-08-28-da4eba64f6
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: oz-benamram-talks-talent-team-building-and-legal-ai-s-delivery-challen
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Oz Benamram talks talent, team building and legal AI’s delivery challenge – Voxpop

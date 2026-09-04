@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-0e1f5790ad
+cluster_id: cluster-2026-08-28-38c4e31f56
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: universal-migrator-helps-closing-startups-offboard-customers-and-reduc
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Universal Migrator helps closing startups offboard customers and reduce legal risk

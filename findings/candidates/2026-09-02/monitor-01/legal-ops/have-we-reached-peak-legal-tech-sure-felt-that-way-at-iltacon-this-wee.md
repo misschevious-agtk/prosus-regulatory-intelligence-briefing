@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-27-56c41b15b5
-cluster_size: 24
+cluster_id: cluster-2026-08-28-1c1aa1f657
+cluster_size: 21
 cluster_role: sibling
-cluster_canonical_slug: today-at-iltacon-kevin-fong-keynote-ilta-authors-corner-women-who-lead
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_canonical_slug: have-we-reached-peak-legal-tech-sure-felt-that-way-at-iltacon-this-wee
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Have We Reached ‘Peak Legal Tech?’ Sure Felt That Way At ILTACON this Week

@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-27-68b243d970
-cluster_size: 79
-cluster_role: sibling
-cluster_canonical_slug: red-driving-school-consumer-protection-enforcement-case
-ranked_at: '2026-09-03T12:07:37+00:00'
+cluster_id: cluster-2026-08-28-dbdd7eb21a
+cluster_size: 18
+cluster_role: canonical
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # Vandemoortele / Délifrance merger inquiry

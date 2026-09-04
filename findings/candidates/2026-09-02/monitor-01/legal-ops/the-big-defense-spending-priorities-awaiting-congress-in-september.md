@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-31-72fd41279b
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-big-defense-spending-priorities-awaiting-congress-in-september
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # The Big Defense Spending Priorities Awaiting Congress In September

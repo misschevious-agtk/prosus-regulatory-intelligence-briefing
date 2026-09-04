@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-02-b32c89cbc6
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: hayden-v-koons-us-court-of-appeals-says-it-was-30-years-too-late
-ranked_at: '2026-09-03T12:07:37+00:00'
+ranked_at: '2026-09-04T12:10:37+00:00'
 ---
 
 # [Guest Book Review] Copyright, Contract, and Video Games: Terms of Play

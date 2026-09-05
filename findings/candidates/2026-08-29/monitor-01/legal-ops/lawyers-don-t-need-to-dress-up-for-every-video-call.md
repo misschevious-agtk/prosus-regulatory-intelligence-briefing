@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-61ec9f904b
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: lawyers-don-t-need-to-dress-up-for-every-video-call
-ranked_at: '2026-09-04T12:10:37+00:00'
+cluster_id: cluster-2026-08-29-31285ec772
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Lawyers Don’t Need To Dress Up For Every Video Call

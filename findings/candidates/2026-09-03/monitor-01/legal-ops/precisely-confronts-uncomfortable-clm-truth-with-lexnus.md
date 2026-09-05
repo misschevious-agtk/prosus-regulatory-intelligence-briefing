@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-02-a0060aeb3d
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: precisely-confronts-uncomfortable-clm-truth-with-lexnus
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Precisely Confronts ‘Uncomfortable’ CLM Truth With Lexnus

@@ -22,9 +22,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-04-87d3da2416
-cluster_size: 442
+cluster_size: 467
 cluster_role: canonical
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # ILTACON News Round-Up Part 1, E-Discovery: DISCO, Everlaw, Nuix, Relativity, Reveal

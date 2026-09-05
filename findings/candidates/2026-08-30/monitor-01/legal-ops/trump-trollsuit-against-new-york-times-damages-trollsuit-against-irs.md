@@ -17,7 +17,7 @@ cluster_id: cluster-2026-08-29-dfbf0d1975
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-trollsuit-against-new-york-times-damages-trollsuit-against-irs
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Trump Trollsuit Against New York Times Damages Trollsuit Against IRS

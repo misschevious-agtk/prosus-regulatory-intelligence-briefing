@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-28-6da85f4260
-cluster_size: 20
+cluster_id: cluster-2026-08-29-503b8f3a67
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: vets-market-investigation-draft-funding-order-and-undertakings
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Vets market investigation: draft Funding Order and Undertakings

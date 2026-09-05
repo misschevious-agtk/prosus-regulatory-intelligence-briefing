@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-01-9409decbe6
-cluster_size: 8
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: between-prohibition-and-permission-trade-associations-and-the-rise-of-
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Between Prohibition and Permission: Trade Associations and the Rise of Informal Ex Ante Control in Information Exchange

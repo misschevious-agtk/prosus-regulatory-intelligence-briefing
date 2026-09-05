@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-03-38a1d3a834
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: want-to-become-a-law-professor-these-law-schools-offer-the-best-odds
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Want To Become A Law Professor? These Law Schools Offer The Best Odds

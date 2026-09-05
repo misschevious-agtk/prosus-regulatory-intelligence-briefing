@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-a0ac66e837
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-only-family-to-put-two-generations-on-the-supreme-court
-ranked_at: '2026-09-04T12:10:37+00:00'
+cluster_id: cluster-2026-08-29-e3cd9929f3
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # The Only Family To Put Two Generations On The Supreme Court

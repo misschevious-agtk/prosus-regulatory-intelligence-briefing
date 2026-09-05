@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-04-053c57e349
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: what-world-cup-coaches-can-teach-lawyers-about-building-a-book-of-busi
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # How Young Lawyers Can Build A Book Of Business Before It’s Too Late

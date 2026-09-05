@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-28-da171dab8a
+cluster_id: cluster-2026-08-29-35b396f619
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: expanding-openai-s-presence-in-brazil
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Expanding OpenAI’s presence in Brazil

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-3da10ef51b
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: pleading-licensee-marking-after-vdpp-v-volkswagen
-ranked_at: '2026-09-04T12:10:37+00:00'
+cluster_id: cluster-2026-08-29-129dd127e9
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Pleading Licensee Marking After VDPP v. Volkswagen

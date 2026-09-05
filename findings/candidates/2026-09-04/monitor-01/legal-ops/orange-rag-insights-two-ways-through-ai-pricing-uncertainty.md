@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-4177f99df6
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-04T12:10:37+00:00'
+cluster_id: cluster-2026-09-04-87d3da2416
+cluster_size: 467
+cluster_role: sibling
+ranked_at: '2026-09-05T11:18:15+00:00'
+cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
 ---
 
 # Orange Rag Insights: Two ways through AI pricing uncertainty

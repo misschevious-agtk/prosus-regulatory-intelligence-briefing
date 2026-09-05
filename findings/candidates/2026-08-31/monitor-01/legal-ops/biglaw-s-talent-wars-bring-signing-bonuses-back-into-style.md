@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-3cb76f856b
-cluster_size: 4
+cluster_id: cluster-2026-08-29-c15be6c42b
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-talent-wars-bring-signing-bonuses-back-into-style
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style

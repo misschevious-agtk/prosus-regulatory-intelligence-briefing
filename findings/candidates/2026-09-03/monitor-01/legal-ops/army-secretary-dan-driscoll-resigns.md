@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-02-6688ddabc1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: army-secretary-dan-driscoll-resigns
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Army Secretary Dan Driscoll Resigns

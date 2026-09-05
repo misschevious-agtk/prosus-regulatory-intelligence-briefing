@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-08-31-17cc4adda3
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Statement in context of G20 Finance Ministers and Central Bank Governors meetings on 31 August and 1 September, in Asheville, US

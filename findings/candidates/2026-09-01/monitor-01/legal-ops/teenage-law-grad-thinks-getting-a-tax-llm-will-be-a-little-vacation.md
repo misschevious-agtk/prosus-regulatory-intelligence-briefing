@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-219ed1e8c0
-cluster_size: 5
+cluster_id: cluster-2026-08-29-8b2cda0c00
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: teenage-law-grad-thinks-getting-a-tax-llm-will-be-a-little-vacation
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Teenage Law Grad Thinks Getting A Tax LLM Will Be A ‘Little Vacation’

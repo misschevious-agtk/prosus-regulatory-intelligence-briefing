@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-28-31e2938745
+cluster_id: cluster-2026-08-29-9b8dd9542d
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: disrupting-a-new-covert-influence-campaign-from-russia
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Disrupting a new covert influence campaign from Russia

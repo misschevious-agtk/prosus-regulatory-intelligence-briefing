@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-01-2b26591194
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: these-law-schools-are-crushing-it-when-it-comes-to-graduate-employment
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # These Law Schools Are Crushing It When It Comes To Graduate Employment

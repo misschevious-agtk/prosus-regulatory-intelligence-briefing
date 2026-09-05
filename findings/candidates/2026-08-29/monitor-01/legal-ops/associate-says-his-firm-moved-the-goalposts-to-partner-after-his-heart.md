@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-e352d2934f
-cluster_size: 8
+cluster_id: cluster-2026-08-29-48d62083ec
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: a-heart-attack-a-billing-scheme-and-3-000-for-the-cabinets-inside-one-
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Associate Says His Firm ‘Moved The Goalposts’ To Partner After His Heart Attack

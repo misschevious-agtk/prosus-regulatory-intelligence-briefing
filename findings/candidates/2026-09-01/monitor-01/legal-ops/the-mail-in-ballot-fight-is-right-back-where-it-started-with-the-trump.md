@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-6d421b7440
-cluster_size: 15
+cluster_id: cluster-2026-08-29-2c654136f4
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: samuel-alito-thought-clarence-thomas-was-scary-in-law-school
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # The Mail-In Ballot Fight Is Right Back Where It Started, With The Trump Administration Taking Another ‘L’

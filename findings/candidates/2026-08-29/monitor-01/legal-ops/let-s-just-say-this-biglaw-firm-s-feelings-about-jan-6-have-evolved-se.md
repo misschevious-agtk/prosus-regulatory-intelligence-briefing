@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-0f8c847997
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: let-s-just-say-this-biglaw-firm-s-feelings-about-jan-6-have-evolved-se
-ranked_at: '2026-09-04T12:10:37+00:00'
+cluster_id: cluster-2026-08-29-fb401e1829
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Let’s Just Say This Biglaw Firm’s Feelings About Jan. 6 Have Evolved — See Also

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-28-55fc38d1ef
-cluster_size: 6
+cluster_id: cluster-2026-08-29-981ce044e6
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: allowable-subject-matter-in-the-final-rejection
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Allowable Subject Matter in the Final Rejection

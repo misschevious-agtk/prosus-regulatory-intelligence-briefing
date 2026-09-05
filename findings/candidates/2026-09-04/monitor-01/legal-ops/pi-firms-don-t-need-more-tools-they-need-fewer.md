@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-03-735aa6c420
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: pi-firms-don-t-need-more-tools-they-need-fewer
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # PI Firms Don’t Need More Tools. They Need Fewer.

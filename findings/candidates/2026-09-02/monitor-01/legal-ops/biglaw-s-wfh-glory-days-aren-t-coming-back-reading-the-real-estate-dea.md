@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-01-06c7f2fb96
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-wfh-glory-days-aren-t-coming-back-reading-the-real-estate-dea
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Biglaw’s WFH Glory Days Aren’t Coming Back, Reading The Real Estate Deal Tea Leaves

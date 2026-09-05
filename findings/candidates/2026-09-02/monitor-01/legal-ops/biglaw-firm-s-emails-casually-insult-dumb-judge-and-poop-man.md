@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-01-20901ffc80
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-s-emails-casually-insult-dumb-judge-and-poop-man
-ranked_at: '2026-09-04T12:10:37+00:00'
+ranked_at: '2026-09-05T11:18:15+00:00'
 ---
 
 # Biglaw Firm’s Emails Casually Insult ‘Dumb Judge’ And ‘Poop Man’

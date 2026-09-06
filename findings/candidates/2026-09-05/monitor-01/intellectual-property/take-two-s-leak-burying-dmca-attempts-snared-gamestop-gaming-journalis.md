@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-05-9a89c2c776
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-05T11:18:15+00:00'
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # Take-Two’s Leak Burying DMCA Attempts Snared GameStop & Gaming Journalist That Did Nothing Wrong

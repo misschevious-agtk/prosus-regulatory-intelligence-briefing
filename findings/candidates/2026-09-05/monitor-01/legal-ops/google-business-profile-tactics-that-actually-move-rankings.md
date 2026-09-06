@@ -18,9 +18,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-09-05-37465e85e5
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-05T11:18:15+00:00'
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # Google Business Profile Tactics That Actually Move Rankings

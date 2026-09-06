@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-29-6493a7617b
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: turning-client-intake-calls-into-marketing-insights
-ranked_at: '2026-09-05T11:18:15+00:00'
+cluster_id: cluster-2026-08-30-6b854224cf
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # Turning Client Intake Calls Into Marketing Insights

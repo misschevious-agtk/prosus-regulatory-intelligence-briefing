@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-02-40e5e32ede
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: hurdling-eligibility-with-a-separable-interface
-ranked_at: '2026-09-05T11:18:15+00:00'
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # Hurdling Eligibility with a “Separable Interface”

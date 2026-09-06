@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-03-526e8d9c0a
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-05T11:18:15+00:00'
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # The Minnesota State Fair Is Making Trump’s Great American State Fair Look Like The Pathetic Failure That It Was

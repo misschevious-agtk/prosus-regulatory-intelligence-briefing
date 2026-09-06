@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-29-341fbd2273
-cluster_size: 17
+cluster_id: cluster-2026-08-30-0d0bb196d7
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: have-we-reached-peak-legal-tech-sure-felt-that-way-at-iltacon-this-wee
-ranked_at: '2026-09-05T11:18:15+00:00'
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # Biglaw Is Riding The AI Boom To A Record First Half… If Only They Can Collect On It

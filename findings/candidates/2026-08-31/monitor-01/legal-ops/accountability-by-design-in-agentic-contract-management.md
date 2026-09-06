@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-87d3da2416
-cluster_size: 467
+cluster_id: cluster-2026-08-30-2ba6f0a08e
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-05T11:18:15+00:00'
+cluster_canonical_slug: accountability-by-design-in-agentic-contract-management
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # Accountability by Design in Agentic Contract Management

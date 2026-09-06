@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-29-a179b1974c
-cluster_size: 3
+cluster_id: cluster-2026-08-30-3462c8e594
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-cost-of-ai-usage-time-to-throw-in-the-unrestrained-towel
-ranked_at: '2026-09-05T11:18:15+00:00'
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # The Cost of AI Usage: Time To Throw In The Unrestrained Towel

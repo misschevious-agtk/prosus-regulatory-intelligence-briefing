@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-29-1446170d53
-cluster_size: 114
+cluster_id: cluster-2026-08-30-15d4992222
+cluster_size: 111
 cluster_role: sibling
 cluster_canonical_slug: aramark-entier-merger-inquiry
-ranked_at: '2026-09-05T11:18:15+00:00'
+ranked_at: '2026-09-06T11:43:49+00:00'
 ---
 
 # The Brink’s Company / NCR Atleos Corporation merger inquiry

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-777a7fb7de
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: a-heart-attack-a-billing-scheme-and-3-000-for-the-cabinets-inside-one-
-ranked_at: '2026-09-06T11:43:49+00:00'
+cluster_id: cluster-2026-08-31-425bb15787
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # A Heart Attack, A Billing Scheme, And $3,000 For The ‘Cabinets’: Inside One Associate’s Suit Against Troutman Pepper — See Also

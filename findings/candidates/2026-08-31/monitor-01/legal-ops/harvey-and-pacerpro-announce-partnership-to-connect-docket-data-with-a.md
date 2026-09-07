@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-dddaccce00
+cluster_id: cluster-2026-08-31-c54452a391
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: harvey-and-pacerpro-announce-partnership-to-connect-docket-data-with-a
-ranked_at: '2026-09-06T11:43:49+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Harvey and PacerPro Announce Partnership To Connect Docket Data with AI Litigation Workflows

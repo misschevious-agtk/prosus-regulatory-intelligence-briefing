@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-627febbf38
+cluster_id: cluster-2026-08-31-2733782f5e
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-national-construction-safety-team-advisory-committee-meeting-sche
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 2026

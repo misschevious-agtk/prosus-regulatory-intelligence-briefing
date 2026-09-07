@@ -21,11 +21,10 @@ match_count: 9
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-b16f251a63
+cluster_id: cluster-2026-08-31-e5604c4f7b
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: criminal-complaint-against-facial-recognition-company-clearview-ai
-ranked_at: '2026-09-06T11:43:49+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Criminal complaint against facial recognition company Clearview AI

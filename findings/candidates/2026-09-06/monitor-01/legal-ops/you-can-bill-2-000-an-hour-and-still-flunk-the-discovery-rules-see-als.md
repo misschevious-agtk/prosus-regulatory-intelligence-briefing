@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-05-7e51042401
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: you-can-bill-2-000-an-hour-and-still-flunk-the-discovery-rules-see-als
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # You Can Bill $2,000 An Hour And Still Flunk The Discovery Rules — See Also

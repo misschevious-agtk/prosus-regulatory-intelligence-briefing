@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-21477d3583
-cluster_size: 6
+cluster_id: cluster-2026-08-31-f82053f9af
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: a-year-of-patent-cert-denials
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # A Year of Patent Cert Denials

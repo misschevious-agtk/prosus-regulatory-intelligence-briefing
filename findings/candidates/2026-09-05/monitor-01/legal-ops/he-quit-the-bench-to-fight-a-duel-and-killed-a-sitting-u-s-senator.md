@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-04-7ef7886f37
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: he-quit-the-bench-to-fight-a-duel-and-killed-a-sitting-u-s-senator
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # He Quit The Bench To Fight A Duel — And Killed A Sitting U.S. Senator

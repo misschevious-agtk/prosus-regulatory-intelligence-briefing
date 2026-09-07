@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-2ba6f0a08e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: accountability-by-design-in-agentic-contract-management
-ranked_at: '2026-09-06T11:43:49+00:00'
+cluster_id: cluster-2026-08-31-4e4d4560d8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Accountability by Design in Agentic Contract Management

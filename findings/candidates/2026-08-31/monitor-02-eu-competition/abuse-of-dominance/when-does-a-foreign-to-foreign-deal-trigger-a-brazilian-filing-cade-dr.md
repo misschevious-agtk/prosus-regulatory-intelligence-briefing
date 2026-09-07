@@ -17,11 +17,10 @@ entities:
   jurisdiction: BR
   matched_alias: CADE
 case_numbers: []
-cluster_id: cluster-2026-08-30-44eb5a2dce
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: spanish-fdi-and-government-controlled-entities
-ranked_at: '2026-09-06T11:43:49+00:00'
+cluster_id: cluster-2026-08-31-b06c171eb2
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # When Does a Foreign-to-Foreign Deal Trigger a Brazilian Filing? CADE Draws the Line

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-30-c6821b104f
-cluster_size: 4
+cluster_id: cluster-2026-08-31-6608153c1a
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: speech-by-president-von-der-leyen-at-the-annual-conference-la-rencontr
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Speech by President von der Leyen at the annual conference ‘La Rencontre des Entrepreneurs de France 2026'

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-02-df5982652d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-s-coaching-program-supports-lawyers-returning-from-parenta
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Biglaw Firm’s Coaching Program Supports Lawyers Returning From Parental Leave

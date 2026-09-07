@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-05-07ddb4f7a5
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # LEGALFLY launches Contract Intelligence to become a system of record

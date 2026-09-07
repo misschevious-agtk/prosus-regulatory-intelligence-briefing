@@ -1,0 +1,37 @@
+---
+date_found: 2026-09-07
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/09/can-your-firm-compete-with-literas-trailblazers/
+source_publisher: Above the Law
+source_date: Fri, 04 Sep 2026 16:31:19 +0000
+source_method: rss
+title: Can Your Firm Compete With Litera’s ‘Trailblazers’?
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-09-05-09b18712ab
+cluster_size: 3
+cluster_role: sibling
+cluster_canonical_slug: can-your-firm-compete-with-litera-s-trailblazers
+ranked_at: '2026-09-07T13:29:01+00:00'
+---
+
+# Can Your Firm Compete With Litera’s ‘Trailblazers’?
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/09/can-your-firm-compete-with-literas-trailblazers/)
+**Published:** Fri, 04 Sep 2026 16:31:19 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+[Sponsored] Takeaways from an ILTACON panel featuring the firms set to ‘keep winning.’ The post Can Your Firm Compete With Litera’s ‘Trailblazers’? appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

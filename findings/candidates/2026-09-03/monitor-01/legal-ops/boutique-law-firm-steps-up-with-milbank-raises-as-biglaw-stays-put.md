@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-02-6179cf13e7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: boutique-law-firm-steps-up-with-milbank-raises-as-biglaw-stays-put
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Boutique Law Firm Steps Up With Milbank Raises As Biglaw Stays Put

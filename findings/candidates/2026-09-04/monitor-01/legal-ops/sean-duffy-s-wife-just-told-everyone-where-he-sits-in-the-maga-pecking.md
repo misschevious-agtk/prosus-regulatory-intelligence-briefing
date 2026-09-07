@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-03-580e855963
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: sean-duffy-s-wife-just-told-everyone-where-he-sits-in-the-maga-pecking
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Sean Duffy’s Wife Just Told Everyone Where He Sits In The MAGA Pecking Order

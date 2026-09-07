@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-02-5e0ea45376
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # On LawNext: Why Legal AI Pioneer Pablo Arredondo Is Joining Clio to Build Technology for the Courts

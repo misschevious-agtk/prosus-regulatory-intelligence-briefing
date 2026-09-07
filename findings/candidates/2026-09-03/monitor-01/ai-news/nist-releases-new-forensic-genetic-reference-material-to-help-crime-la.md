@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-873275ab55
+cluster_id: cluster-2026-08-31-924d957883
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-releases-new-forensic-genetic-reference-material-to-help-crime-la
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # NIST Releases New Forensic Genetic Reference Material to Help Crime Laboratories Analyze Challenging Cases

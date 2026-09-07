@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-f9716441cb
-cluster_size: 34
+cluster_id: cluster-2026-08-31-244eb66462
+cluster_size: 29
 cluster_role: sibling
 cluster_canonical_slug: lexisnexis-unveils-legal-intelligence-engine-rebuilding-prot-g-around-
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Voxpop: Pablo Arredondo joins Clio as SVP, Judiciary

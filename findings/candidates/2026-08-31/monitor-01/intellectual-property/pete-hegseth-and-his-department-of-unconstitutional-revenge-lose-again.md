@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-08-30-924ea69bad
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: pete-hegseth-and-his-department-of-unconstitutional-revenge-lose-again
-ranked_at: '2026-09-06T11:43:49+00:00'
+cluster_id: cluster-2026-08-31-d6e48d7d87
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Pete Hegseth And His Department Of Unconstitutional Revenge Lose Again In California

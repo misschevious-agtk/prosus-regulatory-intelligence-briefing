@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-02-dac7ba87fe
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Wilson Sonsini licenses LexText for litigation practice

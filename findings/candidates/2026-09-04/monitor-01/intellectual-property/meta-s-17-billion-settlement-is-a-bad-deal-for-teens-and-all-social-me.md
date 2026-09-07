@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-03-11c7260ff0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: meta-s-17-billion-settlement-is-a-bad-deal-for-teens-and-all-social-me
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Meta’s $17 Billion Settlement Is A Bad Deal For Teens And All Social Media Users

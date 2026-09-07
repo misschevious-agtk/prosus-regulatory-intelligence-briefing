@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-30-6ccef76761
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: vandemoortele-d-lifrance-merger-inquiry
-ranked_at: '2026-09-06T11:43:49+00:00'
+cluster_id: cluster-2026-08-31-ce81a2afa3
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Vandemoortele / Délifrance merger inquiry

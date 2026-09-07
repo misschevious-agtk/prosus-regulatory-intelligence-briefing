@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-0d0bb196d7
-cluster_size: 14
+cluster_id: cluster-2026-08-31-433fd6d4eb
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: have-we-reached-peak-legal-tech-sure-felt-that-way-at-iltacon-this-wee
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # ILTACON Confirms: Gradually, Then Suddenly Legal Tech Became A Big Business

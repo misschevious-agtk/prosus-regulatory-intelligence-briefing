@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-30-742f1849dd
-cluster_size: 180
+cluster_id: cluster-2026-08-31-cd322ad2c9
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-06T11:43:49+00:00'
+cluster_canonical_slug: uspto-fee-setting-authority-and-ptab-institution-reform
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # USPTO Fee Setting Authority and PTAB Institution Reform

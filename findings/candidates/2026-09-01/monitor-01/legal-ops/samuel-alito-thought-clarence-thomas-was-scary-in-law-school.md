@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-30-eff9f4ac6c
-cluster_size: 10
+cluster_id: cluster-2026-08-31-3877f3da98
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: samuel-alito-thought-clarence-thomas-was-scary-in-law-school
-ranked_at: '2026-09-06T11:43:49+00:00'
+ranked_at: '2026-09-07T13:29:01+00:00'
 ---
 
 # Samuel Alito Thought Clarence Thomas Was ‘Scary’ In Law School

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-9b28769bc1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: oracle-helped-kneecap-section-230-then-bought-15-of-a-company-that-nee
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_id: cluster-2026-09-01-a7e8d024ca
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Oracle Helped Kneecap Section 230, Then Bought 15% Of A Company That Needs It.

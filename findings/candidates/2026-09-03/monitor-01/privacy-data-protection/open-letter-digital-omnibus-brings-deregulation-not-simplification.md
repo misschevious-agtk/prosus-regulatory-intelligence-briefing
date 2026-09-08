@@ -23,11 +23,11 @@ match_count: 11
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-0fd08d8b5b
+cluster_id: cluster-2026-09-01-f936638002
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: eu-commission-internal-draft-would-wreck-core-principles-of-the-gdpr
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Open letter: Digital omnibus brings deregulation, not simplification

@@ -18,9 +18,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-04-e03fbacb50
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Daybreak for Frontline Defenders: $1B to protect essential services

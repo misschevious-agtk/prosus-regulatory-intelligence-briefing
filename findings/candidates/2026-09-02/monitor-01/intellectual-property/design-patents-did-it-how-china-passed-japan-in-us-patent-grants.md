@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-3dd84e7d54
-cluster_size: 3
+cluster_id: cluster-2026-09-01-1b2f274f41
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: design-patents-did-it-how-china-passed-japan-in-us-patent-grants
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Design Patents Did It: How China Passed Japan in US Patent Grants

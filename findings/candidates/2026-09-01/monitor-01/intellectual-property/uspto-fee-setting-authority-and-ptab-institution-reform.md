@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-08-31-cd322ad2c9
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: uspto-fee-setting-authority-and-ptab-institution-reform
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_id: cluster-2026-09-01-a0da15e52a
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # USPTO Fee Setting Authority and PTAB Institution Reform

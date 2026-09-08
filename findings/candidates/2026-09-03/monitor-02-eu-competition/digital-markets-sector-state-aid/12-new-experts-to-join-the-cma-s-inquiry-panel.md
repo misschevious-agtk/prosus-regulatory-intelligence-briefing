@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-31-df8d1f0d3e
-cluster_size: 125
+cluster_id: cluster-2026-09-01-19bf08f65a
+cluster_size: 146
 cluster_role: sibling
 cluster_canonical_slug: merging-for-competitiveness-scale-resilience-and-the-promise-of-a-theo
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # 12 new experts to join the CMA's inquiry panel

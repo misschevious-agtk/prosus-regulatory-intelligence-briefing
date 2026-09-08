@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-470cf90a18
-cluster_size: 3
+cluster_id: cluster-2026-09-01-7d25f2d14e
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: new-survey-says-lawyers-are-just-as-miserable-as-everyone-else
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # New Survey Says Lawyers Are Just As Miserable As Everyone Else

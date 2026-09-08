@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-07-e462fba875
-cluster_size: 6
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # EU and Greenland strengthen partnership and engagement, backed by €200 million in EU investment

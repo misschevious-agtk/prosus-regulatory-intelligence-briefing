@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-ac4e2a91a4
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: d-l-gu-la-protection-des-donn-es-identifier-et-g-rer-les-conflits-d-in
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_id: cluster-2026-09-01-06169c9d28
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO

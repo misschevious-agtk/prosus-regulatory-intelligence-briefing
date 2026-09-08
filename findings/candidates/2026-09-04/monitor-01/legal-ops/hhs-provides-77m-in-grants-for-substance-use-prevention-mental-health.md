@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-04-d9560fcbc0
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # HHS Provides $77M In Grants For Substance Use Prevention, Mental Health

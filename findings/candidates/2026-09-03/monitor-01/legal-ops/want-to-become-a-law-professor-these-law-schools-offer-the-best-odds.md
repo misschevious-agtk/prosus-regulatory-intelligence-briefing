@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-03-38a1d3a834
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Want To Become A Law Professor? These Law Schools Offer The Best Odds

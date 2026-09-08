@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-11ac0223a1
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: stampli-cuts-launch-hours-by-68-using-chatgpt-work
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_id: cluster-2026-09-01-cdaf0a4154
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Stampli cuts launch hours by 68% using ChatGPT Work

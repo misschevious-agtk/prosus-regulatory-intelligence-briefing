@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-04-dd39225bdd
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: federal-judges-just-went-on-the-record-about-life-under-siege
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Federal Judges Just Went On The Record About Life Under Siege

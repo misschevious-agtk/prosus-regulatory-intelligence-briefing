@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-08-31-012f3a5d6a
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: asana-cleared-5-years-of-engineering-work-in-2-weeks-with-codex
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_id: cluster-2026-09-01-2647feb01d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Asana cleared 5 years of engineering work in 2 weeks with Codex

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-3c04d0d5ce
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: meta-to-pay-up-to-18-billion-in-settlements
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_id: cluster-2026-09-01-ebdf23bf2b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Meta To Pay Up To $18 Billion In Settlements

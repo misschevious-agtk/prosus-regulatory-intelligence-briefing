@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-31-ce1f04105b
-cluster_size: 108
+cluster_id: cluster-2026-09-01-490077b544
+cluster_size: 96
 cluster_role: sibling
 cluster_canonical_slug: aramark-entier-merger-inquiry
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # NRG Fleet Services / Specialist Fleet Services merger inquiry

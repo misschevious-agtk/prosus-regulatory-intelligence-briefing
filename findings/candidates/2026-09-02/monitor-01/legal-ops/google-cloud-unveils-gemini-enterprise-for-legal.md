@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-08-31-244eb66462
-cluster_size: 29
+cluster_id: cluster-2026-09-01-01a453b4b1
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: lexisnexis-unveils-legal-intelligence-engine-rebuilding-prot-g-around-
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_canonical_slug: google-cloud-unveils-gemini-enterprise-for-legal
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Google Cloud unveils Gemini Enterprise for Legal

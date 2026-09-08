@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-2b99ba784e
+cluster_id: cluster-2026-09-01-cf4bfd242d
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: netdocuments-adds-tabular-review-and-automatic-extraction-of-legal-aut
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform

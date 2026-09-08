@@ -1,0 +1,42 @@
+---
+date_found: 2026-09-08
+monitor: monitor-02-eu-competition
+domain: antitrust-cartels
+source_url: https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma
+source_publisher: CMA news
+source_date: '2026-09-08T11:36:40Z'
+source_method: rss
+title: 'Public procurement in the national interest: Reflections from the CMA'
+matched_keywords:
+- Competition and Markets Authority
+- CMA
+- Sarah Cardell
+match_count: 3
+status: candidate
+entities:
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  matched_alias: CMA
+case_numbers: []
+cluster_id: cluster-2026-09-08-979d6b8534
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
+---
+
+# Public procurement in the national interest: Reflections from the CMA
+
+**Source:** [CMA news](https://www.gov.uk/government/speeches/public-procurement-in-the-national-interest-reflections-from-the-cma)
+**Published:** 2026-09-08T11:36:40Z
+**Matched keywords (3):** Competition and Markets Authority, CMA, Sarah Cardell
+
+## Summary excerpt
+
+Opening remarks by Sarah Cardell, the CMA’s Chief Executive, delivered at the Parliamentary event with the Competition and Markets Authority, Jubilee Room, House of Commons on 8 September 2026.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

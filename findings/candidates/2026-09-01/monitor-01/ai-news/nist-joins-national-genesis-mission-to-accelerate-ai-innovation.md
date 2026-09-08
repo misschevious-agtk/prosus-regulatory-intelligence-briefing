@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-bf9dff0dbf
+cluster_id: cluster-2026-09-01-a3cefbf9ca
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-joins-national-genesis-mission-to-accelerate-ai-innovation
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # NIST Joins National Genesis Mission to Accelerate AI Innovation

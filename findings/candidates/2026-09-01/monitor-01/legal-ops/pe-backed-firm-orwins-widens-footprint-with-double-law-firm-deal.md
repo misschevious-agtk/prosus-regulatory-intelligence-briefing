@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-01-22f71602ae
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # PE-backed firm Orwins widens footprint with double law firm deal

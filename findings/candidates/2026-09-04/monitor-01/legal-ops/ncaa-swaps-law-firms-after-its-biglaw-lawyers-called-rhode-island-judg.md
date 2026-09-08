@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-04-5b2d2c426d
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # NCAA Swaps Law Firms After Its Biglaw Lawyers Called Rhode Island Judge ‘Dumb’ In Email CC Disaster

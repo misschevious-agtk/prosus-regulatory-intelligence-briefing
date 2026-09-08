@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-05-a44b4c6e96
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: what-it-s-really-like-to-be-general-counsel
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # What It’s Really Like To Be General Counsel

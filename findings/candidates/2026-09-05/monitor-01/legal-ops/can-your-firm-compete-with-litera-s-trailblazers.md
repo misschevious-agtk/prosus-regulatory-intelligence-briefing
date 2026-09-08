@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-05-09b18712ab
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Can Your Firm Compete With Litera’s ‘Trailblazers’?

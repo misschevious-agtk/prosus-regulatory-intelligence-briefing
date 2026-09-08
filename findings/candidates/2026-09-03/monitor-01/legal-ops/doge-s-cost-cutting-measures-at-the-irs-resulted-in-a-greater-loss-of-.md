@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-03-f0c27d2a79
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # DOGE’s Cost-Cutting Measures At The IRS Resulted In A Greater Loss Of Tax Enforcement Income

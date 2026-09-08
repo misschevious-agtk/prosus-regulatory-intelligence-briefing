@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-08-31-438d8190f9
-cluster_size: 6
+cluster_id: cluster-2026-09-01-af306f41d2
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-sweden-s-final-payment-request-of-332-8-million
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_canonical_slug: nextgenerationeu-reaches-implementation-deadline
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # NextGenerationEU reaches implementation deadline

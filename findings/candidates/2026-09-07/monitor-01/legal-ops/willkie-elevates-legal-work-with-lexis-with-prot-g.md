@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-04-1573e2fbb6
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: willkie-elevates-legal-work-with-lexis-with-prot-g
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Willkie Elevates Legal Work With Lexis+ With Protégé

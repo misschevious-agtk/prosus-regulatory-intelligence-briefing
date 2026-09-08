@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-08-31-9fd63bfc3b
+cluster_id: cluster-2026-09-01-07a177de5b
 cluster_size: 72
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-prompt-payment-data-april-to-june-2026
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # Transparency data: CMA: workforce management information July 2026

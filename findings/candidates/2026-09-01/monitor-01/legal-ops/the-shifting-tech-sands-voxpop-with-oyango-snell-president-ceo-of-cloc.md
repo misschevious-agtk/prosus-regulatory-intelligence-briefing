@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-5abe43c8b2
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-shifting-tech-sands-voxpop-with-oyango-snell-president-ceo-of-cloc
-ranked_at: '2026-09-07T13:29:01+00:00'
+cluster_id: cluster-2026-09-01-c10b780ef6
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # The shifting tech sands: Voxpop with Oyango Snell president & CEO of CLOC

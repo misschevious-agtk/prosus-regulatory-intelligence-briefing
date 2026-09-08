@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-393354209d
-cluster_size: 15
+cluster_id: cluster-2026-09-01-96bbc78c9f
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: lexisnexis-opens-customer-innovation-lab-in-new-york-to-bring-customer
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # New Site From Suffolk Law Dean Andrew Perlman Catalogs AI Policies at 128 Law Schools

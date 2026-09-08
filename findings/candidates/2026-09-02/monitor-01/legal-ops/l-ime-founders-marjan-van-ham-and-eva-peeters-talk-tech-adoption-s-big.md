@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-08-31-3cc873a4c8
-cluster_size: 5
+cluster_id: cluster-2026-09-01-02f86557a1
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: l-ime-founders-marjan-van-ham-and-eva-peeters-talk-tech-adoption-s-big
-ranked_at: '2026-09-07T13:29:01+00:00'
+ranked_at: '2026-09-08T12:10:52+00:00'
 ---
 
 # L-IME founders Marjan van Ham and Eva Peeters talk tech adoption’s biggest hurdles – Voxpop

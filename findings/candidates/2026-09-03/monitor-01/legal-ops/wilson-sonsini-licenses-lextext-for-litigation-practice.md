@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-02-dac7ba87fe
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: wilson-sonsini-licenses-lextext-for-litigation-practice
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Wilson Sonsini licenses LexText for litigation practice

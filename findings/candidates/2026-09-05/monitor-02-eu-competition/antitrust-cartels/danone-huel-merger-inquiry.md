@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-01-490077b544
-cluster_size: 96
+cluster_id: cluster-2026-09-02-2666688404
+cluster_size: 84
 cluster_role: sibling
 cluster_canonical_slug: aramark-entier-merger-inquiry
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Danone / Huel merger inquiry

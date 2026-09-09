@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-01-07a177de5b
+cluster_id: cluster-2026-09-02-ac780e5caa
 cluster_size: 72
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-prompt-payment-data-april-to-june-2026
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Transparency data: CMA: prompt payment data, April to June 2026

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-08-979d6b8534
-cluster_size: 6
+cluster_id: cluster-2026-09-07-3c5bd3ab77
+cluster_size: 121
 cluster_role: sibling
-cluster_canonical_slug: public-procurement-in-the-national-interest-reflections-from-the-cma
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_canonical_slug: the-danish-wolt-decision
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Public procurement in the national interest: Reflections from the CMA

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-01-19bf08f65a
-cluster_size: 146
+cluster_id: cluster-2026-09-02-78ad51ee2d
+cluster_size: 164
 cluster_role: sibling
 cluster_canonical_slug: merging-for-competitiveness-scale-resilience-and-the-promise-of-a-theo
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Guidance: Merger assessment guidelines

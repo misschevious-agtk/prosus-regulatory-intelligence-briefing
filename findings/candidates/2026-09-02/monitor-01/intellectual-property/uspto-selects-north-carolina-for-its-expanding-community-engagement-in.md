@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-01-d73152112c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: uspto-selects-north-carolina-for-its-expanding-community-engagement-in
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_id: cluster-2026-09-02-6d1abf5bf6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # USPTO selects North Carolina for its expanding community engagement infrastructure

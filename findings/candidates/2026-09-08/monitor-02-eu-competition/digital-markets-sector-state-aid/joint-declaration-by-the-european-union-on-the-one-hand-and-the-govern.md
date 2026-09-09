@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-07-e462fba875
-cluster_size: 10
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: eu-and-greenland-strengthen-partnership-and-engagement-backed-by-200-m
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Joint Declaration by the European Union, on the one hand, and the Government of  Greenland and the Government of Denmark, on the other,  on relations between the European Union and Greenland

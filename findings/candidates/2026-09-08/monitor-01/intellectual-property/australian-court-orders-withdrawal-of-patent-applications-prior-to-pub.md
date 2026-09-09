@@ -19,11 +19,11 @@ entities:
   jurisdiction: UK
   matched_alias: FCA
 case_numbers: []
-cluster_id: cluster-2026-09-01-c71d75c331
-cluster_size: 32
+cluster_id: cluster-2026-09-02-88a334d902
+cluster_size: 31
 cluster_role: sibling
 cluster_canonical_slug: australian-court-orders-withdrawal-of-patent-applications-prior-to-pub
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Australian court orders withdrawal of patent applications prior to publication

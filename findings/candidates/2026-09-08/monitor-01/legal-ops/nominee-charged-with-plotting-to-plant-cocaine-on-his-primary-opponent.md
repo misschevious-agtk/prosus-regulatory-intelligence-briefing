@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-05-c313fc1173
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: nominee-charged-with-plotting-to-plant-cocaine-on-his-primary-opponent
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Nominee Charged With Plotting To Plant Cocaine On His Primary Opponent

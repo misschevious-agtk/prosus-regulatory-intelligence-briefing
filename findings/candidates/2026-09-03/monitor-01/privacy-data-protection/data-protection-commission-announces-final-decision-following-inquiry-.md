@@ -18,9 +18,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-03-65556e5c3a
-cluster_size: 25
+cluster_size: 24
 cluster_role: canonical
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-04-435017ed61
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Your Transcript Is Not Your Destiny: A Guerrilla Job Search For New Law Graduates

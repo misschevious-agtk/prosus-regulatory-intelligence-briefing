@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-01-06c7f2fb96
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: biglaw-s-wfh-glory-days-aren-t-coming-back-reading-the-real-estate-dea
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_id: cluster-2026-09-02-76237de5a6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Biglaw’s WFH Glory Days Aren’t Coming Back, Reading The Real Estate Deal Tea Leaves

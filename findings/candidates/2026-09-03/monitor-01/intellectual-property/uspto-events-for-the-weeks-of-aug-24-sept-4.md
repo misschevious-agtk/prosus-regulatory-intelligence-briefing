@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-01-44ded718f6
-cluster_size: 181
+cluster_id: cluster-2026-09-02-69ab4f23f4
+cluster_size: 184
 cluster_role: sibling
 cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # USPTO events for the weeks of Aug. 24- Sept. 4

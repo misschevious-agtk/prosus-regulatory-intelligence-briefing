@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-08-de627f2bcd
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_id: cluster-2026-09-09-882bdd7742
+cluster_size: 3
+cluster_role: sibling
+ranked_at: '2026-09-09T12:21:03+00:00'
+cluster_canonical_slug: morning-docket-09-08-26
 ---
 
 # Check That Email Address Field Before Hitting Send On Those Judge Insults — See Generally

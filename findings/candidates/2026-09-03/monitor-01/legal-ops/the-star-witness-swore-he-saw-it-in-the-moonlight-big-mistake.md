@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-02-909dbdeeb5
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-star-witness-swore-he-saw-it-in-the-moonlight-big-mistake
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # The Star Witness Swore He Saw It In The Moonlight — Big Mistake

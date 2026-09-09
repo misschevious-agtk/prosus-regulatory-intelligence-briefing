@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-04-2f3e89bd59
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: beyond-crm-wilson-sonsini-and-salesforce-talk-ai-driven-intelligence
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # ‘Beyond CRM’: Wilson Sonsini and Salesforce talk AI-driven intelligence

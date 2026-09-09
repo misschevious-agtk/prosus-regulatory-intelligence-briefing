@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-01-9aa5aa060a
-cluster_size: 99
+cluster_id: cluster-2026-09-02-957c5d97fd
+cluster_size: 101
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Participez aux Rencontres Informatique & Libertés le 29 septembre 2026

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-01-f1ebbdf571
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-justice-that-beat-an-impeachment-effort-led-by-a-future-president
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_id: cluster-2026-09-02-4c69f943f5
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # The Justice That Beat An Impeachment Effort Led By A Future President

@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-09-01-7f9d1f178e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: as-if-it-s-not-hard-enough-to-make-partner-see-generally
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_id: cluster-2026-09-02-3c3a13f0a8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # As If It’s Not Hard Enough To Make Partner — See Generally

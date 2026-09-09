@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-01-d58bdecffe
-cluster_size: 4
+cluster_id: cluster-2026-09-02-e487735746
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: statement-in-context-of-g20-finance-ministers-and-central-bank-governo
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Statement in context of G20 Finance Ministers and Central Bank Governors meetings on 31 August and 1 September, in Asheville, US

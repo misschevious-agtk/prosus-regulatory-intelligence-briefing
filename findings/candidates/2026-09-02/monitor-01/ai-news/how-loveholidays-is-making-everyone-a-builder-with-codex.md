@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-01-7d815bc07a
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: how-loveholidays-is-making-everyone-a-builder-with-codex
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_id: cluster-2026-09-02-4917d5f8f3
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # How loveholidays is making everyone a builder with Codex

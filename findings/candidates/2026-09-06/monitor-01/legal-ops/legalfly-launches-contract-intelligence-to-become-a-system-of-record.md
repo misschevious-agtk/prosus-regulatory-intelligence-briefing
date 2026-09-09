@@ -19,7 +19,7 @@ cluster_id: cluster-2026-09-05-07ddb4f7a5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: legalfly-launches-contract-intelligence-to-become-a-system-of-record
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # LEGALFLY launches Contract Intelligence to become a system of record

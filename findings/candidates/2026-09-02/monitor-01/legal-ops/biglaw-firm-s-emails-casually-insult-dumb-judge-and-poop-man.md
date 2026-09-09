@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-01-20901ffc80
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: biglaw-firm-s-emails-casually-insult-dumb-judge-and-poop-man
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_id: cluster-2026-09-02-43c954f3d0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Biglaw Firm’s Emails Casually Insult ‘Dumb Judge’ And ‘Poop Man’

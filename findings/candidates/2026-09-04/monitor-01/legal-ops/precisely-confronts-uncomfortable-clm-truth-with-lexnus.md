@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-02-a0060aeb3d
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: precisely-confronts-uncomfortable-clm-truth-with-lexnus
-ranked_at: '2026-09-08T12:10:52+00:00'
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Precisely Confronts ‘Uncomfortable’ CLM Truth With Lexnus

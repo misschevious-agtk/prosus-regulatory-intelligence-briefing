@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-01-a4339dba20
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-admin-says-post-office-can-treat-ballots-like-cremated-pets
-ranked_at: '2026-09-08T12:10:52+00:00'
+cluster_id: cluster-2026-09-02-195457ba17
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-09T12:21:03+00:00'
 ---
 
 # Trump Admin Says Post Office Can Treat Ballots Like Cremated Pets

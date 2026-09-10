@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-05-9eaeb6dbf1
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: lindsay-clancy-s-lawyer-tells-us-how-he-really-feels-about-his-case
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # Lindsay Clancy’s Lawyer Tells Us How He Really Feels About His Case

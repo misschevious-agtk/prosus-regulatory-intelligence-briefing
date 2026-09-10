@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-04-053c57e349
 cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: what-world-cup-coaches-can-teach-lawyers-about-building-a-book-of-busi
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # What World Cup Coaches Can Teach Lawyers About Building A Book Of Business

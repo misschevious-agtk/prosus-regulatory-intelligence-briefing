@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-04-c43fc8e429
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-temperature-in-the-room-is-your-responsibility
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # The Temperature In The Room Is Your Responsibility

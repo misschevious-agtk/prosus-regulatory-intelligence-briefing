@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-02-375ed599b3
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: women-s-equality-day-2026-celebrating-women-inventors-and-the-19th-ame
-ranked_at: '2026-09-09T12:21:03+00:00'
+cluster_id: cluster-2026-09-03-73698e82de
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # Women's Equality Day 2026: Celebrating women inventors and the 19th Amendment

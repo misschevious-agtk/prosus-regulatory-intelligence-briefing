@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-05-b234f54356
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: associate-compensation-scorecard-biglaw-firms-will-eventually-get-arou
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # Associate Compensation Scorecard: Biglaw Firms Will Eventually Get Around To Matching Milbank… Right?

@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-d18a1e40ea
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-09T12:21:03+00:00'
+cluster_id: cluster-2026-09-09-0cd68020eb
+cluster_size: 229
+cluster_role: sibling
+ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
 ---
 
 # On LawNext: Casefleet Founder Jeff Kerr on Fact Management in the Age of AI

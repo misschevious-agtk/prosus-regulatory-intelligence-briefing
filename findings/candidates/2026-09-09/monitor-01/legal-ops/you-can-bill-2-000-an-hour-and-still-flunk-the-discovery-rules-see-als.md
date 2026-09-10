@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-05-7e51042401
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: you-can-bill-2-000-an-hour-and-still-flunk-the-discovery-rules-see-als
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # You Can Bill $2,000 An Hour And Still Flunk The Discovery Rules — See Also

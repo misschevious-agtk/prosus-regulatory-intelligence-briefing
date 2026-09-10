@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-05-c313fc1173
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # Nominee Charged With Plotting To Plant Cocaine On His Primary Opponent

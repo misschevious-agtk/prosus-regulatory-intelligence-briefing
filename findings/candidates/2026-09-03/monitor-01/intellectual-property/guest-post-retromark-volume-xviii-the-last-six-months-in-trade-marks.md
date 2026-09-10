@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-02-75b2429723
+cluster_id: cluster-2026-09-03-7c8da84f94
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: guest-post-retromark-volume-xviii-the-last-six-months-in-trade-marks
-ranked_at: '2026-09-09T12:21:03+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # [Guest post] Retromark Volume XVIII: the last six months in trade marks

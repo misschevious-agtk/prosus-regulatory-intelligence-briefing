@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-02-405480565d
-cluster_size: 7
+cluster_id: cluster-2026-09-03-efec70e4bc
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: jalape-o-s-first-results-show-industry-leading-speed-and-efficiency-in
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # Jalapeño’s first results show industry-leading speed and efficiency in AI inference

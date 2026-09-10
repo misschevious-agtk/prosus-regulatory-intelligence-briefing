@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-04-7ef7886f37
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # He Quit The Bench To Fight A Duel — And Killed A Sitting U.S. Senator

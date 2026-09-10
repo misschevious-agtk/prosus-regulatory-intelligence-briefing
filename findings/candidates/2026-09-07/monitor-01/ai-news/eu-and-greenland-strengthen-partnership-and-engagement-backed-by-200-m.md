@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-07-e462fba875
-cluster_size: 12
+cluster_id: cluster-2026-09-07-3c5bd3ab77
+cluster_size: 370
 cluster_role: sibling
-cluster_canonical_slug: eu-and-greenland-strengthen-partnership-and-engagement-backed-by-200-m
-ranked_at: '2026-09-09T12:21:03+00:00'
+cluster_canonical_slug: the-danish-wolt-decision
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # EU and Greenland strengthen partnership and engagement, backed by €200 million in EU investment

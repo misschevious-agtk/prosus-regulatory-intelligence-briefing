@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-03-380946b1a0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-cybersecurity-control-money-can-t-buy
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # The Cybersecurity Control Money Can’t Buy

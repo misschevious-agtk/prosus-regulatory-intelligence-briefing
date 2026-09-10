@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-02-0467477415
-cluster_size: 8
+cluster_id: cluster-2026-09-03-db0fa8325a
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: the-federal-circuit-edits-its-damages-footnote-in-constellation-design
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # The Federal Circuit Edits Its Damages Footnote in Constellation Designs v. LG

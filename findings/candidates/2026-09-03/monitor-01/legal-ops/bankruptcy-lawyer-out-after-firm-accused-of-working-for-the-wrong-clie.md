@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-04-eaf875427e
-cluster_size: 20
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-09-03-26
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # Bankruptcy Lawyer Out After Firm Accused Of Working For The Wrong Client

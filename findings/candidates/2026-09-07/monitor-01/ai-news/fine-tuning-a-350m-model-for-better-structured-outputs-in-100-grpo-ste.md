@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-87d3da2416
-cluster_size: 361
+cluster_id: cluster-2026-09-09-0cd68020eb
+cluster_size: 229
 cluster_role: sibling
-cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-09T12:21:03+00:00'
+cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps

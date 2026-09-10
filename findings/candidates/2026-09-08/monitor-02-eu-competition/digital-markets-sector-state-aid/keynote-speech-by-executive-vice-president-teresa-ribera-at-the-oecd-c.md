@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-07-497058903b
-cluster_size: 46
+cluster_id: cluster-2026-09-07-3c5bd3ab77
+cluster_size: 370
 cluster_role: sibling
-cluster_canonical_slug: keynote-speech-by-executive-vice-president-teresa-ribera-at-the-oecd-c
-ranked_at: '2026-09-09T12:21:03+00:00'
+cluster_canonical_slug: the-danish-wolt-decision
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # Keynote Speech by Executive Vice-President Teresa Ribera at the OECD Conference ‘Modernising merger control for an evolving world'

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-02-b037501f4f
-cluster_size: 5
+cluster_id: cluster-2026-09-03-882afc3eca
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: shein-v-temu-proving-copyright-ownership-and-platform-liability
-ranked_at: '2026-09-09T12:21:03+00:00'
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # SHEIN v Temu: Proving copyright ownership, and platform liability

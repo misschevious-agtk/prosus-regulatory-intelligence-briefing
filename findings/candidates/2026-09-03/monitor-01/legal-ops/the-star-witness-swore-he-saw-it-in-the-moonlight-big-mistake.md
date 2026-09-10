@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-02-909dbdeeb5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-star-witness-swore-he-saw-it-in-the-moonlight-big-mistake
-ranked_at: '2026-09-09T12:21:03+00:00'
+cluster_id: cluster-2026-09-03-9462a8d442
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-10T12:14:58+00:00'
 ---
 
 # The Star Witness Swore He Saw It In The Moonlight — Big Mistake

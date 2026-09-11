@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-03-0eb6e13125
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: thomson-reuters-says-its-homegrown-ai-model-now-rivals-the-frontier-la
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_id: cluster-2026-09-04-290641dba8
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Thomson Reuters Says Its Homegrown AI Model Now Rivals the Frontier Labs – I Take A Closer Look At the Benchmarks

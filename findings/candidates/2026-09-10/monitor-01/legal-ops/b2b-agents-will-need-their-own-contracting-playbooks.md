@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-09-078fe00306
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: b2b-agents-will-need-their-own-contracting-playbooks
-ranked_at: '2026-09-10T12:14:58+00:00'
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # B2B Agents Will Need Their Own Contracting Playbooks

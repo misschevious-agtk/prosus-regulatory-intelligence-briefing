@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-03-a29bee4d76
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: pe-backed-firm-orwins-widens-footprint-with-double-law-firm-deal
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_id: cluster-2026-09-04-799dfea15e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # PE-backed firm Orwins widens footprint with double law firm deal

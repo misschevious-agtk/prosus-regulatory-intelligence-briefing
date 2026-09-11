@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-03-de987df726
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: patent-litigation-s-most-famous-judge-makes-his-biglaw-move
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_id: cluster-2026-09-04-0d51958def
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Patent Litigation’s Most Famous Judge Makes His Biglaw Move

@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-03-73dd6600b7
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: statement-by-president-von-der-leyen-with-nato-secretary-general-mark-
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_id: cluster-2026-09-04-f3192ac105
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Statement by President von der Leyen with NATO Secretary-General Mark Rutte

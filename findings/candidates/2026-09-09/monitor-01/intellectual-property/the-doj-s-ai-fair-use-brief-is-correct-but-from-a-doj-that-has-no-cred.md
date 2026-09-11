@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-09-7623d57345
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-09-10T12:14:58+00:00'
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # The DOJ’s AI Fair Use Brief Is Correct, But From A DOJ That Has No Credibility

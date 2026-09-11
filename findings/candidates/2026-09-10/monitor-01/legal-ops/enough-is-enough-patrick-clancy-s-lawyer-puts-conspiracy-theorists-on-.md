@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-09-6b416a7198
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: lindsay-clancy-s-lawyer-asks-trump-to-pardon-his-client
-ranked_at: '2026-09-10T12:14:58+00:00'
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # ‘Enough Is Enough’: Patrick Clancy’s Lawyer Puts Conspiracy Theorists On Notice

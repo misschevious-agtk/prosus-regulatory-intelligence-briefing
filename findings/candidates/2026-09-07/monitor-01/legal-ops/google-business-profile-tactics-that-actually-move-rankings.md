@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-05-37465e85e5
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: google-business-profile-tactics-that-actually-move-rankings
-ranked_at: '2026-09-10T12:14:58+00:00'
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Google Business Profile Tactics That Actually Move Rankings

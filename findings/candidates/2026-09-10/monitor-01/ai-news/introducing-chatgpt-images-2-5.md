@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-405c765fc2
-cluster_size: 2
+cluster_id: cluster-2026-09-09-0cd68020eb
+cluster_size: 241
 cluster_role: sibling
-cluster_canonical_slug: introducing-chatgpt-images-2-5
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Introducing ChatGPT Images 2.5

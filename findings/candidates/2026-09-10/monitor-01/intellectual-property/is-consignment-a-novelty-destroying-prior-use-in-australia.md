@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-03-ef34c521a1
+cluster_id: cluster-2026-09-04-2dd29f0a3a
 cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: australian-court-orders-withdrawal-of-patent-applications-prior-to-pub
-ranked_at: '2026-09-10T12:14:58+00:00'
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Is consignment a novelty destroying prior use in Australia?

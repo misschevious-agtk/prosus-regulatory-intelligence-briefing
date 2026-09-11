@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-03-16be2bff87
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: florida-bar-hides-from-ethical-responsibilities-shrugs-as-dhs-lawyer-c
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_id: cluster-2026-09-04-05f5ebd678
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Florida Bar Hides From Ethical Responsibilities, Shrugs As DHS Lawyer Compares Federal Judges To Murderers And Rapists

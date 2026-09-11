@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-03-2c7ec5b208
-cluster_size: 187
+cluster_id: cluster-2026-09-04-2b7291fa1a
+cluster_size: 181
 cluster_role: sibling
 cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-10T12:14:58+00:00'
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # The USPTO will incorporate updates to the Nice Classification in 2027

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-03-b34b1681f2
+cluster_id: cluster-2026-09-04-23459407f9
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: guest-post-mixing-it-up-court-of-rome-invalidates-m-ller-s-two-compart
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # [Guest post] Mixing it up: Court of Rome invalidates Müller’s two-compartment yoghurt pot 3D trade mark

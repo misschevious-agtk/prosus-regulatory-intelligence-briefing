@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-03-38a1d3a834
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: want-to-become-a-law-professor-these-law-schools-offer-the-best-odds
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_id: cluster-2026-09-04-ed12697280
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Want To Become A Law Professor? These Law Schools Offer The Best Odds

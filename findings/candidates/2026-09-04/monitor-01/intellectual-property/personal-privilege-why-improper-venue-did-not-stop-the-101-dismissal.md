@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-03-ffa4732191
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: personal-privilege-why-improper-venue-did-not-stop-the-101-dismissal
-ranked_at: '2026-09-10T12:14:58+00:00'
+cluster_id: cluster-2026-09-04-b285007c6c
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-09-11T12:05:13+00:00'
 ---
 
 # Personal Privilege: Why Improper Venue Did Not Stop the § 101 Dismissal

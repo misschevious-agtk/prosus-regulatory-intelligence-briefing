@@ -20,10 +20,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-09-09-97d548cb11
-cluster_size: 128
+cluster_size: 131
 cluster_role: sibling
 cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # NEWSLETTER del 21 maggio 2026 - Data breach, il Garante privacy sanziona The European House Ambrosetti - Online le Faq aggiornate sul Fascicolo sanitario elettronico - No alla diffusione delle foto di un malato senza consenso - In Turchia la Conferenza di primavera dei Garanti europei

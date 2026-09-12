@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-3fe1b6e92a
+cluster_id: cluster-2026-09-05-13d28e9c03
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: lexisnexis-unveils-legal-intelligence-engine-rebuilding-prot-g-around-
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Pablo Arredondo, Casetext Cofounder and Legal AI Pioneer, Joins Clio to Lead Its Expansion into the Judiciary

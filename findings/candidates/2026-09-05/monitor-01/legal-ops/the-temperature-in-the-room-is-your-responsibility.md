@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-c43fc8e429
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: the-temperature-in-the-room-is-your-responsibility
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_id: cluster-2026-09-05-af3dafe181
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # The Temperature In The Room Is Your Responsibility

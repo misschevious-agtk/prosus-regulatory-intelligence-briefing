@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-2dd29f0a3a
-cluster_size: 30
+cluster_id: cluster-2026-09-12-9f84b83e1c
+cluster_size: 47
 cluster_role: sibling
-cluster_canonical_slug: australian-court-orders-withdrawal-of-patent-applications-prior-to-pub
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # The risk of unclear contract terms and evidentiary deficiencies to entitlement claims

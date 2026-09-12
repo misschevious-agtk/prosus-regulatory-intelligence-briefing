@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-09-04-87d3da2416
-cluster_size: 117
+cluster_id: cluster-2026-09-05-a7300d89c9
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_canonical_slug: it-s-time-to-stand-up-for-judges-see-also
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # It’s Time To Stand Up For Judges — See Also

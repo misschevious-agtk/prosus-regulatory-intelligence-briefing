@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-59a66e497c
+cluster_id: cluster-2026-09-05-cf6801fe69
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: have-we-reached-peak-legal-tech-sure-felt-that-way-at-iltacon-this-wee
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Have We Reached ‘Peak Legal Tech?’ Sure Felt That Way At ILTACON this Week

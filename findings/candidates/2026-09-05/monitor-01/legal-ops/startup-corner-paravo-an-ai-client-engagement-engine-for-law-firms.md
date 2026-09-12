@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-87d3da2416
-cluster_size: 117
-cluster_role: sibling
-cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_id: cluster-2026-09-05-0076ea1e6a
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Startup Corner: Paravo – An AI client engagement engine for law firms

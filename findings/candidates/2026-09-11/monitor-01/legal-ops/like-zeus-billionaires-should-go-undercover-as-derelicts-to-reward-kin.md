@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-10-4fe427460f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: like-zeus-billionaires-should-go-undercover-as-derelicts-to-reward-kin
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Like Zeus, Billionaires Should Go Undercover As Derelicts To Reward Kindness And Punish Nastiness

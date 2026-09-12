@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-256e579dee
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: short-of-disavowal-narrowing-provision-and-activate-in-zilkr-v-cisco
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_id: cluster-2026-09-05-9c2bbf28d3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Short of Disavowal: Narrowing ‘Provision’ and ‘Activate’ in Zilkr v. Cisco

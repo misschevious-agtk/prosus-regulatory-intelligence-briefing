@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-d89dd2fc92
-cluster_size: 4
+cluster_id: cluster-2026-09-05-a1948eaaec
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: wilson-sonsini-licenses-lextext-for-litigation-practice
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Wilson Sonsini licenses LexText for litigation practice

@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-04-283dad170a
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: oed-orders-from-summer-2026
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_id: cluster-2026-09-05-197f04bb3e
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # OED Orders from Summer 2026

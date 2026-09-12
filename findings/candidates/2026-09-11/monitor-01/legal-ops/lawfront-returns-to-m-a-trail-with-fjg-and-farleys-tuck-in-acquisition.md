@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-09-dcabfc86f2
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: lawfront-returns-to-m-a-trail-with-fjg-and-farleys-tuck-in-acquisition
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Lawfront returns to M&A trail with FJG and Farleys tuck-in acquisitions

@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-09-1c4ce01bbf
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: it-s-down-there-somewhere-viavi-s-section-285-fee-award-affirmed
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # It’s Down There Somewhere: Viavi’s Section 285 Fee Award Affirmed

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-08-4ecbd5bc80
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # On track: delivering the promises of the digital markets regime

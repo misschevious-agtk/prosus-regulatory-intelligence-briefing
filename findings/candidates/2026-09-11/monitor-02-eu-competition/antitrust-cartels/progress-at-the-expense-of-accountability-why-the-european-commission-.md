@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-05-3665b0fe21
-cluster_size: 14
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: progress-at-the-expense-of-accountability-why-the-european-commission-
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Progress at the Expense of Accountability: Why the European Commission’s Approach to DMA Compromise Falls Short

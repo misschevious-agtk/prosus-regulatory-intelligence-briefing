@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: X Corp
 case_numbers: []
-cluster_id: cluster-2026-09-04-2103226bfa
-cluster_size: 54
+cluster_id: cluster-2026-09-05-02bab0073d
+cluster_size: 42
 cluster_role: sibling
 cluster_canonical_slug: schlumberger-championx-merger-inquiry
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Schlumberger / ChampionX merger inquiry

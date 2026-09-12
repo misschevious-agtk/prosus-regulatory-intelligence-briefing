@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-05-0d3877ac4a
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: chief-judge-pryor-tosses-judge-altman-terror-scarf-complaint-showing-o
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Chief Judge Pryor Tosses Judge Altman ‘Terror Scarf’ Complaint, Showing Off Bipartisan Leniency Toward Misconduct Claims

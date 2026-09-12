@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-10-94c48b1c1c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: from-the-port-to-license-plates-how-to-register-an-imported-car-in-you
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # From The Port to License Plates: How To Register An Imported Car In Your State

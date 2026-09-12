@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-87d3da2416
-cluster_size: 117
-cluster_role: sibling
-cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_id: cluster-2026-09-05-499ef466a9
+cluster_size: 29
+cluster_role: canonical
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Filevine Takes On Shepard’s and KeyCite With Its Own AI Case Law Citator and Hallucination Checker

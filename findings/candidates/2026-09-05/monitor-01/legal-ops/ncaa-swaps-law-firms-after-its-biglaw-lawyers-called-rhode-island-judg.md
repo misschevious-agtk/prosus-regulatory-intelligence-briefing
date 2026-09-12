@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-5b2d2c426d
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: ncaa-swaps-law-firms-after-its-biglaw-lawyers-called-rhode-island-judg
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_id: cluster-2026-09-05-462c5501b8
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # NCAA Swaps Law Firms After Its Biglaw Lawyers Called Rhode Island Judge ‘Dumb’ In Email CC Disaster

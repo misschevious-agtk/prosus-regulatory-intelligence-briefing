@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-09-d8c156a325
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: pangram-loving-law-professors-have-reached-peak-ai-slop-brain
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Pangram Loving Law Professors Have Reached Peak AI Slop Brain

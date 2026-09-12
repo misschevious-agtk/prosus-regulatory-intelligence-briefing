@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-05-7e51042401
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # You Can Bill $2,000 An Hour And Still Flunk The Discovery Rules — See Also

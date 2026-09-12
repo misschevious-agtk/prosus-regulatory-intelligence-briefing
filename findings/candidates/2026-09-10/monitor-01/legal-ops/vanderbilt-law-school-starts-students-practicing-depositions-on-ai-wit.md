@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-10-70ba4fb104
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Vanderbilt Law School Starts Students Practicing Depositions On AI Witnesses

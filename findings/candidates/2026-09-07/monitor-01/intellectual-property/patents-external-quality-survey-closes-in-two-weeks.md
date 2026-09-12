@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-e5a18d7d73
+cluster_id: cluster-2026-09-05-e725188179
 cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: patents-external-quality-survey-closes-in-two-weeks
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Patents External Quality Survey closes in two weeks

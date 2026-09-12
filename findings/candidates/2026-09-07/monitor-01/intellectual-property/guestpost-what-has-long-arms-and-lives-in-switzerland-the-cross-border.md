@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-069d709238
-cluster_size: 8
+cluster_id: cluster-2026-09-12-9f84b83e1c
+cluster_size: 47
 cluster_role: sibling
-cluster_canonical_slug: guestpost-what-has-long-arms-and-lives-in-switzerland-the-cross-border
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # [GuestPost] What has long arms and lives in Switzerland? The cross-border injunction club gains a new member

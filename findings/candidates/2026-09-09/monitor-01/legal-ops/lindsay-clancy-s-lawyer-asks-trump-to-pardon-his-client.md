@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-09-6b416a7198
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Lindsay Clancy’s Lawyer Asks Trump To Pardon His Client

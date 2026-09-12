@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-09-39a21ce326
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # SMU’s Yong Pung How School of Law becomes first in Asia to join Legora’s AI scholar program

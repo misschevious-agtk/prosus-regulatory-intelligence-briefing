@@ -21,11 +21,11 @@ entities:
   jurisdiction: EU
   matched_alias: Court of Justice
 case_numbers: []
-cluster_id: cluster-2026-09-04-de521fdcd9
+cluster_id: cluster-2026-09-05-5caf9acac2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: upcoming-events-luxembourg-lcel-26th-february-and-brussels-european-co
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Upcoming events: Luxembourg (LCEL, 26th February) and Brussels (European Commission, 5th March)

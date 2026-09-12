@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-07-3c5bd3ab77
-cluster_size: 398
+cluster_size: 411
 cluster_role: sibling
 cluster_canonical_slug: the-danish-wolt-decision
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Transparency data: CMA structure

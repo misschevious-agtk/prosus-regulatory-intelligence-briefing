@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-04-2b7291fa1a
-cluster_size: 181
+cluster_id: cluster-2026-09-05-25693080cb
+cluster_size: 180
 cluster_role: sibling
 cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-11T12:05:13+00:00'
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # Trademark Electronic Official Gazette Maintenance

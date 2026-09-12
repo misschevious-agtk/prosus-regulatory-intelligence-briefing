@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-9c40665674
-cluster_size: 8
+cluster_id: cluster-2026-09-12-9f84b83e1c
+cluster_size: 47
 cluster_role: sibling
-cluster_canonical_slug: guest-post-i-hoped-you-d-like-culture-jamming-too-odee-samherji-and-th
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # [Guest post] I hoped you’d like (culture) jamming too: ODEE, Samherji and the ECtHR

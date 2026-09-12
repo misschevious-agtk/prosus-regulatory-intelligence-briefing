@@ -19,11 +19,10 @@ match_count: 7
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-04-0d6938ea6e
+cluster_id: cluster-2026-09-05-361ba93349
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: shadow-database-scandal-noyb-sends-schufa-cease-and-desist-letter-inte
-ranked_at: '2026-09-11T12:05:13+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-12T11:31:39+00:00'
 ---
 
 # ‘Shadow database’ scandal: noyb sends SCHUFA cease-and-desist letter; interest list for class action opened

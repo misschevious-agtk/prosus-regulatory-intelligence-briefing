@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-05-2c1bb4e78c
-cluster_size: 4
+cluster_id: cluster-2026-09-06-7ed1506861
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: aderant-product-demo-a-walk-through-itimekeep-s-integration-with-harve
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Aderant product demo: A walk through iTimekeep’s integration with Harvey

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-05-499ef466a9
-cluster_size: 29
+cluster_id: cluster-2026-09-06-ecdbb8b2a8
+cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: filevine-takes-on-shepard-s-and-keycite-with-its-own-ai-case-law-citat
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Court Tells HHS To Stop Using AI To Cite Fake Studies, Or Willfully Misinterpret Others In Grant Solicitations

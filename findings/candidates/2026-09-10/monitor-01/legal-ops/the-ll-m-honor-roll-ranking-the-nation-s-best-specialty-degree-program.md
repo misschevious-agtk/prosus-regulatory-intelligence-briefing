@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-10-a10edbcfcb
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # The LL.M. Honor Roll: Ranking The Nation’s Best Specialty Degree Programs In Law (2026)

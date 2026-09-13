@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-05-07ddb4f7a5
-cluster_size: 4
+cluster_id: cluster-2026-09-06-1df7f10e53
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: legalfly-launches-contract-intelligence-to-become-a-system-of-record
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # LEGALFLY launches Contract Intelligence to become a system of record

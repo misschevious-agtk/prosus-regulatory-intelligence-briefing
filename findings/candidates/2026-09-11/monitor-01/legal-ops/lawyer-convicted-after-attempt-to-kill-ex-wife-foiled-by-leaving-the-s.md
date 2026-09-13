@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-10-16a76a8ca0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: lawyer-convicted-after-attempt-to-kill-ex-wife-foiled-by-leaving-the-s
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Lawyer Convicted After Attempt To Kill Ex-Wife Foiled By Leaving The Safety On

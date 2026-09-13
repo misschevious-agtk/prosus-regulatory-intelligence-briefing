@@ -17,10 +17,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-07-3c5bd3ab77
-cluster_size: 411
+cluster_size: 280
 cluster_role: sibling
 cluster_canonical_slug: the-danish-wolt-decision
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # 25 years on, ILTA remembers the 9/11 attacks

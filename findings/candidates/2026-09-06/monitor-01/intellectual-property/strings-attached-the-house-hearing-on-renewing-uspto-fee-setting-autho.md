@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-05-25693080cb
-cluster_size: 180
-cluster_role: sibling
-cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-12T11:31:39+00:00'
+cluster_id: cluster-2026-09-06-97584db387
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Strings Attached: The House Hearing on Renewing USPTO Fee Setting Authority

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-05-a7300d89c9
-cluster_size: 8
+cluster_id: cluster-2026-09-06-43899d56d9
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: it-s-time-to-stand-up-for-judges-see-also
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Private Equity Investment In Law Firms Floated As *One Neat Trick* To Get Around Ethical Obligations

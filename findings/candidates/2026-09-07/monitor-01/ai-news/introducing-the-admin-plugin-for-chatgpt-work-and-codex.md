@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-05-613c860a09
-cluster_size: 4
+cluster_id: cluster-2026-09-06-a111095b59
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: introducing-the-admin-plugin-for-chatgpt-work-and-codex
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Introducing the Admin plugin for ChatGPT Work and Codex

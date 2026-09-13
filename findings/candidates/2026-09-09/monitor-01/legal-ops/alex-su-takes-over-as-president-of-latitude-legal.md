@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-09-3b87beea98
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Alex Su takes over as president of Latitude Legal

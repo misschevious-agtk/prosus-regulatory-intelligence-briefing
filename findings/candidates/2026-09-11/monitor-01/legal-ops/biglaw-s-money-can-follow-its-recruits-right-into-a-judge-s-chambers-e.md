@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-10-d9ad874cba
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-money-can-follow-its-recruits-right-into-a-judge-s-chambers-e
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Biglaw’s Money Can Follow Its Recruits Right Into A Judge’s Chambers, Ethics Panel Says

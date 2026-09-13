@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-11-c92dce0279
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-lateral-market-runs-on-recruiters-golateral-wants-to-cut-them-out
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # The Lateral Market Runs On Recruiters. goLateral Wants To Cut Them Out.

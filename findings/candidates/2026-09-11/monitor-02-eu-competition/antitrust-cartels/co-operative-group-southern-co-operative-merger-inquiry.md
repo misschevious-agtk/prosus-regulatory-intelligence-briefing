@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-07-3c5bd3ab77
-cluster_size: 411
+cluster_id: cluster-2026-09-06-eb7ce84402
+cluster_size: 144
 cluster_role: sibling
-cluster_canonical_slug: the-danish-wolt-decision
-ranked_at: '2026-09-12T11:31:39+00:00'
+cluster_canonical_slug: corporate-report-cma-panel-member-biographies-and-disclosures-of-inter
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Co-operative Group / Southern Co-operative merger inquiry

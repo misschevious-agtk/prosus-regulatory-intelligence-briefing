@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-09-29e394d36a
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: is-this-the-worst-in-house-job-see-also
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Is This *The* Worst In-House Job? — See Also

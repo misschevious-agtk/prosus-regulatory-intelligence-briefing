@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-05-09b18712ab
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: can-your-firm-compete-with-litera-s-trailblazers
-ranked_at: '2026-09-12T11:31:39+00:00'
+cluster_id: cluster-2026-09-06-160c2f933b
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Can Your Firm Compete With Litera’s ‘Trailblazers’?

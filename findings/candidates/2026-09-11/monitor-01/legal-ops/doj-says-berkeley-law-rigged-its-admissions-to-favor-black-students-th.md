@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-09-12-3b496a07e3
-cluster_size: 27
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-09-11-26
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # DOJ Says Berkeley Law Rigged Its Admissions To Favor Black Students. There Are 51 Of Them.

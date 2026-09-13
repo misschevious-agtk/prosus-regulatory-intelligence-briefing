@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-07-3c5bd3ab77
-cluster_size: 411
+cluster_size: 280
 cluster_role: sibling
 cluster_canonical_slug: the-danish-wolt-decision
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Joint Declaration by the European Union, on the one hand, and the Government of  Greenland and the Government of Denmark, on the other,  on relations between the European Union and Greenland

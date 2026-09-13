@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-09-28d17af750
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: oracle-health-execs-subpoenaed-after-va-contract-costs-nearly-triple
-ranked_at: '2026-09-12T11:31:39+00:00'
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Oracle Health Execs Subpoenaed After VA Contract Costs Nearly Triple

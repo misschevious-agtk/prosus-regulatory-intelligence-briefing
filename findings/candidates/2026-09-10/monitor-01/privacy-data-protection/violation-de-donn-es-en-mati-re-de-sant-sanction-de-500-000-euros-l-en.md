@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-09-97d548cb11
-cluster_size: 131
+cluster_id: cluster-2026-09-06-d0a95d11dd
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-09-12T11:31:39+00:00'
+cluster_canonical_slug: ordre-du-jour-de-la-s-ance-pl-ni-re-du-3-septembre-2026
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE

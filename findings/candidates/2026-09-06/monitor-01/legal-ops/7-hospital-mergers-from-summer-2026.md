@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-05-cede401f9d
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: 7-hospital-mergers-from-summer-2026
-ranked_at: '2026-09-12T11:31:39+00:00'
+cluster_id: cluster-2026-09-06-e7be6e51ac
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # 7 Hospital Mergers From Summer 2026

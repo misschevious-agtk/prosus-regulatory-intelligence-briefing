@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-05-beeb67508e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: federal-judges-just-went-on-the-record-about-life-under-siege
-ranked_at: '2026-09-12T11:31:39+00:00'
+cluster_id: cluster-2026-09-06-5f37931f7c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-13T12:35:07+00:00'
 ---
 
 # Federal Judges Just Went On The Record About Life Under Siege

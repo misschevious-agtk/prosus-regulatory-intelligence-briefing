@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-09-300f380f7d
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # The Biglaw Attorney Who Gave Corporate America Its Deadliest Defense

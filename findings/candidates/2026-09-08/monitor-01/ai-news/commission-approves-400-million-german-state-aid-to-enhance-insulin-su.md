@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-07-3c5bd3ab77
-cluster_size: 280
+cluster_id: cluster-2026-09-08-28d259dbc3
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: the-danish-wolt-decision
-ranked_at: '2026-09-13T12:35:07+00:00'
+cluster_canonical_slug: commission-approves-400-million-german-state-aid-to-enhance-insulin-su
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Commission approves €400 million German State aid to enhance insulin supply resilience

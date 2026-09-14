@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-06-38d118493a
-cluster_size: 24
+cluster_id: cluster-2026-09-07-c627530d19
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: heating-oil-review-consumer-protection-enforcement-case
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Heating oil review: consumer protection enforcement case

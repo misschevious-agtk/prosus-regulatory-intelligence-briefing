@@ -19,9 +19,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-07-3c5bd3ab77
-cluster_size: 280
+cluster_size: 297
 cluster_role: canonical
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # The Danish Wolt Decision

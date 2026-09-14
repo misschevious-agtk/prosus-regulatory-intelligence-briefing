@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-06-2ff689429e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: startup-corner-paravo-an-ai-client-engagement-engine-for-law-firms
-ranked_at: '2026-09-13T12:35:07+00:00'
+cluster_id: cluster-2026-09-07-d5a98d7c5b
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Startup Corner: Paravo – An AI client engagement engine for law firms

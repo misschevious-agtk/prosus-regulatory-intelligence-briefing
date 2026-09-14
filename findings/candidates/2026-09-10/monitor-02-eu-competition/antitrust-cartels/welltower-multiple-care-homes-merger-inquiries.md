@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-10-7fc145e2db
-cluster_size: 12
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Welltower / multiple care homes merger inquiries

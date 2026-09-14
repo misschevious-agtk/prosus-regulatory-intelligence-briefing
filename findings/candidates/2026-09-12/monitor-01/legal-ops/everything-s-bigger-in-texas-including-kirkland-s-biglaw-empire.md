@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-11-54923d1a1a
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: everything-s-bigger-in-texas-including-kirkland-s-biglaw-empire
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Everything’s Bigger In Texas, Including Kirkland’s Biglaw Empire

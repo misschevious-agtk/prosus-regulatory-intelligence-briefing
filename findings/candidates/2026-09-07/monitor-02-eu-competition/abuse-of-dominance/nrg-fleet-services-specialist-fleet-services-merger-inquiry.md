@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-06-ec1a0d36bc
-cluster_size: 30
+cluster_id: cluster-2026-09-07-1fc53318cf
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: schlumberger-championx-merger-inquiry
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # NRG Fleet Services / Specialist Fleet Services merger inquiry

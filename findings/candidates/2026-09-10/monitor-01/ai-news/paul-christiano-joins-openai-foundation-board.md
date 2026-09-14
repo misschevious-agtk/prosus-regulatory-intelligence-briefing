@@ -18,9 +18,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-10-83ae0e1d38
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Paul Christiano joins OpenAI Foundation Board

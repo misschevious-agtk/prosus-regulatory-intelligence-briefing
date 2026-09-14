@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-06-b8b6cdd425
-cluster_size: 42
+cluster_id: cluster-2026-09-07-ff82e381aa
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-prompt-payment-data-april-to-june-2026
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Transparency data: CMA: senior officials' business expenses, Q4 2025 to 2026

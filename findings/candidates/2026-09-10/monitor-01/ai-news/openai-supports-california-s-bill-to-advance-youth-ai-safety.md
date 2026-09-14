@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-09-0cd68020eb
-cluster_size: 246
+cluster_size: 251
 cluster_role: sibling
 cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # OpenAI supports California’s bill to advance youth AI safety

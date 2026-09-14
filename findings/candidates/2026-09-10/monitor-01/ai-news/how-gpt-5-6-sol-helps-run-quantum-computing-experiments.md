@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-09-ec15449262
-cluster_size: 8
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: how-gpt-5-6-sol-helps-run-quantum-computing-experiments
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # How GPT-5.6 Sol helps run quantum computing experiments

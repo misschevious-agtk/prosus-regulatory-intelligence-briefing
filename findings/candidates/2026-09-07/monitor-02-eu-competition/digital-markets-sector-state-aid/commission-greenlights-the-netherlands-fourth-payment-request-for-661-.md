@@ -19,10 +19,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-07-3c5bd3ab77
-cluster_size: 280
+cluster_size: 297
 cluster_role: sibling
 cluster_canonical_slug: the-danish-wolt-decision
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Commission greenlights the Netherlands' fourth payment request for €661 million under NextGenerationEU

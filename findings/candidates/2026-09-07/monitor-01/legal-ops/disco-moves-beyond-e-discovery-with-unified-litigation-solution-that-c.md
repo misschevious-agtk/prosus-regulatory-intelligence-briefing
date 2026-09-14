@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-06-e89bd0d831
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: disco-moves-beyond-e-discovery-with-unified-litigation-solution-that-c
-ranked_at: '2026-09-13T12:35:07+00:00'
+cluster_id: cluster-2026-09-07-333c756590
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # DISCO Moves Beyond E-Discovery with ‘Unified Litigation Solution’ that Combines Case Facts and Case Law

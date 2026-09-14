@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-06-9dce4fbadc
-cluster_size: 3
+cluster_id: cluster-2026-09-07-a273c3bb26
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: your-transcript-is-not-your-destiny-a-guerrilla-job-search-for-new-law
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Your Transcript Is Not Your Destiny: A Guerrilla Job Search For New Law Graduates

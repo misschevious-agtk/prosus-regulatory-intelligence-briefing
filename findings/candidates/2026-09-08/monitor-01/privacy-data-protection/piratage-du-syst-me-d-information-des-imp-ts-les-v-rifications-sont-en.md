@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-06-d663e9595f
-cluster_size: 3
+cluster_id: cluster-2026-09-07-3f70ce6483
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: piratage-du-syst-me-d-information-des-imp-ts-les-v-rifications-sont-en
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Piratage du système d’information des impôts : les vérifications sont en cours

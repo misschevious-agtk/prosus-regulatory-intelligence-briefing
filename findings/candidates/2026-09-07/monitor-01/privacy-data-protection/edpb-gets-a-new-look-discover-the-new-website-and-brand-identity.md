@@ -20,11 +20,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-09-06-33ee37a9de
-cluster_size: 16
+cluster_id: cluster-2026-09-07-ba78360336
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-upda
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # EDPB gets a new look: discover the new website and brand identity

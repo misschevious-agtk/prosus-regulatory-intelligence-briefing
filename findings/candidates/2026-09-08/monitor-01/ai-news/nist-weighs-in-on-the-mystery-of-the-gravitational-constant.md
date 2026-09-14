@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-06-35826f278e
+cluster_id: cluster-2026-09-07-32a0f4530f
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-weighs-in-on-the-mystery-of-the-gravitational-constant
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # NIST Weighs In on the Mystery of the Gravitational Constant

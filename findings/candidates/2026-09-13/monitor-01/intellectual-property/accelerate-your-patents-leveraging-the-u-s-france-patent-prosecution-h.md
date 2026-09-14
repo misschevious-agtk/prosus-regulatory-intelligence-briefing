@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-12-c7c9746223
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: accelerate-your-patents-leveraging-the-u-s-france-patent-prosecution-h
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Accelerate your patents: Leveraging the U.S.–France Patent Prosecution Highway

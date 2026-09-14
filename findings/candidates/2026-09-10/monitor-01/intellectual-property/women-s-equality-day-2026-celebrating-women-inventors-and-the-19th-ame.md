@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-06-3375cb0d4e
-cluster_size: 175
+cluster_id: cluster-2026-09-07-f0a027202f
+cluster_size: 177
 cluster_role: sibling
 cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Women's Equality Day 2026: Celebrating women inventors and the 19th Amendment

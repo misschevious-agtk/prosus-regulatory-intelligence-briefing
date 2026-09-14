@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-09-dcabfc86f2
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # Lawfront returns to M&A trail with FJG and Farleys tuck-in acquisitions

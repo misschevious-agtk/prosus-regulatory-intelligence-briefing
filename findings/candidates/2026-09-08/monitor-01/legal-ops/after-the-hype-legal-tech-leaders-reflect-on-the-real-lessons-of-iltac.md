@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-06-151554531a
-cluster_size: 58
+cluster_id: cluster-2026-09-07-07ff6393dd
+cluster_size: 54
 cluster_role: sibling
 cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # After the Hype? Legal tech leaders reflect on the real lessons of ILTACON 2026

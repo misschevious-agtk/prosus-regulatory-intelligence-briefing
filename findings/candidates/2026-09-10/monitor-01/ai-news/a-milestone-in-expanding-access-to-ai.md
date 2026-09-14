@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-06-bb67f7359f
-cluster_size: 5
+cluster_id: cluster-2026-09-07-3f27f85e1e
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: a-milestone-in-expanding-access-to-ai
-ranked_at: '2026-09-13T12:35:07+00:00'
+ranked_at: '2026-09-14T13:40:49+00:00'
 ---
 
 # A milestone in expanding access to AI

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-10-2eff17ad91
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: why-bigger-legal-budgets-buy-less-relief-than-ever
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Why Bigger Legal Budgets Buy Less Relief Than Ever

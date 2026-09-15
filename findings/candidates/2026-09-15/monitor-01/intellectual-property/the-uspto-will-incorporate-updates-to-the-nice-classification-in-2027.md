@@ -1,0 +1,45 @@
+---
+date_found: 2026-09-15
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://www.uspto.gov/subscription-center/2026/uspto-will-incorporate-updates-nice-classification-2027
+source_publisher: USPTO news
+source_date: Tue, 08/25/2026 - 11:54
+source_method: rss
+title: The USPTO will incorporate updates to the Nice Classification in 2027
+matched_keywords:
+- Nice Classification
+- USPTO
+- Patent
+- patent
+- trademark
+match_count: 5
+status: candidate
+entities:
+- name: United States Patent and Trademark Office
+  type: regulator
+  jurisdiction: US
+  matched_alias: USPTO
+case_numbers: []
+cluster_id: cluster-2026-09-08-5ca0c1832e
+cluster_size: 180
+cluster_role: sibling
+cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
+ranked_at: '2026-09-15T12:31:11+00:00'
+---
+
+# The USPTO will incorporate updates to the Nice Classification in 2027
+
+**Source:** [USPTO news](https://www.uspto.gov/subscription-center/2026/uspto-will-incorporate-updates-nice-classification-2027)
+**Published:** Tue, 08/25/2026 - 11:54
+**Matched keywords (5):** Nice Classification, USPTO, Patent, patent, trademark
+
+## Summary excerpt
+
+[[VIEW_THIS]] Trademark Alert The USPTO will incorporate updates to the Nice Classification in 2027 The United States Patent and Trademark Office (USPTO) has issued a...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

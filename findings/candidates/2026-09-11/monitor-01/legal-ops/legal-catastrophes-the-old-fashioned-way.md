@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-10-530fb5b91c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-catastrophes-the-old-fashioned-way
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Legal Catastrophes The Old-Fashioned Way

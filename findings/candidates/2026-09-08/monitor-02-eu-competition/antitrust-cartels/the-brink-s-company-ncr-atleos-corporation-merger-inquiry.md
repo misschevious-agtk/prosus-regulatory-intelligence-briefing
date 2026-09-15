@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-07-1fc53318cf
-cluster_size: 18
-cluster_role: sibling
-cluster_canonical_slug: schlumberger-championx-merger-inquiry
-ranked_at: '2026-09-14T13:40:49+00:00'
+cluster_id: cluster-2026-09-08-5452cff531
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # The Brink’s Company / NCR Atleos Corporation merger inquiry

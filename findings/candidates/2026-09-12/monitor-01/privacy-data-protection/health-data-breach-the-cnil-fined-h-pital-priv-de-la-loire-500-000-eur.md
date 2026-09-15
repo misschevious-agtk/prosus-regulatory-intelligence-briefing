@@ -25,10 +25,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-09-09-97d548cb11
-cluster_size: 113
+cluster_size: 116
 cluster_role: sibling
 cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR

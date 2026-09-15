@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-09-1481638c2a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-five-month-old-firm-just-matched-the-milbank-scale
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # A Five-Month-Old Firm Just Matched The Milbank Scale

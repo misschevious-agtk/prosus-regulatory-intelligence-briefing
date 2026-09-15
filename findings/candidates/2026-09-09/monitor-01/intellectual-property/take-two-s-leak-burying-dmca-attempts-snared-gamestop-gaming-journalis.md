@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-07-13bd316e04
-cluster_size: 3
+cluster_id: cluster-2026-09-08-c8b37bc05d
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: take-two-s-leak-burying-dmca-attempts-snared-gamestop-gaming-journalis
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Take-Two’s Leak Burying DMCA Attempts Snared GameStop & Gaming Journalist That Did Nothing Wrong

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-07-3c5bd3ab77
-cluster_size: 297
+cluster_id: cluster-2026-09-08-a2407ef77f
+cluster_size: 282
 cluster_role: sibling
-cluster_canonical_slug: the-danish-wolt-decision
-ranked_at: '2026-09-14T13:40:49+00:00'
+cluster_canonical_slug: merging-for-competitiveness-scale-resilience-and-the-promise-of-a-theo
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Speech by Executive Vice-President Virkkunen at Irish Presidency's Conference on Online Safety for Children and Young People

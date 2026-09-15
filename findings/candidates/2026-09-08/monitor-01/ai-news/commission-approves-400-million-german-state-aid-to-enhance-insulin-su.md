@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-08-28d259dbc3
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-400-million-german-state-aid-to-enhance-insulin-su
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Commission approves €400 million German State aid to enhance insulin supply resilience

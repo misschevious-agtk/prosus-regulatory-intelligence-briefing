@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-09-d8c156a325
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Pangram Loving Law Professors Have Reached Peak AI Slop Brain

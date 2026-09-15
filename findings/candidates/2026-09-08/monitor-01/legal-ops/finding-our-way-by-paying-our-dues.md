@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-07-3f4a342b7b
-cluster_size: 19
+cluster_id: cluster-2026-09-08-3761a94fd4
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: filevine-takes-on-shepard-s-and-keycite-with-its-own-ai-case-law-citat
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Finding Our Way By Paying Our Dues

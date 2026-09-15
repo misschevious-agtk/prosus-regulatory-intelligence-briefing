@@ -20,10 +20,10 @@ entities:
   matched_alias: FCA
 case_numbers: []
 cluster_id: cluster-2026-09-12-9f84b83e1c
-cluster_size: 49
+cluster_size: 57
 cluster_role: sibling
 cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Australian court orders withdrawal of patent applications prior to publication

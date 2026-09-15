@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-12-03a044aaeb
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning

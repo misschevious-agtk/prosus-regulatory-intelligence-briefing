@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-07-a15c97af44
-cluster_size: 5
+cluster_id: cluster-2026-09-08-c1a3e83c1c
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: soar-presents-cooperative-patent-classification-for-electronic-memory-
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # SOAR presents – Cooperative Patent Classification for electronic memory devices

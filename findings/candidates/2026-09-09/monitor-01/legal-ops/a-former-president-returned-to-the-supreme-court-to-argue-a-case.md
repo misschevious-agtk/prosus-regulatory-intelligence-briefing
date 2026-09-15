@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-07-e1954dfa52
-cluster_size: 3
+cluster_id: cluster-2026-09-08-1cd2649861
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-former-president-returned-to-the-supreme-court-to-argue-a-case
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # A Former President Returned To The Supreme Court To Argue A Case

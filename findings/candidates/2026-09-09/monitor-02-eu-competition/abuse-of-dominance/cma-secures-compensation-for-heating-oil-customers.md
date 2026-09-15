@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-07-c627530d19
-cluster_size: 18
+cluster_id: cluster-2026-09-08-efa3c41996
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: heating-oil-review-consumer-protection-enforcement-case
-ranked_at: '2026-09-14T13:40:49+00:00'
+ranked_at: '2026-09-15T12:31:11+00:00'
 ---
 
 # CMA secures compensation for heating oil customers

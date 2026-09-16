@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-12-25798fb91f
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: is-this-federal-appellate-opinion-too-informal
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Is This Federal Appellate Opinion Too Informal?

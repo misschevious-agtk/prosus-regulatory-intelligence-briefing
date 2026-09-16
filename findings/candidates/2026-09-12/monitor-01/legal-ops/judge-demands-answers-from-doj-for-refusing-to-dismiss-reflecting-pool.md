@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-12-d574e7a5e5
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Judge Demands Answers From DOJ For Refusing To Dismiss Reflecting Pool Case With Prejudice

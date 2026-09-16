@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-12-3b496a07e3
 cluster_size: 46
 cluster_role: sibling
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 cluster_canonical_slug: morning-docket-09-11-26
 ---
 

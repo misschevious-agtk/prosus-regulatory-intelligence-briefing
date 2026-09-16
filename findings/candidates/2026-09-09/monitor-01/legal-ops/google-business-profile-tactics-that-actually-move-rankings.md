@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-08-a9857abe0d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: google-business-profile-tactics-that-actually-move-rankings
-ranked_at: '2026-09-15T12:31:11+00:00'
+cluster_id: cluster-2026-09-09-f223539c5c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Google Business Profile Tactics That Actually Move Rankings

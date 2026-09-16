@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-10-70ba4fb104
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: vanderbilt-law-school-starts-students-practicing-depositions-on-ai-wit
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Vanderbilt Law School Starts Students Practicing Depositions On AI Witnesses

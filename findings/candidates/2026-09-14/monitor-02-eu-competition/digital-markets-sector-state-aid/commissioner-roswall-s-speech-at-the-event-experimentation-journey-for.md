@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-11-c988c30b26
 cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: commissioner-roswall-s-speech-at-the-event-experimentation-journey-for
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Commissioner Roswall's speech at the event, ‘Experimentation Journey for Achieving Circularity' hosted by the JRC

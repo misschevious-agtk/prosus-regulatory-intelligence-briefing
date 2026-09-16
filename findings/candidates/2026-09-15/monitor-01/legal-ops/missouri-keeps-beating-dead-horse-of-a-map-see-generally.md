@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-09-14-667de6c2a5
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: missouri-keeps-beating-dead-horse-of-a-map-see-generally
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Missouri Keeps Beating Dead Horse Of A Map — See Generally

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-09-0cd68020eb
-cluster_size: 249
+cluster_size: 244
 cluster_role: sibling
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
 ---
 

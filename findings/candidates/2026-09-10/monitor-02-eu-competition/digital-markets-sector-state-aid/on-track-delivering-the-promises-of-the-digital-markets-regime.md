@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-08-4ecbd5bc80
+cluster_id: cluster-2026-09-09-83ee8f346e
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: on-track-delivering-the-promises-of-the-digital-markets-regime
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # On track: delivering the promises of the digital markets regime

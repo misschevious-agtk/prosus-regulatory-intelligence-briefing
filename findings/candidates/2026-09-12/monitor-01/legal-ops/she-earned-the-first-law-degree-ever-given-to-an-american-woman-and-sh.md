@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-12-9febd50b9c
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # She Earned The First Law Degree Ever Given To An American Woman And She Wasn’t Allowed To Use It

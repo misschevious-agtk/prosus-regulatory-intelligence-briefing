@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-09-66ef33e939
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-law-school-dean-promised-a-tattoo-if-his-students-crushed-the-bar
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # This Law School Dean Promised A Tattoo If His Students Crushed The Bar Exam

@@ -21,9 +21,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-09-0cd68020eb
-cluster_size: 249
+cluster_size: 244
 cluster_role: canonical
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # OpenAI GPT-6 Astra: What legal needs to know and early reactions

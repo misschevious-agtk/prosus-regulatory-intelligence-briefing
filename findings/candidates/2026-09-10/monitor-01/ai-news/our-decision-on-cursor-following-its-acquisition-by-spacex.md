@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-08-4fa4bba55f
-cluster_size: 3
+cluster_id: cluster-2026-09-09-7b512eaba6
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: our-decision-on-cursor-following-its-acquisition-by-spacex
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Our decision on Cursor following its acquisition by SpaceX

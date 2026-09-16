@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-12-d574e7a5e5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: judge-demands-answers-from-doj-for-refusing-to-dismiss-reflecting-pool
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Judge Demands Answers From DOJ For Refusing To Dismiss Reflecting Pool Case With Prejudice

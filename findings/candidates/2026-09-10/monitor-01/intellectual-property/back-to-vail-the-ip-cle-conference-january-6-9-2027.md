@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-10-2b16f92c8b
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Back to Vail: The IP CLE Conference, January 6-9, 2027

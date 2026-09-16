@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-08-d6787bc0d6
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: en-banc-did-ramey-appeal-his-own-sanction
-ranked_at: '2026-09-15T12:31:11+00:00'
+cluster_id: cluster-2026-09-09-05bd962f4f
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # En Banc: Did Ramey Appeal His Own Sanction?

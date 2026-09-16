@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-08-65c167342e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: skadden-and-kirkland-earn-a-2-million-benchslap-for-hiding-evidence
-ranked_at: '2026-09-15T12:31:11+00:00'
+cluster_id: cluster-2026-09-09-8581303a99
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Skadden And Kirkland Earn A $2 Million Benchslap For Hiding Evidence

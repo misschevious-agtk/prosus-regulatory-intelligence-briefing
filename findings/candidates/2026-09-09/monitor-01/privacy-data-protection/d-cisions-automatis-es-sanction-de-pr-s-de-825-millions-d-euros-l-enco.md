@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-08-e9bf2ded77
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: d-cisions-automatis-es-sanction-de-pr-s-de-825-millions-d-euros-l-enco
-ranked_at: '2026-09-15T12:31:11+00:00'
+cluster_id: cluster-2026-09-09-5382ff3eb7
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER

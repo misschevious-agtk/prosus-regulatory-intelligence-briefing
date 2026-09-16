@@ -24,10 +24,10 @@ case_numbers:
 - scheme: EU General Court
   citation: T-397/26
 cluster_id: cluster-2026-09-09-97d548cb11
-cluster_size: 116
+cluster_size: 119
 cluster_role: sibling
 cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # From Public Enforcement to Private Enforcement: Is Information Getting Lost Along the Way?

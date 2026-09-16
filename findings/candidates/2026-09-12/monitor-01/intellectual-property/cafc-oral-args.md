@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-09-36baf28d29
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: cafc-oral-args
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # CAFC Oral Args

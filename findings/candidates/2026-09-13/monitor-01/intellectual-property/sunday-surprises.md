@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-08-b1db3ad863
-cluster_size: 8
+cluster_id: cluster-2026-09-09-53ffd9f276
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: sunday-surprises
-ranked_at: '2026-09-15T12:31:11+00:00'
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # Sunday Surprises

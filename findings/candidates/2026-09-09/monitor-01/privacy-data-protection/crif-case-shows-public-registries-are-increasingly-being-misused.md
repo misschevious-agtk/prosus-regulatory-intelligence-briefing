@@ -21,11 +21,10 @@ match_count: 9
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-08-0261044ff0
+cluster_id: cluster-2026-09-09-d89169d201
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: crif-case-shows-public-registries-are-increasingly-being-misused
-ranked_at: '2026-09-15T12:31:11+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-16T12:29:08+00:00'
 ---
 
 # CRIF case shows: Public registries are increasingly being misused

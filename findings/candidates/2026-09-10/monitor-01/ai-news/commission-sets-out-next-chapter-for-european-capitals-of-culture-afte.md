@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-09-fb1e8bec24
-cluster_size: 282
+cluster_id: cluster-2026-09-10-c0b2a07779
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: merging-for-competitiveness-scale-resilience-and-the-promise-of-a-theo
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_canonical_slug: commission-sets-out-next-chapter-for-european-capitals-of-culture-afte
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Commission sets out next chapter for European Capitals of Culture after over 40 years of success

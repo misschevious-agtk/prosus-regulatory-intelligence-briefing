@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-792b1c11a0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: willy-wonka-s-in-house-counsel-is-back-and-handling-jurassic-park-s-le
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_id: cluster-2026-09-10-8da827cb31
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Willy Wonka’s In-House Counsel Is Back And Handling Jurassic Park’s Legal Problems

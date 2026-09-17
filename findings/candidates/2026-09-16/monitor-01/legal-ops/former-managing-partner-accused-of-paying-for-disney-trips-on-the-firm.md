@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-16-fee8472533
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Former Managing Partner Accused Of Paying For Disney Trips On The Firm’s Dime

@@ -18,9 +18,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-15-6b8987d217
-cluster_size: 6
+cluster_size: 13
 cluster_role: canonical
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Which AI Product Is Most Popular Among Law Firms? Findings of ILTA’s Tech Survey May Surprise You

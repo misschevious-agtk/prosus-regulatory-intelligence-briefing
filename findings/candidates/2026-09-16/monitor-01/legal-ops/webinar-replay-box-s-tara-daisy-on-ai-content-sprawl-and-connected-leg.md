@@ -15,10 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-d8e0d79d03
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_id: cluster-2026-09-15-6b8987d217
+cluster_size: 13
+cluster_role: sibling
+ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
 ---
 
 # Webinar replay: Box’s Tara Daisy on AI, content sprawl and connected legal workflows

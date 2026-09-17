@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-29e394d36a
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: is-this-the-worst-in-house-job-see-also
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_id: cluster-2026-09-10-e3bcfc3cb2
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Is This *The* Worst In-House Job? — See Also

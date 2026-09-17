@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-39a21ce326
-cluster_size: 3
+cluster_id: cluster-2026-09-10-b819302a80
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: smu-s-yong-pung-how-school-of-law-becomes-first-in-asia-to-join-legora
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # SMU’s Yong Pung How School of Law becomes first in Asia to join Legora’s AI scholar program

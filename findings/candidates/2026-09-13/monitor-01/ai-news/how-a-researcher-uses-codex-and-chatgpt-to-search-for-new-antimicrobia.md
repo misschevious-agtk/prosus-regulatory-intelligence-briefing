@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-ec15449262
-cluster_size: 14
+cluster_id: cluster-2026-09-10-0809fa1726
+cluster_size: 69
 cluster_role: sibling
-cluster_canonical_slug: how-gpt-5-6-sol-helps-run-quantum-computing-experiments
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules

@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-10-accdd5aca0
-cluster_size: 25
+cluster_size: 26
 cluster_role: canonical
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Harvey raises $550m at $15.5bn valuation

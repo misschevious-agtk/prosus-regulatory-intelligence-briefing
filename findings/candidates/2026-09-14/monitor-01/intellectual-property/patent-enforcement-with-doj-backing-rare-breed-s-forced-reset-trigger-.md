@@ -20,10 +20,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-09-12-6e2f0e1b38
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: patent-enforcement-with-doj-backing-rare-breed-s-forced-reset-trigger-
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Patent Enforcement with DOJ Backing: Rare Breed’s Forced-Reset Trigger Campaign

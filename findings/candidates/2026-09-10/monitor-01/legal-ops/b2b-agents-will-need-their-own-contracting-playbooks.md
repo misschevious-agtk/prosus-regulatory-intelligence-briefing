@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-078fe00306
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: b2b-agents-will-need-their-own-contracting-playbooks
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_id: cluster-2026-09-10-985806f74e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # B2B Agents Will Need Their Own Contracting Playbooks

@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-12-4cb1065e14
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Startup Corner: SaaS Tracker takes aim at hidden contract change risk

@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-fb1e8bec24
-cluster_size: 282
-cluster_role: sibling
-cluster_canonical_slug: merging-for-competitiveness-scale-resilience-and-the-promise-of-a-theo
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_id: cluster-2026-09-12-fa9d37d62f
+cluster_size: 146
+cluster_role: canonical
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # 25 years on, ILTA remembers the 9/11 attacks

@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-09-0cd68020eb
-cluster_size: 244
+cluster_id: cluster-2026-09-10-0809fa1726
+cluster_size: 69
 cluster_role: sibling
 cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # OpenAI GPT-6 Astra: What legal needs to know and early reactions

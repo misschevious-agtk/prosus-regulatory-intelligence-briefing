@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-fd4a529129
-cluster_size: 183
+cluster_id: cluster-2026-09-10-72403a727e
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_canonical_slug: request-an-extension-of-time-to-file-a-statement-of-use-in-trademark-c
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Request an extension of time to file a Statement of Use in Trademark Center

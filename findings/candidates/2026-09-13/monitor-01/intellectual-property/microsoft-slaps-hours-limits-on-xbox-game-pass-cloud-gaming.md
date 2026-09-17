@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-12-0244bca370
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: microsoft-slaps-hours-limits-on-xbox-game-pass-cloud-gaming
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Microsoft Slaps Hours Limits On Xbox Game Pass Cloud Gaming

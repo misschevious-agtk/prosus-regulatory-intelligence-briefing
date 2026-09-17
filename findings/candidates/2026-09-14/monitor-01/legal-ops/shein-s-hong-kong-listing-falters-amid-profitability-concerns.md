@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-11-57989e3f76
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: shein-s-hong-kong-listing-falters-amid-profitability-concerns
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Shein’s Hong Kong Listing Falters Amid Profitability Concerns

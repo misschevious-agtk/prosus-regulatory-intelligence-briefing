@@ -1,0 +1,37 @@
+---
+date_found: 2026-09-17
+monitor: monitor-01
+domain: ai-news
+source_url: https://openai.com/index/codex-quantum-computing-experiments
+source_publisher: OpenAI blog
+source_date: Tue, 08 Sep 2026 17:00:00 GMT
+source_method: rss
+title: How GPT-5.6 Sol helps run quantum computing experiments
+matched_keywords:
+- GPT-5
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-09-10-0809fa1726
+cluster_size: 69
+cluster_role: sibling
+cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
+ranked_at: '2026-09-17T12:27:55+00:00'
+---
+
+# How GPT-5.6 Sol helps run quantum computing experiments
+
+**Source:** [OpenAI blog](https://openai.com/index/codex-quantum-computing-experiments)
+**Published:** Tue, 08 Sep 2026 17:00:00 GMT
+**Matched keywords (1):** GPT-5
+
+## Summary excerpt
+
+See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

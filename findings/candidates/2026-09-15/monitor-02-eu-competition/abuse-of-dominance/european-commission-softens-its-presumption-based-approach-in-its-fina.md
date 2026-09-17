@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-14-a5e210cb47
-cluster_size: 3
+cluster_id: cluster-2026-09-12-fa9d37d62f
+cluster_size: 146
 cluster_role: sibling
-cluster_canonical_slug: european-commission-softens-its-presumption-based-approach-in-its-fina
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_canonical_slug: 25-years-on-ilta-remembers-the-9-11-attacks
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # European Commission Softens its Presumption-Based Approach in its Final Guidelines on Exclusionary Abuses

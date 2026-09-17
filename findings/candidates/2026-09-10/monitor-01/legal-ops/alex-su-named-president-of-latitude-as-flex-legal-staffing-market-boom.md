@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-3b87beea98
-cluster_size: 5
+cluster_id: cluster-2026-09-10-7217952a3b
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: alex-su-takes-over-as-president-of-latitude-legal
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Alex Su Named President Of Latitude As Flex Legal Staffing Market Booms

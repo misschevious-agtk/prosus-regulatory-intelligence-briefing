@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-15-107b27139d
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: welltower-multiple-care-homes-merger-inquiries
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Welltower / multiple care homes merger inquiries

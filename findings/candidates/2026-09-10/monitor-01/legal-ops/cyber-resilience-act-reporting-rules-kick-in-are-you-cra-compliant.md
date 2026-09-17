@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-10-b4938d96bc
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Cyber Resilience Act reporting rules kick in – Are you CRA compliant?

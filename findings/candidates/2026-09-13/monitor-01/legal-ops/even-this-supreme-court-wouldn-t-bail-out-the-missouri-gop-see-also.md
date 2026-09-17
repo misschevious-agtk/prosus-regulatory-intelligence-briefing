@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-09-12-3b496a07e3
-cluster_size: 46
+cluster_size: 44
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-09-11-26
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Even This Supreme Court Wouldn’t Bail Out The Missouri GOP — See Also

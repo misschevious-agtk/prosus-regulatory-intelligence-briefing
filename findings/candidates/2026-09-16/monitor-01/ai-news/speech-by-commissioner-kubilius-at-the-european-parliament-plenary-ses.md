@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-09-fb1e8bec24
-cluster_size: 282
+cluster_id: cluster-2026-09-12-fa9d37d62f
+cluster_size: 146
 cluster_role: sibling
-cluster_canonical_slug: merging-for-competitiveness-scale-resilience-and-the-promise-of-a-theo
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_canonical_slug: 25-years-on-ilta-remembers-the-9-11-attacks
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Speech by Commissioner Kubilius at the European Parliament plenary session on Defence Readiness Omnibus

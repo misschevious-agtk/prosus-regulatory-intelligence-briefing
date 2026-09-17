@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-09-0cd68020eb
-cluster_size: 244
+cluster_id: cluster-2026-09-10-eb86ebf661
+cluster_size: 48
 cluster_role: sibling
-cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_canonical_slug: ai-agents-can-t-yet-do-open-ended-ai-research
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Introducing the Agents API

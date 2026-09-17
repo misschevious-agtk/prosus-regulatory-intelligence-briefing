@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-10-5d1447037f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: law-department-2-0-when-clients-take-control-part-ii
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Law Department 2.0: When Clients Take Control (Part II)

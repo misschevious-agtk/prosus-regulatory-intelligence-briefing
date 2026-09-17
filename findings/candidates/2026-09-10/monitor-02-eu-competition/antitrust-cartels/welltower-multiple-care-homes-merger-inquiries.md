@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-10-7fc145e2db
 cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-09-16T12:29:08+00:00'
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Welltower / multiple care homes merger inquiries

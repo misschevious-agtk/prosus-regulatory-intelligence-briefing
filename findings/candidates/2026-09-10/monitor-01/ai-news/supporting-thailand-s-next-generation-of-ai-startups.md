@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-09-0cd68020eb
-cluster_size: 244
+cluster_id: cluster-2026-09-17-18a68893e0
+cluster_size: 44
 cluster_role: sibling
-cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
-ranked_at: '2026-09-16T12:29:08+00:00'
+cluster_canonical_slug: helping-older-adults-use-ai-in-everyday-life
+ranked_at: '2026-09-17T12:27:55+00:00'
 ---
 
 # Supporting Thailand’s next generation of AI startups

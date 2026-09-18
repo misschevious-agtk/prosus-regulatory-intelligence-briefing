@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-12-fa9d37d62f
-cluster_size: 146
+cluster_size: 152
 cluster_role: sibling
 cluster_canonical_slug: 25-years-on-ilta-remembers-the-9-11-attacks
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Commission approves €6.1 billion to support Ukraine's air and missile defence and other defence needs

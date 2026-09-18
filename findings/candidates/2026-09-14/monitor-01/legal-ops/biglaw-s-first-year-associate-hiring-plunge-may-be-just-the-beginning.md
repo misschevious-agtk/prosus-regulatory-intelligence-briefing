@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-12-03a044aaeb
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-first-year-associate-hiring-plunge-may-be-just-the-beginning
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning

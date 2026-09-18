@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-8f178c5124
-cluster_size: 49
+cluster_id: cluster-2026-09-11-4a20ea71e1
+cluster_size: 44
 cluster_role: sibling
-cluster_canonical_slug: how-law-firm-gilbert-tobin-governs-and-scales-ai-with-openai
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_canonical_slug: white-case-invests-in-saudi-legal-startup-clauze-ai
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # 2X Webinars, Juro, Consilio, Legal Innovators +

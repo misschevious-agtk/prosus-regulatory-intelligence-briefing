@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-15-ac17e54271
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ai-needs-an-escalation-layer
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Legal AI Needs An Escalation Layer

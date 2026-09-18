@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-29dade980b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: a-patent-purchase-scam-targeting-patent-attorneys
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_id: cluster-2026-09-11-225f1cf289
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # A Patent Purchase Scam Targeting Patent Attorneys

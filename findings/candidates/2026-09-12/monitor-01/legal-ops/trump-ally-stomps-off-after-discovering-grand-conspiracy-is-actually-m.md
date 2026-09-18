@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-12-c9e3e884fd
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Trump Ally Stomps Off After Discovering ‘Grand’ Conspiracy Is Actually Mid At Best

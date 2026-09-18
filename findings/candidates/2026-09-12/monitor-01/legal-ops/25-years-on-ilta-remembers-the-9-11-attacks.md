@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-12-fa9d37d62f
-cluster_size: 146
+cluster_size: 152
 cluster_role: canonical
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # 25 years on, ILTA remembers the 9/11 attacks

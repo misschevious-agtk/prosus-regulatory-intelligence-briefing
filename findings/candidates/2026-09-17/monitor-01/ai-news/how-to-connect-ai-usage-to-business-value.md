@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-0809fa1726
-cluster_size: 69
+cluster_id: cluster-2026-09-15-6b8987d217
+cluster_size: 93
 cluster_role: sibling
-cluster_canonical_slug: openai-gpt-6-astra-what-legal-needs-to-know-and-early-reactions
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # How to connect AI usage to business value

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-16-934f815b94
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-remote-work-conundrum-redux
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # The Remote Work Conundrum Redux

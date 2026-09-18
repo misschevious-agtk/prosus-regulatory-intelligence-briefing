@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-15-3ecc9d7c1d
-cluster_size: 9
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: trump-s-civil-service-loyalty-test-just-hit-a-constitutional-road-bump
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Trump’s Civil Service Loyalty Test Just Hit A Constitutional Road Bump

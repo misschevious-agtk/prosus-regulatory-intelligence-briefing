@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-14-866bef3a76
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Consilio formalises Legora partnership – CEO Andy Macdonald explains why

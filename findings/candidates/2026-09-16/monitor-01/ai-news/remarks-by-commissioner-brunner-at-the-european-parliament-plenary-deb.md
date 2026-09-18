@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-16-564ae8d38d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: remarks-by-commissioner-brunner-at-the-european-parliament-plenary-deb
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Remarks by Commissioner Brunner at the European Parliament Plenary debate on the situation in Ceuta and strengthening the EU's external borders

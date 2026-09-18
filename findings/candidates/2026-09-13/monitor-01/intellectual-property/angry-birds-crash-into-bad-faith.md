@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-0f8590b13c
-cluster_size: 8
+cluster_id: cluster-2026-09-12-9f84b83e1c
+cluster_size: 83
 cluster_role: sibling
-cluster_canonical_slug: angry-birds-crash-into-bad-faith
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Angry Birds crash into bad faith

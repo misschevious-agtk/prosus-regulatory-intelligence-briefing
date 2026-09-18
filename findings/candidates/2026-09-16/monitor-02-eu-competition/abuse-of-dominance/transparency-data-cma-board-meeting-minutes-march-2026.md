@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-11-83324541d5
-cluster_size: 42
+cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-board-meeting-minutes-march-2026
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Transparency data: CMA board meeting minutes: March 2026

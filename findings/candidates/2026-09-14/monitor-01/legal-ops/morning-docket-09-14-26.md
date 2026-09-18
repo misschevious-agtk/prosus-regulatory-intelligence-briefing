@@ -16,10 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-14-df93cb6043
-cluster_size: 4
-cluster_role: canonical
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_id: cluster-2026-09-12-9f84b83e1c
+cluster_size: 83
+cluster_role: sibling
+ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
 ---
 
 # Morning Docket: 09.14.26

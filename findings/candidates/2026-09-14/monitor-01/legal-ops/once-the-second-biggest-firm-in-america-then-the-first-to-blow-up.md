@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-63f0e777f9
-cluster_size: 5
+cluster_id: cluster-2026-09-11-a11871b1e6
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: the-biglaw-attorney-who-gave-corporate-america-its-deadliest-defense
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_canonical_slug: once-the-second-biggest-firm-in-america-then-the-first-to-blow-up
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Once The Second-Biggest Firm In America, Then The First To Blow Up

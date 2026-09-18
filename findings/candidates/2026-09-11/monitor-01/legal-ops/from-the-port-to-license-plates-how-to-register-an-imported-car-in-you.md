@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-94c48b1c1c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: from-the-port-to-license-plates-how-to-register-an-imported-car-in-you
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_id: cluster-2026-09-11-3f3b0f98bf
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # From The Port to License Plates: How To Register An Imported Car In Your State

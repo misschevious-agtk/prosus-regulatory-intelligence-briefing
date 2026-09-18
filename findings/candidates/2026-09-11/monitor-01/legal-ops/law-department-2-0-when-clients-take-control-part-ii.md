@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-5d1447037f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: law-department-2-0-when-clients-take-control-part-ii
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_id: cluster-2026-09-11-dcbcb1ae11
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Law Department 2.0: When Clients Take Control (Part II)

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-504f0b262d
-cluster_size: 178
+cluster_id: cluster-2026-09-11-4a035aa158
+cluster_size: 182
 cluster_role: sibling
 cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Trademark Basics Boot Camp, Module 6: Responding to an office action

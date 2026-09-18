@@ -22,11 +22,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-09-10-dc95c99d6c
-cluster_size: 9
+cluster_id: cluster-2026-09-11-ca60ba0a4b
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: one-stop-shop-case-digest-on-right-to-object-and-right-to-erasure-upda
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # One-Stop-Shop case digest on right to object and right to erasure updated

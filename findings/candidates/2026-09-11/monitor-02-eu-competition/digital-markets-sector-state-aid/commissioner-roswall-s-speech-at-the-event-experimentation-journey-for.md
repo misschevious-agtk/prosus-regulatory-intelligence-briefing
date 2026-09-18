@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-11-c988c30b26
 cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Commissioner Roswall's speech at the event, ‘Experimentation Journey for Achieving Circularity' hosted by the JRC

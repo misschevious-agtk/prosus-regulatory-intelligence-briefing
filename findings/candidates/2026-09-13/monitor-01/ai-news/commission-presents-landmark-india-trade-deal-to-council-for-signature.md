@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-11-5fbec5ad1a
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-presents-landmark-india-trade-deal-to-council-for-signature
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Commission presents landmark India trade deal to Council for signature

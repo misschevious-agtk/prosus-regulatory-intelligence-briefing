@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-17-37e6b49300
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_id: cluster-2026-09-11-4a035aa158
+cluster_size: 182
+cluster_role: sibling
+ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
 ---
 
 # Remarks by John A. Squires at the University of Southern California Gould School of Law 3rd Annual Washington D.C. Conference

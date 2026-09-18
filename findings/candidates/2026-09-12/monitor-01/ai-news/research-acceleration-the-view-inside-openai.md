@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-10-eb86ebf661
-cluster_size: 48
+cluster_id: cluster-2026-09-11-ce8fb6c414
+cluster_size: 50
 cluster_role: sibling
 cluster_canonical_slug: ai-agents-can-t-yet-do-open-ended-ai-research
-ranked_at: '2026-09-17T12:27:55+00:00'
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Research acceleration: The view inside OpenAI

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-a10edbcfcb
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-ll-m-honor-roll-ranking-the-nation-s-best-specialty-degree-program
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_id: cluster-2026-09-11-ca2da8e3ea
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # The LL.M. Honor Roll: Ranking The Nation’s Best Specialty Degree Programs In Law (2026)

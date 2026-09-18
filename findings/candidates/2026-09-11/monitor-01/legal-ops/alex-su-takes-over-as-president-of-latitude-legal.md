@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-10-7217952a3b
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: alex-su-takes-over-as-president-of-latitude-legal
-ranked_at: '2026-09-17T12:27:55+00:00'
+cluster_id: cluster-2026-09-11-e7c4b94315
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-18T12:07:45+00:00'
 ---
 
 # Alex Su takes over as president of Latitude Legal

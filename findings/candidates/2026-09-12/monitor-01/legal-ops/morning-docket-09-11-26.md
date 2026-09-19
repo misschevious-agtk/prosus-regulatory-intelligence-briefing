@@ -21,9 +21,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-09-12-3b496a07e3
-cluster_size: 38
+cluster_size: 13
 cluster_role: canonical
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Morning Docket: 09.11.26

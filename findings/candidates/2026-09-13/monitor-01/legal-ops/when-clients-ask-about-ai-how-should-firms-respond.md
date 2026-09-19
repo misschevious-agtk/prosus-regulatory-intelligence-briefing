@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-11-4a20ea71e1
-cluster_size: 44
+cluster_id: cluster-2026-09-12-a976f0196d
+cluster_size: 37
 cluster_role: sibling
 cluster_canonical_slug: white-case-invests-in-saudi-legal-startup-clauze-ai
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # When Clients Ask About AI, How Should Firms Respond?

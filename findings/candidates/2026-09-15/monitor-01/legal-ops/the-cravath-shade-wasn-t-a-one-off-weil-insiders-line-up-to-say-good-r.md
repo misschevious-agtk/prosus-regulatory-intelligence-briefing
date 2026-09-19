@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-15-7bc1f936a5
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # The Cravath Shade Wasn’t A One-Off: Weil Insiders Line Up To Say Good Riddance

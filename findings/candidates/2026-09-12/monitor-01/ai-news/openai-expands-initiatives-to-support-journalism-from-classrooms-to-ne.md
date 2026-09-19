@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-17-18a68893e0
-cluster_size: 42
-cluster_role: sibling
-cluster_canonical_slug: helping-older-adults-use-ai-in-everyday-life
-ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_id: cluster-2026-09-12-6fe89ea0c5
+cluster_size: 16
+cluster_role: canonical
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # OpenAI expands initiatives to support journalism from classrooms to newsrooms

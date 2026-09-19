@@ -19,7 +19,7 @@ cluster_id: cluster-2026-09-15-6daf2a4e98
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: scan-logic-in-legal-dispute-with-co-founder-over-company-split
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Scan Logic in legal dispute with co-founder over company split

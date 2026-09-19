@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-12-fa9d37d62f
-cluster_size: 152
+cluster_id: cluster-2026-09-14-320d9ac60e
+cluster_size: 145
 cluster_role: sibling
-cluster_canonical_slug: 25-years-on-ilta-remembers-the-9-11-attacks
-ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_canonical_slug: commission-approves-52-million-romanian-state-aid-for-cattle-farmers-f
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Speech by Executive Vice-President Virkkunen at Irish Presidency's Conference on Online Safety for Children and Young People

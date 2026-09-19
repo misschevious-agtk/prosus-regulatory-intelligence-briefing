@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-11-ce8fb6c414
+cluster_id: cluster-2026-09-12-8a335bc120
 cluster_size: 50
 cluster_role: sibling
 cluster_canonical_slug: ai-agents-can-t-yet-do-open-ended-ai-research
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # New Paper: Towards a science of AI agent reliability

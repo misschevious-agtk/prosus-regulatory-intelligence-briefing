@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-16-3db9eb38fb
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Biglaw’s $20 Million Partner Paydays Are Getting Out Of Control

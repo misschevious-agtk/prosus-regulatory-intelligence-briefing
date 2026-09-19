@@ -20,7 +20,7 @@ cluster_id: cluster-2026-09-16-26eb0c9626
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-09-15-26
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Morning Docket: 09.15.26

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-17-843c89ae97
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Law Firm Passive Aggressiveness On Parade

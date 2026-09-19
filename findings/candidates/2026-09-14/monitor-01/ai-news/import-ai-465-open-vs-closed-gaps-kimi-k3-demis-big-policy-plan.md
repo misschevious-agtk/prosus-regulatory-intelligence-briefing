@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-11-c33b9fd68d
+cluster_id: cluster-2026-09-12-291338ca70
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan

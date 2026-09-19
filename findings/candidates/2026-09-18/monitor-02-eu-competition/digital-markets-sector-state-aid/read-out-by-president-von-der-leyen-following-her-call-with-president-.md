@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-18-8a3dec4b28
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Read-out by President von der Leyen following her call with President Zelenskyy

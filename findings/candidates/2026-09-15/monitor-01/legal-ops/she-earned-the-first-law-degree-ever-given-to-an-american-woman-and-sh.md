@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-12-9febd50b9c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: she-earned-the-first-law-degree-ever-given-to-an-american-woman-and-sh
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # She Earned The First Law Degree Ever Given To An American Woman And She Wasn’t Allowed To Use It

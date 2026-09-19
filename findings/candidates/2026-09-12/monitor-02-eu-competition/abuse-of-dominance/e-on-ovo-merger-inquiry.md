@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-11-baa18b90ff
-cluster_size: 90
+cluster_id: cluster-2026-09-12-3960590e7b
+cluster_size: 75
 cluster_role: sibling
 cluster_canonical_slug: e-on-ovo-merger-inquiry
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # E.ON / OVO merger inquiry

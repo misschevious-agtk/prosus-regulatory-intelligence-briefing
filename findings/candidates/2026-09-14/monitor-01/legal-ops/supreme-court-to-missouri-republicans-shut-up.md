@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-3b496a07e3
-cluster_size: 38
+cluster_id: cluster-2026-09-12-e1e31dd50c
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-09-11-26
-ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_canonical_slug: morning-docket-09-10-26
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Supreme Court To Missouri Republicans: Shut Up

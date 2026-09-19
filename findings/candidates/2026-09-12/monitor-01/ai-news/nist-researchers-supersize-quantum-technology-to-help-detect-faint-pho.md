@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-11-5d46c27daa
+cluster_id: cluster-2026-09-12-9692aba6b2
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-researchers-supersize-quantum-technology-to-help-detect-faint-pho
-ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons

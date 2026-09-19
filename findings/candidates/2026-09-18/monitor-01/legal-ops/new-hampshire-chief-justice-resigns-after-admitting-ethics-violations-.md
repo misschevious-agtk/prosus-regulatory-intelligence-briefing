@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-17-ca3af8d3c0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: new-hampshire-chief-justice-resigns-after-admitting-ethics-violations-
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # New Hampshire Chief Justice Resigns After Admitting Ethics Violations Over $50,000 Payout To Longtime Ally

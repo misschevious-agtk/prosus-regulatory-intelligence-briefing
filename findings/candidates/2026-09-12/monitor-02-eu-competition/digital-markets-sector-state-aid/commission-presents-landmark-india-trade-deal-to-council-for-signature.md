@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-11-5fbec5ad1a
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: commission-presents-landmark-india-trade-deal-to-council-for-signature
-ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_id: cluster-2026-09-12-7b7b018228
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Commission presents landmark India trade deal to Council for signature

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-11-c988c30b26
-cluster_size: 10
+cluster_id: cluster-2026-09-12-de2f0598ea
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: commissioner-roswall-s-speech-at-the-event-experimentation-journey-for
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Commissioner Roswall's speech at the event, ‘Experimentation Journey for Achieving Circularity' hosted by the JRC

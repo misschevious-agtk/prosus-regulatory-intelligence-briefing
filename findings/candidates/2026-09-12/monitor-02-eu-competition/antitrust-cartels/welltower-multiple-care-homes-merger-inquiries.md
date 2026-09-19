@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-11-d8fd6a55db
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: welltower-multiple-care-homes-merger-inquiries
-ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_id: cluster-2026-09-12-dc9c27415c
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Welltower / multiple care homes merger inquiries

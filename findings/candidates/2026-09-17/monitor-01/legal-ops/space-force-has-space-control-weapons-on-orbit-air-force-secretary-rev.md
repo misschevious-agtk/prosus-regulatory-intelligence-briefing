@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-16-e8d1825342
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: space-force-has-space-control-weapons-on-orbit-air-force-secretary-rev
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Space Force Has ‘Space Control Weapons’ On Orbit, Air Force Secretary Reveals

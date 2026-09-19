@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-12-c9e3e884fd
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-ally-stomps-off-after-discovering-grand-conspiracy-is-actually-m
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Trump Ally Stomps Off After Discovering ‘Grand’ Conspiracy Is Actually Mid At Best

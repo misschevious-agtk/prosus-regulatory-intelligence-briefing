@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-15-6dde993929
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: morgan-morgan-pledges-1bn-tech-spend-over-10-years
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # Morgan & Morgan pledges $1bn tech spend over 10 years

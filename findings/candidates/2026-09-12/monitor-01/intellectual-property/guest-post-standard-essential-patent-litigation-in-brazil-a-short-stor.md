@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-12-9f84b83e1c
-cluster_size: 83
+cluster_size: 85
 cluster_role: canonical
-ranked_at: '2026-09-18T12:07:45+00:00'
+ranked_at: '2026-09-19T11:50:19+00:00'
 ---
 
 # [Guest post] Standard Essential Patent Litigation in Brazil: A Short Story of Sharp Practices

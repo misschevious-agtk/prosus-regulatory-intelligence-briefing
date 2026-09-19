@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-17-cbe6e6db11
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-09-18T12:07:45+00:00'
+cluster_id: cluster-2026-09-17-18a68893e0
+cluster_size: 15
+cluster_role: sibling
+ranked_at: '2026-09-19T11:50:19+00:00'
+cluster_canonical_slug: helping-older-adults-use-ai-in-everyday-life
 ---
 
 # Our framework for reporting model misalignment

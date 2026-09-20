@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-411875c307
-cluster_size: 20
+cluster_id: cluster-2026-09-13-df8cc62fd5
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: harvey-raises-550m-at-15-5bn-valuation
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Harvey vs Legora – The Valuation Race

@@ -24,11 +24,10 @@ entities:
   jurisdiction: CN
   matched_alias: TikTok
 case_numbers: []
-cluster_id: cluster-2026-09-12-c2fa8d9b59
+cluster_id: cluster-2026-09-13-60fa1de60e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-of-dating-a
-ranked_at: '2026-09-19T11:50:19+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # TikTok unlawfully tracks your shopping habits – and your use of dating apps

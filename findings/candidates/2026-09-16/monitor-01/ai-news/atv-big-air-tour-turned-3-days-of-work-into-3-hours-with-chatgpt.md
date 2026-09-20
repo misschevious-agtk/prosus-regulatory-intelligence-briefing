@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-32c4457bf2
-cluster_size: 5
+cluster_id: cluster-2026-09-13-71ceb4e78e
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: atv-big-air-tour-turned-3-days-of-work-into-3-hours-with-chatgpt
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT

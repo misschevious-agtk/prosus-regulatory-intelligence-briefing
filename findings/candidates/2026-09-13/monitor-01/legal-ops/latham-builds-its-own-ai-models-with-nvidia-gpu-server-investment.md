@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-028dccd1a1
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: latham-builds-its-own-ai-models-with-nvidia-gpu-server-investment
-ranked_at: '2026-09-19T11:50:19+00:00'
+cluster_id: cluster-2026-09-13-9aa6115ad9
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Latham builds its own AI models with Nvidia GPU server investment

@@ -22,11 +22,10 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-09-12-898d71899e
+cluster_id: cluster-2026-09-13-2528aeba09
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: stakeholder-event-on-guidelines-on-the-interplay-between-data-protecti
-ranked_at: '2026-09-19T11:50:19+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Stakeholder event on guidelines on the interplay between data protection and competition law: overview of topics available

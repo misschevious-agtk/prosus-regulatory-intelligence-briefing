@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-12-97b277b312
+cluster_id: cluster-2026-09-13-c14c814088
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Rapidly scaling online storage to serve over 1 billion ChatGPT users

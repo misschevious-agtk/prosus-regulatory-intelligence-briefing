@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-dcedbb622e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: once-the-second-biggest-firm-in-america-then-the-first-to-blow-up
-ranked_at: '2026-09-19T11:50:19+00:00'
+cluster_id: cluster-2026-09-13-9c85fa8b07
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Once The Second-Biggest Firm In America, Then The First To Blow Up

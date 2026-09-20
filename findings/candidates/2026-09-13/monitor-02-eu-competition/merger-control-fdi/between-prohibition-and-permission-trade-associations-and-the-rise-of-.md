@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-f3bfe34dfb
-cluster_size: 142
+cluster_id: cluster-2026-09-13-82fa583cc1
+cluster_size: 143
 cluster_role: sibling
 cluster_canonical_slug: public-procurement-in-the-national-interest-reflections-from-the-cma
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Between Prohibition and Permission: Trade Associations and the Rise of Informal Ex Ante Control in Information Exchange

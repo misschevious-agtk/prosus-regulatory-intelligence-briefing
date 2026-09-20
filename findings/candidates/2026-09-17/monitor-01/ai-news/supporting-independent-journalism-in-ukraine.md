@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-12-6fe89ea0c5
+cluster_id: cluster-2026-09-13-488cf41c3b
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: openai-expands-initiatives-to-support-journalism-from-classrooms-to-ne
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Supporting independent journalism in Ukraine

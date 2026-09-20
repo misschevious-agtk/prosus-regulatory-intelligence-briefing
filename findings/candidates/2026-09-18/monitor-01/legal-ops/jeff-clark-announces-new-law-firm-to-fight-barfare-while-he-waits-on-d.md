@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-18-78466c224e
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Jeff Clark Announces New Law Firm To Fight ‘Barfare’ While He Waits On Disbarment

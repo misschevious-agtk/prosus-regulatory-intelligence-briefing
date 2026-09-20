@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-3b496a07e3
-cluster_size: 13
+cluster_id: cluster-2026-09-13-f581de37ae
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-09-11-26
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # That’s Some Epic Biglaw Shade — See Also

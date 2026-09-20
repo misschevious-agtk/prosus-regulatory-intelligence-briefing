@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-10323ddb91
-cluster_size: 3
+cluster_id: cluster-2026-09-13-6e82653b8b
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: cyber-resilience-act-reporting-rules-kick-in-are-you-cra-compliant
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Cyber Resilience Act reporting rules kick in – Are you CRA compliant?

@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-12-5bbe11ec36
-cluster_size: 3
+cluster_id: cluster-2026-09-13-79af83e70d
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: strings-attached-the-house-hearing-on-renewing-uspto-fee-setting-autho
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Strings Attached: The House Hearing on Renewing USPTO Fee Setting Authority

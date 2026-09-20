@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-16-73f9335627
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: amy-wax-adds-disbarred-coup-lawyer-john-eastman-for-that-accountabilit
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Amy Wax Adds Disbarred Coup Lawyer John Eastman For That ‘Accountability Is Persecution’ Energy

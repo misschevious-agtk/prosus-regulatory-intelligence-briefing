@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-12-fb132b4825
-cluster_size: 3
+cluster_id: cluster-2026-09-13-d9b158c615
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: after-his-own-trademark-fight-revealed-gaps-in-trademark-tools-this-fi
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # After His Own Trademark Fight Revealed Gaps in Trademark Tools, This Fintech Founder Built His Own

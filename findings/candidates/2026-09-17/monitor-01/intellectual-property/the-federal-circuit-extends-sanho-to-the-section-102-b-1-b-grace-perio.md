@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-17-f75d0584d6
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # The Federal Circuit Extends Sanho to the Section 102(b)(1)(B) Grace Period

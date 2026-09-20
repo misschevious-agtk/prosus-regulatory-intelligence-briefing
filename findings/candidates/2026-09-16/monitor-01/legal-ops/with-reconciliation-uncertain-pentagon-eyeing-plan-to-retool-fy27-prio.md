@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-15-9338f7ffd8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: with-reconciliation-uncertain-pentagon-eyeing-plan-to-retool-fy27-prio
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # With Reconciliation Uncertain, Pentagon Eyeing Plan To Retool FY27 Priorities With Congress

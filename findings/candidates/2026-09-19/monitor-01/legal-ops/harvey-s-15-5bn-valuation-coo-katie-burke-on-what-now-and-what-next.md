@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-18-9ad29e6d56
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: harvey-s-15-5bn-valuation-coo-katie-burke-on-what-now-and-what-next
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Harvey’s $15.5bn valuation: COO Katie Burke on what now, and what next

@@ -19,11 +19,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-298/23
-cluster_id: cluster-2026-09-12-9f84b83e1c
-cluster_size: 85
+cluster_id: cluster-2026-09-13-00d6292a0f
+cluster_size: 78
 cluster_role: sibling
 cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Some assembly required: The CJEU on balancing trade mark rights and freedom of expression in Inter IKEA Systems

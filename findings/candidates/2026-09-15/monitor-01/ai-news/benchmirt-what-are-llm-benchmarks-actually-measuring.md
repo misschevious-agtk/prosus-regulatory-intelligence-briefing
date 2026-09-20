@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-da603f15eb
+cluster_id: cluster-2026-09-13-61e8a94ca6
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: benchmirt-what-are-llm-benchmarks-actually-measuring
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # BenchMIRT: What are LLM benchmarks actually measuring?

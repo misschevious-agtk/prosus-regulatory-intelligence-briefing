@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-17-906503e63c
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Man Accused Of Sending Horrifying Death Threats To Federal Judge Will Face Trial

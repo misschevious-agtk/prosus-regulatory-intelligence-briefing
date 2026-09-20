@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-18-919273f676
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: who-is-your-go-to-law-firm
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Who Is Your Go-To Law Firm?

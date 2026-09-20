@@ -19,9 +19,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-14-320d9ac60e
-cluster_size: 145
+cluster_size: 150
 cluster_role: canonical
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Commission approves €52 million Romanian State aid for cattle farmers facing increased fuel and fertiliser prices

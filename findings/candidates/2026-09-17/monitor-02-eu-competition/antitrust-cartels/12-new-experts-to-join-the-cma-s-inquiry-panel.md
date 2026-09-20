@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-16-166572653e
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: 12-new-experts-to-join-the-cma-s-inquiry-panel
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # 12 new experts to join the CMA's inquiry panel

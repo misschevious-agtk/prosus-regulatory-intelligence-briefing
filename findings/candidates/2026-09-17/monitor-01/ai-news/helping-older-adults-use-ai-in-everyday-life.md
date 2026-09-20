@@ -19,9 +19,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-17-18a68893e0
-cluster_size: 15
+cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Helping older adults use AI in everyday life

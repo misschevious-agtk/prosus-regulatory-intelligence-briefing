@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-15-14ded9b1a2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: lawyers-are-even-more-miserable-than-we-knew
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Lawyers Are Even More Miserable Than We Knew

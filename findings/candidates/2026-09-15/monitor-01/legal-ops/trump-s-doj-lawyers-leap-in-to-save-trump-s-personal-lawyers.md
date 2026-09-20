@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-15-3ecc9d7c1d
 cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: trump-s-civil-service-loyalty-test-just-hit-a-constitutional-road-bump
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Trump’s DOJ Lawyers Leap In To Save Trump’s Personal Lawyers

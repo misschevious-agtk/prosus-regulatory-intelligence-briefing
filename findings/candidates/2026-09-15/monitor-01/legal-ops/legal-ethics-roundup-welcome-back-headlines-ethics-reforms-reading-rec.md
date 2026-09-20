@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-15-489e8b6034
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Legal Ethics Roundup: Welcome Back! Headlines, Ethics Reforms, Reading Recommendations, Trivia, Events, Jobs & More

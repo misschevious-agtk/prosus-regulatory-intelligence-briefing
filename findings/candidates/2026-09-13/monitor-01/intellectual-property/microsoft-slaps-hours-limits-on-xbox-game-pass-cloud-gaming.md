@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-0244bca370
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: microsoft-slaps-hours-limits-on-xbox-game-pass-cloud-gaming
-ranked_at: '2026-09-19T11:50:19+00:00'
+cluster_id: cluster-2026-09-13-ced5e27adc
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Microsoft Slaps Hours Limits On Xbox Game Pass Cloud Gaming

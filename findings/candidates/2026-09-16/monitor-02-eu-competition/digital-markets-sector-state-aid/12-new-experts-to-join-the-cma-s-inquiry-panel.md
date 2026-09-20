@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-16-166572653e
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # 12 new experts to join the CMA's inquiry panel

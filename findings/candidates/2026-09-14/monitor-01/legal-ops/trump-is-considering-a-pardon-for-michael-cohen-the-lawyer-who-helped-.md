@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-12-b4dd16c832
-cluster_size: 3
+cluster_id: cluster-2026-09-13-87d20d789a
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-is-considering-a-pardon-for-michael-cohen-the-lawyer-who-helped-
-ranked_at: '2026-09-19T11:50:19+00:00'
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # Trump Is Considering A Pardon For Michael Cohen, The Lawyer Who Helped Convict Him

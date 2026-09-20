@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-09-12-07694d4071
-cluster_size: 121
+cluster_id: cluster-2026-09-13-697f33457f
+cluster_size: 72
 cluster_role: sibling
-cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-09-19T11:50:19+00:00'
+cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
+ranked_at: '2026-09-20T12:04:39+00:00'
 ---
 
 # NEWSLETTER 29/01/26 - No al controllo dello stile di guida dei lavoratori - L’accesso alla email del lavoratore licenziato vìola la privacy - Monopattini: sì alla piattaforma per rilascio delle targhe - Attivo un nuovo strumento contro il telemarketing selvaggio - Casi transfrontalieri, al via Regolamento UE su reclami e istruttorie

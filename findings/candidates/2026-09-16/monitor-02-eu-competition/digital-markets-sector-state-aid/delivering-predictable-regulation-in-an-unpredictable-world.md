@@ -18,9 +18,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-16-d5272f62b9
-cluster_size: 15
+cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Delivering predictable regulation in an unpredictable world

@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-15-e1798f339b
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ex-simmons-solutions-chief-joins-purple-to-help-law-firms-monetise-ai-
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Ex-Simmons Solutions chief joins Purple to help law firms monetise AI – Exclusive interview

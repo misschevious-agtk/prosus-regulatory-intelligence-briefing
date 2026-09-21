@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-16-3db9eb38fb
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-20-million-partner-paydays-are-getting-out-of-control
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Biglaw’s $20 Million Partner Paydays Are Getting Out Of Control

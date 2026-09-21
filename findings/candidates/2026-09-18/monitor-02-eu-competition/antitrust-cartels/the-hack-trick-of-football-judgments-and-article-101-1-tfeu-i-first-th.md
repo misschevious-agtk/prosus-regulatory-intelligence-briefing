@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: Court of Justice
 case_numbers: []
-cluster_id: cluster-2026-09-13-d825172e24
+cluster_id: cluster-2026-09-14-f9a5680f04
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-hack-trick-of-football-judgments-and-article-101-1-tfeu-i-first-th
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # The hack-trick of football judgments and Article 101(1) TFEU (I): first thoughts

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-16-22fbdd4a1a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-ai-indemnity-arms-race-is-distracting-us-from-the-bigger-story
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # The AI Indemnity Arms Race Is Distracting Us From The Bigger Story

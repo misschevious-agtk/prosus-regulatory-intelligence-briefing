@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-13-d26f7d707f
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: a-uspto-docketing-change-behind-the-terminal-disclaimer-collapse
-ranked_at: '2026-09-20T12:04:39+00:00'
+cluster_id: cluster-2026-09-14-cf9601b2ec
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # A USPTO Docketing Change Behind the Terminal Disclaimer Collapse

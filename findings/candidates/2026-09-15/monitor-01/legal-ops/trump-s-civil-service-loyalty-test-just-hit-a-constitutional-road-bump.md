@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-15-3ecc9d7c1d
 cluster_size: 11
 cluster_role: canonical
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Trump’s Civil Service Loyalty Test Just Hit A Constitutional Road Bump

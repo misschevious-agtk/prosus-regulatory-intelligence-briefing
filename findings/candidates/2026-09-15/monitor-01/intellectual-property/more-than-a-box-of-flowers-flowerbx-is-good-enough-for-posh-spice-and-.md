@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-15-51f531f0f6
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # More than a ‘box of flowers’, FLOWERBX is good enough for Posh Spice and not descriptive of florist-related goods and services

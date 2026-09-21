@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-13-2603f3cb60
-cluster_size: 3
+cluster_id: cluster-2026-09-14-677bdfaec1
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: she-earned-the-first-law-degree-ever-given-to-an-american-woman-and-sh
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # She Earned The First Law Degree Ever Given To An American Woman And She Wasn’t Allowed To Use It

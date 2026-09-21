@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-14-667de6c2a5
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Missouri Keeps Beating Dead Horse Of A Map — See Generally

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-13-5687e6e421
+cluster_id: cluster-2026-09-14-400160ccbf
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: take-or-license-can-a-contract-cap-trade-secret-damages-at-a-royalty
-ranked_at: '2026-09-20T12:04:39+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Take or License: Can a Contract Cap Trade Secret Damages at a Royalty?

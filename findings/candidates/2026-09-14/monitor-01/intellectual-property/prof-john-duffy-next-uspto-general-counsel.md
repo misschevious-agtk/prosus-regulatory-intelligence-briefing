@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-13-cc41eefd19
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: prof-john-duffy-next-uspto-general-counsel
-ranked_at: '2026-09-20T12:04:39+00:00'
+cluster_id: cluster-2026-09-14-c0ec5fdf6f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Prof John Duffy Next USPTO General Counsel

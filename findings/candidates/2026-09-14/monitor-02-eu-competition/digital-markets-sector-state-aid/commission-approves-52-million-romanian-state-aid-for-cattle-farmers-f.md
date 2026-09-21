@@ -18,10 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-14-320d9ac60e
-cluster_size: 150
-cluster_role: canonical
-ranked_at: '2026-09-20T12:04:39+00:00'
+cluster_id: cluster-2026-09-21-6208a01927
+cluster_size: 154
+cluster_role: sibling
+ranked_at: '2026-09-21T13:39:55+00:00'
+cluster_canonical_slug: edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guideline
 ---
 
 # Commission approves €52 million Romanian State aid for cattle farmers facing increased fuel and fertiliser prices

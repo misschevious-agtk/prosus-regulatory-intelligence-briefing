@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-16-e8d1825342
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Space Force Has ‘Space Control Weapons’ On Orbit, Air Force Secretary Reveals

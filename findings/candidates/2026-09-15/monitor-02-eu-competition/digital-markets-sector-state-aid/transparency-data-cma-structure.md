@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-13-82fa583cc1
-cluster_size: 143
+cluster_id: cluster-2026-09-14-b753a6cc34
+cluster_size: 138
 cluster_role: sibling
 cluster_canonical_slug: public-procurement-in-the-national-interest-reflections-from-the-cma
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Transparency data: CMA structure

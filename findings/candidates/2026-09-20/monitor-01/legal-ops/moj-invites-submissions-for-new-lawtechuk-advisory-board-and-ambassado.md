@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-19-a26c6d1438
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: moj-invites-submissions-for-new-lawtechuk-advisory-board-and-ambassado
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # MoJ invites submissions for new LawTechUK advisory board and ambassador roles

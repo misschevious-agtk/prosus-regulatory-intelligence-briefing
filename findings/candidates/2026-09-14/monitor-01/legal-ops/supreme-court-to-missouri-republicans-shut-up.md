@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-13-3328deff42
-cluster_size: 10
+cluster_id: cluster-2026-09-14-3cee03236d
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-09-10-26
-ranked_at: '2026-09-20T12:04:39+00:00'
+cluster_canonical_slug: doj-says-berkeley-law-rigged-its-admissions-to-favor-black-students-th
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Supreme Court To Missouri Republicans: Shut Up

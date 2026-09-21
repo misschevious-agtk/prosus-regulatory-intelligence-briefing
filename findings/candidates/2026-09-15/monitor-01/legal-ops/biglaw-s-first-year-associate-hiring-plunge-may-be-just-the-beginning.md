@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-13-5a387e6b7f
-cluster_size: 3
+cluster_id: cluster-2026-09-14-18743a256e
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-first-year-associate-hiring-plunge-may-be-just-the-beginning
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning

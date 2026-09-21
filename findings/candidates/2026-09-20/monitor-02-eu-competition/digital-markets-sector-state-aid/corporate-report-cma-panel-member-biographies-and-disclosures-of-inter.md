@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-18-c0eebd8ff9
-cluster_size: 18
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-board-register-of-interests
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Corporate report: CMA panel member biographies and disclosures of interest

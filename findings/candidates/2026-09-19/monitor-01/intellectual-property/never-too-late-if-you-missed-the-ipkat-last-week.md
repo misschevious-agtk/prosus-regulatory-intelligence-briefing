@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-13-7ec73d372f
+cluster_id: cluster-2026-09-14-6b34cd56f4
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: never-too-late-if-you-missed-the-ipkat-last-week
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-13-ad1c9035d1
-cluster_size: 13
+cluster_id: cluster-2026-09-14-ec5d237b41
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: ken-crutchfield-when-ai-models-become-commodities-what-open-weight-ai-
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Ken Crutchfield: When AI Models Become Commodities — What Open-Weight AI Could Mean For LegalTech

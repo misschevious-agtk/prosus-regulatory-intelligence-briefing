@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-13-fe429b6081
+cluster_id: cluster-2026-09-14-4bd7b5df1d
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: passive-sales-restrictions-revisited-orzaks-and-the-limits-of-online-s
-ranked_at: '2026-09-20T12:04:39+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Passive Sales Restrictions Revisited – Orzaks and the Limits of Online Sales Restrictions

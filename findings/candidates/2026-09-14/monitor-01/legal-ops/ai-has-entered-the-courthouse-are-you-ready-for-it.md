@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-13-ff39343cdb
-cluster_size: 29
+cluster_id: cluster-2026-09-14-6beade31d9
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: white-case-invests-in-saudi-legal-startup-clauze-ai
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # AI Has Entered The Courthouse…Are You Ready For It?

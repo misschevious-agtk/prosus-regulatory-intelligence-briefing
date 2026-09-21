@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-19-ad67326eec
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: trump-s-500-aca-refunds-we-shouldn-t-confuse-a-check-with-a-healthcare
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Trump’s $500 ACA Refunds: ‘We Shouldn’t Confuse A Check With A Healthcare Affordability Strategy’

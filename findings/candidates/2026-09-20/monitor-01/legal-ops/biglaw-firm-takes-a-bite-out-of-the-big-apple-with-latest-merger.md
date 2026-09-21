@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-18-23719c7c7c
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-takes-a-bite-out-of-the-big-apple-with-latest-merger
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Biglaw Firm Takes A Bite Out Of The Big Apple With Latest Merger

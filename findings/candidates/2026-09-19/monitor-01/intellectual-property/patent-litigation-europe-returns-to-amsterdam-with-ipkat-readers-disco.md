@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-09-13-00d6292a0f
-cluster_size: 78
+cluster_id: cluster-2026-09-14-2fa9c944bf
+cluster_size: 79
 cluster_role: sibling
 cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Patent Litigation Europe returns to Amsterdam with IPKat readers’ discount

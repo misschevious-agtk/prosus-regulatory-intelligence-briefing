@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-17-843c89ae97
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: law-firm-passive-aggressiveness-on-parade
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Law Firm Passive Aggressiveness On Parade

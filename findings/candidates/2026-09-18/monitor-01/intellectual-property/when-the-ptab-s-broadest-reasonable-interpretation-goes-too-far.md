@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-18-8b88d6f970
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # When the PTAB’s Broadest Reasonable Interpretation Goes Too Far

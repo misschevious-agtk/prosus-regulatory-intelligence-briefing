@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-09-13-d5a0e15f38
+cluster_id: cluster-2026-09-14-2ca5d196a9
 cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 10 septembre 2026

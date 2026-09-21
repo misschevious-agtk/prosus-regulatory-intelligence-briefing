@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-13-998a8ebed8
-cluster_size: 6
+cluster_id: cluster-2026-09-14-94883c13cf
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: deepjudge-releases-an-open-protocol-for-passing-users-and-their-contex
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board

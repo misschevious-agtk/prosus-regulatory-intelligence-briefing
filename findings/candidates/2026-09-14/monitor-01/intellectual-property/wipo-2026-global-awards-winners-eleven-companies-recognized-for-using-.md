@@ -18,11 +18,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-09-13-2f22a4dec4
+cluster_id: cluster-2026-09-14-8518b72cfe
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: wipo-2026-global-awards-winners-eleven-companies-recognized-for-using-
-ranked_at: '2026-09-20T12:04:39+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # WIPO 2026 Global Awards Winners: Eleven Companies Recognized for Using IP to Build and Scale Their Businesses

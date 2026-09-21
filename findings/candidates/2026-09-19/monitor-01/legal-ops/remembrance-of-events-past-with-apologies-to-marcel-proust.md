@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-18-e4c1dcd214
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: remembrance-of-events-past-with-apologies-to-marcel-proust
-ranked_at: '2026-09-20T12:04:39+00:00'
+ranked_at: '2026-09-21T13:39:55+00:00'
 ---
 
 # Remembrance Of Events Past (With Apologies To Marcel Proust)

@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-14-2fa9c944bf
-cluster_size: 79
+cluster_id: cluster-2026-09-15-5e9c33b0b2
+cluster_size: 77
 cluster_role: sibling
-cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
-ranked_at: '2026-09-21T13:39:55+00:00'
+cluster_canonical_slug: morning-docket-09-14-26
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Is consignment a novelty destroying prior use in Australia?

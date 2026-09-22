@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-15-8dec2d8d47
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: lg-tvs-snoop-your-local-network-listen-to-you-when-off
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # LG TVs Snoop Your Local Network, Listen To You When ‘Off’

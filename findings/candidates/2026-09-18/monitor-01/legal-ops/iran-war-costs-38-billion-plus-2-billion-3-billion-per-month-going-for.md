@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-18-7b6d39c85e
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Iran War Costs: $38 Billion, Plus $2 Billion-$3 Billion Per Month Going Forward

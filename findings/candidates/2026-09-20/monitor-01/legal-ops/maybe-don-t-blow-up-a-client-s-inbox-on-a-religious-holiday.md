@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-19-97d762c7ca
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: maybe-don-t-blow-up-a-client-s-inbox-on-a-religious-holiday
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Maybe Don’t Blow Up A Client’s Inbox On A Religious Holiday

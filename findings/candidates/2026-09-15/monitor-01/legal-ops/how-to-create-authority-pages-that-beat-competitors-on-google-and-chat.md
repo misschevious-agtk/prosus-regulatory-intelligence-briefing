@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-14-004ae70b8b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-to-create-authority-pages-that-beat-competitors-on-google-and-chat
-ranked_at: '2026-09-21T13:39:55+00:00'
+cluster_id: cluster-2026-09-15-e24e626131
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # How To Create Authority Pages That Beat Competitors On Google And ChatGPT

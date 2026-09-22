@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-16-255a95bc68
-cluster_size: 45
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: e-on-ovo-merger-inquiry
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Co-operative Group / Southern Co-operative merger inquiry

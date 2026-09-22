@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-15-2bdfecc948
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: joint-statement-by-executive-vice-president-virkkunen-high-representat
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of International Day of Democracy

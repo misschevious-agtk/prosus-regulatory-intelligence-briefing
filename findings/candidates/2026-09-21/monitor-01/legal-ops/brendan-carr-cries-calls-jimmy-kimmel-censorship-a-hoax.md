@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-19-d982931a14
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: brendan-carr-cries-calls-jimmy-kimmel-censorship-a-hoax
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Brendan Carr Cries, Calls Jimmy Kimmel Censorship A ‘Hoax’

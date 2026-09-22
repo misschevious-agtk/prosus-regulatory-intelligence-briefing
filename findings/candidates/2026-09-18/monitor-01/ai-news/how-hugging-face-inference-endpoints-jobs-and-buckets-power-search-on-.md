@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-14-34d8b90c04
-cluster_size: 32
+cluster_id: cluster-2026-09-15-ff50a23ead
+cluster_size: 31
 cluster_role: sibling
 cluster_canonical_slug: baseten-on-hugging-face-inference-providers
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code

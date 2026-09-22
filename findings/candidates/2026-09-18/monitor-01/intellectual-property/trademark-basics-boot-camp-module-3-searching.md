@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-14-a118528bd6
-cluster_size: 193
+cluster_id: cluster-2026-09-15-3cb98e643c
+cluster_size: 64
 cluster_role: sibling
-cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-21T13:39:55+00:00'
+cluster_canonical_slug: trademark-basics-boot-camp-module-3-searching
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Trademark Basics Boot Camp, Module 3: Searching

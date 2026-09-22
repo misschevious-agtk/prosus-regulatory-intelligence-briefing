@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-16-c31aa7e8f5
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico

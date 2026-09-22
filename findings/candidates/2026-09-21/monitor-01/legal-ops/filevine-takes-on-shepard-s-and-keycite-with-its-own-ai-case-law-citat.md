@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-14-dd8084cdac
+cluster_id: cluster-2026-09-15-c4f1c494f0
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: filevine-takes-on-shepard-s-and-keycite-with-its-own-ai-case-law-citat
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Filevine Takes On Shepard’s and KeyCite With Its Own AI Case Law Citator and Hallucination Checker

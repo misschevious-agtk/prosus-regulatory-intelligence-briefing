@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-14-492f123918
+cluster_id: cluster-2026-09-15-d64045d224
 cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # ILTACON News Round-Up Part 4, The Business of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp

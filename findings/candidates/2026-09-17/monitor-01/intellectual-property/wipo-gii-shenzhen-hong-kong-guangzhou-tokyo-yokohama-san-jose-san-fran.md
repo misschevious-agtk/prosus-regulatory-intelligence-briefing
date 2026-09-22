@@ -19,11 +19,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-09-14-5785eee3dd
+cluster_id: cluster-2026-09-15-d9af37380c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: wipo-gii-shenzhen-hong-kong-guangzhou-tokyo-yokohama-san-jose-san-fran
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # WIPO GII: Shenzhen-Hong Kong-Guangzhou, Tokyo-Yokohama, San Jose-San Francisco, Beijing and Seoul Are World’s Biggest “Innovation Clusters”

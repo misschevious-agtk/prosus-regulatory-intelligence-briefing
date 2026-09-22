@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-14-2ca5d196a9
+cluster_id: cluster-2026-09-15-b615df4ce4
 cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Non-respect des droits des personnes : sanction de 300 000 euros à l’encontre de la société EXTIA

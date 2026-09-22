@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-16-0d188f984f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: job-of-the-month-elite-litigation-boutique-partner-opportunity
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Job Of The Month: Elite Litigation Boutique Partner Opportunity

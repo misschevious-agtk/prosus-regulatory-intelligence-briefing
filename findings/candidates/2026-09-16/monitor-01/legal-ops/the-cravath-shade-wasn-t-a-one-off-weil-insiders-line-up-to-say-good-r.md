@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-15-7bc1f936a5
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-cravath-shade-wasn-t-a-one-off-weil-insiders-line-up-to-say-good-r
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # The Cravath Shade Wasn’t A One-Off: Weil Insiders Line Up To Say Good Riddance

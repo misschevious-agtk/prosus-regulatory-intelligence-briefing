@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-14-0cb3723de2
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-09-11-26
-ranked_at: '2026-09-21T13:39:55+00:00'
+cluster_id: cluster-2026-09-15-b4955e53c5
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Morning Docket: 09.11.26

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-14-d4e08df178
+cluster_id: cluster-2026-09-15-05ca5690ab
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: what-the-disparagement-cases-tell-us-about-abuses-by-object-and-the-fo
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # What the disparagement cases tell us about abuses by object (and the forthcoming Guidelines)

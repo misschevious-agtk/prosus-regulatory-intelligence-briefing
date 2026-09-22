@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-14-23547909f7
+cluster_id: cluster-2026-09-15-e3f1a89653
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-receives-new-patent-for-microbe-killing-water-heater
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # NIST Receives New Patent for Microbe-Killing Water Heater

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-15-190047252d
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: when-r-d-counts-as-a-domestic-industry
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # When R&D Counts as a Domestic Industry

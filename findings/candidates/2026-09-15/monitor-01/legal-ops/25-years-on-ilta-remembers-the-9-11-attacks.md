@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-14-c6c8cf2a80
-cluster_size: 11
-cluster_role: sibling
-cluster_canonical_slug: 25-years-on-ilta-remembers-the-9-11-attacks
-ranked_at: '2026-09-21T13:39:55+00:00'
+cluster_id: cluster-2026-09-15-e4fac2ce06
+cluster_size: 10
+cluster_role: canonical
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # 25 years on, ILTA remembers the 9/11 attacks

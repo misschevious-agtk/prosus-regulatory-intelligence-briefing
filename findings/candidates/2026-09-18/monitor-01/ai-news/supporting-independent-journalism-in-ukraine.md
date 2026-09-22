@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-14-e1ede51e5f
-cluster_size: 15
+cluster_id: cluster-2026-09-15-6b8987d217
+cluster_size: 228
 cluster_role: sibling
-cluster_canonical_slug: openai-expands-initiatives-to-support-journalism-from-classrooms-to-ne
-ranked_at: '2026-09-21T13:39:55+00:00'
+cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Supporting independent journalism in Ukraine

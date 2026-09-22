@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-19-77eafba9e2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: buc-ee-s-extracts-850k-settlement-from-born-united-for-parody-usage
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # Buc-ee’s Extracts 850k Settlement From Born United For Parody Usage

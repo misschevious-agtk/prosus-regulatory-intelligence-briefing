@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-15-7fd4f6043e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ai-for-new-jersey-public-defenders-solving-the-a2j-problem-one-bite-at
-ranked_at: '2026-09-21T13:39:55+00:00'
+ranked_at: '2026-09-22T12:24:41+00:00'
 ---
 
 # AI For New Jersey Public Defenders: Solving The A2J Problem One Bite At A Time

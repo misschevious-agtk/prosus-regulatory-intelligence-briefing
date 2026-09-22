@@ -1,6 +1,6 @@
 # State of the Monitors — 2026 W39
 
-_Generated 2026-09-21T13:40:00.266860+00:00_
+_Generated 2026-09-22T12:24:45.952043+00:00_
 
 ## Summary
 

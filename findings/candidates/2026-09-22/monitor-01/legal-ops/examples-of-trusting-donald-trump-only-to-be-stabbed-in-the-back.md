@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-22-0006284213
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Examples Of Trusting Donald Trump Only To Be Stabbed In The Back

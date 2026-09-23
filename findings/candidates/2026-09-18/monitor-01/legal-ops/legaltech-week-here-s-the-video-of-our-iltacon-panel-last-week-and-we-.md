@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-15-d64045d224
+cluster_id: cluster-2026-09-16-24c598032d
 cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Legaltech Week: Here’s the Video Of Our ILTACON Panel Last Week, And We’re Back Live on Zoom Today At 3ET

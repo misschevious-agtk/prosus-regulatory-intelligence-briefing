@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-21-6208a01927
-cluster_size: 155
+cluster_id: cluster-2026-09-23-3a72d5d80f
+cluster_size: 176
 cluster_role: sibling
-cluster_canonical_slug: edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guideline
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_canonical_slug: the-irish-data-protection-commission-fines-google-403-000-000-eur-foll
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Europeans are doing more physical activity, new Eurobarometer shows

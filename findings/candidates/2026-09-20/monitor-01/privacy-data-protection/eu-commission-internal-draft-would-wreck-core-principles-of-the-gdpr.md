@@ -27,11 +27,11 @@ match_count: 23
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-15-aaeec452f1
+cluster_id: cluster-2026-09-16-352d4a447f
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: eu-commission-internal-draft-would-wreck-core-principles-of-the-gdpr
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # EU Commission internal draft would wreck core principles of the GDPR

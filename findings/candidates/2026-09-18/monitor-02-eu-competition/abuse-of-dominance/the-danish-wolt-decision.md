@@ -18,11 +18,11 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-15-d652dd2484
-cluster_size: 23
+cluster_id: cluster-2026-09-16-b20be34ef6
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: the-danish-wolt-decision
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # The Danish Wolt Decision

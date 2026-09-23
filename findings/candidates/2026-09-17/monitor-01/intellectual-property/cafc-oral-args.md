@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-15-580516d44e
-cluster_size: 3
+cluster_id: cluster-2026-09-16-d2fc0f420a
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: cafc-oral-args
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # CAFC Oral Args

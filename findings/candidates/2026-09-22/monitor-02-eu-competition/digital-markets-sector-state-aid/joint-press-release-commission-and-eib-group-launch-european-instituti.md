@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-22-f08d402ae5
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_id: cluster-2026-09-23-3a72d5d80f
+cluster_size: 176
+cluster_role: sibling
+ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_canonical_slug: the-irish-data-protection-commission-fines-google-403-000-000-eur-foll
 ---
 
 # Joint press release: Commission and EIB Group launch European Institutional Investors Pact to boost investment in European tech scale-ups

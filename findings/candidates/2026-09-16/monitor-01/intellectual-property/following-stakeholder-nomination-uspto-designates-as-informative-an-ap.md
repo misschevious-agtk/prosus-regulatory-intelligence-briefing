@@ -21,11 +21,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-15-0deac72eff
-cluster_size: 130
-cluster_role: sibling
-cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_id: cluster-2026-09-16-0b5fd077e8
+cluster_size: 134
+cluster_role: canonical
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Following stakeholder nomination, USPTO designates as informative an appeal decision addressing Markush groupings

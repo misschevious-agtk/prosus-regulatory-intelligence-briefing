@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-19-fe04845bf5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-3-things-every-healthy-organization-needs
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # The 3 Things Every Healthy Organization Needs

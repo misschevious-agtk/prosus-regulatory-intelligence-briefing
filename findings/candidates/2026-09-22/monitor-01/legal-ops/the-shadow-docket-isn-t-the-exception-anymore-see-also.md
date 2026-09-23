@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-21-f36cb4e1b4
-cluster_size: 6
+cluster_id: cluster-2026-09-23-91a92d67e3
+cluster_size: 14
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-09-21-26
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_canonical_slug: the-federal-circuit-expands-its-jurisdiction-yet-again
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # The Shadow Docket Isn’t The Exception Anymore — See Also

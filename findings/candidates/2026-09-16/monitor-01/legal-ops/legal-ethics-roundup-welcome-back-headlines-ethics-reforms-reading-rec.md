@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-15-489e8b6034
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-welcome-back-headlines-ethics-reforms-reading-rec
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_id: cluster-2026-09-16-7f5695be63
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Legal Ethics Roundup: Welcome Back! Headlines, Ethics Reforms, Reading Recommendations, Trivia, Events, Jobs & More

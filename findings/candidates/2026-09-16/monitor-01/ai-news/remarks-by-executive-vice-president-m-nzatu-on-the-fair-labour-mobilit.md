@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-16-01d8fb37a7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: remarks-by-executive-vice-president-m-nzatu-on-the-fair-labour-mobilit
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Remarks by Executive Vice-President Mînzatu on the Fair Labour Mobility Package

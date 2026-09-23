@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-15-7fd4f6043e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ai-for-new-jersey-public-defenders-solving-the-a2j-problem-one-bite-at
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_id: cluster-2026-09-16-40f8eaa2ed
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # AI For New Jersey Public Defenders: Solving The A2J Problem One Bite At A Time

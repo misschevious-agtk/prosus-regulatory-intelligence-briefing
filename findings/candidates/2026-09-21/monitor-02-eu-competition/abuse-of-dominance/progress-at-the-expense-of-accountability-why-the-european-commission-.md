@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-15-bec9262f50
-cluster_size: 13
+cluster_id: cluster-2026-09-23-3a72d5d80f
+cluster_size: 176
 cluster_role: sibling
-cluster_canonical_slug: progress-at-the-expense-of-accountability-why-the-european-commission-
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_canonical_slug: the-irish-data-protection-commission-fines-google-403-000-000-eur-foll
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Progress at the Expense of Accountability: Why the European Commission’s Approach to DMA Compromise Falls Short

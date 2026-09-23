@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-17-7ce3fb5f23
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: cloc-announces-plans-to-launch-legal-operations-certification
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # CLOC announces plans to launch legal operations certification

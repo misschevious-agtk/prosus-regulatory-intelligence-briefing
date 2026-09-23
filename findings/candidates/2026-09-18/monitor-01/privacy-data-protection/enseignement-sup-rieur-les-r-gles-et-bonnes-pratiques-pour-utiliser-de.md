@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-15-2aac19856f
-cluster_size: 12
+cluster_id: cluster-2026-09-16-7fa1a81099
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: enseignement-sup-rieur-les-r-gles-et-bonnes-pratiques-pour-utiliser-de
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Enseignement supérieur : les règles et bonnes pratiques pour utiliser des outils collaboratifs en ligne

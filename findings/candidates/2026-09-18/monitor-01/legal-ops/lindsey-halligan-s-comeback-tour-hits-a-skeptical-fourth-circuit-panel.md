@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-09-15-3ecc9d7c1d
-cluster_size: 11
+cluster_id: cluster-2026-09-16-e677f8294a
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: trump-s-civil-service-loyalty-test-just-hit-a-constitutional-road-bump
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Lindsey Halligan’s Comeback Tour Hits A Skeptical Fourth Circuit Panel

@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-18-f59c4d5b8b
 cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Brett Kavanaugh Hanging Out In College Dorms Is Somehow *Not* A Joke — See Also

@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-15-a7ab7158ba
-cluster_size: 6
+cluster_id: cluster-2026-09-16-fd1dd5a222
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: back-to-vail-the-ip-cle-conference-january-6-9-2027
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Back to Vail: The IP CLE Conference, January 6-9, 2027

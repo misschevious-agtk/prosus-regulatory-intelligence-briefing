@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-15-d69e93819d
-cluster_size: 8
+cluster_id: cluster-2026-09-23-defbccc097
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: benchmirt-what-are-llm-benchmarks-actually-measuring
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_canonical_slug: how-uk-aisi-and-evaleval-are-making-benchmark-results-reproducible
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # BenchMIRT: What are LLM benchmarks actually measuring?

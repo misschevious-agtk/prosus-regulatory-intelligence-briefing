@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: YouTube
 case_numbers: []
-cluster_id: cluster-2026-09-15-8dec2d8d47
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: lg-tvs-snoop-your-local-network-listen-to-you-when-off
-ranked_at: '2026-09-22T12:24:41+00:00'
+cluster_id: cluster-2026-09-16-20054d10fc
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # LG TVs Snoop Your Local Network, Listen To You When ‘Off’

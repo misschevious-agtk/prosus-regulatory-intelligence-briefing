@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-19-5c442769d8
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-22T12:24:41+00:00'
+ranked_at: '2026-09-23T12:36:21+00:00'
 ---
 
 # Guest Post: The Rise Of The Contracting ‘Stack’

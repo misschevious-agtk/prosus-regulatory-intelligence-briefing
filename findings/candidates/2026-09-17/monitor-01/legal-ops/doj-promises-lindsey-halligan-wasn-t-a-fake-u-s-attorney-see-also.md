@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-09-16-e677f8294a
-cluster_size: 8
+cluster_id: cluster-2026-09-17-cbd17ebc6b
+cluster_size: 5
 cluster_role: sibling
-cluster_canonical_slug: trump-s-civil-service-loyalty-test-just-hit-a-constitutional-road-bump
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_canonical_slug: weil-isn-t-even-pretending-to-be-sad-about-losing-its-most-powerful-pa
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # DOJ Promises Lindsey Halligan Wasn’t A Fake U.S. Attorney — See Also

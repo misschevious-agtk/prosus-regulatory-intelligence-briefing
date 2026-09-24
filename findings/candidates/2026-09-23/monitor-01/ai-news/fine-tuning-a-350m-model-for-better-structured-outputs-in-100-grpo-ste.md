@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-f9fd2ca515
+cluster_id: cluster-2026-09-17-22d457c7e4
 cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: baseten-on-hugging-face-inference-providers
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps

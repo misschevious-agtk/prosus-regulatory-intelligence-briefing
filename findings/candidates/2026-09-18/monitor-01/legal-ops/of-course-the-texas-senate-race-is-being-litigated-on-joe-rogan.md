@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-18-9900b7e15e
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Of Course The Texas Senate Race Is Being Litigated On Joe Rogan

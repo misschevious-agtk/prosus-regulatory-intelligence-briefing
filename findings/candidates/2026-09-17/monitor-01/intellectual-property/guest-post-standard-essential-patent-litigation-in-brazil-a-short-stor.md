@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-552c808fee
-cluster_size: 77
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-09-14-26
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_id: cluster-2026-09-17-165cbadb18
+cluster_size: 84
+cluster_role: canonical
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # [Guest post] Standard Essential Patent Litigation in Brazil: A Short Story of Sharp Practices

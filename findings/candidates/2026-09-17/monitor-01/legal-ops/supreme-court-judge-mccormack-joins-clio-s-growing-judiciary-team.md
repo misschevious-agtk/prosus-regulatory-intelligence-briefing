@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-17-a378d4c9b3
-cluster_size: 13
+cluster_size: 14
 cluster_role: canonical
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Supreme Court judge McCormack joins Clio’s growing judiciary team

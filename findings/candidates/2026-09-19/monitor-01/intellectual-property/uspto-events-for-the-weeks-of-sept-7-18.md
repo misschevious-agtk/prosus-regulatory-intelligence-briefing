@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-16-0b5fd077e8
-cluster_size: 134
+cluster_id: cluster-2026-09-17-63e1a464ca
+cluster_size: 106
 cluster_role: sibling
-cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # USPTO events for the weeks of Sept.7-18

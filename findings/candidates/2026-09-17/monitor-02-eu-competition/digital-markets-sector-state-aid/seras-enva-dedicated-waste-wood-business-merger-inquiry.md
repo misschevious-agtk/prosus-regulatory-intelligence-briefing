@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-16-255a95bc68
-cluster_size: 30
+cluster_id: cluster-2026-09-17-4eb71e2656
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: e-on-ovo-merger-inquiry
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Seras / Enva (dedicated waste wood business) merger inquiry

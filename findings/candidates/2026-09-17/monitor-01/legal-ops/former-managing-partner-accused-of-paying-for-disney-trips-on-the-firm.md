@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-fee8472533
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: former-managing-partner-accused-of-paying-for-disney-trips-on-the-firm
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_id: cluster-2026-09-17-0e7de098f2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Former Managing Partner Accused Of Paying For Disney Trips On The Firm’s Dime

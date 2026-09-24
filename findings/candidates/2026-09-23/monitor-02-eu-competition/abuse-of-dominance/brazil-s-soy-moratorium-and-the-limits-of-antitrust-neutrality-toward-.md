@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-23-ac43a34342
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: brazil-s-soy-moratorium-and-the-limits-of-antitrust-neutrality-toward-
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Brazil’s Soy Moratorium and the Limits of Antitrust Neutrality Toward Environmental Benefits

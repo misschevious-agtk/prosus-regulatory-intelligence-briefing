@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-4ff879d79a
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: shield-and-sword-sovereign-immunity-discovery-and-rule-19-after-texasl
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_id: cluster-2026-09-17-51d345d11b
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Shield and Sword: Sovereign Immunity, Discovery, and Rule 19 After TexasLDPC v. Broadcom

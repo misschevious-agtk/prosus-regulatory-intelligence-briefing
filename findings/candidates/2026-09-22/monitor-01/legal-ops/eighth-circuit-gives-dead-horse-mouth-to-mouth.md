@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-19-ead2e3f609
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: eighth-circuit-gives-dead-horse-mouth-to-mouth
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Eighth Circuit Gives Dead Horse Mouth To Mouth

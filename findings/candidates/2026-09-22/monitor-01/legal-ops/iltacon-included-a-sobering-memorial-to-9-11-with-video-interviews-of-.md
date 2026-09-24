@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-f9c103ddfd
-cluster_size: 9
+cluster_id: cluster-2026-09-17-f142c0a710
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: 25-years-on-ilta-remembers-the-9-11-attacks
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_canonical_slug: iltacon-included-a-sobering-memorial-to-9-11-with-video-interviews-of-
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # ILTACON Included A Sobering Memorial to 9/11, with Video Interviews Of Some Who Were There (Including Me). Now, ILTA Has Posted the Full Interviews

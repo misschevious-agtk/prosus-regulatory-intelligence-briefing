@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-18-18dae81676
-cluster_size: 108
+cluster_size: 102
 cluster_role: sibling
 cluster_canonical_slug: notice-monitoring-of-the-commitments-given-by-iag-to-the-european-comm
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Vandemoortele / Délifrance merger inquiry

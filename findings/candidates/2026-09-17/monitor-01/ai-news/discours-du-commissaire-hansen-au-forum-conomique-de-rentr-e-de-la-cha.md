@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-17-9bb39be1a7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: discours-du-commissaire-hansen-au-forum-conomique-de-rentr-e-de-la-cha
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Discours du Commissaire Hansen au forum économique de rentrée de la Chambre de Commerce du Luxembourg "Réformer l'Europe"

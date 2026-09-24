@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-edacc847ea
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: why-bigger-legal-budgets-buy-less-relief-than-ever
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_id: cluster-2026-09-17-71afbe98a8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Why Bigger Legal Budgets Buy Less Relief Than Ever

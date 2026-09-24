@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-16-166572653e
-cluster_size: 6
+cluster_id: cluster-2026-09-17-26cf9d032a
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: 12-new-experts-to-join-the-cma-s-inquiry-panel
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # 12 new experts to join the CMA's inquiry panel

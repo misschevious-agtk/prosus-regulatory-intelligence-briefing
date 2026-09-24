@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-bd43f055c2
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: morgan-morgan-pledges-1bn-tech-spend-over-10-years
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_id: cluster-2026-09-17-2088000c69
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Morgan & Morgan pledges $1bn tech spend over 10 years

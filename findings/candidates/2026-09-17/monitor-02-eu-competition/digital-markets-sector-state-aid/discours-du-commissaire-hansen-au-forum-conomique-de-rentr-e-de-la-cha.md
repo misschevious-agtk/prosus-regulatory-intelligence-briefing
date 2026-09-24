@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-17-9bb39be1a7
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Discours du Commissaire Hansen au forum économique de rentrée de la Chambre de Commerce du Luxembourg "Réformer l'Europe"

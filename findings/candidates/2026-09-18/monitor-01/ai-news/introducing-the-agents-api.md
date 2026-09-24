@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-9e5d1dc1a2
-cluster_size: 234
+cluster_id: cluster-2026-09-17-4de2a41812
+cluster_size: 7
 cluster_role: sibling
-cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_canonical_slug: introducing-the-agents-api
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Introducing the Agents API

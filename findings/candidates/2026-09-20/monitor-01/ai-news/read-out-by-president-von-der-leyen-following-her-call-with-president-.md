@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-18-8a3dec4b28
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: read-out-by-president-von-der-leyen-following-her-call-with-president-
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Read-out by President von der Leyen following her call with President Zelenskyy

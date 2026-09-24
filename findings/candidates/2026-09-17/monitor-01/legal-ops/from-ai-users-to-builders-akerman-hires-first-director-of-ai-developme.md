@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-b16f61a90e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: from-ai-users-to-builders-akerman-hires-first-director-of-ai-developme
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_id: cluster-2026-09-17-292e1a75fb
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # From AI users to builders: Akerman hires first director of AI development

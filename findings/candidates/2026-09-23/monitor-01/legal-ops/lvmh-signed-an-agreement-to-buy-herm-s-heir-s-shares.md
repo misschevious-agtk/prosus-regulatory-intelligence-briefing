@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-22-13b24cd967
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: lvmh-signed-an-agreement-to-buy-herm-s-heir-s-shares
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # LVMH Signed An Agreement To Buy Hermès Heir’s Shares

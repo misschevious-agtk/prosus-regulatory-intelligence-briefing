@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-18-4ca877612e
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Biglaw ‘Lioness’ Admitted All Lawyers Are A-Holes, And Got A Job On The Spot

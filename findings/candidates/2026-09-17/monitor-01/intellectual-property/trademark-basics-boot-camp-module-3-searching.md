@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-16-46457d3e75
-cluster_size: 59
-cluster_role: sibling
-cluster_canonical_slug: trademark-basics-boot-camp-module-3-searching
-ranked_at: '2026-09-23T12:36:21+00:00'
+cluster_id: cluster-2026-09-17-44036303e7
+cluster_size: 53
+cluster_role: canonical
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Trademark Basics Boot Camp, Module 3: Searching

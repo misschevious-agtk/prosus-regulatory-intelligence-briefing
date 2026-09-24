@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-522998d579
+cluster_id: cluster-2026-09-17-a1aa612ef5
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Series A Round for Newcode, An AI Harness for Legal, Brings Its Funding To $20M and Fuels U.S. Expansion

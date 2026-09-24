@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-16-006b9ed9c9
+cluster_id: cluster-2026-09-17-4860a62c5e
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: hayden-v-koons-us-court-of-appeals-says-it-was-30-years-too-late
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # Hayden v Koons: US Court of Appeals says it was 30 years too late

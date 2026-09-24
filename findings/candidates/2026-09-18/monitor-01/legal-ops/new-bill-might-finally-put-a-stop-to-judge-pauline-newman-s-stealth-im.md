@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-17-895ae6e26a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: new-bill-might-finally-put-a-stop-to-judge-pauline-newman-s-stealth-im
-ranked_at: '2026-09-23T12:36:21+00:00'
+ranked_at: '2026-09-24T12:35:14+00:00'
 ---
 
 # New Bill Might Finally Put A Stop To Judge Pauline Newman’s Stealth Impeachment

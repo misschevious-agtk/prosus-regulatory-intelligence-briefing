@@ -18,11 +18,11 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-17-30ef2f31b6
+cluster_id: cluster-2026-09-18-045f0f4a47
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: open-letter-civil-society-coalition-urges-eu-to-kill-the-cookie-banner
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Open Letter: Civil society coalition urges EU to kill the cookie banner!

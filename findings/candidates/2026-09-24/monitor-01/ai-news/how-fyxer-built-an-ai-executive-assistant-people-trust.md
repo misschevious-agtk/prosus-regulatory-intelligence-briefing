@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-17-d6726036b1
+cluster_id: cluster-2026-09-18-fda7afd231
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: how-fyxer-built-an-ai-executive-assistant-people-trust
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # How Fyxer built an AI executive assistant people trust

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-19-dec2de9f6c
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # He Took ‘Zealous Advocacy’ A Fatal Step Too Far

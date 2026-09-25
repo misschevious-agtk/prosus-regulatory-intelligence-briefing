@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-24-cbd4ccdbf3
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-09-24T12:35:14+00:00'
+cluster_id: cluster-2026-09-23-3a72d5d80f
+cluster_size: 185
+cluster_role: sibling
+ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_canonical_slug: the-irish-data-protection-commission-fines-google-403-000-000-eur-foll
 ---
 
 # Joint Communiqué: Seventh Trilateral Meeting of the European Union, the African Union, and the United Nations

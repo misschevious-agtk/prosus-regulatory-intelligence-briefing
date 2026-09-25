@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-22-782d4cb2c8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: b2b-agents-will-need-more-than-machine-readable-contracts
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # B2B Agents Will Need More Than Machine-Readable Contracts

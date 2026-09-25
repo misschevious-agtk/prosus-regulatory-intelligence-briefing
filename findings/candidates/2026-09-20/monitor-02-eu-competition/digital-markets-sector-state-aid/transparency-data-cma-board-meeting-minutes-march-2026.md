@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-17-390e140cdd
-cluster_size: 36
+cluster_id: cluster-2026-09-18-2462d3f307
+cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-board-meeting-minutes-march-2026
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Transparency data: CMA board meeting minutes: March 2026

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-17-029293ef1d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: beyond-clm-the-road-to-an-agentic-future
-ranked_at: '2026-09-24T12:35:14+00:00'
+cluster_id: cluster-2026-09-18-e984cd09a7
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Beyond CLM: The Road To An Agentic Future

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-22-2c2afcfe9c
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: marketing-roundup-takeaways-from-the-lma-second-chair-roundtable-why-b
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Marketing Roundup: Takeaways From The LMA Second Chair Roundtable, Why Branding Is More Than A Visual Identity, And More

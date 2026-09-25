@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-17-9e0e43f245
-cluster_size: 235
+cluster_id: cluster-2026-09-18-073da87382
+cluster_size: 243
 cluster_role: sibling
 cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # AI Native Law Firms Aren’t Just For Biglaw Lawyers

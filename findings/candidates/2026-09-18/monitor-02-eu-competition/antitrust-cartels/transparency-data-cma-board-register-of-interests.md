@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-18-c0eebd8ff9
 cluster_size: 30
 cluster_role: canonical
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Transparency data: CMA board: register of interests

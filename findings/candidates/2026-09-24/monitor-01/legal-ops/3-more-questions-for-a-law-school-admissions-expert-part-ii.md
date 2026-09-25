@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-23-dca51527a1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 3-more-questions-for-a-law-school-admissions-expert-part-ii
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # 3 More Questions For A Law School Admissions Expert (Part II)

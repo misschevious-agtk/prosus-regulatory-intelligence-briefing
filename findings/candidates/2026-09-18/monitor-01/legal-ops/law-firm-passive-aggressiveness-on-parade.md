@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-17-843c89ae97
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: law-firm-passive-aggressiveness-on-parade
-ranked_at: '2026-09-24T12:35:14+00:00'
+cluster_id: cluster-2026-09-18-246e3110be
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Law Firm Passive Aggressiveness On Parade

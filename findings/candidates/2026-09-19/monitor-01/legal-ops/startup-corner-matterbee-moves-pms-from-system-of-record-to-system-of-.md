@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-19-3b293ad480
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Startup Corner: Matterbee moves PMS from “system of record to system of action”

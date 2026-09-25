@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-22-ba5f91f597
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Legal Ethics Roundup: Judge Warns Of Threat To Democracy, AI Slop Harms Extend Beyond Fake Cites, Philly DA Referred For Investigation, New Bill Aims To End ‘Stealth Impeachments’ & More

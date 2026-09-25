@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-09-17-cbd17ebc6b
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: weil-isn-t-even-pretending-to-be-sad-about-losing-its-most-powerful-pa
-ranked_at: '2026-09-24T12:35:14+00:00'
+cluster_id: cluster-2026-09-18-5fa405c873
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Lindsey Halligan’s Comeback Tour Hits A Skeptical Fourth Circuit Panel

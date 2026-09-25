@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-24-a633fce7a6
-cluster_size: 3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: cma-fines-construction-firm-and-staff-for-concealing-evidence-during-i
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # CMA fines construction firm and staff for concealing evidence during inspection

@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-17-7cb7489895
-cluster_size: 5
+cluster_id: cluster-2026-09-18-3e0b6f4c20
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: who-keeps-the-skill-a-randomized-trial-of-ai-patent-drafting-at-eleven
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Who Keeps the Skill: A Randomized Trial of AI Patent Drafting at Eleven Firms

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-17-9e0e43f245
-cluster_size: 235
+cluster_id: cluster-2026-09-18-073da87382
+cluster_size: 243
 cluster_role: sibling
 cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # How workers are unlocking new ways of working

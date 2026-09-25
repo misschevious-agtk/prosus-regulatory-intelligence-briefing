@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-17-691488f0c6
-cluster_size: 10
+cluster_id: cluster-2026-09-18-b0df82346c
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: daybreak-for-frontline-defenders-1b-to-protect-essential-services
-ranked_at: '2026-09-24T12:35:14+00:00'
+cluster_canonical_slug: expanding-ai-access-and-cyber-defense-for-federal-state-local-and-trib
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # OpenAI extends cyber access to Ukraine for civilian defense

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-17-0a036b673c
-cluster_size: 25
+cluster_id: cluster-2026-09-18-d6ab1ad921
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: following-stakeholder-nomination-uspto-designates-as-informative-an-ap
-ranked_at: '2026-09-24T12:35:14+00:00'
+cluster_canonical_slug: ptab-announces-two-new-aia-templates
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Templates for AIA proceedings

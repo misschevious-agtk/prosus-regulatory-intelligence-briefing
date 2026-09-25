@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-18-e4c1dcd214
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: remembrance-of-events-past-with-apologies-to-marcel-proust
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Remembrance Of Events Past (With Apologies To Marcel Proust)

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-17-22d457c7e4
-cluster_size: 30
-cluster_role: sibling
-cluster_canonical_slug: baseten-on-hugging-face-inference-providers
-ranked_at: '2026-09-24T12:35:14+00:00'
+cluster_id: cluster-2026-09-18-42e4eab499
+cluster_size: 31
+cluster_role: canonical
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Baseten on Hugging Face Inference Providers 🔥

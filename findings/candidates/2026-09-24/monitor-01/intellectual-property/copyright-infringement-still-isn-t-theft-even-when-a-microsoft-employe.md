@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-24-084fa60e07
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-09-24T12:35:14+00:00'
+ranked_at: '2026-09-25T12:37:14+00:00'
 ---
 
 # Copyright Infringement Still Isn’t Theft, Even When A Microsoft Employee Says It Is

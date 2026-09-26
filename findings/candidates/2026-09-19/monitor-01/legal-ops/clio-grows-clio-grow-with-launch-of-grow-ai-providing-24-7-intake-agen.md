@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-f85aeb855e
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: clio-grows-clio-grow-with-launch-of-grow-ai-providing-24-7-intake-agen
-ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_id: cluster-2026-09-19-54a07fbd91
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Clio Grows Clio Grow with Launch of Grow AI, Providing 24/7 Intake Agents

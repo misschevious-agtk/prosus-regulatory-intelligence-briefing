@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-23-cf20aac449
-cluster_size: 9
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: corporate-report-cma-panel-member-biographies-and-disclosures-of-inter
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Corporate report: CMA panel member biographies and disclosures of interest

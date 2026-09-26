@@ -19,11 +19,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-298/23
-cluster_id: cluster-2026-09-18-719d809a72
-cluster_size: 22
+cluster_id: cluster-2026-09-19-11043d9cb5
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: angry-birds-crash-into-bad-faith
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Some assembly required: The CJEU on balancing trade mark rights and freedom of expression in Inter IKEA Systems

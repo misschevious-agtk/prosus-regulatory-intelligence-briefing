@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-23-669aa0ff4c
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: is-legal-business-development-really-just-dating-for-professionals
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Is Legal Business Development Really Just Dating For Professionals?

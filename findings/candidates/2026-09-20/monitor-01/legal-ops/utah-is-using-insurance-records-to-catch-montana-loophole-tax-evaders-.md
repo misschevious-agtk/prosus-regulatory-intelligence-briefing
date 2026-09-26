@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-29b55716d9
-cluster_size: 4
+cluster_id: cluster-2026-09-19-54d4215086
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: utah-is-using-insurance-records-to-catch-montana-loophole-tax-evaders-
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Utah Is Using Insurance Records To Catch Montana Loophole Tax Evaders Which Other States Could Follow

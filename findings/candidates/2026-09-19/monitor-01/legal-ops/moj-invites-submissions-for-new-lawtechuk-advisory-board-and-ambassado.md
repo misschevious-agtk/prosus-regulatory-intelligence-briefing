@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-19-a26c6d1438
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # MoJ invites submissions for new LawTechUK advisory board and ambassador roles

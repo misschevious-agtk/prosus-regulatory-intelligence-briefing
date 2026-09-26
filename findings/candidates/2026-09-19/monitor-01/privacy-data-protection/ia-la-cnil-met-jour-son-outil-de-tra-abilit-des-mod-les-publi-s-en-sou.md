@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-18-afa6f035e2
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: enseignement-sup-rieur-les-r-gles-et-bonnes-pratiques-pour-utiliser-de
-ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_id: cluster-2026-09-19-a6dd5c2137
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-22-13b24cd967
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # LVMH Signed An Agreement To Buy Hermès Heir’s Shares

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-78466c224e
-cluster_size: 4
+cluster_id: cluster-2026-09-19-d663046a23
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: jeff-clark-announces-new-law-firm-to-fight-barfare-while-he-waits-on-d
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Jeff Clark Announces New Law Firm To Fight ‘Barfare’ While He Waits On Disbarment

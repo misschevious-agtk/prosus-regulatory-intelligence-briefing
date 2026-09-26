@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-22-cea5dd7234
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community

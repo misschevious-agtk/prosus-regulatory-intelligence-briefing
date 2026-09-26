@@ -21,11 +21,11 @@ match_count: 9
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-e36483ba7b
+cluster_id: cluster-2026-09-19-b9dfecd0f2
 cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # ILTACON News Round-Up Part 1, E-Discovery: DISCO, Everlaw, Nuix, Relativity, Reveal

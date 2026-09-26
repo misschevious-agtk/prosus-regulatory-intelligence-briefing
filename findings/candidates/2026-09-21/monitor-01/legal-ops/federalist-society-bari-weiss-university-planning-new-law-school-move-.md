@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-a3428b94cb
-cluster_size: 4
+cluster_id: cluster-2026-09-19-d7f3394c52
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: federalist-society-bari-weiss-university-planning-new-law-school-move-
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Federalist Society & Bari Weiss University Planning New Law School… Move Over ASSLaw!

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-24-3504c4d9b8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: judge-with-infamous-a-b-c-d-f-u-sobriety-test-gets-another-year-off-th
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Judge With Infamous ‘A, B, C, D, F, U’ Sobriety Test Gets Another Year Off The Bench

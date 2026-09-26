@@ -28,11 +28,10 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-413/23
-cluster_id: cluster-2026-09-18-2161dae41f
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-a
-ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_id: cluster-2026-09-19-6bc6bba6a0
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain

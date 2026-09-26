@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-3d07e789b7
-cluster_size: 13
+cluster_id: cluster-2026-09-19-a9f568593b
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-judge-mccormack-joins-clio-s-growing-judiciary-team
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Supreme Court judge McCormack joins Clio’s growing judiciary team

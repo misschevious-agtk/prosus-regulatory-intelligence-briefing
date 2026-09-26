@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-21-c6c66d5aa3
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: the-missing-inventor-problem
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # The Missing Inventor Problem

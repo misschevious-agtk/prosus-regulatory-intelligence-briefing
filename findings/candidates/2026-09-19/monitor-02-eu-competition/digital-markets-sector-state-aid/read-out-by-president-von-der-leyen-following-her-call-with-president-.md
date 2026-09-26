@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-18-8a3dec4b28
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: read-out-by-president-von-der-leyen-following-her-call-with-president-
-ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_id: cluster-2026-09-19-2c3a7fe523
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Read-out by President von der Leyen following her call with President Zelenskyy

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-3165cbb3ef
-cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: lexisnexis-unveils-legal-intelligence-engine-rebuilding-prot-g-around-
-ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_id: cluster-2026-09-19-36f4e798ce
+cluster_size: 13
+cluster_role: canonical
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # LexisNexis Unveils ‘Legal Intelligence Engine,’ Rebuilding Protégé Around Dynamic Agentic Orchestration

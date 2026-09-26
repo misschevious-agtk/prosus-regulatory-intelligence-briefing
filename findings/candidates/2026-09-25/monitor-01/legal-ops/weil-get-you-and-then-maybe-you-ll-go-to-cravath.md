@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-24-d82e2876fc
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: weil-get-you-and-then-maybe-you-ll-go-to-cravath
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Weil Get You And… Then Maybe You’ll Go To Cravath

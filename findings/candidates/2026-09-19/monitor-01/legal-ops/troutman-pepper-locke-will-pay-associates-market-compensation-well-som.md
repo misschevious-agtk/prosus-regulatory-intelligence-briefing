@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-4ece02d698
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: troutman-pepper-locke-will-pay-associates-market-compensation-well-som
-ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_id: cluster-2026-09-19-542e3835fd
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Troutman Pepper Locke Will Pay Associates Market Compensation, Well, Some Of Them

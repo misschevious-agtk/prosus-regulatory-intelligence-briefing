@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-25-5c2d865d15
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # My Pamprin Moment: A Small Box, A Big Reminder

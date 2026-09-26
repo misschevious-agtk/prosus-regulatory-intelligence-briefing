@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-23-5a4c822760
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: before-there-was-a-public-defender-there-was-her
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Before There Was A Public Defender, There Was Her

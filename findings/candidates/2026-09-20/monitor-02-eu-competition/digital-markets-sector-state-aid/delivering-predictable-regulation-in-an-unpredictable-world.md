@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-18-19464cf747
-cluster_size: 21
+cluster_id: cluster-2026-09-19-0507aa883d
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: delivering-predictable-regulation-in-an-unpredictable-world
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Delivering predictable regulation in an unpredictable world

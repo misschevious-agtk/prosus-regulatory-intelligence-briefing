@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-22-0006284213
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: examples-of-trusting-donald-trump-only-to-be-stabbed-in-the-back
-ranked_at: '2026-09-25T12:37:14+00:00'
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Examples Of Trusting Donald Trump Only To Be Stabbed In The Back

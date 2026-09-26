@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-18-90b858f6cf
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: checkbox-launches-first-pass-ai-contract-review
-ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_id: cluster-2026-09-19-7ebdddd89a
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Checkbox Launches ‘First Pass’ AI Contract Review

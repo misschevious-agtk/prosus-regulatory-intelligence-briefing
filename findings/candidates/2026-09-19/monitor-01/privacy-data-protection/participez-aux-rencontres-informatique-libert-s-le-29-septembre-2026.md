@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-18-4d43ee0bf9
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: participez-aux-rencontres-informatique-libert-s-le-29-septembre-2026
-ranked_at: '2026-09-25T12:37:14+00:00'
+cluster_id: cluster-2026-09-19-95e0635f61
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-09-26T12:06:44+00:00'
 ---
 
 # Participez aux Rencontres Informatique & Libertés le 29 septembre 2026

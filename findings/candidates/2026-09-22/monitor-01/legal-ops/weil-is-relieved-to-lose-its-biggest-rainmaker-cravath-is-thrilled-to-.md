@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-19-9cd61a6fbe
-cluster_size: 4
+cluster_id: cluster-2026-09-20-95637727f5
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: weil-is-relieved-to-lose-its-biggest-rainmaker-cravath-is-thrilled-to-
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # Weil Is Relieved To Lose Its Biggest Rainmaker. Cravath Is Thrilled To Get His ‘Values.’

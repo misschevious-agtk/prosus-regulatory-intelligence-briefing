@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-19-75834889e0
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: how-to-better-serve-your-firm-and-partners-as-an-associate
-ranked_at: '2026-09-26T12:06:44+00:00'
+cluster_id: cluster-2026-09-20-f6d33cfa25
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # How To Better Serve Your Firm And Partners As An Associate

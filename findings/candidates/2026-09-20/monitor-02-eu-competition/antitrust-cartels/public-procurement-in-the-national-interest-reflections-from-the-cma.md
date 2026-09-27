@@ -19,11 +19,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-19-d7ed799f30
-cluster_size: 63
-cluster_role: sibling
-cluster_canonical_slug: public-procurement-in-the-national-interest-reflections-from-the-cma
-ranked_at: '2026-09-26T12:06:44+00:00'
+cluster_id: cluster-2026-09-20-62d9623c84
+cluster_size: 42
+cluster_role: canonical
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # Public procurement in the national interest: Reflections from the CMA

@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-23-3a72d5d80f
-cluster_size: 186
+cluster_size: 185
 cluster_role: sibling
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 cluster_canonical_slug: the-irish-data-protection-commission-fines-google-403-000-000-eur-foll
 ---
 

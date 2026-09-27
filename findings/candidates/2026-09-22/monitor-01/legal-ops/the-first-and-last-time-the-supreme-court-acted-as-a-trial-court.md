@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-22-fc65f05feb
-cluster_size: 8
+cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # The First And Last Time The Supreme Court Acted As A Trial Court

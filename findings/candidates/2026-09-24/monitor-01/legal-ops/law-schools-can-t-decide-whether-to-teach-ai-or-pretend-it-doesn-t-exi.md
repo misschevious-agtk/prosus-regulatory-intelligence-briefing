@@ -13,10 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-19-94bf9a01b4
-cluster_size: 237
+cluster_id: cluster-2026-09-20-7987ce4e0c
+cluster_size: 235
 cluster_role: sibling
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
 ---
 

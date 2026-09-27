@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-19-4e5c17c89f
+cluster_id: cluster-2026-09-20-05f81b40db
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-federal-circuit-extends-sanho-to-the-section-102-b-1-b-grace-perio
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # The Federal Circuit Extends Sanho to the Section 102(b)(1)(B) Grace Period

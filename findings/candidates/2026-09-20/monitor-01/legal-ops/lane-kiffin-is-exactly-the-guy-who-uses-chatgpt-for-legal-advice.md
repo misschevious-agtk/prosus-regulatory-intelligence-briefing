@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-19-7f30048574
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: lane-kiffin-is-exactly-the-guy-who-uses-chatgpt-for-legal-advice
-ranked_at: '2026-09-26T12:06:44+00:00'
+cluster_id: cluster-2026-09-20-22d9497f45
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # Lane Kiffin Is EXACTLY The Guy Who Uses ChatGPT For Legal Advice

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-19-dd6fbc93b3
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: paul-christiano-joins-openai-foundation-board
-ranked_at: '2026-09-26T12:06:44+00:00'
+cluster_id: cluster-2026-09-20-91bf38c0b9
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # Paul Christiano joins OpenAI Foundation Board

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-19-fdb24e9e77
-cluster_size: 32
+cluster_id: cluster-2026-09-20-ab31631cb5
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: baseten-on-hugging-face-inference-providers
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-24-30bad29382
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: chatgpt-ads-expands-to-southeast-asia-and-taiwan
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # ChatGPT Ads expands to Southeast Asia and Taiwan

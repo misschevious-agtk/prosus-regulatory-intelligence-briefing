@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-26-980efd54a6
-cluster_size: 5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: openai-accuses-plaintiffs-lawyers-of-paying-for-hiding-and-then-launde
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # Biglaw Firm Claims Employee Was ‘Deceived’ Into Sending Client Documents To Hacker

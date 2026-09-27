@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-19-a9f568593b
-cluster_size: 12
+cluster_id: cluster-2026-09-20-8e9a29166c
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-judge-mccormack-joins-clio-s-growing-judiciary-team
-ranked_at: '2026-09-26T12:06:44+00:00'
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # One Plus One Equals More Than Two: Clio Lands McCormack to Join Arredondo in Judiciary Expansion

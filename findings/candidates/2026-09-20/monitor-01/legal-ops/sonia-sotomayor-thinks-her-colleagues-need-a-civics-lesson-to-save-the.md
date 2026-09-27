@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-19-91a8847743
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: sonia-sotomayor-thinks-her-colleagues-need-a-civics-lesson-to-save-the
-ranked_at: '2026-09-26T12:06:44+00:00'
+cluster_id: cluster-2026-09-20-6aad98f48b
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-27T12:47:24+00:00'
 ---
 
 # Sonia Sotomayor Thinks Her Colleagues Need A Civics Lesson To Save The Republic

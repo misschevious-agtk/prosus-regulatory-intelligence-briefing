@@ -18,9 +18,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-09-26-86e9785e04
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # DC Circuit OK’s Hegseth’s Abuse Of A Crummy Statute To Punish AI Vendors Who Won’t Give Him The Deadly Toys He Wants

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-21-c6c66d5aa3
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # The Missing Inventor Problem

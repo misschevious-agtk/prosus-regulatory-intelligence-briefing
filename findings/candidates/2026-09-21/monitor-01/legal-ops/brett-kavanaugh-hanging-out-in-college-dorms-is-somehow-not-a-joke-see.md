@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-20-d6dd9b21b1
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: brett-kavanaugh-hanging-out-in-college-dorms-is-somehow-not-a-joke-see
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_id: cluster-2026-09-21-2cd9df520f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Brett Kavanaugh Hanging Out In College Dorms Is Somehow *Not* A Joke — See Also

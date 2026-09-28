@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-20-7747a2475e
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: ia-la-cnil-met-jour-son-outil-de-tra-abilit-des-mod-les-publi-s-en-sou
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_id: cluster-2026-09-21-c53d7f51ff
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte

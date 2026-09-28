@@ -19,10 +19,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-09-21-11aa2e5974
-cluster_size: 70
+cluster_size: 80
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # NEWSLETTER del 15 aprile 2026 - Prove d’esame e corsi a distanza, online le Faq del Garante privacy - Il Garante privacy sanziona Eni per 96mila euro - Garante: sì ad accesso proprie email dopo fine rapporto lavoro - Garante: non conforme al Gdpr “FaceBoarding” di Milano Linate - Servizio AscoltaMi: ok del Garante privacy al MIM

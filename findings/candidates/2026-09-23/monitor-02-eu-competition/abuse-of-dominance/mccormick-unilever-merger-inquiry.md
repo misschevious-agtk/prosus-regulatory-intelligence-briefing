@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-20-37103088f7
-cluster_size: 64
+cluster_id: cluster-2026-09-21-5b477e4ca1
+cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: notice-monitoring-of-the-commitments-given-by-iag-to-the-european-comm
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # McCormick / Unilever merger inquiry

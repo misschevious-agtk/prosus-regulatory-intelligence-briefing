@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-20-17fc00a49e
+cluster_id: cluster-2026-09-21-c2f6ffb71e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: thomson-reuters-launches-thomson-its-own-proprietary-llm-trained-on-we
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Thomson Reuters Launches Thomson, Its Own Proprietary LLM Trained on Westlaw and Practical Law Content

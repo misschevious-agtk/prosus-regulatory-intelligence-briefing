@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-20-21281c7960
-cluster_size: 3
+cluster_id: cluster-2026-09-21-b8c1a42579
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eighth-circuit-gives-dead-horse-mouth-to-mouth
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Eighth Circuit Gives Dead Horse Mouth To Mouth

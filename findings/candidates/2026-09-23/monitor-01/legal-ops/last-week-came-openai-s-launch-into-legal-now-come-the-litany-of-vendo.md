@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-20-7987ce4e0c
-cluster_size: 235
-cluster_role: sibling
-cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_id: cluster-2026-09-23-384f2f4a95
+cluster_size: 195
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Last Week Came OpenAI’s Launch Into Legal, Now Come The Litany Of Vendor Integrations

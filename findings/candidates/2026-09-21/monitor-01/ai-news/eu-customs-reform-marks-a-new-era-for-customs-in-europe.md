@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-21-fc1bf44d52
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eu-customs-reform-marks-a-new-era-for-customs-in-europe
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # EU Customs Reform marks a new era for customs in Europe

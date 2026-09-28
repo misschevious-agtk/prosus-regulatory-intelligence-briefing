@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-26-bec04dd10c
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # The Antitrust Problem With Meta’s Settlement With The States

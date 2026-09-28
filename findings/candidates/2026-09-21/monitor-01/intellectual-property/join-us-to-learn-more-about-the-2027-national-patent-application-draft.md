@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-20-3de24865b7
-cluster_size: 151
-cluster_role: sibling
-cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_id: cluster-2026-09-21-5ae3cbcb7d
+cluster_size: 149
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Join us to learn more about the 2027 National Patent Application Drafting Competition

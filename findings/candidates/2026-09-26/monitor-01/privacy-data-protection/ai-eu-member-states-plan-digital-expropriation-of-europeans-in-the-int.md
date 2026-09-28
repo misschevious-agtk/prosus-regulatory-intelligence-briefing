@@ -36,10 +36,10 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-09-21-484ebf7097
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: ai-eu-member-states-plan-digital-expropriation-of-europeans-in-the-int
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies

@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-22-de04e17202
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Patent Docket Heading into the Supreme Court’s Long Conference

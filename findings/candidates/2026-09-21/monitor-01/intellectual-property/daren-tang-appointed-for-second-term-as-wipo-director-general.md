@@ -18,11 +18,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-09-20-965f44079f
+cluster_id: cluster-2026-09-21-ae58d75d93
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: daren-tang-appointed-for-second-term-as-wipo-director-general
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Daren Tang Appointed for Second Term as WIPO Director General

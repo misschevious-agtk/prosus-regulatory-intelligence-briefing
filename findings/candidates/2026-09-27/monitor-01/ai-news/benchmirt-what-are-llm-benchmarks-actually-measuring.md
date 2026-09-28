@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-23-defbccc097
-cluster_size: 13
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: how-uk-aisi-and-evaleval-are-making-benchmark-results-reproducible
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # BenchMIRT: What are LLM benchmarks actually measuring?

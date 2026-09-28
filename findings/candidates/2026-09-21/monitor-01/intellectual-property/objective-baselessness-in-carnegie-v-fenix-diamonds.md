@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-20-c841f5e827
+cluster_id: cluster-2026-09-21-15e8c6445e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: objective-baselessness-in-carnegie-v-fenix-diamonds
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Objective Baselessness in Carnegie v. Fenix Diamonds

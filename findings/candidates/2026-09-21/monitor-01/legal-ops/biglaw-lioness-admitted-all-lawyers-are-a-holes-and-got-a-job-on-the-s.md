@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-20-11f231ed97
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: biglaw-lioness-admitted-all-lawyers-are-a-holes-and-got-a-job-on-the-s
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_id: cluster-2026-09-21-545724645b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Biglaw ‘Lioness’ Admitted All Lawyers Are A-Holes, And Got A Job On The Spot

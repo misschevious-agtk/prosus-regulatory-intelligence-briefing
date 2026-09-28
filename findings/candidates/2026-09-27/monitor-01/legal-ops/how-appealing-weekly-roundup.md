@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-26-c7ab7e8be1
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: how-appealing-weekly-roundup
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # How Appealing Weekly Roundup

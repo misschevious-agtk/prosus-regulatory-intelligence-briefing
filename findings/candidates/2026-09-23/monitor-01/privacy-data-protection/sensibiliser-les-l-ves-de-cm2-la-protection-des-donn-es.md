@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-20-1c0b8485f6
-cluster_size: 4
+cluster_id: cluster-2026-09-21-4ea84cefaa
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: sensibiliser-les-l-ves-de-cm2-la-protection-des-donn-es
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Sensibiliser les élèves de CM2 à la protection des données

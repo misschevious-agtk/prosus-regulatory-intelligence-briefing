@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-20-6f06e33415
+cluster_id: cluster-2026-09-21-93ce007691
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: expanding-ai-access-and-cyber-defense-for-federal-state-local-and-trib
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Expanding AI access and cyber defense for federal, state, local, and tribal governments

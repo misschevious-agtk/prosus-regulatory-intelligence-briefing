@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-20-84cc6e40ad
+cluster_id: cluster-2026-09-21-f785eb79b2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: facturation-lectronique-quels-enjeux-pour-la-protection-des-donn-es-pe
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Facturation électronique : quels enjeux pour la protection des données personnelles ?

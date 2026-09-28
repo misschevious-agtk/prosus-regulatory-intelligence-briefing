@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-20-cfd8bc747f
+cluster_id: cluster-2026-09-21-bba02ad1b1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-i
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # On LawNext: Alex Su, Newly Named President of Latitude Legal, On Why AI Is Driving Demand for Flex Talent

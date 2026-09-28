@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-20-5f4ca9c897
+cluster_id: cluster-2026-09-21-bb321a9514
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-researchers-discover-a-new-way-to-whisk-alloys-together-with-lase
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # NIST Researchers Discover a New Way to Whisk Alloys Together With Lasers

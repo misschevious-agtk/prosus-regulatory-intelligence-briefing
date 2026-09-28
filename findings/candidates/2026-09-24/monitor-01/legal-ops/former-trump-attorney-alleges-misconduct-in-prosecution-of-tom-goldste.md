@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-22-552a549ef5
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: former-trump-attorney-alleges-misconduct-in-prosecution-of-tom-goldste
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Former Trump Attorney Alleges Misconduct In Prosecution Of Tom Goldstein

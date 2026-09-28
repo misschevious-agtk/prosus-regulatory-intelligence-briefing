@@ -19,7 +19,7 @@ cluster_id: cluster-2026-09-24-8fbe6ebe3a
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: cryptomathic-adopts-luminance-to-broaden-access-to-contract-intelligen
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Cryptomathic adopts Luminance to broaden access to contract intelligence

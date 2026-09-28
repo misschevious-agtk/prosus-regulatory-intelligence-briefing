@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-21-ce0fb5b7b3
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-27T12:47:24+00:00'
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Guest post: The AI patent race – Why startups need to think beyond filing

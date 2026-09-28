@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-20-01cf8b1c51
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: oscar-winning-lawyering
-ranked_at: '2026-09-27T12:47:24+00:00'
+cluster_id: cluster-2026-09-21-1c5a8ae9d4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-28T15:00:10+00:00'
 ---
 
 # Oscar-Winning Lawyering

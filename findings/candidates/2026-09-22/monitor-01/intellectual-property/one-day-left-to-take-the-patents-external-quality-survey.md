@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-21-a982b5ca7d
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: one-day-left-to-take-the-patents-external-quality-survey
-ranked_at: '2026-09-28T15:00:10+00:00'
+cluster_id: cluster-2026-09-22-519d00a701
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # One day left to take the Patents External Quality Survey

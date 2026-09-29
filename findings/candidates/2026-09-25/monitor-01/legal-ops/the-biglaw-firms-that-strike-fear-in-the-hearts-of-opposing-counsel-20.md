@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-25-ca9059cc2c
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # The Biglaw Firms That Strike Fear In The Hearts Of Opposing Counsel (2027)

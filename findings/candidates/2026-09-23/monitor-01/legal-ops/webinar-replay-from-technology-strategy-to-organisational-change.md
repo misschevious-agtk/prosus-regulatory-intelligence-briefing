@@ -19,7 +19,7 @@ cluster_id: cluster-2026-09-22-bafed3c7f2
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: webinar-replay-from-technology-strategy-to-organisational-change
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Webinar replay: From technology strategy to organisational change

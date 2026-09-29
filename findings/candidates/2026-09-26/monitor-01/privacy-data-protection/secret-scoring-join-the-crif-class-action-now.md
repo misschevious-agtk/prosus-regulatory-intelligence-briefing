@@ -18,11 +18,11 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-21-6baa8747ff
+cluster_id: cluster-2026-09-22-e3e599f342
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: secret-scoring-join-the-crif-class-action-now
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Secret scoring: Join the CRIF class action now!

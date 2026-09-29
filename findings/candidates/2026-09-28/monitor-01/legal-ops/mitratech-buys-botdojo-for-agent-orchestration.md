@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-28-a951624f94
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-28T15:00:10+00:00'
+cluster_id: cluster-2026-09-28-42accda091
+cluster_size: 5
+cluster_role: sibling
+ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_canonical_slug: exclusive-unitedlex-to-be-acquired-by-jll-backed-ediscovery-vendor-rep
 ---
 
 # Mitratech Buys BotDojo For Agent Orchestration

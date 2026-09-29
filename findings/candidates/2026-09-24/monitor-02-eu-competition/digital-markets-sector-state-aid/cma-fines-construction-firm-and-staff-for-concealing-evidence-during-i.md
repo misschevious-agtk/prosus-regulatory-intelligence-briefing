@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-24-a633fce7a6
 cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # CMA fines construction firm and staff for concealing evidence during inspection

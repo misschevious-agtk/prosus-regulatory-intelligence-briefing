@@ -22,7 +22,7 @@ cluster_id: cluster-2026-09-23-cf20aac449
 cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: corporate-report-cma-panel-member-biographies-and-disclosures-of-inter
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Corporate report: CMA panel member biographies and disclosures of interest

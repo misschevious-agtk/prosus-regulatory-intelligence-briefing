@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-21-5ae3cbcb7d
-cluster_size: 149
+cluster_id: cluster-2026-09-22-0a31e3bc9d
+cluster_size: 147
 cluster_role: sibling
 cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Women's Equality Day 2026: Celebrating women inventors and the 19th Amendment

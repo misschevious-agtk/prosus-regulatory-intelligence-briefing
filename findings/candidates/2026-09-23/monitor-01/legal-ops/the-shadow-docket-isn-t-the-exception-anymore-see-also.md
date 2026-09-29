@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-23-91a92d67e3
 cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: the-federal-circuit-expands-its-jurisdiction-yet-again
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # The Shadow Docket Isn’t The Exception Anymore — See Also

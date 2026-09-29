@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-28-caff3f1172
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-welcomes-member-states-endorsement-of-five-joint-european-d
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Commission welcomes Member States' endorsement of five joint European defence projects

@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-28-57ec5456c1
-cluster_size: 15
+cluster_size: 39
 cluster_role: sibling
 cluster_canonical_slug: autotrader-consumer-protection-enforcement-case
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Dignity: consumer protection enforcement case

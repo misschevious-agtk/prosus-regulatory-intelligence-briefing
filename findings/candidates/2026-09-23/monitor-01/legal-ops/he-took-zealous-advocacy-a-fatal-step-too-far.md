@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-21-8d2c03d313
-cluster_size: 3
+cluster_id: cluster-2026-09-22-9679b92e63
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: he-took-zealous-advocacy-a-fatal-step-too-far
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # He Took ‘Zealous Advocacy’ A Fatal Step Too Far

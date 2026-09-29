@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-25-d14c4b6878
-cluster_size: 45
+cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-senior-officials-business-expenses-q3-2025-to-20
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Transparency data: CMA: meetings with other organisations, Q1 2026 to 2027

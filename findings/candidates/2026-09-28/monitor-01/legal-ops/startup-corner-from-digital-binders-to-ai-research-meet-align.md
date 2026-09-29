@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-25-2c54b2eaed
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: startup-corner-from-digital-binders-to-ai-research-meet-align
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Startup Corner: From digital binders to AI research – meet Align

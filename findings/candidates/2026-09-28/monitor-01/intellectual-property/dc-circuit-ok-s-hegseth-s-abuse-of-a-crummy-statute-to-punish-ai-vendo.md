@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-26-86e9785e04
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: dc-circuit-ok-s-hegseth-s-abuse-of-a-crummy-statute-to-punish-ai-vendo
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # DC Circuit OK’s Hegseth’s Abuse Of A Crummy Statute To Punish AI Vendors Who Won’t Give Him The Deadly Toys He Wants

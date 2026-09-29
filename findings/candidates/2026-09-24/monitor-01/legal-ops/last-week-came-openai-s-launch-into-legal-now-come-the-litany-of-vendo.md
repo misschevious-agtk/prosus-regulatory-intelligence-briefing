@@ -20,10 +20,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-23-384f2f4a95
-cluster_size: 195
+cluster_size: 232
 cluster_role: sibling
 cluster_canonical_slug: last-week-came-openai-s-launch-into-legal-now-come-the-litany-of-vendo
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Last Week Came OpenAI’s Launch Into Legal, Now Come The Litany Of Vendor Integrations

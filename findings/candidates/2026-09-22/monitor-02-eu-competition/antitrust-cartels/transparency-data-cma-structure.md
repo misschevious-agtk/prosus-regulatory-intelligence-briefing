@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-21-2f27ea2f70
-cluster_size: 18
+cluster_id: cluster-2026-09-22-328878e9eb
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: energy-licence-modification-appeals-2026
-ranked_at: '2026-09-28T15:00:10+00:00'
+cluster_canonical_slug: heating-oil-review-consumer-protection-enforcement-case
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Transparency data: CMA structure

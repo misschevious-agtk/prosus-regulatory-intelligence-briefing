@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-24-63f7a5f5ef
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: remaining-reporters-should-self-deport-from-the-white-house-avoid-spre
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Remaining Reporters Should Self-Deport From The White House, Avoid Spreading More Trump Lies

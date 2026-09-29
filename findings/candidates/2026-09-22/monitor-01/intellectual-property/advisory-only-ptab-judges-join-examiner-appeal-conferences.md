@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-21-630a229699
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: advisory-only-ptab-judges-join-examiner-appeal-conferences
-ranked_at: '2026-09-28T15:00:10+00:00'
+cluster_id: cluster-2026-09-22-b0a7f1b79d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Advisory Only: PTAB Judges Join Examiner Appeal Conferences

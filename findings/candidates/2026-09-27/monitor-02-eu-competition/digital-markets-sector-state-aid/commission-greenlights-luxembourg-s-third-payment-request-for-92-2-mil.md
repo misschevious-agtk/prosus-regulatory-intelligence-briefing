@@ -19,10 +19,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-25-34323aed92
-cluster_size: 6
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-luxembourg-s-third-payment-request-for-92-2-mil
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Commission greenlights Luxembourg's third payment request for €92.2 million under NextGenerationEU

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-23-ca43b50739
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: conservative-legal-legend-calls-donald-trump-a-trapped-animal
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Conservative Legal Legend Calls Donald Trump A ‘Trapped Animal’

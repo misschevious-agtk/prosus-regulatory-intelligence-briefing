@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-26-980efd54a6
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: openai-accuses-plaintiffs-lawyers-of-paying-for-hiding-and-then-launde
-ranked_at: '2026-09-28T15:00:10+00:00'
+ranked_at: '2026-09-29T13:47:54+00:00'
 ---
 
 # Biglaw Firm’s Cybersecurity Headache Just Got Even Worse

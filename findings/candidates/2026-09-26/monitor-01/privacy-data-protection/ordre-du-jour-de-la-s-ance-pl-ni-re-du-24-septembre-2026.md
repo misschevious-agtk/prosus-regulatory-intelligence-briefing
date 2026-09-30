@@ -18,10 +18,10 @@ entities:
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
 cluster_id: cluster-2026-09-23-3a72d5d80f
-cluster_size: 174
+cluster_size: 171
 cluster_role: sibling
 cluster_canonical_slug: the-irish-data-protection-commission-fines-google-403-000-000-eur-foll
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 24 septembre 2026

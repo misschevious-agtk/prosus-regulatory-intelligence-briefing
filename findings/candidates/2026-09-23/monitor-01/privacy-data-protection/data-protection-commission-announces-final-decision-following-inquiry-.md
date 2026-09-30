@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-aeb1eaa562
+cluster_id: cluster-2026-09-23-5c299ef1b3
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: data-protection-commission-announces-final-decision-following-inquiry-
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)

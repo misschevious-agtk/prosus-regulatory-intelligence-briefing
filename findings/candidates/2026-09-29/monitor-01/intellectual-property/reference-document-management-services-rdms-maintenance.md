@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-22-0a31e3bc9d
-cluster_size: 147
+cluster_id: cluster-2026-09-23-af15ebd2ac
+cluster_size: 144
 cluster_role: sibling
 cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Reference Document Management Services (RDMS) Maintenance

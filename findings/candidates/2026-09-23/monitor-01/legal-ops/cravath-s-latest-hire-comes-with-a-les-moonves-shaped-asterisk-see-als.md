@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-69dff0cc2e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: cravath-s-latest-hire-comes-with-a-les-moonves-shaped-asterisk-see-als
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-23-01ec0ddd8a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Cravath’s Latest Hire Comes With A Les Moonves-Shaped Asterisk — See Also

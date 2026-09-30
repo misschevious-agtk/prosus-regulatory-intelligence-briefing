@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-23-91a92d67e3
-cluster_size: 30
+cluster_size: 26
 cluster_role: sibling
 cluster_canonical_slug: the-federal-circuit-expands-its-jurisdiction-yet-again
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # The Federal Circuit Expands Its Jurisdiction Yet Again

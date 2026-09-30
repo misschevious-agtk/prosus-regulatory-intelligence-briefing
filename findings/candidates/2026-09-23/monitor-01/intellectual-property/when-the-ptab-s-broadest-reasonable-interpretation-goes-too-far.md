@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-2712296c2d
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: when-the-ptab-s-broadest-reasonable-interpretation-goes-too-far
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-23-cf7fc5ee08
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # When the PTAB’s Broadest Reasonable Interpretation Goes Too Far

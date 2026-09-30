@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-b2dccb9e83
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-missing-inventor-problem
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-23-0094933334
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # The Missing Inventor Problem

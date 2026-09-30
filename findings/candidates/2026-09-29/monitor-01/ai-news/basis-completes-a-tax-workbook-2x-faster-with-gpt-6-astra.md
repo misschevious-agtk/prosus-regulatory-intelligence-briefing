@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-dec9b6376c
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-24-1166d36152
+cluster_size: 214
+cluster_role: sibling
+ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
 ---
 
 # Basis completes a tax workbook 2x faster with GPT-6 Astra

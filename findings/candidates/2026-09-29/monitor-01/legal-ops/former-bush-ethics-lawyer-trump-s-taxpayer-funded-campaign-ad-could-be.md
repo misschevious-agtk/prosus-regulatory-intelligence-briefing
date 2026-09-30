@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-29-3481d644ba
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Former Bush Ethics Lawyer: Trump’s Taxpayer-Funded Campaign Ad ‘Could Be An Impeachable Offense’

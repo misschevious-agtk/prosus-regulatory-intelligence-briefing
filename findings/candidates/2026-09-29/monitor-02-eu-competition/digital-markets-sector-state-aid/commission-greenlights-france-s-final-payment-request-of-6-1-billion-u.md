@@ -22,7 +22,7 @@ cluster_id: cluster-2026-09-25-34323aed92
 cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-luxembourg-s-third-payment-request-for-92-2-mil
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Commission greenlights France's final payment request of €6.1 billion under NextGenerationEU

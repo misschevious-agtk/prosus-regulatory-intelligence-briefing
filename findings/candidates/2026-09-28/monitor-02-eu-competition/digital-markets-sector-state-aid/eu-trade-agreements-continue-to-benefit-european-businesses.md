@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-28-d29d52bccb
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # EU trade agreements continue to benefit European businesses

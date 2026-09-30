@@ -20,9 +20,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-23-384f2f4a95
-cluster_size: 232
+cluster_size: 27
 cluster_role: canonical
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Last Week Came OpenAI’s Launch Into Legal, Now Come The Litany Of Vendor Integrations

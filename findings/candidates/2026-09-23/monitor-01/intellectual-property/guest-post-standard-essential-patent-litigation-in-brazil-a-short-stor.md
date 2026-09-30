@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-e9f2aa5fc8
-cluster_size: 47
-cluster_role: sibling
-cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-23-634190baa3
+cluster_size: 48
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # [Guest post] Standard Essential Patent Litigation in Brazil: A Short Story of Sharp Practices

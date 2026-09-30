@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-0006284213
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: examples-of-trusting-donald-trump-only-to-be-stabbed-in-the-back
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-23-7c31bb8e85
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Examples Of Trusting Donald Trump Only To Be Stabbed In The Back

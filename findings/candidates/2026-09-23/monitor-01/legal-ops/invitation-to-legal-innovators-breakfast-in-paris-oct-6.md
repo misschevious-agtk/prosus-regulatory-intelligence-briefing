@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-384f2f4a95
-cluster_size: 232
+cluster_id: cluster-2026-09-24-1166d36152
+cluster_size: 214
 cluster_role: sibling
-ranked_at: '2026-09-29T13:47:54+00:00'
-cluster_canonical_slug: last-week-came-openai-s-launch-into-legal-now-come-the-litany-of-vendo
+ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
 ---
 
 # Invitation to Legal Innovators Breakfast in Paris – Oct 6

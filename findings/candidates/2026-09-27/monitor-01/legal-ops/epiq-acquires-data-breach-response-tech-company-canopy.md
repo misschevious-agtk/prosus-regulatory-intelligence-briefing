@@ -18,7 +18,7 @@ cluster_id: cluster-2026-09-26-0590129aa3
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: epiq-acquires-data-breach-response-tech-company-canopy
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Epiq acquires data breach response tech company Canopy

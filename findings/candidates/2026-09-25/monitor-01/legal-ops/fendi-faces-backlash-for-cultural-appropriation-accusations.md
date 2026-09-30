@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-24-5d32345f2b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fendi-faces-backlash-for-cultural-appropriation-accusations
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Fendi Faces Backlash For Cultural Appropriation Accusations

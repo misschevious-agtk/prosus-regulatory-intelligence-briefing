@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-25-dbc8f24974
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Make Reading Part Of Your Life Again

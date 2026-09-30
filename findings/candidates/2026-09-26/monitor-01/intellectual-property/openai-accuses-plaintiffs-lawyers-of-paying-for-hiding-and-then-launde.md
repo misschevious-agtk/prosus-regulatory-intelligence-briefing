@@ -22,7 +22,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-26-980efd54a6
 cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # OpenAI Accuses Plaintiffs’ Lawyers Of Paying For, Hiding, And Then Laundering Sketchy Key Evidence In AI Copyright Case

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-ba5f91f597
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-judge-warns-of-threat-to-democracy-ai-slop-harms-
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-23-e675835819
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Legal Ethics Roundup: Judge Warns Of Threat To Democracy, AI Slop Harms Extend Beyond Fake Cites, Philly DA Referred For Investigation, New Bill Aims To End ‘Stealth Impeachments’ & More

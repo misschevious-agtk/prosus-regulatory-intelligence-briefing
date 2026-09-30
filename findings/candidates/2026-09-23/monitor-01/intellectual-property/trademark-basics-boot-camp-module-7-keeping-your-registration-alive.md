@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-0a31e3bc9d
-cluster_size: 147
+cluster_id: cluster-2026-09-23-b8510e8da7
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_canonical_slug: trademark-basics-boot-camp-module-6-responding-to-an-office-action
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Trademark Basics Boot Camp, Module 7: Keeping your registration alive

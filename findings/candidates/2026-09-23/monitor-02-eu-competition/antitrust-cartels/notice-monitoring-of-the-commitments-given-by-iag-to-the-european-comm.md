@@ -24,11 +24,11 @@ entities:
 case_numbers:
 - scheme: EU merger (M.)
   citation: M.6447
-cluster_id: cluster-2026-09-22-9d7166b77f
-cluster_size: 32
+cluster_id: cluster-2026-09-23-f710ac817d
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: notice-monitoring-of-the-commitments-given-by-iag-to-the-european-comm
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Notice: Monitoring of the commitments given by IAG to the European Commission in relation to its acquisition of bmi

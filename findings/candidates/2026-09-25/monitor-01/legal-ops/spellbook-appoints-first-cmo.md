@@ -19,7 +19,7 @@ cluster_id: cluster-2026-09-24-b7d2daa351
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: spellbook-appoints-first-cmo
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Spellbook appoints first CMO

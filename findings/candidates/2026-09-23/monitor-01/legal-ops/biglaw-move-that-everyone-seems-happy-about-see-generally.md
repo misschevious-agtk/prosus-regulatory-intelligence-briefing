@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-c4c5193009
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: biglaw-move-that-everyone-seems-happy-about-see-generally
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-23-fb825b97cc
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Biglaw Move That Everyone Seems Happy About — See Generally

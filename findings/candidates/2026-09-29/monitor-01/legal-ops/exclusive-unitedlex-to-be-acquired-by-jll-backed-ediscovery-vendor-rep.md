@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-28-42accda091
-cluster_size: 5
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: exclusive-unitedlex-to-be-acquired-by-jll-backed-ediscovery-vendor-rep
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Exclusive: UnitedLex to be acquired by JLL-backed eDiscovery vendor Repario from CVC

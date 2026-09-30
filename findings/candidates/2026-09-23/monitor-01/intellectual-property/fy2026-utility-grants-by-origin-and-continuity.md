@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-22-844b28d42b
+cluster_id: cluster-2026-09-23-089f959f04
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: fy2026-utility-grants-by-origin-and-continuity
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # FY2026 Utility Grants by Origin and Continuity

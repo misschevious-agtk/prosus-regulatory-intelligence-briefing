@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-23-defbccc097
-cluster_size: 15
+cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # How UK AISI and EvalEval Are Making Benchmark Results Reproducible

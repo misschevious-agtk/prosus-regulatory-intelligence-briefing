@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-23-fdf1d72b68
-cluster_size: 210
+cluster_size: 194
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Guidance: Veterinary Services Market Investigation Order 2026 and Veterinary Services Market Investigation Royal College of Veterinary Surgeons Undertakings 2026

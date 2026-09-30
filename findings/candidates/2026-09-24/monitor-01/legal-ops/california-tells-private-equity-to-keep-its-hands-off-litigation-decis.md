@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-23-64105efd07
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: california-tells-private-equity-to-keep-its-hands-off-litigation-decis
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # California Tells Private Equity To Keep Its Hands Off Litigation Decisions

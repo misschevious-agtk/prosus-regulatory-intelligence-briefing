@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-27-7335a54901
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: wyst-pienie-komisarza-piotra-serafina-podczas-xxvi-mi-dzynarodowej-kon
-ranked_at: '2026-09-29T13:47:54+00:00'
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # Wystąpienie komisarza Piotra Serafina podczas XXVI Międzynarodowej Konferencji „Rola chrześcijan w procesie integracji europejskiej” pt. „Europa skazana na podział czy zjednoczenie?”

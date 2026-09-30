@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-22-782d4cb2c8
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: b2b-agents-will-need-more-than-machine-readable-contracts
-ranked_at: '2026-09-29T13:47:54+00:00'
+cluster_id: cluster-2026-09-23-5e504ae332
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-09-30T13:24:03+00:00'
 ---
 
 # B2B Agents Will Need More Than Machine-Readable Contracts

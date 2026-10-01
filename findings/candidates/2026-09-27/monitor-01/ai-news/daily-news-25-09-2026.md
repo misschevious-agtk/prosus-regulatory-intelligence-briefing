@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-23-3a72d5d80f
-cluster_size: 171
+cluster_id: cluster-2026-09-25-34323aed92
+cluster_size: 150
 cluster_role: sibling
-cluster_canonical_slug: the-irish-data-protection-commission-fines-google-403-000-000-eur-foll
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_canonical_slug: commission-greenlights-luxembourg-s-third-payment-request-for-92-2-mil
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Daily News 25 / 09 / 2026

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-29-952a256bc7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: jay-z-accuser-recants-her-claims-and-now-the-lawyers-are-fighting-over
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Jay-Z Accuser Recants Her Claims, And Now The Lawyers Are Fighting Over Which Story To Believe

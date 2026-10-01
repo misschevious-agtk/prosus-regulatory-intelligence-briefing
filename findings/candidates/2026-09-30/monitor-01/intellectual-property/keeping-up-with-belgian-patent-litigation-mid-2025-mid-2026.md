@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-09-23-634190baa3
+cluster_id: cluster-2026-09-24-f29d4da3d3
 cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Keeping up with Belgian Patent Litigation – mid-2025 - mid-2026

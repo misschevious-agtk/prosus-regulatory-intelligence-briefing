@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-663a93d316
+cluster_id: cluster-2026-09-24-ec578ef1f1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-crif-illegally-collected-data-of-millions-in-austria-way
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Supreme Court: CRIF illegally collected data of millions in Austria. Way clear for class action!

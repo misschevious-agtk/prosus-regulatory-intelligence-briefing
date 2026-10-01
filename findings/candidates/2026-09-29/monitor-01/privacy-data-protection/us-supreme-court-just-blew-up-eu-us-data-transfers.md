@@ -31,11 +31,11 @@ entities:
   jurisdiction: US
   matched_alias: FTC
 case_numbers: []
-cluster_id: cluster-2026-09-23-bb2c495de6
+cluster_id: cluster-2026-09-24-f72ab53751
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: us-supreme-court-just-blew-up-eu-us-data-transfers
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # US Supreme Court just blew up EU-US Data Transfers

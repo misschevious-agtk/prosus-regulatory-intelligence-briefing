@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-30-59f78ddbd0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: consumer-protection-authorities-ramp-up-action-to-protect-gamers-right
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Consumer protection authorities ramp up action to protect gamers' rights

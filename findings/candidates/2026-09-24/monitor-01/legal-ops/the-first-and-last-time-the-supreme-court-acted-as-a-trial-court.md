@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-445f76ed7b
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-first-and-last-time-the-supreme-court-acted-as-a-trial-court
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_id: cluster-2026-09-24-2da49f7761
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # The First And Last Time The Supreme Court Acted As A Trial Court

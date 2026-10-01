@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-5a4c822760
-cluster_size: 3
+cluster_id: cluster-2026-09-24-7e7127beb2
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: before-there-was-a-public-defender-there-was-her
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Before There Was A Public Defender, There Was Her

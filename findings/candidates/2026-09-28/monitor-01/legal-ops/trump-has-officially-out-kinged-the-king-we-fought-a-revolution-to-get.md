@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-26-4ea8e2d4d2
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-has-officially-out-kinged-the-king-we-fought-a-revolution-to-get
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Trump Has Officially Out-Kinged The King We Fought A Revolution To Get Rid Of

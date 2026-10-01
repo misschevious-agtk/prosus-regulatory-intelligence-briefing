@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-52b71a3cc1
+cluster_id: cluster-2026-09-24-6cc196f6e9
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joini
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # On LawNext: An Offer She Could Not Turn Down — Bridget McCormack on Joining Clio to Transform Technology for Judges

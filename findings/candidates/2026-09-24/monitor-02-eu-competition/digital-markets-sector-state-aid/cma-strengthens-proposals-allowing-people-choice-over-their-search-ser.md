@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-23-fdf1d72b68
-cluster_size: 194
+cluster_id: cluster-2026-09-24-05b75def77
+cluster_size: 163
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # CMA strengthens proposals allowing people choice over their search service

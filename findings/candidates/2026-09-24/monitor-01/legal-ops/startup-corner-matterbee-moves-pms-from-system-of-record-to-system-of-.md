@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-268997b684
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: startup-corner-matterbee-moves-pms-from-system-of-record-to-system-of-
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_id: cluster-2026-09-24-7cfc90ecd4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Startup Corner: Matterbee moves PMS from “system of record to system of action”

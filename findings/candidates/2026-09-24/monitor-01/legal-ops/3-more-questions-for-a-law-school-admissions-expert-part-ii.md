@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-dca51527a1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 3-more-questions-for-a-law-school-admissions-expert-part-ii
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_id: cluster-2026-09-24-f993b16be7
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # 3 More Questions For A Law School Admissions Expert (Part II)

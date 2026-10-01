@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-25-ca9059cc2c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-biglaw-firms-that-strike-fear-in-the-hearts-of-opposing-counsel-20
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # The Biglaw Firms That Strike Fear In The Hearts Of Opposing Counsel (2027)

@@ -18,11 +18,11 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-b3035508ee
+cluster_id: cluster-2026-09-24-23ad325c9a
 cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # ILTACON News Round-Up Part 3, Documents, Data and AI: iManage, NetDocuments, Entegrata, Wolters Kluwer, Thomson Reuters, Clio, Avvoka

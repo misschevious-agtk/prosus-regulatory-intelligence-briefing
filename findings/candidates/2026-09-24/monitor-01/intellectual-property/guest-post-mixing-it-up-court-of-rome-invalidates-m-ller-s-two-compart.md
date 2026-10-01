@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-f23e370e41
-cluster_size: 13
-cluster_role: sibling
-cluster_canonical_slug: angry-birds-crash-into-bad-faith
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_id: cluster-2026-09-24-18a70fa76f
+cluster_size: 11
+cluster_role: canonical
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # [Guest post] Mixing it up: Court of Rome invalidates Müller’s two-compartment yoghurt pot 3D trade mark

@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-30-dac1f85fac
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_id: cluster-2026-09-29-582852ab9e
+cluster_size: 21
+cluster_role: sibling
+ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_canonical_slug: morning-docket-09-29-26
 ---
 
 # Senator Accuses Jack Smith Of Perjury Because Missouri Lawmaker Too Dumb To Know About The Iowa Hawkeyes

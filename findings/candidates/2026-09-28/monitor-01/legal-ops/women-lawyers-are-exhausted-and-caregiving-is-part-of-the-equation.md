@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-25-27d9b63232
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: women-lawyers-are-exhausted-and-caregiving-is-part-of-the-equation
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Women Lawyers Are Exhausted, And Caregiving Is Part Of The Equation

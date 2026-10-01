@@ -18,9 +18,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-09-30-f90b0efea3
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # DOJ’s Newest Brain Drain Fix Is Borrowing Marines For An Immigration Surge That Might Be Coming To A City Near You

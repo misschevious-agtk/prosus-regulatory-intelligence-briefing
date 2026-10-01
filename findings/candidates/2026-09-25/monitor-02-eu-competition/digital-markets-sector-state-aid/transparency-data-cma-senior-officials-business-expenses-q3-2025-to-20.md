@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-25-d14c4b6878
 cluster_size: 48
 cluster_role: canonical
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Transparency data: CMA: senior officials' business expenses, Q3 2025 to 2026

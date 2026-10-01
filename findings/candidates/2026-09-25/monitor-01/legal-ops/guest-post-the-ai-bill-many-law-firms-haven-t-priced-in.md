@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-24-1166d36152
-cluster_size: 214
+cluster_size: 221
 cluster_role: sibling
 cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Guest post: The AI bill many law firms haven’t priced in

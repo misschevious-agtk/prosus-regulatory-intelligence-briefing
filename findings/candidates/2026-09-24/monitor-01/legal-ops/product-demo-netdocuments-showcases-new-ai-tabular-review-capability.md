@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-1aef1675cc
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: product-demo-netdocuments-showcases-new-ai-tabular-review-capability
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_id: cluster-2026-09-24-34db334078
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Product demo: NetDocuments showcases new AI Tabular Review capability

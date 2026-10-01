@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-92db9ebf85
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: former-trump-attorney-alleges-misconduct-in-prosecution-of-tom-goldste
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_id: cluster-2026-09-24-09f5103fd2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Former Trump Attorney Alleges Misconduct In Prosecution Of Tom Goldstein

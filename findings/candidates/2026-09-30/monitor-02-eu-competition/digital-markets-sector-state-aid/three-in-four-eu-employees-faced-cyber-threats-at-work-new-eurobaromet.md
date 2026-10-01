@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-30-4291d28a0f
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Three in four EU employees faced cyber threats at work, new Eurobarometer finds

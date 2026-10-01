@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-24-4c229c5d95
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Weil’s Revolving Door Now Spins In Both Directions

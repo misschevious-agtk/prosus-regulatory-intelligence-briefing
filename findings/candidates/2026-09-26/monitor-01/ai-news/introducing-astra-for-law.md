@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-23-384f2f4a95
-cluster_size: 27
+cluster_id: cluster-2026-09-24-af50b4a6c1
+cluster_size: 31
 cluster_role: sibling
 cluster_canonical_slug: last-week-came-openai-s-launch-into-legal-now-come-the-litany-of-vendo
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Introducing Astra for Law

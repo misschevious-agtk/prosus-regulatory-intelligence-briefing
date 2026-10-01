@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-9b0ce35874
-cluster_size: 3
+cluster_id: cluster-2026-09-24-2f68ec9080
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: why-we-only-use-ai-for-marketing-is-still-a-bar-complaint-waiting-to-h
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Why ‘We Only Use AI For Marketing’ Is Still A Bar Complaint Waiting To Happen

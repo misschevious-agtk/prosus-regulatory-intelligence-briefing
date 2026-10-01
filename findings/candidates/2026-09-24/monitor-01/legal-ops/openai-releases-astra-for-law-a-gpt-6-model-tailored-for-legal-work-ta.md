@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-23-3f05ce98c4
-cluster_size: 17
+cluster_id: cluster-2026-09-24-962a6cdfec
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: yesterday-came-openai-s-launch-into-legal-now-come-the-litany-of-vendo
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors

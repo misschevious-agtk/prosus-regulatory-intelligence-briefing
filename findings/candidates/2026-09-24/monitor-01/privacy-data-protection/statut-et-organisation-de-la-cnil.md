@@ -18,9 +18,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-09-24-43a5988aa4
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-09-30T13:24:03+00:00'
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Statut et organisation de la CNIL

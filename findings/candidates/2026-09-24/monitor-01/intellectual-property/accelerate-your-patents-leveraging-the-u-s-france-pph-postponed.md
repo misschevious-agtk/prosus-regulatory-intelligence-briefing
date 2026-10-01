@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-23-a2555990f9
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: accelerate-your-patents-leveraging-the-u-s-france-pph-postponed
-ranked_at: '2026-09-30T13:24:03+00:00'
+cluster_id: cluster-2026-09-24-799e2b05bf
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-10-01T14:14:10+00:00'
 ---
 
 # Accelerate your patents: Leveraging the U.S.–France PPH-POSTPONED

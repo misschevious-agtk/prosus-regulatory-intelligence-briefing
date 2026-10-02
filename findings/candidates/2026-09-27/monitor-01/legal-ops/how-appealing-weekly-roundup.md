@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-26-c7ab7e8be1
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-appealing-weekly-roundup
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # How Appealing Weekly Roundup

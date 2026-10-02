@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-27bb274673
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: perplexity-trusts-gpt-6-astra-with-end-to-end-systems
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_id: cluster-2026-09-25-5c4118e4fe
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Perplexity trusts GPT-6 Astra with end-to-end systems

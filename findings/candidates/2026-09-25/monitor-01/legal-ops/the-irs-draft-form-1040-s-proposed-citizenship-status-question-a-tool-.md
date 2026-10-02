@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-56deb9d353
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-irs-draft-form-1040-s-proposed-citizenship-status-question-a-tool-
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_id: cluster-2026-09-25-4380a49105
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # The IRS Draft Form 1040’s Proposed Citizenship Status Question: A Tool For Tax Compliance Or Immigration Enforcement?

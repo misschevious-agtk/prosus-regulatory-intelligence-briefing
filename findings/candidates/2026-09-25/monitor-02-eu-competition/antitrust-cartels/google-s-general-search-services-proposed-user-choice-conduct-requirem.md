@@ -23,11 +23,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-24-05b75def77
-cluster_size: 163
-cluster_role: sibling
-cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_id: cluster-2026-09-25-1ed4f02a8b
+cluster_size: 123
+cluster_role: canonical
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Google’s general search services: proposed user choice conduct requirement

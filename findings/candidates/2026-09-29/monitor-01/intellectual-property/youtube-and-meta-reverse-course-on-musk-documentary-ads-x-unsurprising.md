@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-29-9bb4193134
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # YouTube And Meta Reverse Course On Musk Documentary Ads. X, Unsurprisingly, Does Not.

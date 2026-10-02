@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-24-42ddf1bfaf
-cluster_size: 150
+cluster_id: cluster-2026-09-25-5a12fcca93
+cluster_size: 154
 cluster_role: sibling
 cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # USPTO events for the weeks of Sept. 28- Oct. 9

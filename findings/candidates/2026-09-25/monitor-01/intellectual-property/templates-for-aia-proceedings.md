@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-e9f7614ac9
-cluster_size: 17
+cluster_id: cluster-2026-09-25-29ad794c65
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: ptab-announces-two-new-aia-templates
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Templates for AIA proceedings

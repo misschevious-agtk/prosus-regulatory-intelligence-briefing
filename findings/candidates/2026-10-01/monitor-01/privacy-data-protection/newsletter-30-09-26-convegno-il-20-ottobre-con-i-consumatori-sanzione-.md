@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-09-24-a70d4acaad
-cluster_size: 80
+cluster_id: cluster-2026-09-25-1df9d0be8d
+cluster_size: 81
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # NEWSLETTER 30/09/26 - Convegno il 20 ottobre con i consumatori - Sanzione di 39mila euro a società di vigilanza di Bologna - Più tutele per rider e lavoratori gestiti da piattaforme digitali - Recupero crediti: online la versione aggiornata del vademecum - Videosorveglianza, sanzionato l’Istituto Nazionale di Ricerca Metrologica - Il ruolo del RPD al centro del nuovo episodio del podcast

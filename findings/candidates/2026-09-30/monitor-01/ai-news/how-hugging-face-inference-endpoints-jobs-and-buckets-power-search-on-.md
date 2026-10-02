@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-1166d36152
-cluster_size: 221
+cluster_id: cluster-2026-09-25-f0ec236fd9
+cluster_size: 212
 cluster_role: sibling
-cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_canonical_slug: guest-post-the-ai-bill-many-law-firms-haven-t-priced-in
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code

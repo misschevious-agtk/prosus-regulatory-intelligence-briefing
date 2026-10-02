@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-29-86c2106b05
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: discours-de-la-commissaire-lahbib-au-parlement-f-d-ral-belge
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Discours de la Commissaire Lahbib au Parlement fédéral Belge

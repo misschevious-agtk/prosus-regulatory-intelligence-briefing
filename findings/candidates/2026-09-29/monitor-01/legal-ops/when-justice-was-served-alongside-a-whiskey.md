@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-26-13872792fd
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: when-justice-was-served-alongside-a-whiskey
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # When Justice Was Served Alongside A Whiskey

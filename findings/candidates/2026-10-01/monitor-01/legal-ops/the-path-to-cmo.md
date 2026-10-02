@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-30-70ade9ae54
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-path-to-cmo
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # The Path To CMO

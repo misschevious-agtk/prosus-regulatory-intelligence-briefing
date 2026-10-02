@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-504bd9c35f
-cluster_size: 16
+cluster_id: cluster-2026-09-25-4f684aa3d4
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: 24-days-late-not-six-months-the-missing-judgment-in-heidary-v-amazon
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Before Lowell: The Patent System’s Early Rejection of Moral Judgment

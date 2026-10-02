@@ -19,11 +19,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-298/23
-cluster_id: cluster-2026-09-24-18a70fa76f
+cluster_id: cluster-2026-10-02-841b869945
 cluster_size: 11
 cluster_role: sibling
-cluster_canonical_slug: guest-post-mixing-it-up-court-of-rome-invalidates-m-ller-s-two-compart
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_canonical_slug: more-colours-same-problem-olymp-loses-eu-trade-mark-appeals
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Some assembly required: The CJEU on balancing trade mark rights and freedom of expression in Inter IKEA Systems

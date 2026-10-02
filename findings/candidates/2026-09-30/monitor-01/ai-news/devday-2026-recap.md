@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-24-1166d36152
-cluster_size: 221
+cluster_id: cluster-2026-09-25-6f1172d1bc
+cluster_size: 25
 cluster_role: sibling
-cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_canonical_slug: airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # DevDay 2026 Recap

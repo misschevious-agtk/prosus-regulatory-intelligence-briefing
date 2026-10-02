@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-25-d113ed4079
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: 8am-kaleidoscope-and-changes-will-8am-stay-focused
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # 8am, Kaleidoscope, And Changes: Will 8am Stay Focused?

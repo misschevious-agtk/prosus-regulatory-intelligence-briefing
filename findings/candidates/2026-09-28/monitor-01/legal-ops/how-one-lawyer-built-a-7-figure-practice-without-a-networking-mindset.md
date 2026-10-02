@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-25-40278f3bdb
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-one-lawyer-built-a-7-figure-practice-without-a-networking-mindset
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # How One Lawyer Built A 7-Figure Practice Without A ‘Networking’ Mindset

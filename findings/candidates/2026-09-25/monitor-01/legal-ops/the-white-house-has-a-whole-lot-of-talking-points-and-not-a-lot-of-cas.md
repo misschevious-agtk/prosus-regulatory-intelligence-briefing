@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-2da49f7761
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: the-first-and-last-time-the-supreme-court-acted-as-a-trial-court
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_id: cluster-2026-09-25-64feaaa283
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # The White House Has A Whole Lot Of Talking Points And Not A Lot Of Case Law

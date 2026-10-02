@@ -20,10 +20,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-26-980efd54a6
-cluster_size: 8
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: openai-accuses-plaintiffs-lawyers-of-paying-for-hiding-and-then-launde
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # OpenAI Accuses Plaintiffs’ Lawyers Of Paying For, Hiding, And Then Laundering Sketchy Key Evidence In AI Copyright Case

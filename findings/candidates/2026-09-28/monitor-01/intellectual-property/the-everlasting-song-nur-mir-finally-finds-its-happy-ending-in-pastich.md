@@ -18,9 +18,9 @@ entities:
   matched_alias: CJEU
 case_numbers: []
 cluster_id: cluster-2026-09-28-2e3924634a
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # The everlasting song: Nur mir finally finds its happy ending in pastiche

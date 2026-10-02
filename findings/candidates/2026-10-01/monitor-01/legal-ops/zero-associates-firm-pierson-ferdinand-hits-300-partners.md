@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-30-41be17d631
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: zero-associates-firm-pierson-ferdinand-hits-300-partners
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # ‘Zero Associates’ Firm Pierson Ferdinand Hits 300 Partners

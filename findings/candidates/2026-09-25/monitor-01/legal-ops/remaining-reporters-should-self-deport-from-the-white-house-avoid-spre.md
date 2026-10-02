@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-63f7a5f5ef
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: remaining-reporters-should-self-deport-from-the-white-house-avoid-spre
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_id: cluster-2026-09-25-f454be1f27
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Remaining Reporters Should Self-Deport From The White House, Avoid Spreading More Trump Lies

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-25fdf05858
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: is-legal-business-development-really-just-dating-for-professionals
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_id: cluster-2026-09-25-67aaf82d08
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Is Legal Business Development Really Just Dating For Professionals?

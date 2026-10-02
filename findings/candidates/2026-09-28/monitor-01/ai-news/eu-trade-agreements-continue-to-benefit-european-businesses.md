@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-28-d29d52bccb
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eu-trade-agreements-continue-to-benefit-european-businesses
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # EU trade agreements continue to benefit European businesses

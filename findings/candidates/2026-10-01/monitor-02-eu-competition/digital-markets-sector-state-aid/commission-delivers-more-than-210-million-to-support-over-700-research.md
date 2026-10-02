@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-25-34323aed92
 cluster_size: 150
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-luxembourg-s-third-payment-request-for-92-2-mil
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Commission delivers more than €210 million to support over 700 researchers to build their careers in Europe

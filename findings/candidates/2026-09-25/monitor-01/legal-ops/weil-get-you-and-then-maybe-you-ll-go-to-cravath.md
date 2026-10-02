@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-d82e2876fc
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: weil-get-you-and-then-maybe-you-ll-go-to-cravath
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_id: cluster-2026-09-25-1601078a17
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Weil Get You And… Then Maybe You’ll Go To Cravath

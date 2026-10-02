@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-28-57ec5456c1
-cluster_size: 108
+cluster_size: 132
 cluster_role: sibling
 cluster_canonical_slug: autotrader-consumer-protection-enforcement-case
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # The Brink’s Company / NCR Atleos Corporation merger inquiry

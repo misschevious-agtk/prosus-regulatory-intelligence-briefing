@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-24-86b4c3fb51
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: everlaw-supplying-technology-to-investigative-journalists-to-help-root
-ranked_at: '2026-10-01T14:14:10+00:00'
+cluster_id: cluster-2026-09-25-d0b5f43c33
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Everlaw Supplying Technology To Investigative Journalists To Help Root Out Corruption

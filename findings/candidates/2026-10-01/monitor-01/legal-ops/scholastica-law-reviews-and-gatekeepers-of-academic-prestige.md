@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-30-1e44616a78
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: scholastica-law-reviews-and-gatekeepers-of-academic-prestige
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Scholastica, Law Reviews, And Gatekeepers Of Academic Prestige

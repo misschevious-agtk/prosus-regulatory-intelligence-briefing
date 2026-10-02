@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-26-44e07d3f90
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: schema-markup-2026-the-hidden-seo-boost-for-lawyers
-ranked_at: '2026-10-01T14:14:10+00:00'
+ranked_at: '2026-10-02T13:37:27+00:00'
 ---
 
 # Schema Markup 2026: The Hidden SEO Boost For Lawyers

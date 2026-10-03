@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-25-5a12fcca93
-cluster_size: 154
+cluster_id: cluster-2026-09-26-46a73dd490
+cluster_size: 158
 cluster_role: sibling
 cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Patent Public Search (PPUBS) Maintenance

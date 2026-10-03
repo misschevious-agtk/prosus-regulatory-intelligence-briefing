@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-25-2ebc8a0a1a
-cluster_size: 4
+cluster_id: cluster-2026-09-26-92b457eb4b
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: akerman-launches-new-data-services-division
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Akerman launches new data services division

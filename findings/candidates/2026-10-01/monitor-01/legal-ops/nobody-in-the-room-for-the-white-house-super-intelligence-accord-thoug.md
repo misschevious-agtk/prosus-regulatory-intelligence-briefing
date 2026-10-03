@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-01-d2a168b1a0
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Nobody In The Room For The White House Super Intelligence Accord Thought To Proofread It

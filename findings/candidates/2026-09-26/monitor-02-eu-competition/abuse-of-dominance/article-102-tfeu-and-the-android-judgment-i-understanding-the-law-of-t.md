@@ -24,11 +24,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-25-88dda005bf
+cluster_id: cluster-2026-09-26-a950a20a7b
 cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: article-102-tfeu-and-the-android-judgment-i-understanding-the-law-of-t
-ranked_at: '2026-10-02T13:37:27+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Article 102 TFEU and the Android judgment (I): understanding the law of the exceptional (and the exceptional within the exceptional)

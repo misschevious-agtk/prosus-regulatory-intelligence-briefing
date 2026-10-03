@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-26-5300923a71
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: if-you-can-imagine-it-the-supreme-court-used-to-be-even-more-political
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # If You Can Imagine It, The Supreme Court Used To Be Even More Political

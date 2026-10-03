@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-25-89dab0f08c
-cluster_size: 9
-cluster_role: sibling
-cluster_canonical_slug: cma-fines-construction-firm-and-staff-for-concealing-evidence-during-i
-ranked_at: '2026-10-02T13:37:27+00:00'
+cluster_id: cluster-2026-09-26-4cfcd4d063
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # CMA fines construction firm and staff for concealing evidence during inspection

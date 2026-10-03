@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-25-34323aed92
-cluster_size: 150
+cluster_id: cluster-2026-09-26-bd2f300770
+cluster_size: 149
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-luxembourg-s-third-payment-request-for-92-2-mil
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Commission greenlights France's final payment request of €6.1 billion under NextGenerationEU

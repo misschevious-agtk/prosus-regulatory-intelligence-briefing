@@ -18,11 +18,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-09-25-1df9d0be8d
-cluster_size: 81
+cluster_id: cluster-2026-09-26-7e90426508
+cluster_size: 82
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # NEWSLETTER del 16 luglio 2026 - Data breach, il Garante privacy sanziona Wind Tre per 1,7 milioni di euro - Recupero crediti: il Garante sanziona due società per 50mila e 30mila euro - Garante a Enel Energia: il cliente può avere accesso all’audio delle conversazioni - Dai Garanti europei le linee guida su anonimizzazione, web scraping e blockchain

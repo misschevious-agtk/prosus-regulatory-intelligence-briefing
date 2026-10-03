@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-26-97e5bf2fab
 cluster_size: 35
 cluster_role: sibling
 cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 10 septembre 2026

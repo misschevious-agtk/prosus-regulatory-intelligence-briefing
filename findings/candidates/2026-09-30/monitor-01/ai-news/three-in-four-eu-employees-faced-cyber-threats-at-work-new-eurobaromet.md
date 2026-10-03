@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-30-4291d28a0f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: three-in-four-eu-employees-faced-cyber-threats-at-work-new-eurobaromet
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Three in four EU employees faced cyber threats at work, new Eurobarometer finds

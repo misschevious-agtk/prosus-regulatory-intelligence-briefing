@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-25-f0ec236fd9
-cluster_size: 212
+cluster_id: cluster-2026-09-26-c98309f7fc
+cluster_size: 203
 cluster_role: sibling
-cluster_canonical_slug: guest-post-the-ai-bill-many-law-firms-haven-t-priced-in
-ranked_at: '2026-10-02T13:37:27+00:00'
+cluster_canonical_slug: webinar-beyond-the-bill-visibility-platforms-and-the-ai-opportunity
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # FT Innovative Lawyers Awards for Europe 2026: AI accelerates the pace of change

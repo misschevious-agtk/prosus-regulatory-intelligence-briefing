@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-25-f25c68bf65
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: what-s-in-your-lane
-ranked_at: '2026-10-02T13:37:27+00:00'
+cluster_id: cluster-2026-09-26-bf3eff7bf0
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # What’s In Your Lane?

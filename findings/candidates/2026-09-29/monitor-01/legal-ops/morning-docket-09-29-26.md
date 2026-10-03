@@ -23,9 +23,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-29-582852ab9e
-cluster_size: 86
+cluster_size: 95
 cluster_role: canonical
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Morning Docket: 09.29.26

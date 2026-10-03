@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-25-f0d4361de4
+cluster_id: cluster-2026-09-26-caaf983910
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: sam-altman-s-remarks-at-the-united-nations-security-council
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Sam Altman’s remarks at the United Nations Security Council

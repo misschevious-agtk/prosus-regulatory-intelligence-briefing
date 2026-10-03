@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-30-784153acb9
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Guest post: Richard Susskind revisits The Future of Law – What if AGI?

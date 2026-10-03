@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-28-e594d31b00
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: harvey-launches-its-first-ever-tv-commercials
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Harvey Launches Its First Ever TV Commercials

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-09-28-2d6109651c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: commission-launches-eu-screening-week-with-new-recommendations-on-card
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Commission launches EU Screening Week with new recommendations on cardiovascular health checks

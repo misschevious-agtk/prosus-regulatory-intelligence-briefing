@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-25-64feaaa283
-cluster_size: 4
+cluster_id: cluster-2026-09-26-0c45638842
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: the-white-house-has-a-whole-lot-of-talking-points-and-not-a-lot-of-cas
-ranked_at: '2026-10-02T13:37:27+00:00'
+cluster_canonical_slug: over-150-supreme-court-arguments-a-senate-seat-and-a-jury-of-the-damne
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Over 150 Supreme Court Arguments, A Senate Seat, And A Jury Of The Damned

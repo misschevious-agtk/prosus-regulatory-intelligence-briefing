@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-25-2c4598ba1c
-cluster_size: 39
+cluster_id: cluster-2026-09-26-34efeef151
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # ILTACON News Round-Up Part 2, Litigation: LawToolBox, Opus 2, Clarra, Eve

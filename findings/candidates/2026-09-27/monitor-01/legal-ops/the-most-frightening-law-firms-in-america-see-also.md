@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-25-ca9059cc2c
-cluster_size: 8
+cluster_id: cluster-2026-09-26-9b5bd088c5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: the-biglaw-firms-that-strike-fear-in-the-hearts-of-opposing-counsel-20
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # The Most Frightening Law Firms In America — See Also

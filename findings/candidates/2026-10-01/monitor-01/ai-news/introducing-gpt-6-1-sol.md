@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-25-6f1172d1bc
-cluster_size: 25
+cluster_id: cluster-2026-09-26-443f2876b0
+cluster_size: 27
 cluster_role: sibling
 cluster_canonical_slug: airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Introducing GPT-6.1 Sol

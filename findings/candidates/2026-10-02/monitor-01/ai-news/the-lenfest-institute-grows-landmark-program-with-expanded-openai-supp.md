@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-09-29-4332128d3e
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-lenfest-institute-grows-landmark-program-with-expanded-openai-supp
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # The Lenfest Institute grows landmark program with expanded OpenAI support

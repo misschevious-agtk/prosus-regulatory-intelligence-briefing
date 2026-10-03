@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-25-e7b64bb505
-cluster_size: 25
+cluster_id: cluster-2026-09-26-d58c7823d8
+cluster_size: 28
 cluster_role: sibling
 cluster_canonical_slug: two-s-company-three-s-a-crowd-the-general-court-rejects-opera-s-appeal
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # Without Fear or Favour: The European Commission’s DMA Non-Compliance Decision Against Google’s Self-Preferencing (Case DMA.100193)

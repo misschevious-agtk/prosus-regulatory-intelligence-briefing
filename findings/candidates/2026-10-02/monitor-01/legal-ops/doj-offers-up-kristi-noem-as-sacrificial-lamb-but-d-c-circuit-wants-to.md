@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-01-ad0596b853
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: doj-offers-up-kristi-noem-as-sacrificial-lamb-but-d-c-circuit-wants-to
-ranked_at: '2026-10-02T13:37:27+00:00'
+ranked_at: '2026-10-03T12:16:11+00:00'
 ---
 
 # DOJ Offers Up Kristi Noem As ‘Sacrificial Lamb’ But D.C. Circuit Wants To Know Who Else Was In The Room

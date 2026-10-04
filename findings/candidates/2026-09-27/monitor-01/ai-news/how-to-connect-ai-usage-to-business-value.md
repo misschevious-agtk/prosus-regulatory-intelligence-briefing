@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-9c5ee77a20
-cluster_size: 11
+cluster_id: cluster-2026-09-27-ec984fe790
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # How to connect AI usage to business value

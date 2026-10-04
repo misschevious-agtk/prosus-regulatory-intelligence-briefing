@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-26-c98309f7fc
-cluster_size: 203
-cluster_role: sibling
-cluster_canonical_slug: webinar-beyond-the-bill-visibility-platforms-and-the-ai-opportunity
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-026094b886
+cluster_size: 178
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Helping older adults use AI in everyday life

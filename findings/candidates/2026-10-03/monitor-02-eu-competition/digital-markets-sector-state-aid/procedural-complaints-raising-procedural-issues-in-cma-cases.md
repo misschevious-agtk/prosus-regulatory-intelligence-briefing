@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-30-39be124e7f
-cluster_size: 12
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: procedural-complaints-raising-procedural-issues-in-cma-cases
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Procedural complaints: raising procedural issues in CMA cases

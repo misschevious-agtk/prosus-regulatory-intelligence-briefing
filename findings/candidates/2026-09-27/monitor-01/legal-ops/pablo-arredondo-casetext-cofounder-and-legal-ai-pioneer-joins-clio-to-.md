@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-421defe401
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-f30e6582f9
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Pablo Arredondo, Casetext Cofounder and Legal AI Pioneer, Joins Clio to Lead Its Expansion into the Judiciary

@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-46a73dd490
-cluster_size: 158
+cluster_id: cluster-2026-09-27-8cb605f6d7
+cluster_size: 161
 cluster_role: sibling
 cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Statement by Director Squires before the United States Senate Subcommittee on Intellectual Property Committee on the Judiciary

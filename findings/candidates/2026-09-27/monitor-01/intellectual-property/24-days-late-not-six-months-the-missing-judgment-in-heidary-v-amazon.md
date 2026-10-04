@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-5e14ea51bf
-cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: 24-days-late-not-six-months-the-missing-judgment-in-heidary-v-amazon
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-c9c6901ea4
+cluster_size: 13
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # 24 Days Late, Not Six Months: The Missing Judgment in Heidary v. Amazon

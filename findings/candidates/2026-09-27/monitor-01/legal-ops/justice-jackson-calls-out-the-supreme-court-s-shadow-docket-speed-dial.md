@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-cdffce1286
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: justice-jackson-calls-out-the-supreme-court-s-shadow-docket-speed-dial
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-a79b3e8116
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Justice Jackson Calls Out The Supreme Court’s Shadow Docket ‘Speed Dial’ For Favored Litigants

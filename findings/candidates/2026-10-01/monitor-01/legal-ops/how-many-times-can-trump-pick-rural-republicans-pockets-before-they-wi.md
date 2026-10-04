@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-01-56ffd9e99c
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # How Many Times Can Trump Pick Rural Republicans’ Pockets Before They Wise Up?

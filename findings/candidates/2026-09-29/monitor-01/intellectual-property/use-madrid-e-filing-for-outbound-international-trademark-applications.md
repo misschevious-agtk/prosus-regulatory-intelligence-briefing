@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-29-187df5af77
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Use Madrid e-Filing for outbound international trademark applications

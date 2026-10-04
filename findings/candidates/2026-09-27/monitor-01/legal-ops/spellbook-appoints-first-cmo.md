@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-2e13128a8f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: spellbook-appoints-first-cmo
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-55e9005e78
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Spellbook appoints first CMO

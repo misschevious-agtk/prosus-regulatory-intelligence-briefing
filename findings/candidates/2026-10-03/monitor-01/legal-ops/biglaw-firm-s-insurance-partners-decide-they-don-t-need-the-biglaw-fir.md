@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-02-adf88be986
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: biglaw-firm-s-insurance-partners-decide-they-don-t-need-the-biglaw-fir
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Biglaw Firm’s Insurance Partners Decide They Don’t Need The Biglaw Firm

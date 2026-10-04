@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-65c1e92843
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: trump-easily-loses-his-censorial-slapp-suit-over-a-poll-predicting-he-
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-f34e218556
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Trump Easily Loses His Censorial SLAPP Suit Over A Poll Predicting He Might Lose

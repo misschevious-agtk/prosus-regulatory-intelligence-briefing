@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-3b0a922bee
-cluster_size: 4
+cluster_id: cluster-2026-09-27-d0956c4019
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: exclusive-spacex-given-unique-access-to-classified-dod-space-tracking-
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # EXCLUSIVE: SpaceX Given Unique Access To Classified DoD Space Tracking Data, Sources Say

@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-10-01-009b8f7ade
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: disrupting-a-coordinated-model-distillation-campaign
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Disrupting a coordinated model-distillation campaign

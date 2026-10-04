@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-e6e2e27909
-cluster_size: 8
+cluster_id: cluster-2026-09-27-b2863ac1ea
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: the-biglaw-firms-where-young-lawyers-basically-live-at-the-office
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # The Biglaw Firms Where Young Lawyers Basically Live At The Office

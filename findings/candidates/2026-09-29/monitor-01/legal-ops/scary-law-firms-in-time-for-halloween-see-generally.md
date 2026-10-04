@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-28-a4b75cd0ca
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: scary-law-firms-in-time-for-halloween-see-generally
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Scary Law Firms In Time For Halloween — See Generally

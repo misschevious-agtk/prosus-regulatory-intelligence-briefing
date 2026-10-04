@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-02-b29a70d726
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: dla-piper-is-defending-the-paywall-on-trump-s-presidency
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Biglaw Firm Goes From Calling Trump ‘Unfit’ To Turning Him Into A Client — See Also

@@ -20,10 +20,10 @@ entities:
   matched_alias: UPC
 case_numbers: []
 cluster_id: cluster-2026-09-29-582852ab9e
-cluster_size: 95
+cluster_size: 104
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-09-29-26
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Patent Litigation Europe returns to Amsterdam with IPKat readers’ discount

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-09-26-38cd2e5cee
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: paul-weiss-is-the-latest-firm-to-shop-at-weil-see-also
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-c0a03d7ada
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Paul, Weiss Is The Latest Firm To Shop At Weil — See Also

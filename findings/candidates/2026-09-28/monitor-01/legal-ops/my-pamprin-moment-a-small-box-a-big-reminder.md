@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-d3ba271047
-cluster_size: 3
+cluster_id: cluster-2026-09-27-e0d3dc6ebd
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: my-pamprin-moment-a-small-box-a-big-reminder
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # My Pamprin Moment: A Small Box, A Big Reminder

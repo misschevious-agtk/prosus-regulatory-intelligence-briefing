@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-0c45638842
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: over-150-supreme-court-arguments-a-senate-seat-and-a-jury-of-the-damne
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-6aee54d397
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Over 150 Supreme Court Arguments, A Senate Seat, And A Jury Of The Damned

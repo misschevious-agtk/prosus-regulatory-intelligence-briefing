@@ -22,7 +22,7 @@ cluster_id: cluster-2026-09-30-0bcb1d6ade
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: dc-circuit-panel-upholds-pentagon-s-ban-on-anthropic-so-what-comes-nex
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # DC Circuit Panel Upholds Pentagon’s Ban On Anthropic – So What Comes Next?

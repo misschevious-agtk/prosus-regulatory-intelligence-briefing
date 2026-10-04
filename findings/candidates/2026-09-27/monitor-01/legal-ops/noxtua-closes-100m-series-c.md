@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-26d8f1cc83
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: noxtua-closes-100m-series-c
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-1a95a9fde0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Noxtua closes €100m Series C

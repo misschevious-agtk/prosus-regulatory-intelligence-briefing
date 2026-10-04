@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-0cce96ad05
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: cryptomathic-adopts-luminance-to-broaden-access-to-contract-intelligen
-ranked_at: '2026-10-03T12:16:11+00:00'
+cluster_id: cluster-2026-09-27-f7e82352d3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Cryptomathic adopts Luminance to broaden access to contract intelligence

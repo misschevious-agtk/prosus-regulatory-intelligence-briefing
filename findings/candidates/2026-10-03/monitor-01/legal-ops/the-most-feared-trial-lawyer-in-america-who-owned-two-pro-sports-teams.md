@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-02-d65d58b177
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-most-feared-trial-lawyer-in-america-who-owned-two-pro-sports-teams
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # The Most Feared Trial Lawyer In America Who Owned Two Pro Sports Teams

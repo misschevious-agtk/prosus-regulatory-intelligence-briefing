@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-5dd210590a
+cluster_id: cluster-2026-09-27-9ba74502c7
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: harvey-raises-another-550m-at-a-15-5b-valuation
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Harvey Raises Another $550M At A $15.5B Valuation

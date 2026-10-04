@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-26-c98309f7fc
-cluster_size: 203
+cluster_id: cluster-2026-09-27-3c553d28bb
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: webinar-beyond-the-bill-visibility-platforms-and-the-ai-opportunity
-ranked_at: '2026-10-03T12:16:11+00:00'
+ranked_at: '2026-10-04T13:06:38+00:00'
 ---
 
 # Biglaw’s Latest AI Strategy: Teach Lawyers How To Be Human

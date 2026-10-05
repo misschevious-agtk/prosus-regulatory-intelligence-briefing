@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-09-27-8135c88827
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: dc-circuit-ok-s-hegseth-s-abuse-of-a-crummy-statute-to-punish-ai-vendo
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-18f2217db3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # DC Circuit OK’s Hegseth’s Abuse Of A Crummy Statute To Punish AI Vendors Who Won’t Give Him The Deadly Toys He Wants

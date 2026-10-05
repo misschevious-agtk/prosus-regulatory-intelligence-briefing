@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-29-582852ab9e
-cluster_size: 104
+cluster_size: 113
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-09-29-26
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

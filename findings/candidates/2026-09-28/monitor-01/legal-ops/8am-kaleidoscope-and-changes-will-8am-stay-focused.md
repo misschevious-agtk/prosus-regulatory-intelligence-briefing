@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-de13a4087c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 8am-kaleidoscope-and-changes-will-8am-stay-focused
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-371b7611b6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # 8am, Kaleidoscope, And Changes: Will 8am Stay Focused?

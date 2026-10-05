@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-b67c04a749
-cluster_size: 4
+cluster_id: cluster-2026-09-28-2c4006a4aa
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: on-lawnext-why-legal-ai-pioneer-pablo-arredondo-is-joining-clio-to-bui
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # On LawNext: Why Legal AI Pioneer Pablo Arredondo Is Joining Clio to Build Technology for the Courts

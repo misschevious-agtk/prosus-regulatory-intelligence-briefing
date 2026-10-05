@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-dbde4525dc
+cluster_id: cluster-2026-09-28-d1eafc33ce
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: relativityone-gets-a-new-name-to-reflect-its-increasing-capabilities-a
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # RelativityOne Gets A New Name To Reflect Its Increasing Capabilities Around AI and Data

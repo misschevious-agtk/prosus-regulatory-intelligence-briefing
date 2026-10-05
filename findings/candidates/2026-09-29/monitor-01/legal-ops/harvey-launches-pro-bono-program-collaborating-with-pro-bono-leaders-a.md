@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-3f72268914
-cluster_size: 9
+cluster_id: cluster-2026-09-28-7e70814fcc
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: harvey-launches-pro-bono-program-collaborating-with-pro-bono-leaders-a
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Harvey Launches Pro Bono Program, Collaborating with Pro Bono Leaders At Major Firms

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-1011d81709
-cluster_size: 6
+cluster_id: cluster-2026-09-28-f87026c937
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-wait-is-over-biglaw-s-first-milbank-special-bonus-match-is-finally
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # The Wait Is Over: Biglaw’s First Milbank Special Bonus Match Is Finally Here

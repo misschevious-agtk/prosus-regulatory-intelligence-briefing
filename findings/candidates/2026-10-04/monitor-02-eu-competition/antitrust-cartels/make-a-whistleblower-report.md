@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-02-801d2ab3db
-cluster_size: 36
+cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: report-a-cartel-to-the-cma
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Make a whistleblower report

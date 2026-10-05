@@ -17,7 +17,7 @@ cluster_id: cluster-2026-09-29-78bd769188
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-former-federal-judge-went-from-three-emails-a-day-to-a-flooded-bi
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # This Former Federal Judge Went From Three Emails A Day To A Flooded Biglaw Inbox

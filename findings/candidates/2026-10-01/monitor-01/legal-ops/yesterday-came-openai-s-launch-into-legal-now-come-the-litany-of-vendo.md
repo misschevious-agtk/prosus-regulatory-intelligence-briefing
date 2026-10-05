@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-27-775d3c14df
+cluster_id: cluster-2026-09-28-2d374db748
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: yesterday-came-openai-s-launch-into-legal-now-come-the-litany-of-vendo
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Yesterday Came OpenAI’s Launch Into Legal, Now Come the Litany of Vendor Integrations

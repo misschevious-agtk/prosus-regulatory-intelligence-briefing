@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-27-8351c61394
-cluster_size: 148
+cluster_id: cluster-2026-09-29-e11d49f32e
+cluster_size: 142
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-luxembourg-s-third-payment-request-for-92-2-mil
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_canonical_slug: commission-greenlights-austria-s-final-payment-request-of-306-million-
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Remarks by Commissioner Brunner at the press conference on the European Union Critical Communication System

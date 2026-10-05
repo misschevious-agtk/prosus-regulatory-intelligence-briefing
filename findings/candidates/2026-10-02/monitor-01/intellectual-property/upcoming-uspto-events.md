@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-27-8cb605f6d7
-cluster_size: 161
+cluster_id: cluster-2026-09-28-f12a85ea5b
+cluster_size: 164
 cluster_role: sibling
 cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Upcoming USPTO events

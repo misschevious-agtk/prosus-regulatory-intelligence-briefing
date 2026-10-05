@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-27-d945967386
+cluster_id: cluster-2026-09-28-62f8206399
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: rces-are-rising-again-but-applicant-behavior-isn-t-the-main-cause
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # RCEs Are Rising Again: But Applicant Behavior Isn’t the Main Cause

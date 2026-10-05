@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-09-29-fc724274d0
-cluster_size: 18
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: suspected-anti-competitive-conduct-in-relation-to-fragrances-and-fragr
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Suspected anti-competitive conduct in relation to fragrances and fragrance ingredients (51257)

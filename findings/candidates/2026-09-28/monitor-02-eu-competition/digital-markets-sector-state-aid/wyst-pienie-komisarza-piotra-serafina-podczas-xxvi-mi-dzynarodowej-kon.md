@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-27-7335a54901
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: wyst-pienie-komisarza-piotra-serafina-podczas-xxvi-mi-dzynarodowej-kon
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-c39dcc8063
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Wystąpienie komisarza Piotra Serafina podczas XXVI Międzynarodowej Konferencji „Rola chrześcijan w procesie integracji europejskiej” pt. „Europa skazana na podział czy zjednoczenie?”

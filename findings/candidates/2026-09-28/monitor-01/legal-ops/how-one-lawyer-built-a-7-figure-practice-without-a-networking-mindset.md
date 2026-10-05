@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-c103ba5d43
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-one-lawyer-built-a-7-figure-practice-without-a-networking-mindset
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-16aed78ff9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # How One Lawyer Built A 7-Figure Practice Without A ‘Networking’ Mindset

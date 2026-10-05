@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-27-fe9278e1f2
-cluster_size: 54
+cluster_id: cluster-2026-09-28-d8737e686d
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_canonical_slug: correspondence-cma-response-to-consultation-on-swifter-and-simpler-com
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Correspondence: CMA response to consultation on swifter and simpler competition redress, regulatory appeals and competition enforcement

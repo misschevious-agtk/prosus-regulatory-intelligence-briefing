@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-388919edf2
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: schema-markup-2026-the-hidden-seo-boost-for-lawyers
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-7eb6145c53
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Schema Markup 2026: The Hidden SEO Boost For Lawyers

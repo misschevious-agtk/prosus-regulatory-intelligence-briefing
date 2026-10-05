@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-c8cfef5bec
-cluster_size: 9
-cluster_role: sibling
-cluster_canonical_slug: the-federal-circuit-expands-its-jurisdiction-yet-again
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-0ad9a61b1f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Morning Docket: 09.25.26

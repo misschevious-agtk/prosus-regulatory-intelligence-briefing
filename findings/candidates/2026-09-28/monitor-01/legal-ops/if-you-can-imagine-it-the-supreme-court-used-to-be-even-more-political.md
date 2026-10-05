@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-c6f86f35b7
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: if-you-can-imagine-it-the-supreme-court-used-to-be-even-more-political
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-b869afb68a
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # If You Can Imagine It, The Supreme Court Used To Be Even More Political

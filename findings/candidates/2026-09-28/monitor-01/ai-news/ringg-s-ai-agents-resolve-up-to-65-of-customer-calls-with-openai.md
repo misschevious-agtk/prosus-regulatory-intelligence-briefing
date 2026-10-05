@@ -23,11 +23,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-27-ec984fe790
-cluster_size: 10
-cluster_role: sibling
-cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-3f399c4cce
+cluster_size: 193
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Ringg’s AI agents resolve up to 65% of customer calls with OpenAI

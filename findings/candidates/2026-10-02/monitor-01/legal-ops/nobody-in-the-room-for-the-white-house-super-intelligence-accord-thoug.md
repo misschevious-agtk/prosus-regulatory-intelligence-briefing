@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-01-d2a168b1a0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: nobody-in-the-room-for-the-white-house-super-intelligence-accord-thoug
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Nobody In The Room For The White House Super Intelligence Accord Thought To Proofread It

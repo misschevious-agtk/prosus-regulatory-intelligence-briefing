@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-28-2d6109651c
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Commission launches EU Screening Week with new recommendations on cardiovascular health checks

@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-27-0b257b3398
+cluster_id: cluster-2026-09-28-467fd0d5eb
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-pr
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker

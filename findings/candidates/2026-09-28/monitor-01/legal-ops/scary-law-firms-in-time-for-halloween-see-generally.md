@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-28-a4b75cd0ca
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Scary Law Firms In Time For Halloween — See Generally

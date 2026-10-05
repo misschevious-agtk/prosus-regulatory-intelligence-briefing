@@ -18,9 +18,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-10-02-73b9c601e4
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Violations de données personnelles : dans quels cas peut-on être indemnisé ?

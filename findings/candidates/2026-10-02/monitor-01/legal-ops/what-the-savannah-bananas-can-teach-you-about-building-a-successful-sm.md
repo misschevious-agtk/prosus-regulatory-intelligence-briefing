@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-09-29-f28d7f5902
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: what-the-savannah-bananas-can-teach-you-about-building-a-successful-sm
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # What the Savannah Bananas Can Teach You About Building a Successful Small Law Firm

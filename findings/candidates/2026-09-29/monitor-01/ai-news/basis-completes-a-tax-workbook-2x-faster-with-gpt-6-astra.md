@@ -13,10 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-c07035a29f
-cluster_size: 29
+cluster_id: cluster-2026-09-28-6e7173aa24
+cluster_size: 31
 cluster_role: sibling
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 cluster_canonical_slug: airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models
 ---
 

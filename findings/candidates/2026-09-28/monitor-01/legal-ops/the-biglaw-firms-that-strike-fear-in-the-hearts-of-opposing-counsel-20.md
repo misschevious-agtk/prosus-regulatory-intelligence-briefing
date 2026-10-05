@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-82f28ab6ed
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: the-biglaw-firms-that-strike-fear-in-the-hearts-of-opposing-counsel-20
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-f934cdbb44
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # The Biglaw Firms That Strike Fear In The Hearts Of Opposing Counsel (2027)

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-01-4943a6fb64
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 6-ways-you-can-find-success-in-private-practice
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # 6 Ways You Can Find Success In Private Practice

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-27-f555703ecd
+cluster_id: cluster-2026-09-28-1e05d6b8b2
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: jonathan-spencer-appointed-to-role-of-chief-artificial-intelligence-of
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Jonathan Spencer appointed to role of Chief Artificial Intelligence Officer for the USPTO

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-02-8b63dcbe33
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: freedom-ai-and-security-are-law-firms-able-to-enable-innovation-withou
-ranked_at: '2026-10-04T13:06:38+00:00'
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Freedom, AI and security: Are law firms able to enable innovation without losing control?

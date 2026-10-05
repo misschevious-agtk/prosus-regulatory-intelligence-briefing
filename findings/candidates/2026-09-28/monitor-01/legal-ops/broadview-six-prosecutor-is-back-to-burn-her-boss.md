@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-48af3d29d8
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: broadview-six-prosecutor-is-back-to-burn-her-boss
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-84dc60f218
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # ‘Broadview Six’ Prosecutor Is Back To Burn Her Boss

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-27-dd5fb5e310
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: patent-docket-heading-into-the-supreme-court-s-long-conference
-ranked_at: '2026-10-04T13:06:38+00:00'
+cluster_id: cluster-2026-09-28-8f07aa4dd1
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-10-05T15:36:44+00:00'
 ---
 
 # Patent Docket Heading into the Supreme Court’s Long Conference

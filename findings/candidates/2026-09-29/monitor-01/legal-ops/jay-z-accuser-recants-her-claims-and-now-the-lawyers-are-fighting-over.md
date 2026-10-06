@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-29-952a256bc7
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Jay-Z Accuser Recants Her Claims, And Now The Lawyers Are Fighting Over Which Story To Believe

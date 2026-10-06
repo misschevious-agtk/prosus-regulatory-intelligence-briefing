@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-28-b7a20bf7b2
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-appealing-weekly-roundup
-ranked_at: '2026-10-05T15:36:44+00:00'
+cluster_id: cluster-2026-09-29-9583cc2314
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # How Appealing Weekly Roundup

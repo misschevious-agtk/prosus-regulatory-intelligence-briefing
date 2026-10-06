@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: Court of Justice
 case_numbers: []
-cluster_id: cluster-2026-09-28-d4994dd98c
+cluster_id: cluster-2026-09-29-d1cd4f3e43
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: what-lukoil-means-for-the-refusal-to-deal-doctrines
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # What Lukoil means for the refusal to deal doctrines

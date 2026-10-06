@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-28-4465feac21
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-has-officially-out-kinged-the-king-we-fought-a-revolution-to-get
-ranked_at: '2026-10-05T15:36:44+00:00'
+cluster_id: cluster-2026-09-29-babd45fb70
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Trump Has Officially Out-Kinged The King We Fought A Revolution To Get Rid Of

@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-09-29-e11d49f32e
-cluster_size: 142
+cluster_size: 148
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-austria-s-final-payment-request-of-306-million-
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Joint statement by the European Commission and Ukraine

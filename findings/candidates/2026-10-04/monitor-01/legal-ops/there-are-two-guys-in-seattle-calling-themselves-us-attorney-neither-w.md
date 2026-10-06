@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-03-029b939f61
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: there-are-two-guys-in-seattle-calling-themselves-us-attorney-neither-w
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # There Are Two Guys In Seattle Calling Themselves US Attorney. Neither Was Confirmed By Senate.

@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-29-86c2106b05
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Discours de la Commissaire Lahbib au Parlement fédéral Belge

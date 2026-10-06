@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-28-bce409de58
-cluster_size: 4
+cluster_id: cluster-2026-09-29-6c9e646be9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-biglaw-firms-where-young-lawyers-basically-live-at-the-office
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Clients Rarely Visit Their Lawyers’ Offices Anymore

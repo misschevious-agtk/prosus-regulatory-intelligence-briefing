@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-28-4a190854d8
-cluster_size: 15
+cluster_id: cluster-2026-09-29-1ad78b150f
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: transparency-data-cma-senior-officials-business-expenses-q3-2025-to-20
-ranked_at: '2026-10-05T15:36:44+00:00'
+cluster_canonical_slug: transparency-data-cma-workforce-management-information-august-2026
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Transparency data: CMA: workforce management information August 2026

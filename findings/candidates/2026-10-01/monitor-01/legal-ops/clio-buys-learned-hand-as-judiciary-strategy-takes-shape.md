@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-01-c0c79044e4
-cluster_size: 9
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Clio buys Learned Hand as judiciary strategy takes shape

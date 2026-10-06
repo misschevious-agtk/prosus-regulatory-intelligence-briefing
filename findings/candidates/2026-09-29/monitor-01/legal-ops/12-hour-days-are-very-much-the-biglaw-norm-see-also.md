@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-28-f87026c937
-cluster_size: 4
+cluster_id: cluster-2026-09-29-1247b16c19
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-wait-is-over-biglaw-s-first-milbank-special-bonus-match-is-finally
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # 12-Hour Days Are Very Much The Biglaw Norm — See Also

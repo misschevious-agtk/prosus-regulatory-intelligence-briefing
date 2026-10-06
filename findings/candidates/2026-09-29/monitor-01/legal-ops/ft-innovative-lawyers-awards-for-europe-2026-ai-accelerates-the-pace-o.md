@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-28-216bfca2a8
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: webinar-beyond-the-bill-visibility-platforms-and-the-ai-opportunity
-ranked_at: '2026-10-05T15:36:44+00:00'
+cluster_id: cluster-2026-09-29-86b8f1c491
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # FT Innovative Lawyers Awards for Europe 2026: AI accelerates the pace of change

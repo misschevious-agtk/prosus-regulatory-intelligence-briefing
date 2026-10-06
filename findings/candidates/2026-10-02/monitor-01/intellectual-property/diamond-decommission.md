@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-09-28-f12a85ea5b
-cluster_size: 164
+cluster_id: cluster-2026-09-29-3e2b0db49a
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-10-05T15:36:44+00:00'
+cluster_canonical_slug: diamond-decommission
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # DIAMOND Decommission

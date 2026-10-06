@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-29-fc724274d0
 cluster_size: 21
 cluster_role: canonical
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Suspected anti-competitive conduct in relation to fragrances and fragrance ingredients (51257)

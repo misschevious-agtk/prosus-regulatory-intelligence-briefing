@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-28-de2bac8ad3
-cluster_size: 3
+cluster_id: cluster-2026-09-29-4e7aaf9007
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: how-cooley-is-accelerating-ipo-work-with-chatgpt
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # How Cooley is accelerating IPO work with ChatGPT

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-28-6e7173aa24
-cluster_size: 31
+cluster_id: cluster-2026-09-29-af27add1eb
+cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # Basis completes a tax workbook 2x faster with GPT-6 Astra

@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-28-294a8dcba0
-cluster_size: 18
+cluster_id: cluster-2026-09-29-e3d80aa1de
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: macquarie-asset-management-energy-assets-group-merger-inquiry
-ranked_at: '2026-10-05T15:36:44+00:00'
+ranked_at: '2026-10-06T13:58:01+00:00'
 ---
 
 # How to engage with the CMA’s childcare market study

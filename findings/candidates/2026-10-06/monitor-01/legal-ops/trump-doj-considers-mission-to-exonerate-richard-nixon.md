@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-03-76267384b8
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-doj-considers-mission-to-exonerate-richard-nixon
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Trump DOJ Considers Mission To Exonerate Richard Nixon

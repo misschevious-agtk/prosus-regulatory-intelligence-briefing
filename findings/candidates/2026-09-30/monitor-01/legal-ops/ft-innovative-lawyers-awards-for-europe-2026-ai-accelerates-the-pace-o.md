@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-86b8f1c491
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ft-innovative-lawyers-awards-for-europe-2026-ai-accelerates-the-pace-o
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-09-30-b3bc499322
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # FT Innovative Lawyers Awards for Europe 2026: AI accelerates the pace of change

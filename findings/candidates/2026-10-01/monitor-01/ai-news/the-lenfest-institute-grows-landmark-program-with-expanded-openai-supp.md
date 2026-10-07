@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-29-4332128d3e
-cluster_size: 8
+cluster_id: cluster-2026-09-30-d9c61df917
+cluster_size: 186
 cluster_role: sibling
-cluster_canonical_slug: the-lenfest-institute-grows-landmark-program-with-expanded-openai-supp
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # The Lenfest Institute grows landmark program with expanded OpenAI support

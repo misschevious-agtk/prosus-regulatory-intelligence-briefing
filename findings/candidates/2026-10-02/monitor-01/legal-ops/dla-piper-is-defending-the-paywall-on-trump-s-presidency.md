@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-02-b29a70d726
 cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # DLA Piper Is Defending The Paywall On Trump’s Presidency

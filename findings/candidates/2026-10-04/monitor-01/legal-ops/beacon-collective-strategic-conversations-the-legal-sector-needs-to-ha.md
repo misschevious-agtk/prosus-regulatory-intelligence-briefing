@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-02-50da5be0cc
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: beacon-collective-strategic-conversations-the-legal-sector-needs-to-ha
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Beacon Collective: Strategic conversations the legal sector needs to have right now

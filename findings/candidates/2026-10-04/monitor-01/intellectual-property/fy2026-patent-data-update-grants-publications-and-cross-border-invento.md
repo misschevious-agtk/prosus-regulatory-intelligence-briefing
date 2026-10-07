@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-03-a9b5857158
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: fy2026-patent-data-update-grants-publications-and-cross-border-invento
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # FY2026 Patent Data Update: Grants, Publications, and Cross-Border Inventors

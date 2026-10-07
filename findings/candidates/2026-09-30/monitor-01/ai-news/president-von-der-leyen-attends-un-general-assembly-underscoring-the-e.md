@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-29-e11d49f32e
-cluster_size: 148
+cluster_id: cluster-2026-09-30-5e6cb57712
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-austria-s-final-payment-request-of-306-million-
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_canonical_slug: president-von-der-leyen-attends-un-general-assembly-underscoring-the-e
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # President von der Leyen attends UN General Assembly underscoring the EU's commitment to multilateralism

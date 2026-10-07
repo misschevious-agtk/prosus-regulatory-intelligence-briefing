@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-03b3aa3be0
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-10-06-88078769d9
+cluster_size: 5
+cluster_role: sibling
+ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_canonical_slug: law-school-in-the-age-of-ai-rethinking-it-from-the-ground-up
 ---
 
 # Legal IT Insider Security Report: Beyond the perimeter – AI is rewriting the rules

@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-29-fc724274d0
-cluster_size: 21
+cluster_id: cluster-2026-09-30-48ce8c8475
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: suspected-anti-competitive-conduct-in-relation-to-fragrances-and-fragr
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Suspected anti-competitive conduct in relation to fragrances and fragrance ingredients (51257)

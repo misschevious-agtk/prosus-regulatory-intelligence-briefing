@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-30-59f78ddbd0
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Consumer protection authorities ramp up action to protect gamers' rights

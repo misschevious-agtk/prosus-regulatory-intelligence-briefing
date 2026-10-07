@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-30d62249b0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: his-supreme-court-confirmation-was-so-bitter-it-invented-the-modern-he
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-09-30-5635ddaa54
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # His Supreme Court Confirmation Was So Bitter It Invented The Modern Hearing

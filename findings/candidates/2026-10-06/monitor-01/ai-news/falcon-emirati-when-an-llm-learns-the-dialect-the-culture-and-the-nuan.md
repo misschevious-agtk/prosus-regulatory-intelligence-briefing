@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-06-7447f73a46
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance

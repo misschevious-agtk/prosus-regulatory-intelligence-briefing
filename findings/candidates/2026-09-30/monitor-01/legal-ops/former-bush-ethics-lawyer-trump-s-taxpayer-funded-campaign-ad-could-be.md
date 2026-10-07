@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-3481d644ba
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: former-bush-ethics-lawyer-trump-s-taxpayer-funded-campaign-ad-could-be
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-09-30-cfe994b240
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Former Bush Ethics Lawyer: Trump’s Taxpayer-Funded Campaign Ad ‘Could Be An Impeachable Offense’

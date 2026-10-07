@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-01-1a1df0c178
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-september-orange-rag-is-here
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # The September Orange Rag Is Here!

@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-05-a2dbde664d
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: flank-launches-senior-legal-advisory-board-to-shape-agentic-ai-strateg
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Flank launches senior legal advisory board to shape agentic AI strategy

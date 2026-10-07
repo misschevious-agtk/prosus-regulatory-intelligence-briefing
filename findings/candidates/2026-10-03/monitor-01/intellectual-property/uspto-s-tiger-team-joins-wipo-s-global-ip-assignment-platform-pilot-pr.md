@@ -23,11 +23,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-09-29-b88c2b88fa
-cluster_size: 141
+cluster_id: cluster-2026-09-30-5737c21585
+cluster_size: 142
 cluster_role: sibling
-cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_canonical_slug: tie-goes-to-the-applicant-the-uspto-s-smed-flowchart
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # USPTO's 'tiger team' joins WIPO’s Global IP Assignment Platform pilot program

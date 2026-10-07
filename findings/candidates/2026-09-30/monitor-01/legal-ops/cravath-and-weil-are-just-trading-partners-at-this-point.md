@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-402d078889
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: cravath-and-weil-are-just-trading-partners-at-this-point
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-09-30-1397fa1653
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Cravath And Weil Are Just Trading Partners At This Point

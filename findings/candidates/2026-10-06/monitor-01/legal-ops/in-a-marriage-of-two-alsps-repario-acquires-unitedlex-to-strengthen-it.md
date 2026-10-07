@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-930291b597
-cluster_size: 14
+cluster_id: cluster-2026-09-30-4f935572ad
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: exclusive-unitedlex-to-be-acquired-by-jll-backed-ediscovery-vendor-rep
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # In A Marriage of Two ALSPs, Repario Acquires UnitedLex to Strengthen Its AI Offerings

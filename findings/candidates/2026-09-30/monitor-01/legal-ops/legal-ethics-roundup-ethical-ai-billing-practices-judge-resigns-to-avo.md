@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-1098286bd0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-ethics-roundup-ethical-ai-billing-practices-judge-resigns-to-avo
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-09-30-659207816f
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Legal Ethics Roundup: Ethical AI Billing Practices, Judge Resigns To Avoid Sanction, Law School Accreditation Limbo, Judge Reprimanded For Shooting Suggestion, AI Patchwork, MT Legal Deserts & More

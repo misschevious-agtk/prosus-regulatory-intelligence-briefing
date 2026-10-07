@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-be3fb4d8ff
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: exclusive-legal-tech-leader-david-lumsden-joins-jalubro-as-advisor-to-
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-09-30-58894c8e14
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Exclusive: Legal tech leader David Lumsden joins Jalubro as advisor to the board

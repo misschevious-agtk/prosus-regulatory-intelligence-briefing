@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-29-889e0b2c58
-cluster_size: 201
+cluster_id: cluster-2026-09-30-d091b78690
+cluster_size: 183
 cluster_role: sibling
 cluster_canonical_slug: autotrader-consumer-protection-enforcement-case
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Just Eat: consumer protection enforcement case

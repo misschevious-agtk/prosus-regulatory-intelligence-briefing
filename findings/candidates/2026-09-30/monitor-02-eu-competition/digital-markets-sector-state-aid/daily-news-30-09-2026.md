@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-29-e11d49f32e
-cluster_size: 148
-cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-austria-s-final-payment-request-of-306-million-
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-09-30-2260db4ce9
+cluster_size: 147
+cluster_role: canonical
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Daily News 30 / 09 / 2026

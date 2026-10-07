@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-9b42fe1dd1
-cluster_size: 3
+cluster_id: cluster-2026-09-30-5f1c2219c8
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: harvey-launches-its-first-ever-tv-commercials
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Harvey Launches Its First Ever TV Commercials

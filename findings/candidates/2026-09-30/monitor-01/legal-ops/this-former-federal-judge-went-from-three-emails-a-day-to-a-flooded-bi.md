@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-29-78bd769188
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: this-former-federal-judge-went-from-three-emails-a-day-to-a-flooded-bi
-ranked_at: '2026-10-06T13:58:01+00:00'
+cluster_id: cluster-2026-09-30-f83dc19569
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # This Former Federal Judge Went From Three Emails A Day To A Flooded Biglaw Inbox

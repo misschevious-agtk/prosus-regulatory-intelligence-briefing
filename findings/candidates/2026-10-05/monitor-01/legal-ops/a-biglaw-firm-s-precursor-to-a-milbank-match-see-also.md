@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-03-1ead4e0cbe
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: a-biglaw-firm-s-precursor-to-a-milbank-match-see-also
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # A Biglaw Firm’s Precursor To A Milbank Match? — See Also

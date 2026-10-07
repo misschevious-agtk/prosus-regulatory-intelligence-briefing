@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-09-29-af27add1eb
+cluster_id: cluster-2026-09-30-2e0e0cf605
 cluster_size: 33
 cluster_role: sibling
 cluster_canonical_slug: airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # DevDay 2026 Recap

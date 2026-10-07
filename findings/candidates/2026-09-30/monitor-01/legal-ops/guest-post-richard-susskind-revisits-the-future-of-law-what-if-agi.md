@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-09-30-784153acb9
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-10-06T13:58:01+00:00'
+ranked_at: '2026-10-07T14:16:10+00:00'
 ---
 
 # Guest post: Richard Susskind revisits The Future of Law – What if AGI?

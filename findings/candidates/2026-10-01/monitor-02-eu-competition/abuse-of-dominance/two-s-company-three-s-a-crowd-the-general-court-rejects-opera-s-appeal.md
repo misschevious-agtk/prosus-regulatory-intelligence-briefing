@@ -24,11 +24,10 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-357/24
-cluster_id: cluster-2026-09-30-29cbf72a8f
+cluster_id: cluster-2026-10-01-366e470561
 cluster_size: 40
-cluster_role: sibling
-cluster_canonical_slug: two-s-company-three-s-a-crowd-the-general-court-rejects-opera-s-appeal
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Two’s Company, Three’s a Crowd: The General Court Rejects Opera’s Appeal on the Commission’s Non-Designation of Microsoft Edge (Case T-357/24)

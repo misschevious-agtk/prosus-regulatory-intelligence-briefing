@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-09-30-809482b9e5
-cluster_size: 27
-cluster_role: sibling
-cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_id: cluster-2026-10-01-28767d07ed
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # La CNIL publie le tome 2 de L’Agence Privacy : une nouvelle enquête pour mieux comprendre la cybercriminalité

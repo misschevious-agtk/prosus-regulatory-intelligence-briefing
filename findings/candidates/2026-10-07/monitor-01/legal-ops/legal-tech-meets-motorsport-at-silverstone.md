@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-05-f51af940aa
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: legal-tech-meets-motorsport-at-silverstone
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Legal tech meets motorsport at Silverstone

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-09-30-2260db4ce9
-cluster_size: 147
+cluster_id: cluster-2026-10-01-41e6cbeba2
+cluster_size: 151
 cluster_role: sibling
-cluster_canonical_slug: daily-news-30-09-2026
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_canonical_slug: member-states-submit-their-final-payment-requests-under-the-recovery-a
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Commission disburses €2.9 billion under Ukraine Facility to support financial stability and reforms

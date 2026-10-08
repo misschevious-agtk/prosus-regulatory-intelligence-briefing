@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-03-20743c6078
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Everything You Don’t Know About The First Woman Judge

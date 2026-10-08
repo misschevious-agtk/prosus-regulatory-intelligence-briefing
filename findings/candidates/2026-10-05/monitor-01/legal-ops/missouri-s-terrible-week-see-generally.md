@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-05-6f36172d82
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Missouri’s Terrible Week — See Generally

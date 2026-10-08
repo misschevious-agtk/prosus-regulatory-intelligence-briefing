@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-09-30-0bcb1d6ade
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: dc-circuit-panel-upholds-pentagon-s-ban-on-anthropic-so-what-comes-nex
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_id: cluster-2026-10-01-d81905db2c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # DC Circuit Panel Upholds Pentagon’s Ban On Anthropic – So What Comes Next?

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-30-6a3feca756
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: politics-is-still-fueling-the-law-school-admissions-frenzy
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_id: cluster-2026-10-01-0458614cfd
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Politics Is Still Fueling The Law School Admissions Frenzy

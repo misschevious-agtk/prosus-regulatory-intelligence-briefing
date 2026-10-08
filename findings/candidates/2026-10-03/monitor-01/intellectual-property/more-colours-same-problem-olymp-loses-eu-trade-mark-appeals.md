@@ -23,10 +23,10 @@ case_numbers:
 - scheme: EU General Court
   citation: T-835/25
 cluster_id: cluster-2026-10-02-841b869945
-cluster_size: 14
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: more-colours-same-problem-olymp-loses-eu-trade-mark-appeals
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # More colours, same problem: Olymp loses EU trade mark appeals

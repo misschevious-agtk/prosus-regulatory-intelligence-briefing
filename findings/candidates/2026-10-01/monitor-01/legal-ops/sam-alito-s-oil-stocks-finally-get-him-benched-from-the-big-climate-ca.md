@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-30-d8f7114379
-cluster_size: 123
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-09-29-26
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_id: cluster-2026-10-01-12b078df48
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Sam Alito’s Oil Stocks Finally Get Him Benched From The Big Climate Case

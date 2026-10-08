@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-02-9519736f20
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Former Allen & Overy senior partner Wim Dejonghe co-founds native AI firm

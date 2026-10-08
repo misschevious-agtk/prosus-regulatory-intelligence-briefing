@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-09-30-d9c61df917
-cluster_size: 186
+cluster_id: cluster-2026-10-01-b60eba2803
+cluster_size: 193
 cluster_role: sibling
 cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Did Google’s AI agents really build an operating system for $916?

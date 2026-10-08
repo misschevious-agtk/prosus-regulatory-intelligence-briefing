@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-05-a657778deb
-cluster_size: 39
+cluster_size: 66
 cluster_role: sibling
 cluster_canonical_slug: bt-talktalk-merger-inquiry
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Co-operative Group / Southern Co-operative merger inquiry

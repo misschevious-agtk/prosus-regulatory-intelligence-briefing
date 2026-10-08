@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-09-30-d091b78690
-cluster_size: 183
+cluster_id: cluster-2026-10-01-cce3104b0d
+cluster_size: 141
 cluster_role: sibling
-cluster_canonical_slug: autotrader-consumer-protection-enforcement-case
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_canonical_slug: co-operative-group-southern-co-operative-merger-inquiry
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Co-operative Group / Southern Co-operative merger inquiry

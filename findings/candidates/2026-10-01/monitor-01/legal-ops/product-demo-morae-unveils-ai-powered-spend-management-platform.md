@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-30-d9c61df917
-cluster_size: 186
+cluster_id: cluster-2026-10-01-314c555222
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_canonical_slug: exclusive-alesis-a-sovereign-ai-assistant-for-uk-law-firms-goes-live
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Product Demo: Morae unveils AI-powered spend management platform

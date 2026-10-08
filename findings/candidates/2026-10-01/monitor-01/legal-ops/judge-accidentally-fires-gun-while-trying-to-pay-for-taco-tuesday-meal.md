@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-30-80895ab00d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: judge-accidentally-fires-gun-while-trying-to-pay-for-taco-tuesday-meal
-ranked_at: '2026-10-07T14:16:10+00:00'
+cluster_id: cluster-2026-10-01-a800f03fb6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Judge Accidentally Fires Gun While Trying To Pay For Taco Tuesday Meal

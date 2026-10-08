@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-10-01-416a52c854
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: cybermois-2026-la-cnil-et-cybermalveillance-gouv-fr-publient-une-nouve
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Cybermois 2026 : la CNIL et Cybermalveillance.gouv.fr publient une nouvelle ressource pour adopter les bons réflexes face à une violation de données

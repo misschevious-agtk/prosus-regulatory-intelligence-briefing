@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-09-30-5737c21585
-cluster_size: 142
+cluster_id: cluster-2026-10-01-3d87ea9059
+cluster_size: 138
 cluster_role: sibling
 cluster_canonical_slug: tie-goes-to-the-applicant-the-uspto-s-smed-flowchart
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Federal trademark searching: Overview

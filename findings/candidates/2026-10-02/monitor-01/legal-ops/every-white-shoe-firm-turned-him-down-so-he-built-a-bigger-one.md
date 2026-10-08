@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-01-70d9b72ba0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: every-white-shoe-firm-turned-him-down-so-he-built-a-bigger-one
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Every White-Shoe Firm Turned Him Down So He Built A Bigger One

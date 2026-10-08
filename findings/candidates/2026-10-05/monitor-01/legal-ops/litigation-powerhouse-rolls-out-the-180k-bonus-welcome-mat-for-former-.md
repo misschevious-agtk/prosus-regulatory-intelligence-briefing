@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-03-18c695865e
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: litigation-powerhouse-rolls-out-the-180k-bonus-welcome-mat-for-former-
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # Litigation Powerhouse Rolls Out The $180K Bonus Welcome Mat For Former Clerks

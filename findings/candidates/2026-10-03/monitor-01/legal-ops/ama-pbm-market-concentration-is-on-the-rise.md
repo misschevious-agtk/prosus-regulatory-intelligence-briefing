@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-03-1aeba0c64d
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-07T14:16:10+00:00'
+ranked_at: '2026-10-08T14:25:25+00:00'
 ---
 
 # AMA: PBM Market Concentration Is On The Rise

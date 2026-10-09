@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-63f87ba1f9
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: roi-is-dead-long-live-roi
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-8212874945
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # ROI Is Dead. Long Live ROI.

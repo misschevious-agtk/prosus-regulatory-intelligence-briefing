@@ -19,11 +19,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-298/23
-cluster_id: cluster-2026-10-02-841b869945
-cluster_size: 15
+cluster_id: cluster-2026-10-09-8078ad100e
+cluster_size: 17
 cluster_role: sibling
-cluster_canonical_slug: more-colours-same-problem-olymp-loses-eu-trade-mark-appeals
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: colour-me-orange-german-supreme-court-sets-high-bar-for-acquired-disti
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Some assembly required: The CJEU on balancing trade mark rights and freedom of expression in Inter IKEA Systems

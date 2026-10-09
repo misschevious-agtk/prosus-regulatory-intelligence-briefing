@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: CJEU
 case_numbers: []
-cluster_id: cluster-2026-10-01-d8bda4bb04
+cluster_id: cluster-2026-10-02-dbc93fec30
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-everlasting-song-nur-mir-finally-finds-its-happy-ending-in-pastich
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # The everlasting song: Nur mir finally finds its happy ending in pastiche

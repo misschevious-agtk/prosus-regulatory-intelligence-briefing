@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-07-e38cccdca9
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: discours-liminaire-du-commissaire-hansen-devant-les-commissions-des-af
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Discours liminaire du Commissaire Hansen devant les Commissions des Affaires Européennes et des Affaires Économiques de l'Assemblée Nationale

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-03-9d9079e5bf
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Is This A Low-Key Biglaw Match Of The Milbank Compensation Scale?

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-02-65fa453b37
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-500-in-house-leaders-will-build-and-defend-their-budgets
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # How 500+ In-House Leaders Will Build And Defend Their Budgets

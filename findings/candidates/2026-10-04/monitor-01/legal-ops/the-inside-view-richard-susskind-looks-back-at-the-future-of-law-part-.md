@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-0a755b27e9
-cluster_size: 5
+cluster_id: cluster-2026-10-02-ce25253aa5
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: guest-post-richard-susskind-revisits-the-future-of-law-what-if-agi
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: the-inside-view-richard-susskind-looks-back-at-the-future-of-law-part-
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # The Inside View: Richard Susskind looks back at The Future of Law – Part 1

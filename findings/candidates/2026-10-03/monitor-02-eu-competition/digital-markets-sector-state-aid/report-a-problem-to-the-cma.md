@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-02-801d2ab3db
-cluster_size: 84
+cluster_size: 87
 cluster_role: sibling
 cluster_canonical_slug: report-a-cartel-to-the-cma
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Report a problem to the CMA

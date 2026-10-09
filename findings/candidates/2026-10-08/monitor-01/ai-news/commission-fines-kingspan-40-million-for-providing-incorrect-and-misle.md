@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-08-5e39e0c564
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: commission-fines-kingspan-40-million-for-providing-incorrect-and-misle
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Commission fines Kingspan €40 million for providing incorrect and misleading information during merger investigation

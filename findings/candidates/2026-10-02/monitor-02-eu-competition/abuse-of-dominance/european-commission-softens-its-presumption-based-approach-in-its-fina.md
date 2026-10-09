@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-01-bb8d8bc00c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: european-commission-softens-its-presumption-based-approach-in-its-fina
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-390ae5f7fa
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # European Commission Softens its Presumption-Based Approach in its Final Guidelines on Exclusionary Abuses

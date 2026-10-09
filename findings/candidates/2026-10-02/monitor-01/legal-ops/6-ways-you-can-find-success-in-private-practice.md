@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-4943a6fb64
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 6-ways-you-can-find-success-in-private-practice
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-f8495a1258
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # 6 Ways You Can Find Success In Private Practice

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-06-a7ff9fed88
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: do-you-also-want-your-money-back
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Do You Also Want Your Money Back?

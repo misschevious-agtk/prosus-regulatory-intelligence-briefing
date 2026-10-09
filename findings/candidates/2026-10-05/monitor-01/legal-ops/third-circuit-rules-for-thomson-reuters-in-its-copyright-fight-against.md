@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-4d359e39bf
-cluster_size: 103
+cluster_id: cluster-2026-10-02-9c1a4cf011
+cluster_size: 68
 cluster_role: sibling
-cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: method-or-molecule-judge-dyk-dissents-from-en-banc-denial-in-teva-v-li
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Third Circuit Rules For Thomson Reuters In Its Copyright Fight Against Legal Research Startup ROSS

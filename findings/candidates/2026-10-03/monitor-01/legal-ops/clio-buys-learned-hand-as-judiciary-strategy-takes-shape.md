@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-c0c79044e4
-cluster_size: 12
+cluster_id: cluster-2026-10-02-31e5209bbf
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: clio-buys-learned-hand-as-judiciary-strategy-takes-shape
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Clio buys Learned Hand as judiciary strategy takes shape

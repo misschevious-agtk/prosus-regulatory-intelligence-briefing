@@ -20,10 +20,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-10-07-c0e7e94f31
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: advancing-computer-use-with-ironclad
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Advancing computer use with Ironclad

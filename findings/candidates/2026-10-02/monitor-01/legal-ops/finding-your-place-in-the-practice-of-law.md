@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-61351f533c
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: the-rise-of-the-legal-engineer-the-new-job-40-years-in-the-making
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-ff6d4d0e69
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Finding Your Place In The Practice Of Law

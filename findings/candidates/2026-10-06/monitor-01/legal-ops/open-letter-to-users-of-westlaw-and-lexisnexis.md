@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-06-56903ce6b2
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Open Letter To Users Of Westlaw And LexisNexis

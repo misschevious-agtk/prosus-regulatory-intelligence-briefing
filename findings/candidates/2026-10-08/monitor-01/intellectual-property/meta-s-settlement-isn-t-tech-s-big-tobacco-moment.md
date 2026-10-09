@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-07-3883985a8c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: meta-s-settlement-isn-t-tech-s-big-tobacco-moment
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Meta’s Settlement Isn’t Tech’s “Big Tobacco” Moment

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-01-65ef051359
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: serve-overseas-as-a-uspto-intellectual-property-expert
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-31d0aa4f74
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Serve overseas as a USPTO intellectual property expert

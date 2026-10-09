@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-01-eaa98052ce
+cluster_id: cluster-2026-10-02-5cb1068dc3
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: introducing-dots
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Introducing dots

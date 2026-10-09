@@ -24,11 +24,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-357/24
-cluster_id: cluster-2026-10-01-366e470561
-cluster_size: 40
+cluster_id: cluster-2026-10-08-cfc8cd11ed
+cluster_size: 46
 cluster_role: sibling
-cluster_canonical_slug: two-s-company-three-s-a-crowd-the-general-court-rejects-opera-s-appeal
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-m
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Two’s Company, Three’s a Crowd: The General Court Rejects Opera’s Appeal on the Commission’s Non-Designation of Microsoft Edge (Case T-357/24)

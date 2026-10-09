@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-06-4259d540c0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-partner-pay-has-officially-gone-major-league
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Biglaw Partner Pay Has Officially Gone Major League

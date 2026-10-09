@@ -17,10 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-08-18efbcbabc
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-1ad22f679e
+cluster_size: 90
+cluster_role: sibling
+ranked_at: '2026-10-09T14:11:07+00:00'
+cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
 ---
 
 # Clôture de l’injonction prononcée à l’encontre de FRANCE TRAVAIL

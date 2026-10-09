@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-06-743867a02b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: who-owns-the-rules-for-an-ai-agent
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Who Owns The Rules For An AI Agent?

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-03-c406240431
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-to-create-evergreen-resource-libraries-that-dominate-search
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # How To Create Evergreen Resource Libraries That Dominate Search

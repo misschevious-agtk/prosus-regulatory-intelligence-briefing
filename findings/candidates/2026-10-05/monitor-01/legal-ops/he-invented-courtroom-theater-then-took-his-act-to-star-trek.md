@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-03-6dd9f540d0
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: he-invented-courtroom-theater-then-took-his-act-to-star-trek
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # He Invented Courtroom Theater, Then Took His Act To Star Trek

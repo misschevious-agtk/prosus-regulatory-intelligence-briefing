@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-56ffd9e99c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-many-times-can-trump-pick-rural-republicans-pockets-before-they-wi
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-9284066908
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # How Many Times Can Trump Pick Rural Republicans’ Pockets Before They Wise Up?

@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-02-50da5be0cc
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Beacon Collective: Strategic conversations the legal sector needs to have right now

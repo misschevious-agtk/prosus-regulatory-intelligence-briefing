@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-eee6201abc
+cluster_id: cluster-2026-10-02-46894e55fb
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: one-determination-two-clocks-crocs-asks-the-supreme-court-to-fix-itc-a
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # One Determination, Two Clocks: Crocs Asks the Supreme Court to Fix ITC Appeal Deadlines

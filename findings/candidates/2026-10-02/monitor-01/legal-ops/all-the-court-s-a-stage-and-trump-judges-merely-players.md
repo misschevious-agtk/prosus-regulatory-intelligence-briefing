@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-b2f35256ff
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: all-the-court-s-a-stage-and-trump-judges-merely-players
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-23e97c2382
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # All The Court’s A Stage And Trump Judges Merely Players

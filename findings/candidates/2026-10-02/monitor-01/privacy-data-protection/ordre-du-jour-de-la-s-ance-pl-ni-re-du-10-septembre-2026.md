@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-10-01-28767d07ed
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: la-cnil-publie-le-tome-2-de-l-agence-privacy-une-nouvelle-enqu-te-pour
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_id: cluster-2026-10-02-8df13e61dc
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 10 septembre 2026

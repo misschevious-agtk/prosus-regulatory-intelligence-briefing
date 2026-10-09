@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-01-3d87ea9059
-cluster_size: 138
+cluster_id: cluster-2026-10-02-ad8e26e76e
+cluster_size: 122
 cluster_role: sibling
-cluster_canonical_slug: tie-goes-to-the-applicant-the-uspto-s-smed-flowchart
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # The Director's Blog is back: Get in the LOOP!

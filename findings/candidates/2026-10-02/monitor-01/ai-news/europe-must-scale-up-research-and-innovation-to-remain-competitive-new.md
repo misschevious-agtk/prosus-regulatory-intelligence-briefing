@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-01-41e6cbeba2
-cluster_size: 151
+cluster_id: cluster-2026-10-02-32eccb9e4b
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: member-states-submit-their-final-payment-requests-under-the-recovery-a
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: europe-must-scale-up-research-and-innovation-to-remain-competitive-new
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Europe must scale up research and innovation to remain competitive, new Commission report says

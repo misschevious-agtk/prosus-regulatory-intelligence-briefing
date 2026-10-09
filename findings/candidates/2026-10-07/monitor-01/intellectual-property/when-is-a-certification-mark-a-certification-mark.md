@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-e2f8b5e80e
+cluster_id: cluster-2026-10-02-3de905d3a8
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: when-is-a-certification-mark-a-certification-mark
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # When is a certification mark a certification mark?

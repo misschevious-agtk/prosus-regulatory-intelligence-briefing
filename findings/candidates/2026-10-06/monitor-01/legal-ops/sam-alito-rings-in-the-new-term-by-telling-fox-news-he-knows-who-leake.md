@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-05-4a83a3ba0d
-cluster_size: 17
+cluster_id: cluster-2026-10-09-ee41964728
+cluster_size: 19
 cluster_role: sibling
-ranked_at: '2026-10-08T14:25:25+00:00'
-cluster_canonical_slug: morning-docket-10-05-26
+ranked_at: '2026-10-09T14:11:07+00:00'
+cluster_canonical_slug: morning-docket-10-09-26
 ---
 
 # Sam Alito Rings In The New Term By Telling Fox News He Knows Who Leaked Dobbs

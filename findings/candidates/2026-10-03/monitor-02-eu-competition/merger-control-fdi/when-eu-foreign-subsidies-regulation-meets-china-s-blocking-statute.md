@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-2c3ce4cef8
-cluster_size: 8
+cluster_id: cluster-2026-10-09-1a27352247
+cluster_size: 169
 cluster_role: sibling
-cluster_canonical_slug: when-eu-foreign-subsidies-regulation-meets-china-s-blocking-statute
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # When EU Foreign Subsidies Regulation Meets China’s Blocking Statute

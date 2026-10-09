@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-01-b60eba2803
-cluster_size: 193
+cluster_id: cluster-2026-10-02-14819edb71
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: priorities-and-principles-for-effective-third-party-assessments
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Advisory Group on Mathematics and Artificial Intelligence

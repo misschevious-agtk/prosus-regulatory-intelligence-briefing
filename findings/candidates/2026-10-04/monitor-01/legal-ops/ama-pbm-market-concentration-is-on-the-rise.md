@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-03-1aeba0c64d
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ama-pbm-market-concentration-is-on-the-rise
-ranked_at: '2026-10-08T14:25:25+00:00'
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # AMA: PBM Market Concentration Is On The Rise

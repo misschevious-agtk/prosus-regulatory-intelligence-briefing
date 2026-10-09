@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-01-4d359e39bf
-cluster_size: 103
+cluster_id: cluster-2026-10-02-6d8f7e0882
+cluster_size: 37
 cluster_role: sibling
-cluster_canonical_slug: guest-post-standard-essential-patent-litigation-in-brazil-a-short-stor
-ranked_at: '2026-10-08T14:25:25+00:00'
+cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
+ranked_at: '2026-10-09T14:11:07+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

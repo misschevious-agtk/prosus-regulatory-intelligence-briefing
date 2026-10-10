@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-06-41076de8b8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-finds-polish-support-for-man-trucks-factory-expansion-incom
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Commission finds Polish support for MAN Trucks factory expansion incompatible State aid

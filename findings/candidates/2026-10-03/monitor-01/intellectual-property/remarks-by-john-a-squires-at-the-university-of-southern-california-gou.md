@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-02-ad8e26e76e
-cluster_size: 122
+cluster_id: cluster-2026-10-03-d89556e812
+cluster_size: 38
 cluster_role: sibling
-cluster_canonical_slug: join-us-to-learn-more-about-the-2027-national-patent-application-draft
-ranked_at: '2026-10-09T14:11:07+00:00'
+cluster_canonical_slug: uspto-director-john-a-squires-addresses-ip-and-tech-leadership-on-capi
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Remarks by John A. Squires at the University of Southern California Gould School of Law 3rd Annual Washington D.C. Conference

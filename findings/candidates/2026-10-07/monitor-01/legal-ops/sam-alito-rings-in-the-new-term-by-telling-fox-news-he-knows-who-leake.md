@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-09-ee41964728
-cluster_size: 19
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-10-09-26
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Sam Alito Rings In The New Term By Telling Fox News He Knows Who Leaked Dobbs

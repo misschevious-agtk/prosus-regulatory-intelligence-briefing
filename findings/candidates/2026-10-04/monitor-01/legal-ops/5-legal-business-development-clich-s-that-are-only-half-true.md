@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-02-efa4934144
-cluster_size: 4
+cluster_id: cluster-2026-10-03-f65442e41f
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: 5-legal-business-development-clich-s-that-are-only-half-true
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # 5 Legal Business Development Clichés That Are Only Half True

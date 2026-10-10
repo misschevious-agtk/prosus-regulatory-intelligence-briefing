@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-06-525149c234
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-rip-justice-melissa-hart-the-law-is-ours-nyc-bar-
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Legal Ethics Roundup: RIP Justice Melissa Hart, ‘The Law Is Ours’ NYC Bar Campaign, Legal Ethics In Pop Culture, Reading Recommendations, Headlines, Trivia, Events, Jobs & More

@@ -1,0 +1,42 @@
+---
+date_found: 2026-10-10
+monitor: monitor-02-eu-competition
+domain: antitrust-cartels
+source_url: https://www.gov.uk/guidance/make-a-whistleblower-report
+source_publisher: CMA news
+source_date: '2026-10-02T10:01:04Z'
+source_method: rss
+title: Make a whistleblower report
+matched_keywords:
+- CMA
+- Competition and Markets Authority
+match_count: 2
+status: candidate
+entities:
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  matched_alias: CMA
+case_numbers: []
+cluster_id: cluster-2026-10-03-3db77ca72d
+cluster_size: 78
+cluster_role: sibling
+cluster_canonical_slug: report-a-cartel-to-the-cma
+ranked_at: '2026-10-10T13:20:50+00:00'
+---
+
+# Make a whistleblower report
+
+**Source:** [CMA news](https://www.gov.uk/guidance/make-a-whistleblower-report)
+**Published:** 2026-10-02T10:01:04Z
+**Matched keywords (2):** CMA, Competition and Markets Authority
+
+## Summary excerpt
+
+Tell the Competition and Markets Authority (CMA) about suspected wrongdoing by your current or former employer.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-02-50da5be0cc
-cluster_size: 5
+cluster_id: cluster-2026-10-03-734fbc33fe
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: beacon-collective-strategic-conversations-the-legal-sector-needs-to-ha
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Beacon Collective: Strategic conversations the legal sector needs to have right now

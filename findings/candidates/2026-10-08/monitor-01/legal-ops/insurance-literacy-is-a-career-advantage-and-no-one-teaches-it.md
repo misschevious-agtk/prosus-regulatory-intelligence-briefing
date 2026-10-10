@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-07-81426eb679
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: insurance-literacy-is-a-career-advantage-and-no-one-teaches-it
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Insurance Literacy Is A Career Advantage — And No One Teaches It

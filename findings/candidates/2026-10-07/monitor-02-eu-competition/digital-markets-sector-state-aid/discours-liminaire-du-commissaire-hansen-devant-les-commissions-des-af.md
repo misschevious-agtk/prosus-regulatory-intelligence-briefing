@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-07-e38cccdca9
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Discours liminaire du Commissaire Hansen devant les Commissions des Affaires Européennes et des Affaires Économiques de l'Assemblée Nationale

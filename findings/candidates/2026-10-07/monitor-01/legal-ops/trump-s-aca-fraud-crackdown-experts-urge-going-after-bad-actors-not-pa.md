@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-07-94965ca72e
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Trump’s ACA Fraud Crackdown: Experts Urge Going After Bad Actors, Not Patients

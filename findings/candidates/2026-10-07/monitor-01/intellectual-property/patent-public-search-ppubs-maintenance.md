@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-02-40e131c4d9
-cluster_size: 20
+cluster_id: cluster-2026-10-03-cc560cd217
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: patent-public-search-ppubs-maintenance
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Patent Public Search (PPUBS) Maintenance

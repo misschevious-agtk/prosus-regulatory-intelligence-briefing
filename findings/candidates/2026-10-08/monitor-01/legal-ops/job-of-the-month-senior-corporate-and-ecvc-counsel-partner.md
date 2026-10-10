@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-07-c7bb467d1c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: job-of-the-month-senior-corporate-and-ecvc-counsel-partner
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Job Of The Month: Senior Corporate And ECVC Counsel / Partner

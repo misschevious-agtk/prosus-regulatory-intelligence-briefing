@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-05-3183715b44
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: kash-patel-fires-whistleblower-for-maga-pod-hits-gets-sued
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Kash Patel Fires ‘Whistleblower’ For MAGA Pod Hits, Gets Sued

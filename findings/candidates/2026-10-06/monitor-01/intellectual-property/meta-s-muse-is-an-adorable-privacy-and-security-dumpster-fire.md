@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-06-1681327485
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Meta’s Muse Is An Adorable Privacy And Security Dumpster Fire

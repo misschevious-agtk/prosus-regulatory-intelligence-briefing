@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-03-029b939f61
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # There Are Two Guys In Seattle Calling Themselves US Attorney. Neither Was Confirmed By Senate.

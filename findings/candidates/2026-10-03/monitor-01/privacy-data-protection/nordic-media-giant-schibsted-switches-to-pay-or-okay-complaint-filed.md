@@ -22,9 +22,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-03-7c29569069
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Nordic Media Giant Schibsted switches to “Pay or Okay” – complaint filed!

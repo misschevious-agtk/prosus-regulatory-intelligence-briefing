@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-02-9c1a4cf011
+cluster_id: cluster-2026-10-03-4cb428107b
 cluster_size: 68
 cluster_role: sibling
 cluster_canonical_slug: method-or-molecule-judge-dyk-dissents-from-en-banc-denial-in-teva-v-li
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Pre-Suit Validity Investigation: When Must a Patentee Look Before Suing?

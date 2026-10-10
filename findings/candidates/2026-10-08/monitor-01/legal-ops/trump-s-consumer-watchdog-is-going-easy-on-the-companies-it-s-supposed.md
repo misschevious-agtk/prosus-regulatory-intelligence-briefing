@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-08-0697a735fd
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Trump’s Consumer Watchdog Is Going Easy On The Companies It’s Supposed To Police

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-07-37c994e342
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ftc-sends-warning-letters-to-24-healthcare-organizations-over-price-tr
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # FTC Sends Warning Letters To 24 Healthcare Organizations Over Price Transparency

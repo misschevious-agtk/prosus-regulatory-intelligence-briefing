@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-05-accf94103c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-inside-view-part-2-richard-susskind-looks-forward-at-the-future-of
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # The Inside View Part 2: Richard Susskind looks forward at The Future of Law

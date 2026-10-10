@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-02-961d068389
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-september-orange-rag-is-here
-ranked_at: '2026-10-09T14:11:07+00:00'
+cluster_id: cluster-2026-10-03-0d7d989e97
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # The September Orange Rag Is Here!

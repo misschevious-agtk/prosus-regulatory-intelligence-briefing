@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-07-5f31e49e6a
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # In-N-Out Stares Down A Gift Horse & Then Shoots It Dead Over Trademark

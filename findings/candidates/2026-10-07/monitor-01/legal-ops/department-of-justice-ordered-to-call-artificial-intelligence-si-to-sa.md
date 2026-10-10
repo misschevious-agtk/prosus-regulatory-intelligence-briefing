@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-07-7ff219c927
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Department Of Justice Ordered To Call Artificial Intelligence ‘SI’ To Satisfy Donald Trump Fever Dreams

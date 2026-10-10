@@ -17,10 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-02-1ad22f679e
-cluster_size: 90
+cluster_id: cluster-2026-10-03-b0023cafd3
+cluster_size: 92
 cluster_role: sibling
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
 ---
 

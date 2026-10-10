@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-05-3183715b44
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Kash Patel Fires ‘Whistleblower’ For MAGA Pod Hits, Gets Sued

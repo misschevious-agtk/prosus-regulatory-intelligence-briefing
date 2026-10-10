@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-09-8078ad100e
 cluster_size: 17
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Colour me orange: German Supreme Court sets high bar for acquired distinctiveness of abstract colour marks

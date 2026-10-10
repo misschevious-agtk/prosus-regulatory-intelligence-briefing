@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-06-95eaa216e9
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Wayfair boosts catalog accuracy and support speed with OpenAI

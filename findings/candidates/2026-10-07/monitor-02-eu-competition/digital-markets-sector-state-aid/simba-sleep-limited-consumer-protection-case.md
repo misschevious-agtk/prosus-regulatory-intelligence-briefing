@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-05-9f2d079256
-cluster_size: 15
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: simba-sleep-limited-consumer-protection-case
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Simba Sleep Limited: consumer protection case

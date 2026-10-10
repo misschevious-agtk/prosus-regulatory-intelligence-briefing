@@ -26,7 +26,7 @@ cluster_id: cluster-2026-10-09-8078ad100e
 cluster_size: 17
 cluster_role: sibling
 cluster_canonical_slug: colour-me-orange-german-supreme-court-sets-high-bar-for-acquired-disti
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # More colours, same problem: Olymp loses EU trade mark appeals

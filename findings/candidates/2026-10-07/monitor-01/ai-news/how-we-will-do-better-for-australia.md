@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-02-4927ab0f46
+cluster_id: cluster-2026-10-03-aeda0d53fa
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: how-we-will-do-better-for-australia
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # How we will do better for Australia

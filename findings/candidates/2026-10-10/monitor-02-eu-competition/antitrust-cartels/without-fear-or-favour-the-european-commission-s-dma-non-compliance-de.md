@@ -1,0 +1,45 @@
+---
+date_found: 2026-10-10
+monitor: monitor-02-eu-competition
+domain: antitrust-cartels
+source_url: https://legalblogs.wolterskluwer.com/competition-blog/without-fear-or-favour-the-european-commissions-dma-non-compliance-decision-against-googles-self-preferencing-case-dma100193/
+source_publisher: Kluwer Competition Law Blog
+source_date: '2026-09-30T08:00:00.000Z'
+source_method: rss
+title: 'Without Fear or Favour: The European Commission’s DMA Non-Compliance Decision Against Google’s Self-Preferencing (Case DMA.100193)'
+matched_keywords:
+- Google
+match_count: 1
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+- name: Alphabet / Google
+  type: bigtech
+  jurisdiction: US
+  matched_alias: Google
+case_numbers: []
+cluster_id: cluster-2026-10-08-cfc8cd11ed
+cluster_size: 51
+cluster_role: sibling
+cluster_canonical_slug: dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-m
+ranked_at: '2026-10-10T13:20:50+00:00'
+---
+
+# Without Fear or Favour: The European Commission’s DMA Non-Compliance Decision Against Google’s Self-Preferencing (Case DMA.100193)
+
+**Source:** [Kluwer Competition Law Blog](https://legalblogs.wolterskluwer.com/competition-blog/without-fear-or-favour-the-european-commissions-dma-non-compliance-decision-against-googles-self-preferencing-case-dma100193/)
+**Published:** 2026-09-30T08:00:00.000Z
+**Matched keywords (1):** Google
+
+## Summary excerpt
+
+In July, the European Commission issued its non-compliance decision against gatekeeper Google for its breach of the self-preferencing prohibition under Article 6(5) DMA. It was not until September that the enforcer published the non-confidential version of the full decision that sets out how it interpreted the provision. The European Commission relied on a very narrow reading of the requirements embedded in Article 6(5) DMA to establish the finding of an infringement with the DMA, which was then followed with a very unspecific list of remedies to counter the regulation’s breach.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

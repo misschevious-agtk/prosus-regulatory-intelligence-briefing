@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-07-071337c563
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-created-a-recruiting-problem-and-law-students-get-to-suffer-for
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Biglaw Created A Recruiting Problem, And Law Students Get To Suffer For It

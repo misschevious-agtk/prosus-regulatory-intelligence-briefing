@@ -1,0 +1,41 @@
+---
+date_found: 2026-10-10
+monitor: monitor-01
+domain: ai-news
+source_url: https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2129
+source_publisher: European Commission press
+source_date: Fri, 09 Oct 2026 15:09:05 GMT
+source_method: rss
+title: Press Remarks by Commissioner Lahbib at the Foreign Affairs Council on Development
+matched_keywords:
+- European Commission
+match_count: 1
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+case_numbers: []
+cluster_id: cluster-2026-10-09-1a27352247
+cluster_size: 177
+cluster_role: sibling
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-10-10T13:20:50+00:00'
+---
+
+# Press Remarks by Commissioner Lahbib at the Foreign Affairs Council on Development
+
+**Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2129)
+**Published:** Fri, 09 Oct 2026 15:09:05 GMT
+**Matched keywords (1):** European Commission
+
+## Summary excerpt
+
+European Commission Speech Dublin, 09 Oct 2026 Yesterday evening we discussed the future of development, along with the important link between humanitarian aid and development, together with key stakeholders...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

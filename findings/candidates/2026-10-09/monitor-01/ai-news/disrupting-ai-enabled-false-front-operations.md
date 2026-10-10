@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-02-00766ddc12
-cluster_size: 185
+cluster_id: cluster-2026-10-03-9522139735
+cluster_size: 193
 cluster_role: sibling
 cluster_canonical_slug: how-albertsons-companies-is-reimagining-retail-from-the-inside-out
-ranked_at: '2026-10-09T14:11:07+00:00'
+ranked_at: '2026-10-10T13:20:50+00:00'
 ---
 
 # Disrupting AI-enabled “false front” operations

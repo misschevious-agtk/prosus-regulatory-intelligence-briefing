@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-03-f41b4ecf40
-cluster_size: 76
+cluster_id: cluster-2026-10-11-bdbb9e5467
+cluster_size: 72
 cluster_role: sibling
-cluster_canonical_slug: new-and-updated-disclaimer-forms
-ranked_at: '2026-10-10T13:20:50+00:00'
+cluster_canonical_slug: uspto-announces-a-new-ptab-moot-court-competition-for-the-ptab-advocat
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Celebrating 100k unused goods and services canceled from trademark registrations

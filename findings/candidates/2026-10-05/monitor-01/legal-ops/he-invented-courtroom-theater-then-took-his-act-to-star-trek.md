@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-6dd9f540d0
-cluster_size: 4
+cluster_id: cluster-2026-10-04-1f752a7fa0
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: he-invented-courtroom-theater-then-took-his-act-to-star-trek
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # He Invented Courtroom Theater, Then Took His Act To Star Trek

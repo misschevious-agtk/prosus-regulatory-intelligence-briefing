@@ -20,9 +20,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-10-05-54cc5f4971
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Our approach to EU text provenance rules

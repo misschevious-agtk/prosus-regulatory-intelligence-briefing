@@ -22,11 +22,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-03-32ebdea117
-cluster_size: 12
+cluster_id: cluster-2026-10-04-319fdb8d23
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: health-data-breach-the-cnil-fined-h-pital-priv-de-la-loire-500-000-eur
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR

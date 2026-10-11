@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-03-d89556e812
-cluster_size: 38
+cluster_id: cluster-2026-10-04-2e88403519
+cluster_size: 37
 cluster_role: sibling
 cluster_canonical_slug: uspto-director-john-a-squires-addresses-ip-and-tech-leadership-on-capi
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # John F. Duffy appointed General Counsel and Acting Solicitor of the USPTO

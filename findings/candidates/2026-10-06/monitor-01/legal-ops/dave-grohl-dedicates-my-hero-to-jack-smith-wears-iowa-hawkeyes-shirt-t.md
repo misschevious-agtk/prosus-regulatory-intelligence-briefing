@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-06-bd988a2cfa
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Dave Grohl Dedicates ‘My Hero’ To Jack Smith, Wears Iowa Hawkeyes Shirt To Really Twist The Knife

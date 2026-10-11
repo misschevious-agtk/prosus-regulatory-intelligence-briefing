@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-03-26da98b9db
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: priorities-and-principles-for-effective-third-party-assessments
-ranked_at: '2026-10-10T13:20:50+00:00'
+cluster_id: cluster-2026-10-04-17f0c673d6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Priorities and principles for effective third party assessments

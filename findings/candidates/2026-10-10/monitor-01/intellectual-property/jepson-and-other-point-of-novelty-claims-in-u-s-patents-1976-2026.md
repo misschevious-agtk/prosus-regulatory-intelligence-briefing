@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-09-73aac9e3f0
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: jepson-and-other-point-of-novelty-claims-in-u-s-patents-1976-2026
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Jepson and Other Point-of-Novelty Claims in U.S. Patents, 1976–2026

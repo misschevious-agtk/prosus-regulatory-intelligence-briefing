@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-4251823c05
-cluster_size: 3
+cluster_id: cluster-2026-10-04-1e385a982c
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-regrets-his-supreme-court-picks-because-they-keep-voting-against
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Trump Regrets His Supreme Court Picks Because They Keep Voting Against Him

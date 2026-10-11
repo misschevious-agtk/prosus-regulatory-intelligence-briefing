@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-4cb428107b
-cluster_size: 68
+cluster_id: cluster-2026-10-06-1b060b7c62
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: method-or-molecule-judge-dyk-dissents-from-en-banc-denial-in-teva-v-li
-ranked_at: '2026-10-10T13:20:50+00:00'
+cluster_canonical_slug: pre-suit-validity-investigation-when-must-a-patentee-look-before-suing
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # [Book Review] Patent Claims: Interpretation, validity and infringement

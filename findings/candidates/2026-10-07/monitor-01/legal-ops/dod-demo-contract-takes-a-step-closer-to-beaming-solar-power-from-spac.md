@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-05-f0df065bf5
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-spac
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # DoD Demo Contract Takes A Step Closer To Beaming Solar Power From Space

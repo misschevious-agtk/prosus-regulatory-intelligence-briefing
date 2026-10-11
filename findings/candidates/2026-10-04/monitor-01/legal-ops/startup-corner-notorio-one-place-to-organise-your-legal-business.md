@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-470f64da56
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: startup-corner-notorio-one-place-to-organise-your-legal-business
-ranked_at: '2026-10-10T13:20:50+00:00'
+cluster_id: cluster-2026-10-04-10f6140c04
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Startup Corner: Notorio – One place to organise your legal business

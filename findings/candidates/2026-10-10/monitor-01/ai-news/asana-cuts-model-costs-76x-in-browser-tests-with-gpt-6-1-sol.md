@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-9522139735
-cluster_size: 193
+cluster_id: cluster-2026-10-04-9576e04c0a
+cluster_size: 194
 cluster_role: sibling
 cluster_canonical_slug: how-albertsons-companies-is-reimagining-retail-from-the-inside-out
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Asana cuts model costs 76x in browser tests with GPT-6.1 Sol

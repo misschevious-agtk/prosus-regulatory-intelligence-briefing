@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-03-3db77ca72d
-cluster_size: 78
+cluster_id: cluster-2026-10-04-0317a0461d
+cluster_size: 69
 cluster_role: sibling
 cluster_canonical_slug: report-a-cartel-to-the-cma
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Make a whistleblower report

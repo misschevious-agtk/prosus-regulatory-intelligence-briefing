@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-10-03-a97597a229
-cluster_size: 46
+cluster_id: cluster-2026-10-04-dbc4e11525
+cluster_size: 47
 cluster_role: sibling
 cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Patent Litigation Europe returns to Amsterdam with IPKat readers’ discount

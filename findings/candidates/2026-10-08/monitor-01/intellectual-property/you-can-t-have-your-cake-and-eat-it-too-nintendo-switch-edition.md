@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-0f3ad7f8ab
+cluster_id: cluster-2026-10-04-8bfc2a2c8c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: you-can-t-have-your-cake-and-eat-it-too-nintendo-switch-edition
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # You can’t have your cake and eat it too: Nintendo Switch edition

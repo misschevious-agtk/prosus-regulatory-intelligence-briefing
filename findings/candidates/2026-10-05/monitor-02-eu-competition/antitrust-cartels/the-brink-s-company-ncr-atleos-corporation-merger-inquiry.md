@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-03-b49e1f30d7
-cluster_size: 93
+cluster_id: cluster-2026-10-04-bea60eaee5
+cluster_size: 69
 cluster_role: sibling
 cluster_canonical_slug: co-operative-group-southern-co-operative-merger-inquiry
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # The Brink’s Company / NCR Atleos Corporation merger inquiry

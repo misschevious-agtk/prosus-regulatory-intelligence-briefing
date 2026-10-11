@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-4cb428107b
-cluster_size: 68
+cluster_id: cluster-2026-10-04-0f20aa1ed6
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: method-or-molecule-judge-dyk-dissents-from-en-banc-denial-in-teva-v-li
-ranked_at: '2026-10-10T13:20:50+00:00'
+cluster_canonical_slug: the-enablement-paradox-and-the-danger-of-definitions-wyeth-v-astrazene
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # The enablement paradox and the danger of definitions (Wyeth v AstraZeneca)

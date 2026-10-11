@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-4cb428107b
-cluster_size: 68
+cluster_id: cluster-2026-10-04-13bf64c59e
+cluster_size: 42
 cluster_role: sibling
-cluster_canonical_slug: method-or-molecule-judge-dyk-dissents-from-en-banc-denial-in-teva-v-li
-ranked_at: '2026-10-10T13:20:50+00:00'
+cluster_canonical_slug: clear-but-impossible-satius-v-samsung-moves-inoperable-claims-from-ind
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # 3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-08-283372e89e
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # BMW Group to roll out Legora across its legal department

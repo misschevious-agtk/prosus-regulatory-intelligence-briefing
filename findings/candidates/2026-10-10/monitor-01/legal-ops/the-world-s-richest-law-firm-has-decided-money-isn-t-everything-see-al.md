@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-10-09-03db07b829
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: donald-trump-has-declared-all-of-you-still-calling-it-artificial-intel
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # The World’s Richest Law Firm Has Decided Money Isn’t Everything — See Also

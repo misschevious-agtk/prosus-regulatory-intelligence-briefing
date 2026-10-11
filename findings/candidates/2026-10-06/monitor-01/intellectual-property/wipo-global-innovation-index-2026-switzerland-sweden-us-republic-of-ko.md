@@ -17,11 +17,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-10-03-ad6b9c5564
+cluster_id: cluster-2026-10-04-28c409c4c2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: wipo-global-innovation-index-2026-switzerland-sweden-us-republic-of-ko
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # WIPO Global Innovation Index 2026: Switzerland, Sweden, US, Republic of Korea and Singapore Top Ranking; AI Reshaping Innovation Investments as Deep Science Startups Top $7.6 Trillion

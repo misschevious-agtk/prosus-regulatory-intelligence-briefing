@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-1aeba0c64d
-cluster_size: 3
+cluster_id: cluster-2026-10-04-a6f5cbcea6
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ama-pbm-market-concentration-is-on-the-rise
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # AMA: PBM Market Concentration Is On The Rise

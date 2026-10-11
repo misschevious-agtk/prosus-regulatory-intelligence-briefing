@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-07-c7bb467d1c
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Job Of The Month: Senior Corporate And ECVC Counsel / Partner

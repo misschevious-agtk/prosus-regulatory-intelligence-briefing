@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-03-12326dba42
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: lindsay-clancy-s-defense-suffers-setback-after-mistrial
-ranked_at: '2026-10-10T13:20:50+00:00'
+cluster_id: cluster-2026-10-04-84a61dd8bf
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # Lindsay Clancy’s Defense Suffers Setback After Mistrial

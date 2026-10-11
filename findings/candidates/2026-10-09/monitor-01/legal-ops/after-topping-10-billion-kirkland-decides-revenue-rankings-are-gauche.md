@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-09-2de9cc6657
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # After Topping $10 Billion, Kirkland Decides Revenue Rankings Are Gauche

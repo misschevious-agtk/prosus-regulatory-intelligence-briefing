@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-07-c8fa4a2509
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-10T13:20:50+00:00'
+ranked_at: '2026-10-11T13:50:20+00:00'
 ---
 
 # ‘House of brands’ Ampa Group removes CEO after investigation

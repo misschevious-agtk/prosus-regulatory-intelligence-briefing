@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-04-c62fd92b79
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: a-biglaw-firm-s-precursor-to-a-milbank-match-see-also
-ranked_at: '2026-10-11T13:50:20+00:00'
+cluster_id: cluster-2026-10-05-5fd04df3ea
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # A Biglaw Firm’s Precursor To A Milbank Match? — See Also

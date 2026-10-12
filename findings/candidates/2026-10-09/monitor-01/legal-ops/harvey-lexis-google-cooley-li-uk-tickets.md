@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-09-e4521f73b5
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Harvey + Lexis, Google + Cooley, LI UK Tickets

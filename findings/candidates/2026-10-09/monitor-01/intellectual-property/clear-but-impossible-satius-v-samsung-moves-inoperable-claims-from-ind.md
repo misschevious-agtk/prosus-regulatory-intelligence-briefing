@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-04-13bf64c59e
-cluster_size: 42
+cluster_id: cluster-2026-10-05-f47dd07fe7
+cluster_size: 41
 cluster_role: sibling
 cluster_canonical_slug: clear-but-impossible-satius-v-samsung-moves-inoperable-claims-from-ind
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Clear but Impossible: Satius v. Samsung Moves Inoperable Claims from Indefiniteness to Enablement

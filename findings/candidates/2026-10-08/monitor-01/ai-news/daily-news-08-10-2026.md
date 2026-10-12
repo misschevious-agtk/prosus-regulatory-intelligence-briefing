@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-09-1a27352247
-cluster_size: 181
+cluster_size: 175
 cluster_role: sibling
 cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Daily News 08 / 10 / 2026

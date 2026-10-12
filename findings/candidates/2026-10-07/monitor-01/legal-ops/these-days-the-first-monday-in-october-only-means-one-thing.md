@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-06-cb158c2e1a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: these-days-the-first-monday-in-october-only-means-one-thing
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # These Days, The First Monday In October Only Means One Thing

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-10-04-d8ba6804aa
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: trump-doj-considers-mission-to-exonerate-richard-nixon
-ranked_at: '2026-10-11T13:50:20+00:00'
+cluster_id: cluster-2026-10-05-20a9e5a17b
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Trump DOJ Considers Mission To Exonerate Richard Nixon

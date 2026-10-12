@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-04-2e88403519
-cluster_size: 37
+cluster_id: cluster-2026-10-05-e77c2b5c1a
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: uspto-director-john-a-squires-addresses-ip-and-tech-leadership-on-capi
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # The Director's Blog is back: Get in the LOOP!

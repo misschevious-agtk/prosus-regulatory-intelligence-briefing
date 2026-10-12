@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-06-88078769d9
 cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: law-school-in-the-age-of-ai-rethinking-it-from-the-ground-up
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Orange Rag Insights: Reshaping legal – What GCs are prioritising as AI scales

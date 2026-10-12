@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-09-03db07b829
-cluster_size: 6
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Donald Trump Has Declared All Of You Still Calling It ‘Artificial Intelligence’ Enemies Of The State

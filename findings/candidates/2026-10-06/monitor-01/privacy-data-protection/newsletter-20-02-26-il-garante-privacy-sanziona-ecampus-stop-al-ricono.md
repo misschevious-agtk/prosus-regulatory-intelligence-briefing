@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-10-04-d486cc140d
-cluster_size: 86
+cluster_id: cluster-2026-10-12-9da4981625
+cluster_size: 89
 cluster_role: sibling
-cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-10-11T13:50:20+00:00'
+cluster_canonical_slug: italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-a
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # NEWSLETTER 20/02/26 - Il Garante privacy sanziona eCampus, stop al riconoscimento facciale  - Garante privacy a comune di Pescara: no alle body cam della Polizia locale - Dal Garante ok alle Linee guida Agid su accessibilità dei servizi - Garanti Ue, le sfide per una piena attuazione del diritto alla cancellazione - Digital Omnibus, Garanti Ue: semplificare senza ridurre la tutela delle persone

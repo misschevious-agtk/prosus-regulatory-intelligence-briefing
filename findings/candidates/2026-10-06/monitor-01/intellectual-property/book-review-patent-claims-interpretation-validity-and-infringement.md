@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-06-1b060b7c62
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: pre-suit-validity-investigation-when-must-a-patentee-look-before-suing
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # [Book Review] Patent Claims: Interpretation, validity and infringement

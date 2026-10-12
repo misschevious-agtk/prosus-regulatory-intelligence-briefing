@@ -18,9 +18,9 @@ entities:
   matched_alias: TikTok
 case_numbers: []
 cluster_id: cluster-2026-10-10-fde0671f05
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Alabama’s TikTok Settlement Comes With An Affiliate Program For Getting Other AGs To Go After TikTok

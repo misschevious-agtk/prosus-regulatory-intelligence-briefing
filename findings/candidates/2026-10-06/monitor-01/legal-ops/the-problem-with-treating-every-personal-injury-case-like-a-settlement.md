@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-04-3ab7e78d16
-cluster_size: 3
+cluster_id: cluster-2026-10-05-99402d9338
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-problem-with-treating-every-personal-injury-case-like-a-settlement
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # The Problem With Treating Every Personal Injury Case Like A ‘Settlement Case’

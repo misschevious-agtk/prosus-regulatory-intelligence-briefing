@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-04-bf5b24dbf6
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: tie-goes-to-the-applicant-the-uspto-s-smed-flowchart
-ranked_at: '2026-10-11T13:50:20+00:00'
+cluster_id: cluster-2026-10-05-6010b8772f
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Tie Goes to the Applicant: The USPTO’s SMED Flowchart

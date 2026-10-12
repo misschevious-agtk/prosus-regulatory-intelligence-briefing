@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: CJEU
 case_numbers: []
-cluster_id: cluster-2026-10-04-dbc4e11525
+cluster_id: cluster-2026-10-05-11658a482c
 cluster_size: 47
 cluster_role: sibling
 cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # The everlasting song: Nur mir finally finds its happy ending in pastiche

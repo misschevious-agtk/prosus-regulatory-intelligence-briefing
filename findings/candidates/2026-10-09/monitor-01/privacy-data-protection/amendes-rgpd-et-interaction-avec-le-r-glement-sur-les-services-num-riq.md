@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-04-79ac1b7248
-cluster_size: 40
+cluster_id: cluster-2026-10-05-a58c718124
+cluster_size: 39
 cluster_role: sibling
-cluster_canonical_slug: the-irish-data-protection-commission-fines-google-403-000-000-eur-foll
-ranked_at: '2026-10-11T13:50:20+00:00'
+cluster_canonical_slug: the-irish-data-protection-commission-fines-google-eur-403-000-000-foll
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Amendes RGPD et interaction avec le règlement sur les services numériques : retour sur la plénière du CEPD du 17 septembre 2026

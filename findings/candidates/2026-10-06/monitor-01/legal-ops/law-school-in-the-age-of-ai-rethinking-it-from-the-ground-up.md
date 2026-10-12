@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-06-88078769d9
 cluster_size: 14
 cluster_role: canonical
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Law School In The Age Of AI: Rethinking It From The Ground Up

@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-05-eb7a91428d
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-11T13:50:20+00:00'
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Executive Vice-President Ribera opening speech at the Barcelona University Opening Ceremony of the 2026-2027 Academic Year

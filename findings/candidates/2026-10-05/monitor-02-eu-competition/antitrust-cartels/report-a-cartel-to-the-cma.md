@@ -19,11 +19,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-04-0317a0461d
-cluster_size: 69
-cluster_role: sibling
-cluster_canonical_slug: report-a-cartel-to-the-cma
-ranked_at: '2026-10-11T13:50:20+00:00'
+cluster_id: cluster-2026-10-05-2c855dc189
+cluster_size: 57
+cluster_role: canonical
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Report a cartel to the CMA

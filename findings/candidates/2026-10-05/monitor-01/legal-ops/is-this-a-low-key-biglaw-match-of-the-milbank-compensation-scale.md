@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-04-34d57a9c5a
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: is-this-a-low-key-biglaw-match-of-the-milbank-compensation-scale
-ranked_at: '2026-10-11T13:50:20+00:00'
+cluster_id: cluster-2026-10-05-7373afc33b
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Is This A Low-Key Biglaw Match Of The Milbank Compensation Scale?

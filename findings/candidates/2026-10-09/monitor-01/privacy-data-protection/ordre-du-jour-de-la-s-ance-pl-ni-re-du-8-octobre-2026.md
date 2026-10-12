@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-10-04-d486cc140d
-cluster_size: 86
+cluster_id: cluster-2026-10-12-9da4981625
+cluster_size: 89
 cluster_role: sibling
-cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-10-11T13:50:20+00:00'
+cluster_canonical_slug: italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-a
+ranked_at: '2026-10-12T16:32:50+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 8 octobre 2026

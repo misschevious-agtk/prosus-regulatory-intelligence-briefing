@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-07-5f31e49e6a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: in-n-out-stares-down-a-gift-horse-then-shoots-it-dead-over-trademark
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # In-N-Out Stares Down A Gift Horse & Then Shoots It Dead Over Trademark

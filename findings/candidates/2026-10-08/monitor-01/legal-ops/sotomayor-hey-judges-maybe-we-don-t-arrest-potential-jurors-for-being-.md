@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-08-25bc936e8a
-cluster_size: 13
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: judge-pauline-newman-s-shadow-impeachment-finally-transferred-to-an-in
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Sotomayor: Hey Judges, Maybe We Don’t Arrest Potential Jurors For Being Late

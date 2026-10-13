@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-12-5365fd5216
-cluster_size: 7
+cluster_size: 10
 cluster_role: sibling
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 cluster_canonical_slug: inter-partes-review-ipr-filings-collapse-to-a-new-normal
 ---
 

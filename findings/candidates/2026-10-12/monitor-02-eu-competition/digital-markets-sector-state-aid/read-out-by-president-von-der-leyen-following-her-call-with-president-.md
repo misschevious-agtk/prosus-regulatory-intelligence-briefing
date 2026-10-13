@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-12-a09b313149
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Read-out by President von der Leyen following her call with President Zelenskyy

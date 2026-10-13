@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-10-05-6dcbdc41a4
+cluster_id: cluster-2026-10-06-7787e4b34c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-05-6181bb8007
-cluster_size: 23
+cluster_id: cluster-2026-10-06-5a8216c466
+cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: patent-public-search-ppubs-maintenance
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Reference Document Management Services (RDMS) Maintenance

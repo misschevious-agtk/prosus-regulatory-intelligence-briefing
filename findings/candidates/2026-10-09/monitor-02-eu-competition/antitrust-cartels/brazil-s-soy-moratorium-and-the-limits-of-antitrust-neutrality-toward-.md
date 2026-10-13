@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-09-4be17af032
 cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Brazil’s Soy Moratorium and the Limits of Antitrust Neutrality Toward Environmental Benefits

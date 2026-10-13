@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-05-830896bd66
+cluster_id: cluster-2026-10-06-6c2c6fee68
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: openai-extends-cyber-access-to-ukraine-for-civilian-defense
-ranked_at: '2026-10-12T16:32:50+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # OpenAI extends cyber access to Ukraine for civilian defense

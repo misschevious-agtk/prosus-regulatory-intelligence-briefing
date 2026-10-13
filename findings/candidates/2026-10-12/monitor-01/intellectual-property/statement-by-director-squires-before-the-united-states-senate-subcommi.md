@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-05-e77c2b5c1a
-cluster_size: 36
+cluster_id: cluster-2026-10-06-0d41982b6f
+cluster_size: 35
 cluster_role: sibling
-cluster_canonical_slug: uspto-director-john-a-squires-addresses-ip-and-tech-leadership-on-capi
-ranked_at: '2026-10-12T16:32:50+00:00'
+cluster_canonical_slug: john-f-duffy-appointed-general-counsel-and-acting-solicitor-of-the-usp
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Statement by Director Squires before the United States Senate Subcommittee on Intellectual Property Committee on the Judiciary

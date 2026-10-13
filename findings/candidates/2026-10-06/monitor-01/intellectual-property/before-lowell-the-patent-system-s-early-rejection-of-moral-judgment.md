@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-05-d55d332166
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: before-lowell-the-patent-system-s-early-rejection-of-moral-judgment
-ranked_at: '2026-10-12T16:32:50+00:00'
+cluster_id: cluster-2026-10-06-6e9e442b4b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Before Lowell: The Patent System’s Early Rejection of Moral Judgment

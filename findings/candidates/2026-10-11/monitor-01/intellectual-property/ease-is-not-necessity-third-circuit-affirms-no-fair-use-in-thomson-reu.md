@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-05-f47dd07fe7
-cluster_size: 41
+cluster_id: cluster-2026-10-06-e66d66c46b
+cluster_size: 40
 cluster_role: sibling
 cluster_canonical_slug: clear-but-impossible-satius-v-samsung-moves-inoperable-claims-from-ind
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Ease Is Not Necessity: Third Circuit Affirms No Fair Use in Thomson Reuters v. ROSS

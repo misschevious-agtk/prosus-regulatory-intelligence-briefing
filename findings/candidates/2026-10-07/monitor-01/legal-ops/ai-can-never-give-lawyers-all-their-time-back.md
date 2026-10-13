@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-06-593e1cdcb4
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ai-can-never-give-lawyers-all-their-time-back
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # AI Can Never Give Lawyers All Their Time Back

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-05-f1ec0eb8be
+cluster_id: cluster-2026-10-06-deb973f7dc
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: transformers-now-runs-llama-cpp-quants
-ranked_at: '2026-10-12T16:32:50+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Transformers now runs llama.cpp quants

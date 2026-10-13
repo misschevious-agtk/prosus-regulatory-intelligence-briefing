@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-05-7edb1090f4
-cluster_size: 9
+cluster_id: cluster-2026-10-06-9819fde177
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: procedural-complaints-raising-procedural-issues-in-cma-cases
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Procedural complaints: raising procedural issues in CMA cases

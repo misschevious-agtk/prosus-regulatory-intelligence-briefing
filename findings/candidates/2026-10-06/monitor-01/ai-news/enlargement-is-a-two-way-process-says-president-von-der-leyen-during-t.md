@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-06-0891637705
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: enlargement-is-a-two-way-process-says-president-von-der-leyen-during-t
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # “Enlargement is a two-way process” says President von der Leyen during travel to the Western Balkans.

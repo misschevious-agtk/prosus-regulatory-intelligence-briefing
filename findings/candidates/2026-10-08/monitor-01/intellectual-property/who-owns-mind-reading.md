@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-05-c951852394
-cluster_size: 4
+cluster_id: cluster-2026-10-06-080e455adf
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: who-owns-mind-reading
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Who Owns Mind Reading?

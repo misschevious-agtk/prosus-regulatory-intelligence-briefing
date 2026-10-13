@@ -23,11 +23,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-10-11-bdbb9e5467
-cluster_size: 68
+cluster_id: cluster-2026-10-06-cadcfcd8e6
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: uspto-announces-a-new-ptab-moot-court-competition-for-the-ptab-advocat
-ranked_at: '2026-10-12T16:32:50+00:00'
+cluster_canonical_slug: uspto-s-tiger-team-joins-wipo-s-global-ip-assignment-platform-pilot-pr
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # USPTO's 'tiger team' joins WIPO’s Global IP Assignment Platform pilot program

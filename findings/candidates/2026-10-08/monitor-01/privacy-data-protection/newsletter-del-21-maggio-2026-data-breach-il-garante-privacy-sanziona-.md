@@ -20,10 +20,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-10-12-9da4981625
-cluster_size: 89
+cluster_size: 92
 cluster_role: sibling
 cluster_canonical_slug: italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-a
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # NEWSLETTER del 21 maggio 2026 - Data breach, il Garante privacy sanziona The European House Ambrosetti - Online le Faq aggiornate sul Fascicolo sanitario elettronico - No alla diffusione delle foto di un malato senza consenso - In Turchia la Conferenza di primavera dei Garanti europei

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-06-bd988a2cfa
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: dave-grohl-dedicates-my-hero-to-jack-smith-wears-iowa-hawkeyes-shirt-t
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Dave Grohl Dedicates ‘My Hero’ To Jack Smith, Wears Iowa Hawkeyes Shirt To Really Twist The Knife

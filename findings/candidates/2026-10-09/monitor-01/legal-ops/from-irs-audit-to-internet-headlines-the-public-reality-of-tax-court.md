@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-08-ab59223382
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: from-irs-audit-to-internet-headlines-the-public-reality-of-tax-court
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # From IRS Audit To Internet Headlines: The Public Reality Of Tax Court

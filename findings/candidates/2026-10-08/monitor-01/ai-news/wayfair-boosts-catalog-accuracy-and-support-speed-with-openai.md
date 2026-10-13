@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-06-95eaa216e9
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: wayfair-boosts-catalog-accuracy-and-support-speed-with-openai
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Wayfair boosts catalog accuracy and support speed with OpenAI

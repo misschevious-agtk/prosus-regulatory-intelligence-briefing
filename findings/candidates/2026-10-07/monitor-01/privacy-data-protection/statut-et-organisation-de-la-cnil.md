@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-05-fb9b27f585
-cluster_size: 4
+cluster_id: cluster-2026-10-06-13a04635ad
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: statut-et-organisation-de-la-cnil
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Statut et organisation de la CNIL

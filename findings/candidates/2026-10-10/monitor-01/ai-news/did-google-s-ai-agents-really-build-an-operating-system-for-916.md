@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-10-05-820fee9dcd
-cluster_size: 201
+cluster_id: cluster-2026-10-06-3e40fdff00
+cluster_size: 210
 cluster_role: sibling
 cluster_canonical_slug: how-albertsons-companies-is-reimagining-retail-from-the-inside-out
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Did Google’s AI agents really build an operating system for $916?

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-05-579db468cc
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: this-is-not-a-feature-vector-zentian-v-apple
-ranked_at: '2026-10-12T16:32:50+00:00'
+cluster_id: cluster-2026-10-06-1b2e996687
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # This Is Not a Feature Vector: Zentian v. Apple

@@ -20,10 +20,10 @@ case_numbers:
 - scheme: EU Court of Justice
   citation: C-298/23
 cluster_id: cluster-2026-10-09-8078ad100e
-cluster_size: 17
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: colour-me-orange-german-supreme-court-sets-high-bar-for-acquired-disti
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Some assembly required: The CJEU on balancing trade mark rights and freedom of expression in Inter IKEA Systems

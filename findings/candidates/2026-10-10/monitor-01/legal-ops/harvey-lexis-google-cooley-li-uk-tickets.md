@@ -19,10 +19,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-10-09-e4521f73b5
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: harvey-lexis-google-cooley-li-uk-tickets
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Harvey + Lexis, Google + Cooley, LI UK Tickets

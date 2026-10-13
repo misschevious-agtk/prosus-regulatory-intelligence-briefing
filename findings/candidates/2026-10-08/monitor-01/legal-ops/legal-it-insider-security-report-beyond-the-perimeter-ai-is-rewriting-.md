@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-06-88078769d9
 cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: law-school-in-the-age-of-ai-rethinking-it-from-the-ground-up
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Legal IT Insider Security Report: Beyond the perimeter – AI is rewriting the rules

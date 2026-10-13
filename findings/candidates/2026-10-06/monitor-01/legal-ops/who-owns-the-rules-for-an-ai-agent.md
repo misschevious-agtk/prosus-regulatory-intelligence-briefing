@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-06-743867a02b
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-12T16:32:50+00:00'
+ranked_at: '2026-10-13T14:51:07+00:00'
 ---
 
 # Who Owns The Rules For An AI Agent?

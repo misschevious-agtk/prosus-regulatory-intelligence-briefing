@@ -1,0 +1,39 @@
+---
+date_found: 2026-10-13
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://patentlyo.com/patent/2026/10/clear-but-impossible-satius-v-samsung-moves-inoperable-claims-from-indefiniteness-to-enablement.html
+source_publisher: Patently-O
+source_date: Thu, 01 Oct 2026 15:10:38 +0000
+source_method: rss
+title: 'Clear but Impossible: Satius v. Samsung Moves Inoperable Claims from Indefiniteness to Enablement'
+matched_keywords:
+- patent
+- Patent
+- Federal Circuit
+match_count: 3
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-10-06-e66d66c46b
+cluster_size: 40
+cluster_role: sibling
+cluster_canonical_slug: clear-but-impossible-satius-v-samsung-moves-inoperable-claims-from-ind
+ranked_at: '2026-10-13T14:51:07+00:00'
+---
+
+# Clear but Impossible: Satius v. Samsung Moves Inoperable Claims from Indefiniteness to Enablement
+
+**Source:** [Patently-O](https://patentlyo.com/patent/2026/10/clear-but-impossible-satius-v-samsung-moves-inoperable-claims-from-indefiniteness-to-enablement.html)
+**Published:** Thu, 01 Oct 2026 15:10:38 +0000
+**Matched keywords (3):** patent, Patent, Federal Circuit
+
+## Summary excerpt
+
+Satius v. Samsung: a claim reciting an impossible alternative is definite, but the Federal Circuit holds it invalid for lack of enablement under Amgen. Continue reading this post on Patently-O.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

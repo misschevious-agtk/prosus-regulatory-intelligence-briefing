@@ -1,0 +1,41 @@
+---
+date_found: 2026-10-13
+monitor: monitor-02-eu-competition
+domain: antitrust-cartels
+source_url: https://www.gov.uk/government/publications/cma-senior-officials-business-expenses-hospitality-and-meetings-data-q1-2026-to-2027
+source_publisher: CMA news
+source_date: '2026-10-13T10:17:08Z'
+source_method: rss
+title: 'Transparency data: CMA: senior officials’ business expenses, hospitality and meetings data, Q1 2026 to 2027'
+matched_keywords:
+- CMA
+match_count: 1
+status: candidate
+entities:
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  matched_alias: CMA
+case_numbers: []
+cluster_id: cluster-2026-10-13-af241dde89
+cluster_size: 3
+cluster_role: sibling
+cluster_canonical_slug: transparency-data-cma-senior-officials-business-expenses-hospitality-a
+ranked_at: '2026-10-13T14:51:07+00:00'
+---
+
+# Transparency data: CMA: senior officials’ business expenses, hospitality and meetings data, Q1 2026 to 2027
+
+**Source:** [CMA news](https://www.gov.uk/government/publications/cma-senior-officials-business-expenses-hospitality-and-meetings-data-q1-2026-to-2027)
+**Published:** 2026-10-13T10:17:08Z
+**Matched keywords (1):** CMA
+
+## Summary excerpt
+
+This series brings together all documents relating to business expenses, hospitality and meetings for senior officials.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-5beaa6a969
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: who-files-and-who-gets-fined
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_id: cluster-2026-10-07-8fe1beb713
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Who Files – and Who Gets Fined?

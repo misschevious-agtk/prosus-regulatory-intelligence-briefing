@@ -19,10 +19,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-12-9da4981625
-cluster_size: 92
+cluster_size: 95
 cluster_role: sibling
 cluster_canonical_slug: italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-a
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements

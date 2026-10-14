@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-05ddfb7462
+cluster_id: cluster-2026-10-07-9f265297ab
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # At Its User Conference in Las Vegas, 8am Announces MCP Integration and New AI Tools for MyCase, Plus New Law Firm Funding Program through LawPay

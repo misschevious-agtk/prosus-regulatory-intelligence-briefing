@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-951257a1c9
-cluster_size: 7
+cluster_id: cluster-2026-10-07-9710c514ef
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-o
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # On LawNext: Casefleet Founder Jeff Kerr on Fact Management in the Age of AI

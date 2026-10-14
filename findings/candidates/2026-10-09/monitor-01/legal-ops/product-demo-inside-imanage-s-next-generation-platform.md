@@ -19,7 +19,7 @@ cluster_id: cluster-2026-10-07-30baa6f775
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: product-demo-inside-imanage-s-next-generation-platform
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Product demo: Inside iManage’s next-generation platform

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-7f521f61d8
-cluster_size: 3
+cluster_id: cluster-2026-10-07-e9fe183720
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-inside-view-part-2-richard-susskind-looks-forward-at-the-future-of
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # The Inside View Part 2: Richard Susskind looks forward at The Future of Law

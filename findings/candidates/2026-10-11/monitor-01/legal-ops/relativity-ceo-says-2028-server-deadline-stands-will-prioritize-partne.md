@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-1db49c2b37
+cluster_id: cluster-2026-10-07-20a3952ef8
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partne
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering with Frontier Labs Over Legal AI Companies

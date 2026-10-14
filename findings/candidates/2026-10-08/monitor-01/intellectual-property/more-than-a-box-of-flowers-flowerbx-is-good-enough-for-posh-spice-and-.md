@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-66a83a87e5
-cluster_size: 3
+cluster_id: cluster-2026-10-07-d7d5ccc4d9
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: more-than-a-box-of-flowers-flowerbx-is-good-enough-for-posh-spice-and-
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # More than a ‘box of flowers’, FLOWERBX is good enough for Posh Spice and not descriptive of florist-related goods and services

@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-10-09-ee41964728
-cluster_size: 25
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-10-09-26
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Samuel Alito’s Midterm Turnout Strategy — See Also

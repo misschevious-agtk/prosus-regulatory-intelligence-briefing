@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-a7ff9fed88
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: do-you-also-want-your-money-back
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_id: cluster-2026-10-07-666e1a57cb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Do You Also Want Your Money Back?

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-c2b053be9f
+cluster_id: cluster-2026-10-07-3c8059f00e
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: finalists-named-for-american-legal-technology-awards-winners-to-be-nam
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Finalists Named for American Legal Technology Awards; Winners To Be Named At October Gala in Boston

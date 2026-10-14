@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-13-af241dde89
-cluster_size: 3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-senior-officials-business-expenses-hospitality-a
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Transparency data: CMA: senior officials’ business expenses, hospitality and meetings data, Q1 2026 to 2027

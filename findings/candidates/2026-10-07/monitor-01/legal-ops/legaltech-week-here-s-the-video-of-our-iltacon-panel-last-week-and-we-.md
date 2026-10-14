@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-21c316984a
-cluster_size: 9
+cluster_id: cluster-2026-10-07-ae2e5a3ad2
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: iltacon-news-round-up-part-4-the-business-of-law-litera-aderant-oddr-t
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Legaltech Week: Here’s the Video Of Our ILTACON Panel Last Week, And We’re Back Live on Zoom Today At 3ET

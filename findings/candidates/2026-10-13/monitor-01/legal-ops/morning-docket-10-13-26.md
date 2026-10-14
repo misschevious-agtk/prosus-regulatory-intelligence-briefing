@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-13-270ff5f02a
-cluster_size: 1
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Morning Docket: 10.13.26

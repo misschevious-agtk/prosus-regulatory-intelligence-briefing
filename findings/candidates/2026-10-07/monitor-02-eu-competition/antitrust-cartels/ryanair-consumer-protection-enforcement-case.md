@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-06-dd2320e3ca
-cluster_size: 24
-cluster_role: sibling
-cluster_canonical_slug: vodafone-ck-hutchison-jv-merger-inquiry
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_id: cluster-2026-10-07-f8846df4a5
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Ryanair: consumer protection enforcement case

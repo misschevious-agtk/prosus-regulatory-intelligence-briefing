@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-12-b273c2a9ff
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ken-crutchfield-taking-biglaw-private-the-implications-of-kirkland-s-d
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Ken Crutchfield: Taking BigLaw Private? The Implications Of Kirkland’s Decision To Stop Disclosing Financials

@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-10-06-a2f3d9e85a
-cluster_size: 37
+cluster_id: cluster-2026-10-07-9f553204d7
+cluster_size: 34
 cluster_role: sibling
 cluster_canonical_slug: the-irish-data-protection-commission-fines-google-eur-403-000-000-foll
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines

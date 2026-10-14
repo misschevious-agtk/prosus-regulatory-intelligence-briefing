@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-09-1a27352247
-cluster_size: 180
-cluster_role: sibling
-cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_id: cluster-2026-10-07-6ba80846e1
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Video message by President von der Leyen to mark 25th Anniversary of IFOAM Organics Europe

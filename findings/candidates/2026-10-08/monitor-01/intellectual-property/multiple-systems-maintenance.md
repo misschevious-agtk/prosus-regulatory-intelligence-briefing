@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-06-5a8216c466
-cluster_size: 24
+cluster_id: cluster-2026-10-11-bdbb9e5467
+cluster_size: 89
 cluster_role: sibling
-cluster_canonical_slug: patent-public-search-ppubs-maintenance
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_canonical_slug: uspto-announces-a-new-ptab-moot-court-competition-for-the-ptab-advocat
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Multiple Systems Maintenance

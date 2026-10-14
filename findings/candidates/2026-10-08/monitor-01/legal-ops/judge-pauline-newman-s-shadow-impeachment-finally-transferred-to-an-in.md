@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-08-25bc936e8a
-cluster_size: 14
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Judge Pauline Newman’s Shadow Impeachment Finally Transferred To An Independent Court

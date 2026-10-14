@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-06-3e40fdff00
-cluster_size: 210
+cluster_id: cluster-2026-10-07-f35b1c4658
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: how-albertsons-companies-is-reimagining-retail-from-the-inside-out
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_canonical_slug: two-years-of-openai-academy
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Two years of OpenAI Academy

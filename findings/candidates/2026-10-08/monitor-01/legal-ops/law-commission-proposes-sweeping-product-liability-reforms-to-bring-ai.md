@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-08-f89c0845c8
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Law Commission proposes sweeping product liability reforms to bring AI and software within scope

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-cb158c2e1a
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: these-days-the-first-monday-in-october-only-means-one-thing
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_id: cluster-2026-10-07-19f8444d53
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # These Days, The First Monday In October Only Means One Thing

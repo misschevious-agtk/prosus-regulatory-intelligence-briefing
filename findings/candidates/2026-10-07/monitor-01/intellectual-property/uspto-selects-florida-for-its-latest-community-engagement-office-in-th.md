@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-06-cadcfcd8e6
-cluster_size: 6
+cluster_id: cluster-2026-10-07-2ee2522021
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: uspto-s-tiger-team-joins-wipo-s-global-ip-assignment-platform-pilot-pr
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # USPTO selects Florida for its latest community engagement office in the Southeast Region

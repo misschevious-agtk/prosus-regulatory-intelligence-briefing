@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-08-372dbc06fe
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eeoc-wants-to-keep-biglaw-diversity-probe-docs-secret-to-protect-firms
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # EEOC Wants To Keep Biglaw Diversity Probe Docs Secret To ‘Protect’ Firms It Publicly Accused

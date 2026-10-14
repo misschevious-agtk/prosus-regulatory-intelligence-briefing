@@ -22,9 +22,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-10-07-5e44f66c38
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Parting Shot: Mandamus Sends USC v. Google from Judge Albright’s Austin Docket to N.D. Cal.

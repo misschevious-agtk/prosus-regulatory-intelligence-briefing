@@ -22,9 +22,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-10-11-bdbb9e5467
-cluster_size: 17
+cluster_size: 89
 cluster_role: canonical
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # USPTO announces a new PTAB Moot Court Competition for the PTAB advocates of tomorrow

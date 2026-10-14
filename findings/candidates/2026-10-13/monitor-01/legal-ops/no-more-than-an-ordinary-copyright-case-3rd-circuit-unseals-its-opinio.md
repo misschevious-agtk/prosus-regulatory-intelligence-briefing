@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-13-7544fcb486
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_id: cluster-2026-10-14-faf4beb54d
+cluster_size: 3
+cluster_role: sibling
+ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_canonical_slug: no-more-than-an-ordinary-copyright-case-third-circuit-unseals-its-opin
 ---
 
 # ‘No More Than an Ordinary Copyright Case’ — 3rd Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS

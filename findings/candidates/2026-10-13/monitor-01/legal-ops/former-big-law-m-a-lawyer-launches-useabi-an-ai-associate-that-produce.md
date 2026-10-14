@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-13-37dab23f73
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_id: cluster-2026-10-07-de7a120ecc
+cluster_size: 220
+cluster_role: sibling
+ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_canonical_slug: how-albertsons-companies-is-reimagining-retail-from-the-inside-out
 ---
 
 # Former Big Law M&A Lawyer Launches useABI, an AI ‘Associate’ That Produces Deal Docs Without Prompting

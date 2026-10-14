@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-09-1a27352247
-cluster_size: 180
+cluster_id: cluster-2026-10-07-e65c89a9bc
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_canonical_slug: commission-disburses-1-24-billion-to-ukraine-for-drones-and-missiles
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Commission disburses €1.24 billion to Ukraine for drones and missiles

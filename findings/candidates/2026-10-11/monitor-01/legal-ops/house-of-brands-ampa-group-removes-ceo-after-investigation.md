@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-07-c8fa4a2509
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: house-of-brands-ampa-group-removes-ceo-after-investigation
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # ‘House of brands’ Ampa Group removes CEO after investigation

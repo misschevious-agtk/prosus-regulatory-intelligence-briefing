@@ -23,10 +23,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-10-08-cfc8cd11ed
-cluster_size: 66
+cluster_size: 71
 cluster_role: sibling
 cluster_canonical_slug: dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-m
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Without Fear or Favour: The European Commission’s DMA Non-Compliance Decision Against Google’s Self-Preferencing (Case DMA.100193)

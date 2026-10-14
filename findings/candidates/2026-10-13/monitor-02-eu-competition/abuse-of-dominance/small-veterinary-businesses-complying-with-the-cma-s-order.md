@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-13-0af2b0863f
-cluster_size: 6
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: small-veterinary-businesses-complying-with-the-cma-s-order
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Small veterinary businesses: complying with the CMA's Order

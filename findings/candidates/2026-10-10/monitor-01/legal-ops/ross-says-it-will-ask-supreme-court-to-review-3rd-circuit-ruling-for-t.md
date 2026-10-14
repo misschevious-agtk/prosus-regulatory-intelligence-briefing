@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-e66d66c46b
-cluster_size: 40
+cluster_id: cluster-2026-10-07-b238ecb8dc
+cluster_size: 39
 cluster_role: sibling
 cluster_canonical_slug: clear-but-impossible-satius-v-samsung-moves-inoperable-claims-from-ind
-ranked_at: '2026-10-13T14:51:07+00:00'
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case

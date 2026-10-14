@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-06-4259d540c0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: biglaw-partner-pay-has-officially-gone-major-league
-ranked_at: '2026-10-13T14:51:07+00:00'
+cluster_id: cluster-2026-10-07-2919d05984
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-14T12:43:03+00:00'
 ---
 
 # Biglaw Partner Pay Has Officially Gone Major League

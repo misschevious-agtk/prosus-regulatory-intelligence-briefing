@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-43cd2f1974
-cluster_size: 6
+cluster_id: cluster-2026-10-08-77c3fbaa19
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: bridget-mccormack-the-former-jurist-who-led-innovation-at-the-american
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Bridget McCormack, the Former Jurist Who Led Innovation at the American Arbitration Association As Its CEO, To Step Down for New Opportunity

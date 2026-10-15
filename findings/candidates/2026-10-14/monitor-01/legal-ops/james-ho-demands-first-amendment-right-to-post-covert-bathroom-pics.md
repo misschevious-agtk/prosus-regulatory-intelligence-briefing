@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-13-270ff5f02a
-cluster_size: 5
+cluster_id: cluster-2026-10-15-a290c5884a
+cluster_size: 13
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-10-13-26
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_canonical_slug: morning-docket-10-14-26
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # James Ho Demands First Amendment Right To Post Covert Bathroom Pics

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-de7a120ecc
-cluster_size: 220
+cluster_id: cluster-2026-10-08-e4447216c1
+cluster_size: 229
 cluster_role: sibling
 cluster_canonical_slug: how-albertsons-companies-is-reimagining-retail-from-the-inside-out
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # The EU’s next chapter in AI is agentic

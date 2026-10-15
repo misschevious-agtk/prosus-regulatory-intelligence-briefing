@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-12-9da4981625
 cluster_size: 95
 cluster_role: sibling
 cluster_canonical_slug: italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-a
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 8 octobre 2026

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-09-384e0f6263
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: he-dressed-like-davy-crocket-and-won-like-perry-mason
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # He Dressed Like Davy Crocket And Won Like Perry Mason

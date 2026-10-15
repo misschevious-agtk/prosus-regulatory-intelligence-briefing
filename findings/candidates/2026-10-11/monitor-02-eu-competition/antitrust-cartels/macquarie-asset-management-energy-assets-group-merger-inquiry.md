@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-07-e1e1cd7fc2
-cluster_size: 240
+cluster_id: cluster-2026-10-08-9480d56b9d
+cluster_size: 234
 cluster_role: sibling
 cluster_canonical_slug: e-on-ovo-merger-inquiry
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Macquarie Asset Management / Energy Assets Group merger inquiry

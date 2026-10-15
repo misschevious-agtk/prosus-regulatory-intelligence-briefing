@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-0c0f1529a7
+cluster_id: cluster-2026-10-08-4a1e12b3ab
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: import-ai-470-no-rights-for-machines-automating-environment-generation
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye

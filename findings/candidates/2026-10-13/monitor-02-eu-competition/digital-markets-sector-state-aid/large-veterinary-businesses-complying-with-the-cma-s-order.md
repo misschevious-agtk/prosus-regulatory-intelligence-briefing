@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-13-0af2b0863f
-cluster_size: 12
+cluster_id: cluster-2026-10-12-5d6abc1b51
+cluster_size: 81
 cluster_role: sibling
-cluster_canonical_slug: small-veterinary-businesses-complying-with-the-cma-s-order
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_canonical_slug: co-operative-group-southern-co-operative-merger-inquiry
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Large veterinary businesses: complying with the CMA's Order

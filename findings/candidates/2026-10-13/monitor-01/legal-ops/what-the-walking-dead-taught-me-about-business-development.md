@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-09-1ba17fb342
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: what-the-walking-dead-taught-me-about-business-development
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # What ‘The Walking Dead’ Taught Me About Business Development

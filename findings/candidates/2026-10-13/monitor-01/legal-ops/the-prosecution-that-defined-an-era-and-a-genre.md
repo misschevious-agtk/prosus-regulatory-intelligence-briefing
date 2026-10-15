@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-10-a1276aa579
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-prosecution-that-defined-an-era-and-a-genre
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # The Prosecution That Defined An Era — And A Genre

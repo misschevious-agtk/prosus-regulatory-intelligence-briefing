@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-782e4e059b
-cluster_size: 12
+cluster_id: cluster-2026-10-08-d95d106579
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: law-school-in-the-age-of-ai-rethinking-it-from-the-ground-up
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_canonical_slug: legal-it-insider-security-report-beyond-the-perimeter-ai-is-rewriting-
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Everlaw’s 2026 AI Report: A Glass Half Full Or Half Empty?

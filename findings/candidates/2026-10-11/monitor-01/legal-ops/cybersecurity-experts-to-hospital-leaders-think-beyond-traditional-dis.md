@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-10-68a72ce6c3
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-dis
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Cybersecurity Experts To Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning

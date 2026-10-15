@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-550e68c244
-cluster_size: 5
+cluster_id: cluster-2026-10-08-b923e78509
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: method-or-molecule-judge-dyk-dissents-from-en-banc-denial-in-teva-v-li
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Method or Molecule: Judge Dyk Dissents from En Banc Denial in Teva v. Lilly

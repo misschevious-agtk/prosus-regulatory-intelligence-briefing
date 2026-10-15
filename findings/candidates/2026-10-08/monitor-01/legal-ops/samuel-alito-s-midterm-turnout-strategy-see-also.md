@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-10-09-ee41964728
-cluster_size: 21
+cluster_id: cluster-2026-10-08-4e40606654
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-10-09-26
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_canonical_slug: samuel-alito-would-like-conservative-voters-to-know-his-seat-is-on-the
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Samuel Alito’s Midterm Turnout Strategy — See Also

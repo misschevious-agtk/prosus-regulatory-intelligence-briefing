@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-08-f542c1e852
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: bird-watching-hawks-vs-hawkeyes
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Bird Watching: Hawks vs. Hawkeyes

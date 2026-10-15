@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-559ececb6f
+cluster_id: cluster-2026-10-08-71c17ad998
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-awards-more-than-30-million-for-mep-centers-in-11-states-and-puer
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico

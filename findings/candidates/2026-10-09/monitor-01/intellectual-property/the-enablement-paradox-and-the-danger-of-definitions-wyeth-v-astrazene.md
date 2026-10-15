@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-050516dc8d
+cluster_id: cluster-2026-10-08-867097ec3d
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-enablement-paradox-and-the-danger-of-definitions-wyeth-v-astrazene
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # The enablement paradox and the danger of definitions (Wyeth v AstraZeneca)

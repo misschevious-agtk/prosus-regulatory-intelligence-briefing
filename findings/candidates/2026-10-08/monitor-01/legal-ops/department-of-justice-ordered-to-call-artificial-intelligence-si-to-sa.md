@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-7ff219c927
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: department-of-justice-ordered-to-call-artificial-intelligence-si-to-sa
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_id: cluster-2026-10-08-7ad73dbeb2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Department Of Justice Ordered To Call Artificial Intelligence ‘SI’ To Satisfy Donald Trump Fever Dreams

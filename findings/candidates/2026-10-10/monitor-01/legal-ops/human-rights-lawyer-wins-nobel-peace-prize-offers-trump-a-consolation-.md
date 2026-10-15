@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-10-f3f78b444b
 cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Human Rights Lawyer Wins Nobel Peace Prize, Offers Trump A Consolation Roast

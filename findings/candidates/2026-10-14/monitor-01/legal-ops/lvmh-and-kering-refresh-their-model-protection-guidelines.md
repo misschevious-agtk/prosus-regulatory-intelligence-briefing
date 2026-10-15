@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-13-3343a008f4
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: lvmh-and-kering-refresh-their-model-protection-guidelines
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # LVMH And Kering Refresh Their Model Protection Guidelines

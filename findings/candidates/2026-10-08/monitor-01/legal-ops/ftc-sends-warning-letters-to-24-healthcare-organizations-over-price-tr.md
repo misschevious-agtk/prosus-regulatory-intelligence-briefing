@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: FTC
 case_numbers: []
-cluster_id: cluster-2026-10-07-37c994e342
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ftc-sends-warning-letters-to-24-healthcare-organizations-over-price-tr
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_id: cluster-2026-10-08-4493a9d661
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # FTC Sends Warning Letters To 24 Healthcare Organizations Over Price Transparency

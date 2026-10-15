@@ -24,9 +24,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-13-d9a8308f4d
-cluster_size: 8
+cluster_size: 11
 cluster_role: sibling
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 cluster_canonical_slug: annual-report-2025-out-now
 ---
 

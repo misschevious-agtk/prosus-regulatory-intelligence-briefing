@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-becf3c66aa
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: this-attorney-advised-four-presidents-before-a-rogue-bank-undid-him
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_id: cluster-2026-10-08-9ac5de82b2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # This Attorney Advised Four Presidents Before A Rogue Bank Undid Him

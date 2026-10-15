@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-10-b06297e42f
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: content-refresh-strategy-how-to-update-old-posts-for-new-wins
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Content Refresh Strategy: How To Update Old Posts For New Wins

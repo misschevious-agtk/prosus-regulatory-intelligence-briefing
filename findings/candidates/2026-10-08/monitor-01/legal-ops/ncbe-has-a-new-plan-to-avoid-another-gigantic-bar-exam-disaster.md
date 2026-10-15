@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-07-45e63f5324
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ncbe-has-a-new-plan-to-avoid-another-gigantic-bar-exam-disaster
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_id: cluster-2026-10-08-c016db9fbb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # NCBE Has A New Plan To Avoid Another Gigantic Bar Exam Disaster

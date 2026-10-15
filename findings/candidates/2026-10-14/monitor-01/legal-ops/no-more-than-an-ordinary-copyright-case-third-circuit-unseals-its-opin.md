@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-14-faf4beb54d
-cluster_size: 3
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # ‘No More Than An Ordinary Copyright Case’: Third Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS

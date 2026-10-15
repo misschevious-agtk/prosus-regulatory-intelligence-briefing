@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-10-fde0671f05
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: alabama-s-tiktok-settlement-comes-with-an-affiliate-program-for-gettin
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Alabama’s TikTok Settlement Comes With An Affiliate Program For Getting Other AGs To Go After TikTok

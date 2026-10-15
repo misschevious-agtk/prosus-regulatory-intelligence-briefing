@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-09-d2be931f61
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # ROSS Says It Will Ask Supreme Court To Review Third Circuit Ruling For Thomson Reuters In Copyright Case

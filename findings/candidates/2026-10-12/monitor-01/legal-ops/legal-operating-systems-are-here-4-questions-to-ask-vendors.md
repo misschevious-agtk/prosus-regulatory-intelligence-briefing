@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-09-f11b37d698
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: legal-operating-systems-are-here-4-questions-to-ask-vendors
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Legal Operating Systems Are Here: 4 Questions To Ask Vendors

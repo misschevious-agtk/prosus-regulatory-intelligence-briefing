@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-08-ab59223382
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # From IRS Audit To Internet Headlines: The Public Reality Of Tax Court

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-07-580b373162
-cluster_size: 8
+cluster_id: cluster-2026-10-08-e2ce876cef
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: openai-extends-cyber-access-to-ukraine-for-civilian-defense
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Sophos cuts threat investigation time by 96% with OpenAI Daybreak

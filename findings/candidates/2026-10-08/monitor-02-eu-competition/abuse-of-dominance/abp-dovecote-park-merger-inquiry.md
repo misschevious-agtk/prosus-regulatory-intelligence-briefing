@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-07-f8846df4a5
-cluster_size: 9
+cluster_id: cluster-2026-10-08-4257281830
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: ryanair-consumer-protection-enforcement-case
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_canonical_slug: abp-dovecote-park-merger-inquiry
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # ABP / Dovecote Park merger inquiry

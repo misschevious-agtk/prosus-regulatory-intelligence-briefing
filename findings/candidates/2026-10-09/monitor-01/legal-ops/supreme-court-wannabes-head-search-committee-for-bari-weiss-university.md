@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-08-e9cbe26a3f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-wannabes-head-search-committee-for-bari-weiss-university
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Supreme Court Wannabes Head Search Committee For Bari Weiss University Law School Dean

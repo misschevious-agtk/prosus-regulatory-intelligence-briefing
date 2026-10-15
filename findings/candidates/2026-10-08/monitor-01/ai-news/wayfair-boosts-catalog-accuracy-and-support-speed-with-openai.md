@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-07-c211a1a207
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: wayfair-boosts-catalog-accuracy-and-support-speed-with-openai
-ranked_at: '2026-10-14T12:43:03+00:00'
+cluster_id: cluster-2026-10-08-9a45f8bdb7
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Wayfair boosts catalog accuracy and support speed with OpenAI

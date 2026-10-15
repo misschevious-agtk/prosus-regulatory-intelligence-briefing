@@ -28,9 +28,9 @@ entities:
   matched_alias: AP
 case_numbers: []
 cluster_id: cluster-2026-10-08-cfc8cd11ed
-cluster_size: 71
+cluster_size: 73
 cluster_role: canonical
-ranked_at: '2026-10-14T12:43:03+00:00'
+ranked_at: '2026-10-15T12:30:10+00:00'
 ---
 
 # Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling

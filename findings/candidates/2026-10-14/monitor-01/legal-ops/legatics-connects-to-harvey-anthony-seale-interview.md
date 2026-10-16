@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-13-5a32e0e762
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: legatics-connects-to-harvey-anthony-seale-interview
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Legatics Connects to Harvey + Anthony Seale Interview

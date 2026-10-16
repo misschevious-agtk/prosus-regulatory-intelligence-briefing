@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-08-27cf33c5b1
+cluster_id: cluster-2026-10-09-447de5cd81
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: advancing-computer-use-with-ironclad
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Advancing computer use with Ironclad

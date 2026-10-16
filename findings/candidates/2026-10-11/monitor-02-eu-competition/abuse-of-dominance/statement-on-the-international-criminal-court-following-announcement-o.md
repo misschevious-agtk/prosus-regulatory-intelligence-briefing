@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-10-1416986baf
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: statement-on-the-international-criminal-court-following-announcement-o
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Statement on the International Criminal Court following announcement of US sanctions

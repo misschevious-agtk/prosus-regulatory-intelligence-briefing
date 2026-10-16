@@ -18,10 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-12-5d6abc1b51
-cluster_size: 81
-cluster_role: canonical
-ranked_at: '2026-10-15T12:30:10+00:00'
+cluster_id: cluster-2026-10-16-d84b39e862
+cluster_size: 130
+cluster_role: sibling
+ranked_at: '2026-10-16T12:08:24+00:00'
+cluster_canonical_slug: proposed-decision-sms-investigation-into-microsoft-s-business-software
 ---
 
 # Co-operative Group / Southern Co-operative merger inquiry

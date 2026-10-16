@@ -18,11 +18,11 @@ entities:
   jurisdiction: NL
   matched_alias: ACM
 case_numbers: []
-cluster_id: cluster-2026-10-08-097f26a5ca
-cluster_size: 4
+cluster_id: cluster-2026-10-09-afc1ca140a
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: spellbook-s-autonomous-contract-management-on-general-release
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Spellbook’s Autonomous Contract Management on General Release

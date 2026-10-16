@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-09-202f65c2cf
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: legal-tech-news-roundup-major-funding-acquisitions-and-new-launches
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Legal tech news roundup: Major funding, acquisitions and new launches

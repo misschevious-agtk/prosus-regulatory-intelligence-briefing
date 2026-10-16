@@ -19,10 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-10-15-a290c5884a
-cluster_size: 13
-cluster_role: canonical
-ranked_at: '2026-10-15T12:30:10+00:00'
+cluster_id: cluster-2026-10-09-4a6c7046ca
+cluster_size: 64
+cluster_role: sibling
+ranked_at: '2026-10-16T12:08:24+00:00'
+cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
 ---
 
 # Morning Docket: 10.14.26

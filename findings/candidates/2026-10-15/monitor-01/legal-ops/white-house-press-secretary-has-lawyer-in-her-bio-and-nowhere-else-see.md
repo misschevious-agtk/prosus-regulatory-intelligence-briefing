@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-15-a290c5884a
-cluster_size: 13
+cluster_id: cluster-2026-10-09-4a6c7046ca
+cluster_size: 64
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-10-14-26
-ranked_at: '2026-10-15T12:30:10+00:00'
+cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # White House Press Secretary Has ‘Lawyer’ In Her Bio And Nowhere Else — See Also

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-08-7312de28fb
-cluster_size: 44
+cluster_id: cluster-2026-10-09-4a6c7046ca
+cluster_size: 64
 cluster_role: sibling
 cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Never Too Late: If you missed the IPKat last week!

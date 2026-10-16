@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-08-ee56450e78
+cluster_id: cluster-2026-10-09-d771176204
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: guest-post-the-rise-of-the-contracting-stack
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Guest Post: The Rise Of The Contracting ‘Stack’

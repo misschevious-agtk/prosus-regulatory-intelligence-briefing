@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-08-eaf64743f3
+cluster_id: cluster-2026-10-09-b4d4e48afa
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nominations-are-open-for-the-2027-alli-gerkman-legal-visionary-award-d
-ranked_at: '2026-10-15T12:30:10+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Nominations Are Open for the 2027 Alli Gerkman Legal Visionary Award; Deadline is Nov. 1

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-10-1c2c863df5
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: the-money-mistakes-high-earning-lawyers-don-t-see-coming
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # The Money Mistakes High-Earning Lawyers Don’t See Coming

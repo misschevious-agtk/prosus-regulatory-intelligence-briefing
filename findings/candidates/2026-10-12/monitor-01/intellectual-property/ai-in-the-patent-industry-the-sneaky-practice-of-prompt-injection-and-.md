@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-12-e703781943
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # AI in the patent industry: The sneaky practice of prompt injection (and what to do about it)

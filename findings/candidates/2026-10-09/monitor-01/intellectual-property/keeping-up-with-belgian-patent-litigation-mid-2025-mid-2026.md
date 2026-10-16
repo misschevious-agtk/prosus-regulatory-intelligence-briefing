@@ -19,11 +19,10 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-10-08-7312de28fb
-cluster_size: 44
-cluster_role: sibling
-cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
-ranked_at: '2026-10-15T12:30:10+00:00'
+cluster_id: cluster-2026-10-09-4a6c7046ca
+cluster_size: 64
+cluster_role: canonical
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Keeping up with Belgian Patent Litigation – mid-2025 - mid-2026

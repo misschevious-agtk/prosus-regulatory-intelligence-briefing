@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-09-1a27352247
-cluster_size: 189
+cluster_id: cluster-2026-10-09-9d307270c5
+cluster_size: 161
 cluster_role: sibling
-cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-15T12:30:10+00:00'
+cluster_canonical_slug: opening-remarks-by-executive-vice-president-s-journ-at-the-press-point
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # Opening Remarks by Commissioner Hansen at the Farmers' Congress in Sweden

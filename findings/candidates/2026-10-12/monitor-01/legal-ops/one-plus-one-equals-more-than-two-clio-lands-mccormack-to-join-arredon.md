@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-08-a1ca2a53a3
-cluster_size: 8
+cluster_id: cluster-2026-10-09-6728f702e5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: one-plus-one-equals-more-than-two-clio-lands-mccormack-to-join-arredon
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # One Plus One Equals More Than Two: Clio Lands McCormack to Join Arredondo in Judiciary Expansion

@@ -19,10 +19,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-10-12-9da4981625
-cluster_size: 95
+cluster_size: 98
 cluster_role: sibling
 cluster_canonical_slug: italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-a
-ranked_at: '2026-10-15T12:30:10+00:00'
+ranked_at: '2026-10-16T12:08:24+00:00'
 ---
 
 # NEWSLETTER del 26 marzo 2026 - Telemarketing, il Garante privacy sanziona Enel Energia per oltre 500mila euro - Annunci online senza consenso, il Garante sanziona Bakeca - Recupero crediti, Garante privacy: illecita la comunicazione ai familiari del debitore - Troppi rischi su siti e app per i minori: l’indagine del GPEN

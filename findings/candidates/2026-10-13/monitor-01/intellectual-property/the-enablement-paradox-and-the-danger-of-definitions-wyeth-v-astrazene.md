@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-e0a93916db
-cluster_size: 8
+cluster_id: cluster-2026-10-17-a8c7fe8259
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: the-enablement-paradox-and-the-danger-of-definitions-wyeth-v-astrazene
-ranked_at: '2026-10-16T12:08:24+00:00'
+cluster_canonical_slug: reformatio-in-peius-survives-a-procedural-violation-t-1168-24
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # The enablement paradox and the danger of definitions (Wyeth v AstraZeneca)

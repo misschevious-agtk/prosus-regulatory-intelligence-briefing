@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-524ff8fe30
-cluster_size: 10
-cluster_role: sibling
-cluster_canonical_slug: judge-pauline-newman-s-shadow-impeachment-finally-transferred-to-an-in
-ranked_at: '2026-10-16T12:08:24+00:00'
+cluster_id: cluster-2026-10-10-a411b89fc8
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # From Biglaw To TV Judge

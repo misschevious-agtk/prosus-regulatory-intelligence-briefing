@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-2199b05089
-cluster_size: 4
+cluster_id: cluster-2026-10-10-7330573840
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: l-or-al-hires-biglaw-restructuring-advisers-over-talc-related-claims
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # L’Oréal Hires Biglaw Restructuring Advisers Over Talc-Related Claims

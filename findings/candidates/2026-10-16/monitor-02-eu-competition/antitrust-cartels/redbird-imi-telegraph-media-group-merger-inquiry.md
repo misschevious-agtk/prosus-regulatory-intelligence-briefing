@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-16-d84b39e862
-cluster_size: 130
+cluster_id: cluster-2026-10-17-091a0cbed9
+cluster_size: 179
 cluster_role: sibling
 cluster_canonical_slug: proposed-decision-sms-investigation-into-microsoft-s-business-software
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # RedBird IMI / Telegraph Media Group merger inquiry

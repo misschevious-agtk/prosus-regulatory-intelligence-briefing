@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-f11b37d698
-cluster_size: 5
+cluster_id: cluster-2026-10-10-5a6229038f
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: legal-operating-systems-are-here-4-questions-to-ask-vendors
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Legal Operating Systems Are Here: 4 Questions To Ask Vendors

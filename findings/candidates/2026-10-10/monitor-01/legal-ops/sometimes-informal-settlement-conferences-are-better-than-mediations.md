@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-10-f0f01f165d
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Sometimes Informal Settlement Conferences Are Better Than Mediations

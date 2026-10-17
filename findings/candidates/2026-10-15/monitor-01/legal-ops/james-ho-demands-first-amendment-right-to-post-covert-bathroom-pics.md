@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-4a6c7046ca
-cluster_size: 64
+cluster_id: cluster-2026-10-10-ab0ba20e1b
+cluster_size: 68
 cluster_role: sibling
 cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # James Ho Demands First Amendment Right To Post Covert Bathroom Pics

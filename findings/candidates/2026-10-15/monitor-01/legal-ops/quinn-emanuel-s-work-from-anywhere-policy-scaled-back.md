@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-14-23ac91d33e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: quinn-emanuel-s-work-from-anywhere-policy-scaled-back
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Quinn Emanuel’s ‘Work From Anywhere’ Policy Scaled Back

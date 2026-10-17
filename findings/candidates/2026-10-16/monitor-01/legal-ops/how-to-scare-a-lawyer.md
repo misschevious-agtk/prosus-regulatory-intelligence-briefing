@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-15-28d7e6ab13
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: how-to-scare-a-lawyer
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # How To Scare A Lawyer

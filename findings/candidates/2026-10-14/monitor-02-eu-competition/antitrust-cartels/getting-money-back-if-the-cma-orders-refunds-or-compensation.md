@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-14-f5f19685e6
-cluster_size: 15
+cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Getting money back if the CMA orders refunds or compensation

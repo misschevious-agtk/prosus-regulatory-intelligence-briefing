@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-15-378821d200
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmak
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Democratic Midterm Gains Could Speed US Military Aid To Ukraine, Lawmaker Says

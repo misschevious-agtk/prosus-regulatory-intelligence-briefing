@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-14-83a008674a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: what-axiom-s-budget-study-reveals-about-the-next-generation-of-in-hous
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # What Axiom’s Budget Study Reveals About The Next Generation Of In-House Legal

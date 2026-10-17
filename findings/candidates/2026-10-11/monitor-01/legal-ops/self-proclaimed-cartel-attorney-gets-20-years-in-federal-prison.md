@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-53e803b94e
-cluster_size: 5
+cluster_id: cluster-2026-10-10-2a2912c62d
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: self-proclaimed-cartel-attorney-gets-20-years-in-federal-prison
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Self-Proclaimed ‘Cartel Attorney’ Gets 20 Years In Federal Prison

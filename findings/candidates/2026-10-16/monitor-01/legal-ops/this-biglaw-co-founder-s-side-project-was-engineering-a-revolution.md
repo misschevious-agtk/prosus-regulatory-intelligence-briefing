@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-14-d6123dbba2
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: this-biglaw-co-founder-s-side-project-was-engineering-a-revolution
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # This Biglaw Co-Founder’s Side Project Was Engineering A Revolution

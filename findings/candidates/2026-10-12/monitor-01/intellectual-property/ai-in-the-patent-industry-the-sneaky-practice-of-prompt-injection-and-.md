@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-12-e703781943
-cluster_size: 5
-cluster_role: canonical
-ranked_at: '2026-10-16T12:08:24+00:00'
+cluster_id: cluster-2026-10-16-da90254aa6
+cluster_size: 248
+cluster_role: sibling
+ranked_at: '2026-10-17T11:24:41+00:00'
+cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
 ---
 
 # AI in the patent industry: The sneaky practice of prompt injection (and what to do about it)

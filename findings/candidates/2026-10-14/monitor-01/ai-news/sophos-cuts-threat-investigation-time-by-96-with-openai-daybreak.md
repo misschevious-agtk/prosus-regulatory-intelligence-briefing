@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-09-aedcffb269
-cluster_size: 10
+cluster_id: cluster-2026-10-10-cb4d25709e
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: sophos-cuts-threat-investigation-time-by-96-with-openai-daybreak
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Sophos cuts threat investigation time by 96% with OpenAI Daybreak

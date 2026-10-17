@@ -1,6 +1,6 @@
 # State of the Monitors — 2026 W42
 
-_Generated 2026-10-16T12:08:27.774268+00:00_
+_Generated 2026-10-17T11:24:45.843384+00:00_
 
 ## Summary
 

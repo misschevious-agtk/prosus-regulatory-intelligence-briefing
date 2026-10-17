@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-15-c881249914
-cluster_size: 1
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Legal Innovators New York – Speakers + Tickets Info

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-384e0f6263
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: he-dressed-like-davy-crocket-and-won-like-perry-mason
-ranked_at: '2026-10-16T12:08:24+00:00'
+cluster_id: cluster-2026-10-10-a98d74b2be
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # He Dressed Like Davy Crocket And Won Like Perry Mason

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-13-63aa07afcd
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: watch-him-as-he-goes-see-generally
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Watch Him As He Goes — See Generally

@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-10-09-e4521f73b5
-cluster_size: 4
+cluster_id: cluster-2026-10-10-363f7bc49f
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: harvey-lexis-google-cooley-li-uk-tickets
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Harvey + Lexis, Google + Cooley, LI UK Tickets

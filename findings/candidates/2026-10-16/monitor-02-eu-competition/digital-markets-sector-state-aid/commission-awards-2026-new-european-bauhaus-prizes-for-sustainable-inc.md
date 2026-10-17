@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-15-2e7c854c10
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-awards-six-projects-making-lasting-contributions-for-europe
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Commission awards 2026 New European Bauhaus prizes for sustainable, inclusive and beautiful projects

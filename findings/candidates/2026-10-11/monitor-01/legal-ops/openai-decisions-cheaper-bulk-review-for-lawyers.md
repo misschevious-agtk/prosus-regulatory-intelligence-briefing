@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-09-bedb2a77ba
-cluster_size: 3
+cluster_id: cluster-2026-10-10-10610b1ebd
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: openai-decisions-cheaper-bulk-review-for-lawyers
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # OpenAI Decisions – Cheaper Bulk Review For Lawyers

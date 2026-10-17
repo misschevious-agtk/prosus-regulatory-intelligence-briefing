@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-75d94b5ec2
-cluster_size: 231
+cluster_id: cluster-2026-10-16-da90254aa6
+cluster_size: 248
 cluster_role: sibling
-cluster_canonical_slug: how-albertsons-companies-is-reimagining-retail-from-the-inside-out
-ranked_at: '2026-10-16T12:08:24+00:00'
+cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO

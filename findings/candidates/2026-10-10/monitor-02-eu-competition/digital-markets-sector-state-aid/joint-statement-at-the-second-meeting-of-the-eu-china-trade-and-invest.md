@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-09-9d307270c5
-cluster_size: 161
-cluster_role: sibling
-cluster_canonical_slug: opening-remarks-by-executive-vice-president-s-journ-at-the-press-point
-ranked_at: '2026-10-16T12:08:24+00:00'
+cluster_id: cluster-2026-10-10-e4cf6d50f9
+cluster_size: 10
+cluster_role: canonical
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Joint Statement at the second meeting of the EU-China Trade and Investment Consultations

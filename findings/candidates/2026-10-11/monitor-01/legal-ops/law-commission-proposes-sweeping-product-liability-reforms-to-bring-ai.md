@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-09-7a89c8a7c7
-cluster_size: 3
+cluster_id: cluster-2026-10-10-265327ec5c
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: law-commission-proposes-sweeping-product-liability-reforms-to-bring-ai
-ranked_at: '2026-10-16T12:08:24+00:00'
+ranked_at: '2026-10-17T11:24:41+00:00'
 ---
 
 # Law Commission proposes sweeping product liability reforms to bring AI and software within scope

@@ -20,9 +20,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-10-17-472ed7f25c
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Exciting Salary News For Biglaw Associates  — See Also

@@ -18,9 +18,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-10-15-4d67d5c03e
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # How Block is building AI-powered security with OpenAI technology

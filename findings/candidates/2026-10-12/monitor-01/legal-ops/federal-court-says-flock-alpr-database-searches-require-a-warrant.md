@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-10-ac23f0f40f
-cluster_size: 5
+cluster_id: cluster-2026-10-11-99dffecf9e
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: federal-court-says-flock-alpr-database-searches-require-a-warrant
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Federal Court Says Flock ALPR Database Searches Require A Warrant

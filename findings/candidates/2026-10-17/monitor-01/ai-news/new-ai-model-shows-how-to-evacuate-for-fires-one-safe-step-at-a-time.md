@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-10-46c299a6fd
+cluster_id: cluster-2026-10-11-1103fe1619
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: new-ai-model-shows-how-to-evacuate-for-fires-one-safe-step-at-a-time
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # New AI Model Shows How to Evacuate for Fires One Safe Step at a Time

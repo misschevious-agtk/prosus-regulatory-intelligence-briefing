@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-15-ca49d409a5
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: rescheduling-of-the-eu-gcc-summit
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Rescheduling of the EU-GCC Summit

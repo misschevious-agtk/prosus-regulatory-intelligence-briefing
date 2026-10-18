@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-10-2950e92e96
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legal-tech-news-roundup-major-funding-acquisitions-and-new-launches
-ranked_at: '2026-10-17T11:24:41+00:00'
+cluster_id: cluster-2026-10-11-7141f30ab6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Legal tech news roundup: Major funding, acquisitions and new launches

@@ -27,9 +27,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-13-d9a8308f4d
-cluster_size: 17
+cluster_size: 20
 cluster_role: canonical
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Annual Report 2025 out now!

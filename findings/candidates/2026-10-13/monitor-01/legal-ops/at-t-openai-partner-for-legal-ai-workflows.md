@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-16-da90254aa6
-cluster_size: 248
+cluster_id: cluster-2026-10-11-c751fd1a8d
+cluster_size: 14
 cluster_role: sibling
-cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
-ranked_at: '2026-10-17T11:24:41+00:00'
+cluster_canonical_slug: at-t-openai-partner-for-legal-ai-workflows
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # AT&T + OpenAI Partner for Legal AI Workflows

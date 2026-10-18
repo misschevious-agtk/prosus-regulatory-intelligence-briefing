@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-10-b06297e42f
-cluster_size: 5
+cluster_id: cluster-2026-10-11-3c4ba08af0
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: content-refresh-strategy-how-to-update-old-posts-for-new-wins
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Content Refresh Strategy: How To Update Old Posts For New Wins

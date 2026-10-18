@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-10-51dc71438f
-cluster_size: 146
-cluster_role: sibling
-cluster_canonical_slug: opening-remarks-by-executive-vice-president-s-journ-at-the-press-point
-ranked_at: '2026-10-17T11:24:41+00:00'
+cluster_id: cluster-2026-10-11-c1469af927
+cluster_size: 147
+cluster_role: canonical
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Opening remarks by Executive Vice-President Séjourné at the press point on the second group of strategic projects under the Critical Raw Materials Act

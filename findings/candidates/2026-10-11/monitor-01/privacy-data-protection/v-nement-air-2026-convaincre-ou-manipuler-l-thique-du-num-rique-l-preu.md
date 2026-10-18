@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-10-c8868a0fc2
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: v-nement-air-2026-convaincre-ou-manipuler-l-thique-du-num-rique-l-preu
-ranked_at: '2026-10-17T11:24:41+00:00'
+cluster_id: cluster-2026-10-11-568829b8e9
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Évènement air 2026 : Convaincre ou manipuler ? L'éthique du numérique à l'épreuve des urnes, le 16 novembre à la CNIL

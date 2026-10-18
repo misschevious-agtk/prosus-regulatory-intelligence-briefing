@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-10-10-70591b7b1c
-cluster_size: 6
+cluster_id: cluster-2026-10-11-1d87860817
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: ordre-du-jour-de-la-s-ance-pl-ni-re-du-1er-octobre-2026
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 1er octobre 2026

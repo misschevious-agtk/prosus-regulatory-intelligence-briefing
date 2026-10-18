@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-13-d9e99277c6
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature

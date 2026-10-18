@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-10-dfa11a1e84
-cluster_size: 3
+cluster_id: cluster-2026-10-11-943353f349
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: casepoint-launches-casepoint-iq-an-ai-framework-spanning-its-full-plat
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Casepoint Launches Casepoint IQ, An AI Framework Spanning Its Full Platform, from New Autonomous Agents and Assistive AI to Legacy Predictive Coding

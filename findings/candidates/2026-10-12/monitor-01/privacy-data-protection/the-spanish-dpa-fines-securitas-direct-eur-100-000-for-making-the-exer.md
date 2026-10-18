@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-10-cbe171b0c9
-cluster_size: 21
+cluster_id: cluster-2026-10-11-aca7fb97db
+cluster_size: 17
 cluster_role: sibling
 cluster_canonical_slug: the-irish-data-protection-commission-fines-google-eur-403-000-000-foll
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number

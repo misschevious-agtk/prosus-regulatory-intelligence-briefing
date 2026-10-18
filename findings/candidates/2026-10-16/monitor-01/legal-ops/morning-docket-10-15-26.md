@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-10-ab0ba20e1b
-cluster_size: 68
+cluster_id: cluster-2026-10-11-5fe935636f
+cluster_size: 72
 cluster_role: sibling
 cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Morning Docket: 10.15.26

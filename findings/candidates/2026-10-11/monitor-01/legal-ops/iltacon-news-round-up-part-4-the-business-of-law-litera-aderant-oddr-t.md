@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-10-31c78e8b3b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: iltacon-news-round-up-part-4-the-business-of-law-litera-aderant-oddr-t
-ranked_at: '2026-10-17T11:24:41+00:00'
+cluster_id: cluster-2026-10-11-c63edd01de
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # ILTACON News Round-Up Part 4, The Business of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp

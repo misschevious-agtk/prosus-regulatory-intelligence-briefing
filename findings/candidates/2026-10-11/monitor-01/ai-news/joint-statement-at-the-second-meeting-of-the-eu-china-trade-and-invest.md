@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-10-e4cf6d50f9
-cluster_size: 10
+cluster_id: cluster-2026-10-11-1f8d5249c3
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: joint-statement-at-the-second-meeting-of-the-eu-china-trade-and-invest
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Joint Statement at the second meeting of the EU-China Trade and Investment Consultations

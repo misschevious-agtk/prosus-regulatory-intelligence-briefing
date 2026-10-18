@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-13-d2d929e38d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: job-quality-is-a-priority-in-the-eu-according-to-annual-commission-rep
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Job quality is a priority in the EU, according to annual Commission report

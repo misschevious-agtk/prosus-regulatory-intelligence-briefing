@@ -22,7 +22,7 @@ cluster_id: cluster-2026-10-12-9da4981625
 cluster_size: 98
 cluster_role: sibling
 cluster_canonical_slug: italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-a
-ranked_at: '2026-10-17T11:24:41+00:00'
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # NEWSLETTER del 29 luglio 2026 - Marketing: il Garante sanziona Altroconsumo Edizioni per 280mila euro - AI Act, Garante: sì allo schema di decreto legislativo, ma con maggiori garanzie - AI Act, Garante: rafforzare le tutele per i dati biometrici - Data breach, il Garante sanziona la Città Metropolitana di Sassari

@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-10-2a9c5f6327
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: make-a-whistleblower-report
-ranked_at: '2026-10-17T11:24:41+00:00'
+cluster_id: cluster-2026-10-11-b5af3757cd
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-18T11:59:34+00:00'
 ---
 
 # Make a whistleblower report

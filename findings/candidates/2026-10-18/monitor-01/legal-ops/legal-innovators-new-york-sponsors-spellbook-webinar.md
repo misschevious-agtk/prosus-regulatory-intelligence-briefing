@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-15-c881249914
-cluster_size: 5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: legal-innovators-new-york-speakers-tickets-info
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Legal Innovators New York Sponsors, Spellbook Webinar +

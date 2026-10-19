@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-11-4bb5650fe3
-cluster_size: 3
+cluster_id: cluster-2026-10-12-d65c410ec0
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-appointee-signals-trump-s-press-ban-is-toast-thanks-mostly-to-tr
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Trump Appointee Signals Trump’s Press Ban Is Toast, Thanks Mostly To Trump

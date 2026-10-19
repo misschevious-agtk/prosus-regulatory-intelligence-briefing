@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-11-c1469af927
-cluster_size: 147
+cluster_id: cluster-2026-10-12-8863f77a96
+cluster_size: 145
 cluster_role: sibling
-cluster_canonical_slug: opening-remarks-by-executive-vice-president-s-journ-at-the-press-point
-ranked_at: '2026-10-18T11:59:34+00:00'
+cluster_canonical_slug: speech-by-executive-vice-president-teresa-ribera-at-an-event-organised
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Daily News 12 / 10 / 2026

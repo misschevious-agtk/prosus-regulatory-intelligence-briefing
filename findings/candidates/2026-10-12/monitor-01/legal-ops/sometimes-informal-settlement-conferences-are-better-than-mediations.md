@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-11-bdf879be53
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: sometimes-informal-settlement-conferences-are-better-than-mediations
-ranked_at: '2026-10-18T11:59:34+00:00'
+cluster_id: cluster-2026-10-12-6ab2eb280f
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Sometimes Informal Settlement Conferences Are Better Than Mediations

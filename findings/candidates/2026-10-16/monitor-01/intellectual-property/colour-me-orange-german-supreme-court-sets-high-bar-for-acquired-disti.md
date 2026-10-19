@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-11-c32db69255
-cluster_size: 22
+cluster_id: cluster-2026-10-12-4ef38eed97
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: colour-me-orange-german-supreme-court-sets-high-bar-for-acquired-disti
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Colour me orange: German Supreme Court sets high bar for acquired distinctiveness of abstract colour marks

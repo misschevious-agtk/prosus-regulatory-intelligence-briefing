@@ -19,9 +19,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-12-9da4981625
-cluster_size: 98
+cluster_size: 78
 cluster_role: canonical
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements

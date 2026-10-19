@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-11-c751fd1a8d
-cluster_size: 14
+cluster_id: cluster-2026-10-13-00f48008f3
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: at-t-openai-partner-for-legal-ai-workflows
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise)

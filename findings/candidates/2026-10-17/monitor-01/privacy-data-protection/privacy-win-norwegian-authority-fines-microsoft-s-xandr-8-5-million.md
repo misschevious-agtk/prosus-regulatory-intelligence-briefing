@@ -24,10 +24,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-13-d9a8308f4d
-cluster_size: 20
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: annual-report-2025-out-now
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Privacy win: Norwegian Authority fines Microsoft’s Xandr € 8.5 Million

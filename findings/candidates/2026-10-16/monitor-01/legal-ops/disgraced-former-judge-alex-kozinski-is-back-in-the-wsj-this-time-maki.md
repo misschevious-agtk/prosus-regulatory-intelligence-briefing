@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-15-bd5af79b33
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: disgraced-former-judge-alex-kozinski-is-back-in-the-wsj-this-time-maki
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Disgraced Former Judge Alex Kozinski Is Back In The WSJ, This Time Making ‘The Case For Firing Squads’

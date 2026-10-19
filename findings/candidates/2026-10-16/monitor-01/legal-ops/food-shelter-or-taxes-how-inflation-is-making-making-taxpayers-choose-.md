@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-15-07a5d0b6a4
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: food-shelter-or-taxes-how-inflation-is-making-making-taxpayers-choose-
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Food, Shelter, Or Taxes: How Inflation Is Making Making Taxpayers Choose Between Survival And Their Civic Duty

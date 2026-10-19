@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-11-fd895478bc
-cluster_size: 8
+cluster_id: cluster-2026-10-12-7b4c9d240a
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: human-rights-lawyer-wins-nobel-peace-prize-offers-trump-a-consolation-
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Human Rights Lawyer Wins Nobel Peace Prize, Offers Trump A Consolation Roast

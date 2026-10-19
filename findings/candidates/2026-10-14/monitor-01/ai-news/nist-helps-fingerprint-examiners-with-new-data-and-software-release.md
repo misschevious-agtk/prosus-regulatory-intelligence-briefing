@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-11-877687a3bd
-cluster_size: 6
+cluster_id: cluster-2026-10-12-1c0c895894
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: nist-helps-fingerprint-examiners-with-new-data-and-software-release
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # NIST Helps Fingerprint Examiners With New Data and Software Release

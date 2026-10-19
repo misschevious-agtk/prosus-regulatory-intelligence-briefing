@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-10-15-4d67d5c03e
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: how-block-is-building-ai-powered-security-with-openai-technology
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # How Block is building AI-powered security with OpenAI technology

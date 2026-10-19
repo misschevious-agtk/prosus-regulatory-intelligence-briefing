@@ -19,10 +19,10 @@ entities:
   matched_alias: EDPB
 case_numbers: []
 cluster_id: cluster-2026-10-13-518b4a4012
-cluster_size: 10
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: edpb-publishes-statement-on-the-data-protection-challenges-of-smart-gl
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # EDPB publishes statement on the data protection challenges of smart glasses

@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-11-1f8d5249c3
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: joint-statement-at-the-second-meeting-of-the-eu-china-trade-and-invest
-ranked_at: '2026-10-18T11:59:34+00:00'
+cluster_id: cluster-2026-10-12-c85689bd9a
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Press remarks by Commissioner Šefčovič at the second meeting of the EU-China Trade and Investment Consultations

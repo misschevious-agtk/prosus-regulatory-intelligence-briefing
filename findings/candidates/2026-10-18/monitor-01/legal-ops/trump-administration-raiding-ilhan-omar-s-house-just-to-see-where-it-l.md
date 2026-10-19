@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-16-c2f03c552d
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-administration-raiding-ilhan-omar-s-house-just-to-see-where-it-l
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Trump Administration Raiding Ilhan Omar’s House Just To ‘See Where It Leads’

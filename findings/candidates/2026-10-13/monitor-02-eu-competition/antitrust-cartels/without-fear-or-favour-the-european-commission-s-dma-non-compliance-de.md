@@ -21,11 +21,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-10-11-5b19a293f2
-cluster_size: 12
+cluster_id: cluster-2026-10-12-33efadac5d
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: without-fear-or-favour-the-european-commission-s-dma-non-compliance-de
-ranked_at: '2026-10-18T11:59:34+00:00'
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # Without Fear or Favour: The European Commission’s DMA Non-Compliance Decision Against Google’s Self-Preferencing (Case DMA.100193)

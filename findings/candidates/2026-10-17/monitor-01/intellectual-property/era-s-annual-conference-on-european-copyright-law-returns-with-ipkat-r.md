@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-11-5fe935636f
-cluster_size: 72
+cluster_id: cluster-2026-10-15-a290c5884a
+cluster_size: 74
 cluster_role: sibling
-cluster_canonical_slug: keeping-up-with-belgian-patent-litigation-mid-2025-mid-2026
-ranked_at: '2026-10-18T11:59:34+00:00'
+cluster_canonical_slug: morning-docket-10-14-26
+ranked_at: '2026-10-19T14:22:30+00:00'
 ---
 
 # ERA’s Annual Conference on European Copyright Law returns with IPKat readers’ discount

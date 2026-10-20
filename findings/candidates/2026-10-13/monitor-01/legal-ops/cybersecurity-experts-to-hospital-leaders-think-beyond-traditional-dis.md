@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-12-0f2efc85b4
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-dis
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_id: cluster-2026-10-13-091929ef71
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Cybersecurity Experts To Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning

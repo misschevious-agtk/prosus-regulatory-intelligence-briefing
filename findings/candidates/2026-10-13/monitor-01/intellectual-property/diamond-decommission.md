@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-12-80b89efb94
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: diamond-decommission
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_id: cluster-2026-10-13-c4e3d50c0b
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # DIAMOND Decommission

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-12-a750ff94c5
+cluster_id: cluster-2026-10-13-782666dbfb
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-provides-updates-on-national-construction-safety-team-activities
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # NIST Provides Updates on National Construction Safety Team Activities

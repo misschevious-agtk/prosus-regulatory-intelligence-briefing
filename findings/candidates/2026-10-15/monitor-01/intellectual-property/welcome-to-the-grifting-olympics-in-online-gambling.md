@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-12-b775ed9bdf
-cluster_size: 4
+cluster_id: cluster-2026-10-13-71521bb5be
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: welcome-to-the-grifting-olympics-in-online-gambling
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Welcome to the grifting Olympics in online gambling

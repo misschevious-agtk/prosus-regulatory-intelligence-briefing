@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-12-a81bfb89b7
+cluster_id: cluster-2026-10-13-acfe459c29
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: jun-kim-omlx-creator-and-maintainer-joins-hugging-face-to-support-the-
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community

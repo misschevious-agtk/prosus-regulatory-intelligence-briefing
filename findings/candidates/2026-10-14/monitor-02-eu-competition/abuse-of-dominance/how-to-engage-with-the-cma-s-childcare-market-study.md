@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-12-a004c93599
-cluster_size: 99
+cluster_id: cluster-2026-10-13-b252b85a96
+cluster_size: 66
 cluster_role: sibling
-cluster_canonical_slug: e-on-ovo-merger-inquiry
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_canonical_slug: healthcare-ireland-hutchinson-homes-merger-inquiry
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # How to engage with the CMA’s childcare market study

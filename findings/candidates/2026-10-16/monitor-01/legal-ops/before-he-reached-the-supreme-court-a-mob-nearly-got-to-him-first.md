@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-15-e02de858d2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: before-he-reached-the-supreme-court-a-mob-nearly-got-to-him-first
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Before He Reached The Supreme Court, A Mob Nearly Got To Him First

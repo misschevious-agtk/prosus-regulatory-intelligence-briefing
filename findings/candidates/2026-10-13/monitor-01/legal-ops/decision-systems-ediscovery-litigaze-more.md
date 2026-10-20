@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-13-1cf0856787
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Decision Systems, eDiscovery, Litigaze + More

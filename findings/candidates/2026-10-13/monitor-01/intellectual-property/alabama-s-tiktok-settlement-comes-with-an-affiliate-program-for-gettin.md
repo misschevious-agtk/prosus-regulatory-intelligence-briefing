@@ -17,11 +17,10 @@ entities:
   jurisdiction: CN
   matched_alias: TikTok
 case_numbers: []
-cluster_id: cluster-2026-10-12-f439cfaf82
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: alabama-s-tiktok-settlement-comes-with-an-affiliate-program-for-gettin
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_id: cluster-2026-10-13-efbb5886fd
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Alabama’s TikTok Settlement Comes With An Affiliate Program For Getting Other AGs To Go After TikTok

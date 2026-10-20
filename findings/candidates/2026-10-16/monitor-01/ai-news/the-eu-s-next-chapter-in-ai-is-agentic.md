@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-16-da90254aa6
-cluster_size: 237
+cluster_size: 248
 cluster_role: sibling
 cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # The EU’s next chapter in AI is agentic

@@ -21,9 +21,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-16-bf96395ea1
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data

@@ -28,11 +28,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-10-12-144aea91ba
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-10-09-26
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_id: cluster-2026-10-13-d0b9fb09fc
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Morning Docket: 10.09.26

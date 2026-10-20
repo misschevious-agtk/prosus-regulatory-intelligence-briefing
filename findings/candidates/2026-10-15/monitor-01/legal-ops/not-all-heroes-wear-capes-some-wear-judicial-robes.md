@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-14-15a8f0a6f8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: not-all-heroes-wear-capes-some-wear-judicial-robes
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Not All Heroes Wear Capes, Some Wear Judicial Robes

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-14-f5f19685e6
 cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: getting-money-back-if-the-cma-orders-refunds-or-compensation
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # CMA fines firms £6 million for misleading sales tactics

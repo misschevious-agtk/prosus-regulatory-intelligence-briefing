@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-19-ac5939b9a6
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # PTAB Section 101 Appeal Data, 2009–2026

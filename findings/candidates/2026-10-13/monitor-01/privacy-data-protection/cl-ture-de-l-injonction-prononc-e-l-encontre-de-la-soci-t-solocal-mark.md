@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-12-d4178742ba
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: cl-ture-de-l-injonction-prononc-e-l-encontre-de-la-soci-t-solocal-mark
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_id: cluster-2026-10-13-b0c5f573e6
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Clôture de l’injonction prononcée à l’encontre de la société SOLOCAL MARKETING SERVICES

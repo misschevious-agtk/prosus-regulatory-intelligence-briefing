@@ -24,11 +24,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-10-12-9da4981625
-cluster_size: 78
+cluster_id: cluster-2026-10-13-9c16ff3f93
+cluster_size: 79
 cluster_role: sibling
 cluster_canonical_slug: italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-a
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # NEWSLETTER del 17 giugno 2026 - Passeggeri a mobilità ridotta, il Garante privacy sanziona Emirates - Telecamere di sicurezza urbana, Garante: usi ulteriori solo se previsti dalla legge - Foto dei minori sui social: serve il consenso di entrambi i genitori - Data breach: in consultazione il nuovo modello di notificazione dell’EDPB

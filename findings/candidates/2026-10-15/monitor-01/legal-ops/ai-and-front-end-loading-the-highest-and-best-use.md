@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-14-10b4afb4af
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ai-and-front-end-loading-the-highest-and-best-use
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # AI And Front-End Loading: The Highest And Best Use

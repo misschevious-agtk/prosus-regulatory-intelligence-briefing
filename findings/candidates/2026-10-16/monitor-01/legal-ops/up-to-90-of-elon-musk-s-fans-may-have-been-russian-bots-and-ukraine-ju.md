@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-15-555299a7d0
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: up-to-90-of-elon-musk-s-fans-may-have-been-russian-bots-and-ukraine-ju
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Up To 90% Of Elon Musk’s Fans May Have Been Russian Bots, And Ukraine Just Silenced Them

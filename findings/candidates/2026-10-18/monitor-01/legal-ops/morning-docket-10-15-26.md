@@ -20,10 +20,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-10-15-a290c5884a
-cluster_size: 74
+cluster_size: 73
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-10-14-26
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Morning Docket: 10.15.26

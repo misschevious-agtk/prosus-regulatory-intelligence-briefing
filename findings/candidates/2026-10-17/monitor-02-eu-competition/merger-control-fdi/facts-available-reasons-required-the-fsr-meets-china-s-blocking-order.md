@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-12-a431e409a5
-cluster_size: 27
+cluster_id: cluster-2026-10-14-93150d468b
+cluster_size: 7
 cluster_role: sibling
-cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_canonical_slug: facts-available-reasons-required-the-fsr-meets-china-s-blocking-order
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Facts Available, Reasons Required: The FSR Meets China's Blocking Order

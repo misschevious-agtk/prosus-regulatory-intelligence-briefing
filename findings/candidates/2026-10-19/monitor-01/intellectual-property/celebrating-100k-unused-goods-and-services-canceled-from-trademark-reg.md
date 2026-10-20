@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-12-c3151ebfbc
+cluster_id: cluster-2026-10-13-cc5922f4ef
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: celebrating-100k-unused-goods-and-services-canceled-from-trademark-reg
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Celebrating 100k unused goods and services canceled from trademark registrations

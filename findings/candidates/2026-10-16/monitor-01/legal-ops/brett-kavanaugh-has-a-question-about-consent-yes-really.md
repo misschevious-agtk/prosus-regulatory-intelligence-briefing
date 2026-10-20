@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-15-c42db919f4
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: brett-kavanaugh-has-a-question-about-consent-yes-really
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Brett Kavanaugh Has A Question About Consent. Yes, Really.

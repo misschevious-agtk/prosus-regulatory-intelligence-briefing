@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-12-f04ba5adbc
-cluster_size: 29
+cluster_id: cluster-2026-10-13-11c54865e4
+cluster_size: 27
 cluster_role: sibling
 cluster_canonical_slug: clear-but-impossible-satius-v-samsung-moves-inoperable-claims-from-ind
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # 3rd Circuit Rules For Thomson Reuters In Its Copyright Fight Against Legal Research Startup ROSS

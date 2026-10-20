@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-13-32f107b963
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Commission approves Kimberly-Clark's acquisition of Kenvue, subject to conditions

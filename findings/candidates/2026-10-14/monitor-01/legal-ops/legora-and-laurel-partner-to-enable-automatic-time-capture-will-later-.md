@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-14-55e63c7c7f
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Legora and Laurel Partner to Enable Automatic Time Capture; Will Later Develop Measures of Legora’s Value to Firms

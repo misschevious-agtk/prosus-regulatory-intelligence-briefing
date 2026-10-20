@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-17-4ec5fc797b
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Small Time Entries Can Add Up To Substantial Revenues For Law Firms

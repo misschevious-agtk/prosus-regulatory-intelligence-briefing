@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-12-ffc48508c3
-cluster_size: 8
+cluster_id: cluster-2026-10-16-da90254aa6
+cluster_size: 248
 cluster_role: sibling
-cluster_canonical_slug: advancing-computer-use-with-ironclad
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Advancing computer use with Ironclad

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-16-d7fb0e8175
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-most-innovative-law-schools-2026
-ranked_at: '2026-10-19T14:22:30+00:00'
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # The Most Innovative Law Schools (2026)

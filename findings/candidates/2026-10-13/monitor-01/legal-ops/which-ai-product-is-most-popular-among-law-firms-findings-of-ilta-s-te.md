@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-12-3e76b1628e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: which-ai-product-is-most-popular-among-law-firms-findings-of-ilta-s-te
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_id: cluster-2026-10-13-b8ec432a3d
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Which AI Product Is Most Popular Among Law Firms? Findings of ILTA’s Tech Survey May Surprise You

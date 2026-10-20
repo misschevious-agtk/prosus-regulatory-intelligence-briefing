@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-12-8863f77a96
-cluster_size: 145
+cluster_id: cluster-2026-10-13-e6ebd62b0f
+cluster_size: 143
 cluster_role: sibling
-cluster_canonical_slug: speech-by-executive-vice-president-teresa-ribera-at-an-event-organised
-ranked_at: '2026-10-19T14:22:30+00:00'
+cluster_canonical_slug: daily-news-13-10-2026
+ranked_at: '2026-10-20T12:35:42+00:00'
 ---
 
 # Statement by President von der Leyen with Presidents Zelenskyy and Costa ahead of the European Council meeting of 16 October

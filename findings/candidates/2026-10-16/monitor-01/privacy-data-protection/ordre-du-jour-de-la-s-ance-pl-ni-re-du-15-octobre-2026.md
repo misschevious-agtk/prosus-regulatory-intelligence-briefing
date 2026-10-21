@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-16-824cd29a26
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 15 octobre 2026

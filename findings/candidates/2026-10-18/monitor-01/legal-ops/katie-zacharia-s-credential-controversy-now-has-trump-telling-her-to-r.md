@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-15-a290c5884a
-cluster_size: 73
+cluster_id: cluster-2026-10-14-398bcf26af
+cluster_size: 89
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-10-14-26
-ranked_at: '2026-10-20T12:35:42+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Katie Zacharia’s Credential Controversy Now Has Trump Telling Her To ‘Reconsider’ Her Role

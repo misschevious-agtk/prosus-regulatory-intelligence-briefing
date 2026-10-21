@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-10-13-50c0d0b0aa
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: amendes-rgpd-et-interaction-avec-le-r-glement-sur-les-services-num-riq
-ranked_at: '2026-10-20T12:35:42+00:00'
+cluster_id: cluster-2026-10-14-bef6406e77
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 24 septembre 2026

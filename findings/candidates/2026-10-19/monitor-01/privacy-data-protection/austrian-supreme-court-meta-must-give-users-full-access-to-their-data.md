@@ -22,11 +22,11 @@ match_count: 10
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-13-e59c07e8f5
-cluster_size: 8
+cluster_id: cluster-2026-10-14-c8b5b6cf89
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: austrian-supreme-court-meta-must-give-users-full-access-to-their-data
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Austrian Supreme Court: Meta must give users full access to their data

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-13-a592e07c7c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: enablers-will-endlessly-protect-institutions-the-cornell-7-case-and-th
-ranked_at: '2026-10-20T12:35:42+00:00'
+cluster_id: cluster-2026-10-14-10612adb06
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # ‘Enablers Will Endlessly Protect Institutions’: The Cornell 7 Case And The Crime Of Looking Away

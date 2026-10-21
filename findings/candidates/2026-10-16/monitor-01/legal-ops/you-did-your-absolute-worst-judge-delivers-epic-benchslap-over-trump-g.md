@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-16-0d22ea880a
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # ‘You Did Your Absolute Worst’: Judge Delivers Epic Benchslap Over Trump Golf Course Chainsaw Spree

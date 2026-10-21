@@ -1,0 +1,37 @@
+---
+date_found: 2026-10-21
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/10/supreme-court-hopefuls-historic-video-rentals/
+source_publisher: Above the Law
+source_date: Mon, 19 Oct 2026 23:00:00 +0000
+source_method: rss
+title: Supreme Court Hopeful’s Historic Video Rentals
+matched_keywords:
+- Above the Law
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-10-20-6f21ee5e2b
+cluster_size: 2
+cluster_role: sibling
+cluster_canonical_slug: supreme-court-hopeful-s-historic-video-rentals
+ranked_at: '2026-10-21T12:44:16+00:00'
+---
+
+# Supreme Court Hopeful’s Historic Video Rentals
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/10/supreme-court-hopefuls-historic-video-rentals/)
+**Published:** Mon, 19 Oct 2026 23:00:00 +0000
+**Matched keywords (1):** Above the Law
+
+## Summary excerpt
+
+A blockbuster collection. The post Supreme Court Hopeful&#8217;s Historic Video Rentals appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

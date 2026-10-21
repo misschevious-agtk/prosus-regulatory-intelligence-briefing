@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-13-b109983853
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: from-biglaw-to-tv-judge
-ranked_at: '2026-10-20T12:35:42+00:00'
+cluster_id: cluster-2026-10-14-e588f8303d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # From Biglaw To TV Judge

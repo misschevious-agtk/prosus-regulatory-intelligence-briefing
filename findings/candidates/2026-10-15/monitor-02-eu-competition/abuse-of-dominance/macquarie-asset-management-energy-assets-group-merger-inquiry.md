@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-13-b252b85a96
-cluster_size: 66
+cluster_id: cluster-2026-10-14-4b4558ca97
+cluster_size: 36
 cluster_role: sibling
-cluster_canonical_slug: healthcare-ireland-hutchinson-homes-merger-inquiry
-ranked_at: '2026-10-20T12:35:42+00:00'
+cluster_canonical_slug: corporate-report-cma-panel-member-biographies-and-disclosures-of-inter
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Macquarie Asset Management / Energy Assets Group merger inquiry

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-13-518b4a4012
+cluster_id: cluster-2026-10-14-7578586470
 cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: edpb-publishes-statement-on-the-data-protection-challenges-of-smart-gl
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées

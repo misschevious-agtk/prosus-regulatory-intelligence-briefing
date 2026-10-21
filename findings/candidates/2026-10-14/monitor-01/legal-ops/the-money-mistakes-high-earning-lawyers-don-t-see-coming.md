@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-13-36bfceede6
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-money-mistakes-high-earning-lawyers-don-t-see-coming
-ranked_at: '2026-10-20T12:35:42+00:00'
+cluster_id: cluster-2026-10-14-6ed3303aab
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # The Money Mistakes High-Earning Lawyers Don’t See Coming

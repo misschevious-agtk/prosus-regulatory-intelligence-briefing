@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-20-6e73724d7f
-cluster_size: 3
+cluster_id: cluster-2026-10-21-76766a6d21
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphon
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # CMA outlines proposals to unlock contactless technology on Apple iPhone

@@ -20,9 +20,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-17-091a0cbed9
-cluster_size: 299
+cluster_size: 303
 cluster_role: sibling
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 cluster_canonical_slug: proposed-decision-sms-investigation-into-microsoft-s-business-software
 ---
 

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-20-8beaa1f1c1
-cluster_size: 1
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # The Defense Bar In The Age Of AI: Running A Red Queen’s Race?

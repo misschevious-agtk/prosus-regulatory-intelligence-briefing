@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-13-6b8dbfa0d1
-cluster_size: 20
+cluster_id: cluster-2026-10-14-2bfe2bb969
+cluster_size: 17
 cluster_role: sibling
 cluster_canonical_slug: cl-ture-de-l-injonction-prononc-e-l-encontre-de-france-travail
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Clôture de l’injonction prononcée à l’encontre de FRANCE TRAVAIL

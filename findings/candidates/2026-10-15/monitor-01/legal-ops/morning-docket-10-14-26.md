@@ -19,10 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-10-15-a290c5884a
-cluster_size: 73
-cluster_role: canonical
-ranked_at: '2026-10-20T12:35:42+00:00'
+cluster_id: cluster-2026-10-14-398bcf26af
+cluster_size: 89
+cluster_role: sibling
+ranked_at: '2026-10-21T12:44:16+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
 ---
 
 # Morning Docket: 10.14.26

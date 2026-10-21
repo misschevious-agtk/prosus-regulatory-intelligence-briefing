@@ -25,7 +25,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-14-859b337e9d
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Clôture de l’injonction prononcée à l’encontre de GOOGLE

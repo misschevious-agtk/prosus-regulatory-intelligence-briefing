@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-19-ee85f7ad1f
-cluster_size: 6
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: andorra-and-san-marino-sign-association-agreement-to-move-closer-to-th
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Andorra and San Marino sign Association Agreement to move closer to the EU

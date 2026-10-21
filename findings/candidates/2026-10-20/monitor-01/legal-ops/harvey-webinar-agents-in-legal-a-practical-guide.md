@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-19-41f94e1b18
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: harvey-webinar-agents-in-legal-a-practical-guide
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # Harvey Webinar – Agents in Legal: A Practical Guide

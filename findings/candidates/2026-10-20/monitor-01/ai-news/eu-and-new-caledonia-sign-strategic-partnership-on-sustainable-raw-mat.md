@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-20-21528b8d2f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eu-and-new-caledonia-sign-strategic-partnership-on-sustainable-raw-mat
-ranked_at: '2026-10-20T12:35:42+00:00'
+ranked_at: '2026-10-21T12:44:16+00:00'
 ---
 
 # EU and New Caledonia sign strategic partnership on sustainable raw materials

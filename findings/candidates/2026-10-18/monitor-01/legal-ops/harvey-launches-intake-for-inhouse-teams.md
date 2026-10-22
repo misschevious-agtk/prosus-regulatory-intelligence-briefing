@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-14-bbeb90d82a
-cluster_size: 4
+cluster_id: cluster-2026-10-15-d3ac72ab06
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: harvey-launches-intake-for-inhouse-teams
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Harvey Launches Intake for Inhouse Teams

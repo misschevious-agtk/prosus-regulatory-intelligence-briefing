@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-14-b87fdb198f
-cluster_size: 25
+cluster_id: cluster-2026-10-15-ddfd122354
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: ease-is-not-necessity-third-circuit-affirms-no-fair-use-in-thomson-reu
-ranked_at: '2026-10-21T12:44:16+00:00'
+cluster_canonical_slug: 3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # 3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed

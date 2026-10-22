@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-14-c23b26c099
+cluster_id: cluster-2026-10-15-dd6935063d
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: colour-me-orange-german-supreme-court-sets-high-bar-for-acquired-disti
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Different standards for coloured figurative marks and abstract colour marks?

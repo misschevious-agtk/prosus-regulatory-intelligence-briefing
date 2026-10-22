@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-15-28d7e6ab13
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # How To Scare A Lawyer

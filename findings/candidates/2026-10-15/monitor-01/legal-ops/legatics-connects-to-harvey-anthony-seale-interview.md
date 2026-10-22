@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-14-1e092f87bc
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: legatics-connects-to-harvey-anthony-seale-interview
-ranked_at: '2026-10-21T12:44:16+00:00'
+cluster_id: cluster-2026-10-15-d98237c778
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Legatics Connects to Harvey + Anthony Seale Interview

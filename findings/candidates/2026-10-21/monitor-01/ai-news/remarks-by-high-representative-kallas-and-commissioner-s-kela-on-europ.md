@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-21-961fed31b9
-cluster_size: 2
+cluster_id: cluster-2026-10-21-caeb27d33c
+cluster_size: 139
 cluster_role: sibling
-cluster_canonical_slug: remarks-by-high-representative-kallas-and-commissioner-s-kela-on-europ
-ranked_at: '2026-10-21T12:44:16+00:00'
+cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Remarks by High Representative Kallas and Commissioner Síkela on Europe's Northern Neighbourhood: A New Strategy for the Arctic

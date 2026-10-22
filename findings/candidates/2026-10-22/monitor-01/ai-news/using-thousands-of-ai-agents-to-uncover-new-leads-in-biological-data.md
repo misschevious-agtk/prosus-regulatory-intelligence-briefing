@@ -1,0 +1,42 @@
+---
+date_found: 2026-10-22
+monitor: monitor-01
+domain: ai-news
+source_url: https://openai.com/index/scaling-ai-research-for-complex-biological-data
+source_publisher: OpenAI blog
+source_date: Wed, 21 Oct 2026 04:50:00 GMT
+source_method: rss
+title: Using thousands of AI agents to uncover new leads in biological data
+matched_keywords:
+- AI agent
+- OpenAI
+match_count: 2
+status: candidate
+entities:
+- name: OpenAI
+  type: company
+  jurisdiction: US
+  matched_alias: OpenAI
+case_numbers: []
+cluster_id: cluster-2026-10-16-da90254aa6
+cluster_size: 242
+cluster_role: sibling
+cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
+ranked_at: '2026-10-22T12:49:46+00:00'
+---
+
+# Using thousands of AI agents to uncover new leads in biological data
+
+**Source:** [OpenAI blog](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
+**Published:** Wed, 21 Oct 2026 04:50:00 GMT
+**Matched keywords (2):** AI agent, OpenAI
+
+## Summary excerpt
+
+See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

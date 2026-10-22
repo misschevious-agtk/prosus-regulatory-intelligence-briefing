@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-20-e74901e236
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: agentic-commerce-is-about-to-become-a-contracting-problem
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Agentic Commerce Is About To Become A Contracting Problem

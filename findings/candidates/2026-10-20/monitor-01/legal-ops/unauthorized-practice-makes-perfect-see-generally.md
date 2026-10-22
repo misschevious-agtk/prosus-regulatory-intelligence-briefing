@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-10-20-3270118732
-cluster_size: 9
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: impulse-control-sets-stage-for-benchslap-see-also
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Unauthorized Practice Makes Perfect — See Generally

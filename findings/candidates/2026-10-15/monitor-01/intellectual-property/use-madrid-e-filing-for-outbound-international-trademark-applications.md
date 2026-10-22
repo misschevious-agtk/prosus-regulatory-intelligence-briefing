@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-14-d2e82dbd40
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: use-madrid-e-filing-for-outbound-international-trademark-applications
-ranked_at: '2026-10-21T12:44:16+00:00'
+cluster_id: cluster-2026-10-15-5eefb82de4
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Use Madrid e-Filing for outbound international trademark applications

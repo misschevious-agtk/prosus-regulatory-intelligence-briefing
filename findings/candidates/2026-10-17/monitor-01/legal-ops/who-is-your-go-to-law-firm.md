@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-16-b37266c1ec
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: who-is-your-go-to-law-firm
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Who Is Your Go-To Law Firm?

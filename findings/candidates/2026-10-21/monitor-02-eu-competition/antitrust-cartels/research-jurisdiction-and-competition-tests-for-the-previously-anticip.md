@@ -18,10 +18,10 @@ entities:
   matched_alias: Competition and Markets Authority
 case_numbers: []
 cluster_id: cluster-2026-10-17-091a0cbed9
-cluster_size: 303
+cluster_size: 295
 cluster_role: sibling
 cluster_canonical_slug: proposed-decision-sms-investigation-into-microsoft-s-business-software
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Research: Jurisdiction and competition tests for the previously anticipated acquisition of the Telegraph Media Group Holdings by RB Investco Limited- January 2024 PIIN

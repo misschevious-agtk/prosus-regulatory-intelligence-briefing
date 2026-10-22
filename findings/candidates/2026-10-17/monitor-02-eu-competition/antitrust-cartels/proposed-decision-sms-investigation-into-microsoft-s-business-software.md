@@ -20,9 +20,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-17-091a0cbed9
-cluster_size: 303
+cluster_size: 295
 cluster_role: canonical
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Proposed decision: SMS investigation into Microsoft’s business software ecosystem

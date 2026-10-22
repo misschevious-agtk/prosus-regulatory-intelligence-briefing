@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-15-c881249914
 cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: legal-innovators-new-york-speakers-tickets-info
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Legal Innovators New York Sponsors, Spellbook Webinar +

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-16-ac6b7d2f67
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: finally-a-way-to-measure-ai-roi-be-careful-what-you-ask-for
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Finally, A Way To Measure AI ROI: Be Careful What You Ask For

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-14-71c7acb1ba
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: a-biglaw-firm-with-a-heart-this-new-parental-leave-policy-deserves-app
-ranked_at: '2026-10-21T12:44:16+00:00'
+cluster_id: cluster-2026-10-15-d223d1e15a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # A Biglaw Firm With A Heart: This New Parental Leave Policy Deserves Applause

@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-14-3c974fc838
-cluster_size: 119
+cluster_id: cluster-2026-10-15-44098e2bc6
+cluster_size: 128
 cluster_role: sibling
 cluster_canonical_slug: uspto-announces-a-new-ptab-moot-court-competition-for-the-ptab-advocat
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # USPTO events for the weeks of Oct. 19-30

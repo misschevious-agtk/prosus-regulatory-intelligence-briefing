@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-15-4d67d5c03e
-cluster_size: 7
-cluster_role: canonical
-ranked_at: '2026-10-21T12:44:16+00:00'
+cluster_id: cluster-2026-10-16-da90254aa6
+cluster_size: 242
+cluster_role: sibling
+ranked_at: '2026-10-22T12:49:46+00:00'
+cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
 ---
 
 # How Block is building AI-powered security with OpenAI technology

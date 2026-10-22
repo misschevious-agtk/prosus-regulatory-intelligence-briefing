@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-16-3d7cdb93a9
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Judge Dismisses Sol De Janeiro Packaging Claim

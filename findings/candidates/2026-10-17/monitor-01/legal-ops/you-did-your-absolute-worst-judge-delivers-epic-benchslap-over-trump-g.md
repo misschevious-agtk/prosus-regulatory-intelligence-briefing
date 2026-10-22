@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-16-0d22ea880a
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: you-did-your-absolute-worst-judge-delivers-epic-benchslap-over-trump-g
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # ‘You Did Your Absolute Worst’: Judge Delivers Epic Benchslap Over Trump Golf Course Chainsaw Spree

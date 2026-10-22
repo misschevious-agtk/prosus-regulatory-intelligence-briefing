@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-17-c4d35ad8e6
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # Stat(s) Of The Week: Stress Takes A Toll

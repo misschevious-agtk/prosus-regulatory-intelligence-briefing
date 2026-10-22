@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-16-86a6d652c7
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: new-law-grads-of-color-face-wider-employment-gap-amid-trump-s-dei-crac
-ranked_at: '2026-10-21T12:44:16+00:00'
+ranked_at: '2026-10-22T12:49:46+00:00'
 ---
 
 # New Law Grads Of Color Face Wider Employment Gap Amid Trump’s DEI Crackdown

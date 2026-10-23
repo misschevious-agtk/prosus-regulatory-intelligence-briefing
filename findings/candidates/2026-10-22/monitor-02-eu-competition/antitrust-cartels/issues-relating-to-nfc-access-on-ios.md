@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-20-2a74fb914b
-cluster_size: 27
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: apple-s-mobile-platform
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Issues relating to NFC access on iOS

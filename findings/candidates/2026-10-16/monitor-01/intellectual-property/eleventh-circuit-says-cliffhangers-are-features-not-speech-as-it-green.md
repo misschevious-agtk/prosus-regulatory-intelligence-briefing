@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-16-3042e36d6d
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Eleventh Circuit Says Cliffhangers Are ‘Features,’ Not Speech, As It Greenlights Florida’s Social Media Age Gate

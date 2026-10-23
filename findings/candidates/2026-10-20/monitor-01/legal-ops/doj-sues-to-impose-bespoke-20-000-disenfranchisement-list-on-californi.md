@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-17-a6123845a3
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: doj-sues-to-impose-bespoke-20-000-disenfranchisement-list-on-californi
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # DOJ Sues To Impose Bespoke 20,000 Disenfranchisement List On California

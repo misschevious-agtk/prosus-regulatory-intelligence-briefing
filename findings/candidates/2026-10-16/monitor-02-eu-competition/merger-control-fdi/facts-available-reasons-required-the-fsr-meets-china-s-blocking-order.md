@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-15-7f0c7a523f
+cluster_id: cluster-2026-10-16-8a28afbcda
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: facts-available-reasons-required-the-fsr-meets-china-s-blocking-order
-ranked_at: '2026-10-22T12:49:46+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Facts Available, Reasons Required: The FSR Meets China's Blocking Order

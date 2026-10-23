@@ -16,10 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-da90254aa6
-cluster_size: 242
-cluster_role: canonical
-ranked_at: '2026-10-22T12:49:46+00:00'
+cluster_id: cluster-2026-10-23-7a80d3e1c1
+cluster_size: 220
+cluster_role: sibling
+ranked_at: '2026-10-23T12:27:45+00:00'
+cluster_canonical_slug: ai-eu-member-states-approve-digital-expropriation-for-ai-companies
 ---
 
 # Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical

@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-21-caeb27d33c
-cluster_size: 139
-cluster_role: sibling
-cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
-ranked_at: '2026-10-22T12:49:46+00:00'
+cluster_id: cluster-2026-10-16-b6b4e066b5
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Commissioner Roswall's keynote address at the 12th Congress of European Farmers

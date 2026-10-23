@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-15-bad22c3857
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-den-frees-up-10-15-hours-a-week-to-grow-with-chatgpt-work
-ranked_at: '2026-10-22T12:49:46+00:00'
+cluster_id: cluster-2026-10-16-35ca98c024
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # The Den frees up 10-15 hours a week to grow with ChatGPT Work

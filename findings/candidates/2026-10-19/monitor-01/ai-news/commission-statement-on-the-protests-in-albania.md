@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-19-b5908255dc
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-statement-on-the-protests-in-albania
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Commission statement on the protests in Albania

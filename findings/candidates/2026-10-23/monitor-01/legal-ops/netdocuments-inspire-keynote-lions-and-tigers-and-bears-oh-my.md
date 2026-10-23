@@ -1,0 +1,37 @@
+---
+date_found: 2026-10-23
+monitor: monitor-01
+domain: legal-ops
+source_url: https://abovethelaw.com/2026/10/netdocuments-inspire-keynote-lions-and-tigers-and-bears-oh-my/
+source_publisher: Above the Law
+source_date: Thu, 22 Oct 2026 14:47:30 +0000
+source_method: rss
+title: 'NetDocuments Inspire Keynote: Lions, And Tigers, And Bears. Oh My.'
+matched_keywords:
+- Above the Law
+- NetDocuments
+match_count: 2
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-10-23-2ad9f0ffa2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-23T12:27:45+00:00'
+---
+
+# NetDocuments Inspire Keynote: Lions, And Tigers, And Bears. Oh My.
+
+**Source:** [Above the Law](https://abovethelaw.com/2026/10/netdocuments-inspire-keynote-lions-and-tigers-and-bears-oh-my/)
+**Published:** Thu, 22 Oct 2026 14:47:30 +0000
+**Matched keywords (2):** Above the Law, NetDocuments
+
+## Summary excerpt
+
+Most everyone in legal tech knows (or should know) what’s coming. The post NetDocuments Inspire Keynote: Lions, And Tigers, And Bears. Oh My. appeared first on Above the Law .
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

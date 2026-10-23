@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-20-1bfe087a25
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: freshfields-leader-accidentally-sends-secret-ai-spinoff-plan-to-the-wh
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Freshfields Leader Accidentally Sends Secret AI Spinoff Plan To The Whole Firm, With A Bonus Insult To Some Very Important Clients

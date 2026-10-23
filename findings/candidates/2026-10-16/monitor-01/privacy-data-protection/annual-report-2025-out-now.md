@@ -26,11 +26,10 @@ match_count: 14
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-15-8452336186
+cluster_id: cluster-2026-10-16-f320cc27e0
 cluster_size: 21
-cluster_role: sibling
-cluster_canonical_slug: annual-report-2025-out-now
-ranked_at: '2026-10-22T12:49:46+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Annual Report 2025 out now!

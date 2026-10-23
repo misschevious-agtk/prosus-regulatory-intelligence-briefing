@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-22-8f43d005ad
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: legora-vs-harvey-the-multi-billion-ai-battle
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # ‘It’s a Big Moment’ – Max on Legora’s Raise

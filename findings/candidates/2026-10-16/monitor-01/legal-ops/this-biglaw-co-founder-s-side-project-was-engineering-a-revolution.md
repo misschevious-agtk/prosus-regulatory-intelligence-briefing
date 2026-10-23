@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-15-1723f23201
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: this-biglaw-co-founder-s-side-project-was-engineering-a-revolution
-ranked_at: '2026-10-22T12:49:46+00:00'
+cluster_id: cluster-2026-10-16-85759c7e28
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # This Biglaw Co-Founder’s Side Project Was Engineering A Revolution

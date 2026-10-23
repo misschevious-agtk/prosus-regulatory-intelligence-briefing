@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-15-ddfd122354
+cluster_id: cluster-2026-10-16-e29b61ded1
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: 3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # 3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed

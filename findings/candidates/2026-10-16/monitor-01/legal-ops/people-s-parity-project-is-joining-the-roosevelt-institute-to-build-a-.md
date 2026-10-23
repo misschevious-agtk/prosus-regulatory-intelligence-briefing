@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-16-71a334e83e
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # People’s Parity Project Is Joining The Roosevelt Institute To Build A Progressive Legal Pipeline

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-20-3270118732
-cluster_size: 12
+cluster_size: 14
 cluster_role: sibling
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 cluster_canonical_slug: impulse-control-sets-stage-for-benchslap-see-also
 ---
 

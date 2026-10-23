@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-15-44098e2bc6
-cluster_size: 128
+cluster_id: cluster-2026-10-16-9ac5ce69db
+cluster_size: 29
 cluster_role: sibling
-cluster_canonical_slug: uspto-announces-a-new-ptab-moot-court-competition-for-the-ptab-advocat
-ranked_at: '2026-10-22T12:49:46+00:00'
+cluster_canonical_slug: inter-partes-review-ipr-filings-collapse-to-a-new-normal
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Jepson and Other Point-of-Novelty Claims in U.S. Patents, 1976–2026

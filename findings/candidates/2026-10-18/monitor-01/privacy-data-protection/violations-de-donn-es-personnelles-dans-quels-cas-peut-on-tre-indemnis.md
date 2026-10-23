@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-16-1bed0ff094
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: violations-de-donn-es-personnelles-dans-quels-cas-peut-on-tre-indemnis
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Violations de données personnelles : dans quels cas peut-on être indemnisé ?

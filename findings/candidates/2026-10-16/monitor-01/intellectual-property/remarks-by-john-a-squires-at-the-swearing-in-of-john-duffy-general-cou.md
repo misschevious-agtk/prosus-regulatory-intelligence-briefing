@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-15-90f9ea0d70
-cluster_size: 23
+cluster_id: cluster-2026-10-16-250d5c471a
+cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: john-f-duffy-appointed-general-counsel-and-acting-solicitor-of-the-usp
-ranked_at: '2026-10-22T12:49:46+00:00'
+ranked_at: '2026-10-23T12:27:45+00:00'
 ---
 
 # Remarks by John A. Squires at the swearing in of John Duffy, General Counsel of the USPTO

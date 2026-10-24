@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-21-76766a6d21
-cluster_size: 12
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphon
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # CMA outlines proposals to unlock contactless technology on Apple iPhone

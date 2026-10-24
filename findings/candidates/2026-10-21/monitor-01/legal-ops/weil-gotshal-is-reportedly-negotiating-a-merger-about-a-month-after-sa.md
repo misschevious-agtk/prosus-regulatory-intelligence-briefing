@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-21-b8e140bf95
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Weil Gotshal Is Reportedly Negotiating A Merger, About A Month After Saying It Wasn’t In Merger Talks

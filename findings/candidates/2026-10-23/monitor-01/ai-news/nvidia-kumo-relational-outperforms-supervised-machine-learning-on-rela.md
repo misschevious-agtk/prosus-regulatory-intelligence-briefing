@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-22-d94c70a77b
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: nvidia-kumo-relational-outperforms-supervised-machine-learning-on-rela
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required

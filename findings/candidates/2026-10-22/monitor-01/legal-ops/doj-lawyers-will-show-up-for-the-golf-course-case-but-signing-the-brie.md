@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-21-b8e140bf95
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: weil-gotshal-is-reportedly-negotiating-a-merger-about-a-month-after-sa
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # DOJ Lawyers Will Show Up For The Golf Course Case But Signing The Brief Is Another Matter Entirely

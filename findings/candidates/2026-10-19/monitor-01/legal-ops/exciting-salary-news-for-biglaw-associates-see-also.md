@@ -23,7 +23,7 @@ cluster_id: cluster-2026-10-17-472ed7f25c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: exciting-salary-news-for-biglaw-associates-see-also
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Exciting Salary News For Biglaw Associates  — See Also

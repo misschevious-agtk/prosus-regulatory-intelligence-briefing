@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-71a334e83e
-cluster_size: 4
+cluster_id: cluster-2026-10-17-8888d30c32
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: people-s-parity-project-is-joining-the-roosevelt-institute-to-build-a-
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # People’s Parity Project Is Joining The Roosevelt Institute To Build A Progressive Legal Pipeline

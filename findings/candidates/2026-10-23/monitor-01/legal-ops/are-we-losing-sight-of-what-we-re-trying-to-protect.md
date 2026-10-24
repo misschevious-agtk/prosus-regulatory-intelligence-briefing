@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-7a80d3e1c1
-cluster_size: 220
+cluster_id: cluster-2026-10-17-52b5eb2dd8
+cluster_size: 18
 cluster_role: sibling
-cluster_canonical_slug: ai-eu-member-states-approve-digital-expropriation-for-ai-companies
-ranked_at: '2026-10-23T12:27:45+00:00'
+cluster_canonical_slug: ai-in-the-patent-industry-the-sneaky-practice-of-prompt-injection-and-
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Are We Losing Sight Of What We’re Trying To Protect?

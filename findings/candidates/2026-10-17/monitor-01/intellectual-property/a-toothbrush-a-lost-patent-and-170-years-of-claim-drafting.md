@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-cf44385280
+cluster_id: cluster-2026-10-17-c8a5a2bae9
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: a-toothbrush-a-lost-patent-and-170-years-of-claim-drafting
-ranked_at: '2026-10-23T12:27:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # A Toothbrush, a Lost Patent, and 170 Years of Claim Drafting

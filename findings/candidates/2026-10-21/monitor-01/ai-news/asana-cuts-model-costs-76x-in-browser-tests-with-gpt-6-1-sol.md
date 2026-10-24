@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-d1fb6eed6a
-cluster_size: 8
+cluster_id: cluster-2026-10-17-6f533a183b
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Asana cuts model costs 76x in browser tests with GPT-6.1 Sol

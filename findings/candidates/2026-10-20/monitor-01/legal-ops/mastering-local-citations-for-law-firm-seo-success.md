@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-17-aaaa7c4b0d
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: mastering-local-citations-for-law-firm-seo-success
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Mastering Local Citations For Law Firm SEO Success

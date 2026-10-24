@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-20-f6616cb04c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-best-way-to-scare-a-lawyer-using-only-4-words
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # The Best Way To Scare A Lawyer, Using Only 4 Words

@@ -20,11 +20,10 @@ match_count: 8
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-bf96395ea1
+cluster_id: cluster-2026-10-17-701ca56942
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-per
-ranked_at: '2026-10-23T12:27:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data

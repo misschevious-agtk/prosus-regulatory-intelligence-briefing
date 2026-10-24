@@ -1,0 +1,41 @@
+---
+date_found: 2026-10-24
+monitor: monitor-02-eu-competition
+domain: abuse-of-dominance
+source_url: https://www.gov.uk/government/calls-for-evidence/issues-relating-to-nfc-access-on-ios
+source_publisher: CMA news
+source_date: '2026-10-20T10:00:27Z'
+source_method: rss
+title: Issues relating to NFC access on iOS
+matched_keywords:
+- CMA
+match_count: 1
+status: candidate
+entities:
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  matched_alias: CMA
+case_numbers: []
+cluster_id: cluster-2026-10-20-2a74fb914b
+cluster_size: 45
+cluster_role: sibling
+cluster_canonical_slug: apple-s-mobile-platform
+ranked_at: '2026-10-24T11:53:40+00:00'
+---
+
+# Issues relating to NFC access on iOS
+
+**Source:** [CMA news](https://www.gov.uk/government/calls-for-evidence/issues-relating-to-nfc-access-on-ios)
+**Published:** 2026-10-20T10:00:27Z
+**Matched keywords (1):** CMA
+
+## Summary excerpt
+
+The CMA sought views on key issues relating to near field communication (NFC) access on iOS.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

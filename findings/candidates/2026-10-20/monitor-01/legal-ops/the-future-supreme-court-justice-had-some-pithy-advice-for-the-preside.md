@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-17-8da921c409
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-future-supreme-court-justice-had-some-pithy-advice-for-the-preside
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # The Future Supreme Court Justice Had Some Pithy Advice For The President

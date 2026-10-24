@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-16-a521c304d0
-cluster_size: 9
+cluster_id: cluster-2026-10-17-b349f8ad58
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: getting-money-back-if-the-cma-orders-refunds-or-compensation
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Getting money back if the CMA orders refunds or compensation

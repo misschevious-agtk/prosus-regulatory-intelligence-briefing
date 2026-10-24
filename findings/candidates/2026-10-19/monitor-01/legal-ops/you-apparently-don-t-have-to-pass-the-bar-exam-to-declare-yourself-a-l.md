@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-1a1862c5de
-cluster_size: 78
+cluster_id: cluster-2026-10-17-064ab80c94
+cluster_size: 10
 cluster_role: sibling
-cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-23T12:27:45+00:00'
+cluster_canonical_slug: trump-press-secretary-zacharia-took-bar-exam-failed-called-herself-law
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # You Apparently Don’t Have To Pass The Bar Exam To Declare Yourself A Lawyer — See Also

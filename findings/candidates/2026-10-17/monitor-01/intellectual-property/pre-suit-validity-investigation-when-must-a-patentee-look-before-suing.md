@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-3552171642
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: pre-suit-validity-investigation-when-must-a-patentee-look-before-suing
-ranked_at: '2026-10-23T12:27:45+00:00'
+cluster_id: cluster-2026-10-17-43ed833daa
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Pre-Suit Validity Investigation: When Must a Patentee Look Before Suing?

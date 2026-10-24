@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-7a80d3e1c1
-cluster_size: 220
-cluster_role: sibling
-cluster_canonical_slug: ai-eu-member-states-approve-digital-expropriation-for-ai-companies
-ranked_at: '2026-10-23T12:27:45+00:00'
+cluster_id: cluster-2026-10-17-1ea63d894d
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Tech Company Launches Program To Pay Law Firms For Their Emails, Privilege Be Damned

@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-82604131d3
+cluster_id: cluster-2026-10-17-a4c8b528f8
 cluster_size: 56
 cluster_role: sibling
 cluster_canonical_slug: dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-m
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing

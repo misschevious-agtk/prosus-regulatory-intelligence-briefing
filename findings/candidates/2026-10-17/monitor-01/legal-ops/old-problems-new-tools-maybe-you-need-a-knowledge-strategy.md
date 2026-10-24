@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-7a80d3e1c1
-cluster_size: 220
+cluster_id: cluster-2026-10-17-f96e0fb86b
+cluster_size: 33
 cluster_role: sibling
-cluster_canonical_slug: ai-eu-member-states-approve-digital-expropriation-for-ai-companies
-ranked_at: '2026-10-23T12:27:45+00:00'
+cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # Old Problems, New Tools: Maybe You Need a Knowledge Strategy

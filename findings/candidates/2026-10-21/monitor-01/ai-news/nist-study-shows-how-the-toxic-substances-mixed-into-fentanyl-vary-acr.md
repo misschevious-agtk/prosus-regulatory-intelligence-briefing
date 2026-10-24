@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-16-685a68359a
+cluster_id: cluster-2026-10-17-8462a791e1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-study-shows-how-the-toxic-substances-mixed-into-fentanyl-vary-acr
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over Time

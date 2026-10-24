@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-24",
+  "total_candidates": 331,
+  "per_domain": {
+    "monitor-01/ai-news": 76,
+    "monitor-01/intellectual-property": 54,
+    "monitor-01/legal-ops": 64,
+    "monitor-01/privacy-data-protection": 58,
+    "monitor-02-eu-competition/abuse-of-dominance": 23,
+    "monitor-02-eu-competition/antitrust-cartels": 22,
+    "monitor-02-eu-competition/digital-markets-sector-state-aid": 29,
+    "monitor-02-eu-competition/merger-control-fdi": 5
+  },
+  "per_source": {
+    "Hugging Face blog": 11,
+    "NIST news (filtered for AI in script)": 25,
+    "OpenAI blog": 22,
+    "European Commission press": 21,
+    "Import AI (Jack Clark)": 4,
+    "AI Snake Oil": 4,
+    "Patently-O": 10,
+    "USPTO news": 21,
+    "WIPO news": 9,
+    "IPKat blog": 12,
+    "TechDirt copyright": 2,
+    "Above the Law": 29,
+    "LawSites (Bob Ambrogi)": 30,
+    "Artificial Lawyer": 5,
+    "noyb news": 30,
+    "Garante per la protezione dei dati personali [IT]": 9,
+    "EDPB news": 10,
+    "CNIL actualités [FR]": 9,
+    "Chillin'Competition": 6,
+    "CMA news": 56,
+    "Kluwer Competition Law Blog": 6
+  },
+  "clusters": [
+    {
+      "id": "",
+      "size": 251,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 164,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 130,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 95,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 81,
+      "canonical_title": ""
+    }
+  ],
+  "top_titles": {
+    "monitor-01": [
+      {
+        "title": "Data Protection Day: 5 misconceptions about data protection, debunked",
+        "source": "noyb news",
+        "match_count": 16,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Annual Report 2025 out now!",
+        "source": "noyb news",
+        "match_count": 14,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "EU Member States (and Google) suddenly want to keep cookie banners!",
+        "source": "noyb news",
+        "match_count": 13,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "AI: EU Member States approve “digital expropriation” for AI companies",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Digital Omnibus: EU DPAs reject many proposed changes to the GDPR",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "sibling"
+      }
+    ],
+    "monitor-02-eu-competition": [
+      {
+        "title": "When market leadership becomes a merger control liability: What the General Court's Booking/eTraveli judgment means for M&A Strategy",
+        "source": "Kluwer Competition Law Blog",
+        "match_count": 6,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Article 102 TFEU and the Android judgment (I): understanding the law of the exceptional (and the exceptional within the exceptional)",
+        "source": "Chillin'Competition",
+        "match_count": 4,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Proposed decision: SMS investigation into Microsoft’s business software ecosystem",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Microsoft’s business software ecosystem",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Proposed NFC access conduct requirement for Apple’s mobile platform",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      }
+    ]
+  },
+  "broken_feed_sources": [],
+  "top_entities": [
+    {
+      "name": "Competition and Markets Authority",
+      "count": 55
+    },
+    {
+      "name": "European Commission",
+      "count": 31
+    },
+    {
+      "name": "OpenAI",
+      "count": 22
+    },
+    {
+      "name": "United States Patent and Trademark Office",
+      "count": 14
+    },
+    {
+      "name": "Alphabet / Google",
+      "count": 12
+    },
+    {
+      "name": "World Intellectual Property Organization",
+      "count": 9
+    },
+    {
+      "name": "Garante per la protezione dei dati personali",
+      "count": 9
+    },
+    {
+      "name": "Commission Nationale de l'Informatique et des Libertés",
+      "count": 9
+    },
+    {
+      "name": "Court of Justice of the European Union",
+      "count": 7
+    },
+    {
+      "name": "Department of Justice",
+      "count": 4
+    }
+  ]
+}

@@ -18,9 +18,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-10-23-982384cb70
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-23T12:27:45+00:00'
+ranked_at: '2026-10-24T11:53:40+00:00'
 ---
 
 # DOJ’s Watchdog Won’t Investigate Jeanine Pirro’s Reflecting Pool Prosecution

@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-10-23-982384cb70
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: doj-s-watchdog-won-t-investigate-jeanine-pirro-s-reflecting-pool-prose
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # DOJ’s Watchdog Won’t Investigate Jeanine Pirro’s Reflecting Pool Prosecution

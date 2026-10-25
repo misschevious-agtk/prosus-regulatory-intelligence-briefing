@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-1ea63d894d
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: tech-company-launches-program-to-pay-law-firms-for-their-emails-privil
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_id: cluster-2026-10-18-5446f12a36
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Tech Company Launches Program To Pay Law Firms For Their Emails, Privilege Be Damned

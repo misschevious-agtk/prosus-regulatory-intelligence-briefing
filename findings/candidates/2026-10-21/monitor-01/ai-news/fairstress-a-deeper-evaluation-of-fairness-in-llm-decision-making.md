@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-21-f047eeca5b
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # FairStress: A deeper evaluation of fairness in LLM decision-making

@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-17-69fbb254dd
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: violations-de-donn-es-personnelles-dans-quels-cas-peut-on-tre-indemnis
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_id: cluster-2026-10-18-c1e2700ae7
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Violations de données personnelles : dans quels cas peut-on être indemnisé ?

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-450bb72f31
+cluster_id: cluster-2026-10-18-ef589a8baf
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: le-cepd-publie-une-d-claration-sur-les-enjeux-de-protection-des-donn-e
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées

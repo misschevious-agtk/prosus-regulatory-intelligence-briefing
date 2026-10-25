@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-20-e74901e236
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Agentic Commerce Is About To Become A Contracting Problem

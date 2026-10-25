@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-edc7fcf0df
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: why-reproductive-justice-needs-queer-analysis
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_id: cluster-2026-10-18-2359e98fa0
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Why Reproductive Justice Needs Queer Analysis

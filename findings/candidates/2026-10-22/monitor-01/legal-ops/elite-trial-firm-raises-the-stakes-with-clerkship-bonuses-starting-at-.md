@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-21-0d72cb0078
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: federal-clerks-can-now-get-a-205k-bonus-at-this-prestigious-law-firm
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Elite Trial Firm Raises The Stakes With Clerkship Bonuses Starting At $150K

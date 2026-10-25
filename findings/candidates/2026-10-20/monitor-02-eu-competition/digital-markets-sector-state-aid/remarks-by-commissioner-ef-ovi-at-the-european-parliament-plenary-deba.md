@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-21-caeb27d33c
-cluster_size: 130
+cluster_size: 125
 cluster_role: sibling
 cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Remarks by Commissioner Šefčovič at the European Parliament Plenary debate on the EU-UK Summit: renewed ambition for a closer partnership

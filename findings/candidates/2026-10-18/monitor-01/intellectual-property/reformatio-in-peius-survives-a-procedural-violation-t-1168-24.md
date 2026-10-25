@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-a8c7fe8259
-cluster_size: 9
-cluster_role: sibling
-cluster_canonical_slug: reformatio-in-peius-survives-a-procedural-violation-t-1168-24
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_id: cluster-2026-10-18-434f6d8a3a
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Reformatio in peius survives a procedural violation (T 1168/24)

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-d86425cbd6
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: finally-a-way-to-measure-ai-roi-be-careful-what-you-ask-for
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_id: cluster-2026-10-18-a61c84e4ea
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Finally, A Way To Measure AI ROI: Be Careful What You Ask For

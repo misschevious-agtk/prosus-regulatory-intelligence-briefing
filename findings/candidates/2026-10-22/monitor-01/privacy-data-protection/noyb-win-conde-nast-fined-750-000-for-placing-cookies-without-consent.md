@@ -22,11 +22,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-17-cd8d5d295f
-cluster_size: 5
+cluster_id: cluster-2026-10-18-1c41ef12d4
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-conde-nast-fined-750-000-for-placing-cookies-without-consent
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # noyb win: Conde Nast fined €750,000 for placing cookies without consent

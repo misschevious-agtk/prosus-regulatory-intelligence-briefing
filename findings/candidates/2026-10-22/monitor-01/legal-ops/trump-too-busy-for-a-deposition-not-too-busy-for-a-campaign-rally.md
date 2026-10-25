@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-21-eda81c4227
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-too-busy-for-a-deposition-not-too-busy-for-a-campaign-rally
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Trump Too Busy For A Deposition, Not Too Busy For A Campaign Rally

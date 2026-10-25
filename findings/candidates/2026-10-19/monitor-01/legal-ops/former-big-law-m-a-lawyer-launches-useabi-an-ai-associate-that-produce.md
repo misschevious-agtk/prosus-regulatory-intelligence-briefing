@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-f96e0fb86b
-cluster_size: 33
+cluster_id: cluster-2026-10-18-3bb09b7fe8
+cluster_size: 30
 cluster_role: sibling
 cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Former Big Law M&A Lawyer Launches useABI, an AI ‘Associate’ That Produces Deal Docs Without Prompting

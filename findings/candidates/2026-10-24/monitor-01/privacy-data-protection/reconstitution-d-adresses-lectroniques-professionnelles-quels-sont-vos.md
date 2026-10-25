@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-17-c766995333
+cluster_id: cluster-2026-10-18-2d6c7ffd8d
 cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: de-la-protection-des-donn-es-la-cr-ation-de-valeur-en-finance-des-auto
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?

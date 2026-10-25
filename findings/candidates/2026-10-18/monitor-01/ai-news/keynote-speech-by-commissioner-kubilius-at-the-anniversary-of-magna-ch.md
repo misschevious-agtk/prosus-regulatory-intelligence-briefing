@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-17-bfc2f465fb
-cluster_size: 4
+cluster_id: cluster-2026-10-18-af1eeaf6fc
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: keynote-speech-by-commissioner-kubilius-at-the-anniversary-of-magna-ch
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Keynote speech by Commissioner Kubilius at the Anniversary of Magna Charta Universitatum

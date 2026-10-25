@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-10-17-d948ec265c
-cluster_size: 13
+cluster_id: cluster-2026-10-18-fd0823eb10
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: cl-ture-de-l-injonction-prononc-e-l-encontre-de-france-travail
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 8 octobre 2026

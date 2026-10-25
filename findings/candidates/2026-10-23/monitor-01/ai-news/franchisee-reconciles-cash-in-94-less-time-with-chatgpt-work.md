@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-21-991e77aa68
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: franchisee-reconciles-cash-in-94-less-time-with-chatgpt-work
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Franchisee reconciles cash in 94% less time with ChatGPT Work

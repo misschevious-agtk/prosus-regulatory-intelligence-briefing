@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-06829a7e91
-cluster_size: 5
+cluster_id: cluster-2026-10-18-8743589908
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: fine-tuning-a-350m-model-for-better-structured-outputs-in-100-grpo-ste
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps

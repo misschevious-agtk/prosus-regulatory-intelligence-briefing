@@ -21,11 +21,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-10-17-5da9497c45
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: parting-shot-mandamus-sends-usc-v-google-from-judge-albright-s-austin-
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_id: cluster-2026-10-18-efadd002e9
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Parting Shot: Mandamus Sends USC v. Google from Judge Albright’s Austin Docket to N.D. Cal.

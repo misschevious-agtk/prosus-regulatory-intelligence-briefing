@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-17-e2377e994d
-cluster_size: 95
+cluster_id: cluster-2026-10-18-a8e837378e
+cluster_size: 161
 cluster_role: sibling
-cluster_canonical_slug: uspto-announces-a-new-ptab-moot-court-competition-for-the-ptab-advocat
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Reference Document Management Services (RDMS) Maintenance

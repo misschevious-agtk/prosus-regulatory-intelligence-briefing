@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-064ab80c94
-cluster_size: 10
-cluster_role: sibling
-cluster_canonical_slug: trump-press-secretary-zacharia-took-bar-exam-failed-called-herself-law
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_id: cluster-2026-10-18-9c9aad12f6
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Trump Press Secretary Zacharia Took Bar Exam, Failed, Called Herself Lawyer Anyway

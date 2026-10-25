@@ -23,11 +23,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-10-17-5948a23e29
+cluster_id: cluster-2026-10-18-f9f252dbf1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: ken-crutchfield-lessons-from-steel-why-llms-will-become-commodities
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Ken Crutchfield: Lessons From Steel — Why LLMs Will Become Commodities

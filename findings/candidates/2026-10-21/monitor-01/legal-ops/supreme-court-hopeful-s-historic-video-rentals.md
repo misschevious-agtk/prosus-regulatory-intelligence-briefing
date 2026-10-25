@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-20-6f21ee5e2b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-hopeful-s-historic-video-rentals
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Supreme Court Hopeful’s Historic Video Rentals

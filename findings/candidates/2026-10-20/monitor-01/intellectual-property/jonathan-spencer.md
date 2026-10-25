@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: United States Patent and Trademark Office
 case_numbers: []
-cluster_id: cluster-2026-10-17-f9bee9452a
+cluster_id: cluster-2026-10-18-c25d318fc4
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: jonathan-spencer
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Jonathan Spencer

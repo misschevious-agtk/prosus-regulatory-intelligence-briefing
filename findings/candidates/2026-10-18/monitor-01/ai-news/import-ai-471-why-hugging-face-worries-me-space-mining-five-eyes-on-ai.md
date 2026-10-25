@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-977ca89df3
+cluster_id: cluster-2026-10-18-d544d7720b
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI

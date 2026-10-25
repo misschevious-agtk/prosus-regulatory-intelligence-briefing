@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-17-9e50687dd1
-cluster_size: 81
+cluster_id: cluster-2026-10-18-3542633006
+cluster_size: 84
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données

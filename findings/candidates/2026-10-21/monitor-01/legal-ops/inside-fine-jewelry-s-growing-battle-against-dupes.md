@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-19-3c3b6e99c1
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: inside-fine-jewelry-s-growing-battle-against-dupes
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Inside Fine Jewelry’s Growing Battle Against Dupes

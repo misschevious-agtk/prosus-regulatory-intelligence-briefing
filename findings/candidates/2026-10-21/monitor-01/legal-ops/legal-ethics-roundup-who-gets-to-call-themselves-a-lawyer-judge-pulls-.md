@@ -19,7 +19,7 @@ cluster_id: cluster-2026-10-20-13f44ed39d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That Capitulated, Prosecutorial Misconduct, ABA DQ Bid Rejected, AI + A2J & More

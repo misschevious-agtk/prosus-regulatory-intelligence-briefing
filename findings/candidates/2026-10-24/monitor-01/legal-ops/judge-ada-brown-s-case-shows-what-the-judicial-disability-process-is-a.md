@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-23-8d0b9da0cf
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: judge-ada-brown-s-case-shows-what-the-judicial-disability-process-is-a
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Judge Ada Brown’s Case Shows What The Judicial Disability Process Is Actually For

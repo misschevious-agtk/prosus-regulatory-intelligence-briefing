@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-e79c3a9029
-cluster_size: 62
+cluster_id: cluster-2026-10-18-a8e837378e
+cluster_size: 161
 cluster_role: sibling
 cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # ERA’s Annual Conference on European Copyright Law returns with IPKat readers’ discount

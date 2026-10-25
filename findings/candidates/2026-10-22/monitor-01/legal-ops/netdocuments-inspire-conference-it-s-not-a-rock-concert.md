@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-21-ca7e18799c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: netdocuments-inspire-conference-it-s-not-a-rock-concert
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # NetDocuments Inspire Conference: It’s Not A Rock Concert

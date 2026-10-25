@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-ae56c94432
-cluster_size: 4
+cluster_id: cluster-2026-10-18-1397324293
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: out-of-line-chief-judge-moore-rebukes-counsel-then-leans-toward-revers
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Out of Line: Chief Judge Moore Rebukes Counsel, Then Leans Toward Reversal in J&M v. Kinze

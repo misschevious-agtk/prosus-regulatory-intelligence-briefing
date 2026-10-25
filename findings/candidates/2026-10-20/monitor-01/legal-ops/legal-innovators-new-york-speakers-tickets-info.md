@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-17-d77fce43fe
-cluster_size: 8
+cluster_id: cluster-2026-10-18-ef3d5d3227
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: legal-innovators-new-york-speakers-tickets-info
-ranked_at: '2026-10-24T11:53:40+00:00'
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Legal Innovators New York – Speakers + Tickets Info

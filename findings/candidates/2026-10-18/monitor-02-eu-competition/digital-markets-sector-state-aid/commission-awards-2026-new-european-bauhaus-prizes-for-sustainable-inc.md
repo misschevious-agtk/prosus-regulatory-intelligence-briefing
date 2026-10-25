@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-17-d8447fe8d2
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: commission-awards-2026-new-european-bauhaus-prizes-for-sustainable-inc
-ranked_at: '2026-10-24T11:53:40+00:00'
+cluster_id: cluster-2026-10-18-7d32afa883
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-25T12:23:00+00:00'
 ---
 
 # Commission awards 2026 New European Bauhaus prizes for sustainable, inclusive and beautiful projects

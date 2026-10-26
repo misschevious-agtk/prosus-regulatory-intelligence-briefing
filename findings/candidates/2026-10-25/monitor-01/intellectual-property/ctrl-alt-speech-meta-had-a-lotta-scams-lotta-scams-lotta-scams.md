@@ -18,10 +18,10 @@ entities:
   matched_alias: YouTube
 case_numbers: []
 cluster_id: cluster-2026-10-24-132a0502b9
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ctrl-alt-speech-meta-had-a-lotta-scams-lotta-scams-lotta-scams
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Ctrl-Alt-Speech: Meta Had A Lotta Scams, Lotta Scams, Lotta Scams

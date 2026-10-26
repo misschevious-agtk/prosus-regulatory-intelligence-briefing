@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-10-18-34762fbd9b
-cluster_size: 3
+cluster_id: cluster-2026-10-19-5a6b05ebe0
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: doj-sues-to-impose-bespoke-20-000-disenfranchisement-list-on-californi
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # DOJ Sues To Impose Bespoke 20,000 Disenfranchisement List On California

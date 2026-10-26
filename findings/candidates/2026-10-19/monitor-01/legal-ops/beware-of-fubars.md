@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-18-4d39579c33
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: beware-of-fubars
-ranked_at: '2026-10-25T12:23:00+00:00'
+cluster_id: cluster-2026-10-19-f036b6c5eb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Beware Of FUBARS

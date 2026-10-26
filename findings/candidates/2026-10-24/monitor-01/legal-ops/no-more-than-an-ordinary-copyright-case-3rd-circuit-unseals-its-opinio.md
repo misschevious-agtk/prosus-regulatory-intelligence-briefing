@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-18-d62e5acf66
+cluster_id: cluster-2026-10-19-2123bb686c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinio
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # ‘No More Than an Ordinary Copyright Case’ — 3rd Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS

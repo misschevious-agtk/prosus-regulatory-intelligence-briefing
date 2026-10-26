@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-22-83b29275b5
-cluster_size: 24
+cluster_size: 30
 cluster_role: sibling
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 cluster_canonical_slug: potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve
 ---
 

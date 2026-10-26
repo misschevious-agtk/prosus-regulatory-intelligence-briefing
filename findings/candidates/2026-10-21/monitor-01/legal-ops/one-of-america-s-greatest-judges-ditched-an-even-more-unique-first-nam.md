@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-21-7b775257cd
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # One Of America’s Greatest Judges Ditched An Even More Unique First Name

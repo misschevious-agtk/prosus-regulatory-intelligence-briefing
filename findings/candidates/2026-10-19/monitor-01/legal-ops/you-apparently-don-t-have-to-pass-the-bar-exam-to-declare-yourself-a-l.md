@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-18-9c9aad12f6
-cluster_size: 7
+cluster_id: cluster-2026-10-19-e502113465
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: trump-press-secretary-zacharia-took-bar-exam-failed-called-herself-law
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # You Apparently Don’t Have To Pass The Bar Exam To Declare Yourself A Lawyer — See Also

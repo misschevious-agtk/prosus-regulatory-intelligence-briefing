@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-18-103d62db85
-cluster_size: 25
+cluster_id: cluster-2026-10-19-5cf9a90faa
+cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: inter-partes-review-ipr-filings-collapse-to-a-new-normal
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Jepson and Other Point-of-Novelty Claims in U.S. Patents, 1976–2026

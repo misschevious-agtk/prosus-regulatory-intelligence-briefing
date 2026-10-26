@@ -22,11 +22,11 @@ case_numbers:
   citation: T-834/25
 - scheme: EU General Court
   citation: T-835/25
-cluster_id: cluster-2026-10-18-74e103c346
-cluster_size: 24
+cluster_id: cluster-2026-10-19-799733f02b
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: colour-me-orange-german-supreme-court-sets-high-bar-for-acquired-disti
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # More colours, same problem: Olymp loses EU trade mark appeals

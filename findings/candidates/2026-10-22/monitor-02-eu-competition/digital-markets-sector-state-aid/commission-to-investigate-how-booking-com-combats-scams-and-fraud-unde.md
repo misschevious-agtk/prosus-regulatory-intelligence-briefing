@@ -24,10 +24,10 @@ entities:
   matched_alias: Booking.com
 case_numbers: []
 cluster_id: cluster-2026-10-21-caeb27d33c
-cluster_size: 125
+cluster_size: 123
 cluster_role: sibling
 cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act

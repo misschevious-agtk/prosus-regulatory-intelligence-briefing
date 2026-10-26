@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-18-f5657135c1
-cluster_size: 16
+cluster_id: cluster-2026-10-19-27e0c42216
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: ai-in-the-patent-industry-the-sneaky-practice-of-prompt-injection-and-
-ranked_at: '2026-10-25T12:23:00+00:00'
+cluster_canonical_slug: is-rot-data-thwarting-your-firm-s-ai-adoption
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # AI Won’t Make Lawyering Faster. It Will Make It Different.

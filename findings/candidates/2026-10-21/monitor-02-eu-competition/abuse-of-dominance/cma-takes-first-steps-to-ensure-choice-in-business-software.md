@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-18-fb37e44058
-cluster_size: 221
+cluster_id: cluster-2026-10-19-d600403653
+cluster_size: 187
 cluster_role: sibling
 cluster_canonical_slug: proposed-decision-sms-investigation-into-microsoft-s-business-software
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # CMA takes first steps to ensure choice in business software

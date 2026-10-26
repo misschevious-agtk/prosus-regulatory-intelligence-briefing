@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-18-82377566fa
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: our-approach-to-eu-text-provenance-rules
-ranked_at: '2026-10-25T12:23:00+00:00'
+cluster_id: cluster-2026-10-19-9a8eeb6f51
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Our approach to EU text provenance rules

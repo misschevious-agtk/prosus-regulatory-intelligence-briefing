@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-18-dbc5aacce1
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: ice-s-lies-about-a-man-officer-ran-over-undone-by-footage-captured-by-
-ranked_at: '2026-10-25T12:23:00+00:00'
+cluster_id: cluster-2026-10-19-17a4a55df1
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # ICE’s Lies About A Man Officer Ran Over Undone By Footage Captured By Nearby CCTV Camera

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-20-2a969a23da
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: golf-course-plaintiffs-give-judge-reyes-a-heads-up-the-president-calle
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Golf Course Plaintiffs Give Judge Reyes A Heads-Up: The President Called You Insane Before Breakfast

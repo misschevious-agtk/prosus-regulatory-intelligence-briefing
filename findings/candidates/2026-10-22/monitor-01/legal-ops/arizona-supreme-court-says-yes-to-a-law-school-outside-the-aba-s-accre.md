@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-21-1df5e2a9cd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: arizona-supreme-court-says-yes-to-a-law-school-outside-the-aba-s-accre
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Arizona Supreme Court Says Yes To A Law School Outside The ABA’s Accreditation System

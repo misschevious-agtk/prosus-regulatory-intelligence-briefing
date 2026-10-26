@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-18-3bb09b7fe8
-cluster_size: 30
+cluster_id: cluster-2026-10-19-111bc0da91
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
-ranked_at: '2026-10-25T12:23:00+00:00'
+cluster_canonical_slug: partners-want-ai-to-help-them-find-new-business-but-most-are-running-i
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Old Problems, New Tools: Maybe You Need a Knowledge Strategy

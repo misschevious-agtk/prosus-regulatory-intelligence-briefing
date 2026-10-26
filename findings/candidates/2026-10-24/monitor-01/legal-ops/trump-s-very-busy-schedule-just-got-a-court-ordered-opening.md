@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-22-01b1390c76
-cluster_size: 7
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: the-trump-administration-struggled-with-the-bar-exam-and-its-inbox
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Trump’s Very Busy Schedule Just Got A Court-Ordered Opening

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-18-f5657135c1
-cluster_size: 16
+cluster_id: cluster-2026-10-19-b7cd318ee5
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: ai-in-the-patent-industry-the-sneaky-practice-of-prompt-injection-and-
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # AI in the patent industry: The sneaky practice of prompt injection (and what to do about it)

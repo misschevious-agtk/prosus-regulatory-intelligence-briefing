@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-23-e27aff39d4
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-opens-investigation-into-possible-anticompetitive-conduct-b
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry

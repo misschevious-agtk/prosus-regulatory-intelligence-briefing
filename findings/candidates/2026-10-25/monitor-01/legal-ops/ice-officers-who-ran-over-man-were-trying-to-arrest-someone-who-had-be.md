@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-23-44a2734919
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: ice-officers-who-ran-over-man-were-trying-to-arrest-someone-who-had-be
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # ICE Officers Who Ran Over Man Were Trying To Arrest Someone Who Had Been Dead For Years

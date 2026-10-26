@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-20-47946c59b5
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: doj-demands-judge-recuse-herself-for-inappropriate-noticing-they-broke
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # DOJ Demands Judge Recuse Herself For Inappropriate Noticing They Broke The Law

@@ -22,11 +22,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-18-5ed1bc9516
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-10-15-26
-ranked_at: '2026-10-25T12:23:00+00:00'
+cluster_id: cluster-2026-10-19-634e5dadda
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Morning Docket: 10.16.26

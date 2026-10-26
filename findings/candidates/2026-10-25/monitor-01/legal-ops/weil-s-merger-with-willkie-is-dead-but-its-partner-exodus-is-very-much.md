@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-24-de5f44581e
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: weil-s-merger-with-willkie-is-dead-but-its-partner-exodus-is-very-much
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Weil’s Merger With Willkie Is Dead, But Its Partner Exodus Is Very Much Alive

@@ -19,9 +19,9 @@ entities:
   matched_alias: AWS
 case_numbers: []
 cluster_id: cluster-2026-10-20-cbb54876eb
-cluster_size: 12
+cluster_size: 15
 cluster_role: canonical
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # TorchNeuron: running HF models on AWS Trainium is easier than ever

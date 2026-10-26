@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-21-810781523b
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Press remarks by Executive Vice-President Fitto and Commissioner Kadis on Vision 2040 for a thriving fisheries and aquaculture sector

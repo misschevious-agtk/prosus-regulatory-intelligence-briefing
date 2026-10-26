@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-18-e24d3f9f46
-cluster_size: 3
+cluster_id: cluster-2026-10-19-5252522c35
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: chatham-scales-its-capital-markets-expertise-with-openai
-ranked_at: '2026-10-25T12:23:00+00:00'
+ranked_at: '2026-10-26T13:54:47+00:00'
 ---
 
 # Chatham scales its capital markets expertise with OpenAI

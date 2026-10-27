@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-19-966a9e1591
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: bonus-season-is-nearly-here-time-to-find-out-what-your-firm-thinks-you
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_id: cluster-2026-10-20-8bd6483d8b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Bonus Season Is Nearly Here: Time To Find Out What Your Firm Thinks You’re Worth

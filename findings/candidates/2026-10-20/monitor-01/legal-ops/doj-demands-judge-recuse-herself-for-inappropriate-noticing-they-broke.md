@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-20-47946c59b5
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # DOJ Demands Judge Recuse Herself For Inappropriate Noticing They Broke The Law

@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-19-0152300030
-cluster_size: 16
+cluster_id: cluster-2026-10-20-f5f5ae40c2
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: john-f-duffy-appointed-general-counsel-and-acting-solicitor-of-the-usp
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Statement by Director Squires before the United States Senate Subcommittee on Intellectual Property Committee on the Judiciary

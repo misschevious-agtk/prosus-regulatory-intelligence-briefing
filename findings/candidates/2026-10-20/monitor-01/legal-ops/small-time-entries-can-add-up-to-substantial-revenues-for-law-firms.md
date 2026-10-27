@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-19-b03e185245
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: small-time-entries-can-add-up-to-substantial-revenues-for-law-firms
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_id: cluster-2026-10-20-48682dc405
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Small Time Entries Can Add Up To Substantial Revenues For Law Firms

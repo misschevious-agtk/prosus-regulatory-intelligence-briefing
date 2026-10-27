@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-19-27e0c42216
-cluster_size: 4
+cluster_id: cluster-2026-10-20-6ef2feff90
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: is-rot-data-thwarting-your-firm-s-ai-adoption
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # AI Won’t Make Lawyering Faster. It Will Make It Different.

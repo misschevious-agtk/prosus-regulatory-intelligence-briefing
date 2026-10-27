@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-19-d600403653
-cluster_size: 187
+cluster_id: cluster-2026-10-20-076181614e
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: proposed-decision-sms-investigation-into-microsoft-s-business-software
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_canonical_slug: large-veterinary-businesses-complying-with-the-cma-s-order
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Large veterinary businesses: complying with the CMA's Order

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-21-7b775257cd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: one-of-america-s-greatest-judges-ditched-an-even-more-unique-first-nam
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # One Of America’s Greatest Judges Ditched An Even More Unique First Name

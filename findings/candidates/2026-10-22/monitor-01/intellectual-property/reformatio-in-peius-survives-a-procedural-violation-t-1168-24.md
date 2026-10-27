@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-19-67c9bca66f
-cluster_size: 8
+cluster_id: cluster-2026-10-20-ba5003de2a
+cluster_size: 173
 cluster_role: sibling
-cluster_canonical_slug: reformatio-in-peius-survives-a-procedural-violation-t-1168-24
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Reformatio in peius survives a procedural violation (T 1168/24)

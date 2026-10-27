@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-23-301b134d95
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Vivek Ramaswamy Spent $4 Million Proving Yale Law School Can’t Buy You Class

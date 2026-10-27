@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-20-daa6b6b769
-cluster_size: 78
+cluster_size: 90
 cluster_role: canonical
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # BT / TalkTalk merger inquiry

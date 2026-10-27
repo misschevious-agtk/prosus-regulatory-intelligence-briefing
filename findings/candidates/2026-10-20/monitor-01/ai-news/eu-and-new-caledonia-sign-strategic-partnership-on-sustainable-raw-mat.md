@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-20-21528b8d2f
+cluster_id: cluster-2026-10-20-4e22416dbb
 cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: eu-and-new-caledonia-sign-strategic-partnership-on-sustainable-raw-mat
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # EU and New Caledonia sign strategic partnership on sustainable raw materials

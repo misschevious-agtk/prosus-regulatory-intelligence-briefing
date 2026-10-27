@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-21-1df5e2a9cd
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Arizona Supreme Court Says Yes To A Law School Outside The ABA’s Accreditation System

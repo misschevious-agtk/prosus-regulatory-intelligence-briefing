@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-19-67efd30fe5
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: helping-teens-learn-plan-and-shape-the-future-of-ai
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_id: cluster-2026-10-20-79c87065b1
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Helping teens learn, plan, and shape the future of AI

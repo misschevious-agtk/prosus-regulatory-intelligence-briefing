@@ -22,11 +22,10 @@ entities:
   jurisdiction: UK
   matched_alias: ICO
 case_numbers: []
-cluster_id: cluster-2026-10-19-4322e26bd6
+cluster_id: cluster-2026-10-20-bf60b09334
 cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: de-la-protection-des-donn-es-la-cr-ation-de-valeur-en-finance-des-auto
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques

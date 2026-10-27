@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-22-44cd50a30d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-republican-party-brand-is-betrayal
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # The Republican Party Brand Is ‘Betrayal’

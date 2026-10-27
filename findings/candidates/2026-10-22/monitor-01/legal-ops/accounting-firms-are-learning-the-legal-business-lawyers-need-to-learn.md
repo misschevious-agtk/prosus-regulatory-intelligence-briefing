@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-21-3b552e8209
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: accounting-firms-are-learning-the-legal-business-lawyers-need-to-learn
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Accounting Firms Are Learning The Legal Business. Lawyers Need To Learn The Accounting.

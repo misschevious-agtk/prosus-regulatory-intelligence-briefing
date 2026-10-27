@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-19-e502113465
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: trump-press-secretary-zacharia-took-bar-exam-failed-called-herself-law
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_id: cluster-2026-10-20-3808ab17fb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Katie Zacharia’s Credential Controversy Now Has Trump Telling Her To ‘Reconsider’ Her Role

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-24-981cc3387b
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: he-created-the-world-s-most-famous-fictional-lawyer-and-freed-real-inn
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # He Created The World’s Most Famous Fictional Lawyer And Freed Real Innocent People

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-20-3270118732
-cluster_size: 20
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: impulse-control-sets-stage-for-benchslap-see-also
-ranked_at: '2026-10-26T13:54:47+00:00'
+ranked_at: '2026-10-27T13:02:02+00:00'
 ---
 
 # Morning Docket: 10.20.26

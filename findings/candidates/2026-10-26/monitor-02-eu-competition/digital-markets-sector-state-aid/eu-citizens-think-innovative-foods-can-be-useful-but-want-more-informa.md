@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-26-6c3bb2aec2
+cluster_id: cluster-2026-10-26-653edf7013
 cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-10-26T13:54:47+00:00'
+cluster_role: sibling
+ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_canonical_slug: eu-citizens-think-innovative-foods-can-be-useful-but-want-more-informa
 ---
 
 # EU citizens think innovative foods can be useful but want more information, new Eurobarometer shows

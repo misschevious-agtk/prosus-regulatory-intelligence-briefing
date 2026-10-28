@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-27-ff4e71ea34
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # This 250-Lawyer Firm Had Exactly One Partner… And He Was Running A $700 Million Fraud

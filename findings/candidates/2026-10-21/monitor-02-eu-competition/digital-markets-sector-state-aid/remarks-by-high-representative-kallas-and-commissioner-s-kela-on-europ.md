@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-21-caeb27d33c
-cluster_size: 141
+cluster_size: 145
 cluster_role: sibling
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
 ---
 

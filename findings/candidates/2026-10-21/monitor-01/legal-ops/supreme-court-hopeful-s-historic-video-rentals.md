@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-20-6f21ee5e2b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: supreme-court-hopeful-s-historic-video-rentals
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_id: cluster-2026-10-21-9b84522fbc
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Supreme Court Hopeful’s Historic Video Rentals

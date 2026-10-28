@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-20-b4c08c4453
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: hillary-clinton-kamala-harris-also-failed-the-bar-exam-note-gopers-fac
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_id: cluster-2026-10-21-21976976f9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # ‘Hillary Clinton & Kamala Harris Also Failed The Bar Exam!’ Note GOPers Faceplanting Zacharia Defense

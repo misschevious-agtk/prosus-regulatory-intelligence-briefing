@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-24-e7f76e8332
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Law Student Pulls A 4.0, Makes Law Review, Summers In Biglaw… And Walks On To The Football Team

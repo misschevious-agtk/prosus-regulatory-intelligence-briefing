@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-26-f3c6dabe43
+cluster_id: cluster-2026-10-26-2bff8dd783
 cluster_size: 2
-cluster_role: sibling
-ranked_at: '2026-10-27T13:02:02+00:00'
-cluster_canonical_slug: commission-launches-t-med-investment-platform-with-up-to-4-5-billion-i
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees

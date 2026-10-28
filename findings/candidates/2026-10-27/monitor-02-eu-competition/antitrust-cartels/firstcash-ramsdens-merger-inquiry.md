@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-26-2cf3ed98b9
-cluster_size: 12
+cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: firstcash-ramsdens-merger-inquiry
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # FirstCash / Ramsdens merger inquiry

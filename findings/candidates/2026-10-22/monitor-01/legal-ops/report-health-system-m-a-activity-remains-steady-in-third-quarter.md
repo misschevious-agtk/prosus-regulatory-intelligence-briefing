@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-22-d2628cf6ca
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Report: Health System M&A Activity Remains Steady In Third Quarter

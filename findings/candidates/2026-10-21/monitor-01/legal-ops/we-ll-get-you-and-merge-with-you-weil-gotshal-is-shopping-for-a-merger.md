@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-21-b8e140bf95
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: weil-gotshal-is-reportedly-negotiating-a-merger-about-a-month-after-sa
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # We’ll Get You And Merge With You: Weil Gotshal Is  Shopping For A Merger Partner — See Also

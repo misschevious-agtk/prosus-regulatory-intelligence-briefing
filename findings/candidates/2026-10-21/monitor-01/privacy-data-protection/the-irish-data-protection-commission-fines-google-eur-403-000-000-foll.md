@@ -21,11 +21,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-10-20-12f6a010c2
+cluster_id: cluster-2026-10-21-a7a157a6fa
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-irish-data-protection-commission-fines-google-eur-403-000-000-foll
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data

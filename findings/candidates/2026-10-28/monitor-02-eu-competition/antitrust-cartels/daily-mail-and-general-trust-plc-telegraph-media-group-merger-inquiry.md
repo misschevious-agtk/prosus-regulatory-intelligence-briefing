@@ -1,0 +1,42 @@
+---
+date_found: 2026-10-28
+monitor: monitor-02-eu-competition
+domain: antitrust-cartels
+source_url: https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry
+source_publisher: CMA news
+source_date: '2026-10-16T10:47:36Z'
+source_method: rss
+title: Daily Mail and General Trust plc / Telegraph Media Group merger inquiry
+matched_keywords:
+- Competition and Markets Authority
+- CMA
+match_count: 2
+status: candidate
+entities:
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  matched_alias: CMA
+case_numbers: []
+cluster_id: cluster-2026-10-21-dfc6e872f8
+cluster_size: 53
+cluster_role: sibling
+cluster_canonical_slug: redbird-imi-telegraph-media-group-merger-inquiry
+ranked_at: '2026-10-28T13:52:23+00:00'
+---
+
+# Daily Mail and General Trust plc / Telegraph Media Group merger inquiry
+
+**Source:** [CMA news](https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry)
+**Published:** 2026-10-16T10:47:36Z
+**Matched keywords (2):** Competition and Markets Authority, CMA
+
+## Summary excerpt
+
+The Competition and Markets Authority (CMA) investigated the anticipated acquisition by Daily Mail and General Trust plc of Telegraph Media Group Holdings Limited.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

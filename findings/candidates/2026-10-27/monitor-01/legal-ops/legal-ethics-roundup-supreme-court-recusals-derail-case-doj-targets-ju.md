@@ -19,9 +19,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-10-27-841e5546df
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Legal Ethics Roundup: Supreme Court Recusals Derail Case, DOJ Targets Judges, Judicial Endorsement Controversy, Judge Leaks Sealed Records, Private Equity Rebuffed & More

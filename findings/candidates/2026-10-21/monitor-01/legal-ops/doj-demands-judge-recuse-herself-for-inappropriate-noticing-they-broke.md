@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-10-20-47946c59b5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: doj-demands-judge-recuse-herself-for-inappropriate-noticing-they-broke
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_id: cluster-2026-10-21-1f9846739e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # DOJ Demands Judge Recuse Herself For Inappropriate Noticing They Broke The Law

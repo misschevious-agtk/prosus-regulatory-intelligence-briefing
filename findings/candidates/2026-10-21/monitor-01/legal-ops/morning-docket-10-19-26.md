@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-20-3270118732
-cluster_size: 19
+cluster_id: cluster-2026-10-21-0aae75c0eb
+cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: impulse-control-sets-stage-for-benchslap-see-also
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Morning Docket: 10.19.26

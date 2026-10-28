@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-24-de538cd4f2
-cluster_size: 4
+cluster_id: cluster-2026-10-21-a77c84937f
+cluster_size: 182
 cluster_role: sibling
-cluster_canonical_slug: small-business-innovation-research-ip-awareness-webinar-series-2026-sp
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Small Business Innovation Research IP Awareness Webinar Series 2026: Spotlight on the National Science Foundation

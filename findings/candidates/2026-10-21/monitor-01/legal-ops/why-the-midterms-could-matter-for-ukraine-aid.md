@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-21-9e1e150258
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Why The Midterms Could Matter For Ukraine Aid

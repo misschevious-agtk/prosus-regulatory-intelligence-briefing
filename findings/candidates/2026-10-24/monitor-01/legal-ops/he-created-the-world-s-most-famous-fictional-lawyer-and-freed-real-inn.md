@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-24-981cc3387b
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # He Created The World’s Most Famous Fictional Lawyer And Freed Real Innocent People

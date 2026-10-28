@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-20-7c0440e569
-cluster_size: 4
+cluster_id: cluster-2026-10-21-b4434e372a
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ptab-law-school-moot-court-competition-set-for-spring-2027
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # PTAB Law School Moot Court Competition Set for Spring 2027

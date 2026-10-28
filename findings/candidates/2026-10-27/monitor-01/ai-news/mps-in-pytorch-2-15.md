@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-20-3748057435
+cluster_id: cluster-2026-10-21-ef48cd640c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: mps-in-pytorch-2-15
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # MPS in PyTorch 2.15

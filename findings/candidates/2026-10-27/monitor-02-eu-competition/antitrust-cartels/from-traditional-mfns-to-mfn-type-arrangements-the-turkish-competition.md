@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-20-4b9ecf038a
-cluster_size: 8
+cluster_id: cluster-2026-10-21-8397aa0a47
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: from-traditional-mfns-to-mfn-type-arrangements-the-turkish-competition
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # From Traditional MFNs to MFN-Type Arrangements: The Turkish Competition Authority’s Effects-Based Approach

@@ -18,11 +18,10 @@ entities:
   jurisdiction: NL
   matched_alias: ACM
 case_numbers: []
-cluster_id: cluster-2026-10-20-499338f59d
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: harvey-webinar-agents-in-legal-a-practical-guide
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_id: cluster-2026-10-21-826e6c6b91
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Webinar: The Future of Contract Management + ACM Demo

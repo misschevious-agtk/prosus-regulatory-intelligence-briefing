@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-20-daa6b6b769
-cluster_size: 90
+cluster_id: cluster-2026-10-21-d865982771
+cluster_size: 96
 cluster_role: sibling
 cluster_canonical_slug: bt-talktalk-merger-inquiry
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # nexfibre / Substantial merger inquiry

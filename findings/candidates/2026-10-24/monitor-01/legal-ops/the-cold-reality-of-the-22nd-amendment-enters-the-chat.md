@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-24-4400c71090
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # The Cold Reality Of The 22nd Amendment Enters The Chat

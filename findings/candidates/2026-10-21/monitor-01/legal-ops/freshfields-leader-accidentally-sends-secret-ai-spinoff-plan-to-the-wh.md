@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-20-1bfe087a25
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: freshfields-leader-accidentally-sends-secret-ai-spinoff-plan-to-the-wh
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_id: cluster-2026-10-21-32b215f9fe
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Freshfields Leader Accidentally Sends Secret AI Spinoff Plan To The Whole Firm, With A Bonus Insult To Some Very Important Clients

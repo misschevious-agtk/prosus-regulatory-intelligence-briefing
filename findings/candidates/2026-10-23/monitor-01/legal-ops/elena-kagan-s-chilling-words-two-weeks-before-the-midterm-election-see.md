@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-22-8ab24181d2
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: elena-kagan-s-chilling-words-two-weeks-before-the-midterm-election-see
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Elena Kagan’s Chilling Words Two Weeks Before The Midterm Election — See Also

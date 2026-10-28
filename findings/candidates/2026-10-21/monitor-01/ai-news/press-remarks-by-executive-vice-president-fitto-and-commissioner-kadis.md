@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-21-b82f1eba43
+cluster_id: cluster-2026-10-21-810781523b
 cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_role: sibling
+ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_canonical_slug: press-remarks-by-executive-vice-president-fitto-and-commissioner-kadis
 ---
 
 # Press remarks by Executive Vice-President Fitto and Commissioner Kadis on Vision 2040 for a thriving fisheries and aquaculture sector

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-23-43ff0b0abb
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-lik
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # FDA Official Believes GenAI-Enabled Tools Will Need To Be Assessed Like A Physician

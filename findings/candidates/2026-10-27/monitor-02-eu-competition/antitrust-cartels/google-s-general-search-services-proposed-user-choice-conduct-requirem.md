@@ -24,10 +24,10 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-10-26-fc17ab45f3
-cluster_size: 6
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
-ranked_at: '2026-10-27T13:02:02+00:00'
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Google’s general search services: proposed user choice conduct requirement

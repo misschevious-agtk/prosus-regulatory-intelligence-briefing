@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-10-20-e1c6e37a16
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: doj-s-plan-to-subpoena-susman-godfrey-off-the-aba-case-does-not-surviv
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_id: cluster-2026-10-21-3baafa0bfe
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # DOJ’s Plan To Subpoena Susman Godfrey Off The ABA Case Does Not Survive Contact With A Judge

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-20-1ec3386fdf
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: inside-fine-jewelry-s-growing-battle-against-dupes
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_id: cluster-2026-10-21-c3f337028e
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Inside Fine Jewelry’s Growing Battle Against Dupes

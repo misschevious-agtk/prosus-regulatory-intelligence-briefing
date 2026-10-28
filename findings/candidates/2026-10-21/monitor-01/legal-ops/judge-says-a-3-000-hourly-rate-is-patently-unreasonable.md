@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-20-cb2bf679da
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: judge-says-a-3-000-hourly-rate-is-patently-unreasonable
-ranked_at: '2026-10-27T13:02:02+00:00'
+cluster_id: cluster-2026-10-21-eede4afc18
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-28T13:52:23+00:00'
 ---
 
 # Judge Says A $3,000 Hourly Rate Is ‘Patently Unreasonable’

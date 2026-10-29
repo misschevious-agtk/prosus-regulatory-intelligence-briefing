@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-10-21-591900d76c
-cluster_size: 90
+cluster_id: cluster-2026-10-29-112d4f7343
+cluster_size: 74
 cluster_role: sibling
-cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_canonical_slug: noyb-win-french-electronics-retailer-fnac-darty-fined-7-million
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # NEWSLETTER del 23 ottobre 2026

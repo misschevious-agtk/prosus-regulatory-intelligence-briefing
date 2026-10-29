@@ -34,9 +34,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-10-22-5b35ae2605
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # EU Member States (and Google) suddenly want to keep cookie banners!

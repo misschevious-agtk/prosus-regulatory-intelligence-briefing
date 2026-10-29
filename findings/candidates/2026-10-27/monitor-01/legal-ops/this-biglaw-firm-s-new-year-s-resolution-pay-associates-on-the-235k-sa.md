@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-27-87c482b8da
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # This Biglaw Firm’s New Year’s Resolution? Pay Associates On The $235K Salary Scale

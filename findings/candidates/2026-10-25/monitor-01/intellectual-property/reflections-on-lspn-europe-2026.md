@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-a77c84937f
-cluster_size: 182
+cluster_id: cluster-2026-10-22-297ee507bd
+cluster_size: 203
 cluster_role: sibling
 cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Reflections on LSPN Europe 2026

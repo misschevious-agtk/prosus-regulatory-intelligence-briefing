@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-27-9dd309fa10
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Do It With Us, Not To Us

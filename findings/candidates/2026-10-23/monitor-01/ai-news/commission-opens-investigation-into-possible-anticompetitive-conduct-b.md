@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-23-e27aff39d4
+cluster_id: cluster-2026-10-23-c57d263dfa
 cluster_size: 6
-cluster_role: sibling
-ranked_at: '2026-10-28T13:52:23+00:00'
-cluster_canonical_slug: commission-opens-investigation-into-possible-anticompetitive-conduct-b
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry

@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-21-caeb27d33c
-cluster_size: 145
-cluster_role: sibling
-cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_id: cluster-2026-10-22-45b73fc96f
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Commission greenlights Germany's final payment request for €6 billion under NextGenerationEU

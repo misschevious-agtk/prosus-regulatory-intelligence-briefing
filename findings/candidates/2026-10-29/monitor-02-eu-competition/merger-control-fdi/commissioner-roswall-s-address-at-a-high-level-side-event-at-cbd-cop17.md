@@ -1,0 +1,41 @@
+---
+date_found: 2026-10-29
+monitor: monitor-02-eu-competition
+domain: merger-control-fdi
+source_url: https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2280
+source_publisher: European Commission press
+source_date: Wed, 28 Oct 2026 16:16:31 GMT
+source_method: rss
+title: Commissioner Roswall's address at a High-level side-event at CBD COP17, “Restoring nature – from commitments to action”
+matched_keywords:
+- commitments
+match_count: 1
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+case_numbers: []
+cluster_id: cluster-2026-10-22-598fe8c41a
+cluster_size: 142
+cluster_role: sibling
+cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
+ranked_at: '2026-10-29T13:58:43+00:00'
+---
+
+# Commissioner Roswall's address at a High-level side-event at CBD COP17, “Restoring nature – from commitments to action”
+
+**Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2280)
+**Published:** Wed, 28 Oct 2026 16:16:31 GMT
+**Matched keywords (1):** commitments
+
+## Summary excerpt
+
+European Commission Speech Yerevan, 28 Oct 2026 Excellencies, distinguished guests, Let me start with a simple but powerful truth. Our natural world is the bedrock of our economic security, our food and energ...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

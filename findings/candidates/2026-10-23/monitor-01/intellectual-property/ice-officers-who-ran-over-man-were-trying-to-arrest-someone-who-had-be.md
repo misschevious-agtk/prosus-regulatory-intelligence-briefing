@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-23-44a2734919
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # ICE Officers Who Ran Over Man Were Trying To Arrest Someone Who Had Been Dead For Years

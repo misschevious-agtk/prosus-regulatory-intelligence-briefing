@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-6326d95600
+cluster_id: cluster-2026-10-22-497b9771e0
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-mathematical-proof-supports-transition-to-a-continuous-monitor-an
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # NIST Mathematical Proof Supports Transition to a Continuous-Monitor-and-Update Security Model for AI Systems

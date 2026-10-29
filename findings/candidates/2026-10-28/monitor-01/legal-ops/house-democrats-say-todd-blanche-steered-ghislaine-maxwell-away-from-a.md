@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-27-1d133ebf3f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: house-democrats-say-todd-blanche-steered-ghislaine-maxwell-away-from-a
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # House Democrats Say Todd Blanche Steered Ghislaine Maxwell Away From A Trump Accuser

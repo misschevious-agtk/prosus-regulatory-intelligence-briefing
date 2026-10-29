@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-21-dfc6e872f8
-cluster_size: 53
+cluster_id: cluster-2026-10-22-12dd58339d
+cluster_size: 50
 cluster_role: sibling
 cluster_canonical_slug: redbird-imi-telegraph-media-group-merger-inquiry
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Daily Mail and General Trust plc / Telegraph Media Group merger inquiry

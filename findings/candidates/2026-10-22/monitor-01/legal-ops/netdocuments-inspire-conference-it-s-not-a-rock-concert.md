@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-ca7e18799c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: netdocuments-inspire-conference-it-s-not-a-rock-concert
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_id: cluster-2026-10-22-8846c2d88c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # NetDocuments Inspire Conference: It’s Not A Rock Concert

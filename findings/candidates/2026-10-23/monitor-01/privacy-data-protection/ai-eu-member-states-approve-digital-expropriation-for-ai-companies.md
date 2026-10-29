@@ -37,9 +37,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-10-23-7a80d3e1c1
-cluster_size: 167
+cluster_size: 152
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # AI: EU Member States approve “digital expropriation” for AI companies

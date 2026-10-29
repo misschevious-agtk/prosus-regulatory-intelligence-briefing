@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-a5b23e2be6
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-defense-bar-in-the-age-of-ai-running-a-red-queen-s-race
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_id: cluster-2026-10-22-3c950b8871
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # AI Innovation On Trial

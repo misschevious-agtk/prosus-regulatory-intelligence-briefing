@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-22-77a9d9e240
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: getting-started-with-patent-public-search
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Getting started with Patent Public Search

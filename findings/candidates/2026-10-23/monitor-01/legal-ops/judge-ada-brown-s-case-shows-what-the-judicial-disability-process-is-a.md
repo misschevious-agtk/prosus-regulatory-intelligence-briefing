@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-23-8d0b9da0cf
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Judge Ada Brown’s Case Shows What The Judicial Disability Process Is Actually For

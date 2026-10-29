@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-21-74da3d2e37
+cluster_id: cluster-2026-10-22-afe5ef8e0b
 cluster_size: 72
 cluster_role: sibling
 cluster_canonical_slug: apple-s-mobile-platform
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Issues relating to NFC access on iOS

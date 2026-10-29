@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-26-3657a6dcea
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Whoops: Meta’s Muse Share Links Disclosed All Sorts Of Super-Sensitive User Data

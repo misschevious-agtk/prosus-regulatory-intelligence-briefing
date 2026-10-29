@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-23-43ff0b0abb
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # FDA Official Believes GenAI-Enabled Tools Will Need To Be Assessed Like A Physician

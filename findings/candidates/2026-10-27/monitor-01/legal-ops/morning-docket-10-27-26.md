@@ -24,9 +24,9 @@ entities:
   matched_alias: AP
 case_numbers: []
 cluster_id: cluster-2026-10-27-cab8e21e55
-cluster_size: 13
+cluster_size: 26
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Morning Docket: 10.27.26

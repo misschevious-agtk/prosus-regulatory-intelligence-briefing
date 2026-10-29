@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-22-d179c53f43
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: who-will-control-the-ai-relationship-in-house-or-outside-counsel
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Who Will Control The AI Relationship: In-House Or Outside Counsel?

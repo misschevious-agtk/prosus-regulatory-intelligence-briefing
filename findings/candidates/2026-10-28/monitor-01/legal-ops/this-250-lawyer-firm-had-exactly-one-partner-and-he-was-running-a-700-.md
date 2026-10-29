@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-27-ff4e71ea34
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-250-lawyer-firm-had-exactly-one-partner-and-he-was-running-a-700-
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # This 250-Lawyer Firm Had Exactly One Partner… And He Was Running A $700 Million Fraud

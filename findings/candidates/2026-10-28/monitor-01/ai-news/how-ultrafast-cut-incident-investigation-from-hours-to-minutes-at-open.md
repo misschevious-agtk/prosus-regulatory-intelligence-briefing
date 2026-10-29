@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-21-f76f5c2886
-cluster_size: 18
+cluster_id: cluster-2026-10-22-316f855fea
+cluster_size: 19
 cluster_role: sibling
-cluster_canonical_slug: sentinelone-cuts-malware-analysis-from-weeks-to-hours
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_canonical_slug: cloudflare-links-vulnerability-discovery-to-defense-with-openai
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # How Ultrafast cut incident investigation from hours to minutes at OpenAI

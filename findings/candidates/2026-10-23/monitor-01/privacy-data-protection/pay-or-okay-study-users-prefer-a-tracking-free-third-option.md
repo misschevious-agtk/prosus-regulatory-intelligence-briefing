@@ -31,7 +31,7 @@ cluster_id: cluster-2026-10-22-3998c0bad1
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: pay-or-okay-study-users-prefer-a-tracking-free-third-option
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # ‘Pay or Okay’ study: Users prefer a tracking-free “third option”

@@ -23,9 +23,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-22-6ca23d3c10
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Austrian Supreme Court: Meta must give users full access to their data

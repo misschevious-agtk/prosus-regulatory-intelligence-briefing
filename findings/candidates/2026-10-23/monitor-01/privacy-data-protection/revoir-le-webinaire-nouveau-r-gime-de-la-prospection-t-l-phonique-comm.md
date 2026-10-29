@@ -18,11 +18,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-21-591900d76c
-cluster_size: 90
-cluster_role: sibling
-cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_id: cluster-2026-10-23-8fa86ccdf8
+cluster_size: 21
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?

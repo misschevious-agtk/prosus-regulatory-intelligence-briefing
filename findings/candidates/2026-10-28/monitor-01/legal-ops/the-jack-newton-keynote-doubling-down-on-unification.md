@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-27-12963bccfc
-cluster_size: 5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: cliocon-2026-keynotes-educational-sessions-and-parties-what-s-on-the-h
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # The Jack Newton Keynote: Doubling Down On Unification

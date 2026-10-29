@@ -25,7 +25,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-22-5acb4f3943
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # noyb win: Conde Nast fined €750,000 for placing cookies without consent

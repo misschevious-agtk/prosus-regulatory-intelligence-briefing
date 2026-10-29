@@ -26,11 +26,10 @@ entities:
   jurisdiction: EU
   matched_alias: General Court
 case_numbers: []
-cluster_id: cluster-2026-10-21-a77c84937f
-cluster_size: 182
-cluster_role: sibling
-cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_id: cluster-2026-10-22-297ee507bd
+cluster_size: 203
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # When market leadership becomes a merger control liability: What the General Court's Booking/eTraveli judgment means for M&A Strategy

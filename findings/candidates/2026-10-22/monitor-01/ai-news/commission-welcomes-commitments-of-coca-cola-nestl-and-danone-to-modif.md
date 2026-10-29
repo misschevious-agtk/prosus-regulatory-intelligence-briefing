@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-22-437de619e7
+cluster_id: cluster-2026-10-22-78a586b122
 cluster_size: 12
-cluster_role: sibling
-ranked_at: '2026-10-28T13:52:23+00:00'
-cluster_canonical_slug: commission-welcomes-commitments-of-coca-cola-nestl-and-danone-to-modif
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Commission welcomes commitments of Coca-Cola, Nestlé, and Danone to modify recycling claims on plastic bottles

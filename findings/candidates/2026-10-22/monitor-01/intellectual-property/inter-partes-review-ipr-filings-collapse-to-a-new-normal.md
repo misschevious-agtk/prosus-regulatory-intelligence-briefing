@@ -16,11 +16,10 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-10e4f7e79d
-cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: inter-partes-review-ipr-filings-collapse-to-a-new-normal
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_id: cluster-2026-10-22-57c04ddc1e
+cluster_size: 10
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Inter Partes Review (IPR) Filings Collapse to a New Normal

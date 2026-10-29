@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-3b552e8209
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: accounting-firms-are-learning-the-legal-business-lawyers-need-to-learn
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_id: cluster-2026-10-22-4af8cac0fa
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Accounting Firms Are Learning The Legal Business. Lawyers Need To Learn The Accounting.

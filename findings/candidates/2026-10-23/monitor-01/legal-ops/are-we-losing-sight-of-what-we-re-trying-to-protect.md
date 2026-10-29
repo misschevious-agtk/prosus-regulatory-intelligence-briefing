@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-734fed0085
-cluster_size: 13
+cluster_id: cluster-2026-10-22-0e95f52c3f
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: ai-in-the-patent-industry-the-sneaky-practice-of-prompt-injection-and-
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Are We Losing Sight Of What We’re Trying To Protect?

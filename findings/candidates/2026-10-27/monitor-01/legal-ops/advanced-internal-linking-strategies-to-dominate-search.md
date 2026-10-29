@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-24-cff696280d
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: advanced-internal-linking-strategies-to-dominate-search
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Advanced Internal Linking Strategies To Dominate Search

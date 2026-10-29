@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-22-01b1390c76
 cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: the-trump-administration-struggled-with-the-bar-exam-and-its-inbox
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # The Trump Administration Struggled With The Bar Exam And Its Inbox

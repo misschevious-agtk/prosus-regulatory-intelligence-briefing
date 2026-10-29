@@ -19,9 +19,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-22-25493ee4c3
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # No action taken against PimEyes: noyb lawsuit against Hamburg DPA

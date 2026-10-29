@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-0aae75c0eb
-cluster_size: 16
+cluster_id: cluster-2026-10-22-cb1bc68401
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: impulse-control-sets-stage-for-benchslap-see-also
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # The Cheese Stands Alone… And By Cheese, We Mean Weil — See Also

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-24-132a0502b9
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ctrl-alt-speech-meta-had-a-lotta-scams-lotta-scams-lotta-scams
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Ctrl-Alt-Speech: Meta Had A Lotta Scams, Lotta Scams, Lotta Scams

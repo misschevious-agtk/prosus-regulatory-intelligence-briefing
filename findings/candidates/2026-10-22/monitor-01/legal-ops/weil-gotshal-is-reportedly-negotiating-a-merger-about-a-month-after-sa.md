@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-21-b8e140bf95
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: weil-gotshal-is-reportedly-negotiating-a-merger-about-a-month-after-sa
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_id: cluster-2026-10-22-22dca94c5b
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Weil Gotshal Is Reportedly Negotiating A Merger, About A Month After Saying It Wasn’t In Merger Talks

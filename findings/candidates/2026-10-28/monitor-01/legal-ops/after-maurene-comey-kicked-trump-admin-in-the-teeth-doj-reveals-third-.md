@@ -18,9 +18,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-10-28-813985e3d6
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-28T13:52:23+00:00'
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # After Maurene Comey Kicked Trump Admin In The Teeth, DOJ Reveals *Third* Attempt To Jail James Comey

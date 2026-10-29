@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-10-21-591900d76c
-cluster_size: 90
+cluster_id: cluster-2026-10-23-8fa86ccdf8
+cluster_size: 21
 cluster_role: sibling
-cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-10-28T13:52:23+00:00'
+cluster_canonical_slug: revoir-le-webinaire-nouveau-r-gime-de-la-prospection-t-l-phonique-comm
+ranked_at: '2026-10-29T13:58:43+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 22 octobre 2026

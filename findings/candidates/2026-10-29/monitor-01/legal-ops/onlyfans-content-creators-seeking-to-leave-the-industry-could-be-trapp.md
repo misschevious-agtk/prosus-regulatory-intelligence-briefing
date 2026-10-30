@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-29-7d24b74eb8
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # OnlyFans Content Creators Seeking To Leave The Industry Could Be Trapped If They Don’t Pay Taxes

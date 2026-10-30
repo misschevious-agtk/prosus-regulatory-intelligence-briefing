@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-10-28-4e3dc92595
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: military-spouses-are-building-brands-that-support-military-communities
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Military spouses are building brands that support military communities

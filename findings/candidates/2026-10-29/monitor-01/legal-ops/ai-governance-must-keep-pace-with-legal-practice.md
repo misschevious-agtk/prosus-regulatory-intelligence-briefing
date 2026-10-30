@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-3b7c519a86
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_id: cluster-2026-10-23-9ee9fc8dd0
+cluster_size: 286
+cluster_role: sibling
+ranked_at: '2026-10-30T13:51:07+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
 ---
 
 # AI Governance Must Keep Pace with Legal Practice

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-b3c41b9bb6
+cluster_id: cluster-2026-10-23-206969c584
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-researchers-correct-common-error-confounding-nanotech-measurement
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # NIST Researchers Correct Common Error Confounding Nanotech Measurements

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-22-12dd58339d
-cluster_size: 50
+cluster_id: cluster-2026-10-23-232390d6ac
+cluster_size: 43
 cluster_role: sibling
 cluster_canonical_slug: redbird-imi-telegraph-media-group-merger-inquiry
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # RedBird IMI / Telegraph Media Group merger inquiry

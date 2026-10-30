@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-22-598fe8c41a
-cluster_size: 142
+cluster_id: cluster-2026-10-23-a7a7d64695
+cluster_size: 136
 cluster_role: sibling
-cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_canonical_slug: online-speech-by-commissioner-albuquerque-at-the-nordic-financial-unio
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Questions and answers on the Commission proposal to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response

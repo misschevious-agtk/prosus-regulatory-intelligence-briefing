@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-30af73efbb
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: being-a-juror-in-a-high-profile-court-case-could-be-exciting-but-it-co
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_id: cluster-2026-10-23-145c7ded93
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Being A Juror In A High-Profile Court Case Could Be Exciting, But It Comes With A Huge Cost

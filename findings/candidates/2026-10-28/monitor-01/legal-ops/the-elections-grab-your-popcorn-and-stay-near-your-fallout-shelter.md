@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-27-07805931dd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-elections-grab-your-popcorn-and-stay-near-your-fallout-shelter
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # The Elections: Grab Your Popcorn, And Stay Near Your Fallout Shelter

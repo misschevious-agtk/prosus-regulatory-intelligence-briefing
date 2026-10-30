@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-d5d114977b
-cluster_size: 15
+cluster_id: cluster-2026-10-23-4634e3fa85
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: ptab-section-101-appeal-data-2009-2026
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # PTAB Section 101 Appeal Data, 2009–2026

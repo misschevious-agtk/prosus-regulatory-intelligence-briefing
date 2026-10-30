@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-24-4400c71090
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-cold-reality-of-the-22nd-amendment-enters-the-chat
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # The Cold Reality Of The 22nd Amendment Enters The Chat

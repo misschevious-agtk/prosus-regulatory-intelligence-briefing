@@ -21,11 +21,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-60/25
-cluster_id: cluster-2026-10-22-297ee507bd
-cluster_size: 203
+cluster_id: cluster-2026-10-23-9ee9fc8dd0
+cluster_size: 286
 cluster_role: sibling
 cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # The Limits of Antitrust Nullity: The CJEU Draws a Line in the Euribor Litigation - Case C-60/25, Livronsa, Judgment of 3 September 2026

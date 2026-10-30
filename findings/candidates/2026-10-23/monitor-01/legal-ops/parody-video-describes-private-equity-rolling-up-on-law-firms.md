@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-072d47222e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: parody-video-describes-private-equity-rolling-up-on-law-firms
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_id: cluster-2026-10-23-cec42c49b1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Parody Video Describes Private Equity Rolling Up On Law Firms

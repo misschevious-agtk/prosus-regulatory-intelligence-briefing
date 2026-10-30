@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-23-ad0b71ff12
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: hofstra-claims-it-has-no-duty-to-help-bar-examinees-suffering-cardiac-
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Hofstra Claims It Has No Duty To Help Bar Examinees Suffering Cardiac Arrest

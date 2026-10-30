@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-23-d2e7470184
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: eu-announces-an-additional-22-5-million-to-reinforce-humanitarian-assi
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # EU announces an additional €22.5 million to reinforce humanitarian assistance in Yemen

@@ -23,9 +23,9 @@ entities:
   matched_alias: ICO
 case_numbers: []
 cluster_id: cluster-2026-10-23-4e4751ae28
-cluster_size: 14
+cluster_size: 16
 cluster_role: canonical
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques

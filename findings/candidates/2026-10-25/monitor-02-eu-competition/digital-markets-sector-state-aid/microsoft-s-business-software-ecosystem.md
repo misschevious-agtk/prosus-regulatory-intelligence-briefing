@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-22-19cd7cb05d
-cluster_size: 60
+cluster_id: cluster-2026-10-23-1a9dde51a3
+cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: proposed-decision-sms-investigation-into-microsoft-s-business-software
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Microsoft’s business software ecosystem

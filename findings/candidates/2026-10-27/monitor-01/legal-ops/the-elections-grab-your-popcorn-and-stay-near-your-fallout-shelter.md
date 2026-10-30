@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-27-07805931dd
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # The Elections: Grab Your Popcorn, And Stay Near Your Fallout Shelter

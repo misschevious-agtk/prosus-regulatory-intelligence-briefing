@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-d179c53f43
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: who-will-control-the-ai-relationship-in-house-or-outside-counsel
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_id: cluster-2026-10-23-fd06ed1c96
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Who Will Control The AI Relationship: In-House Or Outside Counsel?

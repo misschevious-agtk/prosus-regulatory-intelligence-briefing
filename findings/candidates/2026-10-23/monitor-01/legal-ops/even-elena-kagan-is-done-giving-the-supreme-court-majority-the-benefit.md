@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-8ab24181d2
-cluster_size: 4
+cluster_id: cluster-2026-10-23-ce069f8d60
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: elena-kagan-s-chilling-words-two-weeks-before-the-midterm-election-see
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Even Elena Kagan Is Done Giving The Supreme Court Majority The Benefit Of The Doubt

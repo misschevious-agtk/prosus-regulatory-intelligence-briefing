@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-234ec85b1f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: private-equity-can-t-own-tennessee-law-firms-but-it-can-still-get-a-pi
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_id: cluster-2026-10-23-97da7219a9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Private Equity Can’t Own Tennessee Law Firms, But It Can Still Get A Piece Of The Business

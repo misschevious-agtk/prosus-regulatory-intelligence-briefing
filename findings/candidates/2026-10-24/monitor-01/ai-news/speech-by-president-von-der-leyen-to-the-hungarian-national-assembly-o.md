@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-22-598fe8c41a
-cluster_size: 142
-cluster_role: sibling
-cluster_canonical_slug: commission-to-investigate-how-booking-com-combats-scams-and-fraud-unde
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_id: cluster-2026-10-24-182b68630e
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Speech by President von der Leyen to the Hungarian National Assembly on the occasion of the 70th anniversary of the Hungarian Revolution of 1956

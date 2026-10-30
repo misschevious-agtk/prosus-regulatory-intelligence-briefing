@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-23-50a141f38f
-cluster_size: 10
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: reports-of-the-billable-hour-s-demise-are-greatly-exaggerated-8am-data
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # AI Not Only Failed To Kill The Billable Hour, It’s Looking Like Its Bodyguard

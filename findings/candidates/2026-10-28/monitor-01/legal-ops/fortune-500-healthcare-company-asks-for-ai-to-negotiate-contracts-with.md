@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-27-7411ecdfc2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fortune-500-healthcare-company-asks-for-ai-to-negotiate-contracts-with
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Fortune 500 Healthcare Company Asks For AI To Negotiate Contracts With No Human Lawyers

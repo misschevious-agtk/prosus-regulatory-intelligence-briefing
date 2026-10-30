@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-4f38ea5d81
+cluster_id: cluster-2026-10-23-eb663c58fe
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: new-mcp-makes-tax-research-from-blue-j-available-from-within-legora
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # New MCP Makes Tax Research from Blue J Available from within Legora

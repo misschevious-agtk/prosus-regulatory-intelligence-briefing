@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-24-63e8a190fe
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: saudi-arabia-s-nuclear-program-could-outlive-its-government-so-plan-ac
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Saudi Arabia’s Nuclear Program Could Outlive Its Government, So Plan Accordingly

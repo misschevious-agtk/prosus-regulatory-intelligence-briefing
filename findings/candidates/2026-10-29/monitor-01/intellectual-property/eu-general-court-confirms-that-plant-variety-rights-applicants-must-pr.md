@@ -20,9 +20,9 @@ case_numbers:
 - scheme: EU General Court
   citation: T-770/25
 cluster_id: cluster-2026-10-29-8492a9fef2
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # EU General Court confirms that plant variety rights applicants must provide technical data to support requests to examine a new distinguishing characteristic

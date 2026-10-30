@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-24-f520890a72
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: over-80-percent-of-citations-fictitious-erroneous-or-irrelevant-in-tru
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Over 80 Percent Of Citations ‘Fictitious, Erroneous, or Irrelevant’ In Trump Admin Brief

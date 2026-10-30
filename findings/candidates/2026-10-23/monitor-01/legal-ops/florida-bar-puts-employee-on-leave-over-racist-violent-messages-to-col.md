@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-24c462e4a3
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: florida-bar-puts-employee-on-leave-over-racist-violent-messages-to-col
-ranked_at: '2026-10-29T13:58:43+00:00'
+cluster_id: cluster-2026-10-23-2b9b825547
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Florida Bar Puts Employee On Leave Over Racist, Violent Messages To College Football Player

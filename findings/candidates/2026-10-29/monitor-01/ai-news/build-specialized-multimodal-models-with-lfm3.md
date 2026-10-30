@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-28-841f29b9ef
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: build-specialized-multimodal-models-with-lfm3
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Build specialized multimodal models with LFM3

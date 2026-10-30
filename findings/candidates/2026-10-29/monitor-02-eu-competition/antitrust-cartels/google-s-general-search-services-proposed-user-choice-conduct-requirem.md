@@ -27,7 +27,7 @@ cluster_id: cluster-2026-10-26-fc17ab45f3
 cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Google’s general search services: proposed user choice conduct requirement

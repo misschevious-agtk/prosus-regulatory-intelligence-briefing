@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-22-5830c39b8b
-cluster_size: 8
+cluster_id: cluster-2026-10-23-d9d0deec1d
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: cement-consolidation-in-eastern-anatolia-tca-grants-conditional-cleara
-ranked_at: '2026-10-29T13:58:43+00:00'
+ranked_at: '2026-10-30T13:51:07+00:00'
 ---
 
 # Cement Consolidation in Eastern Anatolia: TCA Grants Conditional Clearance to the Kars–Arkoz Merger

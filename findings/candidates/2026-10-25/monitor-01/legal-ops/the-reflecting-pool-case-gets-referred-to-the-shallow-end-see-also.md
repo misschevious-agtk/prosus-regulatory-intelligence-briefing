@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-10-23-982384cb70
-cluster_size: 8
+cluster_id: cluster-2026-10-24-3c38b9b5ee
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: doj-s-watchdog-won-t-investigate-jeanine-pirro-s-reflecting-pool-prose
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # The Reflecting Pool Case Gets Referred To The Shallow End — See Also

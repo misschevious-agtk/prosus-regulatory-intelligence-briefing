@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-30-d6953bbfec
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # When The Spark Is Gone: How To Reimagine Your Career And Rediscover Your Purpose

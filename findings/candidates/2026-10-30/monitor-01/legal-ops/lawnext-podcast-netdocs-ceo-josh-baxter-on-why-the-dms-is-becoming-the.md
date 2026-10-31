@@ -18,10 +18,11 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-5252e5482f
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-10-30T13:51:07+00:00'
+cluster_id: cluster-2026-10-24-c3ab28fa48
+cluster_size: 322
+cluster_role: sibling
+ranked_at: '2026-10-31T13:21:28+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
 ---
 
 # LawNext Podcast: NetDocs CEO Josh Baxter on Why the DMS is Becoming the Law Firm’s ‘Intelligence Layer’

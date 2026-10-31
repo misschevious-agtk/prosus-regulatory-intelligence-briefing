@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-24-77d377920d
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: who-owns-the-land-under-the-trail
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Who Owns the Land Under the Trail?

@@ -20,11 +20,10 @@ match_count: 8
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-d89ce650eb
+cluster_id: cluster-2026-10-24-b2bbb1bbd3
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: digital-omnibus-reality-check-83-5-of-access-requests-not-properly-ans
-ranked_at: '2026-10-30T13:51:07+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Digital Omnibus reality check: 83.5% of access requests not properly answered

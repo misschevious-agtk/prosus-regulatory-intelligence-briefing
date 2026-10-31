@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-30-be8cc809af
-cluster_size: 9
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: welcome-le-chonk-mistral-large-4-on-hugging-face
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Hugging Face ❤️ TorchTPU: TPUs, Natively

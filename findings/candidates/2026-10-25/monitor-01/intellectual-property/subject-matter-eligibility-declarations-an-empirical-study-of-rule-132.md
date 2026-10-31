@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-d73ca37f6a
-cluster_size: 7
+cluster_id: cluster-2026-10-24-036975ac6d
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: inter-partes-review-ipr-filings-collapse-to-a-new-normal
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Subject Matter Eligibility Declarations: An Empirical Study of Rule 132 Evidence and Examiner Response

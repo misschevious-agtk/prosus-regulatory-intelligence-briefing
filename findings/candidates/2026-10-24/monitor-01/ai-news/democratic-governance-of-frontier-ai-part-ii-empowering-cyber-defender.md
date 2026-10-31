@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-23-7a80d3e1c1
-cluster_size: 154
+cluster_id: cluster-2026-10-24-9d5915f0d0
+cluster_size: 156
 cluster_role: sibling
 cluster_canonical_slug: ai-eu-member-states-approve-digital-expropriation-for-ai-companies
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Democratic governance of frontier AI, part II: Empowering cyber defenders

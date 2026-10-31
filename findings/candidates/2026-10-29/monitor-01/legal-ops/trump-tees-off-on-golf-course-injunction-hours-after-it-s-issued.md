@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-28-4de552b2dd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: trump-tees-off-on-golf-course-injunction-hours-after-it-s-issued
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Trump Tees Off On Golf Course Injunction Hours After It’s Issued

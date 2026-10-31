@@ -19,9 +19,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-10-30-0590821b0a
-cluster_size: 4
+cluster_size: 6
 cluster_role: sibling
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 cluster_canonical_slug: at-its-annual-summit-everlaw-unveils-omni-its-agentic-ai-suite-but-ceo
 ---
 

@@ -19,11 +19,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-23-8b70e381b9
-cluster_size: 63
-cluster_role: sibling
-cluster_canonical_slug: apple-s-mobile-platform
-ranked_at: '2026-10-30T13:51:07+00:00'
+cluster_id: cluster-2026-10-24-d0b14a9cf0
+cluster_size: 54
+cluster_role: canonical
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Apple’s mobile platform

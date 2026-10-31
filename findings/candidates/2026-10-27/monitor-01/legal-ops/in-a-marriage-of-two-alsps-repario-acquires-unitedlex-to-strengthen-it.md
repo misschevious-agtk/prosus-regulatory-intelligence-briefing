@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-dd480835a8
+cluster_id: cluster-2026-10-24-090ed46d84
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-it
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # In A Marriage of Two ALSPs, Repario Acquires UnitedLex to Strengthen Its AI Offerings

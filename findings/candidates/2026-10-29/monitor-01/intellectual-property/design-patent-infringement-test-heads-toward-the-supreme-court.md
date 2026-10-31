@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-29-a1ea84363e
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Design Patent Infringement Test Heads Toward the Supreme Court

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-28-48ed6f4441
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # How Experts Are Reacting To Trump’s Women’s Health Executive Order

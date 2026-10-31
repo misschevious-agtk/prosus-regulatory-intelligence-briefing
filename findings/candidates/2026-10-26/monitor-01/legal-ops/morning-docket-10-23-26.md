@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-24-1ab7385d38
-cluster_size: 9
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-10-23-26
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Morning Docket: 10.23.26

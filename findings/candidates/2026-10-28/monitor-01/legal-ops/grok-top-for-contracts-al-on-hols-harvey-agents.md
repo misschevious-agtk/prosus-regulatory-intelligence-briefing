@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-8e25124670
+cluster_id: cluster-2026-10-24-5265032dc5
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: grok-top-for-contracts-al-on-hols-harvey-agents
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Grok Top For Contracts, AL on Hols, Harvey Agents +

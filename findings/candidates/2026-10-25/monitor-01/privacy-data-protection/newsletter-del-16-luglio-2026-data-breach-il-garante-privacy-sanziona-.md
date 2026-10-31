@@ -19,10 +19,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-10-29-112d4f7343
-cluster_size: 75
+cluster_size: 76
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-french-electronics-retailer-fnac-darty-fined-7-million
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # NEWSLETTER del 16 luglio 2026 - Data breach, il Garante privacy sanziona Wind Tre per 1,7 milioni di euro - Recupero crediti: il Garante sanziona due società per 50mila e 30mila euro - Garante a Enel Energia: il cliente può avere accesso all’audio delle conversazioni - Dai Garanti europei le linee guida su anonimizzazione, web scraping e blockchain

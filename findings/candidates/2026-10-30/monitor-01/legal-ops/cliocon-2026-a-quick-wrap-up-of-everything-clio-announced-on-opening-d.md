@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-30-e8a4d0826f
-cluster_size: 1
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # ClioCon 2026: A Quick Wrap-Up Of Everything Clio Announced On Opening Day (And It’s A Lot)

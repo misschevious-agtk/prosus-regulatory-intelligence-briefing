@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-4bdfc04b72
+cluster_id: cluster-2026-10-24-db302a3e57
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: 3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # 3rd Circuit Rules For Thomson Reuters In Its Copyright Fight Against Legal Research Startup ROSS

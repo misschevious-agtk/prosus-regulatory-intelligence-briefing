@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-15b9113eb6
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-10-30T13:51:07+00:00'
+cluster_id: cluster-2026-10-24-c3ab28fa48
+cluster_size: 322
+cluster_role: sibling
+ranked_at: '2026-10-31T13:21:28+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
 ---
 
 # Caption Contest: Weil Still Has A Ghost Of A Chance With A ‘Merger’ Partner Like This

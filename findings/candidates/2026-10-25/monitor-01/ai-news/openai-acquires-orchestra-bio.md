@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-23-7c4c436152
-cluster_size: 6
+cluster_id: cluster-2026-10-24-b3f290dca5
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: openai-acquires-orchestra-bio
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # OpenAI acquires Orchestra Bio

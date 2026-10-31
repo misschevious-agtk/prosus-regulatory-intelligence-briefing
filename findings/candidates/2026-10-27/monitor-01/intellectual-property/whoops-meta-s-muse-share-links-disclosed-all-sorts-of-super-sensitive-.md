@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-26-3657a6dcea
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: whoops-meta-s-muse-share-links-disclosed-all-sorts-of-super-sensitive-
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Whoops: Meta’s Muse Share Links Disclosed All Sorts Of Super-Sensitive User Data

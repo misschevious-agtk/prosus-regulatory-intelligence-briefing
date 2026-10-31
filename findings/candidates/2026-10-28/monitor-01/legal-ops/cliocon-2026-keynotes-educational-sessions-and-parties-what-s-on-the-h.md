@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-27-12963bccfc
-cluster_size: 8
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: cliocon-2026-keynotes-educational-sessions-and-parties-what-s-on-the-h
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # ClioCon 2026: Keynotes, Educational Sessions, And Parties. What’s On The Horizon?

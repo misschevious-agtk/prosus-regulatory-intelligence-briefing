@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-28-f6dcf66eed
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: lawyer-isn-t-close-to-the-most-impressive-thing-on-his-r-sum
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Lawyer Isn’t Close To The Most Impressive Thing On His Résumé

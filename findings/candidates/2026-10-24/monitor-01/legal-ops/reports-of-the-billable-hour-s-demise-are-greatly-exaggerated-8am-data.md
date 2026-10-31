@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-23-50a141f38f
+cluster_id: cluster-2026-10-24-2abc11ff7f
 cluster_size: 11
-cluster_role: sibling
-cluster_canonical_slug: reports-of-the-billable-hour-s-demise-are-greatly-exaggerated-8am-data
-ranked_at: '2026-10-30T13:51:07+00:00'
+cluster_role: canonical
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Reports of the Billable Hour’s Demise Are Greatly Exaggerated, 8am Data Finds

@@ -20,10 +20,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-10-28-98fcfe9bb4
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: revived-and-forgotten-should-this-patent-issue
-ranked_at: '2026-10-30T13:51:07+00:00'
+ranked_at: '2026-10-31T13:21:28+00:00'
 ---
 
 # Revived and Forgotten: Should This Patent Issue?

@@ -1,0 +1,47 @@
+---
+date_found: 2026-11-01
+monitor: monitor-02-eu-competition
+domain: antitrust-cartels
+source_url: https://www.gov.uk/government/consultations/googles-general-search-services-proposed-user-choice-conduct-requirement
+source_publisher: CMA news
+source_date: '2026-10-30T12:00:15Z'
+source_method: rss
+title: 'Google’s general search services: proposed user choice conduct requirement'
+matched_keywords:
+- Competition and Markets Authority
+- CMA
+- Google
+match_count: 3
+status: candidate
+entities:
+- name: Competition and Markets Authority
+  type: regulator
+  jurisdiction: UK
+  matched_alias: CMA
+- name: Alphabet / Google
+  type: bigtech
+  jurisdiction: US
+  matched_alias: Google
+case_numbers: []
+cluster_id: cluster-2026-10-25-92188f18f4
+cluster_size: 352
+cluster_role: sibling
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-11-01T14:04:06+00:00'
+---
+
+# Google’s general search services: proposed user choice conduct requirement
+
+**Source:** [CMA news](https://www.gov.uk/government/consultations/googles-general-search-services-proposed-user-choice-conduct-requirement)
+**Published:** 2026-10-30T12:00:15Z
+**Matched keywords (3):** Competition and Markets Authority, CMA, Google
+
+## Summary excerpt
+
+The Competition and Markets Authority (CMA) invited comments on updated proposals for a user choice conduct requirement in relation to Google’s general search services.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

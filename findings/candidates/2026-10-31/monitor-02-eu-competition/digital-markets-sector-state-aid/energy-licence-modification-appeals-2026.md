@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-26-2cf3ed98b9
-cluster_size: 81
+cluster_size: 102
 cluster_role: sibling
 cluster_canonical_slug: firstcash-ramsdens-merger-inquiry
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Energy licence modification appeals 2026

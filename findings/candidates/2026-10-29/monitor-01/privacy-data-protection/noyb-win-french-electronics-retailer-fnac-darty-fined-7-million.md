@@ -21,9 +21,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-29-112d4f7343
-cluster_size: 76
+cluster_size: 77
 cluster_role: canonical
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # noyb win: French electronics retailer Fnac Darty fined €7 million

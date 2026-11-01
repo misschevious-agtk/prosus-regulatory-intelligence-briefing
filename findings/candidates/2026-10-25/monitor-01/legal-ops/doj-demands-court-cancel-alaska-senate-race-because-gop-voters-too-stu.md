@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-10-24-2200e3efcc
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: doj-demands-court-cancel-alaska-senate-race-because-gop-voters-too-stu
-ranked_at: '2026-10-31T13:21:28+00:00'
+cluster_id: cluster-2026-10-25-a7c0eccfd1
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # DOJ Demands Court Cancel Alaska Senate Race Because GOP Voters Too Stupid To Understand Ranked Choice Voting

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-10-24-bab735ae17
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: inside-trump-s-doj-the-scary-part-was-following-court-orders-too-fast
-ranked_at: '2026-10-31T13:21:28+00:00'
+cluster_id: cluster-2026-10-25-efea187b47
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Inside Trump’s DOJ, The Scary Part Was Following Court Orders Too Fast

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-26-d7658bb814
-cluster_size: 14
+cluster_size: 17
 cluster_role: canonical
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Issue Fee to Grant: The Wait Has Doubled

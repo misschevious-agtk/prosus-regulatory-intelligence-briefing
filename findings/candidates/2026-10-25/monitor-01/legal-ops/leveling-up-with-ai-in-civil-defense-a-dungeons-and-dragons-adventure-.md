@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-6a29dd8e81
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: leveling-up-with-ai-in-civil-defense-a-dungeons-and-dragons-adventure-
-ranked_at: '2026-10-31T13:21:28+00:00'
+cluster_id: cluster-2026-10-25-a07aeb7c25
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Leveling Up With AI In Civil Defense: A Dungeons And Dragons Adventure For The Defense Team

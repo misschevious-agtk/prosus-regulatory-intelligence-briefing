@@ -19,11 +19,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-24-d0b14a9cf0
-cluster_size: 54
+cluster_id: cluster-2026-10-25-45e7ebf527
+cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: apple-s-mobile-platform
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Proposed NFC access conduct requirement for Apple’s mobile platform

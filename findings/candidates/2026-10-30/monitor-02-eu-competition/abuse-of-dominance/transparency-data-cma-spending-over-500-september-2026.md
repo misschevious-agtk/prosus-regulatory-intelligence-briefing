@@ -18,9 +18,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-10-30-1d1e817079
-cluster_size: 18
+cluster_size: 27
 cluster_role: canonical
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Transparency data: CMA: spending over £500, September 2026

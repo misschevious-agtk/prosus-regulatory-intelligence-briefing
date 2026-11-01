@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-981cc3387b
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: he-created-the-world-s-most-famous-fictional-lawyer-and-freed-real-inn
-ranked_at: '2026-10-31T13:21:28+00:00'
+cluster_id: cluster-2026-10-25-0b5f4326e4
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # He Created The World’s Most Famous Fictional Lawyer And Freed Real Innocent People

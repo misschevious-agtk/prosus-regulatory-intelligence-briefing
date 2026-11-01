@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-cff696280d
-cluster_size: 4
+cluster_id: cluster-2026-10-25-bc4600310b
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: advanced-internal-linking-strategies-to-dominate-search
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Advanced Internal Linking Strategies To Dominate Search

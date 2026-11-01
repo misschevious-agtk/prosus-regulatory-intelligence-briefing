@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-24-26dea99e3f
+cluster_id: cluster-2026-10-25-3d8a8dff9c
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: openai-models-are-coming-to-google-cloud
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # OpenAI models are coming to Google Cloud

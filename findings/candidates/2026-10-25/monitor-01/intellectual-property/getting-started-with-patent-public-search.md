@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-7eaf609131
+cluster_id: cluster-2026-10-25-e2b44e53b2
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: getting-started-with-patent-public-search
-ranked_at: '2026-10-31T13:21:28+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Getting started with Patent Public Search

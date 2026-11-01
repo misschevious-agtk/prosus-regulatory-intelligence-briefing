@@ -18,9 +18,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-10-31-c608b04a0e
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Daily Deal: Build Your Own GPS Tracking System with Raspberry Pi

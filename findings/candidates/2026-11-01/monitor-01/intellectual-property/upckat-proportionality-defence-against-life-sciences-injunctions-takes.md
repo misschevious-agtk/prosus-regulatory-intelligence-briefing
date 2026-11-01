@@ -1,0 +1,43 @@
+---
+date_found: 2026-11-01
+monitor: monitor-01
+domain: intellectual-property
+source_url: http://ipkitten.blogspot.com/2026/11/upckat-proportionality-defence-against.html
+source_publisher: IPKat blog
+source_date: '2026-11-01T08:13:54.639+00:00'
+source_method: rss
+title: 'UPCKat:  Proportionality defence against life sciences injunctions takes shape at the UPC'
+matched_keywords:
+- patent
+- Patent
+- UPC
+match_count: 3
+status: candidate
+entities:
+- name: Unified Patent Court
+  type: court
+  jurisdiction: EU
+  matched_alias: UPC
+case_numbers: []
+cluster_id: cluster-2026-10-25-92188f18f4
+cluster_size: 352
+cluster_role: sibling
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-11-01T14:04:06+00:00'
+---
+
+# UPCKat:  Proportionality defence against life sciences injunctions takes shape at the UPC
+
+**Source:** [IPKat blog](http://ipkitten.blogspot.com/2026/11/upckat-proportionality-defence-against.html)
+**Published:** 2026-11-01T08:13:54.639+00:00
+**Matched keywords (3):** patent, Patent, UPC
+
+## Summary excerpt
+
+The duration of cat naps are all proportionate,&nbsp;whether injunctions are may be a differentstory&nbsp;&nbsp;If a patent is valid and infringed, the UPC may grant an injunction (Art. 63 UPCA). Long before the UPC opened its doors, there was speculation as to how the court would exercise what appears to be discretion – would injunctions be imposed automatically, or would patentees have to
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

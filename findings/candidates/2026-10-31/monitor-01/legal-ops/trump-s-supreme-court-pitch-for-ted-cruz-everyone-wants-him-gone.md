@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-30-83cf026eab
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: trump-s-supreme-court-pitch-for-ted-cruz-everyone-wants-him-gone
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Trump’s Supreme Court Pitch For Ted Cruz: Everyone Wants Him Gone

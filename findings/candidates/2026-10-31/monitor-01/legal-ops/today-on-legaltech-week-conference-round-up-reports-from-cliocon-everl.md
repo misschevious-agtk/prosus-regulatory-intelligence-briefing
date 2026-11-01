@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-c3ab28fa48
-cluster_size: 322
+cluster_id: cluster-2026-10-25-92188f18f4
+cluster_size: 352
 cluster_role: sibling
 cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Today on Legaltech Week: Conference Round-Up – Reports from ClioCon, Everlaw and NetDocs – Plus Law360’s Rachel Rippetoe Sits In

@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-26-f77479b126
-cluster_size: 142
+cluster_size: 150
 cluster_role: sibling
 cluster_canonical_slug: daily-news-26-10-2026
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Commissioner Roswall's address at a High-level side-event at CBD COP17, “Restoring nature – from commitments to action”

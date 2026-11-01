@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-10-24-117eb1069a
-cluster_size: 4
+cluster_id: cluster-2026-10-25-31288af9e3
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: john-f-duffy-appointed-general-counsel-and-acting-solicitor-of-the-usp
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # John F. Duffy appointed General Counsel and Acting Solicitor of the USPTO

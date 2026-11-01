@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: YouTube
 case_numbers: []
-cluster_id: cluster-2026-10-24-132a0502b9
-cluster_size: 3
+cluster_id: cluster-2026-10-25-f85539e8f6
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ctrl-alt-speech-meta-had-a-lotta-scams-lotta-scams-lotta-scams
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Ctrl-Alt-Speech: Meta Had A Lotta Scams, Lotta Scams, Lotta Scams

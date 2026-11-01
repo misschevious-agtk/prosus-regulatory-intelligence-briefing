@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-12ce2944f2
-cluster_size: 12
+cluster_id: cluster-2026-10-25-05e2f41b4b
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: legora-vs-harvey-the-multi-billion-ai-battle
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Legora vs Harvey – The Multi-Billion $$$ AI Battle

@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-24-182b68630e
-cluster_size: 6
+cluster_id: cluster-2026-10-25-5737df5f50
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: speech-by-president-von-der-leyen-to-the-hungarian-national-assembly-o
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Speech by President von der Leyen to the Hungarian National Assembly on the occasion of the 70th anniversary of the Hungarian Revolution of 1956

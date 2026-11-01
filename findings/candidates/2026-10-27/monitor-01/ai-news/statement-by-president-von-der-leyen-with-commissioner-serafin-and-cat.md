@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-26-f77479b126
-cluster_size: 142
+cluster_size: 150
 cluster_role: sibling
 cluster_canonical_slug: daily-news-26-10-2026
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Statement by President von der Leyen with Commissioner Serafin and Catherine Day, Chair of the High-Level Group on the Future of the Commission's Civil Service, on the occasion of the handover of the report by the external advisers on the Large-scale review

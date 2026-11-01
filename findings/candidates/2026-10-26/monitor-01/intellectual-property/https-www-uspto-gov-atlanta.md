@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-dcdd7554f2
+cluster_id: cluster-2026-10-25-1676905e51
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: https-www-uspto-gov-atlanta
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # https://www.uspto.gov/Atlanta

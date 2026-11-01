@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-10-27-370bff810c
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: how-fanatics-and-openai-streamline-the-fan-experience
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # How Fanatics and OpenAI streamline the fan experience

@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-26-f77479b126
-cluster_size: 142
+cluster_size: 150
 cluster_role: sibling
 cluster_canonical_slug: daily-news-26-10-2026
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Questions and answers on the Commission proposal to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response

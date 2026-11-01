@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-30-d6953bbfec
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: when-the-spark-is-gone-how-to-reimagine-your-career-and-rediscover-you
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # When The Spark Is Gone: How To Reimagine Your Career And Rediscover Your Purpose

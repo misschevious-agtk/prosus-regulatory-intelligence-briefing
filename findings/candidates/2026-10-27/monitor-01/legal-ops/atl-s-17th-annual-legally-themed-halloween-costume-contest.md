@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-14a2f1ca8b
-cluster_size: 4
+cluster_id: cluster-2026-10-25-f5c90694ee
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: atl-s-17th-annual-legally-themed-halloween-costume-contest
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # ATL’s 17th Annual Legally Themed Halloween Costume Contest

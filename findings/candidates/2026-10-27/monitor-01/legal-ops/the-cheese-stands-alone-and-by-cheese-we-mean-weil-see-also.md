@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-24-1ab7385d38
-cluster_size: 7
+cluster_id: cluster-2026-10-25-7d2adb8ee3
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-10-23-26
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # The Cheese Stands Alone… And By Cheese, We Mean Weil — See Also

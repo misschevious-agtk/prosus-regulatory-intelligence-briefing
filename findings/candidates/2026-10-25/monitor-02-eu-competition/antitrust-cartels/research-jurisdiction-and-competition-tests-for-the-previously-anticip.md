@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: Competition and Markets Authority
 case_numbers: []
-cluster_id: cluster-2026-10-24-15cab25be4
-cluster_size: 36
+cluster_id: cluster-2026-10-25-e7132da21e
+cluster_size: 29
 cluster_role: sibling
 cluster_canonical_slug: redbird-imi-telegraph-media-group-merger-inquiry
-ranked_at: '2026-10-31T13:21:28+00:00'
+ranked_at: '2026-11-01T14:04:06+00:00'
 ---
 
 # Research: Jurisdiction and competition tests for the previously anticipated acquisition of the Telegraph Media Group Holdings by RB Investco Limited- January 2024 PIIN

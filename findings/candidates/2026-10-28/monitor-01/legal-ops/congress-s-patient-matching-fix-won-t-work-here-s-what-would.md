@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-27-1c88dbe1af
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: congress-s-patient-matching-fix-won-t-work-here-s-what-would
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Congress’s Patient Matching Fix Won’t Work — Here’s What Would

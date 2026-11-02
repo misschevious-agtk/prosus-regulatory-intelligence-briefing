@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-ce51c8a93d
+cluster_id: cluster-2026-10-26-5258cea019
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-developed-quantum-sensors-improve-nuclear-monitoring
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # NIST-Developed Quantum Sensors Improve Nuclear Monitoring

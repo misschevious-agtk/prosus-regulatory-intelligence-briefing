@@ -19,10 +19,10 @@ entities:
   matched_alias: Mistral
 case_numbers: []
 cluster_id: cluster-2026-10-30-be8cc809af
-cluster_size: 11
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: welcome-le-chonk-mistral-large-4-on-hugging-face
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Welcome Le Chonk: Mistral Large 4 on Hugging Face

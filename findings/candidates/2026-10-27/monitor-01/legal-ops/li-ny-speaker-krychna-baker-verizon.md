@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-c2cd6af43c
-cluster_size: 4
+cluster_id: cluster-2026-10-26-68218cda16
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: li-ny-speaker-krychna-baker-verizon
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # LI NY Speaker: Krychna Baker, Verizon

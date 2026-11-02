@@ -26,7 +26,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-26-fc17ab45f3
 cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Google’s general search services: proposed user choice conduct requirement

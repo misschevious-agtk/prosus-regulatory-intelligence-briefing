@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-10-25-ff4921472f
-cluster_size: 156
+cluster_id: cluster-2026-10-26-c85c780479
+cluster_size: 150
 cluster_role: sibling
-cluster_canonical_slug: ai-eu-member-states-approve-digital-expropriation-for-ai-companies
-ranked_at: '2026-11-01T14:04:06+00:00'
+cluster_canonical_slug: amp-puts-ai-agents-to-work-beyond-code-with-openai-models
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Did Google’s AI agents really build an operating system for $916?

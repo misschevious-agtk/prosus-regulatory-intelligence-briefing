@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-efea187b47
-cluster_size: 5
+cluster_id: cluster-2026-10-26-6f770c67a1
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: inside-trump-s-doj-the-scary-part-was-following-court-orders-too-fast
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Trump’s Very Busy Schedule Just Got A Court-Ordered Opening

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-27-87c482b8da
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: this-biglaw-firm-s-new-year-s-resolution-pay-associates-on-the-235k-sa
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Associate Pay Is On The Move. Is Your Firm Keeping Up?

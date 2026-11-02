@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-c34007a76e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-cold-reality-of-the-22nd-amendment-enters-the-chat
-ranked_at: '2026-11-01T14:04:06+00:00'
+cluster_id: cluster-2026-10-26-ac98abe83c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # The Cold Reality Of The 22nd Amendment Enters The Chat

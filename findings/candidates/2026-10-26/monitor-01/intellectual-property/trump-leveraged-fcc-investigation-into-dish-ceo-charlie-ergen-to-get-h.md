@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-c46457c7be
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-leveraged-fcc-investigation-into-dish-ceo-charlie-ergen-to-get-h
-ranked_at: '2026-11-01T14:04:06+00:00'
+cluster_id: cluster-2026-10-26-c3ac001071
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Trump Leveraged FCC ‘Investigation’ Into Dish CEO Charlie Ergen To Get Him To Donate To Ballroom

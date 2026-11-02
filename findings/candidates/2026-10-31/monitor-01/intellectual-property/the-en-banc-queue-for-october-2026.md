@@ -15,10 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-31-673579e245
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-11-01T14:04:06+00:00'
+cluster_id: cluster-2026-10-26-2cc25a9f57
+cluster_size: 382
+cluster_role: sibling
+ranked_at: '2026-11-02T16:52:44+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
 ---
 
 # The En Banc Queue for October 2026

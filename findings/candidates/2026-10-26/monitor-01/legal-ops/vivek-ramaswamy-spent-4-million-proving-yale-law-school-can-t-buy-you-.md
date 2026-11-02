@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-62f8040b74
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: vivek-ramaswamy-spent-4-million-proving-yale-law-school-can-t-buy-you-
-ranked_at: '2026-11-01T14:04:06+00:00'
+cluster_id: cluster-2026-10-26-81e2fbbae4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Vivek Ramaswamy Spent $4 Million Proving Yale Law School Can’t Buy You Class

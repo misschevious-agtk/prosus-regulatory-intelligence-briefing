@@ -17,10 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-25-1ee3f496c4
+cluster_id: cluster-2026-10-26-7e5ea5491e
 cluster_size: 19
 cluster_role: sibling
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 cluster_canonical_slug: cloudflare-links-vulnerability-discovery-to-defense-with-openai
 ---
 

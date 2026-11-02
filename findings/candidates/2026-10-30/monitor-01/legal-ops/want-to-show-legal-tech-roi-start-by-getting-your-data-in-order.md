@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-29-52ecbc7103
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: want-to-show-legal-tech-roi-start-by-getting-your-data-in-order
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Want To Show Legal Tech ROI? Start By Getting Your Data In Order

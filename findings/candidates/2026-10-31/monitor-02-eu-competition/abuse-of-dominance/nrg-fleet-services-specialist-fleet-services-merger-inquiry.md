@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-25-dfab4cbc83
-cluster_size: 69
+cluster_id: cluster-2026-10-26-77ff28ec53
+cluster_size: 57
 cluster_role: sibling
 cluster_canonical_slug: bt-talktalk-merger-inquiry
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # NRG Fleet Services / Specialist Fleet Services merger inquiry

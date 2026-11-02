@@ -19,10 +19,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-26-f77479b126
-cluster_size: 150
+cluster_size: 156
 cluster_role: sibling
 cluster_canonical_slug: daily-news-26-10-2026
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Questions and answers on the EU Climate Resilience Framework

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-ffb33d06f5
-cluster_size: 10
+cluster_id: cluster-2026-10-26-581c58e50d
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: lexisnexis-prot-g-is-now-live-in-evenup-letting-pi-lawyers-query-case-
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # How LexisNexis And Its Customers Are Building The Next Generation Of Legal AI Together

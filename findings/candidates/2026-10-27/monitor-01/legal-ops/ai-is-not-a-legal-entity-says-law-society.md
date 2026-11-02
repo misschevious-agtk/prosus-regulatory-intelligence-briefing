@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-9cfeef8cb6
-cluster_size: 4
+cluster_id: cluster-2026-10-26-82b482e584
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ai-is-not-a-legal-entity-says-law-society
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # ‘AI Is Not A Legal Entity’ Says Law Society

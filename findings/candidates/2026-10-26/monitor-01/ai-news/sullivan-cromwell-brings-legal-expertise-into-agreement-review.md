@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-25-2414a98f80
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: sullivan-cromwell-brings-legal-expertise-into-agreement-review
-ranked_at: '2026-11-01T14:04:06+00:00'
+cluster_id: cluster-2026-10-26-4e10ff9c41
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Sullivan & Cromwell brings legal expertise into agreement review

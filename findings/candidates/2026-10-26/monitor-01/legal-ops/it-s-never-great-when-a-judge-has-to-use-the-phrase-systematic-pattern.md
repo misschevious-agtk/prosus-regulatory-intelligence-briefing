@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-3a5666325d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: it-s-never-great-when-a-judge-has-to-use-the-phrase-systematic-pattern
-ranked_at: '2026-11-01T14:04:06+00:00'
+cluster_id: cluster-2026-10-26-3a5d87306d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # It’s Never Great When A Judge Has To Use The Phrase ‘Systematic Pattern Of Deception’

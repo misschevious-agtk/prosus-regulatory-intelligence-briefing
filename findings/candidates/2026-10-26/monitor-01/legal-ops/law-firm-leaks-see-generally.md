@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-26-e76dbae192
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Law Firm Leaks — See Generally

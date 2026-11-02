@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-25-c04615f84c
-cluster_size: 3
+cluster_id: cluster-2026-10-26-fb3b1a0e81
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: lawyers-should-always-expect-something-for-professional-courtesies
-ranked_at: '2026-11-01T14:04:06+00:00'
+ranked_at: '2026-11-02T16:52:44+00:00'
 ---
 
 # Lawyers Should Always Expect Something For Professional Courtesies

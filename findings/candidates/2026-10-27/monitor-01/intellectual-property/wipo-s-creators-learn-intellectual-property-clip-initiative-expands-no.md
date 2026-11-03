@@ -17,11 +17,10 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-10-26-9ad89b88d3
+cluster_id: cluster-2026-10-27-bbba3320a4
 cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: wipo-s-creators-learn-intellectual-property-clip-initiative-expands-no
-ranked_at: '2026-11-02T16:52:44+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # WIPO’s “Creators Learn Intellectual Property” (CLIP) Initiative Expands: Now  Supporting Visual Artists in Understanding and Managing their Rights

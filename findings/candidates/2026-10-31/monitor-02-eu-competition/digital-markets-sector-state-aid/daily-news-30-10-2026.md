@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-26-f77479b126
-cluster_size: 156
+cluster_id: cluster-2026-10-27-9b3d744c22
+cluster_size: 153
 cluster_role: sibling
-cluster_canonical_slug: daily-news-26-10-2026
-ranked_at: '2026-11-02T16:52:44+00:00'
+cluster_canonical_slug: commission-presents-climate-resilience-framework-for-a-better-prepared
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Daily News 30 / 10 / 2026

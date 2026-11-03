@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-27-dc12e0da12
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Daily Deal: The Microsoft Office Professional Plus 2024 for Windows + Windows 11 Pro License Bundle

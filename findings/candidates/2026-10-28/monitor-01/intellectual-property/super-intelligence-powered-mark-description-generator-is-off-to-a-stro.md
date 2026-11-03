@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-86d4a55232
+cluster_id: cluster-2026-10-27-4e199ee749
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: super-intelligence-powered-mark-description-generator-is-off-to-a-stro
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Super intelligence-powered mark description generator is off to a strong start

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-27-87c482b8da
 cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # This Biglaw Firm’s New Year’s Resolution? Pay Associates On The $235K Salary Scale

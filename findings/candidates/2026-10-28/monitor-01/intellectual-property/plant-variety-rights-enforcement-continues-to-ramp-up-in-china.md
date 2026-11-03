@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-e188b184d9
+cluster_id: cluster-2026-10-27-1df6442998
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: plant-variety-rights-enforcement-continues-to-ramp-up-in-china
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Plant variety rights enforcement continues to ramp up in China

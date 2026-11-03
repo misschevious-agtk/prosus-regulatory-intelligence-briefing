@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-a5634d1213
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-show-must-go-on-independently-live-nation-s-acquisition-of-pukkelp
-ranked_at: '2026-11-02T16:52:44+00:00'
+cluster_id: cluster-2026-10-27-678ceaeebf
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # The show must go on (independently): Live Nation's acquisition of Pukkelpop and behavioral commitments under the Towercast doctrine

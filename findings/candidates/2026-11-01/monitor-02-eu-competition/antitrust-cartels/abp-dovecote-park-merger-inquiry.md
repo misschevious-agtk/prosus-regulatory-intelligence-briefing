@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-26-2cf3ed98b9
-cluster_size: 123
+cluster_id: cluster-2026-10-27-92253623ec
+cluster_size: 141
 cluster_role: sibling
 cluster_canonical_slug: firstcash-ramsdens-merger-inquiry
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # ABP / Dovecote Park merger inquiry

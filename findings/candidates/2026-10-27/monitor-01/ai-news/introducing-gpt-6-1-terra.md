@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-27-cc8e9765f2
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Introducing GPT-6.1 Terra

@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: United States Patent and Trademark Office
 case_numbers: []
-cluster_id: cluster-2026-10-28-9ba68ef3ca
-cluster_size: 6
+cluster_id: cluster-2026-10-27-ab99c110f4
+cluster_size: 419
 cluster_role: sibling
-cluster_canonical_slug: trademark-center-s-new-features-reminder-for-retiring-teas-forms
-ranked_at: '2026-11-02T16:52:44+00:00'
+cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Trademark Center's new features, reminder for retiring TEAS forms

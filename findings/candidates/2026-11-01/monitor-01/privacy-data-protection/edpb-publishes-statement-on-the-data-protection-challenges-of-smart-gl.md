@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: EDPB
 case_numbers: []
-cluster_id: cluster-2026-10-26-cc42341b1a
+cluster_id: cluster-2026-10-27-3d1f1faff5
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: edpb-publishes-statement-on-the-data-protection-challenges-of-smart-gl
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # EDPB publishes statement on the data protection challenges of smart glasses

@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-26-77ff28ec53
-cluster_size: 57
+cluster_id: cluster-2026-10-27-83739d57b7
+cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: bt-talktalk-merger-inquiry
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Intersurgical / Teleflex (acute care and interventional urology businesses) merger inquiry

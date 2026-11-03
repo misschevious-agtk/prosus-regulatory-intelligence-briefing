@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-c85c780479
-cluster_size: 150
+cluster_id: cluster-2026-10-27-1706ae05a8
+cluster_size: 152
 cluster_role: sibling
-cluster_canonical_slug: amp-puts-ai-agents-to-work-beyond-code-with-openai-models
-ranked_at: '2026-11-02T16:52:44+00:00'
+cluster_canonical_slug: how-we-built-chatgpt-s-novel-ad-stack-for-user-trust-and-relevance
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # New Paper: Towards a science of AI agent reliability

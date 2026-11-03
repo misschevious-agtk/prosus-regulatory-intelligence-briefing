@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-3657a6dcea
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: whoops-meta-s-muse-share-links-disclosed-all-sorts-of-super-sensitive-
-ranked_at: '2026-11-02T16:52:44+00:00'
+cluster_id: cluster-2026-10-27-c36e8ebcb9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Whoops: Meta’s Muse Share Links Disclosed All Sorts Of Super-Sensitive User Data

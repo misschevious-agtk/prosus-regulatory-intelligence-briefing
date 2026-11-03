@@ -19,10 +19,10 @@ entities:
   matched_alias: Garante
 case_numbers: []
 cluster_id: cluster-2026-10-29-112d4f7343
-cluster_size: 78
+cluster_size: 79
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-french-electronics-retailer-fnac-darty-fined-7-million
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # NEWSLETTER del 29 luglio 2026 - Marketing: il Garante sanziona Altroconsumo Edizioni per 280mila euro - AI Act, Garante: sì allo schema di decreto legislativo, ma con maggiori garanzie - AI Act, Garante: rafforzare le tutele per i dati biometrici - Data breach, il Garante sanziona la Città Metropolitana di Sassari

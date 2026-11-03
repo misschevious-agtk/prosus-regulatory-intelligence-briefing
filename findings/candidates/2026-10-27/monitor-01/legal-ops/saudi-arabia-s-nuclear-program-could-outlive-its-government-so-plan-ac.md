@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-fe3995dea8
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: saudi-arabia-s-nuclear-program-could-outlive-its-government-so-plan-ac
-ranked_at: '2026-11-02T16:52:44+00:00'
+cluster_id: cluster-2026-10-27-7bf1e4a285
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Saudi Arabia’s Nuclear Program Could Outlive Its Government, So Plan Accordingly

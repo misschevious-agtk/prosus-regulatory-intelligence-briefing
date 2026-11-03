@@ -22,7 +22,7 @@ cluster_id: cluster-2026-10-27-841e5546df
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-supreme-court-recusals-derail-case-doj-targets-ju
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Legal Ethics Roundup: Supreme Court Recusals Derail Case, DOJ Targets Judges, Judicial Endorsement Controversy, Judge Leaks Sealed Records, Private Equity Rebuffed & More

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-26-7e5ea5491e
-cluster_size: 19
+cluster_id: cluster-2026-10-27-d2748870b5
+cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: cloudflare-links-vulnerability-discovery-to-defense-with-openai
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # How Ultrafast cut incident investigation from hours to minutes at OpenAI

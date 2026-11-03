@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-6c91f1d39e
+cluster_id: cluster-2026-10-27-e45167d02e
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: former-big-law-m-a-lawyer-launches-useabi-an-ai-associate-that-produce
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Former Big Law M&A Lawyer Launches useABI, an AI ‘Associate’ That Produces Deal Docs Without Prompting

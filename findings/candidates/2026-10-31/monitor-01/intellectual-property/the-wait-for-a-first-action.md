@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-d7658bb814
-cluster_size: 20
+cluster_id: cluster-2026-10-27-96bc2fed8f
+cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: issue-fee-to-grant-the-wait-has-doubled
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # The Wait for a First Action

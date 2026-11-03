@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-e90e33b63f
-cluster_size: 7
+cluster_id: cluster-2026-10-27-244b5ae590
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: two-board-decisions-reaching-past-the-briefs
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Two Board Decisions Reaching Past the Briefs

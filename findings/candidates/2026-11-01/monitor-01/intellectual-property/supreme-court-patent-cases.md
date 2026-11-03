@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-26-34dca580cd
-cluster_size: 7
+cluster_id: cluster-2026-10-27-b23a4b8479
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-patent-cases
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Supreme Court Patent Cases

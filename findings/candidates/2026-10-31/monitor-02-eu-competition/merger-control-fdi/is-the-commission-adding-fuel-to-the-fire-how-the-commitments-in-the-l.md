@@ -20,10 +20,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-30-be4f73c793
-cluster_size: 15
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: is-the-commission-adding-fuel-to-the-fire-how-the-commitments-in-the-l
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # Is the Commission Adding Fuel to the Fire? How The Commitments in the Lisbon Metro FSR Decision (Case FSP.103117) Fit into Recent China-EU Tensions

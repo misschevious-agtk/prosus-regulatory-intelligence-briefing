@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-29-516b0f36de
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: when-you-need-outside-counsel-where-do-you-turn
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # When You Need Outside Counsel, Where Do You Turn?

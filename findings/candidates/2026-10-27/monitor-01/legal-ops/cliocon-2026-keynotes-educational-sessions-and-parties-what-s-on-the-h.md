@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-27-12963bccfc
-cluster_size: 11
+cluster_size: 12
 cluster_role: canonical
-ranked_at: '2026-11-02T16:52:44+00:00'
+ranked_at: '2026-11-03T14:52:53+00:00'
 ---
 
 # ClioCon 2026: Keynotes, Educational Sessions, And Parties. What’s On The Horizon?

@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-27-86a7b54df5
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: rencontres-informatique-libert-s-2026-voir-la-rediffusion-de-l-v-nemen
-ranked_at: '2026-11-03T14:52:53+00:00'
+cluster_id: cluster-2026-10-28-0ce00dcb85
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement

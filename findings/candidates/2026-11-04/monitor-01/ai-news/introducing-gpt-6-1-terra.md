@@ -1,0 +1,37 @@
+---
+date_found: 2026-11-04
+monitor: monitor-01
+domain: ai-news
+source_url: https://openai.com/index/introducing-gpt-6-1-terra
+source_publisher: OpenAI blog
+source_date: Mon, 26 Oct 2026 18:00:00 GMT
+source_method: rss
+title: Introducing GPT-6.1 Terra
+matched_keywords:
+- computer use
+match_count: 1
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-10-30-0590821b0a
+cluster_size: 47
+cluster_role: sibling
+cluster_canonical_slug: at-its-annual-summit-everlaw-unveils-omni-its-agentic-ai-suite-but-ceo
+ranked_at: '2026-11-04T15:07:08+00:00'
+---
+
+# Introducing GPT-6.1 Terra
+
+**Source:** [OpenAI blog](https://openai.com/index/introducing-gpt-6-1-terra)
+**Published:** Mon, 26 Oct 2026 18:00:00 GMT
+**Matched keywords (1):** computer use
+
+## Summary excerpt
+
+Delivering fast and capable computer use at scale
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

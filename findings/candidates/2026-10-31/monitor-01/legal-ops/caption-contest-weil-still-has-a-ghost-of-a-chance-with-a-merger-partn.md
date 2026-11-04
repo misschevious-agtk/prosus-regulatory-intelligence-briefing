@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-27-ab99c110f4
-cluster_size: 419
+cluster_id: cluster-2026-10-30-5252e5482f
+cluster_size: 583
 cluster_role: sibling
-cluster_canonical_slug: when-market-leadership-becomes-a-merger-control-liability-what-the-gen
-ranked_at: '2026-11-03T14:52:53+00:00'
+cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # Caption Contest: Weil Still Has A Ghost Of A Chance With A ‘Merger’ Partner Like This

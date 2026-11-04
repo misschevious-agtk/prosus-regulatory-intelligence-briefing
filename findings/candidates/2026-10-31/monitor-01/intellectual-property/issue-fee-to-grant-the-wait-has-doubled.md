@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-27-96bc2fed8f
-cluster_size: 22
+cluster_id: cluster-2026-10-28-4e07652832
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: issue-fee-to-grant-the-wait-has-doubled
-ranked_at: '2026-11-03T14:52:53+00:00'
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # Issue Fee to Grant: The Wait Has Doubled

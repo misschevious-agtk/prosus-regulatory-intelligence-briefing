@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-27-1706ae05a8
-cluster_size: 152
+cluster_id: cluster-2026-10-30-5252e5482f
+cluster_size: 583
 cluster_role: sibling
-cluster_canonical_slug: how-we-built-chatgpt-s-novel-ad-stack-for-user-trust-and-relevance
-ranked_at: '2026-11-03T14:52:53+00:00'
+cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # New paper: Emerging trends in AI agent evaluation

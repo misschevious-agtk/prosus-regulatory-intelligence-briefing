@@ -21,11 +21,11 @@ match_count: 9
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-27-2fc8fd6134
-cluster_size: 56
+cluster_id: cluster-2026-10-28-fb38bbc710
+cluster_size: 49
 cluster_role: sibling
 cluster_canonical_slug: dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-m
-ranked_at: '2026-11-03T14:52:53+00:00'
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data

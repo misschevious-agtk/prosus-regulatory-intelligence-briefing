@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-03-2b91bdba7c
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-11-03T14:52:53+00:00'
+cluster_id: cluster-2026-10-30-5252e5482f
+cluster_size: 583
+cluster_role: sibling
+ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
 ---
 
 # Build, Buy, Integrate, Or Wait: The AI Decision Legal Leaders Need To Own

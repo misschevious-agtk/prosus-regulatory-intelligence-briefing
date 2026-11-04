@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-02-cf9d4d896a
-cluster_size: 6
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-11-02-26
-ranked_at: '2026-11-03T14:52:53+00:00'
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # Biglaw Firms That Cut Deals With Trump Are AWOL As Midterm Election Fights Heat Up

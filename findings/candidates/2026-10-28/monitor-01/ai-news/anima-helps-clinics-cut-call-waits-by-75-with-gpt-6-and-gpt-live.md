@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-28-55471fade9
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-11-03T14:52:53+00:00'
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live

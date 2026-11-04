@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-27-fd3632d347
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: reading-the-bench-predictions-for-five-october-federal-circuit-argumen
-ranked_at: '2026-11-03T14:52:53+00:00'
+cluster_id: cluster-2026-10-28-9158d3321c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # Reading the Bench: Predictions for Five October Federal Circuit Arguments

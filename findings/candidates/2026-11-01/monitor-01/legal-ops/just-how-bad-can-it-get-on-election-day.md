@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-31-1e447ddebd
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: just-how-bad-can-it-get-on-election-day
-ranked_at: '2026-11-03T14:52:53+00:00'
+ranked_at: '2026-11-04T15:07:08+00:00'
 ---
 
 # Just How Bad Can It Get On Election Day?

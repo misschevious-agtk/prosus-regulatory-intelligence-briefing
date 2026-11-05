@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-31-a0c8d983d2
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Court Tosses Trump’s Clumsy Attempt To Scuttle Musk Memphis Data Center Pollution Lawsuit

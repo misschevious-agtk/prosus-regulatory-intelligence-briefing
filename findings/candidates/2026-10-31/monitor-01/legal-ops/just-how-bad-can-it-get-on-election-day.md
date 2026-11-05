@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-31-1e447ddebd
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Just How Bad Can It Get On Election Day?

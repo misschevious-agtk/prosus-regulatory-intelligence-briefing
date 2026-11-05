@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-28-411ae246a1
-cluster_size: 6
+cluster_id: cluster-2026-10-29-498228cbe9
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: what-fde-means-at-openai
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # What FDE means at OpenAI

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-ad39f3c5e5
-cluster_size: 3
+cluster_id: cluster-2026-10-29-c4d515f2a9
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: nvidia-kumo-relational-outperforms-supervised-machine-learning-on-rela
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_canonical_slug: nvidia-nemotron-3-5-transcribe-and-granary-v2-intelligent-multilingual
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt

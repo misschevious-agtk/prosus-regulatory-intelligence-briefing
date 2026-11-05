@@ -36,11 +36,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-10-28-daa0b97eee
+cluster_id: cluster-2026-10-29-e8ce4fbf97
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: ai-eu-member-states-approve-digital-expropriation-for-ai-companies
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # AI: EU Member States approve “digital expropriation” for AI companies

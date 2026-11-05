@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-28-9c0d50220f
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: the-cma-s-programme-of-work-across-mobile-platforms
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_id: cluster-2026-10-29-39335760b3
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # The CMA's programme of work across mobile platforms

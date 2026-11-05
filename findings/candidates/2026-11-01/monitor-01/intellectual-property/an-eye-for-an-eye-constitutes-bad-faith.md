@@ -26,10 +26,10 @@ case_numbers:
 - scheme: EU General Court
   citation: T-650/25
 cluster_id: cluster-2026-10-30-5252e5482f
-cluster_size: 583
+cluster_size: 593
 cluster_role: sibling
 cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # An eye for an eye constitutes bad faith

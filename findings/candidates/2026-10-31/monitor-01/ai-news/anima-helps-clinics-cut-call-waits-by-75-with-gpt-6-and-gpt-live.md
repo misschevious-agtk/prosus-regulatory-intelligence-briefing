@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-28-55471fade9
-cluster_size: 6
+cluster_id: cluster-2026-10-29-e1f13365bc
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: anima-helps-clinics-cut-call-waits-by-75-with-gpt-6-and-gpt-live
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live

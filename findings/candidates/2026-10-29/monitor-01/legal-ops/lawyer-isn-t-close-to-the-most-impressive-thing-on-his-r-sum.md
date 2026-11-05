@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-f6dcf66eed
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: lawyer-isn-t-close-to-the-most-impressive-thing-on-his-r-sum
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_id: cluster-2026-10-29-be0db5d4a2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Lawyer Isn’t Close To The Most Impressive Thing On His Résumé

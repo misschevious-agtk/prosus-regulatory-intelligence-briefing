@@ -20,9 +20,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-10-30-4f6fe9121d
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Claude 'can’t help falling in love with’… Elvis’s lyrics

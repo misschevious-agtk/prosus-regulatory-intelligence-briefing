@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-28-0b01f0605d
-cluster_size: 42
+cluster_id: cluster-2026-10-29-5a2291d7a4
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: potential-designation-of-aldi-and-lidl-under-the-groceries-market-inve
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Aldi and Lidl will be subject to same rules as major supermarkets

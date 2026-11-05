@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-31-3428784f2d
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: seeking-submissions-atl-s-17th-annual-legally-themed-halloween-costume
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Seeking Submissions: ATL’s 17th Annual Legally Themed Halloween Costume Contest

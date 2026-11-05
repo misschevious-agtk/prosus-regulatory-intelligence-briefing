@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-11-02-cf9d4d896a
-cluster_size: 12
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-11-02-26
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # ‘Are You Kidding Me Right Now?’ Federal Judge Asks Trump DOJ Official

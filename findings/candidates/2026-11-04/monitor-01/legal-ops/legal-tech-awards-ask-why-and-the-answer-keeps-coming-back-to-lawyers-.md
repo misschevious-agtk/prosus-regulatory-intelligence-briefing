@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-03-12eca70179
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-tech-awards-ask-why-and-the-answer-keeps-coming-back-to-lawyers-
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Legal Tech Awards ‘Ask Why’ — And The Answer Keeps Coming Back To Lawyers Can’t Do It Alone

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-d72a10a06f
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: sun-through-the-clouds
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_id: cluster-2026-10-29-b19e62f327
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Sun Through The Clouds

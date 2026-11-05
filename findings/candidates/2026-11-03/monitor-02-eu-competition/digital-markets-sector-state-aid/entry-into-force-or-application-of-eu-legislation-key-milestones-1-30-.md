@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-10-30-14bf6faad8
-cluster_size: 156
+cluster_size: 152
 cluster_role: sibling
 cluster_canonical_slug: commission-greenlights-czechia-s-seventh-and-final-payment-request-for
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Entry into force or application of EU legislation - Key milestones, 1-30 November 2026

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-b180ff0681
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: this-biglaw-firm-s-new-year-s-resolution-pay-associates-on-the-235k-sa
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_id: cluster-2026-10-29-19a462e4cd
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Will Your Firm’s Bonuses (And Raises) Be Big, Or A Big Disappointment?

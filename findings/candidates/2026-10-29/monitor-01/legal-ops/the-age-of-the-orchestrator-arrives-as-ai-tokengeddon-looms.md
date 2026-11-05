@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-c02aa4b2b8
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-age-of-the-orchestrator-arrives-as-ai-tokengeddon-looms
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_id: cluster-2026-10-29-57caf8a8b1
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # The Age Of The Orchestrator Arrives As AI Tokengeddon Looms

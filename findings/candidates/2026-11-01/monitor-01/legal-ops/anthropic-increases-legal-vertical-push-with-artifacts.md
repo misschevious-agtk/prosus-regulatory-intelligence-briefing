@@ -22,7 +22,7 @@ cluster_id: cluster-2026-10-29-c881af9f73
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: anthropic-increases-legal-vertical-push-with-artifacts
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Anthropic Increases Legal Vertical Push With ‘Artifacts’

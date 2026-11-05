@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-b99ab51c18
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_id: cluster-2026-11-03-8d87b5cb5e
+cluster_size: 8
+cluster_role: sibling
+ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_canonical_slug: weil-associate-blasts-greed-and-lack-of-leadership-as-firm-collapses
 ---
 
 # Caption Contest: Weil Still Has A Ghost Of A Chance With A ‘Merger’ Partner Like This

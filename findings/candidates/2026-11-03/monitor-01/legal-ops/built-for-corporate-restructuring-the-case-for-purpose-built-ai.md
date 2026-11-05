@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-7a6cb05151
-cluster_size: 7
+cluster_id: cluster-2026-10-29-b88310781d
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: built-for-corporate-restructuring-the-case-for-purpose-built-ai
-ranked_at: '2026-11-04T15:07:08+00:00'
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Built for Corporate Restructuring: The Case for Purpose-Built AI

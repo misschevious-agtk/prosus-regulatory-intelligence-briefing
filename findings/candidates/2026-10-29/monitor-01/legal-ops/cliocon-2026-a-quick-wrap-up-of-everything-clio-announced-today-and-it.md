@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-285bc82e25
-cluster_size: 11
-cluster_role: sibling
-cluster_canonical_slug: cliocon-2026-keynotes-educational-sessions-and-parties-what-s-on-the-h
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_id: cluster-2026-10-29-09c76d447b
+cluster_size: 9
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)

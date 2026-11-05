@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-a2d0ec2dbe
+cluster_id: cluster-2026-10-29-ffd81362a6
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-joins-white-house-effort-to-drive-a-new-golden-age-of-science
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # NIST Joins White House Effort to Drive ‘A New Golden Age of Science’

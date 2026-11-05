@@ -1,0 +1,41 @@
+---
+date_found: 2026-11-05
+monitor: monitor-01
+domain: ai-news
+source_url: https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2357
+source_publisher: European Commission press
+source_date: Thu, 05 Nov 2026 12:04:35 GMT
+source_method: rss
+title: Speech by Commissioner Dombrovskis presenting report on Simplification, Implementation and Enforcement at CEPS
+matched_keywords:
+- European Commission
+match_count: 1
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+case_numbers: []
+cluster_id: cluster-2026-10-30-14bf6faad8
+cluster_size: 152
+cluster_role: sibling
+cluster_canonical_slug: commission-greenlights-czechia-s-seventh-and-final-payment-request-for
+ranked_at: '2026-11-05T15:13:24+00:00'
+---
+
+# Speech by Commissioner Dombrovskis presenting report on Simplification, Implementation and Enforcement at CEPS
+
+**Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2357)
+**Published:** Thu, 05 Nov 2026 12:04:35 GMT
+**Matched keywords (1):** European Commission
+
+## Summary excerpt
+
+European Commission Speech Brussels, 05 Nov 2026 Good afternoon, ladies and gentlemen. It is a pleasure to return to CEPS. Let me start with a clear message: EU rules must be simpler to comply with, easier to ...
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

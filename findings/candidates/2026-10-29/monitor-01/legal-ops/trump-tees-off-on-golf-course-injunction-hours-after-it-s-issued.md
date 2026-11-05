@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-28-4de552b2dd
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: trump-tees-off-on-golf-course-injunction-hours-after-it-s-issued
-ranked_at: '2026-11-04T15:07:08+00:00'
+cluster_id: cluster-2026-10-29-dd52dc40c8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-05T15:13:24+00:00'
 ---
 
 # Trump Tees Off On Golf Course Injunction Hours After It’s Issued

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-31-0bda845cf2
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: judges-should-be-more-reasonable-about-service-requirements
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Judges Should Be More Reasonable About Service Requirements

@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-4fc2846dde
+cluster_id: cluster-2026-10-30-c27141983d
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: the-hardest-thing-i-ve-ever-done-noah-waisberg-on-why-selling-a-busine
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # ‘The Hardest Thing I’ve Ever Done’: Noah Waisberg on Why Selling a Business Hurts, and How Zuva Aims to Fix It

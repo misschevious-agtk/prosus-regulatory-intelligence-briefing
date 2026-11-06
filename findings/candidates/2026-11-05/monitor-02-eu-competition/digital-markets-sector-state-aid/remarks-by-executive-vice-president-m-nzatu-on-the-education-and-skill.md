@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-30-14bf6faad8
-cluster_size: 152
+cluster_id: cluster-2026-11-06-149a070c86
+cluster_size: 148
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-czechia-s-seventh-and-final-payment-request-for
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_canonical_slug: commission-preliminarily-finds-tiktok-s-for-you-feed-in-breach-of-digi
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Remarks by Executive Vice-President Mînzatu on the Education and Skills package

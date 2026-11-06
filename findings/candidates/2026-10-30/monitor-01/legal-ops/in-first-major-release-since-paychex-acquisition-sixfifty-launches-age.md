@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-6285a9106e
+cluster_id: cluster-2026-10-30-a3e5fa4c13
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: in-first-major-release-since-paychex-acquisition-sixfifty-launches-age
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature

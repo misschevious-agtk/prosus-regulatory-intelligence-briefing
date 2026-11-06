@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-3a2fe299a5
+cluster_id: cluster-2026-10-30-b20205dfa9
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company

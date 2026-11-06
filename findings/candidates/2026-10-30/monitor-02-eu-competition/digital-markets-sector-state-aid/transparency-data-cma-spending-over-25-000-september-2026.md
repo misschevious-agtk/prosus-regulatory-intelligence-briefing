@@ -21,7 +21,7 @@ cluster_id: cluster-2026-10-30-1d1e817079
 cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-spending-over-500-september-2026
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Transparency data: CMA: spending over £25,000, September 2026

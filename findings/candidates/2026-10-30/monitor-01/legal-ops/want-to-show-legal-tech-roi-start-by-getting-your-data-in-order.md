@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-52ecbc7103
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: want-to-show-legal-tech-roi-start-by-getting-your-data-in-order
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_id: cluster-2026-10-30-b5c40449ca
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Want To Show Legal Tech ROI? Start By Getting Your Data In Order

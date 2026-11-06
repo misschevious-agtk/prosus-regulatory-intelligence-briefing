@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-03-8d87b5cb5e
-cluster_size: 8
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: weil-associate-blasts-greed-and-lack-of-leadership-as-firm-collapses
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Till Dissolution Do Us Part: Inside Weil’s Biglaw Breakup

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-05-f7f2afb2d3
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: commission-proposes-2027-fishing-opportunities-for-fish-stocks-in-the-
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Commission proposes 2027 fishing opportunities for fish stocks in the Atlantic, Kattegat and Skagerrak

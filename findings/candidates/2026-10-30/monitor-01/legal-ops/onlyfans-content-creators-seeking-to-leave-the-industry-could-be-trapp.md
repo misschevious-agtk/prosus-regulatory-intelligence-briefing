@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-7d24b74eb8
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: onlyfans-content-creators-seeking-to-leave-the-industry-could-be-trapp
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_id: cluster-2026-10-30-c30b185d12
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # OnlyFans Content Creators Seeking To Leave The Industry Could Be Trapped If They Don’t Pay Taxes

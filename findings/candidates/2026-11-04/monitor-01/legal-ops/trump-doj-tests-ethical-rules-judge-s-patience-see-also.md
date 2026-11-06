@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-11-02-cf9d4d896a
-cluster_size: 19
+cluster_size: 25
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-11-02-26
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Trump DOJ Tests Ethical Rules, Judge’s Patience — See Also

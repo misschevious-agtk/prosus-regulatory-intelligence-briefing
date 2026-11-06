@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-30-0590821b0a
 cluster_size: 48
 cluster_role: canonical
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # At Its Annual Summit, Everlaw Unveils Omni, Its Agentic AI Suite, But CEO Says Customers Are Even More Excited About Opening Its Platform to Other AI Tools

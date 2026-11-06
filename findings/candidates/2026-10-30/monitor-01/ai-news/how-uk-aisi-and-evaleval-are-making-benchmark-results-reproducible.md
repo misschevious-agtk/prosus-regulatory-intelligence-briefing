@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-0eec346bd7
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: how-uk-aisi-and-evaleval-are-making-benchmark-results-reproducible
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_id: cluster-2026-10-30-7c3144e66f
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # How UK AISI and EvalEval Are Making Benchmark Results Reproducible

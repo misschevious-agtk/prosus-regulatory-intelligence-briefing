@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-29-f5d0212d59
-cluster_size: 8
+cluster_id: cluster-2026-10-30-fe3bad76cf
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: retell-uses-openai-models-to-help-power-100m-monthly-calls
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Retell uses OpenAI models to help power 100M monthly calls

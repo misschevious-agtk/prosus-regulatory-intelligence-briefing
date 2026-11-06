@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-3be0aa37c3
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ptab-affirmance-by-rejection-type-2009-2026
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_id: cluster-2026-10-30-54a7b1b898
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # PTAB Affirmance by Rejection Type, 2009–2026

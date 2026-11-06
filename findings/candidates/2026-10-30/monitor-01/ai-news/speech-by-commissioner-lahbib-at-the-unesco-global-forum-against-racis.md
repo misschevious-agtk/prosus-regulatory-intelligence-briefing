@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-10-30-14bf6faad8
-cluster_size: 152
-cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-czechia-s-seventh-and-final-payment-request-for
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_id: cluster-2026-10-30-f4985e02bc
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Speech by Commissioner Lahbib at the UNESCO Global Forum against Racism and Discrimination

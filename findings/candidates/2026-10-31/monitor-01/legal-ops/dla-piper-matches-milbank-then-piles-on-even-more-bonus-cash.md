@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-31-b33bbd0258
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # DLA Piper Matches Milbank, Then Piles On Even More Bonus Cash!

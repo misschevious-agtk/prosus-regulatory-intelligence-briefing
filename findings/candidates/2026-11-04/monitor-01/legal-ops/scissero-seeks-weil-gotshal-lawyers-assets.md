@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-03-f27a8c2d27
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: scissero-seeks-weil-gotshal-lawyers-assets
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Scissero Seeks Weil Gotshal Lawyers + Assets

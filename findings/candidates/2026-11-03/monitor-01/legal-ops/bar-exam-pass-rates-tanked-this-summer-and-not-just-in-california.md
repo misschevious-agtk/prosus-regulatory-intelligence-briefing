@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-03-79b2359c94
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Bar Exam Pass Rates Tanked This Summer, And Not Just In California

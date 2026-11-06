@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-04-0f00329fbd
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: doj-sends-election-monitors-to-all-50-states-judge-tells-them-not-to-b
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # DOJ Sends Election Monitors To All 50 States, Judge Tells Them Not To Bring Guns

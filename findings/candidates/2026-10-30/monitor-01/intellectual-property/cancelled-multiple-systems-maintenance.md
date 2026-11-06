@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-10-30-5252e5482f
-cluster_size: 593
+cluster_size: 591
 cluster_role: sibling
 cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # CANCELLED: Multiple Systems Maintenance

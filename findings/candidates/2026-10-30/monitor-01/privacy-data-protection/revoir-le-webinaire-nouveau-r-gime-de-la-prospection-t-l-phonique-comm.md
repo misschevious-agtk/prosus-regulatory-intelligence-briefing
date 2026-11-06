@@ -18,11 +18,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-10-29-9491baeff5
+cluster_id: cluster-2026-10-30-b2cfbe364f
 cluster_size: 24
-cluster_role: sibling
-cluster_canonical_slug: revoir-le-webinaire-nouveau-r-gime-de-la-prospection-t-l-phonique-comm
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?

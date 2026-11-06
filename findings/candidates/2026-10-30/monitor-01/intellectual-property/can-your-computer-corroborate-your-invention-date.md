@@ -20,11 +20,10 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-10-29-8aa9057caa
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: can-your-computer-corroborate-your-invention-date
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_id: cluster-2026-10-30-70ff31ebb4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Can Your Computer Corroborate Your Invention Date?

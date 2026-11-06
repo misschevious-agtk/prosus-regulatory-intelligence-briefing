@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-30-34d567bd79
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: 50-ways-lawyers-can-improve-their-writing
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # 50 Ways Lawyers Can Improve Their Writing

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-29-c5626bffed
-cluster_size: 5
+cluster_id: cluster-2026-10-30-ea05ab10da
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: openai-and-poland-s-nask-partner-to-advance-ai-safety-and-security
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # OpenAI and Poland’s NASK partner to advance AI safety and security

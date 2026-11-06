@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-29-516b0f36de
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: when-you-need-outside-counsel-where-do-you-turn
-ranked_at: '2026-11-05T15:13:24+00:00'
+cluster_id: cluster-2026-10-30-608a3f1e2c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # When You Need Outside Counsel, Where Do You Turn?

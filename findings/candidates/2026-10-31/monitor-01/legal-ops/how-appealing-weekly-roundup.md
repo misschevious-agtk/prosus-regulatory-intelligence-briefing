@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-10-31-11eac82334
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # How Appealing Weekly Roundup

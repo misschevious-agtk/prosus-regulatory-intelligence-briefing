@@ -19,9 +19,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-10-30-5252e5482f
-cluster_size: 593
+cluster_size: 591
 cluster_role: canonical
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # LawNext Podcast: NetDocs CEO Josh Baxter on Why the DMS is Becoming the Law Firm’s ‘Intelligence Layer’

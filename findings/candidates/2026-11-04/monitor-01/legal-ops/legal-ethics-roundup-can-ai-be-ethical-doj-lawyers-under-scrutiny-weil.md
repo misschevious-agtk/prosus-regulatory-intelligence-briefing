@@ -22,7 +22,7 @@ cluster_id: cluster-2026-11-03-5ea29701b1
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-can-ai-be-ethical-doj-lawyers-under-scrutiny-weil
-ranked_at: '2026-11-05T15:13:24+00:00'
+ranked_at: '2026-11-06T14:50:45+00:00'
 ---
 
 # Legal Ethics Roundup: Can AI Be Ethical?, DOJ Lawyers Under Scrutiny, Weil Gotshal Implodes, ‘Rogue Activist Judges,’ Reading Recommendations, Jobs & More

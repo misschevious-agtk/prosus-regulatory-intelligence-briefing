@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-f5606cf1a1
+cluster_id: cluster-2026-10-31-ea32151538
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-f
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical

@@ -22,11 +22,10 @@ entities:
   jurisdiction: US
   matched_alias: Google LLC
 case_numbers: []
-cluster_id: cluster-2026-10-30-3c44174049
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: cl-ture-de-l-injonction-prononc-e-l-encontre-de-google
-ranked_at: '2026-11-06T14:50:45+00:00'
+cluster_id: cluster-2026-10-31-bfe364809c
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Clôture de l’injonction prononcée à l’encontre de GOOGLE

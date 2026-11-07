@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-27b6e7651c
-cluster_size: 35
+cluster_id: cluster-2026-10-31-c27d0d411e
+cluster_size: 28
 cluster_role: sibling
 cluster_canonical_slug: dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-m
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data

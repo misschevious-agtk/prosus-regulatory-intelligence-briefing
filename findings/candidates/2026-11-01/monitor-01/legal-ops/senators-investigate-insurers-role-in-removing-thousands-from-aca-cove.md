@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-65552fc03c
-cluster_size: 3
+cluster_id: cluster-2026-10-31-3e3eb4c4e1
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: senators-investigate-insurers-role-in-removing-thousands-from-aca-cove
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Senators Investigate Insurers’ Role In Removing Thousands From ACA Coverage

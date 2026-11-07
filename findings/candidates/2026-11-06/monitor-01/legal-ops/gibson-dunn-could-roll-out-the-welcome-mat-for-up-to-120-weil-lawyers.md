@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-05-ad8de21c03
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: gibson-dunn-could-roll-out-the-welcome-mat-for-up-to-120-weil-lawyers
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Gibson Dunn Could Roll Out The Welcome Mat For Up To 120 Weil Lawyers

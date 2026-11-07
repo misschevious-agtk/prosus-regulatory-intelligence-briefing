@@ -18,7 +18,7 @@ cluster_id: cluster-2026-10-31-7e7886a9b9
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: credit-saison-achieves-954-roi-in-a-chatgpt-enterprise-pilot
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot

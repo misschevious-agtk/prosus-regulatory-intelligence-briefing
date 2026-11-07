@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-10-30-4f6fe9121d
+cluster_id: cluster-2026-10-31-824b93b4ae
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: claude-can-t-help-falling-in-love-with-elvis-s-lyrics
-ranked_at: '2026-11-06T14:50:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Claude 'can’t help falling in love with’… Elvis’s lyrics

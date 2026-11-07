@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-04-476d3f3f16
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 3-congressional-races-that-matter-for-defense
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # 3 Congressional Races That Matter For Defense

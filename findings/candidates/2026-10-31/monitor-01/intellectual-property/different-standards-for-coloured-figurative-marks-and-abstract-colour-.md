@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-b71aab5602
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: different-standards-for-coloured-figurative-marks-and-abstract-colour-
-ranked_at: '2026-11-06T14:50:45+00:00'
+cluster_id: cluster-2026-10-31-84abcd497b
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Different standards for coloured figurative marks and abstract colour marks?

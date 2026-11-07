@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-06-149a070c86
 cluster_size: 148
 cluster_role: sibling
 cluster_canonical_slug: commission-preliminarily-finds-tiktok-s-for-you-feed-in-breach-of-digi
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Commission disburses almost €6.5 billion to France, Austria and Luxembourg under NextGenerationEU

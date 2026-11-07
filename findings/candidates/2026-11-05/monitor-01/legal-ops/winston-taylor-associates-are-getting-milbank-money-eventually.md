@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-04-42756c0336
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: winston-taylor-associates-are-getting-milbank-money-eventually
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Winston Taylor Associates Are Getting Milbank Money… Eventually

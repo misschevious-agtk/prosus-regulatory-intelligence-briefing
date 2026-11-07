@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-93822d2178
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: post-published-clinical-data-does-not-always-save-you-t-0251-25-empagl
-ranked_at: '2026-11-06T14:50:45+00:00'
+cluster_id: cluster-2026-10-31-648c355ad7
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Post-published clinical data does not always save you (T 0251/25, Empagliflozin)

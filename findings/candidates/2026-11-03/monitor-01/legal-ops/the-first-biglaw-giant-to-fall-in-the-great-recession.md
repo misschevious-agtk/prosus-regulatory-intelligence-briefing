@@ -17,7 +17,7 @@ cluster_id: cluster-2026-10-31-2640354003
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-first-biglaw-giant-to-fall-in-the-great-recession
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # The First Biglaw Giant To Fall In The Great Recession

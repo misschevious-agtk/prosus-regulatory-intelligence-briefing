@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-05-ec8310648d
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: who-pays-for-the-500-million-covid-doses-section-1498-in-arbutus-v-mod
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Who Pays for the 500 Million COVID Doses? Section 1498 in Arbutus v. Moderna

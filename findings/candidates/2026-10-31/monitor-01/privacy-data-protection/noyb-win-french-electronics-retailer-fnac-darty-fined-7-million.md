@@ -20,11 +20,10 @@ match_count: 8
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-b6632139bf
+cluster_id: cluster-2026-10-31-3cc03e24bf
 cluster_size: 80
-cluster_role: sibling
-cluster_canonical_slug: noyb-win-french-electronics-retailer-fnac-darty-fined-7-million
-ranked_at: '2026-11-06T14:50:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # noyb win: French electronics retailer Fnac Darty fined €7 million

@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-11-03-25f168c5e8
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: preparing-our-next-security-sprint-to-harden-openai
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Preparing our next security sprint to harden OpenAI

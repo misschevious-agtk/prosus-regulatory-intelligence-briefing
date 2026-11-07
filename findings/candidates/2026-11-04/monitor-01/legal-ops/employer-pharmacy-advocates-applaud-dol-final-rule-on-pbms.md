@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-02-b9157eda2c
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: employer-pharmacy-advocates-applaud-dol-final-rule-on-pbms
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Employer, Pharmacy Advocates Applaud DOL Final Rule On PBMs

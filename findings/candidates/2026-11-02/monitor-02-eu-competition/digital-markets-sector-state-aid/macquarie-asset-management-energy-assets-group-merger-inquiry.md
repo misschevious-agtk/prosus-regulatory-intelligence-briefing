@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-30-7c9b9f9368
-cluster_size: 105
+cluster_id: cluster-2026-10-31-b4900ff887
+cluster_size: 84
 cluster_role: sibling
 cluster_canonical_slug: firstcash-ramsdens-merger-inquiry
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Macquarie Asset Management / Energy Assets Group merger inquiry

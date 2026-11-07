@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-30-1d1e817079
-cluster_size: 45
+cluster_id: cluster-2026-10-31-3fbce784de
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: transparency-data-cma-spending-over-500-september-2026
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Transparency data: CMA: workforce management information September 2026

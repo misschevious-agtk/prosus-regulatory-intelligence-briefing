@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-30-ccecb96168
-cluster_size: 5
+cluster_id: cluster-2026-10-31-b0f1de9a07
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: how-fanatics-and-openai-streamline-the-fan-experience
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # How Fanatics and OpenAI streamline the fan experience

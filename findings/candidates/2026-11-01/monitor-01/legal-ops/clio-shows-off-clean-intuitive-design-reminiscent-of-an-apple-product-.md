@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-e8a4d0826f
-cluster_size: 8
+cluster_id: cluster-2026-10-31-c3ec0bbbad
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-on-opening-d
-ranked_at: '2026-11-06T14:50:45+00:00'
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Clio Shows Off Clean, Intuitive Design Reminiscent Of An Apple Product Launch

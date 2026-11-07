@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-30-ac761f1452
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: passing-the-torch
-ranked_at: '2026-11-06T14:50:45+00:00'
+cluster_id: cluster-2026-10-31-37eb470306
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-11-07T13:48:13+00:00'
 ---
 
 # Passing The Torch

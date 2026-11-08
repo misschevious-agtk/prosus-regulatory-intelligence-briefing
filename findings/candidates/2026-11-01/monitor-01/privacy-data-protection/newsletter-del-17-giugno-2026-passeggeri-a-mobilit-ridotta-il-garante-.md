@@ -24,11 +24,10 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-10-31-3cc03e24bf
-cluster_size: 80
-cluster_role: sibling
-cluster_canonical_slug: noyb-win-french-electronics-retailer-fnac-darty-fined-7-million
-ranked_at: '2026-11-07T13:48:13+00:00'
+cluster_id: cluster-2026-11-01-87529ce233
+cluster_size: 64
+cluster_role: canonical
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # NEWSLETTER del 17 giugno 2026 - Passeggeri a mobilità ridotta, il Garante privacy sanziona Emirates - Telecamere di sicurezza urbana, Garante: usi ulteriori solo se previsti dalla legge - Foto dei minori sui social: serve il consenso di entrambi i genitori - Data breach: in consultazione il nuovo modello di notificazione dell’EDPB

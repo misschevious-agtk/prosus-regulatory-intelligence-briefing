@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-31-d6dc2f286a
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: referral-of-the-proposed-critical-chemicals-resilience-fund-subsidy-sc
-ranked_at: '2026-11-07T13:48:13+00:00'
+cluster_id: cluster-2026-11-01-be6b586f3b
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Referral of the proposed Critical Chemicals Resilience Fund subsidy scheme by the Department for Business, Innovation, Science and Trade

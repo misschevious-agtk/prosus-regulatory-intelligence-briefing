@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-02-7cca14bc8f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: last-weil-and-testament-see-generally
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Last Weil And Testament — See Generally

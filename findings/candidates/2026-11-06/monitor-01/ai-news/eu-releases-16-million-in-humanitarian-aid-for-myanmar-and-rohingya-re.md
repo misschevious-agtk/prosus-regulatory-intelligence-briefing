@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-06-db35338879
-cluster_size: 4
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh

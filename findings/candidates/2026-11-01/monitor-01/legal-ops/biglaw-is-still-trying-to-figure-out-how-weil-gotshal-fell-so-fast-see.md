@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-31-22ec3c81c0
-cluster_size: 27
+cluster_id: cluster-2026-11-01-f9b4f01116
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-10-29-26
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Biglaw Is Still Trying To Figure Out How Weil Gotshal Fell So Fast — See Also

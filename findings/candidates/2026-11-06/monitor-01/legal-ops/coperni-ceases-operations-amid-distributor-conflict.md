@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-05-da6fb69df6
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: coperni-ceases-operations-amid-distributor-conflict
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Coperni Ceases Operations Amid Distributor Conflict

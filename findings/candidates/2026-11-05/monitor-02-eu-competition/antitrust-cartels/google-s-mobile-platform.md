@@ -24,9 +24,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-11-05-17524f4699
-cluster_size: 27
+cluster_size: 36
 cluster_role: canonical
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Google’s mobile platform

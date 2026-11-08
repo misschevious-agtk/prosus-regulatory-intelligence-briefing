@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-31-1785897cb0
-cluster_size: 559
+cluster_id: cluster-2026-11-01-aae4b5f6e5
+cluster_size: 561
 cluster_role: sibling
 cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Merge builds product and business tools with OpenAI technology

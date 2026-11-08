@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-03-0d447b1dfa
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: a-patent-license-by-purchase-order
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # A Patent License by Purchase Order

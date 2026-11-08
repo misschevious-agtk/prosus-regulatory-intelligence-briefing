@@ -33,11 +33,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-31-d86391d62a
+cluster_id: cluster-2026-11-01-a3054ee9e5
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: ai-training-platform-outlier-illegally-surveils-european-platform-work
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # AI training platform Outlier illegally surveils European platform workers

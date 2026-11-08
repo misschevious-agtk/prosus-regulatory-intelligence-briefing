@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-03-8d87b5cb5e
-cluster_size: 12
+cluster_size: 13
 cluster_role: canonical
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Weil Associate Blasts ‘Greed’ And ‘Lack Of Leadership’ As Firm Collapses

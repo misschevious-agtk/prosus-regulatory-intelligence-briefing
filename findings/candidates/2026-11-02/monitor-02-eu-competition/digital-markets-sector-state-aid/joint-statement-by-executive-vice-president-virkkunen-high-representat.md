@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-02-b9e1b06a2c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: joint-statement-by-executive-vice-president-virkkunen-high-representat
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of the International Day to End Impunity for Crimes against Journalists

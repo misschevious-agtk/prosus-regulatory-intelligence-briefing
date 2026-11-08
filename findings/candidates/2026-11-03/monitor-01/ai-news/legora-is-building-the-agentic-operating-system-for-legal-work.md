@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-10-31-39cd246524
-cluster_size: 47
+cluster_id: cluster-2026-11-01-78a7b19969
+cluster_size: 46
 cluster_role: sibling
 cluster_canonical_slug: at-its-annual-summit-everlaw-unveils-omni-its-agentic-ai-suite-but-ceo
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Legora is building the agentic operating system for legal work

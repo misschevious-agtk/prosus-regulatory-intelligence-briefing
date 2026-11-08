@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-10-31-e7df943a56
-cluster_size: 11
+cluster_id: cluster-2026-11-01-aae4b5f6e5
+cluster_size: 561
 cluster_role: sibling
-cluster_canonical_slug: getting-started-with-patent-public-search
-ranked_at: '2026-11-07T13:48:13+00:00'
+cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Getting started with Patent Public Search

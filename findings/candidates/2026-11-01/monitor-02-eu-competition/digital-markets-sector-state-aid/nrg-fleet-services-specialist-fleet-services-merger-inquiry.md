@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-10-31-297eaa1747
-cluster_size: 6
+cluster_id: cluster-2026-11-01-d5c2513d29
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: nrg-fleet-services-specialist-fleet-services-merger-inquiry
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # NRG Fleet Services / Specialist Fleet Services merger inquiry

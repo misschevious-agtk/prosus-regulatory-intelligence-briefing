@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-05-ad8de21c03
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # Gibson Dunn Could Roll Out The Welcome Mat For Up To 120 Weil Lawyers

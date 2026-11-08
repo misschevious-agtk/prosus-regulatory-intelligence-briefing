@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-04-a6d04da719
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: guest-post-a-50-million-monet-public-domain-private-property-and-the-h
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # [Guest post] A €50 million Monet: Public domain, private property, and the hidden IP in an art auction

@@ -19,11 +19,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-60/25
-cluster_id: cluster-2026-10-31-1785897cb0
-cluster_size: 559
+cluster_id: cluster-2026-11-01-aae4b5f6e5
+cluster_size: 561
 cluster_role: sibling
 cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
-ranked_at: '2026-11-07T13:48:13+00:00'
+ranked_at: '2026-11-08T14:05:31+00:00'
 ---
 
 # The Limits of Antitrust Nullity: The CJEU Draws a Line in the Euribor Litigation - Case C-60/25, Livronsa, Judgment of 3 September 2026

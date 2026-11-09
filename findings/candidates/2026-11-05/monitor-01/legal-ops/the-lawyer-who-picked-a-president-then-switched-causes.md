@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-04-05ed6ed58e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-lawyer-who-picked-a-president-then-switched-causes
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # The Lawyer Who Picked A President, Then Switched Causes

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-05-da6fb69df6
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Coperni Ceases Operations Amid Distributor Conflict

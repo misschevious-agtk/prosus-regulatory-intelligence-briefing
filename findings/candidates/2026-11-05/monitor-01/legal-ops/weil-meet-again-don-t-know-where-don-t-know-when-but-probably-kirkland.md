@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-03-8d87b5cb5e
 cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: weil-associate-blasts-greed-and-lack-of-leadership-as-firm-collapses
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Weil Meet Again. Don’t Know Where, Don’t Know When… But Probably Kirkland In A Month

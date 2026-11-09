@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-04-541a2d68cc
-cluster_size: 42
+cluster_size: 51
 cluster_role: sibling
 cluster_canonical_slug: sky-itv-merger-inquiry
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Co-operative Group / Southern Co-operative merger inquiry

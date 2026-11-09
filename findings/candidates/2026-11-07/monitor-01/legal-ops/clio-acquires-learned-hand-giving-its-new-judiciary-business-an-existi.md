@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-01-68945a3f4e
-cluster_size: 7
+cluster_id: cluster-2026-11-02-e0784b39db
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existi
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Clio Acquires Learned Hand, Giving Its New Judiciary Business An Existing Product

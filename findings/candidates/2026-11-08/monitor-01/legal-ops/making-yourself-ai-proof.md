@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-06-b6102d8f70
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: making-yourself-ai-proof
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Making Yourself AI-Proof

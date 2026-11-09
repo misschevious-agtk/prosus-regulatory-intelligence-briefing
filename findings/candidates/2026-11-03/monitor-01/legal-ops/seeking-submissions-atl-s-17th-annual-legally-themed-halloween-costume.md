@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-01-5ed3e2cb28
-cluster_size: 3
+cluster_id: cluster-2026-11-02-92bf8ebbdc
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: seeking-submissions-atl-s-17th-annual-legally-themed-halloween-costume
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Seeking Submissions: ATL’s 17th Annual Legally Themed Halloween Costume Contest

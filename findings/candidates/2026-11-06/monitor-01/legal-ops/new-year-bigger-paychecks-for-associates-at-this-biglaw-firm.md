@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-06-d1f9ac158c
-cluster_size: 9
+cluster_size: 11
 cluster_role: canonical
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # New Year, Bigger Paychecks For Associates At This Biglaw Firm

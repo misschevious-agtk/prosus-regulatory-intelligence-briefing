@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-01-b15121cba6
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: who-owns-the-land-under-the-trail
-ranked_at: '2026-11-08T14:05:31+00:00'
+cluster_id: cluster-2026-11-02-392fac051d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Who Owns the Land Under the Trail?

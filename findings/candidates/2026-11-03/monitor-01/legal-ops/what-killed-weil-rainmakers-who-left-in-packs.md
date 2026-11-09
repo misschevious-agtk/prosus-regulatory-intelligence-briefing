@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-01-e32cab8efe
-cluster_size: 3
+cluster_id: cluster-2026-11-02-77871e44ac
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: what-killed-weil-rainmakers-who-left-in-packs
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # What Killed Weil? Rainmakers Who Left In Packs

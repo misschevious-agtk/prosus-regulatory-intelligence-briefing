@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-01-33dca39a5c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-55-year-old-litigation-giant-that-was-undone-by-its-own-billing-be
-ranked_at: '2026-11-08T14:05:31+00:00'
+cluster_id: cluster-2026-11-02-4ea9d99d91
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # The 55-Year-Old Litigation Giant That Was Undone By Its Own Billing Bet

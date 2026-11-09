@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-04-476d3f3f16
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # 3 Congressional Races That Matter For Defense

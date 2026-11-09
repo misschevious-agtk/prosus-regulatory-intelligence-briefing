@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-01-bca8895323
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: the-4-scariest-words-for-lawyers-the-finalists-2026
-ranked_at: '2026-11-08T14:05:31+00:00'
+cluster_id: cluster-2026-11-02-83b0b771e5
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # The 4 Scariest Words For Lawyers: The Finalists (2026)

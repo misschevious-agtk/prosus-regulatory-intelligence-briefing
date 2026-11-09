@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-01-48031f4860
+cluster_id: cluster-2026-11-02-19823f6a4d
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: partners-want-ai-to-help-them-find-new-business-but-most-are-running-i
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Partners Want AI to Help Them Find New Business, But Most Are Running It on Data They Can’t Use, Introhive Survey Finds

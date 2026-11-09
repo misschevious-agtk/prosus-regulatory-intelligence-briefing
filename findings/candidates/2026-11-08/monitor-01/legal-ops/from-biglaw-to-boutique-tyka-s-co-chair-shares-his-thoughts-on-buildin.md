@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-07-0fe7ec45e7
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: from-biglaw-to-boutique-tyka-s-co-chair-shares-his-thoughts-on-buildin
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # From Biglaw To Boutique: Tyka’s Co-Chair Shares His Thoughts On Building A New Firm

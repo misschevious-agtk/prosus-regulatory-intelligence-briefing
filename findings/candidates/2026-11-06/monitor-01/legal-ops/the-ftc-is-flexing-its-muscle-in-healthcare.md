@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-05-55d8cd31dc
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-ftc-is-flexing-its-muscle-in-healthcare
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # The FTC Is Flexing Its Muscle In Healthcare

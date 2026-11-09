@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-01-aae4b5f6e5
-cluster_size: 561
+cluster_id: cluster-2026-11-02-3720816b7c
+cluster_size: 496
 cluster_role: sibling
-ranked_at: '2026-11-08T14:05:31+00:00'
-cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
+ranked_at: '2026-11-09T17:11:38+00:00'
+cluster_canonical_slug: uspto-announces-a-new-ptab-moot-court-competition-for-the-ptab-advocat
 ---
 
 # Build, Buy, Integrate, Or Wait: The AI Decision Legal Leaders Need To Own

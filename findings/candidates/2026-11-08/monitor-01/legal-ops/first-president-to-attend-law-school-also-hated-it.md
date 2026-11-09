@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-07-921fd537e7
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: first-president-to-attend-law-school-also-hated-it
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # First President To Attend Law School… Also Hated It

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-07-dbc0af0ce5
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: imanage-puts-a-firm-s-institutional-knowledge-to-work-for-agentic-ai
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # iManage Puts A Firm’s Institutional Knowledge To Work For Agentic AI

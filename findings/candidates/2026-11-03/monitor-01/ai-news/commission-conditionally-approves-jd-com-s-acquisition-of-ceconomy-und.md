@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-01-f423ff3279
-cluster_size: 20
+cluster_id: cluster-2026-11-03-fc7188d3b3
+cluster_size: 3
 cluster_role: sibling
-cluster_canonical_slug: is-the-commission-adding-fuel-to-the-fire-how-the-commitments-in-the-l
-ranked_at: '2026-11-08T14:05:31+00:00'
+cluster_canonical_slug: commission-conditionally-approves-jd-com-s-acquisition-of-ceconomy-und
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Commission conditionally approves JD.com's acquisition of CECONOMY under the Foreign Subsidies Regulation

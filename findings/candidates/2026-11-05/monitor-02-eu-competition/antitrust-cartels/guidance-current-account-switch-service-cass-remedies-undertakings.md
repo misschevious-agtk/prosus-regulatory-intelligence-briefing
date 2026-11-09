@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-04-f158380b7d
-cluster_size: 15
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: guidance-current-account-switch-service-cass-remedies-undertakings
-ranked_at: '2026-11-08T14:05:31+00:00'
+ranked_at: '2026-11-09T17:11:38+00:00'
 ---
 
 # Guidance: Current Account Switch Service (CASS) Remedies Undertakings

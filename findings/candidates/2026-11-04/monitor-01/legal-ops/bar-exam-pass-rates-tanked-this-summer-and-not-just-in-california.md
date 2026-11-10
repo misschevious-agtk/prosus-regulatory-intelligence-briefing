@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-03-79b2359c94
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: bar-exam-pass-rates-tanked-this-summer-and-not-just-in-california
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Bar Exam Pass Rates Tanked This Summer, And Not Just In California

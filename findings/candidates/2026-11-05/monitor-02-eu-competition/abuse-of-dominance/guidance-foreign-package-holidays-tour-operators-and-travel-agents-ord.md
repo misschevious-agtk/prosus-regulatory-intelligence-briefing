@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-04-40ec23a7f4
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: guidance-foreign-package-holidays-tour-operators-and-travel-agents-ord
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Guidance: Foreign Package Holidays (Tour Operators and Travel Agents) Order 2001

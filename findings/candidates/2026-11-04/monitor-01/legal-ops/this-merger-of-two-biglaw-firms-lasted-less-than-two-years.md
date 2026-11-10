@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-03-1edfcf074a
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-merger-of-two-biglaw-firms-lasted-less-than-two-years
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # This Merger Of Two Biglaw Firms Lasted Less Than Two Years

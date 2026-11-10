@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-06-3570871fd5
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Introducing SimpleDocs 360: AI-Native Contract Lifecycle Management

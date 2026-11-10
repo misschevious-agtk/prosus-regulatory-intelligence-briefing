@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-03-acc596e92c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-first-monday-of-a-lawyer-s-retirement-5-things-to-settle-early
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # The First Monday Of A Lawyer’s Retirement: 5 Things To Settle Early

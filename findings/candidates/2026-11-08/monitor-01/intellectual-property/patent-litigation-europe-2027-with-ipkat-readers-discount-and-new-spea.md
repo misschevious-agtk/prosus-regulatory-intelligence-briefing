@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-11-02-3720816b7c
-cluster_size: 496
+cluster_id: cluster-2026-11-03-799015a7dc
+cluster_size: 468
 cluster_role: sibling
-cluster_canonical_slug: uspto-announces-a-new-ptab-moot-court-competition-for-the-ptab-advocat
-ranked_at: '2026-11-09T17:11:38+00:00'
+cluster_canonical_slug: the-supreme-court-sets-the-minimum-mark-up-at-5-per-cent
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Patent Litigation Europe 2027 with IPKat readers’ discount and new speakers announced

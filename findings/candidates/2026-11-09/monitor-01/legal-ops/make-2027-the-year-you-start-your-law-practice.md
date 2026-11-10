@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-06-ecf3b79df7
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: make-2027-the-year-you-start-your-law-practice
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Make 2027 The Year You Start Your Law Practice

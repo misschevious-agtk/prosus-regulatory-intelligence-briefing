@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-06-149a070c86
-cluster_size: 144
+cluster_size: 146
 cluster_role: sibling
 cluster_canonical_slug: commission-preliminarily-finds-tiktok-s-for-you-feed-in-breach-of-digi
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Daily News 03 / 11 / 2026

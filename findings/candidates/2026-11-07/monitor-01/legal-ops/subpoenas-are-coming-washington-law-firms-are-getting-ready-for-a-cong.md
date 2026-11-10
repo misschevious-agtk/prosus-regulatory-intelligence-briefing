@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-02-cf9d4d896a
-cluster_size: 42
+cluster_id: cluster-2026-11-03-8d0662378d
+cluster_size: 43
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-11-02-26
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Subpoenas Are Coming: Washington Law Firms Are Getting Ready For A Congressional Probe Boom

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-03-7a5ce40d87
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: openai-appoints-dan-driscoll-as-senior-counselor-for-national-security
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization

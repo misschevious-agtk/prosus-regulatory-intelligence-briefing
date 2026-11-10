@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-03-8d87b5cb5e
 cluster_size: 13
 cluster_role: sibling
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 cluster_canonical_slug: weil-associate-blasts-greed-and-lack-of-leadership-as-firm-collapses
 ---
 

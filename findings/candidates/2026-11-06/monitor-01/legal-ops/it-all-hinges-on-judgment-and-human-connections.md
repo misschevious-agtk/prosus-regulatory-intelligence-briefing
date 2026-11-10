@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-06-427f84d086
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # It All Hinges On Judgment. And Human Connections.

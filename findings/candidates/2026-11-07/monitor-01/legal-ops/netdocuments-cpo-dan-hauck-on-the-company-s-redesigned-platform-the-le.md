@@ -17,10 +17,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-04-c369e36b58
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: netdocuments-cpo-dan-hauck-on-the-company-s-redesigned-platform-the-le
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-05-436650cdbe
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: introducing-images-2-6
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Introducing Images 2.6

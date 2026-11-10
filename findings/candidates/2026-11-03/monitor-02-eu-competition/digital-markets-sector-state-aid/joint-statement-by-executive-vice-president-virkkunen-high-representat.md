@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-02-b9e1b06a2c
-cluster_size: 4
+cluster_id: cluster-2026-11-03-891c94f159
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: joint-statement-by-executive-vice-president-virkkunen-high-representat
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of the International Day to End Impunity for Crimes against Journalists

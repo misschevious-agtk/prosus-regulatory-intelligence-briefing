@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-05-d63ccfdf6d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Trump-Pardoned J6er Who Threatened To Shoot Pelosi Now Charged With Threatening To Execute Judges

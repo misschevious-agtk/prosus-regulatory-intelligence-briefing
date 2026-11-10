@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-05-f3c91c56fb
-cluster_size: 15
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: energy-licence-modification-appeals-2026
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Energy licence modification appeals 2026

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-02-6b12b1ea5f
-cluster_size: 9
+cluster_id: cluster-2026-11-03-cc31e92d6a
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-10-30-26
-ranked_at: '2026-11-09T17:11:38+00:00'
+cluster_canonical_slug: biglaw-is-still-trying-to-figure-out-how-weil-gotshal-fell-so-fast-see
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Weil’s Collapse Is Biglaw’s Halloween Nightmare

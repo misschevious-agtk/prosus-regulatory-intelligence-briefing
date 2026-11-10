@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: AWS
 case_numbers: []
-cluster_id: cluster-2026-11-02-2db6ac028c
-cluster_size: 37
+cluster_id: cluster-2026-11-03-fa530b4578
+cluster_size: 36
 cluster_role: sibling
 cluster_canonical_slug: does-your-model-run-on-aws-trainium-look-it-up
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # TorchNeuron: running HF models on AWS Trainium is easier than ever

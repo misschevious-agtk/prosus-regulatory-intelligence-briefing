@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-03-e3e8a516cb
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: stan-woodward-s-brainwave-shorts-out-in-alaska
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Stan Woodward’s Brainwave Shorts Out In Alaska

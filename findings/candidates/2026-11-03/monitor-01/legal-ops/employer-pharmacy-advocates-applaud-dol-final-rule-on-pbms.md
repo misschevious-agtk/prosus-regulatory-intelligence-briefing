@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-02-b9157eda2c
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: employer-pharmacy-advocates-applaud-dol-final-rule-on-pbms
-ranked_at: '2026-11-09T17:11:38+00:00'
+cluster_id: cluster-2026-11-03-c4a9c3856a
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Employer, Pharmacy Advocates Applaud DOL Final Rule On PBMs

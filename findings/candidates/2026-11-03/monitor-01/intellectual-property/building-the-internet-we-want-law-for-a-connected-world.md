@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-02-9324ccc2da
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: building-the-internet-we-want-law-for-a-connected-world
-ranked_at: '2026-11-09T17:11:38+00:00'
+cluster_id: cluster-2026-11-03-e20b7b0135
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Building the Internet We Want: Law for a Connected World

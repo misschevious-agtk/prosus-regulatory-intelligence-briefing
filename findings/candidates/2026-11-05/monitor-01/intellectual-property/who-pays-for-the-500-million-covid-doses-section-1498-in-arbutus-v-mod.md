@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-05-ec8310648d
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Who Pays for the 500 Million COVID Doses? Section 1498 in Arbutus v. Moderna

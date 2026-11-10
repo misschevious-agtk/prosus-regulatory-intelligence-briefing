@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-04-2492b0621a
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # No Soup For You! 5 ‘Seinfeld’ Lessons Every Lawyer Needs To Learn About Business Development

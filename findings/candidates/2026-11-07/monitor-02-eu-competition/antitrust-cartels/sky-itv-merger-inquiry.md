@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-04-541a2d68cc
-cluster_size: 51
+cluster_size: 57
 cluster_role: sibling
 cluster_canonical_slug: sky-itv-merger-inquiry
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Sky / ITV merger inquiry

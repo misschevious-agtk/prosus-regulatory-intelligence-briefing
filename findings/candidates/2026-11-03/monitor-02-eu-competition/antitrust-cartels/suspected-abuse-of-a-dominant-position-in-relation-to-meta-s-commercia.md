@@ -19,11 +19,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-02-4db7e29197
-cluster_size: 24
+cluster_id: cluster-2026-11-03-d3307b9834
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Suspected abuse of a dominant position in relation to Meta’s commercial terms

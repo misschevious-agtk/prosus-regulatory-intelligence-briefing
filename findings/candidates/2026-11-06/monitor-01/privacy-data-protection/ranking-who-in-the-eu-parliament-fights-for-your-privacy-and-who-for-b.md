@@ -23,11 +23,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-02-49d9c6d7c3
+cluster_id: cluster-2026-11-03-c681456052
 cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: annual-report-2025-out-now
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Ranking: Who in the EU Parliament fights for your privacy – and who for Big Tech?!

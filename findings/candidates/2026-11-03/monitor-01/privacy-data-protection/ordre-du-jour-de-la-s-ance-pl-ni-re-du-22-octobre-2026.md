@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-11-02-306df62add
-cluster_size: 24
+cluster_id: cluster-2026-11-03-288623e6e4
+cluster_size: 23
 cluster_role: sibling
 cluster_canonical_slug: revoir-le-webinaire-nouveau-r-gime-de-la-prospection-t-l-phonique-comm
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 22 octobre 2026

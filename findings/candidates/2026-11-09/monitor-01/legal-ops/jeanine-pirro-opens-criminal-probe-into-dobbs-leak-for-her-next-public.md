@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-07-94e898414c
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: jeanine-pirro-opens-criminal-probe-into-dobbs-leak-for-her-next-public
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Jeanine Pirro Opens Criminal Probe Into Dobbs Leak For Her Next Public Failure

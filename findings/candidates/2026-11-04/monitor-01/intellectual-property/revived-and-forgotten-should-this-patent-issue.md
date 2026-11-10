@@ -19,11 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-02-7e4cb108f5
-cluster_size: 3
+cluster_id: cluster-2026-11-03-49a9c1aac3
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: revived-and-forgotten-should-this-patent-issue
-ranked_at: '2026-11-09T17:11:38+00:00'
+ranked_at: '2026-11-10T15:27:32+00:00'
 ---
 
 # Revived and Forgotten: Should This Patent Issue?

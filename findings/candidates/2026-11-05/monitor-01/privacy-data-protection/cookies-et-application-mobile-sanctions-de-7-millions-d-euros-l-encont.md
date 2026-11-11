@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-03-88eca09ecf
+cluster_id: cluster-2026-11-04-0445305e16
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-french-electronics-retailer-fnac-darty-fined-7-million
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT

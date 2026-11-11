@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-03-f5f946d578
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: credit-saison-achieves-954-roi-in-a-chatgpt-enterprise-pilot
-ranked_at: '2026-11-10T15:27:32+00:00'
+cluster_id: cluster-2026-11-04-d9a5db47d6
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot

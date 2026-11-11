@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-06-db35338879
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh

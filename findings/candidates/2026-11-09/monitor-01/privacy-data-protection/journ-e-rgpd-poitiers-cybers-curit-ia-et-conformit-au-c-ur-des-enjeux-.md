@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-03-288623e6e4
-cluster_size: 23
+cluster_id: cluster-2026-11-04-3fb2d1f55d
+cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: revoir-le-webinaire-nouveau-r-gime-de-la-prospection-t-l-phonique-comm
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données

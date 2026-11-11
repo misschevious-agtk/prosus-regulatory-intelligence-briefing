@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-09-d6d916d516
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: private-equity-promised-better-healthcare-what-should-lawyers-learn-fr
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Private Equity Promised Better Healthcare. What Should Lawyers Learn From What Happened?

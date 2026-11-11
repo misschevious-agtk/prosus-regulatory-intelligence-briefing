@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-03-10a8b23d85
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-to-scare-a-lawyer-the-winner-2026
-ranked_at: '2026-11-10T15:27:32+00:00'
+cluster_id: cluster-2026-11-04-300e36b1fb
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # How To Scare A Lawyer: The Winner (2026)

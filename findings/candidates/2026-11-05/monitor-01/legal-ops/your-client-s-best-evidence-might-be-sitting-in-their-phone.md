@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-04-df0bc56e24
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: your-client-s-best-evidence-might-be-sitting-in-their-phone
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Your Client’s Best Evidence Might Be Sitting In Their Phone

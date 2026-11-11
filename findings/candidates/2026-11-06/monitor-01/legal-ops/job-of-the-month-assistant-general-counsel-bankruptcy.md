@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-05-4beb936839
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: job-of-the-month-assistant-general-counsel-bankruptcy
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Job Of The Month: Assistant General Counsel, Bankruptcy

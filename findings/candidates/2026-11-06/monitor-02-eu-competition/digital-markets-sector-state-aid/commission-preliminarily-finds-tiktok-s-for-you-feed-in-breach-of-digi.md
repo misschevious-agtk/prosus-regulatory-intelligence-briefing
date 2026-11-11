@@ -25,9 +25,9 @@ entities:
   matched_alias: TikTok
 case_numbers: []
 cluster_id: cluster-2026-11-06-149a070c86
-cluster_size: 146
+cluster_size: 154
 cluster_role: canonical
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Commission preliminarily finds TikTok's ‘For You' feed in breach of Digital Services Act for harmful ‘rabbit holes' effect

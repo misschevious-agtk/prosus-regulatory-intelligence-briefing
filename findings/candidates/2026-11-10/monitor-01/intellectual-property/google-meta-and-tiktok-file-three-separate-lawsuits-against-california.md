@@ -25,7 +25,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-10-0d3e5fe2b1
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Google, Meta, And TikTok File Three Separate Lawsuits Against California’s Ridiculous ‘Addictive Feeds’ Law

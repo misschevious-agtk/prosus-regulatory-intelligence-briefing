@@ -20,11 +20,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-250/25
-cluster_id: cluster-2026-11-03-799015a7dc
-cluster_size: 468
+cluster_id: cluster-2026-11-11-1c12986a6c
+cluster_size: 453
 cluster_role: sibling
-cluster_canonical_slug: the-supreme-court-sets-the-minimum-mark-up-at-5-per-cent
-ranked_at: '2026-11-10T15:27:32+00:00'
+cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # AG Szpunar’s Opinion in Like Company is here: a landmark take on several questions facing AI and copyright/related rights, even though the CJEU is advised not to answer the questions on LLM training

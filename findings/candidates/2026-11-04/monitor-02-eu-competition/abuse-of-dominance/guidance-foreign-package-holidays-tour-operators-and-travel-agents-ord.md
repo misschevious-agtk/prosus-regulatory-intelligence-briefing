@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-04-40ec23a7f4
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Guidance: Foreign Package Holidays (Tour Operators and Travel Agents) Order 2001

@@ -22,10 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-11-10-5a2103e2ce
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-11-10T15:27:32+00:00'
+cluster_id: cluster-2026-11-06-149a070c86
+cluster_size: 154
+cluster_role: sibling
+ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_canonical_slug: commission-preliminarily-finds-tiktok-s-for-you-feed-in-breach-of-digi
 ---
 
 # Steering Far and Beyond: The European Commission Fines Google for a Breach of Article 5(4) DMA

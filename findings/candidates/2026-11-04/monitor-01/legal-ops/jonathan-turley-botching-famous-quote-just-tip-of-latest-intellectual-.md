@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-03-089696b087
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: jonathan-turley-botching-famous-quote-just-tip-of-latest-intellectual-
-ranked_at: '2026-11-10T15:27:32+00:00'
+cluster_id: cluster-2026-11-04-4a167d6b73
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Jonathan Turley Botching Famous Quote Just Tip Of Latest Intellectual Laziness

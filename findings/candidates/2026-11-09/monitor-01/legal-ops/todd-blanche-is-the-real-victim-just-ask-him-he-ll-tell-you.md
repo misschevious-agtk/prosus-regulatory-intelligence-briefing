@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-09-49d5566d1b
-cluster_size: 4
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Todd Blanche Is The Real Victim. Just Ask Him, He’ll Tell You!

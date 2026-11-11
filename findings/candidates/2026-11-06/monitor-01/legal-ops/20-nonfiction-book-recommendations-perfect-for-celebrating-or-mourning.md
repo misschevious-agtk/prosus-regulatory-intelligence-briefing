@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-05-3f39b6be11
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 20-nonfiction-book-recommendations-perfect-for-celebrating-or-mourning
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # 20 Nonfiction Book Recommendations Perfect For Celebrating (Or Mourning) The Midterm Results

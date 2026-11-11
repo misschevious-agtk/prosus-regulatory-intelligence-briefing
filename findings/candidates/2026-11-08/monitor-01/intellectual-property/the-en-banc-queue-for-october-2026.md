@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-03-968307ee94
-cluster_size: 13
+cluster_id: cluster-2026-11-04-4b177799c4
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: oral-args-at-the-federal-circuit-seven-patent-appeals-on-nov-2-2026
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # The En Banc Queue for October 2026

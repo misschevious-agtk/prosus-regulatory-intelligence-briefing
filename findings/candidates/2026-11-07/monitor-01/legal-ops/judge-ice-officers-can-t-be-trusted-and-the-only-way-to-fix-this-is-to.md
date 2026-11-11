@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-07-256c7e14ce
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Judge: ICE Officers Can’t Be Trusted And The Only Way To Fix This Is To Put Them On The Stand

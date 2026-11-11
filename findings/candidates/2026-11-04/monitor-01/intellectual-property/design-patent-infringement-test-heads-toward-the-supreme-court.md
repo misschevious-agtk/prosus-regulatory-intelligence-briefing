@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-03-d4c4bd84be
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: design-patent-infringement-test-heads-toward-the-supreme-court
-ranked_at: '2026-11-10T15:27:32+00:00'
+cluster_id: cluster-2026-11-04-3553adc530
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Design Patent Infringement Test Heads Toward the Supreme Court

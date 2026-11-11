@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-09-b12b1aa5f6
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: cvs-health-bids-goodbye-to-vertical-integration-but-not-conflict-of-in
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # CVS Health Bids Goodbye To Vertical Integration But Not Conflict Of Interest

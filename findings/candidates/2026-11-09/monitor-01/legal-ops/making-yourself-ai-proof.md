@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-06-b6102d8f70
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: making-yourself-ai-proof
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Making Yourself AI-Proof

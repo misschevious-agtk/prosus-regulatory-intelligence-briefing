@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-03-8d87b5cb5e
-cluster_size: 13
+cluster_id: cluster-2026-11-04-f0787a0291
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: weil-associate-blasts-greed-and-lack-of-leadership-as-firm-collapses
-ranked_at: '2026-11-10T15:27:32+00:00'
+ranked_at: '2026-11-11T14:56:46+00:00'
 ---
 
 # Former Weil Partners Lawyer Up As The Firm’s Wind-Down Turns Into A Fight Over What’s Left

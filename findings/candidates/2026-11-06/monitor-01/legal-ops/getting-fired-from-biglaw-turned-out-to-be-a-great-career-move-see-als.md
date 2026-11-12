@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-254d63531f
-cluster_size: 39
+cluster_id: cluster-2026-11-05-2373aa887b
+cluster_size: 33
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-11-03-26
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_canonical_slug: morning-docket-11-04-26
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Getting Fired From Biglaw Turned Out To Be A Great Career Move — See Also

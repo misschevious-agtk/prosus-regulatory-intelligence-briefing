@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-9c5476f7c5
+cluster_id: cluster-2026-11-05-df6b8b6f59
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: i-sent-three-law-firms-an-rfp-there-s-clearly-a-client-experience-gap
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # I Sent Three Law Firms an RFP. There’s Clearly a Client Experience Gap.

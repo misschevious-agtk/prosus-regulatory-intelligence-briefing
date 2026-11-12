@@ -18,9 +18,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-11-09-d020d107da
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Tampa Community Engagement Office

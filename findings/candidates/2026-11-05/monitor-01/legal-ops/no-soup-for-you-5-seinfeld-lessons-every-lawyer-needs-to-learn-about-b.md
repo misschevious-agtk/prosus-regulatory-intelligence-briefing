@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-2492b0621a
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: no-soup-for-you-5-seinfeld-lessons-every-lawyer-needs-to-learn-about-b
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_id: cluster-2026-11-05-5d32f4ce20
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # No Soup For You! 5 ‘Seinfeld’ Lessons Every Lawyer Needs To Learn About Business Development

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-06-d1f9ac158c
 cluster_size: 11
 cluster_role: canonical
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # New Year, Bigger Paychecks For Associates At This Biglaw Firm

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 453
+cluster_id: cluster-2026-11-05-3f8b075451
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_canonical_slug: guest-post-by-profs-masur-ouellette-public-use-sales-and-public-disclo
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA

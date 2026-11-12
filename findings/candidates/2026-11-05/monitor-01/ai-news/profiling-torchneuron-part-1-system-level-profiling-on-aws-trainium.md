@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: AWS
 case_numbers: []
-cluster_id: cluster-2026-11-04-edc1db7449
-cluster_size: 35
+cluster_id: cluster-2026-11-05-e098e0b4df
+cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: does-your-model-run-on-aws-trainium-look-it-up
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.

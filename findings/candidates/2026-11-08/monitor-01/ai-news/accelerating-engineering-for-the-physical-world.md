@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-edc1db7449
-cluster_size: 35
+cluster_id: cluster-2026-11-05-140a6f9774
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: does-your-model-run-on-aws-trainium-look-it-up
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_canonical_slug: legora-is-building-the-agentic-operating-system-for-legal-work
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Accelerating engineering for the physical world

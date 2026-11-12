@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-06-d1f9ac158c
 cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: new-year-bigger-paychecks-for-associates-at-this-biglaw-firm
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Biglaw Salaries Are Going Up, Up, Up — See Also

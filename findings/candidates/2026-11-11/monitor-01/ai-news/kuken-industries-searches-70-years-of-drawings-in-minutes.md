@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-11-10-3ca7051988
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: kuken-industries-searches-70-years-of-drawings-in-minutes
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Kuken Industries searches 70 years of drawings in minutes

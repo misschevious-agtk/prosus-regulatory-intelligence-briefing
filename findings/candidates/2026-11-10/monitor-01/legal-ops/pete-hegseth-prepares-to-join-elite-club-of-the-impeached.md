@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-10-22fb8d83d1
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_id: cluster-2026-11-10-38eea3d9c0
+cluster_size: 30
+cluster_role: sibling
+ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_canonical_slug: morning-docket-11-10-26
 ---
 
 # Pete Hegseth Prepares To Join Elite Club (Of The Impeached)

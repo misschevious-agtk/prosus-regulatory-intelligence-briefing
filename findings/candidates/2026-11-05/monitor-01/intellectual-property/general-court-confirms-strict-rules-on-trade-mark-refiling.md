@@ -26,11 +26,10 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-541/25
-cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 453
-cluster_role: sibling
-cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_id: cluster-2026-11-05-ebde7388c4
+cluster_size: 80
+cluster_role: canonical
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # General Court confirms strict rules on trade mark refiling

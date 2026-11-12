@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-11-04-0cb5e15346
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: litera-owner-hg-anthropic-invest-in-ai-transformation-venture
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_id: cluster-2026-11-06-d30050fb41
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Litera Owner Hg + Anthropic Invest in ‘AI Transformation’ Venture

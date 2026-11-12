@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-4b177799c4
-cluster_size: 11
+cluster_id: cluster-2026-11-05-c28b408830
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: oral-args-at-the-federal-circuit-seven-patent-appeals-on-nov-2-2026
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Oral Args at the Federal Circuit: Seven Patent Appeals on Nov 2, 2026

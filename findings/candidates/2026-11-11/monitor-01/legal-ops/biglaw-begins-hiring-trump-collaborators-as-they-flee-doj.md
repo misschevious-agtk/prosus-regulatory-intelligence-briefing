@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-11-11-968a9fcff9
-cluster_size: 2
+cluster_id: cluster-2026-11-10-38eea3d9c0
+cluster_size: 30
 cluster_role: sibling
-cluster_canonical_slug: trump-s-doj-ran-off-so-many-lawyers-it-can-t-even-show-up-to-keep-peop
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_canonical_slug: morning-docket-11-10-26
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Biglaw Begins Hiring Trump Collaborators As They Flee DOJ

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-09-4f2e40a4f9
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: addleshaw-goddard-picks-harvey-fieldfisher-opts-for-legora
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Addleshaw Goddard Picks Harvey, Fieldfisher Opts For Legora

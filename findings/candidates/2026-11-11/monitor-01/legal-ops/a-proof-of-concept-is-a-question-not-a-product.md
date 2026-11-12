@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-10-53f16a9338
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: a-proof-of-concept-is-a-question-not-a-product
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # A Proof Of Concept Is A Question, Not A Product

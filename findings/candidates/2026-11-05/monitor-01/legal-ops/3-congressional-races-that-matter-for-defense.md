@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-476d3f3f16
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 3-congressional-races-that-matter-for-defense
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_id: cluster-2026-11-05-13822ec572
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # 3 Congressional Races That Matter For Defense

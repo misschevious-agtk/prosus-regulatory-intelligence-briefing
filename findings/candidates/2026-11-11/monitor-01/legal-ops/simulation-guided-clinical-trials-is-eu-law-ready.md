@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-10-8bc8bb7f30
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: simulation-guided-clinical-trials-is-eu-law-ready
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Simulation-Guided Clinical Trials: Is EU Law Ready?

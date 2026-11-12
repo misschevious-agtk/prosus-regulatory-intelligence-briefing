@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-f0787a0291
-cluster_size: 12
+cluster_id: cluster-2026-11-05-9934a085db
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: weil-associate-blasts-greed-and-lack-of-leadership-as-firm-collapses
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_canonical_slug: caption-contest-weil-still-has-a-ghost-of-a-chance-with-a-merger-partn
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Paul, Weiss Would Like You To Stop Looking At Their Financials

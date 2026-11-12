@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 453
+cluster_id: cluster-2026-11-05-608e937948
+cluster_size: 6
 cluster_role: sibling
-cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_canonical_slug: ai-in-the-patent-industry-instant-coffee-copilot
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # AI May Speed Up Legal Research, But That Doesn’t Automatically Shrink The Bill

@@ -18,11 +18,11 @@ entities:
   jurisdiction: FR
   matched_alias: Mistral
 case_numbers: []
-cluster_id: cluster-2026-11-04-908c8003ea
-cluster_size: 18
+cluster_id: cluster-2026-11-05-7286953525
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: welcome-le-chonk-mistral-large-4-on-hugging-face
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Welcome Le Chonk: Mistral Large 4 on Hugging Face

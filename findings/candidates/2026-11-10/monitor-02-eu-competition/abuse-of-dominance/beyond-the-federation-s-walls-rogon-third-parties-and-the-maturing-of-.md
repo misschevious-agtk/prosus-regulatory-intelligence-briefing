@@ -20,10 +20,10 @@ case_numbers:
 - scheme: EU Court of Justice
   citation: C-428/23
 cluster_id: cluster-2026-11-06-63f23f0b8e
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: beyond-the-federation-s-walls-rogon-third-parties-and-the-maturing-of-
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Beyond the federation's walls: ROGON, third parties and the maturing of the Meca-Medina/Wouters doctrine

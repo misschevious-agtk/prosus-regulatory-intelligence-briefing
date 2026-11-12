@@ -20,11 +20,11 @@ entities:
   jurisdiction: EU
   matched_alias: EUIPO
 case_numbers: []
-cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 453
+cluster_id: cluster-2026-11-05-ebde7388c4
+cluster_size: 80
 cluster_role: sibling
-cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_canonical_slug: general-court-confirms-strict-rules-on-trade-mark-refiling
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # “Truth Social” trade mark invalidated because of bad faith

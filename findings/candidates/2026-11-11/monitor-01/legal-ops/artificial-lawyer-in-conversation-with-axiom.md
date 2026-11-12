@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-10-6d4caf9b35
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: artificial-lawyer-in-conversation-with-axiom
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Artificial Lawyer In Conversation With Axiom

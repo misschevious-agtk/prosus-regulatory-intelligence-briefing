@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-06-3ec9a94f17
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: republican-attorneys-general-crash-and-burn
-ranked_at: '2026-11-11T14:56:46+00:00'
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # Republican Attorneys General Crash And Burn

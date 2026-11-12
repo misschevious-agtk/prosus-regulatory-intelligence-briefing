@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-04-05ed6ed58e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-lawyer-who-picked-a-president-then-switched-causes
-ranked_at: '2026-11-11T14:56:46+00:00'
+cluster_id: cluster-2026-11-05-783f950f39
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-12T15:49:41+00:00'
 ---
 
 # The Lawyer Who Picked A President, Then Switched Causes

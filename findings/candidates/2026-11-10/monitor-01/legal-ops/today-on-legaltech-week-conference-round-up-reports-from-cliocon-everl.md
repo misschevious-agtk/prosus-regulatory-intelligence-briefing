@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-ebe46e287a
+cluster_id: cluster-2026-11-06-d591169fb6
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Today on Legaltech Week: Conference Round-Up – Reports from ClioCon, Everlaw and NetDocs – Plus Law360’s Rachel Rippetoe Sits In

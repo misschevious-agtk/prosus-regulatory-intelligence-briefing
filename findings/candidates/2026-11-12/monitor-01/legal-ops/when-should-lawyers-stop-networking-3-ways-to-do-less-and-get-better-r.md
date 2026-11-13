@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-12-75ed2ca31f
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # When Should Lawyers Stop Networking? 3 Ways To Do Less And Get Better Results.

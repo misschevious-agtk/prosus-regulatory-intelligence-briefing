@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-10-f963edaac3
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-for-criminal-law-2026
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # The Top Law Schools For Tax Law (2026)

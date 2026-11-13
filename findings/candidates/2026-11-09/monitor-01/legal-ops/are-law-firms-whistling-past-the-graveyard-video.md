@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-06-466bfa78ec
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: are-law-firms-whistling-past-the-graveyard-video
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Are Law Firms Whistling Past The Graveyard? [Video]

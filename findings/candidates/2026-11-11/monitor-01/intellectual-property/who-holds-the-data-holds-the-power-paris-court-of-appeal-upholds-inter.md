@@ -17,9 +17,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-11-c3c0585bec
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Who holds the data holds the power: Paris Court of Appeal upholds interim measures forcing Meta to negotiate with press publishers

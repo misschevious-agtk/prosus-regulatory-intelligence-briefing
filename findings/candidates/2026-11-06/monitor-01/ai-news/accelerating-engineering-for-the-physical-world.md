@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-140a6f9774
-cluster_size: 9
-cluster_role: sibling
-cluster_canonical_slug: legora-is-building-the-agentic-operating-system-for-legal-work
-ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_id: cluster-2026-11-06-b84d8e4f65
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Accelerating engineering for the physical world

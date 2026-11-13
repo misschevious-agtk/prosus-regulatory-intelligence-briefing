@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-2373aa887b
-cluster_size: 33
+cluster_id: cluster-2026-11-06-59f2fb5e98
+cluster_size: 26
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-11-04-26
-ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_canonical_slug: biglaw-firms-that-surrendered-to-trump-should-get-ready-for-the-congre
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Biglaw’s Best-Paid Partners Now Live In Silicon Valley, Sorry Manhattan

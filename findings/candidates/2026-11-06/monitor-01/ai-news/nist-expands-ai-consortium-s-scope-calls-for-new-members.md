@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-3ac89a92f4
+cluster_id: cluster-2026-11-06-df367dbec5
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-expands-ai-consortium-s-scope-calls-for-new-members
-ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # NIST Expands AI Consortium’s Scope, Calls for New Members

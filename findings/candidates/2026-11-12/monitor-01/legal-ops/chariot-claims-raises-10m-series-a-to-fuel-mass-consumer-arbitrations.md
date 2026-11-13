@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-76f95a7196
+cluster_id: cluster-2026-11-06-aceefa84f8
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations

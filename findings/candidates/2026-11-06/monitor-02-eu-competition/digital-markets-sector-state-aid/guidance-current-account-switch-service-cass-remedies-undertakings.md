@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-05-35ddd14701
-cluster_size: 21
-cluster_role: sibling
-cluster_canonical_slug: guidance-current-account-switch-service-cass-remedies-undertakings
-ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_id: cluster-2026-11-06-0c9e2d6c55
+cluster_size: 18
+cluster_role: canonical
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Guidance: Current Account Switch Service (CASS) Remedies Undertakings

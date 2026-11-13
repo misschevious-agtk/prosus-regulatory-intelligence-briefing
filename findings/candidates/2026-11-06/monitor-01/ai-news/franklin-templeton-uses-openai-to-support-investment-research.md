@@ -18,9 +18,9 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-11-06-4fdac73282
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Franklin Templeton uses OpenAI to support investment research

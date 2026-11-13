@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-10-33123f713c
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets

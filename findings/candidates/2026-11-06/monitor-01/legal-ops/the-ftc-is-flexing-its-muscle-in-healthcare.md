@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: FTC
 case_numbers: []
-cluster_id: cluster-2026-11-05-55d8cd31dc
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: the-ftc-is-flexing-its-muscle-in-healthcare
-ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_id: cluster-2026-11-06-8fbc6a9fd4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # The FTC Is Flexing Its Muscle In Healthcare

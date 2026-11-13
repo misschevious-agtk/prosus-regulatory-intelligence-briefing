@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-4beb936839
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: job-of-the-month-assistant-general-counsel-bankruptcy
-ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_id: cluster-2026-11-06-df574499f3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Job Of The Month: Assistant General Counsel, Bankruptcy

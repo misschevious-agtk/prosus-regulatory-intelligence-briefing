@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-11-09-a3d30f5656
-cluster_size: 7
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: cybers-curit-des-collectivit-s-territoriales-la-cnil-prononce-dix-sanc
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions

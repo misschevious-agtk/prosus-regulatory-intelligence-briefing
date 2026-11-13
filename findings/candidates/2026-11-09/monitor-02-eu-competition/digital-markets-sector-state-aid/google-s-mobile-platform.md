@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-11-05-17524f4699
+cluster_id: cluster-2026-11-06-7f11719020
 cluster_size: 72
 cluster_role: sibling
 cluster_canonical_slug: google-s-mobile-platform
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Google’s mobile platform

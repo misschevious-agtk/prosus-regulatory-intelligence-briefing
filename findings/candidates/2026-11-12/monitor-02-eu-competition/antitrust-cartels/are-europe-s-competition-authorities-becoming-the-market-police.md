@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-11-0cee398569
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: are-europe-s-competition-authorities-becoming-the-market-police
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Are Europe’s Competition Authorities Becoming the Market Police?

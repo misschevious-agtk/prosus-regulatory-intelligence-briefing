@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-09-846e4722ce
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: eu-emissions-continue-to-fall-as-clean-energy-gains-ground
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # EU emissions continue to fall as clean energy gains ground

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-05-6fc51b38fa
-cluster_size: 167
+cluster_id: cluster-2026-11-06-50fb2c115d
+cluster_size: 160
 cluster_role: sibling
 cluster_canonical_slug: heimstaden-is-changing-residential-real-estate-management-with-ai
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Rewarding defenders with bigger bug bounties

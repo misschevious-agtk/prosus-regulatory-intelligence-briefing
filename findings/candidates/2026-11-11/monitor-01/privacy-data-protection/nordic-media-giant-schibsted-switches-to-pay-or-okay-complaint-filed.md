@@ -21,11 +21,11 @@ match_count: 9
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-11550ec878
+cluster_id: cluster-2026-11-06-d7e724e598
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nordic-media-giant-schibsted-switches-to-pay-or-okay-complaint-filed
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Nordic Media Giant Schibsted switches to “Pay or Okay” – complaint filed!

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-6cfe2afe22
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ai-connectors-for-e-discovery-great-to-drive-but-there-are-speed-limit
-ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_id: cluster-2026-11-06-9ab05a48ef
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # AI Connectors For E-Discovery: Great To Drive, But There Are Speed Limits

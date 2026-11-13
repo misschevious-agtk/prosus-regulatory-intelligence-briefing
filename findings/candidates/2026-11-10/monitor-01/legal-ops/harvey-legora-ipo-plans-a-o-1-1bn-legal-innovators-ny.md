@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-06-0f870ec53a
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: harvey-legora-ipo-plans-a-o-1-1bn-legal-innovators-ny
-ranked_at: '2026-11-12T15:49:41+00:00'
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # Harvey + Legora IPO Plans, A&O $1.1bn, Legal Innovators NY

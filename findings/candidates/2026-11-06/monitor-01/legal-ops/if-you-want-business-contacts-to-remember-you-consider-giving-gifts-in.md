@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-05-add37fb945
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: if-you-want-business-contacts-to-remember-you-consider-giving-gifts-in
-ranked_at: '2026-11-12T15:49:41+00:00'
+cluster_id: cluster-2026-11-06-f951a273d9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-13T15:09:26+00:00'
 ---
 
 # If You Want Business Contacts To Remember You, Consider Giving Gifts In November

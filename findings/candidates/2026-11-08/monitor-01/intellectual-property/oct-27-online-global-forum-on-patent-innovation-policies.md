@@ -20,10 +20,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 165
+cluster_size: 157
 cluster_role: sibling
 cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Oct. 27: Online global forum on patent innovation policies

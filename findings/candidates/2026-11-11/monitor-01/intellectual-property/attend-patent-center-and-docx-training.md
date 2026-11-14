@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-11-154fc454c4
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Attend Patent Center and DOCX training

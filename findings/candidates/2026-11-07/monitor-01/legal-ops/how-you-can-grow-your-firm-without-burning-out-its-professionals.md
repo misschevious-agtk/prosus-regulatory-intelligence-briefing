@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-07-5caa395829
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # How You Can Grow Your Firm Without Burning Out Its Professionals

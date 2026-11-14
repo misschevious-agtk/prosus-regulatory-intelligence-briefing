@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-07-15f4ecbf86
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: bonus-wrap-harvey-jus-mundi-li-ny
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Bonus Wrap: Harvey, Jus Mundi, LI NY +

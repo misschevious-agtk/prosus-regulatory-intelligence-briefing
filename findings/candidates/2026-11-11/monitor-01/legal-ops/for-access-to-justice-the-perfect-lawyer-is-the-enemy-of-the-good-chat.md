@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-10-b88955308b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: for-access-to-justice-the-perfect-lawyer-is-the-enemy-of-the-good-chat
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # For Access To Justice, The Perfect Lawyer Is The Enemy Of The Good Chatbot

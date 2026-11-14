@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-06-ddd2949a0c
-cluster_size: 4
+cluster_id: cluster-2026-11-07-b99892224e
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: dallas-oct-7-masters-ai-see-you-there
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Dallas. Oct. 7. Masters AI. See You There!

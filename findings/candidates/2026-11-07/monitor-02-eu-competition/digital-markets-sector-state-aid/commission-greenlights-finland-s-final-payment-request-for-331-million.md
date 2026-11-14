@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-06-149a070c86
-cluster_size: 147
+cluster_id: cluster-2026-11-10-a8881a50f4
+cluster_size: 146
 cluster_role: sibling
-cluster_canonical_slug: commission-preliminarily-finds-tiktok-s-for-you-feed-in-breach-of-digi
-ranked_at: '2026-11-13T15:09:26+00:00'
+cluster_canonical_slug: commission-approves-2-billion-belgian-state-aid-to-support-offshore-wi
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Commission greenlights Finland's final payment request for €331 million under NextGenerationEU

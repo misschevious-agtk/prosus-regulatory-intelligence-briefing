@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: AWS
 case_numbers: []
-cluster_id: cluster-2026-11-06-167ffa4f97
+cluster_id: cluster-2026-11-07-b114740f77
 cluster_size: 24
-cluster_role: sibling
-cluster_canonical_slug: does-your-model-run-on-aws-trainium-look-it-up
-ranked_at: '2026-11-13T15:09:26+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Does Your Model Run on AWS Trainium? Look It Up

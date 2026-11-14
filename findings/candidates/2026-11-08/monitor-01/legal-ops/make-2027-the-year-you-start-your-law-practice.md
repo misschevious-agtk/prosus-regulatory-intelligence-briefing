@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-06-ecf3b79df7
-cluster_size: 4
+cluster_id: cluster-2026-11-07-3fc52898c7
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: make-2027-the-year-you-start-your-law-practice
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Make 2027 The Year You Start Your Law Practice

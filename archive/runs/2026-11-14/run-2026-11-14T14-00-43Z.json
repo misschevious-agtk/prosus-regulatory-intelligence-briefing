@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-14",
+  "total_candidates": 321,
+  "per_domain": {
+    "monitor-01/ai-news": 80,
+    "monitor-01/intellectual-property": 57,
+    "monitor-01/legal-ops": 60,
+    "monitor-01/privacy-data-protection": 47,
+    "monitor-02-eu-competition/abuse-of-dominance": 24,
+    "monitor-02-eu-competition/antitrust-cartels": 22,
+    "monitor-02-eu-competition/digital-markets-sector-state-aid": 28,
+    "monitor-02-eu-competition/merger-control-fdi": 3
+  },
+  "per_source": {
+    "NIST news (filtered for AI in script)": 25,
+    "OpenAI blog": 26,
+    "European Commission press": 21,
+    "Import AI (Jack Clark)": 3,
+    "Hugging Face blog": 12,
+    "AI Snake Oil": 4,
+    "USPTO news": 22,
+    "WIPO news": 9,
+    "IPKat blog": 15,
+    "Patently-O": 10,
+    "TechDirt copyright": 1,
+    "LawSites (Bob Ambrogi)": 30,
+    "Above the Law": 29,
+    "Artificial Lawyer": 1,
+    "CNIL actualités [FR]": 9,
+    "Garante per la protezione dei dati personali [IT]": 8,
+    "noyb news": 30,
+    "CMA news": 54,
+    "Chillin'Competition": 6,
+    "Kluwer Competition Law Blog": 6
+  },
+  "clusters": [
+    {
+      "id": "",
+      "size": 160,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 157,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 146,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 139,
+      "canonical_title": ""
+    },
+    {
+      "id": "",
+      "size": 72,
+      "canonical_title": ""
+    }
+  ],
+  "top_titles": {
+    "monitor-01": [
+      {
+        "title": "Data Protection Day: 5 misconceptions about data protection, debunked",
+        "source": "noyb news",
+        "match_count": 16,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Annual Report 2025 out now!",
+        "source": "noyb news",
+        "match_count": 14,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "EU Member States (and Google) suddenly want to keep cookie banners!",
+        "source": "noyb news",
+        "match_count": 13,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "AI training platform Outlier illegally surveils European platform workers",
+        "source": "noyb news",
+        "match_count": 13,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "AI: EU Member States approve “digital expropriation” for AI companies",
+        "source": "noyb news",
+        "match_count": 12,
+        "cluster_role": "sibling"
+      }
+    ],
+    "monitor-02-eu-competition": [
+      {
+        "title": "Article 102 TFEU and the Android judgment (I): understanding the law of the exceptional (and the exceptional within the exceptional)",
+        "source": "Chillin'Competition",
+        "match_count": 4,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Google's general search and search advertising services",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Google’s mobile platform",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "Apple’s mobile platform",
+        "source": "CMA news",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      },
+      {
+        "title": "JD.com/CECONOMY and Metro Lisbon: Takeaways From The Commission’s First Two FSR Decisions Concerning Chinese Companies",
+        "source": "Kluwer Competition Law Blog",
+        "match_count": 3,
+        "cluster_role": "sibling"
+      }
+    ]
+  },
+  "broken_feed_sources": [],
+  "top_entities": [
+    {
+      "name": "Competition and Markets Authority",
+      "count": 53
+    },
+    {
+      "name": "European Commission",
+      "count": 31
+    },
+    {
+      "name": "OpenAI",
+      "count": 22
+    },
+    {
+      "name": "Alphabet / Google",
+      "count": 17
+    },
+    {
+      "name": "United States Patent and Trademark Office",
+      "count": 16
+    },
+    {
+      "name": "World Intellectual Property Organization",
+      "count": 10
+    },
+    {
+      "name": "Court of Justice of the European Union",
+      "count": 9
+    },
+    {
+      "name": "Commission Nationale de l'Informatique et des Libertés",
+      "count": 9
+    },
+    {
+      "name": "Garante per la protezione dei dati personali",
+      "count": 8
+    },
+    {
+      "name": "Department of Justice",
+      "count": 6
+    }
+  ]
+}

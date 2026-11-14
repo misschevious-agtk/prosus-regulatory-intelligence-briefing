@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-06-d89a0ebec0
-cluster_size: 8
+cluster_id: cluster-2026-11-07-630b6e408a
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: introducing-images-2-6
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Introducing Images 2.6

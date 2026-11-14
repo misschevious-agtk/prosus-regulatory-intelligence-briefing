@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-06-2b80771c44
-cluster_size: 20
+cluster_id: cluster-2026-11-07-f8abdc788a
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: welcome-le-chonk-mistral-large-4-on-hugging-face
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Decision Models in Hugging Face

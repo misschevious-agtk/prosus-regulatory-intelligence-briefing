@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-06-362d0cf03a
-cluster_size: 5
+cluster_id: cluster-2026-11-07-b1918a7574
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: former-weil-partners-lawyer-up-as-the-firm-s-wind-down-turns-into-a-fi
-ranked_at: '2026-11-13T15:09:26+00:00'
+cluster_canonical_slug: paul-weiss-would-like-you-to-stop-looking-at-their-financials
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Paul, Weiss Would Like You To Stop Looking At Their Financials

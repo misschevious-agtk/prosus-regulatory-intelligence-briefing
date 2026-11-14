@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-06-405fbd909c
+cluster_id: cluster-2026-11-07-f6ed294659
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-po
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # Clio Wants To Bring AI to the Judiciary, But 50-State Survey Reveals Policies Differ in Whether They Allow It

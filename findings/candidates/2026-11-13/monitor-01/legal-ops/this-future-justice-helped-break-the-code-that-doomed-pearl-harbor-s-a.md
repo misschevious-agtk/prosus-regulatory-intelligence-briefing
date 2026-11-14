@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-12-8659519908
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: this-future-justice-helped-break-the-code-that-doomed-pearl-harbor-s-a
-ranked_at: '2026-11-13T15:09:26+00:00'
+ranked_at: '2026-11-14T14:00:39+00:00'
 ---
 
 # This Future Justice Helped Break The Code That Doomed Pearl Harbor’s Architect

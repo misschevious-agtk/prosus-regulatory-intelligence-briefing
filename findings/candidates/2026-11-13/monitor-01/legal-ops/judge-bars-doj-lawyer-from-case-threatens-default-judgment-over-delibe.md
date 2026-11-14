@@ -17,10 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-11-13-6cc838d1bd
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-11-13T15:09:26+00:00'
+cluster_id: cluster-2026-11-10-38eea3d9c0
+cluster_size: 57
+cluster_role: sibling
+ranked_at: '2026-11-14T14:00:39+00:00'
+cluster_canonical_slug: morning-docket-11-10-26
 ---
 
 # Judge Bars DOJ Lawyer From Case, Threatens Default Judgment Over ‘Deliberate Attempt To Mislead The Court’

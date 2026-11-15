@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-07-c4e3852bd2
-cluster_size: 3
+cluster_id: cluster-2026-11-08-5765c297e8
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: fair-use-benefits-everyone
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Fair use benefits everyone

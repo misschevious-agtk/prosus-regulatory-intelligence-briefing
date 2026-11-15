@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-07-d73f7b3344
-cluster_size: 3
+cluster_id: cluster-2026-11-08-40e169d3a3
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: guidance-cement-market-data-order-2016-and-cement-market-data-remedy-u
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Guidance: Cement Market Data Order 2016 and Cement Market Data Remedy Undertakings

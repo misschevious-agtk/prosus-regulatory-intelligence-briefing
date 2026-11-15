@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-07-ddd79474a2
-cluster_size: 160
+cluster_id: cluster-2026-11-08-d8b11c9b5e
+cluster_size: 159
 cluster_role: sibling
 cluster_canonical_slug: heimstaden-is-changing-residential-real-estate-management-with-ai
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Supporting research on AI and children’s safety

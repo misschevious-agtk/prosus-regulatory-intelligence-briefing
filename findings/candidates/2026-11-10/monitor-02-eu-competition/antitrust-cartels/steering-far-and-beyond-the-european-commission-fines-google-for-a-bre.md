@@ -23,9 +23,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-11-10-a8881a50f4
-cluster_size: 146
+cluster_size: 144
 cluster_role: sibling
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 cluster_canonical_slug: commission-approves-2-billion-belgian-state-aid-to-support-offshore-wi
 ---
 

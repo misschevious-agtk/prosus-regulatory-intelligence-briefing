@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-07-b1a7eb14af
-cluster_size: 69
+cluster_id: cluster-2026-11-08-b0b1fa9066
+cluster_size: 62
 cluster_role: sibling
 cluster_canonical_slug: general-court-confirms-strict-rules-on-trade-mark-refiling
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # JD.com/CECONOMY and Metro Lisbon: Takeaways From The Commission’s First Two FSR Decisions Concerning Chinese Companies

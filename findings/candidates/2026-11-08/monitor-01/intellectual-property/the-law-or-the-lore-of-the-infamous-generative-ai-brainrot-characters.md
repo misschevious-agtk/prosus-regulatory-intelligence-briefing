@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-08-8cfaf33e76
-cluster_size: 7
+cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # The law (or the ‘lore’) of the infamous generative AI ‘Brainrot’ characters

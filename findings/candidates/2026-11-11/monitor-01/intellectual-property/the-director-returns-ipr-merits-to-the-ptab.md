@@ -22,9 +22,9 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 157
+cluster_size: 149
 cluster_role: canonical
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # The Director Returns IPR Merits to the PTAB

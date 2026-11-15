@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-11-0cee398569
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Are Europe’s Competition Authorities Becoming the Market Police?

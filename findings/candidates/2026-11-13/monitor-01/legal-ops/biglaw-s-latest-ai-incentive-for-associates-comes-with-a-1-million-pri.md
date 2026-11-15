@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-13-aa13c9bac5
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Biglaw’s Latest AI Incentive For Associates Comes With A $1 Million Prize Pot

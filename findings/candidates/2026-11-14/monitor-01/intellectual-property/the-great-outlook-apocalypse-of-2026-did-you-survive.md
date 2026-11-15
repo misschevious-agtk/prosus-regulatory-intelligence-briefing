@@ -20,10 +20,10 @@ entities:
   matched_alias: EPO
 case_numbers: []
 cluster_id: cluster-2026-11-14-5907fda60d
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: missed-a-patent-deadline-in-australia-or-new-zealand-due-to-the-micros
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # The Great Outlook Apocalypse of 2026 - Did you survive?

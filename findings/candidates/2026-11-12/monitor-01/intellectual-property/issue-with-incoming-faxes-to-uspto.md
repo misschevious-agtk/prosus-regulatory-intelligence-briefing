@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-11-09-3bba23904f
-cluster_size: 8
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: issue-with-incoming-faxes-to-uspto
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Issue with Incoming Faxes to USPTO

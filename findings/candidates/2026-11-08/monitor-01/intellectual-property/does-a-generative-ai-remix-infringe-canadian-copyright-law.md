@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-07-8f80fd237c
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: does-a-generative-ai-remix-infringe-canadian-copyright-law
-ranked_at: '2026-11-14T14:00:39+00:00'
+cluster_id: cluster-2026-11-08-49caa99685
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Does a generative AI ‘remix’ infringe Canadian copyright law?

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-07-1a6172001c
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: republican-attorneys-general-crash-and-burn
-ranked_at: '2026-11-14T14:00:39+00:00'
+cluster_id: cluster-2026-11-08-21de3c658c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Republican Attorneys General Crash And Burn

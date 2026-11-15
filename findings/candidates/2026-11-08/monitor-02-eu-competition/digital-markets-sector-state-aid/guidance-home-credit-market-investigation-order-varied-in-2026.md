@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-07-0e4ece9ed4
-cluster_size: 12
-cluster_role: sibling
-cluster_canonical_slug: guidance-home-credit-market-investigation-order-varied-in-2026
-ranked_at: '2026-11-14T14:00:39+00:00'
+cluster_id: cluster-2026-11-08-8eacc7d72e
+cluster_size: 11
+cluster_role: canonical
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Guidance: Home Credit Market Investigation Order (varied in 2026)

@@ -18,11 +18,10 @@ match_count: 6
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-07-11883f5fd6
+cluster_id: cluster-2026-11-08-3d4648850f
 cluster_size: 16
-cluster_role: sibling
-cluster_canonical_slug: lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the
-ranked_at: '2026-11-14T14:00:39+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # LawNext Podcast: NetDocs CEO Josh Baxter on Why the DMS is Becoming the Law Firm’s ‘Intelligence Layer’

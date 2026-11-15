@@ -20,11 +20,11 @@ entities:
 case_numbers:
 - scheme: EU Court of Justice
   citation: C-250/25
-cluster_id: cluster-2026-11-07-b1a7eb14af
-cluster_size: 69
+cluster_id: cluster-2026-11-08-b0b1fa9066
+cluster_size: 62
 cluster_role: sibling
 cluster_canonical_slug: general-court-confirms-strict-rules-on-trade-mark-refiling
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # AG Szpunar’s Opinion in Like Company is here: a landmark take on several questions facing AI and copyright/related rights, even though the CJEU is advised not to answer the questions on LLM training

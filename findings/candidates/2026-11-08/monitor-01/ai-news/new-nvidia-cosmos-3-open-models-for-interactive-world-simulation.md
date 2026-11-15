@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-07-2376e600ca
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: new-nvidia-cosmos-3-open-models-for-interactive-world-simulation
-ranked_at: '2026-11-14T14:00:39+00:00'
+cluster_id: cluster-2026-11-08-add32f025d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # New NVIDIA Cosmos 3 Open Models for Interactive World Simulation

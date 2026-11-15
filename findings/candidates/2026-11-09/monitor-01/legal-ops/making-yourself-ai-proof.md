@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-07-97b15ca9f7
-cluster_size: 3
+cluster_id: cluster-2026-11-08-519c946c39
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: making-yourself-ai-proof
-ranked_at: '2026-11-14T14:00:39+00:00'
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # Making Yourself AI-Proof

@@ -19,11 +19,10 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-11-07-9247d13b33
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: upckat-proportionality-defence-against-life-sciences-injunctions-takes
-ranked_at: '2026-11-14T14:00:39+00:00'
+cluster_id: cluster-2026-11-08-6a04affe4a
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-11-15T14:34:25+00:00'
 ---
 
 # UPCKat:  Proportionality defence against life sciences injunctions takes shape at the UPC

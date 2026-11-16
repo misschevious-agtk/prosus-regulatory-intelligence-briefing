@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-a25bfde994
+cluster_id: cluster-2026-11-09-273fd9ca24
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: nist-finalizes-guidelines-on-protecting-online-identity-and-access-tok
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse

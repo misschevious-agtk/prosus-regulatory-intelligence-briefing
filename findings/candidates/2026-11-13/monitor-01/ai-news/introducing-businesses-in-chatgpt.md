@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-10-752799f3f3
-cluster_size: 13
+cluster_id: cluster-2026-11-09-c6fb163885
+cluster_size: 176
 cluster_role: sibling
-cluster_canonical_slug: chatgpt-enterprise-now-available-in-aws-marketplace
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_canonical_slug: heimstaden-is-changing-residential-real-estate-management-with-ai
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Introducing Businesses in ChatGPT

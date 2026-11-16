@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-8cfaf33e76
+cluster_id: cluster-2026-11-09-e4567c613f
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: the-law-or-the-lore-of-the-infamous-generative-ai-brainrot-characters
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # The law (or the ‘lore’) of the infamous generative AI ‘Brainrot’ characters

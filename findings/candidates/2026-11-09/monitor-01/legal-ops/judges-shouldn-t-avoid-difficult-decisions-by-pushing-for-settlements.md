@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-5d39e27d05
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: judges-shouldn-t-avoid-difficult-decisions-by-pushing-for-settlements
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_id: cluster-2026-11-09-48ad9b55c9
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Judges Shouldn’t Avoid Difficult Decisions By Pushing For Settlements

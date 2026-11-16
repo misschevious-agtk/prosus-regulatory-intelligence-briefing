@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-8135165481
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: it-all-hinges-on-judgment-and-human-connections
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_id: cluster-2026-11-09-59780238ed
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # It All Hinges On Judgment. And Human Connections.

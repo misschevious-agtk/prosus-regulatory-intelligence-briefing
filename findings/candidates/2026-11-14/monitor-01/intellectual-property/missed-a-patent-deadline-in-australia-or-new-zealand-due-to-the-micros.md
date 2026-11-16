@@ -15,10 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-5907fda60d
-cluster_size: 4
-cluster_role: canonical
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_id: cluster-2026-11-11-1c12986a6c
+cluster_size: 202
+cluster_role: sibling
+ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
 ---
 
 # Missed a patent deadline in Australia or New Zealand due to the Microsoft outage? Remedial action may be possible

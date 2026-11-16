@@ -1,0 +1,42 @@
+---
+date_found: 2026-11-16
+monitor: monitor-02-eu-competition
+domain: digital-markets-sector-state-aid
+source_url: https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2448
+source_publisher: European Commission press
+source_date: Mon, 16 Nov 2026 09:13:18 GMT
+source_method: rss
+title: Commission partially greenlights Slovakia's eighth payment request for €548 million under NextGenerationEU
+matched_keywords:
+- resilience
+- European Commission
+match_count: 2
+status: candidate
+entities:
+- name: European Commission
+  type: regulator
+  jurisdiction: EU
+  matched_alias: European Commission
+case_numbers: []
+cluster_id: cluster-2026-11-10-a8881a50f4
+cluster_size: 144
+cluster_role: sibling
+cluster_canonical_slug: commission-approves-2-billion-belgian-state-aid-to-support-offshore-wi
+ranked_at: '2026-11-16T16:48:11+00:00'
+---
+
+# Commission partially greenlights Slovakia's eighth payment request for €548 million under NextGenerationEU
+
+**Source:** [European Commission press](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2448)
+**Published:** Mon, 16 Nov 2026 09:13:18 GMT
+**Matched keywords (2):** resilience, European Commission
+
+## Summary excerpt
+
+European Commission Press release Brussels, 16 Nov 2026 Today, the European Commission partially greenlighted Slovakia's eighth payment request for €548 million under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

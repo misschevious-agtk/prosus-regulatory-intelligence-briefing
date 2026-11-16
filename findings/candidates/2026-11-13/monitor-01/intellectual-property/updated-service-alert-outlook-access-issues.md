@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-13-c2e0806b46
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # UPDATED: Service Alert: Outlook Access Issues

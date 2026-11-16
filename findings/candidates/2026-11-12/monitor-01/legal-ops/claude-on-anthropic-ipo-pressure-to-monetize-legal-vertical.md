@@ -22,7 +22,7 @@ cluster_id: cluster-2026-11-10-127ec4c1a8
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: claude-on-anthropic-ipo-pressure-to-monetize-legal-vertical
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Claude on Anthropic IPO – ‘Pressure to Monetize Legal Vertical’

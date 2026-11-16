@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-09-c7270e2251
-cluster_size: 168
+cluster_size: 197
 cluster_role: canonical
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Trainline: consumer protection enforcement case

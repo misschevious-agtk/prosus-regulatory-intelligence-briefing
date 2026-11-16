@@ -17,10 +17,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-11-c3c0585bec
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: who-holds-the-data-holds-the-power-paris-court-of-appeal-upholds-inter
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Who holds the data holds the power: Paris Court of Appeal upholds interim measures forcing Meta to negotiate with press publishers

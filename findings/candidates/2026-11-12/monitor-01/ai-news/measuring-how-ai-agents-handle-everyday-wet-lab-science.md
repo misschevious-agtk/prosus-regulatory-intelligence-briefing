@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-08-d8b11c9b5e
-cluster_size: 159
+cluster_id: cluster-2026-11-09-c6fb163885
+cluster_size: 176
 cluster_role: sibling
 cluster_canonical_slug: heimstaden-is-changing-residential-real-estate-management-with-ai
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Measuring how AI agents handle everyday wet-lab science

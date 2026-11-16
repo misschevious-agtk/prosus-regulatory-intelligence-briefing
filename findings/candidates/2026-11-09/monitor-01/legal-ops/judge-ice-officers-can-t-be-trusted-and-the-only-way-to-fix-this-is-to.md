@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-a7565b1eeb
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: judge-ice-officers-can-t-be-trusted-and-the-only-way-to-fix-this-is-to
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_id: cluster-2026-11-09-c2d1c9a39c
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Judge: ICE Officers Can’t Be Trusted And The Only Way To Fix This Is To Put Them On The Stand

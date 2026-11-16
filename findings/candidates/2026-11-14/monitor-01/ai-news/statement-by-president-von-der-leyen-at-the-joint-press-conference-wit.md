@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-10-a8881a50f4
 cluster_size: 144
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-2-billion-belgian-state-aid-to-support-offshore-wi
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Statement by President von der Leyen at the joint press conference with President Costa following the informal meeting of the European Council of November 2026

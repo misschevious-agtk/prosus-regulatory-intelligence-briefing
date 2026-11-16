@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-d05fe423c9
-cluster_size: 3
+cluster_id: cluster-2026-11-09-6a2572fae7
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: guidance-local-bus-services-market-investigation-order-2012
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Guidance: Local Bus Services Market Investigation Order 2012

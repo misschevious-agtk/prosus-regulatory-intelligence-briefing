@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-08-b0b1fa9066
-cluster_size: 62
+cluster_id: cluster-2026-11-11-1c12986a6c
+cluster_size: 202
 cluster_role: sibling
-cluster_canonical_slug: general-court-confirms-strict-rules-on-trade-mark-refiling
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Is the Commission Adding Fuel to the Fire? How The Commitments in the Lisbon Metro FSR Decision (Case FSP.103117) Fit into Recent China-EU Tensions

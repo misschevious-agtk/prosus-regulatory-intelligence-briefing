@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-afded3a873
-cluster_size: 3
+cluster_id: cluster-2026-11-09-626dfb46bb
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: subpoenas-are-coming-washington-law-firms-are-getting-ready-for-a-cong
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Subpoenas Are Coming: Washington Law Firms Are Getting Ready For A Congressional Probe Boom

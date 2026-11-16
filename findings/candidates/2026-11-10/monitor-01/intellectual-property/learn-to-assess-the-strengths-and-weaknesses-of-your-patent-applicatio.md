@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 149
+cluster_size: 202
 cluster_role: sibling
 cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Learn to assess the strengths and weaknesses of your patent application

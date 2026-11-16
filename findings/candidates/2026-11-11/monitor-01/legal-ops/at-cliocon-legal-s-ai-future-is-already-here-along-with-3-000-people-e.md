@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-cb3ecd5b38
+cluster_id: cluster-2026-11-09-664e602eb3
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: at-cliocon-legal-s-ai-future-is-already-here-along-with-3-000-people-e
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # At ClioCon, Legal’s AI Future Is Already Here, Along with 3,000 People Eager to Shape It

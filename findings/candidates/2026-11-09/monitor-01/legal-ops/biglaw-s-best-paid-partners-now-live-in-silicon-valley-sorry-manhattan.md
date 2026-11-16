@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-ab11d2ce0b
-cluster_size: 11
+cluster_id: cluster-2026-11-09-1db5fbcc84
+cluster_size: 5
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-11-05-26
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_canonical_slug: morning-docket-11-06-26
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Biglaw’s Best-Paid Partners Now Live In Silicon Valley, Sorry Manhattan

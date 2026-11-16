@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-0553693fab
+cluster_id: cluster-2026-11-09-dbab662a03
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-awards-more-than-1-7-million-to-support-cybersecurity-workforce-d
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States

@@ -15,10 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-35de85026a
-cluster_size: 3
-cluster_role: canonical
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_id: cluster-2026-11-09-e341743d5c
+cluster_size: 84
+cluster_role: sibling
+ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
 ---
 
 # Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA

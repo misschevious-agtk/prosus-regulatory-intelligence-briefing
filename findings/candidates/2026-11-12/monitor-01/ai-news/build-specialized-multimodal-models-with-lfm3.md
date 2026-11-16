@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-d40062933f
-cluster_size: 12
+cluster_id: cluster-2026-11-09-c8548cfb65
+cluster_size: 13
 cluster_role: sibling
 cluster_canonical_slug: build-specialized-multimodal-models-with-lfm3
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Build specialized multimodal models with LFM3

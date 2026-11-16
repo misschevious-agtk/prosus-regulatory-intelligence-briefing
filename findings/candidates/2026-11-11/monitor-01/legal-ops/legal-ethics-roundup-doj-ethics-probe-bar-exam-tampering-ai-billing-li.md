@@ -24,7 +24,7 @@ cluster_id: cluster-2026-11-10-ef0bd4cb59
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-doj-ethics-probe-bar-exam-tampering-ai-billing-li
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Legal Ethics Roundup: DOJ Ethics Probe, Bar Exam Tampering, AI Billing Limits, TX Reconsiders ABA Accreditation Council, Biglaw Shakeup, AI Privilege & More

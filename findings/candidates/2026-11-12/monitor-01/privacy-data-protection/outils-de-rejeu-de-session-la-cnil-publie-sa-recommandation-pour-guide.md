@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-08-9bc763895e
+cluster_id: cluster-2026-11-09-fd7dc30f86
 cluster_size: 16
 cluster_role: sibling
 cluster_canonical_slug: outils-de-rejeu-de-session-la-cnil-publie-sa-recommandation-pour-guide
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs

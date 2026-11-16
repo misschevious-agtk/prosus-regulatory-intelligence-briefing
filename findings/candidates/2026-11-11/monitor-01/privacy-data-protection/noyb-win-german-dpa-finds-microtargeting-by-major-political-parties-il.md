@@ -17,11 +17,11 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-0fd3e10275
+cluster_id: cluster-2026-11-09-34b7a2a8e8
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: noyb-win-german-dpa-finds-microtargeting-by-major-political-parties-il
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # noyb win: German DPA finds microtargeting by major political parties illegal

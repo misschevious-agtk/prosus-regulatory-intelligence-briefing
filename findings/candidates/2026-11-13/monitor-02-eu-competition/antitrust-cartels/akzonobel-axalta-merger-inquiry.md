@@ -19,10 +19,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-09-c7270e2251
-cluster_size: 168
+cluster_size: 197
 cluster_role: sibling
 cluster_canonical_slug: trainline-consumer-protection-enforcement-case
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # AkzoNobel / Axalta merger inquiry

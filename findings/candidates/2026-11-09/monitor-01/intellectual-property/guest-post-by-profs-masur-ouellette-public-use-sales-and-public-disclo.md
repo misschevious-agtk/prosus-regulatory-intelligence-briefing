@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-08-428e230b51
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: guest-post-by-profs-masur-ouellette-public-use-sales-and-public-disclo
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_id: cluster-2026-11-09-955d8c29e7
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA

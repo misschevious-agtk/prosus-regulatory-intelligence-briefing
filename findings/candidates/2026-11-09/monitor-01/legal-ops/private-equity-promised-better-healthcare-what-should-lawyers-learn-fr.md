@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-09-d6d916d516
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Private Equity Promised Better Healthcare. What Should Lawyers Learn From What Happened?

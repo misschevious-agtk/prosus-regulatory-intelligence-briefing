@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-09-a3d30f5656
-cluster_size: 13
+cluster_id: cluster-2026-11-09-e341743d5c
+cluster_size: 84
 cluster_role: sibling
-cluster_canonical_slug: cybers-curit-des-collectivit-s-territoriales-la-cnil-prononce-dix-sanc
-ranked_at: '2026-11-15T14:34:25+00:00'
+cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # La CNIL sera présente au Salon des maires et des collectivités locales 2026

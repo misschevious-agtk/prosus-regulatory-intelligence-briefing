@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-14-ad2daed87b
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # Dems Oppose Brendan Carr’s Efforts To Rush The Appointment Of A Lackey To FCC, Promise New Year Investigations Into Carr

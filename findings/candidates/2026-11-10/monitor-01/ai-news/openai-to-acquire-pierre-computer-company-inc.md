@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-08-bd5a1b8610
-cluster_size: 8
+cluster_id: cluster-2026-11-09-5cba5cdb1d
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: openai-to-acquire-pierre-computer-company-inc
-ranked_at: '2026-11-15T14:34:25+00:00'
+ranked_at: '2026-11-16T16:48:11+00:00'
 ---
 
 # OpenAI to acquire Pierre Computer Company, Inc.

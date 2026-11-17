@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-09-323e20314c
-cluster_size: 23
-cluster_role: sibling
-cluster_canonical_slug: visiting-judges-return-to-the-federal-circuit
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_id: cluster-2026-11-10-ec4b3067b3
+cluster_size: 24
+cluster_role: canonical
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Visiting Judges Return to the Federal Circuit

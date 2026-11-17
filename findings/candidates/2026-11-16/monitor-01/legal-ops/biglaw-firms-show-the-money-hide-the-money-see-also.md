@@ -18,10 +18,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-11-10-38eea3d9c0
-cluster_size: 78
+cluster_size: 80
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-11-10-26
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Biglaw Firms Show The Money, Hide The Money — See Also

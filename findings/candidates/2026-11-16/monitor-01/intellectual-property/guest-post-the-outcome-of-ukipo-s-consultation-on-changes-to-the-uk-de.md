@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-16-1fddcab062
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # [Guest post] The outcome of UKIPO’s consultation on changes to the UK designs framework

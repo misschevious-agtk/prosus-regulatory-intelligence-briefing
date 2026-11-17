@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-09-606a08ddfb
-cluster_size: 6
+cluster_id: cluster-2026-11-10-8873ae817a
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: a-patent-license-by-purchase-order
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # A Patent License by Purchase Order

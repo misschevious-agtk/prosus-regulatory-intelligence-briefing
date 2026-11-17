@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 202
+cluster_size: 199
 cluster_role: sibling
 cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Multiple System Maintenance

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-11-09-1db5fbcc84
-cluster_size: 5
+cluster_id: cluster-2026-11-10-eb04cad773
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-11-06-26
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_canonical_slug: biglaw-s-best-paid-partners-now-live-in-silicon-valley-sorry-manhattan
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Gettin’ Paid — See Also

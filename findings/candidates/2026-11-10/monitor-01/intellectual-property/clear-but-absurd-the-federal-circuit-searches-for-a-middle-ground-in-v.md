@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-09-4e66b5038d
+cluster_id: cluster-2026-11-10-01b7b48f35
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: clear-but-absurd-the-federal-circuit-searches-for-a-middle-ground-in-v
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Clear but Absurd: The Federal Circuit Searches for a Middle Ground in Vicor v. ITC

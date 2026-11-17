@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-13-c2e0806b46
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: updated-service-alert-outlook-access-issues
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # UPDATED: Service Alert: Outlook Access Issues

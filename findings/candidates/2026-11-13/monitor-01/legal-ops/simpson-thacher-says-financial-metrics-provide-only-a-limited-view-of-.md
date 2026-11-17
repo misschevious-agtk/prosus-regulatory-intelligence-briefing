@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-13-b3a7f60555
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Simpson Thacher Says Financial Metrics Provide ‘Only A Limited View’ Of A Firm, So Now You Get No View At All

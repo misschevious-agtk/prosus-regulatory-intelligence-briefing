@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-10-127ec4c1a8
 cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Claude on Anthropic IPO – ‘Pressure to Monetize Legal Vertical’

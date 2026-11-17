@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-16-b1c3162cf2
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Ministers from EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity

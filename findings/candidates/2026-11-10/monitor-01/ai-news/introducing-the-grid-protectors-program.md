@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-09-c6fb163885
-cluster_size: 176
-cluster_role: sibling
-cluster_canonical_slug: heimstaden-is-changing-residential-real-estate-management-with-ai
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_id: cluster-2026-11-10-e3e3a96f40
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Introducing the Grid Protectors Program

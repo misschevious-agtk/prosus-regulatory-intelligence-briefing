@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-14-1efa72a636
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: dlss-5-got-faster-leaner-more-subtle-for-hogwarts-legacy
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # DLSS 5 Got Faster, Leaner, & More Subtle For ‘Hogwarts Legacy’

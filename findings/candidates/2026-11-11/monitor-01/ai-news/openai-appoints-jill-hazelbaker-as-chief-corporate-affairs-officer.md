@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-09-5e68967dee
-cluster_size: 3
+cluster_id: cluster-2026-11-10-0cacce396c
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: openai-appoints-jill-hazelbaker-as-chief-corporate-affairs-officer
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer

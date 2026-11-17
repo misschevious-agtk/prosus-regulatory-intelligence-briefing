@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-09-6356c3d7b1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: bonus-wrap-harvey-jus-mundi-li-ny
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_id: cluster-2026-11-10-a2f7d63157
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Bonus Wrap: Harvey, Jus Mundi, LI NY +

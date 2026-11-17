@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-10-a8881a50f4
-cluster_size: 144
+cluster_size: 142
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-2-billion-belgian-state-aid-to-support-offshore-wi
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Commission greenlights Luxembourg's final payment request for €59 million under NextGenerationEU

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-10-0f8a97bcb5
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: john-fetterman-and-other-losers-on-election-day
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # John Fetterman And Other Losers On Election Day

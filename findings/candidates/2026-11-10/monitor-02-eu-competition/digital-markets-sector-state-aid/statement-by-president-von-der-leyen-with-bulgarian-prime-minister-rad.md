@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-10-a8881a50f4
-cluster_size: 144
+cluster_id: cluster-2026-11-10-b71df7498c
+cluster_size: 4
 cluster_role: sibling
-cluster_canonical_slug: commission-approves-2-billion-belgian-state-aid-to-support-offshore-wi
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_canonical_slug: statement-by-president-von-der-leyen-with-bulgarian-prime-minister-rad
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Statement by President von der Leyen with Bulgarian Prime Minister Radev

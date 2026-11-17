@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-11-09-4411ca2e82
-cluster_size: 12
+cluster_id: cluster-2026-11-10-7536f600b9
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: revoir-le-webinaire-nouveau-r-gime-de-la-prospection-t-l-phonique-comm
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_canonical_slug: journ-e-rgpd-poitiers-cybers-curit-ia-et-conformit-au-c-ur-des-enjeux-
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 22 octobre 2026

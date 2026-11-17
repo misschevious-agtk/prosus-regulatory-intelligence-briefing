@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-09-0e8e41a061
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: preparing-our-next-security-sprint-to-harden-openai
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_id: cluster-2026-11-10-dbf0a3b869
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Preparing our next security sprint to harden OpenAI

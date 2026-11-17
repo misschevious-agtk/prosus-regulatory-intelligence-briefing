@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-09-c7270e2251
-cluster_size: 197
+cluster_id: cluster-2026-11-10-1f6f2eca1f
+cluster_size: 223
 cluster_role: sibling
 cluster_canonical_slug: trainline-consumer-protection-enforcement-case
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Co-operative Group / Southern Co-operative merger inquiry

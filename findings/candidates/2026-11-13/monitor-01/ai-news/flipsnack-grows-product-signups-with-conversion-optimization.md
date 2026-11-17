@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-09-6296cf1c7f
-cluster_size: 7
+cluster_id: cluster-2026-11-10-ed28bf70d7
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: flipsnack-grows-product-signups-with-conversion-optimization
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Flipsnack grows product signups with conversion optimization

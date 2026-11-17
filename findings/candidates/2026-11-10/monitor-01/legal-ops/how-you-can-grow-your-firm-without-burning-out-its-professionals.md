@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-09-f2cf55c0ec
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: how-you-can-grow-your-firm-without-burning-out-its-professionals
-ranked_at: '2026-11-16T16:48:11+00:00'
+cluster_id: cluster-2026-11-10-09cf986184
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # How You Can Grow Your Firm Without Burning Out Its Professionals

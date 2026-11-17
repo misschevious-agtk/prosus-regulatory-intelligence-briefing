@@ -21,9 +21,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-10-a8881a50f4
-cluster_size: 144
+cluster_size: 142
 cluster_role: canonical
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Commission approves €2 billion Belgian State aid to support offshore wind energy

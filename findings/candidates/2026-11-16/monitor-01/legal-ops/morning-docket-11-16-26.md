@@ -20,9 +20,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-11-16-ee33b9c6b2
-cluster_size: 1
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Morning Docket: 11.16.26

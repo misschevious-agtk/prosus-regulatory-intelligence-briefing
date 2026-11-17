@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-14-032577f67e
 cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: commission-sends-supplementary-statement-of-objections-to-ppc-over-pre
-ranked_at: '2026-11-16T16:48:11+00:00'
+ranked_at: '2026-11-17T16:44:46+00:00'
 ---
 
 # Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market

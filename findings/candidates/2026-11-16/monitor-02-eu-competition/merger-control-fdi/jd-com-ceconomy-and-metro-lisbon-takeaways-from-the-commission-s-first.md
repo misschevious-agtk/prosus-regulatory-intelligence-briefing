@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 199
+cluster_id: cluster-2026-11-11-28f2f11091
+cluster_size: 9
 cluster_role: sibling
-cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_canonical_slug: is-the-commission-adding-fuel-to-the-fire-how-the-commitments-in-the-l
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # JD.com/CECONOMY and Metro Lisbon: Takeaways From The Commission’s First Two FSR Decisions Concerning Chinese Companies

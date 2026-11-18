@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-10-566ee0ddd6
+cluster_id: cluster-2026-11-11-92e3391d1f
 cluster_size: 11
-cluster_role: sibling
-cluster_canonical_slug: remarks-by-director-squires-at-the-2026-aipla-annual-meeting
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Remarks by Director Squires at the 2026 AIPLA Annual Meeting

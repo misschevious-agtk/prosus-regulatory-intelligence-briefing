@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-10-3b7a7e276e
+cluster_id: cluster-2026-11-11-f237005c49
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-report-provides-guidelines-for-transition-to-post-quantum-cryptog
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards

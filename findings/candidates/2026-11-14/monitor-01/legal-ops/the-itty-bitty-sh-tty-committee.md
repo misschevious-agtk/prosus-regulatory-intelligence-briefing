@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-13-4bb735d7eb
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-itty-bitty-sh-tty-committee
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # The Itty Bitty Sh*tty Committee

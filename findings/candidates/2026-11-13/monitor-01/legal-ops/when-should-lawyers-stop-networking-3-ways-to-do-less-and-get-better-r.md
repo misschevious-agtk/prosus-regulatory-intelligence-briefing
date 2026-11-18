@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-12-75ed2ca31f
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: when-should-lawyers-stop-networking-3-ways-to-do-less-and-get-better-r
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # When Should Lawyers Stop Networking? 3 Ways To Do Less And Get Better Results.

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-12-9610f24479
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-jud
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # House Opts To Stall Hegseth Impeachment Vote, Sending Resolution To Judiciary Committee

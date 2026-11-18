@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-10-9a89a99af4
+cluster_id: cluster-2026-11-11-aa7d59adfa
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: accelerating-engineering-for-the-physical-world
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Accelerating engineering for the physical world

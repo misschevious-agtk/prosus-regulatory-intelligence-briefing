@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-17-0c2bec273c
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Thanks To AI, Baker McKenzie Wants To Break Up With The Billable Hour

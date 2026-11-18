@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-11-edf75fb351
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: why-we-call-the-old-line-firms-white-shoe
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Why We Call The Old-Line Firms ‘White Shoe’

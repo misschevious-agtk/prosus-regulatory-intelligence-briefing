@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-11-0cee398569
-cluster_size: 8
+cluster_id: cluster-2026-11-16-8efc13b531
+cluster_size: 63
 cluster_role: sibling
-cluster_canonical_slug: are-europe-s-competition-authorities-becoming-the-market-police
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_canonical_slug: mari-atg-entertainment-merger-inquiry
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation

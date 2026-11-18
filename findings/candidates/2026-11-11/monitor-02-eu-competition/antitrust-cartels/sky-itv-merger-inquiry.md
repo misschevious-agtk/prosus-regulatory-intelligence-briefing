@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-10-fedc019267
-cluster_size: 36
-cluster_role: sibling
-cluster_canonical_slug: sky-itv-merger-inquiry
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_id: cluster-2026-11-11-489f961ff1
+cluster_size: 30
+cluster_role: canonical
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Sky / ITV merger inquiry

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-11-10-38eea3d9c0
-cluster_size: 80
+cluster_id: cluster-2026-11-11-dfd6b25beb
+cluster_size: 77
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-11-10-26
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Trump’s DOJ Ran Off So Many Lawyers It Can’t Even Show Up To Keep People Locked Up Anymore

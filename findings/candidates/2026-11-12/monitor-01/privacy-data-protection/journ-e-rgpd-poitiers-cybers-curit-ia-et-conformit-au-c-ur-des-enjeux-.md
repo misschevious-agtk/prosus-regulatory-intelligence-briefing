@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-10-7536f600b9
-cluster_size: 9
+cluster_id: cluster-2026-11-11-3edaa8a816
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: journ-e-rgpd-poitiers-cybers-curit-ia-et-conformit-au-c-ur-des-enjeux-
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données

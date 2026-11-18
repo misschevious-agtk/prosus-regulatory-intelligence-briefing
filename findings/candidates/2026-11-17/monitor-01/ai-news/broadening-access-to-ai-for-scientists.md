@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-10-752799f3f3
-cluster_size: 250
+cluster_id: cluster-2026-11-11-10cbf291e3
+cluster_size: 249
 cluster_role: sibling
 cluster_canonical_slug: chatgpt-enterprise-now-available-in-aws-marketplace
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Broadening access to AI for scientists

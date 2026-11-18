@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-17-eaec8a0b17
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Senate Appropriators Unveil $1.1T Pentagon Spending Bill, Folding In Reconciliation Priorities

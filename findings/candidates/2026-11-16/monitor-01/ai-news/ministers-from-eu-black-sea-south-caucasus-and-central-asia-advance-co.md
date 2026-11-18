@@ -17,10 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-16-b1c3162cf2
-cluster_size: 2
-cluster_role: canonical
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_id: cluster-2026-11-11-db485a7d3b
+cluster_size: 142
+cluster_role: sibling
+ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_canonical_slug: steering-far-and-beyond-the-european-commission-fines-google-for-a-bre
 ---
 
 # Ministers from EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity

@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-10-b30d3dab5e
-cluster_size: 13
-cluster_role: sibling
-cluster_canonical_slug: issue-with-incoming-faxes-to-uspto
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_id: cluster-2026-11-11-b398a9b41a
+cluster_size: 14
+cluster_role: canonical
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Issue with Incoming Faxes to USPTO

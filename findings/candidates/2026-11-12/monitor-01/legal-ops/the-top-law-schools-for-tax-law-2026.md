@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-10-f963edaac3
-cluster_size: 4
+cluster_id: cluster-2026-11-11-4290f7ce7d
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-best-law-schools-for-criminal-law-2026
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # The Top Law Schools For Tax Law (2026)

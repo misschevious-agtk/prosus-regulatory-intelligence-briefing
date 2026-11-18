@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-10-1f6f2eca1f
-cluster_size: 223
+cluster_id: cluster-2026-11-11-facbd99f4c
+cluster_size: 219
 cluster_role: sibling
 cluster_canonical_slug: trainline-consumer-protection-enforcement-case
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # AkzoNobel / Axalta merger inquiry

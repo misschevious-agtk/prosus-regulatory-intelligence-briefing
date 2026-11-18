@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-16-1f17a937db
-cluster_size: 18
+cluster_id: cluster-2026-11-16-8efc13b531
+cluster_size: 63
 cluster_role: sibling
-cluster_canonical_slug: strategic-review-of-cma-markets-remedies
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_canonical_slug: mari-atg-entertainment-merger-inquiry
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Supplementary provisional decision: strategic review of CMA markets remedies

@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-10-b71df7498c
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: statement-by-president-von-der-leyen-with-bulgarian-prime-minister-rad
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_id: cluster-2026-11-11-9681553c6e
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # President von der Leyen travels to Black Sea region and reaffirms EU's solidarity with Romania and Bulgaria in ‘testing times'

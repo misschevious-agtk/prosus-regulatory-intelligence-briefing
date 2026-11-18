@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-17-5023913a3a
-cluster_size: 3
+cluster_id: cluster-2026-11-18-58bc5bc485
+cluster_size: 7
 cluster_role: sibling
-cluster_canonical_slug: legal-engineering-the-hot-new-job-at-the-intersection-of-law-and-ai
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_canonical_slug: where-should-ai-expertise-live-in-legal
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Building Legal AI for Public Service Across Borders

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-11-3aa571e1f9
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: why-mcp-could-be-a-hero-for-your-lean-legal-team
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Why MCP Could Be A Hero For Your Lean Legal Team

@@ -17,11 +17,10 @@ entities:
   jurisdiction: FR
   matched_alias: Commission Nationale de l'Informatique
 case_numbers: []
-cluster_id: cluster-2026-11-10-612d069312
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: ordre-du-jour-de-la-s-ance-pl-ni-re-du-5-novembre-2026
-ranked_at: '2026-11-17T16:44:46+00:00'
+cluster_id: cluster-2026-11-11-6de67245f9
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Ordre du jour de la séance plénière du 5 novembre 2026

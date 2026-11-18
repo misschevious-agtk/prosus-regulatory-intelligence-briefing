@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-13-d0de09d3b1
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # In Biglaw, Second Place Is Still Pretty Big

@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-12-60d8f73795
-cluster_size: 18
+cluster_size: 21
 cluster_role: canonical
-ranked_at: '2026-11-17T16:44:46+00:00'
+ranked_at: '2026-11-18T16:13:36+00:00'
 ---
 
 # Corporate report: CMA panel member biographies and disclosures of interest

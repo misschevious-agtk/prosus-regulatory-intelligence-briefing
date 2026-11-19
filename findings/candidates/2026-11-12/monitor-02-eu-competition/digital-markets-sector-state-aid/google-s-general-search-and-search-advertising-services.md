@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-11-11-41f11bc291
-cluster_size: 57
+cluster_id: cluster-2026-11-12-21c5403755
+cluster_size: 48
 cluster_role: sibling
 cluster_canonical_slug: google-s-mobile-platform
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Google's general search and search advertising services

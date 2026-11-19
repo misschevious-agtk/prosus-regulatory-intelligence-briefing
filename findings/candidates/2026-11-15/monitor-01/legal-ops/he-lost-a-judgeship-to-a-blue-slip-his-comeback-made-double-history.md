@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-14-c248e279a5
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: he-lost-a-judgeship-to-a-blue-slip-his-comeback-made-double-history
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # He Lost A Judgeship To A Blue Slip, His Comeback Made Double History

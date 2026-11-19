@@ -19,10 +19,11 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-11-16-ee33b9c6b2
-cluster_size: 6
-cluster_role: canonical
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_id: cluster-2026-11-12-7afef20e3d
+cluster_size: 177
+cluster_role: sibling
+ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
 ---
 
 # Morning Docket: 11.16.26

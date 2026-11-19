@@ -20,9 +20,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-17-9813d81a75
-cluster_size: 6
+cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Power, agency and good growth

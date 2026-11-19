@@ -19,11 +19,10 @@ entities:
   jurisdiction: US
   matched_alias: AWS
 case_numbers: []
-cluster_id: cluster-2026-11-11-bb29f87cbf
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: daybreak-red-is-now-available-in-aws-govcloud-us-east
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_id: cluster-2026-11-12-1446db4a2f
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Daybreak Red is now available in AWS GovCloud (US-East)

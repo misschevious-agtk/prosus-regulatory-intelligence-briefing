@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-11-facbd99f4c
-cluster_size: 219
+cluster_id: cluster-2026-11-12-86600204ea
+cluster_size: 190
 cluster_role: sibling
 cluster_canonical_slug: trainline-consumer-protection-enforcement-case
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Pilgrim’s / Walkers Deli & Sausage Co merger inquiry

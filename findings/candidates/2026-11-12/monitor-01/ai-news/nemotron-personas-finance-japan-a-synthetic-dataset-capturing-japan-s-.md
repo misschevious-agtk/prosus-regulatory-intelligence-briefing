@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-11-991fb6f8ac
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: nemotron-personas-finance-japan-a-synthetic-dataset-capturing-japan-s-
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_id: cluster-2026-11-12-13f9a96ea2
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context

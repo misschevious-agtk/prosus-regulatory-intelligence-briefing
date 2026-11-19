@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-16-3d9da94fde
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Discurso da Comissária Albuquerque no IV Fórum da Gestão de Ativos e dos Fundos de Pensões (APFIPP)

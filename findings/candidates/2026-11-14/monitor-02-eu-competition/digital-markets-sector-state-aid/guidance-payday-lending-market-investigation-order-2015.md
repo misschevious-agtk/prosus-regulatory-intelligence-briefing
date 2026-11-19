@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-11-bfaf5b923e
-cluster_size: 5
+cluster_id: cluster-2026-11-12-720dd9290d
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: guidance-payday-lending-market-investigation-order-2015
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Guidance: Payday Lending Market Investigation Order 2015

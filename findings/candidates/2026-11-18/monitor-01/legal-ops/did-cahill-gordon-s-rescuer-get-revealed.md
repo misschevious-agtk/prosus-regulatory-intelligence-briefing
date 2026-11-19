@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-17-70af3a6938
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: did-cahill-gordon-s-rescuer-get-revealed
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Did Cahill Gordon’s ‘Rescuer’ Get Revealed?

@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-11-16-ee33b9c6b2
-cluster_size: 6
+cluster_id: cluster-2026-11-12-7afef20e3d
+cluster_size: 177
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-11-16-26
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Morning Docket: 11.18.26

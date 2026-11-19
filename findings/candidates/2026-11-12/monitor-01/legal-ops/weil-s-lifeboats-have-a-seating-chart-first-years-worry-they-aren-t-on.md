@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-11-6bb5a4c07b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: weil-s-lifeboats-have-a-seating-chart-first-years-worry-they-aren-t-on
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_id: cluster-2026-11-12-dbcf6cf512
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Weil’s Lifeboats Have A Seating Chart, First-Years Worry They Aren’t On It

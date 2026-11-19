@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: FCA
 case_numbers: []
-cluster_id: cluster-2026-11-11-f2519d6f7b
+cluster_id: cluster-2026-11-12-ddbca2c9e3
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: basmati-rice-certification-mark-rejected-in-australia
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Basmati rice certification mark rejected in Australia

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-11-63ba1d0121
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: a-press-secretary-comeback-katie-zacharia-may-be-ready-for-her-close-u
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_id: cluster-2026-11-12-6eb2858780
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # A Press Secretary Comeback? Katie Zacharia May Be Ready For Her Close-Up

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-13-d0de09d3b1
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: in-biglaw-second-place-is-still-pretty-big
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # In Biglaw, Second Place Is Still Pretty Big

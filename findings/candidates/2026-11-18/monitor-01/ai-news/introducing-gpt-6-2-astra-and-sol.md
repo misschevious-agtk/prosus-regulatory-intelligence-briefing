@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-cde0d407c2
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_id: cluster-2026-11-19-cd4ed8ab4a
+cluster_size: 264
+cluster_role: sibling
+ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_canonical_slug: openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-rel
 ---
 
 # Introducing GPT-6.2 Astra and Sol

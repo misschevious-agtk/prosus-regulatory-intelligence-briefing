@@ -21,7 +21,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-12-60d8f73795
 cluster_size: 21
 cluster_role: canonical
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Corporate report: CMA panel member biographies and disclosures of interest

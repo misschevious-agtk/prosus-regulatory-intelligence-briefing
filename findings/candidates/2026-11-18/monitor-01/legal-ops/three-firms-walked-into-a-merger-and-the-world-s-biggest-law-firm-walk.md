@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-17-e614b1cb02
-cluster_size: 2
+cluster_id: cluster-2026-11-17-5c75bb1031
+cluster_size: 20
 cluster_role: sibling
-cluster_canonical_slug: three-firms-walked-into-a-merger-and-the-world-s-biggest-law-firm-walk
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_canonical_slug: hogan-lovells-cadwalader-associates-are-getting-milbank-money
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Three Firms Walked Into A Merger And The World’s Biggest Law Firm Walked Out

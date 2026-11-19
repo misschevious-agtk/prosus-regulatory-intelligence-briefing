@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-16-8efc13b531
-cluster_size: 63
+cluster_size: 105
 cluster_role: sibling
 cluster_canonical_slug: mari-atg-entertainment-merger-inquiry
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Are Europe’s Competition Authorities Becoming the Market Police?

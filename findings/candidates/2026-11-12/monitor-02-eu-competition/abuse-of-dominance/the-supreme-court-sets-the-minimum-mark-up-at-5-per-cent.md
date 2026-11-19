@@ -17,11 +17,11 @@ entities:
   jurisdiction: ES
   matched_alias: CNMC
 case_numbers: []
-cluster_id: cluster-2026-11-11-3296f24f6f
-cluster_size: 4
+cluster_id: cluster-2026-11-12-da9920d723
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-supreme-court-sets-the-minimum-mark-up-at-5-per-cent
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # THE SUPREME COURT SETS THE MINIMUM MARK-UP AT 5 PER CENT

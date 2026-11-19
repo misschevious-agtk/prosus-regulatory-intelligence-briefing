@@ -22,11 +22,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-11-11-db485a7d3b
-cluster_size: 142
+cluster_id: cluster-2026-11-12-4b5dcdf87f
+cluster_size: 24
 cluster_role: sibling
-cluster_canonical_slug: steering-far-and-beyond-the-european-commission-fines-google-for-a-bre
-ranked_at: '2026-11-18T16:13:36+00:00'
+cluster_canonical_slug: who-holds-the-data-holds-the-power-paris-court-of-appeal-upholds-inter
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Steering Far and Beyond: The European Commission Fines Google for a Breach of Article 5(4) DMA

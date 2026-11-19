@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-11-edf75fb351
-cluster_size: 3
+cluster_id: cluster-2026-11-12-7e4142a2be
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: why-we-call-the-old-line-firms-white-shoe
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Why We Call The Old-Line Firms ‘White Shoe’

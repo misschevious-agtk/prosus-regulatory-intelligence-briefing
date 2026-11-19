@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-12-9458058c5c
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: democrats-midterm-wins-could-reshape-healthcare-access-for-underserved
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Democrats’ Midterm Wins Could Reshape Healthcare Access For Underserved Americans

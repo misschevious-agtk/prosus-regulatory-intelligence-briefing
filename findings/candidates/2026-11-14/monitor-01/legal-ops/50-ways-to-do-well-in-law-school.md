@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-13-48bf3312e8
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: 50-ways-to-do-well-in-law-school
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # 50 Ways To Do Well In Law School

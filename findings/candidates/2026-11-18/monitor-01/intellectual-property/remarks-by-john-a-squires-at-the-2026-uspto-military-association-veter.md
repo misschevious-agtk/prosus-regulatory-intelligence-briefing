@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-11-92e3391d1f
-cluster_size: 11
+cluster_id: cluster-2026-11-12-00f5b7bad1
+cluster_size: 10
 cluster_role: sibling
 cluster_canonical_slug: remarks-by-director-squires-at-the-2026-aipla-annual-meeting
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Remarks by John A. Squires at the 2026 USPTO Military Association Veterans Day Event

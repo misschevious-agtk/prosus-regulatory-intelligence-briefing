@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-16-596792e62d
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: aderant-says-it-milana-docketing-product-launched-in-2022-is-now-in-ne
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Aderant Says It Milana Docketing Product, Launched In 2022, Is Now In Nearly 40% of Am Law 200 Firms

@@ -20,11 +20,11 @@ entities:
   jurisdiction: EU
   matched_alias: UPC
 case_numbers: []
-cluster_id: cluster-2026-11-11-1c12986a6c
-cluster_size: 167
+cluster_id: cluster-2026-11-12-7afef20e3d
+cluster_size: 177
 cluster_role: sibling
 cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # [Guest Post] Are the German UPC Local Divisions the new Eastern District of Texas?

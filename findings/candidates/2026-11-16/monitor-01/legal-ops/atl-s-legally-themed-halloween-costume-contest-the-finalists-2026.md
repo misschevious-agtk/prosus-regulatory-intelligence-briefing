@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-14-e4bad58102
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: atl-s-legally-themed-halloween-costume-contest-the-finalists-2026
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # ATL’s Legally Themed Halloween Costume Contest: The Finalists (2026)

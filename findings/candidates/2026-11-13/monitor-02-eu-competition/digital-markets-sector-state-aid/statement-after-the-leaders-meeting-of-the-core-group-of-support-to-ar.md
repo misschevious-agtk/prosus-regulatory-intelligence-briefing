@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-12-1a6d4ba717
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: statement-after-the-leaders-meeting-of-the-core-group-of-support-to-ar
-ranked_at: '2026-11-18T16:13:36+00:00'
+ranked_at: '2026-11-19T16:20:21+00:00'
 ---
 
 # Statement after the Leaders Meeting of the Core Group of Support to Armenia

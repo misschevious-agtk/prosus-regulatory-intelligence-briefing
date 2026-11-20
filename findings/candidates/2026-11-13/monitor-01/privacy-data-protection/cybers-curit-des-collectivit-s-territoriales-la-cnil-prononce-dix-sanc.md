@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-12-71b533781b
-cluster_size: 87
+cluster_id: cluster-2026-11-13-7e8eedfef9
+cluster_size: 89
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions

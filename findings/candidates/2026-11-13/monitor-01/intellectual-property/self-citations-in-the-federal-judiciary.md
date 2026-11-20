@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-a0ce635be9
-cluster_size: 20
+cluster_id: cluster-2026-11-13-c383ae8ca8
+cluster_size: 17
 cluster_role: sibling
 cluster_canonical_slug: self-citation-in-federal-circuit-opinions
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Self Citations in the Federal Judiciary

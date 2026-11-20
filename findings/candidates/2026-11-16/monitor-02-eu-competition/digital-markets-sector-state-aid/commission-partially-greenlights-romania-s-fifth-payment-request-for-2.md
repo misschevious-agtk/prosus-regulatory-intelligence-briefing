@@ -19,9 +19,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-16-3d69b0f378
-cluster_size: 126
+cluster_size: 134
 cluster_role: canonical
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Commission partially greenlights Romania's fifth   payment request for €2.67 billion under NextGenerationEU

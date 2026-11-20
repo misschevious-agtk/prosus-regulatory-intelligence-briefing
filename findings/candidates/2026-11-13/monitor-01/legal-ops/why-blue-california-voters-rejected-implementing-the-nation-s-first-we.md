@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-7a68a7abbc
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: why-blue-california-voters-rejected-implementing-the-nation-s-first-we
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_id: cluster-2026-11-13-c7359459b0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Why Blue California Voters Rejected Implementing The Nation’s First Wealth Tax

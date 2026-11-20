@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-1b3e7db5f4
-cluster_size: 9
+cluster_id: cluster-2026-11-13-cd9c004795
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: jd-com-ceconomy-and-metro-lisbon-takeaways-from-the-commission-s-first
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # The FSR 2.0: Less Red Tape, More Enforcement?

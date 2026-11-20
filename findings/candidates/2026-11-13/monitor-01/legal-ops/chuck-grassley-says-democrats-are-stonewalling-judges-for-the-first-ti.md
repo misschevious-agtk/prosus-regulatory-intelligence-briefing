@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-9370c1e411
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: chuck-grassley-says-democrats-are-stonewalling-judges-for-the-first-ti
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_id: cluster-2026-11-13-9f29d9a2b5
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Chuck Grassley Says Democrats Are Stonewalling Judges ‘For The First Time In Our Nation’s History.’ Merrick Garland Would Like A Word.

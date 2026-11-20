@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-16-951643ae25
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 62-organizations-call-on-congress-to-advance-4-medicare-reforms
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # 62 Organizations Call On Congress To Advance 4 Medicare Reforms

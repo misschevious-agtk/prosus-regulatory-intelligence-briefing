@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-19-a3166bb0a9
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Statement by Executive Vice-President Mînzatu and Commissioner Lahbib ahead of European Equal Pay Day

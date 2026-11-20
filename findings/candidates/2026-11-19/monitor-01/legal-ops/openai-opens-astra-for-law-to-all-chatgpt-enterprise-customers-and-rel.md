@@ -29,9 +29,9 @@ entities:
   matched_alias: Anthropic
 case_numbers: []
 cluster_id: cluster-2026-11-19-cd4ed8ab4a
-cluster_size: 264
+cluster_size: 269
 cluster_role: canonical
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # OpenAI Opens Astra for Law to All ChatGPT Enterprise Customers and Releases New Benchmark Results

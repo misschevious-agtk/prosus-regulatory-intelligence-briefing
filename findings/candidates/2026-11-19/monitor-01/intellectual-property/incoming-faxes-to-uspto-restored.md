@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-12-e5d4aeba98
-cluster_size: 15
+cluster_id: cluster-2026-11-13-6cc04e58d1
+cluster_size: 16
 cluster_role: sibling
-cluster_canonical_slug: issue-with-incoming-faxes-to-uspto
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_canonical_slug: incoming-faxes-to-uspto-restored
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Incoming Faxes to USPTO Restored

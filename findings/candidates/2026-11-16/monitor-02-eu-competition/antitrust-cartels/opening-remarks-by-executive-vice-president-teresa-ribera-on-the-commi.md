@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-16-4332470e10
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: opening-remarks-by-executive-vice-president-teresa-ribera-on-the-commi
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Opening remarks by Executive Vice-President Teresa Ribera on the Commission decision to approve UniCredit's acquisition of Commerzbank

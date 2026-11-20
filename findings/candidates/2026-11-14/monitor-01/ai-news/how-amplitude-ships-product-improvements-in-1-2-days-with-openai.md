@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-13-6e412a229a
 cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: how-amplitude-ships-product-improvements-in-1-2-days-with-openai
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # How Amplitude ships product improvements in 1–2 days with OpenAI

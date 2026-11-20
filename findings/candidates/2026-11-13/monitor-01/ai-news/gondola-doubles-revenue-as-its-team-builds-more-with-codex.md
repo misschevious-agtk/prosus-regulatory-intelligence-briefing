@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-185e0f046e
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: accelerating-engineering-for-the-physical-world
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_id: cluster-2026-11-13-11d234b449
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Gondola doubles revenue as its team builds more with Codex

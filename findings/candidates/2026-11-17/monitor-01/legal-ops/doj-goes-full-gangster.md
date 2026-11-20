@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-11-12-0d07ef1087
-cluster_size: 69
+cluster_id: cluster-2026-11-13-d4694d23f6
+cluster_size: 39
 cluster_role: sibling
-cluster_canonical_slug: morning-docket-11-10-26
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_canonical_slug: ken-crutchfield-is-biglaw-too-big-to-fail-are-other-firms-vulnerable-a
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # DOJ Goes Full Gangster

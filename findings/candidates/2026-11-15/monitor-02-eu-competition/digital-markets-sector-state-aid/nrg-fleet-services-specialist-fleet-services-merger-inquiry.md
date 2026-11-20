@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-12-d8aa5da1d4
-cluster_size: 24
+cluster_id: cluster-2026-11-13-096b62eb38
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: sky-itv-merger-inquiry
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # NRG Fleet Services / Specialist Fleet Services merger inquiry

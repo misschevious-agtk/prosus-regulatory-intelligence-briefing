@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-12-e1c075fc37
-cluster_size: 6
+cluster_id: cluster-2026-11-13-a56f8340a1
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: singapore-airlines-elevates-travel-work-with-openai-technology
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Singapore Airlines elevates travel & work with OpenAI technology

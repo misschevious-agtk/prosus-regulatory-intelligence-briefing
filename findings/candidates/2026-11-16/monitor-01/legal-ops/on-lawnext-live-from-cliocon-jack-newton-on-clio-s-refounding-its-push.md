@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-16-9674e15e3d
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # On LawNext: Live from ClioCon, Jack Newton on Clio’s ‘Refounding,’ Its Push into the Courts, and Why Data Is the Only Durable Moat

@@ -17,7 +17,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-17-9fb29f3c6d
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Legal Ethics Roundup: Solo Lawyer Well-Being Paradox, Habba Ethics Complaint, Judge Removed, Plagiarism In Judicial Application, Billable Hour Shake-Up, AI Sanctions & More

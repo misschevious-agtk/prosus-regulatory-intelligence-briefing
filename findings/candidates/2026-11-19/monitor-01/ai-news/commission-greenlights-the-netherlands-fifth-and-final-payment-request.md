@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-19-144562fc58
-cluster_size: 2
+cluster_id: cluster-2026-11-16-3d69b0f378
+cluster_size: 134
 cluster_role: sibling
-cluster_canonical_slug: commission-greenlights-the-netherlands-fifth-and-final-payment-request
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_canonical_slug: commission-partially-greenlights-romania-s-fifth-payment-request-for-2
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Commission greenlights the Netherlands' fifth and final payment request for €1.7 billion under NextGenerationEU

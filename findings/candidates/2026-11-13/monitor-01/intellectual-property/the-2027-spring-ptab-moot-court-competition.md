@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-23c4fdb7a9
-cluster_size: 6
-cluster_role: sibling
-cluster_canonical_slug: the-2027-spring-ptab-moot-court-competition
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_id: cluster-2026-11-13-3df16e8764
+cluster_size: 5
+cluster_role: canonical
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # The 2027 Spring PTAB Moot Court Competition

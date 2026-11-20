@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-9610f24479
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-jud
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_id: cluster-2026-11-13-9cd2075b2d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # House Opts To Stall Hegseth Impeachment Vote, Sending Resolution To Judiciary Committee

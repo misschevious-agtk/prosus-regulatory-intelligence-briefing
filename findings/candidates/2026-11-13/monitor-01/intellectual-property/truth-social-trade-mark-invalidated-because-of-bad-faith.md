@@ -20,11 +20,10 @@ entities:
   jurisdiction: EU
   matched_alias: EUIPO
 case_numbers: []
-cluster_id: cluster-2026-11-12-e5009f68e2
+cluster_id: cluster-2026-11-13-53f55d0063
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: truth-social-trade-mark-invalidated-because-of-bad-faith
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # “Truth Social” trade mark invalidated because of bad faith

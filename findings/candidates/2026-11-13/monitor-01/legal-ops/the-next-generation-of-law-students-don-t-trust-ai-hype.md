@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-13-28c7b4a906
 cluster_size: 8
 cluster_role: canonical
-ranked_at: '2026-11-19T16:20:21+00:00'
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # The Next Generation Of Law Students Don’t Trust AI Hype

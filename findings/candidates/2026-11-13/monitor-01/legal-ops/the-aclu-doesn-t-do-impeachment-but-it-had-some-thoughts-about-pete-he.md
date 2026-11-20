@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-0d07ef1087
-cluster_size: 69
-cluster_role: sibling
-cluster_canonical_slug: morning-docket-11-10-26
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_id: cluster-2026-11-13-13cf3c1eed
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # The ACLU Doesn’t Do Impeachment, But It Had Some Thoughts About Pete Hegseth

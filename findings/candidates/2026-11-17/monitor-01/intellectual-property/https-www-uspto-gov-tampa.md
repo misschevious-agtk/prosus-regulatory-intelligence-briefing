@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-12-2f51daecb4
+cluster_id: cluster-2026-11-13-b0cfa39699
 cluster_size: 14
 cluster_role: sibling
-cluster_canonical_slug: tampa-community-engagement-office
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_canonical_slug: https-www-uspto-gov-tampa
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # https://www.uspto.gov/Tampa

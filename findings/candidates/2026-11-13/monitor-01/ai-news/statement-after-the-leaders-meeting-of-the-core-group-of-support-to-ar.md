@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-12-1a6d4ba717
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: statement-after-the-leaders-meeting-of-the-core-group-of-support-to-ar
-ranked_at: '2026-11-19T16:20:21+00:00'
+cluster_id: cluster-2026-11-13-9d535b27b6
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-20T15:57:49+00:00'
 ---
 
 # Statement after the Leaders Meeting of the Core Group of Support to Armenia

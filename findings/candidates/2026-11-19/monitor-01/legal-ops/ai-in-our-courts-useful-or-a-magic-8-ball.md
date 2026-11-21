@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-18-ff57166748
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: ai-in-our-courts-useful-or-a-magic-8-ball
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # AI In Our Courts: Useful Or A Magic 8 Ball?

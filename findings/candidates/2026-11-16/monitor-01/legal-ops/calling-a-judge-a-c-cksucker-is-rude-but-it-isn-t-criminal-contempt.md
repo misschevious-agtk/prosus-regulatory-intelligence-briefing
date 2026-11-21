@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-d4694d23f6
-cluster_size: 39
+cluster_id: cluster-2026-11-14-94765d9a71
+cluster_size: 21
 cluster_role: sibling
-cluster_canonical_slug: ken-crutchfield-is-biglaw-too-big-to-fail-are-other-firms-vulnerable-a
-ranked_at: '2026-11-20T15:57:49+00:00'
+cluster_canonical_slug: judge-bars-doj-lawyer-from-case-threatens-default-judgment-over-delibe
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Calling A Judge A ‘C*cksucker’ Is Rude, But It Isn’t Criminal Contempt

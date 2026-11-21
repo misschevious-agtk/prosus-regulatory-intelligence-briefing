@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-17-9cbcd68fa7
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: why-everything-looks-chaotic-from-the-gc-s-desk
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Why Everything Looks Chaotic From The GC’s Desk

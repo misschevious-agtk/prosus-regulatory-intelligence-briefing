@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: EPO
 case_numbers: []
-cluster_id: cluster-2026-11-13-303b9475bd
-cluster_size: 172
+cluster_id: cluster-2026-11-14-fad3872789
+cluster_size: 211
 cluster_role: sibling
-cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-20T15:57:49+00:00'
+cluster_canonical_slug: guest-post-are-the-german-upc-local-divisions-the-new-eastern-district
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # The Great Outlook Apocalypse of 2026 - Did you survive?

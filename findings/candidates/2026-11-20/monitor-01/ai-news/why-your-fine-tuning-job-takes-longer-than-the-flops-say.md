@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-19-f0c05665b3
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: why-your-fine-tuning-job-takes-longer-than-the-flops-say
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Why your fine-tuning job takes longer than the FLOPs say

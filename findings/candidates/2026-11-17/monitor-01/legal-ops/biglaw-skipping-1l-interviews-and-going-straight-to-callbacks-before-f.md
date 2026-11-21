@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-17-46850e6906
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Biglaw Skipping 1L Interviews And Going Straight To Callbacks Before First-Semester Exams

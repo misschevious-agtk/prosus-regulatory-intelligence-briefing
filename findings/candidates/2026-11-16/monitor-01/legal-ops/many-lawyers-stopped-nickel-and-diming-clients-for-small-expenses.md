@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-14-7a588e42f3
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: many-lawyers-stopped-nickel-and-diming-clients-for-small-expenses
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Many Lawyers Stopped Nickel-And-Diming Clients For Small Expenses

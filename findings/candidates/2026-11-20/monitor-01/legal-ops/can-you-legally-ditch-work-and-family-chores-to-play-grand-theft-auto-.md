@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-19-0fbe5de555
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: can-you-legally-ditch-work-and-family-chores-to-play-grand-theft-auto-
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Can You Legally Ditch Work And Family Chores To Play ‘Grand Theft Auto VI’ In Peace?

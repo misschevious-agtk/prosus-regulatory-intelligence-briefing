@@ -21,11 +21,10 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-13-303b9475bd
-cluster_size: 172
-cluster_role: sibling
-cluster_canonical_slug: the-director-returns-ipr-merits-to-the-ptab
-ranked_at: '2026-11-20T15:57:49+00:00'
+cluster_id: cluster-2026-11-14-085722ab37
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # The Director Returns IPR Merits to the PTAB

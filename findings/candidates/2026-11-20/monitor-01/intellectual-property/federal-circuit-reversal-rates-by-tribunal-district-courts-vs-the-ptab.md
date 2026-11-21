@@ -17,10 +17,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-16-0a0bbfe0de
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: federal-circuit-reversal-rates-by-tribunal-district-courts-vs-the-ptab
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Federal Circuit Reversal Rates by Tribunal: District Courts vs. the PTAB

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-df6fdd7446
+cluster_id: cluster-2026-11-14-d6b904edf2
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: harvey-now-connects-to-legal-research-platform-midpage-through-an-mcp-
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-e015c9f500
-cluster_size: 4
+cluster_id: cluster-2026-11-14-f31aae6606
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: judge-richard-posner-the-model-of-a-scholarly-jurist-dies-at-87
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Judge Richard Posner, The Model Of A Scholarly Jurist, Dies At 87

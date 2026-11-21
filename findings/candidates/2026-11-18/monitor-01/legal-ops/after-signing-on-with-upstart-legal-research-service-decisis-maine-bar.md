@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-ac57d7bb5f
+cluster_id: cluster-2026-11-14-434e58f70d
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: after-signing-on-with-upstart-legal-research-service-decisis-maine-bar
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # After Signing On with Upstart Legal Research Service Decisis, Maine Bar Switches to Clio Library

@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-18-58bc5bc485
-cluster_size: 9
+cluster_size: 10
 cluster_role: canonical
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Where Should AI Expertise Live In Legal?

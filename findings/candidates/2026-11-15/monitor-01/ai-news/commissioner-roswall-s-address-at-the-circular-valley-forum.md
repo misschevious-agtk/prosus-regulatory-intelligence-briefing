@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-13-52db6019ae
-cluster_size: 6
+cluster_id: cluster-2026-11-14-158350e8d7
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: commissioner-roswall-s-address-at-the-circular-valley-forum
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Commissioner Roswall's address at the Circular Valley Forum

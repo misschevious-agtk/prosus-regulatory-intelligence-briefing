@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-13-653a5e1d17
-cluster_size: 11
+cluster_id: cluster-2026-11-14-2ab99e54e5
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: outils-de-rejeu-de-session-la-cnil-publie-sa-recommandation-pour-guide
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Recherches internes : quelles sont les obligations pour les professionnels de santé ?

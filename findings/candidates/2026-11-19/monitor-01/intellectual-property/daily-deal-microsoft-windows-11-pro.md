@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-19-b6c89ac62f
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Daily Deal: Microsoft Windows 11 Pro

@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-17-31e9f98708
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Texas U.S. Attorney Answers Bar Complaint With Promise To Pursue Even MORE Obstruction

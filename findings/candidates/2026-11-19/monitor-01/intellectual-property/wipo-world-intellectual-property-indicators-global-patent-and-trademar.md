@@ -21,10 +21,10 @@ entities:
   matched_alias: WIPO
 case_numbers: []
 cluster_id: cluster-2026-11-18-5f77586f85
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: wipo-world-intellectual-property-indicators-global-patent-and-trademar
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # WIPO World Intellectual Property Indicators: Global Patent and Trademark Filings Hit Record High; India Crosses 100,000 Annual Patent Application Mark

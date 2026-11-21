@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-aa13c9bac5
-cluster_size: 4
+cluster_id: cluster-2026-11-14-14cd03f0a0
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-latest-ai-incentive-for-associates-comes-with-a-1-million-pri
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Biglaw’s Latest AI Incentive For Associates Comes With A $1 Million Prize Pot

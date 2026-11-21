@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-17-945af759bf
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # AAA Expands Its AI Arbitrator to Handle A Variety of Business-to-Business Disputes

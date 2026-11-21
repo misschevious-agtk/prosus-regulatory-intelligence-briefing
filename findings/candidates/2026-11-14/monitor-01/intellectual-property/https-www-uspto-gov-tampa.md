@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-b0cfa39699
-cluster_size: 14
-cluster_role: sibling
-cluster_canonical_slug: https-www-uspto-gov-tampa
-ranked_at: '2026-11-20T15:57:49+00:00'
+cluster_id: cluster-2026-11-14-5be436c0a8
+cluster_size: 13
+cluster_role: canonical
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # https://www.uspto.gov/Tampa

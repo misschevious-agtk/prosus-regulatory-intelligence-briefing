@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-18-8a7a3cccb2
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: shotgun-approach-to-functional-claiming-fatal-to-rna-editing-claims-in
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # "Shotgun approach" to functional claiming fatal to RNA editing claims in Australia

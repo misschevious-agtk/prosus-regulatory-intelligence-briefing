@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-19-951f877340
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: work-life-integration-for-lawyers-who-want-their-time-back
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # Work-Life Integration For Lawyers Who Want Their Time Back

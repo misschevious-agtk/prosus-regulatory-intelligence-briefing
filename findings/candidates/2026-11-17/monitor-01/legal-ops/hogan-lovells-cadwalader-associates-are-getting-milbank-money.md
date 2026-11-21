@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-17-5c75bb1031
-cluster_size: 32
-cluster_role: canonical
-ranked_at: '2026-11-20T15:57:49+00:00'
+cluster_id: cluster-2026-11-14-fad3872789
+cluster_size: 211
+cluster_role: sibling
+ranked_at: '2026-11-21T15:07:52+00:00'
+cluster_canonical_slug: guest-post-are-the-german-upc-local-divisions-the-new-eastern-district
 ---
 
 # Hogan Lovells Cadwalader Associates Are Getting Milbank Money

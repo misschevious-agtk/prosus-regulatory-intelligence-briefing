@@ -18,11 +18,11 @@ entities:
   jurisdiction: INT
   matched_alias: WIPO
 case_numbers: []
-cluster_id: cluster-2026-11-13-eb7b184925
+cluster_id: cluster-2026-11-14-64d558ddf8
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: wipo-names-charleroi-liverpool-and-shanghai-as-first-city-of-innovatio
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # WIPO Names Charleroi, Liverpool and Shanghai as First “City of Innovation” Award Winners

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-d0de09d3b1
-cluster_size: 4
+cluster_id: cluster-2026-11-14-5922d32b46
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: in-biglaw-second-place-is-still-pretty-big
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # In Biglaw, Second Place Is Still Pretty Big

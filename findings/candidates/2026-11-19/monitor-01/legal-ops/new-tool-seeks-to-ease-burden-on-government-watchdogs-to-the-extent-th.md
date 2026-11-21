@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-18-66585c7b71
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: new-tool-seeks-to-ease-burden-on-government-watchdogs-to-the-extent-th
-ranked_at: '2026-11-20T15:57:49+00:00'
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # New Tool Seeks To Ease Burden On Government Watchdogs (To The Extent They Exist Anymore)

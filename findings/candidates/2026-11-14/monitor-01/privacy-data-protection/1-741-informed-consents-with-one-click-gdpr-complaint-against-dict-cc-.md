@@ -17,11 +17,10 @@ match_count: 5
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-13-b748d80814
+cluster_id: cluster-2026-11-14-c52d36cf0c
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: 1-741-informed-consents-with-one-click-gdpr-complaint-against-dict-cc-
-ranked_at: '2026-11-20T15:57:49+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-21T15:07:52+00:00'
 ---
 
 # 1,741 “informed” consents with one click?! GDPR complaint against dict.cc filed

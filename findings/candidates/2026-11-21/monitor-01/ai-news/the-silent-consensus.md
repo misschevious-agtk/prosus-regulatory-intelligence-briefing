@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-11-19-3fd7677874
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-silent-consensus
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # The Silent Consensus

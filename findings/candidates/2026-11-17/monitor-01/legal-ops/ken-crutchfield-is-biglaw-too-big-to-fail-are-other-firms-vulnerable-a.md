@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-089f65ede6
+cluster_id: cluster-2026-11-15-7d50e8a03d
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: ken-crutchfield-is-biglaw-too-big-to-fail-are-other-firms-vulnerable-a
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Ken Crutchfield: Is BigLaw Too Big To Fail? Are Other Firms Vulnerable After the Weil Wind-Down?

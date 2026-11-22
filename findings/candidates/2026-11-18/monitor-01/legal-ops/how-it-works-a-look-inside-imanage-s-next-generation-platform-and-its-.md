@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-17-6b4f9641b1
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: how-it-works-a-look-inside-imanage-s-next-generation-platform-and-its-
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # How It Works: A Look Inside iManage’s Next-Generation Platform and Its New AI Capabilities

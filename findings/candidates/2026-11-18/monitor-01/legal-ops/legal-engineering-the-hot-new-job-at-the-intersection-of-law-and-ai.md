@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-18-58bc5bc485
-cluster_size: 10
+cluster_size: 11
 cluster_role: sibling
 cluster_canonical_slug: where-should-ai-expertise-live-in-legal
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Legal Engineering: The Hot New Job At The Intersection Of Law And AI

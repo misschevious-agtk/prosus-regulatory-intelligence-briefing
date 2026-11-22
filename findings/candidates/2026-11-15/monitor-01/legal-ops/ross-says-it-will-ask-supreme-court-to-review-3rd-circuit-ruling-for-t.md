@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-cbc0805cb4
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-t
-ranked_at: '2026-11-21T15:07:52+00:00'
+cluster_id: cluster-2026-11-15-2d302a23e8
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case

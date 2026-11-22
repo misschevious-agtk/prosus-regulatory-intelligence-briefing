@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-16-951643ae25
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # 62 Organizations Call On Congress To Advance 4 Medicare Reforms

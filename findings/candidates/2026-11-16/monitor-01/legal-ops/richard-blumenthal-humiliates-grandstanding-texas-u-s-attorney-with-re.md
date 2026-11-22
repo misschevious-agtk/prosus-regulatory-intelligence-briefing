@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-94765d9a71
-cluster_size: 21
+cluster_id: cluster-2026-11-15-2cf7cab972
+cluster_size: 15
 cluster_role: sibling
 cluster_canonical_slug: judge-bars-doj-lawyer-from-case-threatens-default-judgment-over-delibe
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Richard Blumenthal Humiliates Grandstanding Texas U.S. Attorney With Remedial Constitutional Law Lesson

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-ae2512a92c
-cluster_size: 10
+cluster_id: cluster-2026-11-15-413c9d7e36
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: morning-docket-11-12-26
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # A Milbank Match Is Coming For Associates At This Biglaw Firm — In February

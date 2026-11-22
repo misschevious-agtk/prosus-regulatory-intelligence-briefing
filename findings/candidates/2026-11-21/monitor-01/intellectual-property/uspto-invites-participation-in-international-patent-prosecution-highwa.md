@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-14-fad3872789
-cluster_size: 211
+cluster_id: cluster-2026-11-15-c08806e9da
+cluster_size: 223
 cluster_role: sibling
 cluster_canonical_slug: guest-post-are-the-german-upc-local-divisions-the-new-eastern-district
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # USPTO invites participation in international Patent Prosecution Highway (PPH) User Survey

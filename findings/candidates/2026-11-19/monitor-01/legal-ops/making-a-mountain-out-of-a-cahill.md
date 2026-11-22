@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-19-c272c3447c
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Making A Mountain Out Of A Cahill?

@@ -18,11 +18,10 @@ entities:
   jurisdiction: US
   matched_alias: Anthropic
 case_numbers: []
-cluster_id: cluster-2026-11-14-51b44e4a80
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: claude-on-anthropic-ipo-pressure-to-monetize-legal-vertical
-ranked_at: '2026-11-21T15:07:52+00:00'
+cluster_id: cluster-2026-11-15-b9a0be836c
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Claude on Anthropic IPO – ‘Pressure to Monetize Legal Vertical’

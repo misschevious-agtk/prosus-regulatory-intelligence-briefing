@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-19-8e579d1866
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: in-naming-its-new-ai-head-litera-turns-to-a-proven-insider-and-shares-
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # In Naming Its New AI Head, Litera Turns To A Proven Insider — and Shares the Metrics to Back It Up

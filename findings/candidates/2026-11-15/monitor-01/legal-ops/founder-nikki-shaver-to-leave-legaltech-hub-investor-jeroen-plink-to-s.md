@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-e42a781d64
+cluster_id: cluster-2026-11-15-b03ed1e0cd
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: founder-nikki-shaver-to-leave-legaltech-hub-investor-jeroen-plink-to-s
-ranked_at: '2026-11-21T15:07:52+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Founder Nikki Shaver to Leave Legaltech Hub, Investor Jeroen Plink to Step In, Announces Strategic Partnership with Baretz+Brunelle

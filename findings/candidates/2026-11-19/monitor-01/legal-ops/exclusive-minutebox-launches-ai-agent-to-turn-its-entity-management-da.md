@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-17-41d4c4b67d
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: exclusive-minutebox-launches-ai-agent-to-turn-its-entity-management-da
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Exclusive: MinuteBox Launches AI Agent to Turn Its Entity Management Database Into a ‘System of Work’

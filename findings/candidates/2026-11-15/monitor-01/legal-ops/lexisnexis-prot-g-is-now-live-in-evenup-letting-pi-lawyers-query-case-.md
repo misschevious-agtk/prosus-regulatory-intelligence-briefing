@@ -14,11 +14,10 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-44f9248f9b
+cluster_id: cluster-2026-11-15-fdc02e0b6a
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: lexisnexis-prot-g-is-now-live-in-evenup-letting-pi-lawyers-query-case-
-ranked_at: '2026-11-21T15:07:52+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records

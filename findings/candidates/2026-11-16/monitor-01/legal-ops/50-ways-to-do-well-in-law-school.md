@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-96a01272f2
-cluster_size: 3
+cluster_id: cluster-2026-11-15-1f76600ae1
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: 50-ways-to-do-well-in-law-school
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # 50 Ways To Do Well In Law School

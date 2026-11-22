@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-17-f96690a553
-cluster_size: 5
+cluster_size: 6
 cluster_role: canonical
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Rule 60(d) Independent Actions and the Conversion of Merits Into Jurisdiction

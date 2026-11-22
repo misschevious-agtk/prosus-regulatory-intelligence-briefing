@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-16-3d9da94fde
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: discurso-da-comiss-ria-albuquerque-no-iv-f-rum-da-gest-o-de-ativos-e-d
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Discurso da Comissária Albuquerque no IV Fórum da Gestão de Ativos e dos Fundos de Pensões (APFIPP)

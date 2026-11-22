@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-14-2571ec445d
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: franklin-templeton-uses-openai-to-support-investment-research
-ranked_at: '2026-11-21T15:07:52+00:00'
+cluster_id: cluster-2026-11-15-51b3437604
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Franklin Templeton uses OpenAI to support investment research

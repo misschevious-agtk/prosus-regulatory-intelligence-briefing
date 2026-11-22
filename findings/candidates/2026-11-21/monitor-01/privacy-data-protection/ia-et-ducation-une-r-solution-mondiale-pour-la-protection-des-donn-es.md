@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-11-17-f1774590ff
-cluster_size: 14
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: la-cnil-a-prononc-38-nouvelles-sanctions-en-proc-dure-simplifi-e-depui
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # IA et éducation : une résolution mondiale pour la protection des données

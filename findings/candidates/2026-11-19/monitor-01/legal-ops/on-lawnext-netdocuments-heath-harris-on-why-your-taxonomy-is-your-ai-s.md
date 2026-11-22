@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-18-4e32d8eba0
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: on-lawnext-netdocuments-heath-harris-on-why-your-taxonomy-is-your-ai-s
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # On LawNext: NetDocuments’ Heath Harris on Why Your Taxonomy Is Your AI Strategy and Why, in the End, the Data Wins

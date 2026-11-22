@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-20-d424555d16
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: handling-the-holidays-as-a-young-lawyer
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Handling The Holidays As A Young Lawyer

@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-21-0d48448502
-cluster_size: 2
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Statement by President von der Leyen on the assassination attempt against a US-Ukrainian citizen in Denmark

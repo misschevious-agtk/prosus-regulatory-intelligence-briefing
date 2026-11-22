@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-d77b82b24e
-cluster_size: 23
+cluster_id: cluster-2026-11-15-7f15313b19
+cluster_size: 22
 cluster_role: sibling
 cluster_canonical_slug: visiting-judges-return-to-the-federal-circuit
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Don’t Get Me Started: High Cost of a Lopsided Bench

@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-ad2daed87b
-cluster_size: 3
+cluster_id: cluster-2026-11-15-454975df6a
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: dems-oppose-brendan-carr-s-efforts-to-rush-the-appointment-of-a-lackey
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Dems Oppose Brendan Carr’s Efforts To Rush The Appointment Of A Lackey To FCC, Promise New Year Investigations Into Carr

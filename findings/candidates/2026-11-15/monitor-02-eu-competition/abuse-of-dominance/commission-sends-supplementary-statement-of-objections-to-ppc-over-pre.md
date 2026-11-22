@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-14-032577f67e
-cluster_size: 6
+cluster_id: cluster-2026-11-15-6c69b65f39
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: commission-sends-supplementary-statement-of-objections-to-ppc-over-pre
-ranked_at: '2026-11-21T15:07:52+00:00'
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market

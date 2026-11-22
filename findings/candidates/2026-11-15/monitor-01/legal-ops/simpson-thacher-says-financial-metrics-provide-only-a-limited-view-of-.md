@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-14-0acca3c6c6
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: simpson-thacher-says-financial-metrics-provide-only-a-limited-view-of-
-ranked_at: '2026-11-21T15:07:52+00:00'
+cluster_id: cluster-2026-11-15-ee0144f5d8
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-22T15:06:28+00:00'
 ---
 
 # Simpson Thacher Says Financial Metrics Provide ‘Only A Limited View’ Of A Firm, So Now You Get No View At All

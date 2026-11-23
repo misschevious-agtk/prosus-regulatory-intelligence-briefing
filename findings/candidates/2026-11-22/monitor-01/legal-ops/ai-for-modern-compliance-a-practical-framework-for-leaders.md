@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-21-0f60817d58
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ai-for-modern-compliance-a-practical-framework-for-leaders
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # AI For Modern Compliance: A Practical Framework For Leaders

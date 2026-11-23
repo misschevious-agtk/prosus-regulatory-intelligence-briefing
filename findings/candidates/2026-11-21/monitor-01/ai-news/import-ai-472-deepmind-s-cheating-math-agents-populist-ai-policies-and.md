@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-15-00e90b6bdc
-cluster_size: 8
+cluster_id: cluster-2026-11-16-b7a61c1f78
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: import-ai-472-deepmind-s-cheating-math-agents-populist-ai-policies-and
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman

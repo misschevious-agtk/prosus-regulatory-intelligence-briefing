@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-17-0c2bec273c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: thanks-to-ai-baker-mckenzie-wants-to-break-up-with-the-billable-hour
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Thanks To AI, Baker McKenzie Wants To Break Up With The Billable Hour

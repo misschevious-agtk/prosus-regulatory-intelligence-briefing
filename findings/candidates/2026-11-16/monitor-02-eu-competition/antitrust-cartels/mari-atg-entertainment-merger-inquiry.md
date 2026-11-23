@@ -19,9 +19,9 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-16-8efc13b531
-cluster_size: 238
+cluster_size: 274
 cluster_role: canonical
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Mari / ATG Entertainment merger inquiry

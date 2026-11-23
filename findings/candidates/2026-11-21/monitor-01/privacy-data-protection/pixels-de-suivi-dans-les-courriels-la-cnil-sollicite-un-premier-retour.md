@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-11-17-f1774590ff
-cluster_size: 19
+cluster_size: 24
 cluster_role: sibling
 cluster_canonical_slug: la-cnil-a-prononc-38-nouvelles-sanctions-en-proc-dure-simplifi-e-depui
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation

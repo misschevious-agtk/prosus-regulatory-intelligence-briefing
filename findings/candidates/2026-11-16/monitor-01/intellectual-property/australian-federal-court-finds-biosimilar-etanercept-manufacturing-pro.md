@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: FCA
 case_numbers: []
-cluster_id: cluster-2026-11-15-81aa09c3d4
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: australian-federal-court-finds-biosimilar-etanercept-manufacturing-pro
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_id: cluster-2026-11-16-4980d80da7
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Australian Federal Court finds biosimilar etanercept manufacturing processes do not infringe Pfizer's ENBREL process patent

@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-21-ab11f616a8
-cluster_size: 2
+cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # The Failure To Protect Our Soldiers

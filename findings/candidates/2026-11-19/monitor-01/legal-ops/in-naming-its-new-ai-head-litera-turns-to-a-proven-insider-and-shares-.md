@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-19-8e579d1866
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # In Naming Its New AI Head, Litera Turns To A Proven Insider — and Shares the Metrics to Back It Up

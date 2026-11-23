@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-15-7f15313b19
-cluster_size: 22
+cluster_id: cluster-2026-11-16-67f29e4248
+cluster_size: 19
 cluster_role: sibling
 cluster_canonical_slug: visiting-judges-return-to-the-federal-circuit
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # The Wait for Oral Argument at the Federal Circuit

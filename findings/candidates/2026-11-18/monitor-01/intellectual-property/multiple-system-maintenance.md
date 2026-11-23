@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-15-c08806e9da
-cluster_size: 223
+cluster_id: cluster-2026-11-16-0a1963a937
+cluster_size: 105
 cluster_role: sibling
-cluster_canonical_slug: guest-post-are-the-german-upc-local-divisions-the-new-eastern-district
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_canonical_slug: uspto-announces-additions-to-solicitor-s-office
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Multiple System Maintenance

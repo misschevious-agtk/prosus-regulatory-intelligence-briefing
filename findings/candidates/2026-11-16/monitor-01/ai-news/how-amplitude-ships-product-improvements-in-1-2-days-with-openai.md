@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-15-3e624121ea
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: how-amplitude-ships-product-improvements-in-1-2-days-with-openai
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_id: cluster-2026-11-16-5f68fa173e
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # How Amplitude ships product improvements in 1–2 days with OpenAI

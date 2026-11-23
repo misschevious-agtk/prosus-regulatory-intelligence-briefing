@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-17-46850e6906
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: biglaw-skipping-1l-interviews-and-going-straight-to-callbacks-before-f
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Biglaw Skipping 1L Interviews And Going Straight To Callbacks Before First-Semester Exams

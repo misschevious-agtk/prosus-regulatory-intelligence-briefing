@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-18-58bc5bc485
-cluster_size: 11
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: where-should-ai-expertise-live-in-legal
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # An Interview With David Pogue: AI Will Change A Lot. We’ll Cope.

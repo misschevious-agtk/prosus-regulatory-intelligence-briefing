@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-21-0d48448502
-cluster_size: 4
+cluster_id: cluster-2026-11-16-3d69b0f378
+cluster_size: 144
 cluster_role: sibling
-cluster_canonical_slug: statement-by-president-von-der-leyen-on-the-assassination-attempt-agai
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_canonical_slug: commission-partially-greenlights-romania-s-fifth-payment-request-for-2
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Statement by President von der Leyen on the assassination attempt against a US-Ukrainian citizen in Denmark

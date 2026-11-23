@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-11-15-a0dc8efec5
+cluster_id: cluster-2026-11-16-dbc8e4409e
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: pay-for-hugging-face-hub-with-your-google-cloud-account
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Pay for Hugging Face Hub with your Google Cloud Account

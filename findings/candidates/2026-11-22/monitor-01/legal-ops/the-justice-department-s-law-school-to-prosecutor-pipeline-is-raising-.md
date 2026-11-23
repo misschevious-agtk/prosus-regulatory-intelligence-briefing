@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-20-01c809e629
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-justice-department-s-law-school-to-prosecutor-pipeline-is-raising-
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # The Justice Department’s Law School-To-Prosecutor Pipeline Is Raising Alarms

@@ -22,7 +22,7 @@ case_numbers:
 cluster_id: cluster-2026-11-16-06f8d2f0d7
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Beyond the federation's walls: ROGON, third parties and the maturing of the Meca-Medina/Wouters doctrine

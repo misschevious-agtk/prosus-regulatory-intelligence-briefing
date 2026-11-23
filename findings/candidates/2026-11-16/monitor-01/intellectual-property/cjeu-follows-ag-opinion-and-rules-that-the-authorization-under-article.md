@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: CJEU
 case_numbers: []
-cluster_id: cluster-2026-11-15-c08806e9da
-cluster_size: 223
-cluster_role: sibling
-cluster_canonical_slug: guest-post-are-the-german-upc-local-divisions-the-new-eastern-district
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_id: cluster-2026-11-16-9f2c91fe7b
+cluster_size: 8
+cluster_role: canonical
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # CJEU follows AG Opinion and rules that the authorization under Article 17(1) of the DSM Directive also covers acts of reproduction

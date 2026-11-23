@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-21-7943723ae9
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: firms-want-ai-to-save-hours-clients-want-ai-to-save-dollars-they-aren-
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Firms Want AI To Save Hours, Clients Want AI To Save Dollars — They Aren’t The Same Number

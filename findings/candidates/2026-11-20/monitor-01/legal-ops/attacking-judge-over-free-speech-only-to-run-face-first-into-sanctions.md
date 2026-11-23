@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-20-2570df2fc5
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Attacking Judge Over Free Speech Only To Run Face First Into Sanctions Is Perfect Metaphor For LSU Football

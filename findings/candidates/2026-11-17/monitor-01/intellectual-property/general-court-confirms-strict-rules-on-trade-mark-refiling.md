@@ -26,11 +26,11 @@ entities:
 case_numbers:
 - scheme: EU General Court
   citation: T-541/25
-cluster_id: cluster-2026-11-15-98eebb2930
-cluster_size: 3
+cluster_id: cluster-2026-11-16-4babfee5e2
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: general-court-confirms-strict-rules-on-trade-mark-refiling
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # General Court confirms strict rules on trade mark refiling

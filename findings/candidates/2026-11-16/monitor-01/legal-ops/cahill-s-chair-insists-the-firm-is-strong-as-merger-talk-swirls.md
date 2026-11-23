@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-15-b6868ed04e
-cluster_size: 3
-cluster_role: sibling
-cluster_canonical_slug: cahill-s-chair-insists-the-firm-is-strong-as-merger-talk-swirls
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_id: cluster-2026-11-16-eaa21afb82
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Cahill’s Chair Insists The Firm Is ‘Strong’ As Merger Talk Swirls

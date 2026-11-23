@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-19-31086fbd3b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: where-lawyers-got-the-word-boilerplate
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Where Lawyers Got The Word ‘Boilerplate’

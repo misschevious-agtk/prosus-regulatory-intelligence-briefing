@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-15-c121900398
-cluster_size: 11
-cluster_role: sibling
-cluster_canonical_slug: self-citation-in-federal-circuit-opinions
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_id: cluster-2026-11-16-cf1a57a745
+cluster_size: 4
+cluster_role: canonical
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # CAFC Citation History

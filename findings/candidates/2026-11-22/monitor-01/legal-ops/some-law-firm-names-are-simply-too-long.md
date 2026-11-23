@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-21-309fe7f655
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: some-law-firm-names-are-simply-too-long
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Some Law Firm Names Are Simply Too Long

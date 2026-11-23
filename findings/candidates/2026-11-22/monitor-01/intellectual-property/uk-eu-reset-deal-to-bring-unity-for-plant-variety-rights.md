@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-20-4881e622cc
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: uk-eu-reset-deal-to-bring-unity-for-plant-variety-rights
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # UK-EU reset deal to bring unity for plant variety rights

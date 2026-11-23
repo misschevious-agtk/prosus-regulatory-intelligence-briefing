@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-15-82e592a4e8
-cluster_size: 3
+cluster_id: cluster-2026-11-16-ebb35417eb
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: federalist-society-judges-list-their-hobbies-and-they-re-total-dorks
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Federalist Society Judges List Their Hobbies And They’re Total Dorks

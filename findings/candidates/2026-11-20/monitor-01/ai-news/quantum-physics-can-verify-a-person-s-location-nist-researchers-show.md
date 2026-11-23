@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-18-737b5c1027
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: quantum-physics-can-verify-a-person-s-location-nist-researchers-show
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Quantum Physics Can Verify a Person’s Location, NIST Researchers Show

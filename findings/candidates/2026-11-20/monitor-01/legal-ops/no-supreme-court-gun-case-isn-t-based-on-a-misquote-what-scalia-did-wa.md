@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-19-b0ad671d9e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: no-supreme-court-gun-case-isn-t-based-on-a-misquote-what-scalia-did-wa
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # No, Supreme Court Gun Case Isn’t Based On A ‘Misquote.’ What Scalia Did Was Way More Intellectually Dishonest

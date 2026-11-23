@@ -18,11 +18,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-15-eed628a5c9
-cluster_size: 103
-cluster_role: sibling
-cluster_canonical_slug: trainline-consumer-protection-enforcement-case
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_id: cluster-2026-11-16-a572c6e489
+cluster_size: 74
+cluster_role: canonical
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Trainline: consumer protection enforcement case

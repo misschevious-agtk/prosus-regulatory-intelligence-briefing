@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-16-3d69b0f378
-cluster_size: 142
+cluster_size: 144
 cluster_role: sibling
 cluster_canonical_slug: commission-partially-greenlights-romania-s-fifth-payment-request-for-2
-ranked_at: '2026-11-22T15:06:28+00:00'
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Commission greenlights Portugal's final payment request for €4.7 billion under NextGenerationEU

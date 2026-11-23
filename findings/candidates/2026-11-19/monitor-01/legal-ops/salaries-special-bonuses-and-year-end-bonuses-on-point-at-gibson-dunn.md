@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-15-c08806e9da
-cluster_size: 223
+cluster_id: cluster-2026-11-19-3803080f34
+cluster_size: 120
 cluster_role: sibling
-cluster_canonical_slug: guest-post-are-the-german-upc-local-divisions-the-new-eastern-district
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_canonical_slug: morning-docket-11-19-26
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # Salaries, Special Bonuses, And Year-End Bonuses On Point At Gibson Dunn

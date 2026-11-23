@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-15-56724e9093
-cluster_size: 5
-cluster_role: sibling
-cluster_canonical_slug: the-next-generation-of-law-students-don-t-trust-ai-hype
-ranked_at: '2026-11-22T15:06:28+00:00'
+cluster_id: cluster-2026-11-16-cb718c082a
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-23T19:01:57+00:00'
 ---
 
 # The Next Generation Of Law Students Don’t Trust AI Hype

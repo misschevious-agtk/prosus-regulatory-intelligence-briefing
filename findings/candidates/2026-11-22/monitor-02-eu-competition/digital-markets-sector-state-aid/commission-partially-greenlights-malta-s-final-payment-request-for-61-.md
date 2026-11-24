@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-16-3d69b0f378
-cluster_size: 144
+cluster_id: cluster-2026-11-17-a08afd2728
+cluster_size: 152
 cluster_role: sibling
-cluster_canonical_slug: commission-partially-greenlights-romania-s-fifth-payment-request-for-2
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_canonical_slug: daily-news-17-11-2026
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Commission partially greenlights Malta's final payment request for €61.7 million under NextGenerationEU

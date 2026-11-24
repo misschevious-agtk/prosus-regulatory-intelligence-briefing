@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-e83effc4da
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: ai-slop-or-novel-arguments-a-texas-judge-goes-off-the-rails
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-17-1851c11ab2
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # AI Slop Or Novel Arguments? A Texas Judge Goes Off The Rails

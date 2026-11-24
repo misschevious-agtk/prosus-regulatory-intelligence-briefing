@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-17-9cbcd68fa7
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Why Everything Looks Chaotic From The GC’s Desk

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-951643ae25
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: 62-organizations-call-on-congress-to-advance-4-medicare-reforms
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-17-54c49396f4
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # 62 Organizations Call On Congress To Advance 4 Medicare Reforms

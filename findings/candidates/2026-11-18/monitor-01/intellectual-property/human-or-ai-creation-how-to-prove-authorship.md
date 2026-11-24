@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-18-c8fbd95b06
-cluster_size: 6
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Human or AI creation? How to prove authorship

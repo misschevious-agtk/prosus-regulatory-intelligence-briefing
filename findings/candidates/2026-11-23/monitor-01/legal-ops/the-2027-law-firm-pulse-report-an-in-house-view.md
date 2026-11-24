@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-23-bed4f4392d
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # The 2027 Law Firm Pulse Report: An In-House View

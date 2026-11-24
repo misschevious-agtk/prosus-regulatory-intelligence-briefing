@@ -19,11 +19,10 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-16-dfac2305c0
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: privacy-for-kids-le-cepd-lance-une-plateforme-d-di-e-la-vie-priv-e-des
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-17-0cbc1f7e52
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Privacy for Kids : le CEPD lance une plateforme dédiée à la vie privée des enfants

@@ -18,9 +18,9 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-23-0cface09a5
-cluster_size: 1
+cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # EU Charges Temu Over Illegal Product Sales

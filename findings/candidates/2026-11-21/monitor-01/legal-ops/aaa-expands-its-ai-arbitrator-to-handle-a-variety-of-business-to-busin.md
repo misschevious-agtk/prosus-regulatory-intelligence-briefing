@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-17-945af759bf
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: aaa-expands-its-ai-arbitrator-to-handle-a-variety-of-business-to-busin
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # AAA Expands Its AI Arbitrator to Handle A Variety of Business-to-Business Disputes

@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-11-23-88e0719a2e
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: d-couvrez-les-laur-ats-du-concours-troph-es-des-classes-2026-comment-j
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Trophées des classes 2027 - Ensemble, tous protégés sur Internet !

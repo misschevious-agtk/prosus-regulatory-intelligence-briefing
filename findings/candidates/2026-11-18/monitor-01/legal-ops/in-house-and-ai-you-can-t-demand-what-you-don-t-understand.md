@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-258e8ee67b
-cluster_size: 10
+cluster_id: cluster-2026-11-19-cd4ed8ab4a
+cluster_size: 282
 cluster_role: sibling
-cluster_canonical_slug: ai-in-the-patent-industry-have-you-read-the-terms-and-conditions
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_canonical_slug: openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-rel
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # In-House And AI: You Can’t Demand What You Don’t Understand

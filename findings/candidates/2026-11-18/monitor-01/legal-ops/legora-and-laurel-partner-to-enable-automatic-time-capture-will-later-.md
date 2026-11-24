@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-5dafbaf039
-cluster_size: 3
+cluster_id: cluster-2026-11-17-de340a8c5d
+cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: legora-and-laurel-partner-to-enable-automatic-time-capture-will-later-
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Legora and Laurel Partner to Enable Automatic Time Capture; Will Later Develop Measures of Legora’s Value to Firms

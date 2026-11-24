@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-3525647cca
+cluster_id: cluster-2026-11-17-508476e5aa
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-it
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)

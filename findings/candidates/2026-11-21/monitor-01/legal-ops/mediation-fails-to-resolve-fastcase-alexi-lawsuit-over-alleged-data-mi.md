@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-17-0454b423c5
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: mediation-fails-to-resolve-fastcase-alexi-lawsuit-over-alleged-data-mi
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Mediation Fails to Resolve Fastcase-Alexi Lawsuit Over Alleged Data Misuse

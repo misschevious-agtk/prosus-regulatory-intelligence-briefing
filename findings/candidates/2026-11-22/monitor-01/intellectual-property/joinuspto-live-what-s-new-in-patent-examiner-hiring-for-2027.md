@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-20-78df1840eb
-cluster_size: 4
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: joinuspto-live-what-s-new-in-patent-examiner-hiring-for-2027
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # JoinUSPTO Live: What’s new in patent examiner hiring for 2027

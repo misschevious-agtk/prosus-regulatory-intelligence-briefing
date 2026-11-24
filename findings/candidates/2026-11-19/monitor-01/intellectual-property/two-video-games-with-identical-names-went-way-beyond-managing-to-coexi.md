@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-18-28ba6c61be
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: two-video-games-with-identical-names-went-way-beyond-managing-to-coexi
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Two Video Games With Identical Names Went Way Beyond Managing To Coexist

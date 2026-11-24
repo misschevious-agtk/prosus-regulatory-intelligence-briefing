@@ -17,11 +17,10 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-11-16-d037cc3ffc
-cluster_size: 9
-cluster_role: sibling
-cluster_canonical_slug: judge-bars-doj-lawyer-from-case-threatens-default-judgment-over-delibe
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-17-047f40118b
+cluster_size: 2
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Judge Is Done Playing Nice With DOJ Over The Broadview Six

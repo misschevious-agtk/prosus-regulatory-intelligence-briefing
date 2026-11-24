@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-16-a572c6e489
-cluster_size: 74
+cluster_id: cluster-2026-11-17-f9b44ae791
+cluster_size: 45
 cluster_role: sibling
 cluster_canonical_slug: trainline-consumer-protection-enforcement-case
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Guidance: Technology transfer agreements and competition law

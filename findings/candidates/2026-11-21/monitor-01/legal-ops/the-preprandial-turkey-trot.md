@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-20-d8464c3189
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-preprandial-turkey-trot
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # The Preprandial Turkey Trot

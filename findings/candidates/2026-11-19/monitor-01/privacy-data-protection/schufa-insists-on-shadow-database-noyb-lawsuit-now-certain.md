@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-43b48b1235
+cluster_id: cluster-2026-11-17-805e3cfb5f
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: schufa-insists-on-shadow-database-noyb-lawsuit-now-certain
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # SCHUFA insists on shadow database. noyb lawsuit now certain

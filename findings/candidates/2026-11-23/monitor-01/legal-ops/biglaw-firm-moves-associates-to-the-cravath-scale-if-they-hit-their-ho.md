@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-23-aa6c82be84
-cluster_size: 2
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-money-train-see-generally
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Biglaw Firm Moves Associates To The ‘Cravath Scale’ — If They Hit Their Hours

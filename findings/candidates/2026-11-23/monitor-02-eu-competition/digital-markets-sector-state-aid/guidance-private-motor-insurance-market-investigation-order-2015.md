@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-19-f2b8dcf9d9
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: guidance-private-motor-insurance-market-investigation-order-2015
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Guidance: Private Motor Insurance Market Investigation Order 2015

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-90879b4120
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: are-we-about-to-lose-another-major-firm-see-generally
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-17-a5bba29d8d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Are We About To Lose Another Major Firm? — See Generally

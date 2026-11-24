@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-23-de6817244d
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-approves-1-billion-slovenian-state-aid-to-support-closure-o
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Commission approves €1 billion Slovenian State aid to support closure of Premogovnik Velenje coal mine

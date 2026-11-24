@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-19-a9ef403a8a
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Our Dipshit DHS Secretary’s Outage Expert: “One Guy That’s Very Smart With Tech”

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-17-eaec8a0b17
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-rec
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Senate Appropriators Unveil $1.1T Pentagon Spending Bill, Folding In Reconciliation Priorities

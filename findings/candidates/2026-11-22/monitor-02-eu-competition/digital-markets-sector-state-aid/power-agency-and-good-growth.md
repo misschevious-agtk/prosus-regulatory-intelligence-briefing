@@ -23,7 +23,7 @@ cluster_id: cluster-2026-11-17-9813d81a75
 cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: power-agency-and-good-growth
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Power, agency and good growth

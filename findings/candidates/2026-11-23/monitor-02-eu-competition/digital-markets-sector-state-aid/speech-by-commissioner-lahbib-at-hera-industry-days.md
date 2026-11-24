@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-23-d2984fc301
-cluster_size: 2
+cluster_id: cluster-2026-11-17-a08afd2728
+cluster_size: 152
 cluster_role: sibling
-cluster_canonical_slug: speech-by-commissioner-lahbib-at-hera-industry-days
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_canonical_slug: daily-news-17-11-2026
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Speech by Commissioner Lahbib at HERA Industry Days

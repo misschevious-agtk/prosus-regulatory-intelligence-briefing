@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-19-31086fbd3b
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Where Lawyers Got The Word ‘Boilerplate’

@@ -1,0 +1,38 @@
+---
+date_found: 2026-11-24
+monitor: monitor-01
+domain: intellectual-property
+source_url: https://www.uspto.gov/about-us/events/attend-patent-center-and-docx-training-11
+source_publisher: USPTO news
+source_date: Mon, 11/09/2026 - 11:42
+source_method: rss
+title: Attend Patent Center and DOCX training
+matched_keywords:
+- patent
+- Patent
+match_count: 2
+status: candidate
+entities: []
+case_numbers: []
+cluster_id: cluster-2026-11-17-843e697837
+cluster_size: 107
+cluster_role: sibling
+cluster_canonical_slug: uspto-announces-additions-to-solicitor-s-office
+ranked_at: '2026-11-24T18:41:15+00:00'
+---
+
+# Attend Patent Center and DOCX training
+
+**Source:** [USPTO news](https://www.uspto.gov/about-us/events/attend-patent-center-and-docx-training-11)
+**Published:** Mon, 11/09/2026 - 11:42
+**Matched keywords (2):** patent, Patent
+
+## Summary excerpt
+
+This event is a must for patent applicants learning to navigate, file and retrieve their documents in Patent Center as well as file in DOCX format. We will provide information, conduct a demo, and answer any questions.
+
+---
+
+*Auto-generated candidate from `scripts/fetch_articles.py`. Review against the
+persona's `interrogation-checklist.md` before promoting to a formal finding
+under `output-schema.md`.*

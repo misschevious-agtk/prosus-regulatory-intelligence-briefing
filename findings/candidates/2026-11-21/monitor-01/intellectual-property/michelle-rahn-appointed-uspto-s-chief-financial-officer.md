@@ -18,10 +18,10 @@ entities:
   matched_alias: USPTO
 case_numbers: []
 cluster_id: cluster-2026-11-18-87eddc2d61
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: michelle-rahn-appointed-uspto-s-chief-financial-officer
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Michelle Rahn appointed USPTO's Chief Financial Officer

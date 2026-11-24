@@ -14,9 +14,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-20-256238d83e
-cluster_size: 4
+cluster_size: 5
 cluster_role: canonical
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # As ROSS Seeks to Come Back from the Dead, Clio Sues to Keep from Having to Resume Its Case Law Feed

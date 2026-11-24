@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-21-3dcdfed657
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-billable-hour-wasn-t-invented-to-make-biglaw-firms-rich
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # The Billable Hour Wasn’t Invented To Make Biglaw Firms Rich

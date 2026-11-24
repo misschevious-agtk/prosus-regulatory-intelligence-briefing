@@ -18,7 +18,7 @@ cluster_id: cluster-2026-11-17-8b38a449a2
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-end-of-copyright-locked-software
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # The End Of Copyright-Locked Software

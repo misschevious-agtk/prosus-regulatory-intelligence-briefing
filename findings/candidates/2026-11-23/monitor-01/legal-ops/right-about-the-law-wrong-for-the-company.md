@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-23-f9ee5dc6ba
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-19-cd4ed8ab4a
+cluster_size: 282
+cluster_role: sibling
+ranked_at: '2026-11-24T18:41:15+00:00'
+cluster_canonical_slug: openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-rel
 ---
 
 # Right About the Law, Wrong for the Company

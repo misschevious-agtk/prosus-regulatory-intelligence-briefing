@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-a9824c2102
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: gondola-doubles-revenue-as-its-team-builds-more-with-codex
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-17-881e9bd5b2
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Gondola doubles revenue as its team builds more with Codex

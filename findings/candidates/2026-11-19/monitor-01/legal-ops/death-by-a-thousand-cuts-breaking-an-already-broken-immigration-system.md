@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-18-d87c7ba068
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: death-by-a-thousand-cuts-breaking-an-already-broken-immigration-system
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Death By A Thousand Cuts: Breaking An Already Broken Immigration System

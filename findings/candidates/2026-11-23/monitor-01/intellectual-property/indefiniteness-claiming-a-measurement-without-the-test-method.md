@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-18-81a21a9981
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: indefiniteness-claiming-a-measurement-without-the-test-method
-ranked_at: '2026-11-23T19:01:57+00:00'
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Indefiniteness: Claiming a Measurement Without the Test Method

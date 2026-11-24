@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-cf1a57a745
-cluster_size: 4
-cluster_role: sibling
-cluster_canonical_slug: cafc-citation-history
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-17-60e07725f8
+cluster_size: 3
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # CAFC Citation History

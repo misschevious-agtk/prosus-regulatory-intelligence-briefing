@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-0aaabac72c
+cluster_id: cluster-2026-11-17-2cf1d1c689
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: self-employed-solopreneur-nist-has-a-cybersecurity-guide-just-for-you
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You

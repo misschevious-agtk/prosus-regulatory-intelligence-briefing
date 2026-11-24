@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-16-cf99643f8e
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: atl-s-legally-themed-halloween-costume-contest-the-winner-2026
-ranked_at: '2026-11-23T19:01:57+00:00'
+cluster_id: cluster-2026-11-17-4c97902920
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-24T18:41:15+00:00'
 ---
 
 # ATL’s Legally Themed Halloween Costume Contest: The Winner (2026)

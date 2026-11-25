@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-17-f15517c632
-cluster_size: 22
+cluster_id: cluster-2026-11-19-6c9075fe67
+cluster_size: 18
 cluster_role: sibling
 cluster_canonical_slug: actualit-du-cepd-ad-quation-de-la-cor-e-du-sud-versions-finales-des-bc
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # La CNIL sera présente au Salon des maires et des collectivités locales 2026

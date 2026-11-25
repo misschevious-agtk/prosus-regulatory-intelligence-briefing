@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-17-ed65343f08
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligen
-ranked_at: '2026-11-24T18:41:15+00:00'
+cluster_id: cluster-2026-11-18-ca9bc5e776
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # New SCOREalytics CEO Jennie Morawetz on Building Regulatory Intelligence Lawyers Can Rely On

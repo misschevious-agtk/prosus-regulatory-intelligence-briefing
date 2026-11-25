@@ -18,11 +18,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-23-276e0b1096
-cluster_size: 12
+cluster_id: cluster-2026-11-23-6ed6ef5e9e
+cluster_size: 75
 cluster_role: sibling
-cluster_canonical_slug: bae-systems-undertakings-review-2026
-ranked_at: '2026-11-24T18:41:15+00:00'
+cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # BAE Systems undertakings review

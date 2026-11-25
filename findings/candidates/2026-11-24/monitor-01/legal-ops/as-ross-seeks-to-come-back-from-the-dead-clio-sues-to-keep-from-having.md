@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-20-256238d83e
-cluster_size: 5
+cluster_size: 6
 cluster_role: sibling
 cluster_canonical_slug: as-ross-seeks-to-come-back-from-the-dead-clio-sues-to-keep-from-having
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # As ROSS Seeks to Come Back from the Dead, Clio Sues to Keep from Having to Resume Its Case Law Feed

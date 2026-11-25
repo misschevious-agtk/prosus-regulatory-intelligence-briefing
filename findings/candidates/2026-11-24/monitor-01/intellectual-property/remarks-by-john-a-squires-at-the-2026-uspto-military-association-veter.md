@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-17-3ed4f3f725
+cluster_id: cluster-2026-11-18-46d82f52fd
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: remarks-by-john-a-squires-at-the-2026-uspto-military-association-veter
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Remarks by John A. Squires at the 2026 USPTO Military Association Veterans Day Event

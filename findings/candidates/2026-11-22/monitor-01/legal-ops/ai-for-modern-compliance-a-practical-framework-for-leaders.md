@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-21-0f60817d58
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: ai-for-modern-compliance-a-practical-framework-for-leaders
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # AI For Modern Compliance: A Practical Framework For Leaders

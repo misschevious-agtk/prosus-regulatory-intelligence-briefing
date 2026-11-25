@@ -17,11 +17,10 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-17-f9b44ae791
-cluster_size: 45
-cluster_role: sibling
-cluster_canonical_slug: trainline-consumer-protection-enforcement-case
-ranked_at: '2026-11-24T18:41:15+00:00'
+cluster_id: cluster-2026-11-18-ff09d056ca
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Application of the Chapter I prohibition in the Competition Act 1998 to technology transfer agreements

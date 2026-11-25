@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-24-1c916eb04f
 cluster_size: 1
 cluster_role: canonical
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Nvidia Buckles To Trump Pressure, Reinstates Horny, Still Potentially Compromised CEO

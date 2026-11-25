@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-19-8dae95100b
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: nvidia-and-the-trump-administration-begin-investigating-themselves-in-
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Nvidia And The Trump Administration Begin ‘Investigating’ Themselves In Wake Of Blossoming Scandal

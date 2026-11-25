@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-20-d424555d16
 cluster_size: 3
 cluster_role: canonical
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Handling The Holidays As A Young Lawyer

@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-17-843e697837
-cluster_size: 107
+cluster_id: cluster-2026-11-18-064aee8c89
+cluster_size: 110
 cluster_role: sibling
 cluster_canonical_slug: uspto-announces-additions-to-solicitor-s-office
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # USPTO events this week and beyond

@@ -18,10 +18,10 @@ entities:
   matched_alias: EPO
 case_numbers: []
 cluster_id: cluster-2026-11-18-09963c7bcc
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: trapped-in-the-examples-escaping-intermediate-generalisations-in-pharm
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Trapped in the examples: Escaping intermediate generalisations in pharma patents

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-18-751efbdafe
 cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: nexfibre-substantial-merger-inquiry
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # nexfibre / Substantial merger inquiry

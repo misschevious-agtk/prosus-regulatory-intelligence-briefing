@@ -14,10 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-c8fbd95b06
-cluster_size: 7
-cluster_role: canonical
-ranked_at: '2026-11-24T18:41:15+00:00'
+cluster_id: cluster-2026-11-19-3803080f34
+cluster_size: 132
+cluster_role: sibling
+ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_canonical_slug: morning-docket-11-19-26
 ---
 
 # Human or AI creation? How to prove authorship

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-23-fb9e3d18cf
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: high-court-of-australia-not-too-game-on-copyright-constructive-trusts-
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # High Court of Australia not too game on copyright constructive trusts that suppress information in the public interest

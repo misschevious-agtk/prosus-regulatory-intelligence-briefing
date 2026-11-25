@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-17-73f6c6d056
-cluster_size: 10
+cluster_id: cluster-2026-11-18-a6ad4f7789
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: https-www-uspto-gov-tampa
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Tampa Community Engagement Office

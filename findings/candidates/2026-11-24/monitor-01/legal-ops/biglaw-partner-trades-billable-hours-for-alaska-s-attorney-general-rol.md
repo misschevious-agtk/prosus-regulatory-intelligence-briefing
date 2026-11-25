@@ -13,10 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-24-963ead5d38
-cluster_size: 1
-cluster_role: canonical
-ranked_at: '2026-11-24T18:41:15+00:00'
+cluster_id: cluster-2026-11-25-21cf1ab37f
+cluster_size: 3
+cluster_role: sibling
+ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_canonical_slug: alaska-tries-a-biglaw-partner-for-attorney-general-after-the-trump-pic
 ---
 
 # Biglaw Partner Trades Billable Hours For Alaska’s Attorney General Role

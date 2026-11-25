@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-19-951f877340
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Work-Life Integration For Lawyers Who Want Their Time Back

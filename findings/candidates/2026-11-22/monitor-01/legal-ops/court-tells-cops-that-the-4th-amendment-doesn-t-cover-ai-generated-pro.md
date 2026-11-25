@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-21-ef4d996bfa
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: court-tells-cops-that-the-4th-amendment-doesn-t-cover-ai-generated-pro
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Court Tells Cops That The 4th Amendment Doesn’t Cover AI-Generated ‘Probable Cause’

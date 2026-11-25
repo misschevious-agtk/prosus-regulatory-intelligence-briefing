@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-17-486aa4b1af
+cluster_id: cluster-2026-11-18-78a1f4ac76
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: image-searching-a-powerful-tool-for-finding-similar-trademarks
-ranked_at: '2026-11-24T18:41:15+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Image searching: a powerful tool for finding similar trademarks

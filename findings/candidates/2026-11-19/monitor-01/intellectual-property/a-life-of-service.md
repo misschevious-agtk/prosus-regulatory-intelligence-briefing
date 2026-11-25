@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-17-0dcdca4901
-cluster_size: 4
+cluster_id: cluster-2026-11-18-40863c9d99
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: a-life-of-service
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # A life of service

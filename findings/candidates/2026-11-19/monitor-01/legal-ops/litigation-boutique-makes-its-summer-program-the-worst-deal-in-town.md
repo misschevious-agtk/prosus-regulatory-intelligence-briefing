@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-18-b2c017ea27
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: litigation-boutique-makes-its-summer-program-the-worst-deal-in-town
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Litigation Boutique Makes Its Summer Program The Worst Deal In Town

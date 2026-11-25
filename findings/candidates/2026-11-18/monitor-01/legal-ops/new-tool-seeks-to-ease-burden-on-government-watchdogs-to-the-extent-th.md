@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-18-66585c7b71
 cluster_size: 2
 cluster_role: canonical
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # New Tool Seeks To Ease Burden On Government Watchdogs (To The Extent They Exist Anymore)

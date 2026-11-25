@@ -18,11 +18,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-17-a08afd2728
+cluster_id: cluster-2026-11-18-741b1b95ac
 cluster_size: 152
 cluster_role: sibling
-cluster_canonical_slug: daily-news-17-11-2026
-ranked_at: '2026-11-24T18:41:15+00:00'
+cluster_canonical_slug: commission-sets-up-new-eu-sanctions-office-and-appoints-new-eu-sanctio
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Commission greenlights Portugal's final payment request for €4.7 billion under NextGenerationEU

@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-11-17-fef8bf485f
-cluster_size: 26
+cluster_id: cluster-2026-11-18-1cc7608709
+cluster_size: 25
 cluster_role: sibling
 cluster_canonical_slug: who-holds-the-data-holds-the-power-paris-court-of-appeal-upholds-inter
-ranked_at: '2026-11-24T18:41:15+00:00'
+ranked_at: '2026-11-25T17:51:14+00:00'
 ---
 
 # Unfair Trading Conditions Meet AI Search: The Turkish Competition Board's Interim Measures against Google in Comparative Perspective

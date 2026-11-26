@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-3d3c8a4649
+cluster_id: cluster-2026-11-19-0ac471597a
 cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: jd-com-ceconomy-and-metro-lisbon-takeaways-from-the-commission-s-first
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Here to Stay: The EU FSR's Third Year Between Simplification and Enforcement

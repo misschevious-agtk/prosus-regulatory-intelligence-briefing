@@ -18,9 +18,9 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-11-19-3bd2cea4ca
-cluster_size: 33
+cluster_size: 37
 cluster_role: canonical
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026

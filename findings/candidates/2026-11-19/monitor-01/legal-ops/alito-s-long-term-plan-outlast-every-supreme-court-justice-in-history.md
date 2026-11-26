@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-87d992d3ad
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: alito-s-long-term-plan-outlast-every-supreme-court-justice-in-history
-ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_id: cluster-2026-11-19-e2d2aeb250
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Alito’s Long-Term Plan: Outlast Every Supreme Court Justice In History

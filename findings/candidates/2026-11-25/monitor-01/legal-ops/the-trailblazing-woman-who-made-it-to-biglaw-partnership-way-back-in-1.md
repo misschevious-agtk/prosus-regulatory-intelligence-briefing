@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-24-6ecfc0ba25
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: breaking-wall-street-s-partner-ceiling-way-back-in-1944
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # The Trailblazing Woman Who Made It To Biglaw Partnership Way Back In 1944

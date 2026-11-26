@@ -18,11 +18,10 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-18-741b1b95ac
-cluster_size: 152
-cluster_role: sibling
-ranked_at: '2026-11-25T17:51:14+00:00'
-cluster_canonical_slug: commission-sets-up-new-eu-sanctions-office-and-appoints-new-eu-sanctio
+cluster_id: cluster-2026-11-19-144562fc58
+cluster_size: 139
+cluster_role: canonical
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Commission greenlights the Netherlands' fifth and final payment request for €1.7 billion under NextGenerationEU

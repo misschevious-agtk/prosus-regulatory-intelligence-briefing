@@ -16,9 +16,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-23-6bc237fcd5
-cluster_size: 3
+cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Following the Footnotes: How Enablement Became a Question of Law

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-24-d8eab40707
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: 15-organizations-call-on-congress-to-address-abuse-of-drug-patent-syst
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # 15 Organizations Call On Congress To Address Abuse Of Drug Patent System

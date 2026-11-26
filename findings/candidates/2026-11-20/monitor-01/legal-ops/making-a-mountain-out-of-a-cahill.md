@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-19-c272c3447c
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: making-a-mountain-out-of-a-cahill
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Making A Mountain Out Of A Cahill?

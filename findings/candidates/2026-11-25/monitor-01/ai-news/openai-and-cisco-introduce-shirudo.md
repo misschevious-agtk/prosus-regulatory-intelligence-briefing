@@ -18,10 +18,10 @@ entities:
   matched_alias: OpenAI
 case_numbers: []
 cluster_id: cluster-2026-11-24-a4e05a59f9
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: openai-and-cisco-introduce-shirudo
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # OpenAI and Cisco introduce Shirudo

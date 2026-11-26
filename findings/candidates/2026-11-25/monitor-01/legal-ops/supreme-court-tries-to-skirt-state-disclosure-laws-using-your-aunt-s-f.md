@@ -19,10 +19,10 @@ entities:
   matched_alias: Facebook
 case_numbers: []
 cluster_id: cluster-2026-11-24-6b49c824f2
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: supreme-court-tries-to-skirt-state-disclosure-laws-using-your-aunt-s-f
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Supreme Court Tries To Skirt State Disclosure Laws Using Your Aunt’s Facebook Privacy Notice

@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-d965729fd1
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: david-beckham-sues-coty-over-discount-store-perfume-sales
-ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_id: cluster-2026-11-19-c73e2aca37
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # David Beckham Sues Coty Over Discount-Store Perfume Sales

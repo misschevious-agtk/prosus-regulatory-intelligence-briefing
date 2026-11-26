@@ -24,9 +24,9 @@ entities:
   matched_alias: Google
 case_numbers: []
 cluster_id: cluster-2026-11-23-6ed6ef5e9e
-cluster_size: 75
+cluster_size: 129
 cluster_role: canonical
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Google’s general search services: proposed user choice conduct requirement

@@ -18,7 +18,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-19-6c9075fe67
 cluster_size: 18
 cluster_role: canonical
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA

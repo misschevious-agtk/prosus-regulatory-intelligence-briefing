@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-20-2570df2fc5
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: attacking-judge-over-free-speech-only-to-run-face-first-into-sanctions
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Attacking Judge Over Free Speech Only To Run Face First Into Sanctions Is Perfect Metaphor For LSU Football

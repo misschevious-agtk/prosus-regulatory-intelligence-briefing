@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-19-94072fca00
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: nist-project-aims-to-accelerate-mobile-driver-s-license-adoption
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # NIST Project Aims to Accelerate Mobile Driver’s License Adoption

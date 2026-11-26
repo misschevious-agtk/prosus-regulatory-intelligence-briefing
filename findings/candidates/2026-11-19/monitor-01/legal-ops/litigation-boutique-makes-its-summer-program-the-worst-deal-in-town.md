@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-b2c017ea27
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: litigation-boutique-makes-its-summer-program-the-worst-deal-in-town
-ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_id: cluster-2026-11-19-5c487d285d
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Litigation Boutique Makes Its Summer Program The Worst Deal In Town

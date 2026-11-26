@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-23-7d2f4b7981
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: rule-17-real-party-in-interest-no-swapping-the-original-plaintiff-back
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Rule 17 Real Party in Interest: No Swapping the Original Plaintiff Back After a Tactical Substitution

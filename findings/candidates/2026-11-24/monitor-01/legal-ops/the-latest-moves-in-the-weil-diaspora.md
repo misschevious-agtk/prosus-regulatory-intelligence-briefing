@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-23-1cf822bb58
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: the-latest-moves-in-the-weil-diaspora
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # The Latest Moves In The Weil Diaspora

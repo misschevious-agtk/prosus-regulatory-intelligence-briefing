@@ -17,11 +17,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-18-741b1b95ac
-cluster_size: 152
+cluster_id: cluster-2026-11-20-8e82fcefd8
+cluster_size: 2
 cluster_role: sibling
-cluster_canonical_slug: commission-sets-up-new-eu-sanctions-office-and-appoints-new-eu-sanctio
-ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_canonical_slug: commissioner-tzitzikostas-delivers-a-video-address-at-50th-anniversary
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Commissioner Tzitzikostas delivers a video address at 50th anniversary of the Hellenic Institute of Transportation Engineers

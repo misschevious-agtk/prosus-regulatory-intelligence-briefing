@@ -16,7 +16,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-20-50e46129cf
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # The Settlement Mill Is The Part Of Personal Injury Law Nobody Wants To Talk About

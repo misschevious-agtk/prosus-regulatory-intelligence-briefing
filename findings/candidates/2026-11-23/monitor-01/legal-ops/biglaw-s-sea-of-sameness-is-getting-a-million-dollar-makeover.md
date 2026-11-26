@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-21-6199bba702
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: biglaw-s-sea-of-sameness-is-getting-a-million-dollar-makeover
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Biglaw’s ‘Sea Of Sameness’ Is Getting A Million-Dollar Makeover

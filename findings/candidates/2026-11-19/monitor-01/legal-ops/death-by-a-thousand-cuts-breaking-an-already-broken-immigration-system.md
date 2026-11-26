@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-d87c7ba068
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: death-by-a-thousand-cuts-breaking-an-already-broken-immigration-system
-ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_id: cluster-2026-11-19-7460c1c8f0
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Death By A Thousand Cuts: Breaking An Already Broken Immigration System

@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-589f9871c1
+cluster_id: cluster-2026-11-19-ce5e795ca4
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: guest-post-the-outcome-of-ukipo-s-consultation-on-changes-to-the-uk-de
-ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # [Guest post] The outcome of UKIPO’s consultation on changes to the UK designs framework

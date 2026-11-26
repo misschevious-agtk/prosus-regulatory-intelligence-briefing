@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-24-f730f7f8fe
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: sam-alito-jokes-about-ai-brain-upload-staying-on-supreme-court-forever
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Sam Alito Jokes About AI Brain Upload Staying On Supreme Court Forever

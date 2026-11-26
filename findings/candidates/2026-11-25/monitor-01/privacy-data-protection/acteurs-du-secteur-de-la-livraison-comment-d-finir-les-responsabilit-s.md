@@ -18,10 +18,10 @@ entities:
   matched_alias: CNIL
 case_numbers: []
 cluster_id: cluster-2026-11-24-b5dba22267
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: acteurs-du-secteur-de-la-livraison-comment-d-finir-les-responsabilit-s
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?

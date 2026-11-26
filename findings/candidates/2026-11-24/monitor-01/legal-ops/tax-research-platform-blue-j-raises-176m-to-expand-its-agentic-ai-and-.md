@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-58bf46ba5f
+cluster_id: cluster-2026-11-19-47beb279a1
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: tax-research-platform-blue-j-raises-176m-to-expand-its-agentic-ai-and-
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets

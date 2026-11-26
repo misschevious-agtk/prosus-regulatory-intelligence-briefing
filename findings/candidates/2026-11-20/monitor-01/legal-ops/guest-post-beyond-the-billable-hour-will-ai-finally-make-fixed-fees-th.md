@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-18-7b9772cd4e
+cluster_id: cluster-2026-11-19-4b95760177
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: guest-post-beyond-the-billable-hour-will-ai-finally-make-fixed-fees-th
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Guest Post: Beyond the Billable Hour — Will AI Finally Make Fixed Fees the Norm?

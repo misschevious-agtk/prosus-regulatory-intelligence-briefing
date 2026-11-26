@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-20-50e46129cf
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: the-settlement-mill-is-the-part-of-personal-injury-law-nobody-wants-to
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # The Settlement Mill Is The Part Of Personal Injury Law Nobody Wants To Talk About

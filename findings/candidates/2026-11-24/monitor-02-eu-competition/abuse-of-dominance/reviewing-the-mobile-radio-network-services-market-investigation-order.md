@@ -18,10 +18,10 @@ entities:
   matched_alias: CMA
 case_numbers: []
 cluster_id: cluster-2026-11-23-6ed6ef5e9e
-cluster_size: 75
+cluster_size: 129
 cluster_role: sibling
 cluster_canonical_slug: google-s-general-search-services-proposed-user-choice-conduct-requirem
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Reviewing the Mobile Radio Network Services Market Investigation Order 2023

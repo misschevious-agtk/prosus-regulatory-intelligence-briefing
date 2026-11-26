@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: DOJ
 case_numbers: []
-cluster_id: cluster-2026-11-24-7a79eba2b8
-cluster_size: 3
+cluster_id: cluster-2026-11-19-cd4ed8ab4a
+cluster_size: 281
 cluster_role: sibling
-cluster_canonical_slug: biglaw-kicks-off-thanksgiving-week-with-raises-see-also
-ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_canonical_slug: openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-rel
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Biglaw Kicks Off Thanksgiving Week With Raises — See Also

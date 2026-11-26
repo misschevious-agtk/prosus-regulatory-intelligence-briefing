@@ -16,10 +16,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-20-d2c45eb161
-cluster_size: 6
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: summary-judgment-without-claim-construction
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Summary Judgment Without Claim Construction

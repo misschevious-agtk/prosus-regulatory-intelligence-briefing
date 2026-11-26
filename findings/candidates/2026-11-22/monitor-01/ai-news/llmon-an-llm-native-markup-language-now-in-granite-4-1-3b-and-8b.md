@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-19-cd4ed8ab4a
-cluster_size: 274
+cluster_size: 281
 cluster_role: sibling
 cluster_canonical_slug: openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-rel
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B

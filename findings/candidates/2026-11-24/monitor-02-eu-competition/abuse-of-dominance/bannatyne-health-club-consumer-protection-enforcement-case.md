@@ -17,11 +17,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-18-7e330ac8fb
-cluster_size: 281
+cluster_id: cluster-2026-11-19-ff62b3390b
+cluster_size: 250
 cluster_role: sibling
-cluster_canonical_slug: mari-atg-entertainment-merger-inquiry
-ranked_at: '2026-11-25T17:51:14+00:00'
+cluster_canonical_slug: strategic-review-of-cma-markets-remedies
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # Bannatyne Health Club: consumer protection enforcement case

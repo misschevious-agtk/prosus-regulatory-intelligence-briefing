@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-21-89add2a1b1
 cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: doj-demand-to-hide-misconduct-inside-special-master-fails-to-impress-j
-ranked_at: '2026-11-25T17:51:14+00:00'
+ranked_at: '2026-11-26T17:35:45+00:00'
 ---
 
 # DOJ Demand To Hide Misconduct Inside Special Master Fails To Impress Judge

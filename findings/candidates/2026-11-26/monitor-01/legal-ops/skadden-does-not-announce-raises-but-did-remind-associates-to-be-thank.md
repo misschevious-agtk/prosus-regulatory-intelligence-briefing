@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-26-3e0ac996db
-cluster_size: 4
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: fresh-news-about-associate-raises
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Skadden Does NOT Announce Raises, But Did Remind Associates To Be Thankful For Firm’s AI Investments!

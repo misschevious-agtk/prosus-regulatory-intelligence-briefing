@@ -17,11 +17,10 @@ entities:
   jurisdiction: EU
   matched_alias: CJEU
 case_numbers: []
-cluster_id: cluster-2026-11-19-3f464d3819
-cluster_size: 7
-cluster_role: sibling
-cluster_canonical_slug: cjeu-follows-ag-opinion-and-rules-that-the-authorization-under-article
-ranked_at: '2026-11-26T17:35:45+00:00'
+cluster_id: cluster-2026-11-20-8d66a34b2f
+cluster_size: 6
+cluster_role: canonical
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # CJEU follows AG Opinion and rules that the authorization under Article 17(1) of the DSM Directive also covers acts of reproduction

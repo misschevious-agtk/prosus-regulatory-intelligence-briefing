@@ -15,9 +15,9 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-25-21cf1ab37f
-cluster_size: 5
+cluster_size: 7
 cluster_role: canonical
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Alaska Tries A Biglaw Partner For Attorney General After The Trump Pick Flamed Out — See Also

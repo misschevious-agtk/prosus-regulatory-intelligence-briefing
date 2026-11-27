@@ -18,10 +18,10 @@ entities:
   matched_alias: European Commission
 case_numbers: []
 cluster_id: cluster-2026-11-26-53c24750a9
-cluster_size: 2
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: temu-commits-to-complying-with-eu-consumer-protection-rules-following-
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Temu commits to complying with EU consumer protection rules following action by national authorities

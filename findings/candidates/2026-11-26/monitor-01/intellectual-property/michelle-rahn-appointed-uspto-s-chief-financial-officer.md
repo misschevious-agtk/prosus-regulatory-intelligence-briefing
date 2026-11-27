@@ -17,11 +17,11 @@ entities:
   jurisdiction: US
   matched_alias: USPTO
 case_numbers: []
-cluster_id: cluster-2026-11-19-04c93b40ab
+cluster_id: cluster-2026-11-20-71551558e0
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: michelle-rahn-appointed-uspto-s-chief-financial-officer
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Michelle Rahn appointed USPTO's Chief Financial Officer

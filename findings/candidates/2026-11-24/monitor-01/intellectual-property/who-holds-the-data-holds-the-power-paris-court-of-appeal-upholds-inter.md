@@ -16,11 +16,11 @@ match_count: 4
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-05f65db22e
-cluster_size: 24
+cluster_id: cluster-2026-11-20-af52e914ea
+cluster_size: 21
 cluster_role: sibling
 cluster_canonical_slug: unfair-trading-conditions-meet-ai-search-the-turkish-competition-board
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Who holds the data holds the power: Paris Court of Appeal upholds interim measures forcing Meta to negotiate with press publishers

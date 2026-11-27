@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-5b63db3f80
+cluster_id: cluster-2026-11-20-af35d13dff
 cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: how-ai-is-changing-case-research-for-corporate-restructuring
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # How AI is Changing Case Research for Corporate Restructuring

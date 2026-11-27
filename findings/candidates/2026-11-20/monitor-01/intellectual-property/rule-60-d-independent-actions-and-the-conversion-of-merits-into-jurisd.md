@@ -15,11 +15,10 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-573f262b43
-cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: rule-60-d-independent-actions-and-the-conversion-of-merits-into-jurisd
-ranked_at: '2026-11-26T17:35:45+00:00'
+cluster_id: cluster-2026-11-20-1e0ac480bd
+cluster_size: 7
+cluster_role: canonical
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Rule 60(d) Independent Actions and the Conversion of Merits Into Jurisdiction

@@ -14,11 +14,11 @@ match_count: 2
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-923cd73799
-cluster_size: 4
+cluster_id: cluster-2026-11-20-5e1a2c0b85
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: at-least-one-lesson-in-claim-construction-from-australia
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # "At least one" lesson in claim construction from Australia

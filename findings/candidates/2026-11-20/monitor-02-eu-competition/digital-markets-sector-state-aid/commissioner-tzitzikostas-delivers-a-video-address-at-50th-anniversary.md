@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-20-8e82fcefd8
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commissioner-tzitzikostas-delivers-a-video-address-at-50th-anniversary
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Commissioner Tzitzikostas delivers a video address at 50th anniversary of the Hellenic Institute of Transportation Engineers

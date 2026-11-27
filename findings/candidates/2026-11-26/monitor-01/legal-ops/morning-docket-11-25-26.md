@@ -19,10 +19,10 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-11-23-dbbed85d97
-cluster_size: 8
+cluster_size: 9
 cluster_role: sibling
 cluster_canonical_slug: legal-ethics-roundup-doj-shuns-aba-ethics-rules-new-opinion-on-client-
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Morning Docket: 11.25.26

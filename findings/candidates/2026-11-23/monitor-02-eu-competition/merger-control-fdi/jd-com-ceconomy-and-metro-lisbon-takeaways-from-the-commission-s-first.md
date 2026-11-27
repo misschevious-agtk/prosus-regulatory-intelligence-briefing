@@ -19,11 +19,11 @@ entities:
   jurisdiction: EU
   matched_alias: European Commission
 case_numbers: []
-cluster_id: cluster-2026-11-19-0ac471597a
+cluster_id: cluster-2026-11-20-e0411f4727
 cluster_size: 20
 cluster_role: sibling
 cluster_canonical_slug: jd-com-ceconomy-and-metro-lisbon-takeaways-from-the-commission-s-first
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # JD.com/CECONOMY and Metro Lisbon: Takeaways From The Commission’s First Two FSR Decisions Concerning Chinese Companies

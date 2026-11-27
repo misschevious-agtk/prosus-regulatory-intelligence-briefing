@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-0fbe5de555
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: can-you-legally-ditch-work-and-family-chores-to-play-grand-theft-auto-
-ranked_at: '2026-11-26T17:35:45+00:00'
+cluster_id: cluster-2026-11-20-2942c615f3
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Can You Legally Ditch Work And Family Chores To Play ‘Grand Theft Auto VI’ In Peace?

@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-23-1dc7889b98
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: commission-opens-formal-investigation-into-possible-anticompetitive-co
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector

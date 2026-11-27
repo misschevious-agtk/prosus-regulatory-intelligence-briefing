@@ -18,11 +18,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-11-19-a511343bd1
-cluster_size: 65
+cluster_id: cluster-2026-11-20-fe49b38939
+cluster_size: 66
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # NEWSLETTER del 29 luglio 2026 - Marketing: il Garante sanziona Altroconsumo Edizioni per 280mila euro - AI Act, Garante: sì allo schema di decreto legislativo, ma con maggiori garanzie - AI Act, Garante: rafforzare le tutele per i dati biometrici - Data breach, il Garante sanziona la Città Metropolitana di Sassari

@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-24-c2a2f4d69d
-cluster_size: 3
+cluster_size: 4
 cluster_role: sibling
 cluster_canonical_slug: is-trump-ever-to-blame-should-you-trust-him-or-our-enemies
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Which Is It: Do We Need To ‘Protect Our Geniuses’ Or Keep China From Outpacing Us On AI At All Costs?

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-23-6392c7b2fc
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: elite-litigation-boutique-pays-bonuses-up-to-187-5k
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Elite Litigation Boutique Pays Bonuses Up To $187.5K

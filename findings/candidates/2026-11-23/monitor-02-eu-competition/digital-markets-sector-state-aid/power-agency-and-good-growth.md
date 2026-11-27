@@ -19,11 +19,11 @@ entities:
   jurisdiction: UK
   matched_alias: CMA
 case_numbers: []
-cluster_id: cluster-2026-11-19-faf067f7ac
-cluster_size: 15
+cluster_id: cluster-2026-11-20-5e9105765f
+cluster_size: 12
 cluster_role: sibling
 cluster_canonical_slug: power-agency-and-good-growth
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Power, agency and good growth

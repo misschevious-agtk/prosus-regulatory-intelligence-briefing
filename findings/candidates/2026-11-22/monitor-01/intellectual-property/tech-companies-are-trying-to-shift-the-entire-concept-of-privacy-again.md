@@ -22,7 +22,7 @@ cluster_id: cluster-2026-11-21-4008bc28c1
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: tech-companies-are-trying-to-shift-the-entire-concept-of-privacy-again
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Tech Companies Are Trying To Shift The Entire Concept Of Privacy (Again)

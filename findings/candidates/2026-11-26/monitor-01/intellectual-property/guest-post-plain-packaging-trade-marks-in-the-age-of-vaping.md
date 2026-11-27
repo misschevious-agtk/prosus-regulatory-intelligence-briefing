@@ -14,10 +14,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-25-6c905a4024
-cluster_size: 2
+cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: guest-post-plain-packaging-trade-marks-in-the-age-of-vaping
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # [Guest post] Plain packaging: trade marks in the age of vaping

@@ -20,7 +20,7 @@ case_numbers: []
 cluster_id: cluster-2026-11-21-89add2a1b1
 cluster_size: 4
 cluster_role: canonical
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # DOJ Demand To Hide Misconduct Inside Special Master Fails To Impress Judge

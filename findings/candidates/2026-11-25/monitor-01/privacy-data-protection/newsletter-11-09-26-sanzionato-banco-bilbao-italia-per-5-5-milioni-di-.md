@@ -17,11 +17,11 @@ entities:
   jurisdiction: IT
   matched_alias: Garante
 case_numbers: []
-cluster_id: cluster-2026-11-19-a511343bd1
-cluster_size: 65
+cluster_id: cluster-2026-11-20-fe49b38939
+cluster_size: 66
 cluster_role: sibling
 cluster_canonical_slug: newsletter-del-17-giugno-2026-passeggeri-a-mobilit-ridotta-il-garante-
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # NEWSLETTER 11/09/26 - Sanzionato Banco Bilbao Italia per 5,5 milioni di euro - Azienda sanitaria di Udine sanzionata per 24mila euro - Telecamere negli spogliatoi di una piscina, Garante sanziona ASIS Trento - Graduatorie sul web: no ai dati degli iscritti nelle liste dei centri per l’impiego - La Cassazione rafforza i poteri del Garante privacy

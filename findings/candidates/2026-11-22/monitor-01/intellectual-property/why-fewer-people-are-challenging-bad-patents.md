@@ -21,7 +21,7 @@ cluster_id: cluster-2026-11-20-f7e6081c71
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: why-fewer-people-are-challenging-bad-patents
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Why Fewer People Are Challenging Bad Patents

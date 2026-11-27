@@ -18,11 +18,11 @@ entities:
   jurisdiction: US
   matched_alias: OpenAI
 case_numbers: []
-cluster_id: cluster-2026-11-19-cd4ed8ab4a
-cluster_size: 281
+cluster_id: cluster-2026-11-20-39662ba7fe
+cluster_size: 17
 cluster_role: sibling
-cluster_canonical_slug: openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-rel
-ranked_at: '2026-11-26T17:35:45+00:00'
+cluster_canonical_slug: le-groupe-figaro-and-openai-partner-to-bring-le-figaro-journalism-to-c
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # LVMH’s Media Division announces strategic partnership with OpenAI

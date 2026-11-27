@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-34c6d7e4b5
+cluster_id: cluster-2026-11-20-a72c8af4f7
 cluster_size: 8
-cluster_role: sibling
-cluster_canonical_slug: on-lawnext-live-from-cliocon-jack-newton-on-clio-s-refounding-its-push
-ranked_at: '2026-11-26T17:35:45+00:00'
+cluster_role: canonical
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # On LawNext: Live from ClioCon, Jack Newton on Clio’s ‘Refounding,’ Its Push into the Courts, and Why Data Is the Only Durable Moat

@@ -15,10 +15,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-25-21cf1ab37f
-cluster_size: 5
+cluster_size: 7
 cluster_role: sibling
 cluster_canonical_slug: alaska-tries-a-biglaw-partner-for-attorney-general-after-the-trump-pic
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Alaska Tries A Biglaw Partner For Attorney General After The Trump Pick Flamed Out — See Also

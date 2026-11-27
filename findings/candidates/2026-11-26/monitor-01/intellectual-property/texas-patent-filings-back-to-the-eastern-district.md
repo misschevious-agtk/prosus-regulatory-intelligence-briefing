@@ -17,10 +17,10 @@ status: candidate
 entities: []
 case_numbers: []
 cluster_id: cluster-2026-11-20-f4a5c0aac2
-cluster_size: 7
+cluster_size: 8
 cluster_role: sibling
 cluster_canonical_slug: texas-patent-filings-back-to-the-eastern-district
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Texas Patent Filings: Back to the Eastern District

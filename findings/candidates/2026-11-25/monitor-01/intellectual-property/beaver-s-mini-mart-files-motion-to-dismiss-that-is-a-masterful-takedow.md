@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-24-5c87a1f60e
 cluster_size: 2
 cluster_role: sibling
 cluster_canonical_slug: beaver-s-mini-mart-files-motion-to-dismiss-that-is-a-masterful-takedow
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Beaver’s Mini Mart Files Motion To Dismiss That Is A Masterful Takedown Of Buc-ee’s Bullshit

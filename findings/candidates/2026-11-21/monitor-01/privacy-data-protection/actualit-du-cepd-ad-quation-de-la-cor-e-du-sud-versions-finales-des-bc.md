@@ -15,11 +15,11 @@ match_count: 3
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-6c9075fe67
-cluster_size: 18
+cluster_id: cluster-2026-11-20-c3ceb6e76e
+cluster_size: 14
 cluster_role: sibling
 cluster_canonical_slug: actualit-du-cepd-ad-quation-de-la-cor-e-du-sud-versions-finales-des-bc
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA

@@ -20,9 +20,9 @@ entities:
   matched_alias: DOJ
 case_numbers: []
 cluster_id: cluster-2026-11-23-dbbed85d97
-cluster_size: 8
+cluster_size: 9
 cluster_role: canonical
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Legal Ethics Roundup: DOJ Shuns ABA Ethics Rules, New Opinion On Client Fraud, Katie Zacharia Bar Probe, SCOTUS Reform, Multijurisdictional Practice, Judicial Disclosures, AI Ethics Tracker & More

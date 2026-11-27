@@ -17,11 +17,11 @@ entities:
   jurisdiction: FR
   matched_alias: CNIL
 case_numbers: []
-cluster_id: cluster-2026-11-19-3bd2cea4ca
+cluster_id: cluster-2026-11-20-f4225018d0
 cluster_size: 37
 cluster_role: sibling
 cluster_canonical_slug: la-cnil-a-prononc-38-nouvelles-sanctions-en-proc-dure-simplifi-e-depui
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle

@@ -20,11 +20,11 @@ entities:
   jurisdiction: US
   matched_alias: Google
 case_numbers: []
-cluster_id: cluster-2026-11-19-ab26ce1d4d
-cluster_size: 6
+cluster_id: cluster-2026-11-20-c3927a9c59
+cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: 18-years-of-federal-circuit-mandamus-the-rise-and-fall-of-the-texas-ve
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # 18 Years of Federal Circuit Mandamus: The Rise and Fall of the Texas Venue Surge

@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-20-d9a1f01ae4
 cluster_size: 5
 cluster_role: sibling
 cluster_canonical_slug: building-legal-ai-for-public-service-across-borders
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Building Legal AI for Public Service Across Borders

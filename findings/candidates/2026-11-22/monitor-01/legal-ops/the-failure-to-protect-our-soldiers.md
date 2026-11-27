@@ -17,7 +17,7 @@ cluster_id: cluster-2026-11-21-ab11f616a8
 cluster_size: 3
 cluster_role: sibling
 cluster_canonical_slug: the-failure-to-protect-our-soldiers
-ranked_at: '2026-11-26T17:35:45+00:00'
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # The Failure To Protect Our Soldiers

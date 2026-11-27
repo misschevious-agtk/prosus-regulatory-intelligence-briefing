@@ -13,11 +13,11 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-cd4ed8ab4a
-cluster_size: 281
+cluster_id: cluster-2026-11-20-b058eb3559
+cluster_size: 8
 cluster_role: sibling
-cluster_canonical_slug: openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-rel
-ranked_at: '2026-11-26T17:35:45+00:00'
+cluster_canonical_slug: study-finds-chatgpt-tracking-tag-in-298-federal-court-cases-and-133-se
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Study Finds ChatGPT Tracking Tag in 298 Federal Court Cases and 133 SEC Filings

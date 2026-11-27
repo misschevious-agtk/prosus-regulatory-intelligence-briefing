@@ -13,11 +13,10 @@ match_count: 1
 status: candidate
 entities: []
 case_numbers: []
-cluster_id: cluster-2026-11-19-31086fbd3b
-cluster_size: 2
-cluster_role: sibling
-cluster_canonical_slug: where-lawyers-got-the-word-boilerplate
-ranked_at: '2026-11-26T17:35:45+00:00'
+cluster_id: cluster-2026-11-20-8e44a79388
+cluster_size: 1
+cluster_role: canonical
+ranked_at: '2026-11-27T17:16:03+00:00'
 ---
 
 # Where Lawyers Got The Word ‘Boilerplate’
